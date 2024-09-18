@@ -1,5 +1,6 @@
 */*.zip
-*/TK/*
+#!*/TK/20022005/*
+#*/TK/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
