@@ -1,9 +1,12 @@
 import datetime as dt
 import multiprocessing as mp
+from datetime import datetime
+
 import dictionary
 import HCulturefuncs
 import csv
 import sys
+
 from multiprocessing import Pool
 
 
@@ -17,13 +20,13 @@ houtpath = "./Pout"
 savefilename = 'Hculture20022005.txt'
 
 
-def runFile(fileName, q):
+def runFile(fileName, q, taskn=1):
     for iword in dictionary.data:
         fileWordFind = HCulturefuncs.findword(fileName, iword)
         if fileWordFind is not None:
             fileWordFind.insert(0, iword)
             line = ",".join(str(x) for x in fileWordFind)
-            print(f'\n', line)
+            print(f'\n', datetime.now(),taskn, line)
             q.put(line)
     return
 
@@ -53,8 +56,10 @@ if __name__ == '__main__':
     watcher = pool.apply_async(listener, (q,))
 
     jobs = []
+    taskn =0
     for i in range(len(sflist)):
-        job = pool.apply_async(runFile, (sflist[i], q))
+        taskn+=1
+        job = pool.apply_async(runFile, (sflist[i], q, taskn))
         jobs.append(job)
 
     for job in jobs:

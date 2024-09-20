@@ -32,3 +32,11 @@ nltk.download('punkt')
 
 ```
 
+
+```
+scps -i nlptk_instance.pem ec2-user@ec2-54-175-93-68.compute-1.amazonaws.com:/remote/path/to/file /local/path/to/file
+scp -i nlptk_instance.pem ec2-user@ec2-54-175-93-68.compute-1.amazonaws.com:/home/ec2-user/ranw_custom/readme.md ./readme.md
+
+
+ssh -i nlptk_instance.pem ec2-user@ec2-54-175-93-68.compute-1.amazonaws.com
+```
