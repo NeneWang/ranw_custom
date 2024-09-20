@@ -1,0 +1,4076 @@
+<Header>
+<FileStats>
+    <FileName>20211029_10-K_edgar_data_1415744_0001654954-21-011514.txt</FileName>
+    <GrossFileSize>2133462</GrossFileSize>
+    <NetFileSize>103778</NetFileSize>
+    <NonText_DocumentType_Chars>135001</NonText_DocumentType_Chars>
+    <HTML_Chars>755098</HTML_Chars>
+    <XBRL_Chars>577038</XBRL_Chars>
+    <XML_Chars>501147</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001654954-21-011514.hdr.sgml : 20211029
+<ACCEPTANCE-DATETIME>20211029145900
+ACCESSION NUMBER:		0001654954-21-011514
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		48
+CONFORMED PERIOD OF REPORT:	20210731
+FILED AS OF DATE:		20211029
+DATE AS OF CHANGE:		20211029
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTHERN MINERALS & EXPLORATION LTD.
+		CENTRAL INDEX KEY:			0001415744
+		STANDARD INDUSTRIAL CLASSIFICATION:	GOLD & SILVER ORES [1040]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-146934
+		FILM NUMBER:		211362676
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1301 AVENUE M
+		CITY:			CISCO
+		STATE:			TX
+		ZIP:			76437
+		BUSINESS PHONE:		254-442-2627
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 31
+		CITY:			CISCO
+		STATE:			TX
+		ZIP:			76437
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Punchline Resources Ltd.
+		DATE OF NAME CHANGE:	20120910
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Punchline Entertainment, Inc.
+		DATE OF NAME CHANGE:	20071019
+
+</SEC-Header>
+</Header>
+
+ 0001654954-21-011514.txt : 20211029
+
+10-K
+ 1
+ nmex_10k.htm
+ FORM 10-K
+
+nmex_10k 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D. C. 20549 
+
+Form 10-K 
+
+(Mark One) 
+
+ANNUAL REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934 
+
+For the fiscal year ended July
+31, 2021 
+
+Commission File Number 333-146934 
+
+NORTHERN MINERALS EXPLORATION LTD. 
+
+(Exact name of registrant as specified in its charter) 
+
+Nevada 
+
+98-0557171 
+
+(State or other jurisdiction ofincorporation or
+organization) 
+
+(IRS EmployerIdentification No.) 
+
+881 West State Road, Pleasant Grove, UT 
+
+84062 
+
+(Address of principal executive offices) 
+
+(Zip Code) 
+
+(801) 885-9260 
+
+(Registrant s telephone number, including area
+code) 
+
+1889 FM 2088, Quitman, Texas 75783 
+
+(Former name, former address and former fiscal year, if changed
+since last report) 
+
+Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file
+such reports), and (2) has been subject to such filing requirements
+for the past 90 days. 
+
+YES 
+ NO 
+
+Indicate by check mark whether the registrant has submitted
+electronically and posted on its corporate Web site, if any, every
+Interactive Data File required to be submitted and posted pursuant
+to Rule 405 of Regulation S-T 232.405 of this chapter)
+during the preceding 12 months (or for such shorter period that the
+registrant was required to submit and post such
+files). 
+
+YES 
+ NO 
+
+Indicate by check mark whether the registrant is a large
+accelerated filer, an accelerated filer, a non-accelerated filer, a
+smaller reporting company, or an emerging growth company. See the
+definitions of large accelerated filer, 
+ accelerated filer, smaller reporting
+company and emerging growth company in Rule
+12b-2 of the Exchange Act. 
+
+Large
+accelerated filer [ ] 
+
+Non-accelerated
+filer [X] 
+
+Emerging
+growth company [ ] 
+
+Accelerated
+filer [ ] 
+
+Smaller
+reporting company [X] 
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.
+
+Indicate by check mark whether the registrant is a shell company
+(as defined in Rule 12b-2 of the Exchange Act 
+
+YES NO 
+
+State
+the aggregate market value of the voting and non-voting common
+equity held by non-affiliates: 1,585,261 based on 26,421,012
+non affiliate shares outstanding at 0.06 per share, which is the
+average closing price of the common shares as of the last business
+day of the registrant s most recently completed second fiscal
+quarter. 
+
+Indicate the number of shares outstanding of each of the
+issuer s classes of common stock, as of the latest
+practicable date. As of October 25, 2021 , the issuer
+had 81,052.338 common
+shares issued and outstanding. 
+
+NORTHERN MINERALS EXPLORATION LTD. 
+
+FORM 10-K 
+
+For the Year ended July 31, 2021 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item
+1. 
+
+Business 
+
+2 
+
+Item
+1A. 
+
+Risk
+Factors 
+
+5 
+
+Item
+1B. 
+
+Unresolved Staff
+Comments 
+
+5 
+
+Item
+2. 
+
+Property 
+
+5 
+
+Item
+3. 
+
+Legal
+Proceedings 
+
+5 
+
+Item
+4. 
+
+Mine Safety
+Disclosures 
+
+5 
+
+PART II 
+
+Item
+5. 
+
+Market for
+Registrant s Common Equity, Related Stockholder Matters and
+Issuer Purchases of Equity Securities 
+
+5 
+
+Item
+6. 
+
+Selected Financial
+Data 
+
+6 
+
+Item
+7. 
+
+Management s
+Discussion and Analysis of Financial Condition and Results of
+Operation 
+
+6 
+
+Item
+7A. 
+
+Quantitative and
+Qualitative Disclosure About Market Risk 
+
+8 
+
+Item
+8. 
+
+Financial
+Statements and Supplementary Data 
+
+F-1 
+
+Item
+9. 
+
+Changes in and
+Disagreements with Accountants on Accounting and Financial
+Disclosure 
+
+9 
+
+Item
+9A. 
+
+Controls and
+Procedures 
+
+9 
+
+Item
+9B. 
+
+Other
+Information 
+
+10 
+
+PART III 
+
+Item
+10. 
+
+Directors,
+Executive Officers and Corporate Governance 
+
+10 
+
+Item
+11. 
+
+Executive
+Compensation 
+
+12 
+
+Item
+12. 
+
+Security Ownership
+of Certain Beneficial Owners and Management and Related Stockholder
+Matters 
+
+13 
+
+Item
+13. 
+
+Certain
+Relationships and Related Transactions, and Director
+Independence 
+
+13 
+
+Item
+14. 
+
+Principal
+Accountant Fees and Services 
+
+14 
+
+Item
+15. 
+
+Exhibits, and
+Financial Statement Schedules 
+
+15 
+
+Item
+16 
+
+Form
+10-K Summary 
+
+N/A 
+
+Signatures 
+
+16 
+
+PART I 
+
+ITEM 1. D ESCRIPTION OF
+BUSINESS 
+
+Forward-Looking Statements 
+
+Certain
+statements, other than purely historical information, including
+estimates, projections, statements relating to our business plans,
+objectives, and expected operating results, and the assumptions
+upon which those statements are based, are forward-looking
+statements. These forward-looking statements generally are
+identified by the words believes, 
+ project, expects, 
+ anticipates, estimates, 
+ intends, strategy, plan, 
+ may, will, would, 
+ will be, will continue, will
+likely result, and similar expressions. Forward-looking
+statements are based on current expectations and assumptions that
+are subject to risks and uncertainties which may cause actual
+results to differ materially from the forward-looking statements.
+Our ability to predict results or the actual effect of future plans
+or strategies is inherently uncertain. Factors which could have a
+material adverse effect on our operations and future prospects
+include, but are not limited to: changes in economic conditions,
+legislative/regulatory changes, availability of capital, interest
+rates, competition, and generally accepted accounting principles.
+These risks and uncertainties should also be considered in
+evaluating forward-looking statements and undue reliance should not
+be placed on such statements. 
+
+Our Corporate History and Background 
+
+We were incorporated on December 11, 2006 under the laws of the
+State of Nevada. 
+
+We were originally a company involved in the placing of strength
+testing amusement gaming machines called Boxers in venues such as
+bars, pubs and nightclubs in the Seattle area, in the State of
+Washington. We acquired one Boxer that had been placed in Lynnwood,
+Washington. However, the machine was de-commissioned as it needed
+material repairs. We were not able to secure sufficient capital for
+these repairs and our management decided to change our business
+focus to oil and gas and mineral exploration. On July 12,
+2013, the stockholders approved an amendment to change the name of
+the Company from Punchline Resources Ltd. to Northern Mineral 
+Exploration Ltd. FINRA approved the name change on August 13,
+2013. 
+
+Northern
+Minerals Exploration Ltd. (the Company is an
+emerging natural resource company operating in oil and gas
+production in central Texas and exploration for gold and silver in
+northern Nevada. 
+
+On
+November 22, 2017, the Company created a wholly owned subsidiary,
+Kathis Energy LLC Kathis ), a duly formed Limited
+Liability Company formed in the State of Texas, for the purpose of
+conducting oil and gas drilling programs in Texas. 
+
+On
+December 14, 2017, Kathis Energy, LLC and other Limited Partners,
+created Kathis Energy Fund 1, LP, a duly formed Limited Partnership
+formed in the State of Texas, created for the purpose of raising
+funds from investors for its drilling projects. There was no
+activity with Kathis Energy, LLC during 2021 fiscal
+year. 
+
+On May
+7, 2018, the Company created a wholly owned subsidiary, ENMEX
+Operations LLC ENMEX ), a duly formed Limited
+Liability Company in the State of Quintana Roo, Mexico for the
+purpose of conducting business in Mexico in prospective real estate
+development projects. There has been no activity from inception to
+date. 
+
+Current Business 
+
+Refer to NOTE 4 and NOTE 5 for property information. 
+
+Oil Gas Sector 
+
+Competition 
+
+The petroleum industry is highly competitive. Many of the oil and
+gas exploration companies with whom we compete have greater
+financial and technical resources than we do. Accordingly, these
+competitors may be able to spend greater amounts on acquisitions of
+properties of merit and on exploration. In addition, they may be
+able to afford greater geological expertise in the targeting and
+exploration of resource properties. This competition could result
+in our competitors having resource properties of greater quality
+and interest to prospective investors who may finance additional
+exploration, and to senior exploration companies that may purchase
+resource properties or enter into joint venture agreements with
+junior exploration companies. This competition could adversely
+impact our ability to finance property acquisitions and further
+exploration. 
+
+2 
+
+We compete with other exploration and early stage operating
+companies for financing from a limited number of investors prepared
+to make investments in junior companies exploring for conventional
+and unconventional oil and gas resources. The presence of competing
+oil and gas exploration companies, both major and independent, may
+impact our ability to raise additional capital in order to fund our
+exploration programs if investors are of the view that investments
+in competitors are more attractive based on the merit of the
+properties under investigation, and the price of the investment
+offered to investors. 
+
+Governmental Regulation 
+
+Our business is affected by numerous laws and regulations,
+including energy, environmental, conservation, tax and other laws
+and regulations relating to the oil and natural gas industry. We
+have developed internal procedures and policies to ensure that our
+operations are conducted in full and substantial environmental
+regulatory compliance. 
+
+Failure to comply with any laws and regulations may result in the
+assessment of administrative, civil and/or criminal penalties, the
+imposition of injunctive relief or both. Moreover, changes in any
+of these laws and regulations could have a material adverse effect
+on business. In view of the many uncertainties with respect to
+current and future laws and regulations, including their
+applicability to us, we cannot predict the overall effect of such
+laws and regulations on our future operations. 
+
+We believe that our operations comply in all material respects with
+applicable laws and regulations and that the existence and
+enforcement of such laws and regulations have no more restrictive
+an effect on our operations than on other similar companies in the
+oil and natural gas industry. 
+
+Pricing and Marketing of Natural Gas 
+
+In the US, historically, the sale of natural gas in interstate
+commerce has been regulated pursuant to the Natural Gas Act of
+1938, or the NGA, the Natural Gas Policy Act of 1978, or the NGPA,
+and regulations promulgated thereunder by the Federal Energy
+Regulatory Commission, or the FERC. In 1989, Congress enacted the
+Natural Gas Wellhead Decontrol Act, or the Decontrol Act. The
+Decontrol Act removed all NGA and NGPA price and non-price controls
+affecting wellhead sales of natural gas effective January 1, 1993
+and sales by producers of natural gas are uncontrolled and can be
+made at market prices. The natural gas industry historically has
+been heavily regulated and from time to time proposals are
+introduced by Congress and the FERC and judicial decisions are
+rendered that impact the conduct of business in the natural gas
+industry. We cannot assure you that the less stringent regulatory
+approach recently pursued by the FERC and Congress will
+continue. 
+
+Pricing and Marketing of Oil 
+
+In the US, sales of crude oil, condensate and natural gas liquids
+are not regulated and are made at negotiated prices. Effective
+January 1, 1995, the FERC implemented regulations establishing an
+indexing system for transportation rates for oil that allowed for
+an increase in the cost of transporting oil to the
+purchaser. 
+
+Environmental 
+
+Like the oil and natural gas industry in general, our properties
+are subject to extensive and changing federal, state and local laws
+and regulations designed to protect and preserve natural resources
+and the environment. The recent trend in environmental legislation
+and regulation in the oil and natural gas industry is generally
+toward stricter standards, and this trend is likely to continue.
+These laws and regulations often require a permit or other
+authorization before construction or drilling commences and for
+certain other activities; limit or prohibit access, especially in
+wilderness areas with endangered or threatened plant or animal
+species; impose restrictions on construction, drilling and other
+exploration and production activities; regulate air emissions,
+wastewater and other production and waste streams from our
+operations; impose substantial liabilities for pollution that may
+result from our operations; and require the reclamation of certain
+lands. 
+
+The permits required for many of our operations are subject to
+revocation, modification and renewal by issuing authorities.
+Governmental authorities have the power to enforce compliance with
+their regulations, and violations are subject to fines, compliance
+orders, and other enforcement actions. We are not aware of any
+material noncompliance with current applicable environmental laws
+and regulations, and we have no material commitments for capital
+expenditures to comply with existing environmental requirements,
+however, given the complex regulatory requirements applicable to
+our operations, and the rapidly changing nature of environmental
+laws in our industry, we cannot predict our future exposure
+concerning such matters, and our future costs to achieve
+compliance, or remedy potential violations, could be significant.
+Our operations require permits and are regulated under
+environmental laws, and current or future noncompliance with such
+laws, as well as changes to existing laws or interpretations
+thereof, could have a significant impact on us, as well as the oil
+and natural gas industry in general. 
+
+3 
+
+Waste Disposal and Contamination Issues 
+
+The federal Comprehensive Environmental Response, Compensation and
+Liability Act and comparable state laws may impose strict and joint
+and several liability on owners and operators of contaminated sites
+and on persons who disposed of or arranged for the disposal of
+hazardous substances found at such sites. Under these and other
+laws, the government, neighboring landowners and other third
+parties may recover the costs of responding to soil and groundwater
+contamination and threatened releases of hazardous substances, and
+seek recovery for related natural resources damages, personal
+injury and property damage. Some of our properties have been used
+for exploration and production activities for a number of years by
+third parties, and such properties could result in unknown cleanup
+liabilities for us. 
+
+The federal Resource Conservation and Recovery Act (the "RCRA") and
+comparable state statutes govern the management, storage, treatment
+and disposal of solid waste and hazardous waste and authorize
+imposition of substantial fines and penalties for noncompliance.
+Although RCRA classifies certain oil field wastes as
+"non-hazardous" (for example, the waters produced from hydraulic
+fracturing operations), such wastes could be reclassified as
+hazardous wastes in the future, thereby making them subject to more
+stringent handling and disposal requirements which could have a
+material impact on us. 
+
+Water Regulation 
+
+The federal Clean Water Act (the "CWA"), the federal Safe Drinking
+Water Act (the "SWDA") and analogous state laws restrict the
+discharge of wastewater and other pollutants into surface waters or
+underground wells and the construction of facilities in wetland
+areas without a permit. Federal regulations also require certain
+owners or operators of facilities that store or otherwise handle
+oil, such as us, to prepare and implement spill prevention, control
+countermeasure and response plans relating to the possible
+discharge of oil into surface waters. In addition, the Oil
+Pollution Act (the "OPA") contains numerous requirements relating
+to the prevention of and response to oil spills into waters of the
+United States. For onshore and offshore facilities that may affect
+waters of the United States, the OPA requires an operator to
+demonstrate financial responsibility. Regulations are currently
+being developed or considered under federal and state laws
+concerning oil pollution prevention and other matters that may
+impose additional regulatory burdens on us. 
+
+These and similar state laws also govern the management and
+disposal of produced waters from the extraction process. Currently,
+wastewater associated with oil and natural gas production is
+prohibited from being directly discharged to waterways and other
+waters of the U.S. While some of the wastewater is reused or
+re-injected, a significant amount still requires proper disposal.
+As a result, some wastewater is transported to third-party
+treatment plants. In October 2011, citing concerns that third-party
+treatment plants may not be properly equipped to handle wastewater
+from shale gas operations, the United States Environmental
+Protection Agency (the "EPA") announced that it will consider
+federal pre-treatment standards for these wastewaters. We cannot
+predict the EPA's future actions in this regard, but future
+regulation of our produced waters or other waste streams could have
+a material impact on us. 
+
+Air Emissions and Climate Change 
+
+The federal Clean Air Act ("CAA") imposes permit requirements and
+operational restrictions on certain sources of emissions used in
+our operations. In July 2011, the EPA published proposed New Source
+Performance Standards ("NSPS") and National Emissions Standards for
+Hazardous Air Pollutants ("NESHAPs") that would, if adopted, amend
+existing NSPS and NESHAP standards for oil and natural gas
+facilities and create new NSPS standards for oil and natural gas
+production, transmission and distribution facilities. Importantly,
+these standards would include standards for hydraulically fractured
+wells. The standards would apply to newly drilled and fractured
+wells as well as existing wells that are refractured. A court has
+directed the EPA to issue final rules by April 1, 2012. In a report
+issued in late 2011, the Shale Gas Production Subcommittee of the
+Department of Energy (the "DOE Shale Gas Subcommittee") called on
+the EPA to complete the rulemaking quickly and recommended
+expanding the shale gas emission sources to be covered by the new
+rules. The DOE Shale Gas Subcommittee also encouraged states to
+take similar action, and included several other recommendations for
+studying and reducing air emissions from shale gas production
+activities. Because the EPA's regulations have not yet been
+finalized, we cannot at this time predict the impact they may have
+on our financial condition or results of operation. 
+
+4 
+
+The issue of climate change has received increasing regulatory
+attention in recent years. The EPA has issued regulations governing
+carbon dioxide, methane and other greenhouse gas ("GHG") emissions
+citing its authority under the CAA Several of these regulations
+have been challenged in litigation that is currently pending before
+the federal D.C. Circuit Court of Appeals. In December 2011, the
+EPA issued amendments to a final rule issued in 2010 requiring
+reporting of GHG emissions from the oil and natural gas industry.
+Under this rule, we are obligated to report to the EPA certain GHG
+emissions from our operations. We do not expect that the costs of
+this new reporting will be material to us. In a late 2011 report,
+the DOE Shale Gas Subcommittee recommended that the EPA expand
+reporting requirements for GHG emissions from shale gas emission
+sources and include methane in reporting requirements. More
+generally, several proposals to regulate GHG emissions have been
+proposed in the U.S. Congress, and various states have taken steps
+to regulate GHG emissions. The adoption and implementation of
+regulations or legislation imposing restrictions or other
+regulatory obligations on emissions of GHGs from oil and natural
+gas operations could require us to obtain permits or allowances for
+our GHG emissions, install new pollution controls, increase our
+operational costs, limit our operations or adversely affect demand
+for the oil and natural gas produced from our lands. 
+
+Research and Development Expenditures 
+
+We have not incurred any research and development expenditures over
+the past two fiscal years. 
+
+Employees 
+
+As of July 31, 2021, we do not
+have any employees. Our three officers, Ivan Webb, Noel Schaefer
+and Rachel Boulds act as consultants. 
+
+We engage contractors from time to time to consult with us on
+specific corporate affairs or to perform specific tasks in
+connection with our exploration programs. 
+
+ITEM 1A. R ISK FACTORS 
+
+We are a smaller reporting company as defined by Rule 12b-2 of the
+Securities Exchange Act of 1934 and, as such, are not required to
+provide the information under this Item. 
+
+Item 1B. U NRESOLVED STAFF
+COMMENTS 
+
+None. 
+
+ITEM 2. P ROPERTIES 
+
+Our principal executive offices are located at 881 West State Road,
+Pleasant Grove, UT. 
+
+ITEM 3. LEGAL P ROCEEDINGS 
+
+We know of no material, existing or pending legal proceedings
+against us, nor are we involved as a plaintiff in any material
+proceeding or pending litigation. There are no proceedings in which
+any of our directors, officers or affiliates, or any registered or
+beneficial shareholder, is an adverse party or has a material
+interest adverse to our company. 
+
+ITEM 4. MINE SAFETY D ISCLOSURES 
+
+Not applicable. 
+
+P ART II 
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, R ELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF
+EQUITY SECURITIES 
+
+Market Information 
+
+Our
+common stock is quoted under the symbol NMEX on the
+OTCPINK operated by the Financial Industry Regulatory Authority,
+Inc. FINRA and the OTCQB operated by OTC Markets
+Group, Inc. Few market makers continue to participate in the
+OTCBB system because of high fees charged by FINRA. The
+criteria for listing on either the OTCBB or OTCQB are similar and
+include that we remain current in our SEC reporting. 
+
+5 
+
+Our
+shares are subject to Section 15(g) and Rule 15g-9 of the
+Securities and Exchange Act, commonly referred to as the
+ penny stock rule. The rule defines penny stock
+to be any equity security that has a market price less than 5.00
+per share, subject to certain exceptions. These rules may restrict
+the ability of broker-dealers to trade or maintain a market in our
+common stock and may affect the ability of shareholders to sell
+their shares. Broker-dealers who sell penny stocks to persons
+other than established customers and accredited investors must make
+a special suitability determination for the purchase of the
+security. Accredited investors, in general, include individuals
+with assets in excess of 1,000,000 (not including their personal
+residence) or annual income exceeding 200,000 or 300,000 together
+with their spouse, and certain institutional investors. The rules
+require the broker-dealer to receive the purchaser s written
+consent to the transaction prior to the purchase and require the
+broker-dealer to deliver a risk disclosure document relating to the
+penny stock prior to the first transaction. A broker-dealer also
+must disclose the commissions payable to both the broker-dealer and
+the registered representative, and current quotations for the
+security. Finally, monthly statements must be sent to
+customers disclosing recent price information for the penny
+stocks. 
+
+On
+October 11, 2021 there were approximately 81 holders of record of
+our common stock, although there may be other persons who are
+beneficial owners of our common stock held in street name. The
+transfer agent and registrar for our common stock is Issuer Direct
+Corporation, 1981 Murray Holiday Road, #100, Salt Lake City, UT
+84117. 
+
+Dividend Policy 
+
+We have
+never paid any cash dividends and intend, for the foreseeable
+future, to retain any future earnings for the development of our
+business. Our Board of Directors will determine our future dividend
+policy on the basis of various factors, including our results of
+operations, financial condition, capital requirements and
+investment opportunities. 
+
+RECENT ISSUANCES OF UNREGISTERED SECURITIES 
+
+During the year ended July 31, 2021, the Company sold 2,667,200
+shares of common stock at 0.03 per share for total cash
+proceeds of 50,000. 
+
+On July 31, 2021, the Company issued 250,000 shares of common stock
+in conversion of a 25,000 accounts payable. The shares were value
+at 0.04, the closing stock price on the date of grant. The Company
+recognized a 15,000 gain on the conversion. 
+
+During the year ended July 31, 2021, the Company sold 2,500,000
+shares of common stock to Mr. Miranda at 0.02 per share for total
+cash proceeds of 50,000. Mr. Miranda purchased an additional
+600,000 shares of common stock at 0.03 per shares for
+ 18,000. 
+
+Other
+than as disclosed above, we did not sell any equity securities
+which were not registered under the Securities Act during the year
+ended July 31, 2021 that were not otherwise disclosed on our
+quarterly reports on Form 10-Q or our current reports on Form 8-K
+filed during the year ended July 31, 2021. 
+
+ISSUER REPURCHASES OF EQUITY SECURITIES 
+
+None 
+
+ITEM 6. SELECTED F INANCIAL
+DATA 
+
+We are
+a smaller reporting company as defined by Rule 12b-2 of the
+Securities Exchange Act of 1934 and are not required to provide the
+information under this item. 
+
+I TEM 7. MANAGEMENT S
+DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS 
+
+Results of Operations for the Years Ended July 31, 2021 and
+2020 
+
+Revenue 
+
+Revenues
+of oil and gas for the years ended July 31, 2021 and 2020 were 0
+and 2,949, respectively, a decrease of 2,949. Revenues are earned
+primarily from the J.E. Richey Lease from the sale of oil and gas
+and are recorded net of any distributions paid. The decrease in revenue
+is due to lower production as well as lower oil and gas
+prices. 
+
+6 
+
+Officer compensation 
+
+Officer
+compensation was 26,400 and 6,600 for the years ended July 31,
+2021 and 2020, respectively, an increase of 19,800. We began to
+incur monthly compensation expense for our new CFO in April 2020
+and no compensation has been accrued or paid to the CEO in the
+current period. 
+
+Consulting related party 
+
+Consulting
+ related party services were 60,000 and 60,000 for the
+years ended July 31, 2021 and 2020. Fees are paid to Noel Schaefer,
+Director, but are billed as consulting fees. 
+
+Consulting expense 
+
+Consulting fees were 8,000 and 12,700 for the years ended
+July 31, 2021 and 2020, respectively, a decrease of 4,700, or
+37 . When
+needed the Company hires experts in the mining, oil and gas
+industries to assist with its current projects. 
+
+Professional fees 
+
+Professional
+fees were 49,566 and 53,523 for the years ended July 31, 2021 and
+2020, respectively, a decrease of 3,957, or 7 . Professional fees
+generally consist of legal, audit and accounting expense.
+ The
+decrease can be attributed to a decrease in accounting fees that
+was offset with an increase in audit fees. 
+
+Mineral property expenditures 
+
+Mineral
+property expenditures were 1,000 and 35,669 for the years ended
+July 31, 2021 and 2020, respectively, a decrease of 34,669, or
+97 . Expenditures include lease payments for the working interest
+in the mineral properties and rework expense. The decrease in in the
+current period can be attributed to a decrease in expenditures
+while the Company pursues additional funding. 
+
+General and administrative 
+
+General
+and administrative expense was 32,944 and 22,384 for the years
+ended July 31, 2021 and 2020, respectively, an increase of
+ 10,560. 
+
+Other expense 
+
+During
+the year ended July 31, 2021 we had total other expense of 65,058
+compared to 152,910 in the prior year. During the current year we
+incurred interest expense of 93,017, which included a 72,631
+expense for the issuance of warrnates on a loan conversion , a loss
+on the impairment of oil rights of 28,800 and a loss on debt
+conversion of 6,857, which was offset with a gain on forgiveness
+of debt of 38,616, and other income of 25,000. During the prior
+year we incurred interest expense of 14,795, which was offset with
+a gain on forgiveness of debt of 167,705. 
+
+Net Loss 
+
+For the
+year ended July 31, 2021, we had a net loss of 242,968 as compared
+to a net loss of 35,017 for year ended July 31, 2020. Our net loss
+in the current year increased mainly due to the expense incurred
+for the issuance of warrants. 
+
+Liquidity and Financial Condition 
+
+Operating Activities 
+
+Cash
+used by operating activities was 168,873 for the year ended July
+31, 2021. Cash used for operating activities was 204,007 for the
+year ended July 31, 2020. 
+
+Investing Activities 
+
+We used
+ 0 for investing activities for the year ended July 31, 2021 and
+2020. 
+
+Financing Activities 
+
+Net cash provided by financing activities was 163,000 for 
+year ended July 31, 2021 compared to
+ 189,000for the year ended July 31, 2020. During the year ended July 31, 2021, we
+received 163,000 from the sale of common stock. During the year ended July 31, 2020, we
+received 100,000 from the sale of common stock and 89,000 from
+loan proceeds. 
+
+We had the following loans outstanding as of July 31,
+2021: 
+
+On
+October 20, 2017, the Company executed a convertible promissory
+note for 25,000 with a third party. The note accrues interest at
+6 , matures in two years and is convertible into shares of common
+stock at maturity, at a minimum of 0.10 per share, at the option
+of the holder. As of July 31, 2021 and 2020, there is 5,769 and
+ 4,257, respectively, of accrued interest due on this loan. This
+loan was converted to shares of common stock in September
+2021. 
+
+7 
+
+On
+April 16, 2017, the Company executed a promissory note for 15,000
+with a third party. The note matures in two years and interest is
+set at 3,000 for the full two years. As of July 31, 2021, there is
+ 15,000 and 4,875 of principal and accrued interest, respectively,
+due on this loan. As of July 30, 2020, there is 15,000 and 3,375
+of principal and accrued interest, respectively, due on this loan.
+This loan is currently in default. 
+
+On June
+11, 2020, a third party loaned the Company 14,000. On September 9,
+2020, the Company repaid 5,000 on this loan. On March 3, 2021, the
+party loaned another 5,000 to the Company. The loan is unsecured,
+non-interest bearing and due on demand. 
+
+As of
+April 30, 2021, the Company owed 5,000 to a third party. The loan
+is unsecured, non-interest bearing and due on demand. 
+
+During
+the year ended July 31 , 2020, a
+third party loaned the Company 15,000. The loan is unsecured,
+bears interest at 8 per annum and matures on September 1, 2021. As
+of July 31 , 2021, there is
+ 2,232 of interest accrued on this note. This loan was converted to
+shares of common stock in September 2021. 
+
+During
+the year ended July 31 , 2020, a
+third party loaned the Company 60,000. The loan is unsecured,
+bears interest at 8 per annum and matures on September 1, 2021. As
+of July 31 , 2021, there is
+ 8,745 of interest accrued on this note. 
+
+Off-Balance Sheet Arrangements 
+
+We have no off-balance sheet arrangements that have or are
+reasonably likely to have a current or future effect on our
+financial condition, changes in financial condition, revenues or
+expenses, results of operations, liquidity, capital expenditures or
+capital resources that is material to stockholders. 
+
+Critical Accounting Policies 
+
+Refer to Note 2 of our financial statements contained elsewhere in
+this Form 10-K for a summary of our critical accounting policies
+and recently adopting and issued accounting standards. 
+
+I TEM 7A. QUANTITATIVE AND
+QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Smaller reporting companies are not required to provide the
+information required by this Item. 
+
+8 
+
+I TEM 8. CONSOLIDATED FINANCIAL
+STATEMENTS AND SUPPLEMENTARY DATA 
+
+NORTHERN MINERALS EXPLORATION LTD. 
+
+CONSOLIDATED FINANCIAL STATEMENTS 
+
+Report of
+Independent Registered Public Accounting
+Firm 
+
+F-2 
+
+Consolidated
+Balance Sheets as of July 31, 2021 and 2020 
+
+F-3 
+
+Consolidated
+Statements of Operations for the Years ended July 31, 2021 and
+2020 
+
+F-4 
+
+Consolidated
+Statement of Changes in Stockholders Equity (Deficit) for
+the Years ended July 31, 2021 and 2020 
+
+F-5 
+
+Consolidated
+Statements of Cash Flows for the Years ended July 31, 2021 and
+2020 
+
+F-6 
+
+Notes to
+Consolidated Financial Statements 
+
+F-7 
+
+F-1 
+
+R EPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+F-2 
+
+NORTHERN MINERALS EXPLORATION LTD. 
+
+CONSOLIDATED B ALANCE
+SHEETS 
+
+July
+31, 
+
+July
+31, 
+
+2021 
+
+2020 
+
+ASSETS 
+
+Current
+Assets: 
+
+Cash 
+
+967 
+
+6,840 
+
+Accounts
+receivable 
+
+- 
+
+1,146 
+
+Other
+receivable 
+
+- 
+
+10,000 
+
+Total Current
+Assets 
+
+967 
+
+17,986 
+
+Other
+Assets: 
+
+Oil and gas
+properties 
+
+- 
+
+28,800 
+
+Total Other
+Assets 
+
+967 
+
+28,800 
+
+TOTAL
+ASSETS 
+
+967 
+
+46,786 
+
+LIABILITIES 
+STOCKHOLDERS DEFICIT 
+
+Current
+Liabilities: 
+
+Accounts
+payable 
+
+56,936 
+
+89,037 
+
+Accounts payable
+ related party 
+
+34,700 
+
+29,700 
+
+Accrued
+liabilities 
+
+348,344 
+
+437,632 
+
+Convertible
+debt 
+
+25,000 
+
+110,000 
+
+Loans
+payable 
+
+109,000 
+
+109,000 
+
+Loans payable
+ related party 
+
+23,210 
+
+23,210 
+
+Total Current
+Liabilities 
+
+597,190 
+
+798,579 
+
+TOTAL
+LIABILITIES 
+
+597,190 
+
+798,579 
+
+Commitments and
+Contingencies 
+
+- 
+
+- 
+
+Stockholders 
+Deficit: 
+
+Preferred stock,
+ 0.001 par value, 50,000,000 shares authorized; no shares
+issued 
+
+- 
+
+- 
+
+Common stock,
+ 0.001 par value, 250,000,000 shares authorized; 77,818,338 shares
+issued, 72,818,338 shares outstanding as of July 31, 2021;
+63,078,479 shares issued and outstanding as of July 31,
+2020 
+
+72,819 
+
+63,079 
+
+Common stock to be
+issued 
+
+18,000 
+
+- 
+
+Additional
+paid-in-capital 
+
+2,555,016 
+
+2,184,218 
+
+Accumulated
+deficit 
+
+(3,242,058 
+
+(2,999,090 
+
+Total
+Stockholders Deficit 
+
+(596,223 
+
+(751,793 
+
+TOTAL LIABILITIES
+ STOCKHOLDERS DEFICIT 
+
+967 
+
+46,786 
+
+The accompanying notes are an integral part of these consolidated
+financial statements. 
+
+F-3 
+
+NORTHERN MINERALS EXPLORATION LTD. 
+
+CONSOLIDATED STATEMENTS OF O PERATIONS 
+
+For the Years
+EndedJuly 31, 
+
+2021 
+
+2020 
+
+Revenue 
+
+- 
+
+2,949 
+
+Operating
+expenses: 
+
+Officer
+compensation 
+
+26,400 
+
+6,600 
+
+Consulting
+ related party 
+
+60,000 
+
+60,000 
+
+Consulting 
+
+8,000 
+
+12,700 
+
+Professional
+fees 
+
+49,566 
+
+53,523 
+
+Mineral
+property expenditures 
+
+1,000 
+
+35,669 
+
+General
+and administrative expenses 
+
+32,944 
+
+22,384 
+
+Total operating
+expenses 
+
+177,910 
+
+190,876 
+
+Loss from
+operations 
+
+(177,910 
+
+(187,927 
+
+Other income
+(expense): 
+
+Interest
+expense 
+
+(93,017 
+
+(14,795 
+
+Other
+income 
+
+25,000 
+
+- 
+
+Gain
+on forgiveness of debt 
+
+38,616 
+
+- 
+
+Loss
+on impairment of oil rights 
+
+(28,800 
+
+- 
+
+Gain
+on the assignment of property interests 
+
+- 
+
+167,705 
+
+Loss
+on conversion of debt 
+
+(6,857 
+
+- 
+
+Total other
+(expense) income 
+
+(65,058 
+
+152,910 
+
+Loss before
+provision for income taxes 
+
+(242,968 
+
+(35,017 
+
+Provision for
+income taxes 
+
+- 
+
+- 
+
+Net
+Loss 
+
+(242,968 
+
+(35,017 
+
+Net loss per share
+from operations, basic and diluted 
+
+(0.00 
+
+(0.01 
+
+Weighted average
+number of common shares outstanding, basic and diluted 
+
+68,102,636 
+
+58,125,466 
+
+The accompanying notes are an integral part of these consolidated
+financial statements. 
+
+F-4 
+
+NORTHERN MINERALS EXPLORATION LTD. 
+
+CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS E QUITY (Deficit) 
+
+FOR THE YEARS ENDED JULY 31, 2021 AND 2020 
+
+Common 
+
+Common
+Stock 
+
+Additional
+Paid-in 
+
+Common Stock
+To 
+
+Accumulated 
+
+Stock 
+
+Amount 
+
+Capital 
+
+be
+Issued 
+
+Deficit 
+
+Total 
+
+Balance, July 31,
+2019 
+
+55,836,819 
+
+55,837 
+
+2,024,035 
+
+44,925 
+
+(2,964,073 
+
+(839,276 
+
+Common stock
+issued 
+
+1,075,000 
+
+1,075 
+
+43,850 
+
+(44,925 
+
+- 
+
+- 
+
+Common stock issued
+for cash related party 
+
+5,500,000 
+
+5,500 
+
+74,500 
+
+- 
+
+- 
+
+80,000 
+
+Common stock issued
+for cash 
+
+666,660 
+
+667 
+
+19,333 
+
+- 
+
+- 
+
+20,000 
+
+Forgiveness of
+related party debt 
+
+- 
+
+- 
+
+22,500 
+
+- 
+
+- 
+
+22,500 
+
+Net loss for the
+year ended July 31, 2020 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(35,017 
+
+(35,017 
+
+Balance, July 31,
+2020 
+
+63,078,479 
+
+63,079 
+
+2,184,218 
+
+- 
+
+(2,999,090 
+
+(751,793 
+
+Common stock issued
+for cash 
+
+2,667,200 
+
+2,667 
+
+77,333 
+
+- 
+
+- 
+
+80,000 
+
+Common stock issued
+for cash related party 
+
+3,000,000 
+
+3,000 
+
+62,000 
+
+18,000 
+
+- 
+
+83,000 
+
+Common stock issued
+for conversion of debt 
+
+4,072,659 
+
+4,073 
+
+231,465 
+
+- 
+
+- 
+
+235,538 
+
+Net loss for the
+year ended July 31, 2021 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(242,968 
+
+(242,968 
+
+Balance, July 31,
+2021 
+
+72,818,338 
+
+72,819 
+
+2,555,016 
+
+18,000 
+
+(3,242,058 
+
+(596,223 
+
+The accompanying notes are an integral part of these consolidated
+financial statements. 
+
+F-5 
+
+NORTHERN MINERALS EXPLORATION LTD. 
+
+CONSOLIDATED STATEMENTS OF C ASH
+FLOWS 
+
+For the Years
+Ended 
+
+ July
+31, 
+
+2021 
+
+2020 
+
+Cash Flows from
+Operating Activities: 
+
+Net
+loss 
+
+(242,968 
+
+(35,017 
+
+Adjustments to
+reconcile net loss to net cash used in Operating
+activities: 
+
+Gain
+on the assignment of property interests 
+
+- 
+
+(167,705 
+
+Gain on forgiveness
+of debt 
+
+(38,616 
+
+- 
+
+Loss on conversion
+of debt 
+
+6,857 
+
+- 
+
+Loss on disposal of
+oil rights 
+
+28,800 
+
+- 
+
+Cost of
+borrowing 
+
+72,631 
+
+- 
+
+Changes in
+Operating Assets and Liabilities: 
+
+Prepaid
+expenses 
+
+- 
+
+5,000 
+
+Accounts
+receivable 
+
+1,146 
+
+(1,146 
+
+Other
+receivable 
+
+10,000 
+
+- 
+
+Accounts payables
+and accrued liabilities 
+
+(39,345 
+
+(22,135 
+
+Accounts payable
+ related party 
+
+27,236 
+
+2,200 
+
+Accrued
+interest 
+
+12,244 
+
+14,796 
+
+Net cash used in
+operating activities 
+
+(168,873 
+
+(204,007 
+
+Cash Flows used in
+Investing Activities: 
+
+- 
+
+- 
+
+Cash Flows from
+Financing Activities: 
+
+Proceeds from loan
+payable 
+
+5,000 
+
+89,000 
+
+Repayment of loan
+payable 
+
+(5,000 
+
+- 
+
+Proceeds from the
+sale of common stock 
+
+163,000 
+
+100,000 
+
+Net cash provided
+by financing activities 
+
+163,000 
+
+189,000 
+
+Net decrease in
+cash 
+
+(5,873 
+
+(15,007 
+
+Cash at beginning
+of the year 
+
+6,840 
+
+21,847 
+
+Cash at end of the
+year 
+
+967 
+
+6,840 
+
+Cash paid during
+the period for: 
+
+Interest 
+
+- 
+
+- 
+
+Taxes 
+
+- 
+
+- 
+
+Supplemental
+disclosure of non-cash activity: 
+
+Forgiveness of
+related party debt 
+
+- 
+
+22,500 
+
+Conversion of
+debt 
+
+166,580 
+
+- 
+
+The accompanying notes are an integral part of these consolidated
+financial statements. 
+
+F-6 
+
+Northern Minerals Exploration Ltd. 
+
+N otes to Consolidated Financial
+Statements 
+
+July 31, 2021 
+
+NOTE 1 - ORGANIZATION AND BUSINESS OPERATIONS 
+
+Northern
+Minerals Exploration Ltd. (the Company is an
+emerging natural resource company operating in oil and gas
+production in central Texas and exploration for gold and silver in
+northern Nevada. 
+
+The
+Company was incorporated in Nevada on December 11, 2006 under the
+name Punchline Entertainment, Inc. On August 22, 2012, the
+Company s board of directors approved an agreement and plan
+of merger to effect a name change of the Company from Punchline
+Entertainment, Inc. to Punchline Resources Ltd. On July 12, 2013,
+the stockholders approved an amendment to change the name of the
+Company from Punchline Resources Ltd. to Northern Mineral 
+Exploration Ltd. FINRA approved the name change on August 13,
+2013. 
+
+On
+November 22, 2017, the Company created a wholly owned subsidiary,
+Kathis Energy LLC Kathis for the purpose of
+conducting oil and gas drilling programs in Texas. 
+
+On
+December 14, 2017, Kathis Energy, LLC and other Limited Partners,
+created Kathis Energy Fund 1, LP, a limited partnership created for
+raising investor funds. 
+
+On May
+7, 2018, the Company created ENMEX LLC, a wholly owned subsidiary
+in Mexico, for the purposes of managing and operating its
+investments in Mexico including but not limited to the Joint
+Venture opportunity being negotiated with Pemer Bacalar on the 61
+acres on the Bacalar Lagoon on the Yucatan Peninsula. There was no
+activity from inception to date. 
+
+NOTE 2 - SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis of presentation 
+
+The
+accounting and reporting policies of the Company conform to U.S.
+generally accepted accounting principles (US GAAP). 
+
+Use of estimates 
+
+The
+preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make
+estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the
+reported amounts of revenues and expenses during the reporting
+period. Actual results may differ from those
+estimates. 
+
+Cash and Cash Equivalents 
+
+The Company considers all cash accounts, which are not subject to
+withdrawal restrictions or penalties, and all highly liquid debt
+instruments purchased with a maturity of three months or less as
+cash and cash equivalents. The carrying amount of financial
+instruments included in cash and cash equivalents approximates fair
+value because of the short maturities for the instruments
+held. The Company had no cash equivalents as of July 31, 2021
+and 2020. 
+
+Principles of Consolidation 
+
+The
+accompanying consolidated financial statements include the accounts
+of the Company and its wholly-owned subsidiaries, Kathis Energy
+LLC, Kathis Energy Fund 1, LLP and Enmex Operations LLC. All
+financial information has been prepared in conformity with
+accounting principles generally accepted in the United States of
+America. All significant intercompany transactions and balances
+have been eliminated. 
+
+Revenue Recognition 
+
+Revenue
+is recognized when a customer obtains control of promised goods or
+services and is recognized in an amount that reflects the
+consideration that an entity expects to receive in exchange for
+those goods or services. In addition, the standard requires
+disclosure of the nature, amount, timing, and uncertainty of
+revenue and cash flows arising from contracts with customers. The
+amount of revenue that is recorded reflects the consideration that
+the Company expects to receive in exchange for those goods. The
+Company applies the following five-step model in order to determine
+this amount: (i) identification of the promised goods in the
+contract; (ii) determination of whether the promised goods are
+performance obligations, including whether they are distinct in the
+context of the contract; (iii) measurement of the transaction
+price, including the constraint on variable consideration; (iv)
+allocation of the transaction price to the performance obligations;
+and (v) recognition of revenue when (or as) the Company satisfies
+each performance obligation. 
+
+F-7 
+
+The Company only applies the five-step model to contracts
+when it is probable that the entity will collect the consideration
+it is entitled to in exchange for the goods or services it
+transfers to the customer. Once a contract is determined to be
+within the scope of ASC 606 at contract inception, the Company
+reviews the contract to determine which performance obligations the
+Company must deliver and which of these performance obligations are
+distinct. The Company recognizes as revenues the amount of the
+transaction price that is allocated to the respective performance
+obligation when the performance obligation is satisfied or as it is
+satisfied. Generally, the Company s performance obligations
+are transferred to customers at a point in time, typically upon
+delivery. 
+
+Accounts Receivable 
+
+Revenues that have been recognized but not yet received are
+recorded as accounts receivable. Losses on receivables will be
+recognized when it is more likely than not that a receivable will
+not be collected. An allowance for estimated uncollectible amounts
+will be recognized to reduce the amount of receivables to its net
+realizable value. The allowance for uncollectible amounts is
+evaluated quarterly. 
+
+Long Lived Assets 
+
+Property
+consists of mineral rights purchases as stipulated by underlying
+agreements and payments made for oil and gas exploration rights.
+Our company assesses the impairment of long-lived assets whenever
+events or changes in circumstances indicate that the carrying value
+may not be recoverable. When we determine that the carrying value
+of long-lived assets may not be recoverable based upon the
+existence of one or more indicators of impairment and the carrying
+value of the asset cannot be recovered from projected undiscounted
+cash flows, we record an impairment charge. Our company measures
+any impairment based on a projected discounted cash flow method
+using a discount rate determined by management to be commensurate
+with the risk inherent in the current business model. Significant
+management judgment is required in determining whether an indicator
+of impairment exists and in projecting cash flows. 
+
+Mineral Property Acquisition and Exploration Costs 
+
+Mineral
+property acquisition and exploration costs are expensed as incurred
+until such time as economic reserves are quantified. Cost of lease,
+exploration, carrying and retaining unproven mineral lease
+properties are expensed as incurred. We have chosen to expense all
+mineral exploration costs as incurred given that it is still in the
+exploration stage. Once our company has identified proven and
+probable reserves in its investigation of its properties and upon
+development of a plan for operating a mine, it would enter the
+development stage and capitalize future costs until production is
+established. When a property reaches the production stage, the
+related capitalized costs will be amortized over the estimated life
+of the probable-proven reserves. When our company has capitalized
+mineral properties, these properties will be periodically assessed
+for impairment of value and any diminution in value. 
+
+Oil and Gas Properties 
+
+The
+Company follows the successful efforts method of accounting for its
+oil and gas properties. Under this method of accounting, all
+property acquisition costs and costs of exploratory and development
+wells are capitalized when incurred, pending determination of
+whether the well found proved reserves. If an exploratory well does
+not find proved reserves, the costs of drilling the well are
+charged to expense. The costs of development wells are capitalized
+whether those wells are successful or unsuccessful. Other
+exploration costs, including certain geological and geophysical
+expenses and delay rentals for oil and gas leases, are charged to
+expense as incurred. Maintenance and repairs are charged to
+expense, and renewals and betterments are capitalized to the
+appropriate property and equipment accounts. Depletion and
+amortization of oil and gas properties are computed on a
+well-by-well basis using the units-of-production method. Although
+the Company has recognized minimal levels of production and
+revenue, none of its property have proved reserves. Therefore, the
+Company s properties are designated as unproved
+properties. 
+
+Unproved
+property costs are not subject to amortization and consist
+primarily of leasehold costs related to unproved areas. Unproved
+property costs are transferred to proved properties if the
+properties are subsequently determined to be productive and are
+assigned proved reserves. Proceeds from sales of partial interest
+in unproved leases are accounted for as a recovery of cost without
+recognizing any gain until all cost is recovered. Unproved
+properties are assessed periodically for impairment based on
+remaining lease terms, drilling results, reservoir performance,
+commodity price outlooks or future plans to develop
+acreage. 
+
+Asset Retirement Obligation 
+
+Accounting
+Standards Codification ASC Topic 410, Asset
+Retirement and Environmental Obligations ASC 410 requires an entity to recognize the fair value of a liability for
+an asset retirement obligation in the period in which it is
+incurred. The net estimated costs are discounted to present values
+using credit-adjusted, risk-free rate over the estimated economic
+life of the oil and gas properties. Such costs are capitalized as
+part of the related asset. The asset is depleted on the equivalent
+unit-of-production method based upon estimates of proved oil and
+natural gas reserves. The liability is periodically adjusted to
+reflect (1) new liabilities incurred, (2) liabilities settled
+during the period, (3) accretion expense and (4) revisions to
+estimated future cash flow requirements. To date, the Company has
+very few operating wells. Currently, the Company has one working
+well. Because there is only one active well on the Ritchie Lease
+with a 24 working interest, the Company estimates the asset
+retirement obligation to be trivial and has not recorded an ARO
+liability. 
+
+F-8 
+
+Basic and Diluted Earnings Per Share 
+
+Net
+income (loss) per common share is computed pursuant to ASC
+260-10-45, Earnings per
+Share Overall Other Presentation Matters . Basic
+net income (loss) per common share is computed by dividing net
+income (loss) by the weighted average number of shares of common
+stock outstanding during the period. Diluted net income (loss) per
+common share is computed by dividing net income (loss) by the
+weighted average number of shares of common stock and potentially
+outstanding shares of common stock during the period. 
+
+For the
+year ended July 31, 2021 , the
+Company had 1,911,330 of potentially dilutive shares from warrants.
+For the year ended July 31,
+2020 , the Company had 3,031,958 of potentially dilutive
+shares. The shares consisted of common shares and warrants from
+convertible debt of 1,687,972 and 843,986, respectively, and an
+additional 500,000 warrants. The diluted loss per share is the same
+as the basic loss per share for the years ended July 31, 2021 and
+2020, as the inclusion of any potential shares would have had an
+antidilutive effect due to our loss from operations. 
+
+Recently issued accounting pronouncements 
+
+In
+November 2019, the FASB issued ASU 2019-10, Financial
+Instruments Credit Losses (Topic 326), Derivative and Hedging
+(Topic 815), and Leases (Topic 842). This new guidance became
+effective for us on January 1, 2020. The adoption of this guidance
+did not have a material impact on the Company s consolidated
+financial statements. 
+
+On January 1, 2020 the Company adopted ASU
+2017-04, Intangibles - Goodwill and
+Other (Topic 350): Simplifying the Test for Goodwill
+Impairment . The ASU eliminates
+Step 2 of the goodwill impairment test and the qualitative
+assessment for any reporting unit with a zero or negative carrying
+amount. The ASU also requires an entity to disclose the amount of
+goodwill allocated to each reporting unit with a zero or negative
+carrying amount. The adoption did not have an impact on the
+Company s consolidated financial
+statements. 
+
+In August 2020, the FASB issued ASU 2020-06 , Debt Debt with
+Conversion and Other Options (Subtopic 470-20) and Derivatives and
+Hedging Contracts in Entity s Own Equity (Subtopic
+815-40) Accounting for Convertible Instruments and Contracts
+in an Entity s Own Equity. ASU 2020-06 reduces the number of accounting
+models for convertible debt instruments and convertible preferred
+stock. For convertible instruments with conversion features that
+are not required to be accounted for as derivatives under Topic
+815, Derivatives and
+Hedging , or that do not result
+in substantial premiums accounted for as paid-in capital, the
+embedded conversion features no longer are separated from the host
+contract. ASU 2020-06 also removes certain conditions that should
+be considered in the derivatives scope exception evaluation under
+Subtopic 815-40, Derivatives and
+Hedging Contracts in Entity s Own
+Equity , and clarify the scope
+and certain requirements under Subtopic 815-40. In addition, ASU
+2020-06 improves the guidance related to the disclosures and
+earnings-per-share (EPS) for convertible instruments and contract
+in entity s own equity. ASU 2020-06 is effective for public
+business entities that meet the definition of a Securities and
+Exchange Commission (SEC) filer, excluding entities eligible to be
+smaller reporting companies as defined by the SEC, for fiscal years
+beginning after December 15, 2021, including interim periods within
+those fiscal years. For all other entities, the amendments are
+effective for fiscal years beginning after December 15, 2023,
+including interim periods within those fiscal years. Early adoption
+is permitted, but no earlier than fiscal years beginning after
+December 15, 2020, including interim periods within those fiscal
+years. The Board specified that an entity should adopt the guidance
+as of the beginning of its annual fiscal year. The Company is
+currently evaluation the impact this ASU will have on its
+consolidated financial statements. 
+
+The
+Company has implemented all new accounting pronouncements that are
+in effect. These pronouncements did not have any material impact on
+the financial statements unless otherwise disclosed, and the
+Company does not believe that there are any other new accounting
+pronouncements that have been issued that might have a material
+impact on its financial position or results of
+operations. 
+
+NOTE 3 - GOING CONCERN 
+
+The
+accompanying financial statements are prepared and presented on a
+going concern basis, which contemplates the realization of assets
+and the satisfaction of liabilities in the normal course of
+business. Accordingly, they do not include any adjustments relating
+to the realization of the carrying value of assets or the amounts
+and classification of liabilities that might be necessary should
+the Company be unable to continue as a going concern. Since
+inception to July 31, 2021, the Company has an accumulated deficit
+of 3,242,058. The Company intends to fund operations through
+equity financing arrangements, which may be insufficient to fund
+its capital expenditures, working capital and other cash
+requirements for the next twelve months. These factors, among
+others, raise substantial doubt about the Company s ability
+to continue as a going concern. The accompanying financial
+statements do not include any adjustments that might result from
+the outcome of this uncertainty. 
+
+F-9 
+
+NOTE 4 - OIL AND GAS PROPERTIES 
+
+Active Projects: 
+
+The
+Company currently has one active lease. We hold a 24 working
+interest in one producing well Concho Richey #1 on
+the lease and a 100 working interest in the remainder of the
+206-acre J. E Richey Lease. 
+
+The
+Richey #1 well was plugged on January 3, 2018. As of July 31, 2021, management determined that
+the asset carried on the balance sheet was fully impaired resulting
+in a loss on impairment of 28,800 for the year ended July 31,
+2021. 
+
+NOTE 5 WINNEMUCCA MOUNTAIN PROPERTY 
+
+On
+September 14, 2012, we entered into an option agreement with AHL
+Holdings Ltd., and Golden Sands Exploration Inc. Optionors ), wherein we acquired an option to
+purchase an 80 interest in and to certain mining claims, which
+claims form the Winnemucca Mountain Property in Humboldt County,
+Nevada Property ). This property currently is
+comprised of 138 unpatented mining claims covering approximately
+2,700 acres. 
+
+On July
+23, 2018, the Company entered into a New Option Agreement with the
+Optioners. This agreement provided for the payment of 25,000 and
+the issuance of 3,000,000 shares of the Company s common
+stock and work commitments. The Company issued the shares and made
+the initial payment of 25,000 per the terms of the July 31, 2018
+agreement. The second payment of 25,000 per the terms of the
+agreement was not paid when it became due on August 31, 2018
+causing the Company to default on the terms of the July 23, 2018
+agreement. 
+
+On
+March 25, 2019 the Company entered into a New Option Agreement with
+the Optionors. As stated in the New Option Agreement the Company
+has agreed to certain terms and conditions to have the right to
+earn an 80 interest in the Property, these terms include cash
+payments, issuance of common shares of the Company and work
+commitments. 
+
+The
+Company s firm commitments per the March 25, 2019 option
+agreement total 381,770 of which cash payments total
+ 181,770 and a firm work commitment of 200,000. These commitments
+include payments for rentals payable to BLM and also for the
+staking of new claims adjoining the existing claims. The work
+commitment was to be conducted prior to December 31, 2020. As of
+July 31, 2021 and 2020, the Company has accounted for 285,453 and
+ 334,000, respectively, in its accrued liabilities. 
+
+The Company has received notice, effective October 27, 2020, that
+its Option Agreement to earn an interest in the Winnemucca Mountain
+Gold Property has been terminated for being in default of certain
+terms and conditions of the Agreement. Management is in discussions
+with the principals of the Winnemucca property to resolve any
+outstanding obligations. 
+
+During the year ended July 31, 2021, the Company received notice of
+the current amount due resulting in the reduction of the liability
+to 285,453. As a result, the Company recognized a gain on debt
+forgiveness of 23,616. 
+
+The Company does not fully agree with the amount due and is working
+to resolve the issue. 
+
+NOTE 6 - CONVERTIBLE DEBT 
+
+On
+August 22, 2013 the Company entered into a 50,000 Convertible Loan
+Agreement with an un-related party. The Loan and interest are
+convertible into Units at 0.08 per Unit with each Unit consisting
+of one common share of the Company and warrant with each
+full warrant exercisable for one year to purchase one common share
+at 0.30 per share. On July 10, 2014, a further 35,000 was
+received from the same unrelated party under the same terms. On
+July 31, 2018, this Note was amended whereby the principal and
+interest are now convertible into Units at 0.04 per Unit with each
+Unit consisting of one common share of the Company and 
+warrant with each full warrant exercisable for one year to purchase
+one common share at 0.08 per share. The Loan shall bear interest
+at the rate of Eight Percent (8 per annum and matured on March
+26, 2020. As of July 31, 2020, there was 85,000 and 50,908 of
+principal and accrued interest, respectively, due on this loan. On
+July 31, 2021, the Note holder converted this note in full into
+3,822,659 shares of common stock and 1,911,330 warrants.
+ The shares were value at 0.04. 
+The Company recognized a loss on the conversion of
+ 6,857. 
+
+F-10 
+
+On
+October 20, 2017, the Company executed a convertible promissory
+note for 25,000 with a third party. The note accrues interest at
+6 , matures in two years and is convertible into shares of common
+stock at maturity, at a minimum of 0.10 per share, at the option
+of the holder. As of July 31, 2021 and 2020, there is 5,769 and
+ 4,257, respectively, of accrued interest due on this loan. This
+note is currently in default. 
+
+NOTE 7 LOANS PAYABLE 
+
+On
+April 16, 2017, the Company executed a promissory note for 15,000
+with a third party. The note matures in two years and interest is
+set at 3,000 for the full two years. As of July 31, 2021, there is
+ 15,000 and 4,875 of principal and accrued interest, respectively,
+due on this loan. As of July 30, 2020, there is 15,000 and 3,375
+of principal and accrued interest, respectively, due on this loan.
+This loan is currently in default. 
+
+On June
+11, 2020, a third party loaned the Company 14,000. On September 9,
+2020, the Company repaid 5,000 on this loan. On March 3, 2021, the
+party loaned another 5,000 to the Company. The loan is unsecured,
+non-interest bearing and due on demand. 
+
+As of
+April 30, 2021, the Company owed 5,000 to a third party. The loan
+is unsecured, non-interest bearing and due on demand. 
+
+During
+the year ended July 31 , 2020, a
+third party loaned the Company 15,000. The loan is unsecured,
+bears interest at 8 per annum and matures on September 1, 2021. As
+of July 31 , 2021, there is
+ 2,232 of interest accrued on this note. 
+
+During
+the year ended July 31 , 2020, a
+third party loaned the Company 60,000. The loan is unsecured,
+bears interest at 8 per annum and matures on September 1, 2021. As
+of July 31 , 2021, there is
+ 8,745 of interest accrued on this note. 
+
+NOTE 8 - COMMON STOCK 
+
+On June
+4, 2020, the Company filed a Certificate of Amendment to its
+Articles of Incorporation in which it increased its authorized
+capital stock to 250,000,000 shares of common stock, par value
+ 0.001 and 50,000,000 shares of preferred stock, par value
+ 0.001. 
+
+During the year ended July 31, 2020, the Company sold 666,660
+shares of common stock at 0.03
+per share for total cash proceeds of 20,000. 
+
+During the year ended July 31, 2020, the Company sold 2,500,000
+shares of common stock at 0.02 per share for total cash proceeds
+of 50,000. 
+
+On May 5, 2021, the Company issued 5,000,000 shares of common stock
+to Foster S Zeiders, per the terms of the agreement with 
+Calihoma Partners LLC (Note 10). The shares are being held by the
+transfer agent and are disclosed as issued but not
+outstanding. 
+
+During the year ended July 31, 2020, the Company sold 3,000,000
+shares of common stock at 0.01 per share for total cash proceeds
+of 30,000. 
+
+During the year ended July 31, 2021, the Company sold 2,667,200
+shares of common stock at 0.03 per share for total cash
+proceeds of 50,000. 
+
+On July 31, 2021, the Company issued 250,000 shares of common stock
+in conversion of a 25,000 accounts payable. The shares were value
+at 0.04, the closing stock price on the date of grant. The Company
+recognized a 15,000 gain on the conversion. 
+
+As discussed in Note 6 a note holder converted his note in
+full into 3,822,659 shares of common stock. 
+
+Refer to Note 11 for stock issued to related parties. 
+
+F-11 
+
+NOTE 9 WARRANTS 
+
+The Company issued 1,911,330 warrants as part of a debt conversion
+(Note 6). The warrants were evaluated for purposes of
+classification between liability and equity. The warrants do not
+contain features that would require a liability classification and
+are therefore considered equity. The Black Scholes pricing model
+was used to estimate the fair value of 72,631 of the Warrants with
+the following inputs: stock price of 0.04, exercise price of
+ 0.08, 2-year term, volatility of 313 , and a risk free rate of
+0.19. 
+
+Number of
+Warrants 
+
+Weighted Average
+Exercise Price 
+
+Weighted Average
+Remaining Contract Term 
+
+Exercisable at July
+31, 2019 
+
+2,365,000 
+
+0.15 
+
+.65 
+
+Granted 
+
+- 
+
+- 
+
+- 
+
+Expired 
+
+(1,865,000 
+
+0.15 
+
+- 
+
+Exercised 
+
+- 
+
+- 
+
+- 
+
+Exercisable at July
+31 , 2020 
+
+500,000 
+
+0.15 
+
+.27 
+
+Granted 
+
+1,911,330 
+
+.08 
+
+2 
+
+Expired 
+
+(500,000 
+
+0.15 
+
+- 
+
+Exercised 
+
+- 
+
+- 
+
+- 
+
+Exercisable at July
+31, 2021 
+
+1,911,330 
+
+0.15 
+
+2 
+
+NOTE 10 - COMMITTEMENTS AND CONTINGENCIES 
+
+On
+April 13, 2021, the Company entered into an agreement with Foster
+S. Zeiders, one of the owners of the Calihoma Partners LLC Fosters ). Per the terms of the agreement Foster is
+willing to transfer to NMEX Natural Gas LLC, (a subsidiary of the
+Company still to be created), all of his interest, including but
+not limited to a 35 back-in after payout interest in Calihoma
+Partners LLC which has 60 ownership in West Lenapah Project
+including the assets and project definition as described in the
+agreement. Foster hereby agrees to transfer one hundred (100 percent of his membership interests in Calihoma Partners LLC, in
+exchange for 5,000,000 shares of common stock to be issued to him
+and an additional 5,000,000 shares to be issued pursuant to a
+specified timeframe. 
+
+During the initial period of this Agreement if either party hereto
+for reasonable cause determines that membership interests in
+Calihoma Partners LLC should no longer be held by NMEX Natural Gas
+LLC. Foster shall exchange his shares in Northern for the
+membership interests in NMEX Natural Gas LLC, and Northern will
+convey such membership interests to Foster in exchange for his
+stock in Northern, and NMEX Natural Gas LLC shall become wholly
+owned by Foster. Foster shall serve as Manager of NMEX Natural Gas
+LLC until Northern determines to convey the interests in Calihoma
+Partners or one year whichever is shorter. As of July 31, 2021, the
+initial 5,000,000 shares of common stock have been issued but are
+being held by the transfer agent pending final confirmation that
+the agreement is finalized. 
+
+NOTE 11 - RELATED PARTY TRANSACTIONS 
+
+For the years ended July 31, 2021 and 2020, total payments of 60,000 and 60,000,
+respectively, were made to Noel Schaefer, a Director of the
+Company, for consulting services. As of July 31,
+2021 , and July 31, 2020 there is
+ 32,500 and 27,500 credited to accounts
+payable. 
+
+As of July 31, 2021 and July
+31, 2020, there is 2,200 and 2,200, respectively, credited to
+accounts payable for amounts due to Rachel Boulds, CFO, for
+consulting services. 
+
+On September 25, 2018, the Company executed a loan agreement with
+the wife of the CEO for 6,800. The loan was to be repaid by
+December 15, 2018, with an additional 680 to cover interest and
+fees. On October 10, 2018, the Company executed another loan
+agreement for 15,000. The loan was to be repaid by December 15,
+2018, with an additional 1,500 to cover interest and fees. As
+of July 31, 2021 , the Company
+owes 23,210 on this loan. This loan is in
+default. 
+
+F-12 
+
+Victor Miranda, a Director of the Company is also President and
+owner of Labrador Capital SAPI DE CV Labrador ), a
+major shareholder of the Company owning 8.8 of its issued and
+outstanding shares. The Company has entered into a Memorandum of
+Understanding with Labrador to jointly pursue developing real
+estate projects in Mexico. As of the date of this report no
+projects have been identified to jointly pursue. In the event
+of a decision to go forward with Labrador, Victor Miranda will
+abstain from voting to avoid any conflict of interest. 
+
+During the year ended July 31, 2021, the Company sold 2,500,000
+shares of common stock to Mr. Miranda at 0.02 per share for total
+cash proceeds of 50,000. Mr. Miranda purchased an additional
+600,000 shares of common stock at 0.03 per shares for 18,000. The
+600,000 shares have not been issued by the transfer agent as of
+July 31, 2021, so are disclosed as common stock to be
+issued. 
+
+NOTE 12 - INCOME TAX 
+
+Deferred
+taxes are provided on a liability method whereby deferred tax
+assets are recognized for deductible temporary differences and
+operating loss and tax credit carry forwards and deferred tax
+liabilities are recognized for taxable temporary differences.
+Temporary differences are the differences between the reported
+amounts of assets and liabilities and their tax bases. Deferred tax
+assets are reduced by a valuation allowance when, in the opinion of
+management, it is more likely than not that some portion or all of
+the deferred tax assets will not be realized. Deferred tax assets
+and liabilities are adjusted for the effects of changes in tax laws
+and rates on the date of enactment. The U.S. federal income tax
+rate of 21 is being used for 2017 due to the new tax law recently
+enacted. 
+
+The
+provision for Federal income tax consists of the following July
+31: 
+
+2021 
+
+2020 
+
+Federal income tax
+benefit attributable to: 
+
+Current
+Operations 
+
+231,000 
+
+9,100 
+
+Other nondeductible
+expenses 
+
+194,600 
+
+- 
+
+Less: valuation
+allowance 
+
+(425,600 
+
+(9,100 
+
+Net provision for
+Federal income taxes 
+
+- 
+
+- 
+
+The
+cumulative tax effect at the expected rate of 21 of significant
+items comprising our net deferred tax amount is as
+follows: 
+
+2021 
+
+2020 
+
+Deferred tax asset
+attributable to: 
+
+Net operating loss
+carryover 
+
+250,700 
+
+964,100 
+
+Less: valuation
+allowance 
+
+(250,700 
+
+(964,100 )) 
+
+Net deferred tax
+asset 
+
+- 
+
+- 
+
+At July
+31, 2021, the Company had net operating loss carry forwards of
+approximately 964,100 that maybe offset against future taxable
+income. No tax benefit has been reported in the July 31,
+2021 or 2020 financial statements since the potential tax benefit
+is offset by a valuation allowance of the same
+amount. 
+
+On
+December 22, 2017, the U.S. government enacted comprehensive tax
+legislation commonly referred to as the Tax Cut and Jobs Act (the
+ Tax Act ). The Tax Act establishes new tax laws that
+affects 2018 and future years, including a reduction in the U.S.
+federal corporate income tax rate to 21 effective January 1, 2018.
+For certain deferred tax assets and deferred tax
+liabilities. 
+
+Due to
+the change in ownership provisions of the Tax Reform Act of 1986,
+net operating loss carry forwards for Federal income tax reporting
+purposes are subject to annual limitations. Should a change in
+ownership occur, net operating loss carry forwards may be limited
+as to use in future years. 
+
+ASC
+Topic 740 provides guidance on the accounting for uncertainty in
+income taxes recognized in a company s financial statements.
+Topic 740 requires a company to determine whether it is more likely
+than not that a tax position will be sustained upon examination
+based upon the technical merits of the position. If the
+more-likely-than-not threshold is met, a company must measure the
+tax position to determine the amount to recognize in the financial
+statements. 
+
+F-13 
+
+The
+Company includes interest and penalties arising from the
+underpayment of income taxes in the statements of operations in the
+provision for income taxes. As of July 31, 2021, the Company had no
+accrued interest or penalties related to uncertain tax positions.
+The Company is subject to examination
+by the various taxing authorities beginning with the tax year ended
+December 31, 2017 (or the tax year ended December 31, 2003 if the
+Company were to utilize its NOLs) 
+
+NOTE 13 - SUBSEQUENT EVENTS 
+
+Management
+has evaluated subsequent events pursuant to the requirements of ASC
+Topic 855, from the balance sheet date through the date the
+financial statements were available to be issued, and has
+determined that no material subsequent events exist other than the
+following. 
+
+Subsequent
+to July 31, 2021, the Company issued the 600,000 due to
+ Mr. Miranda. In addition, Mr. Miranda
+purchased as an additional 2,100,000 shares for
+ 63,000. 
+
+Subsequent
+to July 31, 2021, the Company sold 50,000 shares of common stock
+for total proceeds of 5,000. 
+
+Subsequent
+to July 31, 2021, note holders converted 48,400 into 484,000
+shares of common stock. 
+
+F-14 
+
+I TEM 9. CHANGES IN AND DISAGREEMENTS
+WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL
+DISCLOSURES 
+
+None 
+
+I TEM 9A. CONTROLS AND
+PROCEDURES 
+
+Management s Report Disclosure Controls and
+Procedures 
+
+We carried out an evaluation, under the supervision and with the
+participation of our management, including our principal executive
+officer and principal financial officer, of the effectiveness of
+our disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)). Based upon that
+evaluation, our principal executive officer and principal financial
+officer concluded that, as of the end of the period covered in this
+report, our disclosure controls and procedures were ineffective to
+ensure that information required to be disclosed in reports filed
+under the Securities Exchange Act of 1934, as amended, is recorded,
+processed, summarized and reported within the required time periods
+specified in the Commission s rules and forms and is
+accumulated and communicated to our management, including our
+principal executive officer and principal financial officer, as
+appropriate to allow timely decisions regarding required
+disclosure. 
+
+Our principal executive officer and principal financial officer, do
+not expect that our disclosure controls and procedures or our
+internal controls will prevent all error or fraud. A
+control system, no matter how well conceived and operated, can
+provide only reasonable, not absolute, assurance that the
+objectives of the control system are met. Further, the
+design of a control system must reflect the fact that there are
+resource constraints and the benefits of controls must be
+considered relative to their costs. Due to the inherent
+limitations in all control systems, no evaluation of controls can
+provide absolute assurance that all control issues and instances of
+fraud, if any, have been detected. During the fourth quarter
+of the fiscal year ended July 31, 2020, we carried out an
+evaluation, under the supervision and with the participation of our
+principal executive officer and principal financial officer, of the
+effectiveness of the design and operation of our disclosure
+controls and procedures. Based on that evaluation and due to
+the identified material weaknesses discussed below, our principal
+executive officer and principal financial officer concluded that
+our disclosure controls and procedures were ineffective as of the
+end of the period covered by this report. 
+
+To address the material weaknesses, we performed additional
+analysis and other post-closing procedures in an effort to ensure
+our financial statements included in this annual report have been
+prepared in accordance with generally accepted accounting
+principles. Accordingly, management believes that the
+financial statements included in this report fairly present in all
+material respects our financial condition, results of operations
+and cash flows for the periods presented. 
+
+Management s Report on Internal Control over Financial
+Reporting 
+
+Internal control over financial reporting (as defined in Rules
+13a-15(f) and 15d-15(f) under the Exchange Act) is a process
+designed by, or under the supervision of, our principal executive
+and principal financial officers, and effected by our board of
+directors, management and other personnel, to provide reasonable
+assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in
+accordance with generally accepted accounting principles. The
+management is responsible for establishing and maintaining adequate
+internal control over our financial reporting. Under the
+supervision and with the participation of our management, including
+our principal executive officer and principal financial officer, we
+conducted an evaluation of the effectiveness of our internal
+control over financial reporting using the Internal Control 
+Integrated Framework (2013) developed by the Committee of Sponsoring
+Organizations of the Treadway Commission. Based on this evaluation,
+our Chief Executive Officer and Chief Financial Officer have
+concluded that our internal control over financial reporting was
+not effective as of July 31, 2021. 
+
+We are aware of the following material weaknesses in internal
+control that could adversely affect the Company s ability to
+record, process, summarize and report financial data: 
+
+Due to our size and limited resources, we currently do not employ
+the appropriate accounting personnel to ensure (a) we maintain
+proper segregation of duties, (b) that all transactions are entered
+timely and accurately, and (c) we properly account for complex or
+unusual transactions 
+
+Due to our size and limited resources, we have not properly
+documented a complete assessment of the effectiveness of the design
+and operation of our internal control over financial
+reporting. 
+
+9 
+
+I nherent limitations on
+effectiveness of controls 
+
+Internal control over financial reporting has inherent limitations,
+which include but is not limited to the use of independent
+professionals for advice and guidance, interpretation of existing
+and/or changing rules and principles, segregation of management
+duties, scale of organization, and personnel factors. Internal
+control over financial reporting is a process, which involves human
+diligence and compliance and is subject to lapses in judgment and
+breakdowns resulting from human failures. Internal control over
+financial reporting also can be circumvented by collusion or
+improper management override. Because of its inherent limitations,
+internal control over financial reporting may not prevent or detect
+misstatements on a timely basis, however these inherent limitations
+are known features of the financial reporting process and it is
+possible to design into the process safeguards to reduce, though
+not eliminate, this risk. Therefore, even those systems determined
+to be effective can provide only reasonable assurance with respect
+to financial statement preparation and presentation. Projections of
+any evaluation of effectiveness to future periods are subject to
+the risk that controls may become inadequate because of changes in
+conditions, or that the degree of compliance with the policies or
+procedures may deteriorate. 
+
+Changes in Internal Control over Financial Reporting 
+
+There have been no changes in our internal controls over financial
+reporting that occurred during the fourth quarter of the fiscal
+year ended July 31, 2021, that have materially or are reasonably
+likely to materially affect, our internal controls over financial
+reporting. 
+
+I TEM 9B. OTHER
+INFORMATION 
+
+None 
+
+P ART III 
+
+I TEM 10. DIRECTORS, EXECUTIVE
+OFFICERS AND CORPORATE GOVERNANCE 
+
+All directors of our company hold office until the next annual
+meeting of the security holders or until their successors have been
+elected and qualified. The officers of our company are appointed by
+our board of directors and hold office until their death,
+resignation or removal from office. Our directors and executive
+officers, their ages, positions held, and duration as such, are as
+follows: 
+
+Name 
+
+Age 
+
+Position with the Company 
+
+Date
+Appointed 
+
+Noel
+Schaefer 
+
+66 
+
+Chief
+Operating Officer, Secretary Director 
+
+July 6,
+2018 
+
+Victor
+Miranda 
+
+38 
+
+Director 
+
+July 6,
+2018 
+
+Ivan Webb 
+
+70 
+
+President Chief Executive Officer 
+
+July 6, 2018 
+
+Rachel Boulds 
+
+51 
+
+Chief
+Financial Officer 
+
+February 7, 2020 
+
+BUSINESS EXPERIENCE 
+
+The following is a brief account of the education and business
+experience during at least the past five years of each director,
+executive officer and key employee of our company, indicating the
+person s principal occupation during that period, and the
+name and principal business of the organization in which such
+occupation and employment were carried out. 
+
+Noel Schaefer, Director, Secretary Chief Operations
+Officer, COO 
+ has served in a variety of executive
+and director positions in his 30 plus year career with both
+domestic and international companies. His emphasis has been with
+startups by setting up market profiles, developing strategic market
+placement and refining corporate objectives. Mr. Schaefer has
+successfully helped to raise funds from both the public and private
+sectors. He has worked extensively in Far East and Latin America
+with a particular focus on Mexico. He holds a Bachelor of Science
+degree from Brigham Young University with an emphasis in Marketing
+and Finance. 
+
+Victor Miranda, Director, is the CEO of an insurance broker
+firm, passionate about ventures developing USA/MEXICO cross border
+opportunities. He has 15 years of hands on experience in the sales
+management for the financial sector, with particular focus on
+developing a savers culture through employee benefits, and 7 years
+developing successful real estate development projects in Quintana
+Roo. Quintana Roo is the State in Mexico where the Pemer Bacalar
+property is located. 
+
+10 
+
+Ivan Webb, Chief Executive Officer, is a seasoned and successful entrepreneur, with
+over 35 years of experience in the oil and gas industry
+internationally and in the United States. He is experienced with
+acquiring oil and gas concessions and leases, drilling of new wells
+and reworking/ re-completing existing wells, production management,
+working with service companies and regulatory compliance.
+Internationally, he has successfully leased more than 18,000,000
+acres. Domestically he has been involved with the acquisition and
+or management of more than 250 wells in Kansas, Oklahoma and
+Texas. 
+
+Mr. Webb has also over 30 years of experience in managing or
+assisting public companies in both the US and Canada with
+regulatory compliance. His public company experience includes
+assisting companies with initial public offerings, reverse mergers,
+obtaining listings, and assisting with ongoing regulatory
+compliance. 
+
+Rachel Boulds , Chief Financial
+Officer of the Company. Ms. Boulds currently works for the
+Company on a part-time basis while also operating her sole
+accounting practice which she has led since 2009 and which provides
+all aspects of consulting and accounting services to clients,
+including the preparation of full disclosure financial statements
+for public companies to comply with GAAP and SEC requirements. Ms.
+Boulds also currently provides outsourced chief financial officer
+services for two other companies. From August 2004 through July
+2009, she was employed as a Senior Auditor for HJ Associates,
+LLC, where she performed audits and reviews of public and private
+companies, including the preparation of financial statements to
+comply with GAAP and SEC requirements. From 2003 through 2004, Ms.
+Boulds was employed as a Senior Auditor at Mohler, Nixon and
+Williams. From September 2001 through July 2003, Ms. Boulds worked
+as an ABAS Associate for PriceWaterhouseCoopers. From April 2000
+through February 2001, Ms. Boulds was employed as an e-commerce
+Accountant for the Walt Disney Group s GO.com. Ms. Boulds
+earned a B.S. in Accounting from San Jose University in 2001 and is
+licensed as a CPA in the state of Utah. 
+
+Family Relationships 
+
+There are no family relationships among any of our officers or
+directors. 
+
+Involvement in Certain Legal Proceedings 
+
+To the best of our knowledge, none of our directors or executive
+officers has, during the past ten years: 
+
+1. 
+
+been convicted in a criminal proceeding or been subject to a
+pending criminal proceeding (excluding traffic violations and other
+minor offences); 
+
+2. 
+
+had any bankruptcy petition filed by or against the business or
+property of the person, or of any partnership, corporation or
+business association of which he was a general partner or executive
+officer, either at the time of the bankruptcy filing or within two
+years prior to that time; 
+
+3. 
+
+been subject to any order, judgment, or decree, not subsequently
+reversed, suspended or vacated, of any court of competent
+jurisdiction or federal or state authority, permanently or
+temporarily enjoining, barring, suspending or otherwise limiting,
+his involvement in any type of business, securities, futures,
+commodities, investment, banking, savings and loan, or insurance
+activities, or to be associated with persons engaged in any such
+activity; 
+
+4. 
+
+been found by a court of competent jurisdiction in a civil action
+or by the SEC or the Commodity Futures Trading Commission to have
+violated a federal or state securities or commodities law, and the
+judgment has not been reversed, suspended, or vacated; 
+
+5. 
+
+been the subject of, or a party to, any federal or state judicial
+or administrative order, judgment, decree, or finding, not
+subsequently reversed, suspended or vacated (not including any
+settlement of a civil proceeding among private litigants), relating
+to an alleged violation of any federal or state securities or
+commodities law or regulation, any law or regulation respecting
+financial institutions or insurance companies including, but not
+limited to, a temporary or permanent injunction, order of
+disgorgement or restitution, civil money penalty or temporary or
+permanent cease-and-desist order, or removal or prohibition order,
+or any law or regulation prohibiting mail or wire fraud or fraud in
+connection with any business entity; or 
+
+6. 
+
+been the subject of, or a party to, any sanction or order, not
+subsequently reversed, suspended or vacated, of any self-regulatory
+organization (as defined in Section 3(a)(26) of the Exchange Act
+(15 U.S.C. 78c(a)(26)), any registered entity (as defined in
+Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29)),
+or any equivalent exchange, association, entity or organization
+that has disciplinary authority over its members or persons
+associated with a member. 
+
+11 
+
+Code of Ethics 
+
+The Company has not yet adopted a Code of Ethics. 
+
+I TEM 11. EXECUTIVE
+COMPENSATION 
+
+The particulars of the compensation paid to the following
+persons: 
+
+our principal executive officer; 
+
+each of our two most highly compensated executive officers who were
+serving as executive officers at the end of the years ended July
+31, 2021 and 2020; and 
+
+SUMMARY COMPENSATION TABLE 
+
+Name and Principal Position 
+
+Year 
+
+Salary ) 
+
+Bonus ) 
+
+Stock Awards ) 
+
+Option Awards ) 
+
+Non- Equity Incentive Plan Compensa- tion ) 
+
+Change in Pension Value and Nonqualified Deferred Compensation
+Earnings ) 
+
+All Other Compensa- tion ) 
+
+Total 
+
+Howard Siegel (1) 
+
+President Director 
+
+2020 
+
+0 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+0 
+
+Noel Schaefer (2) 
+
+Chief Operating Officer Director 
+
+2021 
+
+2020 
+
+60,000 
+
+60,000 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+60,000 
+
+60,000 
+
+Victor Miranda (3) 
+
+Director 
+
+2021 
+
+2020 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+NA 
+
+NA 
+
+Ivan Webb (4) 
+
+Chief Executive Officer Director 
+
+2021 
+
+2020 
+
+0 
+
+0 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+0 
+
+0 
+
+Rachel Boulds (5) 
+
+Chief Financial Officer 
+
+2021 
+
+2020 
+
+26,400 
+
+8,800 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+N/A 
+
+26,400 
+
+8,800 
+
+(1) 
+
+Howard Siegel was appointed as a director on April 23, 2014 and
+appointed as president, chief financial officer, chief executive
+officer and treasurer on April 24, 2014. On July 6, 2018 he
+resigned as chief financial officer and chief executive officer and
+treasurer. Mr. Siegel died in August 2020. 
+
+(2) 
+
+Noel Schaefer was appointed Chief Operating Officer on July 6,
+2018. 
+
+(3) 
+
+Victor
+Miranda was Chief Financial Officer from July 6, 2018 until February 7,
+2020. 
+
+(4) 
+
+Ivan Webb was appointed Vice President on March 16, 2015 and on
+July 6, 2018 was appointed Chief Executive Officer 
+
+(5) 
+
+Rachel Boulds was appointed Chief Financial Officer on
+ February 7, 2020. 
+
+Other than as set out below, there are no arrangements or plans in
+which we provide pension, retirement or similar benefits for
+directors or executive officers. Our directors and executive
+officers may receive share options at the discretion of our board
+of directors in the future. We do not have any material bonus or
+profit sharing plans pursuant to which cash or non-cash
+compensation is or may be paid to our directors or executive
+officers, except that share options may be granted at the
+discretion of our board of directors. 
+
+Stock Option Grants 
+
+We have not granted any stock options to the executive officers
+since our inception. 
+
+Outstanding Equity Awards at Fiscal Year End 
+
+For the year ended July 31, 2021, no director or executive officer
+has received compensation from us pursuant to any compensatory or
+benefit plan. There is no plan or understanding, express or
+implied, to pay any compensation to any director or executive
+officer pursuant to any compensatory or benefit plan. 
+
+12 
+
+Compensation of Directors 
+
+No member of our Board of Directors received any compensation for
+his services as a director during the year ended July 31, 2021 and
+20220. 
+
+I TEM 12. SECURITY OWNERSHIP OF
+CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER
+MATTERS 
+
+The following table sets forth, as of October 10, 2021, certain
+information with respect to the beneficial ownership of our common
+shares by each shareholder known by us to be the beneficial owner
+of more than 5 of our common shares, as well as by each of our
+current directors and executive officers as a group. Each person
+has sole voting and investment power with respect to the shares of
+common stock, except as otherwise indicated. Beneficial ownership
+consists of a direct interest in the shares of common stock, except
+as otherwise indicated. 
+
+Name and Address of Beneficial Owner 
+
+Title of Class 
+
+Amount and Nature of Beneficial
+Ownership (1) 
+
+Percent of Class (2) 
+
+Ivan
+Webb, Chief Executive Officer 
+
+Common stock 
+
+90,000 
+
+.11 
+
+Noel
+Schaefer, Chief Operating Officer, Secretary 
+Director 
+
+Common stock 
+
+2,000,000 
+
+2.8 
+
+Victor
+Miranda, Director 
+
+Common stock 
+
+11,200,000 
+
+13.9 
+
+Rachel
+Boulds, CFO 
+
+Common
+stock 
+
+- 
+
+- 
+
+All officers and director as a group (4 persons) 
+
+Common stock 
+
+13,290,000 
+
+16.81 
+
+Labrador
+Capital SAPI CV (3) 
+
+5,000,000 
+
+6.2 
+
+Starcom
+SA DE CV 
+
+Common stock 
+
+5,000,000 
+
+6.2 
+
+All others as a group (3 persons) 
+
+10,000,000 
+
+12.6 
+
+(1) 
+
+Beneficial Ownership is determined in accordance with the rules of
+the SEC and generally includes voting or investment power with
+respect to securities. Each of the beneficial owners listed above
+has direct ownership of and sole voting power and investment power
+with respect to the shares of our common stock. 
+
+(2) 
+
+A total of 79,218,338 shares
+of our common stock are considered to be outstanding pursuant to
+SEC Rule 13d-3(d)(1) as of October 10, 2021. For each beneficial
+owner above, any options exercisable within 60 days have been
+included in the denominator. 
+
+(3) 
+
+Victor Miranda is the president of Labrador
+Capital SAPI CV which is the holder of 5,000,000 shares of
+the Company s common
+stock. 
+
+I TEM 13. CERTAIN RELATIONSHIPS AND
+RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+
+Except as disclosed herein, no director, executive officer,
+shareholder holding at least 5 of shares of our common stock, or
+any family member thereof, had any material interest, direct or
+indirect, in any transaction, or proposed transaction since the
+year ended July 31, 2021, in which the amount involved in the
+transaction exceeded or exceeds the lesser of 120,000 or one
+percent of the average of our total assets at the year-end for the
+last three completed fiscal years. 
+
+For the years ended July 31, 2021 and 2020, total payments of 60,000 and 60,000,
+respectively, were made to Noel Schaefer, a Director of the
+Company, for consulting services. As of July 31,
+2021 , and July 31, 2020 there is
+ 32,500 and 27,500 credited to accounts
+payable. 
+
+As of July 31, 2021 and July
+31, 2020, there is 2,200 and 2,200, respectively, credited to
+accounts payable for amounts due to Rachel Boulds, CFO, for
+consulting services. 
+
+13 
+
+On September 25, 2018, the Company executed a loan agreement with
+the wife of the CEO for 6,800. The loan was to be repaid by
+December 15, 2018, with an additional 680 to cover interest and
+fees. On October 10, 2018, the Company executed another loan
+agreement for 15,000. The loan was to be repaid by December 15,
+2018, with an additional 1,500 to cover interest and fees. As
+of July 31, 2021 , the Company
+owes 23,210 on this loan. This loan is in
+default. 
+
+Victor Miranda, a Director of the Company is also President and
+owner of Labrador Capital SAPI DE CV Labrador ), a
+major shareholder of the Company owning 8.8 of its issued and
+outstanding shares. The Company has entered into a Memorandum of
+Understanding with Labrador to jointly pursue developing real
+estate projects in Mexico. As of the date of this report no
+projects have been identified to jointly pursue. In the event
+of a decision to go forward with Labrador, Victor Miranda will
+abstain from voting to avoid any conflict of interest. 
+
+During the year ended July 31, 2021, the Company sold 2,500,000
+shares of common stock to Mr. Miranda at 0.02 per share for total
+cash proceeds of 50,000. Mr. Miranda purchased an additional
+600,000 shares of common stock at 0.03 per shares for
+ 18,000. 
+
+Director Independence 
+
+We
+currently act with two directors, Noel Schaefer and Victor Miranda.
+We have determined that we do not have an independent
+director as defined in NASDAQ Marketplace Rule
+4200(a)(15). 
+
+We do not have a standing audit, compensation or nominating
+committee, but our directors and officer act in such capacities. We
+believe that our sole director is capable of analyzing and
+evaluating our financial statements and understanding internal
+controls and procedures for financial reporting. Our sole director
+does not believe that it is necessary to have an audit committee
+because we believe that the functions of an audit committee can be
+adequately performed by the sole director. In addition, we believe
+that retaining an independent director who would qualify as an
+ audit committee financial expert would be overly
+costly and burdensome and is not warranted in our circumstances
+given the early stages of our development. 
+
+I TEM 14. PRINCIPAL ACCOUNTING FEES
+AND SERVICES 
+
+The aggregate fees billed for the most recently completed fiscal
+year ended July 31, 2021 and for the fiscal year ended July 31,
+2020 for professional services rendered by the principal accountant
+for the audit of our annual financial statements and review of the
+financial statements included in our quarterly reports on Form 10-Q
+and services that are normally provided by the accountant in
+connection with statutory and regulatory filings or engagements for
+these fiscal periods were as follows: 
+
+Year Ended 
+
+July 31, 2021 
+
+July 31, 2020 
+
+Audit
+Fees 
+
+43,000 
+
+25,000 
+
+Audit
+Related Fees 
+
+- 
+
+- 
+
+Tax
+Fees 
+
+- 
+
+- 
+
+All
+Other Fees 
+
+- 
+
+- 
+
+Total 
+
+43,000 
+
+25,000 
+
+Our board of directors pre-approves all services provided by our
+independent auditors. All of the above services and fees were
+reviewed and approved by the board of directors either before or
+after the respective services were rendered. 
+
+Our board of directors has considered the nature and amount of fees
+billed by our independent auditors and believes that the provision
+of services for activities unrelated to the audit is compatible
+with maintaining our independent auditors 
+independence. 
+
+14 
+
+P ART IV 
+
+ITEM 15. E XHIBITS 
+
+Exhibit Number 
+
+Exhibit Description 
+
+31.1 
+
+Section 302 Certification under Sarbanes-Oxley Act of
+2002. 
+
+31.2 
+
+Section 302 Certification under Sarbanes-Oxley Act of
+2002. 
+
+32.1 
+
+Section 906 Certification under Sarbanes-Oxley Act of
+2002. 
+
+(101) 
+
+Interactive Data File (Form 10-K for the Year Ended July 31,
+2021) 
+
+101.INS 
+
+Inline XBRL Instance Document 
+
+101.SCH 
+
+Inline XBRL Taxonomy Extension Schema Document. 
+
+101.CAL 
+
+Inline XBRL Taxonomy Extension Calculation Linkbase
+Document. 
+
+101.DEF 
+
+Inline XBRL Taxonomy Extension Definition Linkbase
+Document. 
+
+101.LAB 
+
+Inline XBRL Taxonomy Extension Label Linkbase
+Document. 
+
+101.PRE 
+
+Inline XBRL Taxonomy Extension Presentation Linkbase
+Document. 
+
+15 
+
+S IGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly
+authorized. 
+
+NORTHERN MINERALS EXPLORATION LTD. 
+
+(Registrant) 
+
+Dated:
+ October 29, 2021 
+
+/s/
+ Ivan Webb 
+
+Ivan Webb 
+
+Chief
+Executive Officer 
+
+/s/ Noel Schaefer 
+
+Noel Schaefer 
+
+Chief
+Operating Officer Director 
+
+/s/ Victor Miranda 
+
+Victor Miranda 
+
+Director 
+
+/s/ Rachel Boulds 
+
+Rachel Boulds 
+
+Chief
+Financial Officer 
+
+16 
+
+<EX-31.1>
+ 2
+ nmex_ex311.htm
+ CERTIFICATION PURSUANT TO RULE 13A-14(A)/15D-14(A) CERTIFICATIONS SECTION 302 OF THE SARBANES-OXLY ACT OF 2002
+
+nmex_ex311 
+
+EXHIBIT 31.1 
+
+Certification of Chief Financial Officer Pursuant to 
+
+Section 302 of the Sarbanes-Oxley Act of 2002-Rule
+13a-14(a)/15d 14(a) 
+
+I,
+Rachel Boulds, certify that: 
+
+1. 
+
+I have
+reviewed this Annual Report on Form 10-K for the year ended
+ July 31, 2021 for Northern
+Minerals Exploration Ltd. (the
+ registrant ); 
+
+2. 
+
+Based
+on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which
+such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3. 
+
+Based
+on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash
+flows of the registrant as of, and for, the periods presented in
+this report; 
+
+4. 
+
+The
+registrant s other certifying officer and I are responsible
+for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and
+internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and
+have: 
+
+a) 
+
+Designed
+such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant,
+including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in
+which this annual report is being prepared; 
+
+b) 
+
+Designed
+such internal controls over financial reporting, or caused such
+internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c) 
+
+Evaluated
+the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the
+end of the period covered by this report based on such evaluation;
+and 
+
+d) 
+
+Disclosed
+in this report any change in the registrant s internal
+control over financial reporting that occurred during the
+registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to
+materially affect, the registrant s internal control over
+financial reporting; and 
+
+5. 
+
+The
+registrant s other certifying officer and I have disclosed,
+based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the
+audit committee of registrant s board of directors (or
+persons performing the equivalent functions): 
+
+a) 
+
+All
+significant deficiencies and material weaknesses in the design or
+operation of internal controls over financial reporting which are
+reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial
+information; and 
+
+b) 
+
+Any
+fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+/s/
+ Rachel Boulds 
+
+Rachel
+Boulds 
+
+Chief
+Financial Officer 
+
+Date:
+October 29, 2021 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ nmex_ex312.htm
+ CERTIFICATION PURSUANT TO RULE 13A-14(A)/15D-14(A) CERTIFICATIONS SECTION 302 OF THE SARBANES-OXLY ACT OF 2002
+
+nmex_ex312 
+
+EXHIBIT 31.2 
+
+Certification of Chief Executive Officer Pursuant to 
+
+Section 302 of the Sarbanes-Oxley Act of 2002-Rule
+13a-14(a)/15d 14(a) 
+
+I, Ivan
+Webb, certify that: 
+
+1. 
+
+I have
+reviewed this Annual Report on Form 10-K for the year ended
+ July 31, 2021 for Northern
+Minerals Exploration Ltd. (the
+ registrant ); 
+
+2. 
+
+Based
+on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which
+such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3. 
+
+Based
+on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash
+flows of the registrant as of, and for, the periods presented in
+this report; 
+
+4. 
+
+The
+registrant s other certifying officer and I are responsible
+for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and
+internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and
+have: 
+
+a) 
+
+Designed
+such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant,
+including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in
+which this annual report is being prepared; 
+
+b) 
+
+Designed
+such internal controls over financial reporting, or caused such
+internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c) 
+
+Evaluated
+the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the
+end of the period covered by this report based on such evaluation;
+and 
+
+d) 
+
+Disclosed
+in this report any change in the registrant s internal
+control over financial reporting that occurred during the
+registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to
+materially affect, the registrant s internal control over
+financial reporting; and 
+
+5. 
+
+The
+registrant s other certifying officer and I have disclosed,
+based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the
+audit committee of registrant s board of directors (or
+persons performing the equivalent functions): 
+
+a) 
+
+All
+significant deficiencies and material weaknesses in the design or
+operation of internal controls over financial reporting which are
+reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial
+information; and 
+
+b) 
+
+Any
+fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+/s/
+ Ivan Webb 
+
+Ivan
+Webb 
+
+Chief
+Executive Officer 
+
+Date:
+October 29, 2021 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ nmex_ex321.htm
+ CERTIFICATE PURSUANT TO SECTION 18 U.S.C. PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+nmex_ex321 
+
+EXHIBIT 32.1 
+
+Certification of Periodic Financial Reports 
+
+Pursuant to 18 U.S.C. Section 1350 
+
+as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act
+of 2002 
+
+The
+undersigned hereby certify that they are the duly appointed and
+acting Chief Executive Officer and Chief Financial Officer of
+Northern Minerals Exploration Ltd., and hereby further
+certify as follows: 
+
+1. 
+
+The
+annual report containing financial statements to which this
+certificate is an exhibit fully complies with the requirements of
+Section 13(a) or 15 (d) of the Securities Exchange Act of
+1934. 
+
+2. 
+
+The
+information contained in the annual report to which this
+certificate is an exhibit fairly presents, in all material
+respects, the financial condition and results of operations of the
+Corporation. 
+
+In
+witness whereof, the undersigned have executed and delivered this
+certificate as of the date set forth opposite their signatures
+below. 
+
+Date:
+October 29, 2021 
+
+/s/
+ Ivan Webb 
+
+Ivan
+Webb 
+
+Chief
+Executive Officer 
+
+Date:
+October 29, 2021 
+
+/s/
+ Rachel Boulds 
+
+Rachel
+Boulds 
+
+Chief
+Financial Officer 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ nmex-20210731.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ nmex-20210731.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ nmex-20210731_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ nmex-20210731_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ nmex-20210731_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ nmex-20210731_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

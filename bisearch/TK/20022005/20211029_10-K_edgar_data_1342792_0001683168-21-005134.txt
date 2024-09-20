@@ -1,0 +1,2179 @@
+<Header>
+<FileStats>
+    <FileName>20211029_10-K_edgar_data_1342792_0001683168-21-005134.txt</FileName>
+    <GrossFileSize>1615777</GrossFileSize>
+    <NetFileSize>89183</NetFileSize>
+    <NonText_DocumentType_Chars>288733</NonText_DocumentType_Chars>
+    <HTML_Chars>361441</HTML_Chars>
+    <XBRL_Chars>454414</XBRL_Chars>
+    <XML_Chars>382238</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-21-005134.hdr.sgml : 20211029
+<ACCEPTANCE-DATETIME>20211029142613
+ACCESSION NUMBER:		0001683168-21-005134
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		41
+CONFORMED PERIOD OF REPORT:	20210731
+FILED AS OF DATE:		20211029
+DATE AS OF CHANGE:		20211029
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WORLDWIDE STRATEGIES INC
+		CENTRAL INDEX KEY:			0001342792
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				410946897
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-52362
+		FILM NUMBER:		211362412
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1961 NW 150 AVENUE
+		STREET 2:		SUITE 205
+		CITY:			PEMBROKE PINES
+		STATE:			FL
+		ZIP:			33028
+		BUSINESS PHONE:		844-500-9974
+
+	MAIL ADDRESS:	
+		STREET 1:		1961 NW 150 AVENUE
+		STREET 2:		SUITE 205
+		CITY:			PEMBROKE PINES
+		STATE:			FL
+		ZIP:			33028
+
+</SEC-Header>
+</Header>
+
+ 0001683168-21-005134.txt : 20211029
+
+10-K
+ 1
+ worldwide_10k-073121.htm
+ FORM 10-K FOR PERIOD 07-31-21
+
+Table of Contents 
+
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+
+ WASHINGTON, D.C. 20549 
+
+FORM 10-K 
+
+(Mark One) 
+
+ANNUAL REPORT UNDER SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended July 31, 2021 
+
+TRANSITION REPORT UNDER SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from ________ to _______ 
+
+Commission file Number: 000-52362 
+
+WORLDWIDE STRATEGIES
+INC. 
+
+ (Exact Name of Registrant as Specified in Its Charter) 
+
+Nevada 
+ 
+ 41-0946897 
+
+(State or Other Jurisdiction of 
+ Incorporation or Organization) 
+ 
+ (IRS Employer Identification Number) 
+
+1961 NW 150 AVENUE, SUITE 205 
+ PEMBROKE PINES, FL 33028 
+
+(Address of Principal Executive Offices, including Zip Code) 
+
+(844) 500-9974 
+
+(Registrant s telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+ 
+ None 
+
+Securities registered pursuant to Section 12(g) of the Act: 
+ 
+ Common Stock, 0.001 Par Value 
+
+(Title of Class) 
+
+Indicate by check mark if
+the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No
+
+Indicate by check mark if
+the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes No
+
+Indicate by check mark whether
+the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes No 
+
+Indicate by check mark whether
+the registrant has submitted electronically, if any, every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation
+S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes No 
+
+Indicate by check mark whether
+the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or, an emerging
+growth company. See the definitions of large accelerated filer, accelerated filer , smaller reporting
+company , and emerging growth company , in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+ 
+ Non-accelerated filer 
+ 
+ Smaller reporting company 
+
+Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether
+the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control
+over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that
+prepared or issued its audit report. Yes No 
+
+Indicate by check mark
+whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+ No 
+
+The aggregate market value
+of the registrant s common stock held by non-affiliates of the registrant, computed by reference to the price at which the common
+stock was last sold, or the average bid and asked price of such common stock, as of the last business day of the registrant s most
+recently completed second quarter, is 545,344. 
+
+As of October 26, 2021, 19,830,679
+shares of the registrant s common stock were outstanding. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+Part III of this report incorporates
+certain information by reference from the registrant s proxy statement for the 2021 annual meeting of stockholders, or an amendment
+to this Annual Report on Form 10-K, to be filed no later than 120 days after the close of the registrant s fiscal year ended July
+31, 2021. 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item 1. 
+ Business 
+ 2 
+ 
+ Item 1A. 
+ Risk Factors 
+ 3 
+ 
+ Item 1B. 
+ Unresolved Staff Comments 
+ 5 
+ 
+ Item 2. 
+ Properties 
+ 6 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 6 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 7 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 7 
+ 
+ Item 6. 
+ Selected Financial Data 
+ 7 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 7 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 9 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 10 
+ 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 23 
+ 
+ Item 9A. 
+ Controls and Procedures 
+ 23 
+ 
+ Item 9B. 
+ Other Information 
+ 23 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 24 
+ 
+ Item 11. 
+ Executive Compensation 
+ 24 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 24 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 24 
+ 
+ Item 14. 
+ Principal Accounting Fees and Services 
+ 24 
+ 
+ Item 15. 
+ Exhibits and Financial Statement Schedules 
+ 24 
+ 
+ Item 16. 
+ Form 10-K Summary 
+ 25 
+
+PART IV 
+
+SIGNATURES 
+ 26 
+
+i 
+
+Cautionary Statement Regarding Forward-Looking Statements 
+
+In addition to historical information, this Annual Report on Form
+10-K contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking
+statements are those that predict or describe future events or trends and that do not relate solely to historical matters. You can generally
+identify forward-looking statements as statements containing the words believe, expect, will, 
+ anticipate, intend, estimate, project, assume or other similar expressions,
+although not all forward-looking statements contain these identifying words. All statements in this report regarding our future strategy,
+future operations, projected financial position, estimated future revenue, projected costs, future prospects, and results that might be
+obtained by pursuing management s current plans and objectives are forward-looking statements. You should not place undue reliance
+on our forward-looking statements because the matters they describe are subject to known and unknown risks, uncertainties and other unpredictable
+factors, many of which are beyond our control. Important risks that might cause our actual results to differ materially from the results
+contemplated by the forward-looking statements are contained in Item 1A. Risk Factors and Item 7. Management s
+Discussion and Analysis of Financial Condition and Results of Operations of this Annual Report on Form 10-K and in our subsequent
+filings with the Securities and Exchange Commission (the SEC ). Our forward-looking statements are based on the information
+currently available to us and speak only as of the date on which this report was filed with the SEC. We expressly disclaim any obligation
+to issue any updates or revisions to our forward-looking statements, even if subsequent events cause our expectations to change regarding
+the matters discussed in those statements. Over time, our actual results, performance or achievements will likely differ from the anticipated
+results, performance or achievements that are expressed or implied by our forward-looking statements, and such difference may be significant
+and materially adverse to our security holders. 
+
+In this Annual Report on Form 10-K, unless the context otherwise
+requires, the terms Worldwide Strategies, the Company, we, our and or us, 
+refer to Worldwide Strategies Incorporated. 
+
+1 
+
+PART I 
+
+Item 1. Business. 
+
+We are a science based direct to consumer (DTC)
+health company offering products and services focused on aging biology wellness and longevity. Our program is based on the book the Kaufmann
+Protocol authored by our co-founder Dr. Sandra Kaufmann, M.D., and on identifying and offering individual specific services,
+recommendations and treatments designed to improve our customers lifespan and health-span. Whereas lifespan represents
+the total number of years we live, and health-span is how
+many of those years we remain healthy, active, energetic and free from disease. Our goal is to use science and technology, current and
+emerging treatments to lengthen lifespan and maximize health-span. 
+
+We
+operate a DTC sales model, which means we market our products directly to our target consumers. We currently sell our book, the Kaufmann
+Protocol online, we offer, the Kaufmann Protocol, a mobile application on the iOS platform, and plan to commercialize and market a line
+of products, including our own branded molecular agents, health and wellness testing kits and services, as well as published and multimedia
+content. 
+
+Kaufmann Protocol 
+
+In the book The Kaufmann
+Protocol, Dr. Kaufmann explores the multifactorial causes of aging and presents strategies where aging is curtailed, these strategies
+are hereinafter referred to as the Protocol . 
+
+2 
+
+At the most basic level organisms age
+because their component cells age, the Protocol addresses the seven known theories, or the Kaufmann Seven Tenets of cellular
+aging into tenets, which are: Information Systems (DNA), Cellular Energy, Cellular Pathways, Quality Control, Immune System, Individual
+Cells and Waste Management. 
+
+1. 
+ Information Systems (DNA). DNA is our information depot. Issues with aging in this category include epigenetic modification, accumulation of DNA damage, and telomeric integrity. Epigenetic modification encompasses changes to the packaging of the DNA, including methylation, histone modification and the like. Telomeres, the caps or ends of DNA, are known to shorten over time and are broadly correlated to the length of a life. 
+
+2. 
+ Cellular Energy. Mitochondria, cellular organelles, serve as our energy source. These organelles are rate limiting over time as their output declines, second to either damage from free radicals or simply declining availability of raw materials. 
+
+3. 
+ Cellular Pathways. The pathways are our aging or anti-aging pathways, such as the AMP Kinase, the Sirtuin or the mTOR pathways. These are like enzymatic dominoes that can either direct your cells and tissues to age or not age. 
+
+4. 
+ Quality Control. This category includes the DNA and Protein Repair mechanisms, which are key to repairing the ongoing damage inside your cells. As you get older and the damage becomes more extensive, these mechanisms get a bit stressed. This category also includes intracellular autophagy, a mechanism for cellular recycling. 
+
+5. 
+ Immune System. The cells that compose the immune system constitute your security system. Over time, unfortunately, this system becomes problematic and causes the body to be in a state of chronic and systemic inflammation. In addition, the failing immune system causes an increase in infection and cancer. 
+
+6. 
+ Individual Cells. Depending on the lifespan of particular cells, some live for days while some last a life time, their particular needs can be specialized. Some require an increased pool of nutrients, while others have more issues with trash accumulation. 
+
+7. 
+ Waste Management. Every cell has requirements for living, such as oxygen and glucose. Unfortunately, these can lead to increased aging. As an example, glucose forms molecular complexes called Advanced Glycation Endproducts (AGEs), which are very destructive. As well, longer lived cells produce cellular waste, called lipofuscin, that accumulates and eventually causes space issues. 
+
+Our Products 
+
+Based on the Seven Tenets,
+the Protocol has identified a series of molecular agents, certain of which are dietary supplements and or prescription medications that
+can be used to combat aging and improve health-span. Many of the molecular agents we recommend have been used in eastern medicine for
+thousands of years based on their curative effects, and are generally available, none of which are proprietary to us. We do however identify
+and present individualized and in certain instances dosage specific individualized recommendations, based on algorithmic outputs of our
+software, based on individual biology, diet, lifestyle and desired outcomes. Three generalized, and our most popular regimens are: 
+
+The Panacea; The General Strategy 
+
+The Sweet Tooth; The Anti-Glycation Strategy 
+
+The Ache Remedy; The Anti-Inflammatory Strategy 
+
+We do not currently offer
+the molecular agents that makeup our Strategies. Our designed strategies, include a regimen of molecular agents, which currently must
+be sourced from third parties, however it is our plan to source and market the products which make up our proprietary strategies under
+our own brand, the Kaufmann Protocol, which we plan to offer through our website and mobile
+application . 
+
+Our Mobile Application 
+
+The mobile application guides
+users through a specific set of questions relating to your age and aging concerns and will use our proprietary algorithm to design a regimen
+scientifically calculated to achieve optimum results addressing your needs, based on the users responses. We expect our mobile
+and web applications will serve as a sales tool, for initial sales, reorders and as a means to connect with our customers to track their
+progress, deliver relevant and meaningful content and serve as a platform for future growth and expansion of our DTC product offerings. 
+
+3 
+
+Fitwell App Acquisition 
+
+On May 29, 2021, we entered into a binding letter
+of intent (the LOI with Fitwell Limited a company organized under the laws of the United Kingdom Fitwell to acquire Fitwell and its fitness and nutrition app, that same letter of intent expired, pursuant to the terms therein on July 29, 2021.
+Subsequent thereto, on September 24, 2021, we entered into a contingent Stock Purchase Agreement (the Agreement with
+Fitwell pursuant to which we have agreed to acquire one hundred percent of issued and outstanding shares of Fitwell for a purchase price
+of 1,000,000 payable in cash and our common stock. Worldwide Strategies will pay an aggregate cash purchase price of 500,000 and will
+issue shares of the Registrant s common stock valued at 500,000 with the price per share being the price that we price our shares
+for sale in our planned Regulation A+ offering the Offering ), notwithstanding, the price of the offering, the price per
+share of the shares to be issued to Fitwell shall not exceed a per share price of 0.40. The acquisition is contingent on our conducting
+a Regulation A+ offering, wherein we raise a minimum of 2,000,000 (the Offering ). The Fitwell shareholders will receive
+the cash component of our purchase price from the proceeds of our Offering and the shares to be issued shall be issued subsequent to the
+closing of the Offering. In connection with the Buyer s acquisition of the Business, the Buyer and the Seller will enter into customary
+transition services and other ancillary arrangements. The Agreement also contains representations, warranties, covenants, indemnification
+obligations and closing conditions which are customary for transactions of this nature. The Buyer and the Seller have the right to terminate
+the Agreement prior to the closing under certain circumstances, including, without limitation: (i) by mutual written consent; (ii) by
+either the Buyer or the Seller if the closing has not occurred on or before the date that is 90 days following the qualification of the
+Registrant s offering by the Securities and Exchange Commission; (iii) by the Seller if the Offering does not raise a minimum
+of 2,000,000in proceeds or (iv) by either the Buyer or the Seller if a material breach occurs and is not cured within the required
+amount of time. 
+
+The Fitwell Personal
+Fitness Coach app is an Artificial intelligence AI powered fit-tech mobile application that optimizes health and fitness
+through a state of the art mobile app and chatbot. Fitwell has more than 1.9 million registered users globally and been selected Best
+of PlayStore and Top Developer by Google; featured among best apps by Apple. The company has been rated as one of
+the top start-ups by Early Metrics and was named among top 10 AI companies in Fitness Tech industry to watch in 2018 by Disruptor Daily.
+Fitwell has distribution agreements in place with Euro based telcos, and a roster of fitness influencers who generate revenue based on
+their content on the platform. 
+
+Fitwell pioneered the fitness creator
+monetization model through its Fitwell Personal Fitness Coach App, and assuming we are successful in closing this acquisition, we plan
+on further executing on the Fitwell business plan by continuing to recruit and onboard fitness creators and influencers. We also plan
+to employ data segmentation of the Fitwell database to offer our aging biology and wellness offerings and to offer fitness and nutrition
+content to our Kaufmann Protocol users. 
+
+4 
+
+Corporate History 
+
+Worldwide Strategies Incorporated we , us , or our was originally incorporated in the State of Nevada on April 6, 1998 as Boyd Energy
+Corporation, on July 17, 2001 the corporation s name was changed to Barnett Energy Corporation and on June 15, 2005, pursuant to
+a business combination with Worldwide Business Solutions Incorporated, a Colorado corporation WBSI ), WBSI became a wholly-owned
+subsidiary of the company and the corporation s name was changed to Worldwide Strategies Inc. On July 31, 2007, we acquired 100 
+of the issued and outstanding shares of Centric Rx, Inc., a Nevada corporation which was merged out of existence in connection with the
+share exchange. We subsequently ceased operations in 2015 and the Company has fully impaired all assets since the shutdown of its operations
+in 2015 and recorded the effects of this impairment as part of its discontinued operations. As a result of our discontinuation of operations,
+on August 1, 2017 and January 2, 2018, respectively our two subsidiaries were dissolved for non-payment of annual fees. Therefore, Worldwide
+Business Solutions Incorporated, a Colorado corporation and Worldwide Business Solutions Limited, a United Kingdom corporation, a subsidiary
+of Worldwide Business Solutions Incorporated, are no longer subsidiaries of the Company. 
+
+On May 7, 2019, the Eighth
+Judicial District Court of Nevada appointed Small Cap Compliance, LLC Custodian as custodian for Worldwide Strategies
+Inc., and on May 8, 2019, the Custodian appointed an executive officer and board member, who on July 10, 2019, filed a certificate of
+reinstatement of WWSG with the state of Nevada. On October 16, 2019, the Eighth
+Judicial District Court of Nevada discharged Small Cap Compliance, LLC as custodian for Worldwide Strategies Inc. On
+July 10, 2019 the Custodian appointed board member and sole executive officer, appointed a new member to the board of directors and subsequently
+resigned from the board and as the company s sole executive officer. The board of directors subsequently appointed the current management
+team, who are reorganizing the business as a health technology company. 
+
+Employees 
+
+The Company has 2 employees, our CEO and CFO, each
+of whom are part-time employees and each of whom are our founders as of July 31, 2021. 
+
+Legal Proceedings 
+
+From time to time, we may
+be involved in various claims and legal actions arising in the ordinary course of business. There are no legal proceedings currently pending
+against us which we believe would have a material effect on our business, financial position or results of operations and, to the best
+of our knowledge, there are no such legal proceedings contemplated or threatened. 
+
+Item 1A. Risk Factors. 
+
+As a smaller reporting company as
+defined by Item 10 of Regulation S-K, the Company is not required to provide this information. 
+
+Item 1B. Unresolved Staff Comments. 
+
+Not applicable. 
+
+Item 2. Properties. 
+
+Our principal business address
+is 1961 NW 150 Avenue, Suite 205 Pembroke Pines, FL 33028. The office space we are currently occupying is currently being provided to
+us at no cost to the company by our CFO. We expect this arrangement to continue until our operations require expansion. We currently do
+not own or lease any other property. 
+
+Item 3. Legal Proceedings. 
+
+There are no legal proceedings which are pending
+or have been threatened against us or any of our officers, directors or control persons of which management is aware. 
+
+Item 4. Mine Safety Disclosures 
+
+Not applicable. 
+
+5 
+
+PART II 
+
+Item 5. Market for the Registrant s Common Equity
+and Related Stockholder Matters. 
+
+Trading Price History 
+
+The Company s common stock is quoted on
+the OTC Pink tier of the OTC Markets Group, Inc. under the ticker symbol WWSG . Such quotations reflect inter-dealer prices,
+without retail mark-up, mark-down or commission and may not necessarily represent actual transactions. 
+
+On January 29, 2021, the closing price of our common
+units on the OTC Pink was 0.0275 per share. 
+
+Shareholders of Record 
+
+As of October 15, 2021, we
+had 19,830,679 shares of common stock outstanding and there were approximately 115 holders of record of our common stock, not including
+holders who hold their units in street name. 
+
+Dividends 
+
+The Company did not declare
+or pay any cash dividends on its common stock for the years ended July 31, 2021 or 2020. The Company currently intends to retain future
+earnings to finance the growth and development of its business however, the directors will also consider alternative for distributing
+some or all of its cash and cash equivalents to stockholders. 
+
+Issuer Purchases of Equity Securities 
+
+We did not, nor did any affiliated purchaser, make
+any repurchases of our securities during the year ended July 31, 2021. 
+
+Item 6. Reserved 
+
+Item 7. Management s
+Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Management s Plan of Operation 
+
+The
+following discussion contains forward-looking statements. Forward-looking statements give our current expectations or forecasts of future
+events. You can identify these statements by the fact that they do not relate strictly to historical or current facts. They use of words
+such as anticipate , estimate , expect , project , intend , plan ,
+ believe , and other words and terms of similar meaning in connection with any discussion of future operating or financial
+performance. From time to time, we also may provide forward-looking statements in other materials we release to the public. 
+
+6 
+
+Overview 
+
+We are a science based direct-to-consumer
+(DTC) health company offering products and services focused on aging biology wellness and longevity. Our program is based on the book
+the Kaufmann Protocol authored by our co-founder Dr. Sandra Kaufmann, M.D., and on identifying and offering individual specific
+services, recommendations and treatments designed to improve our customers lifespan and health-span. Whereas lifespan represents
+the total number of years we live, and health-span is how
+many of those years we remain healthy, active, energetic and free from disease. Our goal is to use science and technology, current and
+emerging treatments, for our customers to lengthen lifespan and maximize health-span. 
+
+We
+operate a DTC sales model, which means we market our products directly to our target consumers. We currently sell our book, the Kaufmann
+Protocol online, we offer, a mobile application, and plan to commercialize and market a line of products, including our own branded molecular
+agents, health and wellness testing kits and services, as well as published and multimedia content. 
+
+On May 7, 2019, the Eighth
+Judicial District Court of Nevada appointed Small Cap Compliance, LLC Custodian as custodian for Worldwide Strategies
+Inc., and on May 8, 2019, the Custodian appointed an executive officer and board member, who on July 10, 2019, filed a certificate of
+reinstatement of WWSG with the state of Nevada. On October 16, 2019, the Eighth Judicial
+District Court of Nevada discharged Small Cap Compliance, LLC as custodian for Worldwide Strategies Inc. On
+July 10, 2019 the Custodian appointed board member and sole executive officer, appointed a new member to the board of directors and subsequently
+resigned from the board and as the company s sole executive officer. The board of directors subsequently appointed the current management
+team, who are reorganizing the business as a health technology company. 
+
+Significant Recent Developments Regarding
+COVID-19 
+
+During March 2020, a global
+pandemic was declared by the World Health Organization related to the rapidly spreading outbreak of a novel strain of coronavirus designated
+COVID-19. The pandemic has significantly impacted economic conditions in the United States. The long-term impact of COVID-19 on the economy
+and on our business remains uncertain, the duration and scope of which cannot currently be predicted. Please refer to the matters discussed
+under the caption Risk Factors . 
+
+Results of Operations During the Year Ended
+July 31, 2021 As Compared to The Year Ended July 31, 2020 
+
+Net Loss 
+
+For the years ended July
+31, 2021 and 2020 we incurred net losses of approximately 1.4 million and 48,000 respectively. 
+
+Revenue 
+
+For
+the years ended July 31, 2021 and 2020, we generated no revenue. 
+
+Expenses 
+
+For the years ended July
+31, 2021 and 2020, we incurred expenses of approximately 1.4 million and 48,000 respectively. The increase of 1.4 million in expenses
+for the year ended July 31, 2021 was primarily related to stock compensation expense of approximately 1.3 million and an increase in
+professional fees of approximately 12,000. For the years ended July 31, 2021 and 2020 we incurred interest expense of approximately
+ 48,000 in relation to the promissory notes outstanding. 
+
+7 
+
+Liquidity 
+
+Currently, we rely on our
+management to provide us with the capital needed to run our business on a day-to-day basis . 
+
+For the years ended July 31, 2021 and 2020 we incurred net losses of
+approximately 1.4 million and 48,000 respectively. As of July 31, 2021 and 2020, we had no cash on hand and current liabilities of 0.9
+million. During the year ended July 31, 2021 our CEO and CFO provided loans to us in the amount of 14,577. 
+
+We will seek additional funds through equity or
+debt financing, collaborative or other arrangements with corporate partners, licensees or others, and from other sources, which may have
+the effect of diluting the holdings of existing shareholders. 
+
+The Company has no current
+arrangements with respect to, or sources of, such additional financing and we do not anticipate that existing shareholders will provide
+any portion of our future financing requirements. 
+
+No
+assurance can be given that additional financing will be available when needed or that such financing will be available on terms acceptable
+to the Company. If adequate funds are not available, we may be required to delay or terminate expenditures for certain of its programs
+that it would otherwise seek to develop and commercialize. This would have a material adverse effect on the Company. 
+
+Going Concern 
+
+The report of our independent registered public
+accounting firm on the financial statements for the years ended July 31, 2021 and 2020, includes an explanatory paragraph relating to
+the uncertainty of our ability to continue as a going concern. We have incurred recurring losses, incurred liabilities in excess of assets
+over the past year, and have an accumulated deficit of 15.4 million. Based upon current operating levels, we will be required to obtain
+additional capital in order to sustain our operations through July 31, 2022. 
+
+Critical Accounting Policies and Use of
+Estimates 
+
+The
+preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires
+management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets
+and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period.
+Actual results could differ from those estimates. 
+
+Fair Value of Financial Instruments 
+
+On August 1, 2012, the Company
+adopted ASC 820, Fair Value Measurements and Disclosures . ASC 820 defines fair value, establishes a three-level valuation hierarchy
+for disclosures of fair value measurement and enhances disclosure requirements for fair value measures. The three levels are defined as
+follows: 
+
+Level 1 inputs to the valuation methodology are quoted prices (unadjusted) for identical assets or liabilities in active markets. 
+
+Level 2 inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, and inputs that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the financial instrument. 
+
+Level 3 inputs to valuation methodology are unobservable and significant to the fair measurement. 
+
+8 
+
+Off-Balance Sheet Arrangements 
+
+As
+of July 31, 2021 and 2020, we did not have any off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of Regulation S-K
+promulgated under the Securities Act of 1934. 
+
+Contractual Obligations and Commitments 
+
+As
+of July 31, 2021 and 2020, we did not have any contractual obligations. 
+
+Item 7A. Quantitative and Qualitative
+Disclosures About Market Risk. 
+
+As a smaller reporting company as
+defined by Item 10 of Regulation S-K, the Company is not required to provide this information. 
+
+Item 8. FINANCIAL STATEMENTS AND
+SUPPLEMENTARY DATA. 
+
+Index to the Financial Statements 
+
+Page 
+ 
+ FOR THE YEARS ENDED JULY 31, 2021 AND 2020 
+
+Report of Independent Registered Public Accounting Firm 
+ F-1 
+
+Balance Sheets 
+ F-3 
+
+Statements of Operations 
+ F-4 
+
+Statements of Changes in Stockholders Deficit 
+ F-5 
+
+Statements of Cash Flows 
+ F-6 
+
+Notes to Financial Statements 
+ F-7 
+
+9 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+To the Board of Directors and 
+
+ Shareholders of Worldwide Strategies,
+Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets
+of Worldwide Strategies, Inc. (the Company) as of July 31, 2021 and 2020, and the related statements of operations, changes in stockholders 
+deficit, and cash flows for each of the years in the two-year period ended July 31, 2021, and the related notes (collectively referred
+to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position
+of the Company as of July 31, 2021 and 2020, and the results of its operations and its cash flows for each of the years in the two-year
+period ended July 31, 2021, in conformity with accounting principles generally accepted in the United States of America. 
+
+Going Concern 
+
+The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 3 to the financial statements, the Company has
+suffered net losses from operations in current and prior periods and has an accumulated deficiency, which raises substantial doubt about
+its ability to continue as a going concern. Management s plans regarding those matters are discussed in Note 3. The financial statements
+do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+F- 1 
+
+Critical Audit Matters 
+
+The critical audit matter communicated below is
+a matter arising from the current period audit of the financial statements that were communicated or required to be communicated to the
+audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially
+challenging, subjective, or complex judgments. The communication of this critical audit matter does not alter in any way our opinion on
+the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions
+on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+Going Concern 
+
+As discussed in Note 3 to the financial
+statements, the Company has a going concern due to lack of revenue and accumulated net losses from operations in the current and prior
+periods. 
+
+Auditing management s evaluation
+of going concern involves significant judgement given the fact that the Company uses management s estimates of future revenues and
+expenses, which are not to be substantiated. 
+
+To evaluate the appropriateness of
+the significant doubt about the Company s ability to continue as a going concern, we examined and evaluated the financial information
+that was the initial cause of the doubt along with management s plans to mitigate the significant doubt about continuing as a going
+concern. 
+
+/s/ M K CPAS, PLLC 
+
+We have served as the Company s auditor since 2021. 
+
+ Houston, TX 
+
+ October 29, 2021 
+
+F- 2 
+
+Worldwide Strategies, Inc. 
+
+ Balance Sheets 
+
+ July 31, 2021 and 2020 
+
+July 31, 2021 
+ July 31, 2020 
+ 
+ Assets 
+
+Current Assets: 
+
+Cash 
+
+Total assets 
+
+Liabilities and Stockholders' Deficit 
+
+Current Liabilities: 
+
+Accounts payable 
+ 42,967 
+ 42,967 
+ 
+ Accrued liabilities 
+ 375,504 
+ 327,904 
+ 
+ Convertible notes payable, in default 
+ 452,406 
+ 452,406 
+ 
+ Convertible notes payable, related party - in default 
+ 40,000 
+ 40,000 
+ 
+ Total current liabilities 
+ 910,877 
+ 863,277 
+
+Long term notes payable - related party 
+ 14,577 
+
+Total Liabilities 
+ 925,454 
+ 863,277 
+
+Stockholders' deficit: 
+
+Preferred Stock; .001 par value; 25,000,000 shares authorized 
+
+Series A, 5,000,000 and 1,491,743 shares issued and outstanding as of July 31, 2021
+ and 2020, respectively 
+ 5,000 
+ 1,492 
+ 
+ Series B, 270,000 shares issued and outstanding as of July 31, 2021
+ and 2020, respectively 
+ 270 
+ 270 
+ 
+ Common stock, .001 par value, 975,000,000 shares authorized
+ 19,830,679 shares issued and outstanding as of July 31, 2021
+ and 2020, respectively 
+ 19,831 
+ 19,831 
+ 
+ Additional paid-in capital 
+ 14,497,273 
+ 13,185,185 
+ 
+ Accumulated deficit 
+ (15,447,828 
+ (14,070,055 
+ 
+ Total Stockholders' Deficit 
+ (925,454 
+ (863,277 
+ 
+ Total Liabilities and Stockholders' Deficit 
+
+See
+accompanying notes to consolidated condensed financial statements 
+
+F- 3 
+
+Worldwide
+Strategies, Inc. 
+
+ Statements of Operations 
+
+ For the years ended July 31, 2021 and 2020 
+
+For The Year Ended July 31, 
+
+2021 
+ 2020 
+ 
+ Operating expenses: 
+
+Other general and administrative expenses 
+ 1,329,955 
+
+Total operating expenses 
+ 1,329,955 
+
+Loss from operations 
+ 1,329,955 
+
+Other expense: 
+
+Interest expense 
+ (47,818 
+ (47,677 
+ 
+ Loss before income taxes 
+ (1,377,773 
+ (47,677 
+ 
+ Income tax provision 
+
+Net loss 
+ (1,377,773 
+ (47,677 
+
+Basic and diluted loss per share 
+ (0.07 
+ (0.00 
+
+Basic and diluted weighted average common shares outstanding 
+ 19,830,679 
+ 19,830,679 
+
+See
+accompanying notes to consolidated condensed financial statements 
+
+F- 4 
+
+Worldwide Strategies, Inc. 
+
+ Statements of Changes in Stockholders 
+Deficit 
+
+ For the years ended July 31, 2021 and 2020 
+
+Preferred Stock 
+ Common Stock 
+
+Series A 
+ Series B 
+
+Additional 
+
+Shares 
+ Par Value 
+ Shares 
+ Par Value 
+ Shares 
+ Par Value 
+ Paid-In Capital 
+ Accumulated Deficit 
+ Total 
+ 
+ Balance at July 31, 2019 
+ 1,491,743 
+ 1,492 
+ 270,000 
+ 270 
+ 19,830,679 
+ 19,831 
+ 13,185,185 
+ (14,022,378 
+ (815,600 
+ 
+ Net Loss 
+
+(47,677 
+ (47,677 
+ 
+ Balance July 31, 2020 
+ 1,491,743 
+ 1,492 
+ 270,000 
+ 270 
+ 19,830,679 
+ 19,831 
+ 13,185,185 
+ (14,070,055 
+ (863,277 
+ 
+ Issuance of Preferred Stock for services - related party 
+ 3,508,257 
+ 3,508 
+
+1,312,088 
+ 
+ 1,315,596 
+ 
+ Net Loss 
+
+(1,377,773 
+ (1,377,773 
+ 
+ Balance July 31, 2021 
+ 5,000,000 
+ 5,000 
+ 270,000 
+ 270 
+ 19,830,679 
+ 19,831 
+ 14,497,273 
+ (15,447,828 
+ (925,454 
+
+See
+accompanying notes to consolidated condensed financial statements 
+
+F- 5 
+
+Worldwide Strategies, Inc. 
+
+ Statements of Cash Flows 
+
+ For the years ended July 31, 2021 and 2020 
+
+For The Year Ended July 31, 
+
+2021 
+ 2020 
+ 
+ Cash flows from operating activities: 
+
+Net loss 
+ (1,377,773 
+ (47,677 
+ 
+ Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Stock Based Compensation 
+ 1,315,596 
+
+Accrued liabilities 
+ 47,600 
+ 47,677 
+ 
+ Net cash used in operating activities 
+ (14,577 
+
+Cash flows from financing activities: 
+
+Related party loans 
+ 14,577 
+
+Net cash provided by financing activities 
+ 14,577 
+
+Net increase in cash 
+
+Cash, beginning of period 
+
+Cash, end of period 
+
+Supplemental disclosure of cash flow information: 
+
+Cash paid for taxes 
+
+Cash paid for interest 
+
+See
+accompanying notes to consolidated condensed financial statements 
+
+F- 6 
+
+Worldwide Strategies, Inc. 
+
+ NOTES TO FINANCIAL STATEMENTS 
+
+ FOR THE YEAR ENDED JULY 31, 2020 and 2019 
+
+ (Audited) 
+
+Note 1 Organization and Basis of Presentation 
+
+Organization and Basis of Presentation 
+
+ Worldwide Strategies Incorporated WWSG 
+or the Company was incorporated under the laws of the State of Nevada on April 6, 1998 and ceased operations in 2015. The
+Company fully impaired all assets since the shutdown of its operations in 2015. On May 7, 2019, the eight judicial District Court of Nevada
+appointed Small Cap Compliance, LLC Custodian as custodian for Worldwide Strategies Incorporated., proper notice having
+been given to the officers and directors of Worldwide Strategies Incorporated with no opposition. On July 10, 2019, the Company filed
+a Certificate of Reinstatement with the state of Nevada. 
+
+The accompanying financial statements are prepared
+on the basis of accounting principles generally accepted in the United States of America GAAP and have been prepared assuming
+the continuation of the Company as a going concern. The Company has not yet established an ongoing source of revenues sufficient to cover
+its operating costs and is dependent on debt and equity financing to fund its operations. Management of the Company is making efforts
+to raise additional funding until a registration statement relating to an equity funding facility is in effect. While management of the
+Company believes that it will be successful in its capital formation and planned operating activities, there can be no assurance that
+the Company will be able to raise additional equity capital or be successful in the development and commercialization of the products
+it develops or initiates collaboration agreements thereon. The accompanying financial statements do not include any adjustments to reflect
+the possible future effects on the recoverability and classification of assets or the amounts and classification of liabilities that may
+result from the possible inability of the Company to continue as a going concern. 
+
+Note 2 Summary of Significant Accounting
+Policies 
+
+Cash and Cash Equivalents 
+
+ The Company doesn t maintain any bank accounts
+and does not have any cash in hand. For day-to-day business activities, the Company depends upon the directors personal accounts. 
+
+For purposes of reporting within the statements
+of cash flows, the Company considers all cash on hand, cash accounts not subject to withdrawal restrictions or penalties, and all highly
+liquid debt instruments purchased with a maturity of three months or less to be cash and cash equivalents. 
+
+Use of Estimates 
+
+ The preparation of financial
+statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the
+date of the financial statements and the reported amounts of revenue and expenses during the reporting period. Actual results could differ
+from those estimates. 
+
+Loss per Common Share 
+
+ Net loss per common share is computed by
+dividing net loss by the weighted average number of common shares outstanding for the period. As a result, diluted loss per common
+share is the same as basic loss per common share for the years ended July 31, 2021 and 2020. Excluded from the weighted average
+common shares outstanding amount is convertible preferred stock equivalent to 279,323,394 common shares and convertible debt
+equivalent to 44,771,429 common shares as the effect of these on the computation of net loss per share would have been
+anti-dilutive. 
+
+F- 7 
+
+Income Taxes 
+
+ The Company accounts for income taxes pursuant
+to FASB ASC Topic 740, Income Taxes . Under FASB ASC Topic 740, deferred tax assets and liabilities are determined based on
+temporary differences between the bases of certain assets and liabilities for income tax and financial reporting purposes. The deferred
+tax assets and liabilities are classified according to the financial statement classification of the assets and liabilities generating
+the differences. 
+
+The Company maintains a valuation allowance with
+respect to deferred tax assets. The Company establishes a valuation allowance based upon the potential likelihood of realizing the deferred
+tax asset and taking into consideration the Company s financial position and results of operations for the current period. Future
+realization of the deferred tax benefit depends on the existence of sufficient taxable income within the carry-forward period under the
+Federal tax laws. 
+
+Changes in circumstances, such as the Company
+generating taxable income, could cause a change in judgment about the reliability of the related deferred tax asset. Any change in the
+valuation allowance will be included in income in the year of the change in estimate. 
+
+Fair Value of Financial Instruments 
+
+ On August 1, 2012, the Company adopted ASC 820,
+ Fair Value Measurements and Disclosures . ASC 820 defines fair value, establishes a three-level valuation hierarchy for disclosures
+of fair value measurement and enhances disclosure requirements for fair value measures. The three levels are defined as follows: 
+
+Level 1 inputs to the valuation methodology are quoted prices (unadjusted) for identical assets or liabilities in active markets. 
+
+Level 2 inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, and inputs that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the financial instrument. 
+
+Level 3 inputs to valuation methodology are unobservable and significant to the fair measurement. 
+
+The following tables represent our assets and
+liabilities by level measured at fair value on a recurring basis at July 31, 2021 and July 31, 2020: 
+
+Fair Value Measurements at July 31, 2021 
+
+Level 1 
+ Level 2 
+ Level 3 
+ 
+ Description 
+
+Convertible Debt 
+ 
+ 492,406 
+
+Total Liabilities 
+ 
+ 492,406 
+
+Totals 
+ 
+ 492,406 
+
+Fair Value Measurements at July 31, 2020 
+
+Level 1 
+ Level 2 
+ Level 3 
+ 
+ Description 
+
+Convertible Debt 
+ 
+ 492,406 
+
+Total Liabilities 
+ 
+ 492,406 
+
+Totals 
+ 
+ 492,406 
+
+Reclassifications 
+
+ Certain reclassifications have
+been made to the prior year presentation to conform to the current year presentation. 
+
+Recent Accounting Pronouncements 
+
+ The Company reviewed all the recently issued,
+but not yet effective, accounting pronouncements and we do not believe any of these pronouncements will have a material impact on the
+Company. 
+
+F- 8 
+
+Note 3 Going
+Concern 
+
+For the years ended July 31, 2021 and 2020 we
+incurred net losses of approximately 1.4 million and 48,000 respectively. As of July 31, 2021, we had no cash on hand and current liabilities
+of 0.9 million. As of July 31, 2020, we had no cash on hand and current liabilities of 0.9 million. These losses combined with our current
+liabilities cast significant doubt on the company s ability to operate under the going concern. The Company filed a Registration
+Statement which was declared effective on August 20, 2021. The ability to continue as a going concern is dependent upon the Company generating
+profitable operations in the future and/or obtaining the necessary financing to meet its obligations and repay its liabilities arising
+from normal business operations when they come due. Management intends to finance operating costs over the next twelve months with loans
+from directors and/or private placement of common stock. The failure to achieve the necessary levels of profitability or obtaining additional
+funding would be detrimental to the Company. 
+
+Note 4 Related Party Transactions 
+
+The Company s CFO has provided office space
+at no cost to the Company. Our CEO and CFO incurred expenses on behalf of the Company amounting to 14,577 during the years ending July
+31, 2021. As of July 31, 2021 total amounts due to our CEO and CFO are 14,577. These amounts are due on December 31, 2022 and bear interest
+at eight percent per annum. 
+
+On June 7, 2021 the Company issued an aggregate of 3,508,257 shares of our convertible Series A preferred stock to our founders, Adam
+Laufer, Pavan Charan and Dr. Sandra Kaufmann, as founder stock in connection with the reorganization of our business. 
+
+As of July 31, 2021 and 2020, the Company had
+a convertible promissory note in the principal outstanding balance of 40,000, payable to a shareholder. Such note bears interest at nine
+percent per annum with a maturity date of July 31, 2015. The principal and accrued interest is convertible, at the option of the holder,
+into common shares at .01 per share. 
+
+As of July 31, 2021 and
+2020, our founders owned 270,000 shares of convertible Class B preferred stock. 
+
+Note 5 Convertible Notes Payable 
+
+The Company has convertible promissory notes that
+in the aggregate result in a principal outstanding balance of 200,450 as of July 31, 2021 and 2020, respectively. Interest on these notes
+range from nine to ten percent per annum and such notes had maturity dates of July 31, 2015. The principal and accrued interest is convertible,
+at the option of the holder, into common shares at .01 per share. Included in the balance outstanding is 40,000 that is due to a related party. 
+
+The Company has convertible promissory notes that
+in the aggregate result in a principal outstanding balance of 157,945 as of July 31, 2021 and 2020, respectively. Interest on these notes
+range from eight to ten percent per annum and such notes had maturity dates of July 31, 2015. The principal and accrued interest is convertible,
+at the option of the holder, into common shares at .04 per share. 
+
+The Company has convertible promissory notes that
+in the aggregate result in a principal outstanding balance of 50,000 as of July 31, 2021 and 2020, respectively. Interest on these notes
+are 8 per annum and such notes had maturity date of March 31, 2015. The principal and accrued interest is convertible, at the option
+of the holder, into non-restricted common stock in an amount equal to the total sum due, based on a mutually agreed discount (not to exceed
+50 to the then market price. 
+
+The Company has convertible promissory notes that
+in the aggregate result in a principal outstanding balance of 44,711 as of July 31, 2021 and 2020, respectively. Interest on these notes
+are 10 per annum and such notes had maturity dates ranging from July 31, 2015 to December 31, 2015. The principal and accrued interest
+is convertible, at the option of the holder, into common shares at .07 per share. 
+
+The Company has convertible promissory notes that
+in the aggregate result in a principal outstanding balance of 39,000 as of July 31, 2021 and 2020, respectively. Interest on these notes
+are 10 per annum and such notes had maturity dates ranging from July 31, 2015 to December 31, 2015. The principal and accrued interest
+is convertible, at the option of the holder, into common shares at .10 per share. 
+
+Accrued interest on such notes total 375,504
+and 327,904 as of July 31, 2021 and 2020, respectively and are included within accrued liabilities on the accompanying balance sheet.
+Based on the maturity dates of the promissory notes, all promissory notes are in default. 
+
+F- 9 
+
+Note 6 Shareholders Equity 
+
+Preferred stock 
+
+ The Company has two classes of preferred stock
+and is authorized to issue 25,000,000 shares of .001 par value preferred stock. The Company's Board of Directors may divide and issue
+the preferred shares in series. Each Series, when issued, shall be designated to distinguish them from the shares of all other series.
+The relative rights and preferences of these series include preference of dividends, redemption terms and conditions, amount payable upon
+shares of voluntary or involuntary liquidation, terms and condition of conversion as well as voting powers. 
+
+Series A Preferred Stock 
+
+ On December 15, 2008 the Company filed a certificate
+of designation with the Nevada Secretary of State, in which it was designated and authorized to issue 5,000,000 shares of Convertible
+Series A Preferred Stock at a par value of 0.001. Each share of Series A Preferred Stock is convertible into 6.25 shares of common stock
+at the election of the holder. Each Series A share is entitled to 6.25 votes in any vote of the common stock holders. Series A shares
+are redeemable by the Company at .50 per share with 15 days written notice. Series A shares are entitled to a 5 dividend preference
+and a participation interest in the remaining 95 dividend. 
+
+On June 7, 2021 the Company issued an aggregate
+of 3,508,257 shares of our convertible Series A preferred stock to our founders, Adam Laufer, Pavan Charan and Dr. Sandra Kaufmann, as
+founder stock in connection with the reorganization of our business. The Company recorded 1.3 million as stock compensation in relation
+to the issuance of the Series A preferred stock based upon the fair value of such shares. 
+
+Series B Preferred Stock 
+
+ On July 10, 2019 the Company filed a certificate
+of designation with the Nevada Secretary of State, in which it was designated and authorized to issue 5,000,000 shares of Convertible
+Series B Preferred Stock at a par value of 0.001. Each share of Series B Preferred Stock is convertible into 1,000 shares of common stock
+at the election of the holder. On July 10, 2019, the Company filed a Certificate of Reinstatement with the state of Nevada and issued
+to the Custodian 270,000 shares of Convertible Series B preferred stock to satisfy all outstanding obligations and debts owed to Custodian
+for costs associated with the custodianship proceedings, and all expenses incurred by the custodian in reinstating the company under Nevada
+state law, and settling all outstanding balances with the company s transfer agent. These shares were valued using the underlying
+stock price at the date of issuance which resulted in the Company recording stock compensation expense of 5.4 million. 
+
+Common stock 
+
+ As of July 31, 2021 and 2020, the Company was
+authorized to issue 975,000,000 and 33,333,333 shares of common stock respectively. On May 26, 2021, the Company increased the authorized
+amount of common stock to be issued to 975,000,000. Total shares outstanding at July 31, 2021 and 2020 were 19,830,679, respectively. 
+
+Note 7 Income Taxes 
+
+The Company accounts for income taxes under FASB
+ASC Topic 740, which requires use of the liability method. FASB ASC Topic 740 provides that deferred tax assets and liabilities are recorded
+based on the differences the tax basis of assets and liabilities and their carrying amounts for financial reporting purposes, referred
+to as temporary differences. 
+
+As of July 31, 2021, the Company incurred a net
+operating loss and, accordingly, no provision for income taxes has been recorded. In addition, no benefit for income taxes has been recorded
+due to the uncertainty of the realization of any tax assets. The Company has approximately 5.1 million and 3.7 million of federal net
+operating loss carry forwards at July 31, 2021 and 2020, respectively. In addition, the Company had gross deferred tax assets of 1.0
+million and 0.8 million as of July 31, 2021 and 2020 for which a full valuation allowance has provided. 
+
+Based on the available objective evidence, including
+the Company's history of losses, management believes it is more likely than not, the net deferred tax assets will not be fully realizable.
+Accordingly, the Company provided for a full valuation allowance against its net deferred tax assets at July 31, 2021 and 2020. The Company
+had no uncertain tax positions as of July 31, 2021 and 2020. 
+
+F- 10 
+
+Note 8 Subsequent Events 
+
+On May 29, 2021, we entered into a binding letter of intent (the LOI with Fitwell Limited a company organized under the laws of the United Kingdom Fitwell to acquire Fitwell and its fitness
+and nutrition app, that same letter of intent expired, pursuant to the terms therein on July 29, 2021. 
+
+Subsequent thereto, on September 24, 2021, we entered into a contingent
+Stock Purchase Agreement (the Agreement with Fitwell pursuant to which we have agreed to acquire one hundred percent of
+issued and outstanding shares of Fitwell for a purchase price of 1,000,000 payable in cash and our common stock. Worldwide Strategies
+will pay an aggregate cash purchase price of 500,000 and will issue shares of the Registrant s common stock valued at 500,000
+with the price per share being the price that we price our shares for sale in our planned Regulation A+ offering the Offering ),
+notwithstanding, the price of the offering, the price per share of the shares to be issued to Fitwell shall not exceed a per share price
+of 0.40. The acquisition is contingent on our conducting a Regulation A+ offering, wherein we raise a minimum of 2,000,000 (the Offering ). 
+
+The Fitwell shareholders will receive the cash component of our purchase
+price from the proceeds of our Offering and the shares to be issued shall be issued subsequent to the closing of the Offering. In connection
+with the Buyer s acquisition of the Business, the Buyer and the Seller will enter into customary transition services and other
+ancillary arrangements. The Agreement also contains representations, warranties, covenants, indemnification obligations and closing conditions
+which are customary for transactions of this nature. 
+
+The Buyer and the Seller have the right to
+terminate the Agreement prior to the closing under certain circumstances, including, without limitation: (i) by mutual written
+consent; (ii) by either the Buyer or the Seller if the closing has not occurred on or before the date that is 90 days following
+the qualification of the Registrant s offering by the Securities and Exchange Commission; (iii) by the Seller if the
+Offering does not raise a minimum of 2,000,000 in proceeds or (iv) by either the Buyer or the Seller if a material breach
+occurs and is not cured within the required amount of time. 
+
+F- 11 
+
+Item 9. Changes in and Disagreements with Accountants
+on Accounting and Financial Disclosure. 
+
+None. 
+
+Item 9A. Controls
+and Procedures. 
+
+Evaluation of Disclosure
+Controls and Procedures 
+
+Under
+the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we evaluated
+the effectiveness of our disclosure controls and procedures (as that term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange
+Act) as of July 31, 2021, which is the end of the period covered by this Annual Report. Based on this evaluation, our Chief Executive
+Officer and Chief Financial Officer concluded that the Company s disclosure controls and procedures were not effective as of July
+31, 2021 to ensure that information required to be disclosed by the Company in reports we file or submit under the Exchange Act is (i)
+recorded, processed, summarized, evaluated and reported, as applicable, within the time periods specified in the United States Securities
+and Exchange Commission s rules and forms and (ii) accumulated and communicated to the Company s management, including the
+Company s Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosures. 
+
+Report of Management on Internal Control over
+Financial Reporting 
+
+Our management is responsible
+for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) promulgated
+under the Exchange Act as a process designed by, or under the supervision of, our principal executive officer and principal financial
+and accounting officer and effected by our Board of Directors to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with GAAP. Because of our inherent limitations, our internal
+control over financial reporting may not prevent or detect misstatements. Therefore, even those systems determined to be effective can
+provide only reasonable assurance with respect to financial statement preparation and presentation. Projections of any evaluation of effectiveness
+to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate. 
+
+Our management assessed the effectiveness of our
+internal control over financial reporting as of July 31, 2021. In making this assessment, management used the criteria set forth
+by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control Integrated Framework (2013
+Framework). 
+
+Based on our evaluation, management concluded
+that our internal control over financial reporting was not effective as of July 31, 2021 due to a lack of segregation of duties.
+A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting such that there is a
+reasonable possibility that a material misstatement of annual or interim financial statements will not be prevented or detected and corrected
+on a timely basis. As this deficiency created a reasonable possibility that a material misstatement would not be prevented or detected
+in a timely basis, management concluded that the control deficiency represented a material weakness and accordingly our internal control
+over financial reporting was not effective as of July 31, 2021. Management concluded that additional personnel should be hired to ensure
+that there is adequate segregation of duties. 
+
+Remediation Plan for Material Weakness in Internal
+Control over Financial Reporting 
+
+We and our Board treat the controls surrounding,
+and the integrity of, our financial statements with the utmost priority. Management is committed to the planning and implementation of
+remediation efforts to address control deficiencies and any other identified areas of risk. These remediation efforts are intended to
+both address the identified material weakness and to enhance our overall financial control environment. 
+
+10 
+
+We are committed to maintaining a strong internal
+control environment. Our remediation efforts have begun, and we will continue to devote significant time and attention to these remedial
+efforts. As we continue to evaluate and work to improve our internal control over financial reporting, management may determine to take
+additional measures to strengthen controls or to modify the remediation plan described above, which may require additional implementation
+time. 
+
+We believe there are no material inaccuracies
+or omissions of material fact in this Form 10-K and, to the best of our knowledge, we believe that the financial statements in this Form
+10-K fairly present in all material respects our financial condition, results of operations and cash flows in conformity with GAAP. 
+
+Changes in Internal Control over Financial
+Reporting 
+
+Based on our evaluation, management concluded
+that our internal control over financial reporting was not effective as of July 31, 2021 due to a lack of segregation of duties. 
+
+Other than as set forth in the foregoing paragraph,
+there have been no changes in our internal control over financial reporting that occurred during the quarter ended July 31, 2021 that
+has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+This annual report does not include an attestation
+report of the Company's registered public accounting firm regarding internal control over financial reporting. Management's
+report was not subject to attestation by the Company's registered public accounting firm pursuant to rules of the SEC that permit the
+Company to provide only management's report in this annual report. 
+
+Item 9B. Other
+Information 
+
+None 
+
+11 
+
+PART III 
+
+Item 10. Directors, Executive Officers
+and Corporate Governance. 
+
+Name 
+ 
+ Age 
+ 
+ Position(s) 
+ 
+ Adam Laufer 
+ 
+ 47 
+ 
+ CEO, Director 
+ 
+ Pavan Charan 
+ 
+ 46 
+ 
+ CFO, Director 
+ 
+ Dr. Sandra Kaufmann 
+ 
+ 53 
+ 
+ Director 
+ 
+ Rhonda Keaveney 
+ 
+ 53 
+ 
+ Prior CEO, Secretary, Treasurer, and Director 
+
+Adam Laufer ,
+Since July 20, 2019, Mr. Laufer has served as our CEO and a member of our Board of Directors. Mr. Laufer leads the strategic vision of
+our company and oversees the implementation of our developing strategy and expansion as a direct-to-consumer health-tech company. Mr.
+Laufer is responsible for our acquisition, financing and growth strategies. We believe that Mr. Laufer s experience as a corporate
+securities attorney, an entrepreneur, startup founder and patent holder, coupled with his previous executive positions, including CEO
+and general counsel of a public company and his directorship of a 501c3 non-profit corporation, contribute to his preparedness, and his
+qualification to serve as a director of the registrant. From 2017 until July 2019, and through the present day, Mr. Laufer, has principally
+engaged in the management of his personal investment portfolio. From February 10, 2014 until December 15, 2017, Mr. Laufer served as chief
+executive officer and a director of MJ Holdings, Inc. a publicly traded real estate holding company. From January 2009 until his resignation
+in 2013, Mr. Laufer served as chairman and chief executive officer of Soleil Capital L.P., a publicly traded company. In 2013, prior to
+his resignation as an executive officer and a director of Soleil Capital L.P., Mr. Laufer successfully negotiated and executed the acquisition
+of a portfolio of electronic cigarette and personal vaporizer patents. Mr. Laufer co-founded Vapor Corp., an electronic cigarette company,
+and from 2009-2013, Mr. Laufer served the company as an advisor and general counsel; consulting on matters of corporate strategy and regulatory
+issues related to electronic cigarette products, during which time the company s revenues grew from 1M to 23M. Mr. Laufer has
+significant experience in working with start-up and development stage businesses in defining their corporate strategy, identifying funding
+and growth opportunities, and in implementing liquidity strategies. Mr. Laufer is a member in good standing of the Florida Bar. 
+
+Pavan Charan. Pavan
+(Satyaketu) Charan has served as our CFO and a member of our board of directors since July 2019. Mr. Charan is a serial entrepreneur and
+has over twenty-five years of finance and accounting experience within the United States, Europe, Latin America and the Caribbean. Mr.
+Charan has served in in the CFO capacity for several fast-growing technology companies to enable rapid, repeatable and scalable growth
+and has also been involved in financial reporting, finance transformation and capital market transactions. Since 2004 Mr. Charan has served
+as a Managing Director of a management advisory firm specializing in accountancy advisory for public companies, due diligence, merger
+and acquisition advisory, preparation of financial statements, Sarbanes Oxley implementation, financial modeling, with an expertise in
+technology implementation for enterprise clients. Earlier in his career, Pavan was a Senior Manager at KPMG, LLP where he provided audit
+and advisory services to publicly and privately held clients as well as private equity groups. Pavan began his career at Price Waterhouse,
+is a Chartered Accountant (UK) and a Certified Public Accountant (inactive). His experience spans various industries from healthcare,
+distribution, and technology, combined with his experience as a senior manager at a global accounting and advisory firm and his experience
+as a Managing Director of a boutique advisory firm, give Mr. Charan all the experiences, qualifications, and attributes necessary to serve
+as the registrants CFO and a member of its board of directors. 
+
+Dr. Sandra Kaufmann
+M.D . Sandra Kaufmann, M.D., a member of our board of directors since June 2021. Dr. Kaufmann is the creator of the Kaufmann Protocol
+and the author of the book The Kaufmann Protocol. Dr. Kaufmann, is currently the chief of pediatric anesthesiology at Joe DiMaggio Children s
+Hospital. Dr. Kaufmann earned her Medical Degree at the University of Maryland School of Medicine in 1996, and completed a residency and
+fellowship at Johns Hopkins in the field of pediatric anesthesiology in 2002. She is board-certified in both Anesthesiology and Pediatric
+Anesthesiology from the American Board of Anesthesiology and earned her Bachelor s Degree of Science from the University of Miami
+in 1990 followed by a Master s Degree from the University of Connecticut in Tropical Ecology and Evolutionary Biology. Dr. Kaufmann
+was recognized as Best in Medicine by the American Health Council. Dr. Kaufmann is the thought leader behind our business
+objective and possesses the vision for our corporate development and expansion in a medically responsible and ethical way, and as the
+head of a department at a major hospital, is equipped with the business processes, managerial skills and experience which qualifies her
+to serve as a director of the registrant. 
+
+Rhonda Keaveney. Ms.
+Keaveney holds a Juris Doctor degree and a Master Certificate in Project Management. She has extensive knowledge in the areas of FINRA
+corporate filings, OTC Markets filings, and SEC compliance filings. She has had over 20 years working with small cap companies. She is
+the owner of Small Cap Compliance, LLC which was the Custodian of the Company between May 7, 2019 until its discharge on October 16, 2019.
+From May 8, 2019 until July 10, 2019, Rhonda was the CEO, Secretary, Treasurer and Director of the Company. She resigned all positions
+from the Company on July 10, 2019. 
+
+12 
+
+Family Relationships 
+
+None. 
+
+Committees 
+
+We do not currently maintain
+an audit committee, compensation committee, corporate governance and nominating committee, conflicts committee or an executive committee. 
+
+Director Compensation 
+
+We do not currently have any
+non-employee directors and no additional compensation is currently paid to in connection with directorships over and above any employee-based
+compensation. 
+
+Code of Ethics 
+
+The Company has adopted a
+code of ethics that applies to all of the Company's employees, including its principal executive officer, principal financial officer
+and principal accounting officer, and the Board. The Company will provide, free of charge, a copy of the Company s code of ethics
+to any person, upon request. A copy of the code of ethics can be requested by writing to the Company at 1961 NW 150 Avenue, Pembroke Pines,
+Suite 205 Florida 33028. 
+
+Item 11. Executive Compensation 
+
+No executive compensation
+was paid during the fiscal years ended July 31, 2021, 2020 and 2019. The Company has no employment agreement with any of its officers
+and directors. 
+
+Item 12. Security Ownership of Certain
+Beneficial Owners and Management and Related Stockholder Matters. 
+
+The
+following table sets forth as of October 15, 2021 the number of shares of the Company s common stock and preferred stock owned on
+record or beneficially by each person known to be the beneficial owner of 5 or more of the issued and outstanding shares of the Company s
+voting stock, and by each of the Company s directors and executive officers and by all its directors and executive officers as a
+group. Beneficial ownership representing less than one percent is denoted with an . Unless otherwise indicated,
+the address for each person is our address at 1961 NW 150 Avenue, Pembroke Pines, Suite 205 Florida 33028. 
+
+Shares Beneficially Owned 
+
+Common Stock 
+ Class A Preferred Stock 
+ Class B Preferred Stock 
+ Total Voting Power 
+ 
+ Name of Beneficial Owner 
+ Shares 
+ 
+ Shares 
+ 
+ Shares 
+ 
+ (1) 
+ 
+ Officers and Directors 
+
+Sandra Kaufmann 
+ 0 
+ 
+ 1,169,419 
+ 23.38 
+ 90,000 
+ 33.3 
+ 30.30 
+ 
+ Adam Laufer 
+ 0 
+ 
+ 1,169,419 
+ 23.38 
+ 90,000 
+ 33.3 
+ 30.30 
+ 
+ Pavan Charan 
+ 0 
+ 
+ 1,169,419 
+ 23.38 
+ 90,000 
+ 33.3 
+ 30.30 
+ 
+ All executive officers and directors as a group (3 persons) 
+ 0 
+ 
+ 3,508,257 
+ 70.16 
+ 270,000 
+ 100 
+ 90.92 
+ 
+ 5 Security Holders 
+
+Sandra Kaufmann 
+ 0 
+ 
+ 1,169,419 
+ 23.38 
+ 90,000 
+ 33.3 
+ 30.30 
+ 
+ Adam Laufer 
+ 0 
+ 
+ 1,169,419 
+ 23.38 
+ 90,000 
+ 33.3 
+ 30.30 
+ 
+ Pavan Charan 
+ 0 
+ 
+ 1,169,419 
+ 23.38 
+ 90,000 
+ 33.3 
+ 30.30 
+
+_________________ 
+
+(1) 
+ 
+ Percentage total voting power represents voting power with respect to all shares of our common stock, class A Preferred stock and class B Preferred Stock, as a single class. Each share of Class A preferred stock shall be entitled to 6.25 votes per share of common stock and each share of Class B preferred stock shall be entitled to one thousand votes per share of common stock on all matters submitted to our stockholders for a vote. The common stock, class A Preferred stock and class B preferred stock vote together as a single class on all matters submitted to a vote of our stockholders, except as may otherwise be required by law. 
+
+13 
+
+Item 13. Certain Relationships and
+Related Transactions, and Director Independence. 
+
+On May 7, 2019, the Eight
+Judicial District Court of Nevada appointed Small Cap Compliance, LLC as custodian for Worldwide Strategies Inc., proper notice having
+been given to the officers and directors of Worldwide Strategies Inc. There was no opposition. 
+
+On July 10, 2019, the Company
+filed a Certificate of Reinstatement with the state of Nevada. Also, on July 10, 2019, the Company issued to the Custodian 270,000 shares
+of Convertible Series B preferred stock to satisfy all outstanding obligations and debts owed to Custodian for costs associated with the
+custodianship proceedings, and all expenses incurred by the custodian in reinstating the company under Nevada state law, and settling
+all outstanding balances with the company s transfer agent. 
+
+On
+June 10, 2021, the Company reorganized itself as a health wellness company and entered into a license agreement with Dr. Sandra
+Kaufmann M.D. covering certain intellectual property, databases, media rights, copyrights and trademarks, in connection therewith, our
+chief executive officer contributed 90,000 shares of convertible Class B preferred stock to Dr. Kaufmann for the benefit of the Company.
+Additionally, our CEO contributed 90,000 shares of convertible Class B preferred stock to our CFO, in connection with the reformation
+of our new business. 
+
+Our
+CFO, has provided us with office space at no charge. 
+
+Our
+CEO, CFO in their respective capacities, as executive officers and board members and Dr. Kaufmann, as a board member are providing their
+services to us without compensation. 
+
+Board Composition and Director Independence 
+
+Our business and affairs are
+managed under the direction of the board of directors. Our board of directors is currently comprised of three members, Messrs. Charan
+and Laufer and Dr. Kaufmann. Because of their relationships with us, none of them are independent under the rules of any national
+securities exchange or Rule 10A-3 under the Securities Exchange Act of 1934, or the Exchange Act. 
+
+Item 14. Principal Accounting Fees and Services. 
+
+The following table summarizes the aggregate fees
+for professional services provided by M K CPA S, PLLC for the years ended July 31, 2021 and 2020. 
+
+M K CPA S PLLC 
+
+2021 
+ 2020 
+ 
+ Audit Fees 
+ 12,000 
+
+Audit-Related Fees 
+ 2,500 
+
+Tax Fees 
+
+All Other Fees 
+
+Total 
+ 14,500 
+
+14 
+
+Audit Fees This
+category consists of fees for (a) the audits of our financial statements in our Annual Report on Form 10 and services attendant to, or
+required by, statute or regulation; (b) reviews of the interim condensed financial statements included in our Form 10; (c) comfort letters,
+consents and other services related to SEC and other regulatory filings. 
+
+Audit-Related Fees - This
+category consists of assurance and related services by the independent registered public accounting firm that are reasonably related to
+the performance of the audit or review of our financial statements and are not reported above under Audit Fees. The services
+for the fees disclosed under this category include consultation regarding our correspondence with the SEC, other accounting consulting
+and other audit services. 
+
+Tax Fees 
+This category consists of fees for services rendered for tax compliance and tax planning and advisory services. 
+
+All Other Fees - This
+category consists of fees for other miscellaneous items. 
+
+Pre-Approval Policies and Procedures 
+
+Our board of directors pre-approves
+all services provided by our independent auditors. All of the above services and fees were reviewed and approved by our board of directors
+before the respective services were rendered. 
+
+Our board of directors has
+considered the nature and amount of fees billed by our independent registered public accounting firm and believe that the provision of
+services for activities unrelated to the audit is compatible with maintaining their respective independence. 
+
+Item 15. Exhibits and Financial Statement Schedules 
+
+(a)(1) The following financial statements are included in Part II, Item 8. Financial Statements and Supplementary Data: 
+
+Page 
+ 
+ Financial Statements of Worldwide Strategies, Inc.: 
+
+Report of Independent Registered Public Accounting Firm 
+ F-1 
+
+Consolidated Balance Sheets - July 31, 2021 and 2020 
+ F-3 
+
+Consolidated Statements of Operations - Years ended July 31, 2021 and 2020 
+ F-4 
+
+Consolidated Statements of Changes in Stockholders Equity - Years ended
+ July 31, 2021 
+ F-5 
+
+Consolidated Statements of Cash Flows - Years ended July 31, 2021 and 2020 
+ F-6 
+
+Notes to Consolidated Financial Statements 
+ F-7 
+
+(a)(2) Schedules have been omitted because they are not required or are not applicable, or the required information
+has been included in the financial statements or the notes thereto. 
+
+(a)(3) See accompanying Index to Exhibits. 
+
+15 
+
+Exhibit No. 
+ 
+ Description 
+
+2.1 
+ 
+ Notice of Entry of Order Appointing, Eight Judicial District Court, Clark County, Nevada, Case No.: A-19-791451-P dated May 7, 2019 (Filed as an exhibit to Form 10-12G on June 21, 2021) . 
+
+2.2 
+ 
+ Notice of Entry of Order Discharging, Eight Judicial District Court, Clark County, Nevada, Case No.: A-19-791451-P dated October 16, 2019 (Filed as an exhibit to Form 10-12G on June 21, 2021) . 
+
+3.1 
+ 
+ Amended and Restated Articles of Incorporation (Filed as an exhibit to Form SB-2, File No. 333-129398, on November 2, 2005). 
+
+3.2 
+ 
+ Amended Bylaws (Filed as an exhibit to Form SB-2, File No. 333-129398, on November 2, 2005). 
+
+3.3 
+ 
+ Certificate of Change Pursuant to NRS 78.209 effective July 31, 2007 (Filed as an exhibit to the Form 8-K dated July 31, 2007, filed August 6, 2007). 
+
+3.4 
+ 
+ Certificate of Designation Pursuant to NRS 78.1955 effective December 8, 2008 (Filed as an exhibit to Form 8-K dated December 8, 2008, filed December 10, 2008). 
+
+3.5 
+ 
+ Amendment to Certificate of Designation Pursuant to NRS 78.1955 effective December 15, 2008 (Filed as an exhibit to the Form 8-K dated December 15, 2008, filed December 17, 2008). 
+
+3.6 
+ 
+ Certificate of Reinstatement dated July 10, 2019 (Filed as an exhibit to Form 10-12G on June 21, 2021) . 
+
+3.7 
+ 
+ Certificate of Designation dated July 10, 2019 (Filed as an exhibit to Form 10-12G on June 21, 2021) . 
+
+3.8 
+ 
+ Certificate of Amendment by Custodian filed July 10, 2019 (Filed as an exhibit to Form 10-12G on June 21, 2021) . 
+
+3.9 
+ 
+ Certificate of Amendment Filed July 10, 2019 (Filed as an exhibit to Form 10-12G on June 21, 2021) . 
+
+3.11 
+ 
+ Certificate of Amendment to the Articles of Incorporation Filed May 26, 2021 (Filed as an exhibit to Form 10-12G on June 21, 2021) . 
+
+10 
+ 
+ Intellectual Property License Agreement Between Worldwide Strategies Incorporated and Dr. Sandra Kaufmann (Filed as an exhibit to Form 10-12G on June 21, 2021 
+
+10.1 
+ 
+ 2005
+ Stock Plan (Filed as an exhibit to the initial filing of the registration statement on Form SB-2, File No. 333-129398, on November
+ 2, 2005 ). 
+
+21.1 
+ 
+ List of Subsidiaries 
+
+24.1 
+ 
+ Power of Attorney 
+
+31.1 
+ 
+ Certification of the principal executive officer of the Registrant, pursuant to Securities Exchange Act Rule 13a-14(a) 
+
+31.2 
+ 
+ Certification of the principal financial officer of the Registrant, pursuant to Securities Exchange Act Rule 13a-14(a) 
+
+32 
+ 
+ Certifications pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of The Sarbanes-Oxley Act of 2002, signed by the principal executive officer and the principal financial officer of the Registrant 
+
+101.INS 
+ 
+ XBRL Instance Document 
+
+101.SCH 
+ 
+ XBRL Taxonomy Extension Schema Document 
+
+101.CAL 
+ 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF 
+ 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+
+101.LAB 
+ 
+ XBRL Extension Labels Linkbase Document 
+ 
+ 101.PRE 
+ 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+
+_________________________________ 
+
+Filed within 
+
+Previously Filed 
+
+Item 16. Form 10-K Summary 
+
+None. 
+
+16 
+
+PART IV 
+
+SIGNATURES 
+
+Pursuant to the requirements
+of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. 
+
+WORLDWIDE STRATEGIES, INC. 
+
+Date: October 29, 2021 
+ By: 
+ /s/ Adam Laufer 
+
+Name: 
+ Adam Laufer 
+
+Title: 
+ 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in
+the capacities and on the dates indicated. 
+
+Signature 
+ 
+ Capacity 
+ Date 
+
+/s/ ADAM LAUFER 
+ 
+ Chief Executive Officer 
+ October 29, 2021 
+ 
+ Adam Laufer 
+ 
+ (Principal Executive Officer) 
+
+/s/ PAVAN CHARAN 
+ 
+ Chief Financial Officer and Principal 
+Accounting Officer 
+ October 29, 2021 
+ 
+ Pavan Charan 
+ 
+ (Principal Financial Officer) 
+
+/s/ SANDRA KAUFMAN 
+ 
+ Director 
+ October 29, 2021 
+ 
+ Sandra Kaufman 
+
+17 
+
+<EX-31.1>
+ 2
+ worldwide_ex3101.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+ CERTIFICATIONS 
+
+I, Adam Laufer, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of Worldwide Strategies, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to
+state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for,
+the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure
+controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal
+control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes
+in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness
+of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report
+any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent
+fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation
+of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board
+of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies
+and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely
+affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not
+material, that involves management or other employees who have a significant role in the registrant s internal control over financial
+reporting. 
+
+Date: October 29, 2021 
+
+/s/ ADAM LAUFER 
+
+Name: 
+ Adam Laufer 
+
+Title: 
+ Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ worldwide_ex3102.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+
+ CERTIFICATIONS 
+
+I, Pavan Charan, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of Worldwide Strategies, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to
+state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for,
+the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure
+controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal
+control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes
+in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness
+of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report
+any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent
+fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation
+of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board
+of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and
+material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect
+the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material,
+that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 29, 2021 
+
+/s/ PAVAN CHARAN 
+
+Name: 
+ Pavan Charan 
+
+Title: 
+ Chief Financial Officer and 
+
+Principal Accounting Officer 
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ worldwide_ex3200.htm
+ CERTIFICATION
+
+Exhibit 32 
+
+CERTIFICATIONS PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with this Annual Report on Form
+10-K of Worldwide Strategies, Inc. (the Company for the fiscal year ended July 31, 2021 as filed with the Securities and
+Exchange Commission on the date hereof (the Report ), each of the undersigned officers of the Company hereby certifies, pursuant
+to 18 U.S.C. (section) 1350, as adopted pursuant to (section) 906 of the Sarbanes-Oxley Act of 2002, that to the best of his knowledge: 
+
+(1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act
+of 1934; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition
+and results of operations of the Company. 
+
+/s/ ADAM LAUFER 
+
+Name: 
+ Adam Laufer 
+
+Title: 
+ Chief Executive Officer 
+
+Date: 
+ October 29, 2021 
+
+/s/ PAVAN CHARAN 
+
+Name: 
+ Pavan Charan 
+
+Title: 
+ Chief Financial Officer and 
+
+Principal Accounting Officer 
+
+Date: 
+ October 29, 2021 
+
+</EX-32>
+
+<EX-101.INS>
+ 8
+ wwsg-20210731.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 9
+ wwsg-20210731.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ wwsg-20210731_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ wwsg-20210731_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ wwsg-20210731_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ wwsg-20210731_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

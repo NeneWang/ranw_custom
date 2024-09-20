@@ -1,0 +1,3117 @@
+<Header>
+<FileStats>
+    <FileName>20211230_10-K_edgar_data_1377167_0001683168-21-006644.txt</FileName>
+    <GrossFileSize>5697811</GrossFileSize>
+    <NetFileSize>126960</NetFileSize>
+    <NonText_DocumentType_Chars>918590</NonText_DocumentType_Chars>
+    <HTML_Chars>1708953</HTML_Chars>
+    <XBRL_Chars>1267812</XBRL_Chars>
+    <XML_Chars>1512925</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-21-006644.hdr.sgml : 20211230
+<ACCEPTANCE-DATETIME>20211229184036
+ACCESSION NUMBER:		0001683168-21-006644
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		76
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211230
+DATE AS OF CHANGE:		20211229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Financial Gravity Companies, Inc.
+		CENTRAL INDEX KEY:			0001377167
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				204057712
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34770
+		FILM NUMBER:		211530187
+
+	BUSINESS ADDRESS:	
+		STREET 1:		12600 HILL COUNTRY BLVD., SUITE R-275
+		CITY:			BEE CAVE
+		STATE:			TX
+		ZIP:			78738
+		BUSINESS PHONE:		469-342-9100
+
+	MAIL ADDRESS:	
+		STREET 1:		12600 HILL COUNTRY BLVD., SUITE R-275
+		CITY:			BEE CAVE
+		STATE:			TX
+		ZIP:			78738
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PACIFIC OIL Co
+		DATE OF NAME CHANGE:	20131230
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRAIRIE WEST OIL & GAS, LTD.
+		DATE OF NAME CHANGE:	20130213
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KAT Racing, Inc.
+		DATE OF NAME CHANGE:	20061002
+
+</SEC-Header>
+</Header>
+
+ 0001683168-21-006644.txt : 20211230
+
+10-K
+ 1
+ fingravity_i10k-093021.htm
+ FORM 10-K
+
+Table of Contents 
+
+ UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ WASHINGTON, D.C. 20549 
+
+FORM 
+
+ANNUAL REPORT PURSUANT TO SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ For the fiscal year ended 
+
+TRANSITION REPORT PURSUANT TO
+SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction 
+of incorporation or organization) 
+ (Commission 
+File No.) 
+ (IRS Employee 
+Identification No.) 
+
+, , ,
+
+(Address of Principal Executive Offices) 
+
+- 
+
+ (Issuer Telephone number) 
+
+Securities registered pursuant to Section 12(b)
+of the Act: 
+
+Title
+ of each class 
+ Trading
+ Symbol 
+ Name
+ of each exchange on which registered 
+ 
+ N/A 
+ 
+ N/A 
+
+Securities registered pursuant to Section 12(g)
+of the Act: Common Stock, .001 par value 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or 15(d) of the Exchange Act. Yes 
+
+Indicate by check mark whether the issuer: (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. No 
+
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+ No 
+
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions
+of large accelerated filer, accelerated filer, smaller reporting company , and emerging
+growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on
+and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section
+404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+Yes 
+
+Indicate by check mark whether the registrant is a shell company as
+defined in Rule 12b-2 of the Exchange Act. Yes 
+
+As of September 30, 2021, the aggregate market
+value of the registrant s Common Stock held by non-affiliates of the issuer was approximately based on the last sales price
+of the issuer s Common Stock, as reported by OTC Markets. This amount excludes the market value of all shares as to which any executive
+officer, director or person known to the registrant to be the beneficial owner of at least 5 of the registrant s Common Stock may
+be deemed to have sole or shared voting power. 
+
+The number of shares outstanding of the registrant s Common Stock
+as of December 29, 2021 was . 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+
+Listed below are documents incorporated herein by reference and the
+part of this Report into which each such document is incorporated: 
+
+None 
+
+FINANCIAL GRAVITY COMPANIES, INC. 
+
+ FORM 10-K 
+
+TABLE OF CONTENTS 
+
+Forward-Looking Statements 
+ ii 
+ 
+ Part I 
+ 
+ Item 1. 
+ Business. 
+ 1 
+ 
+ Item 1A. 
+ Risk Factors. 
+ 2 
+ 
+ Item 1B. 
+ Unresolved Staff Comments. 
+ 5 
+ 
+ Item 2. 
+ Properties. 
+ 5 
+ 
+ Item 3. 
+ Legal Proceedings. 
+ 6 
+ 
+ Item 4. 
+ Mine Safety Disclosures. 
+ 6 
+
+Part II 
+ 
+ Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 7 
+ 
+ Item 6. 
+ Selected Financial Data. 
+ 7 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 8 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk. 
+ 12 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data. 
+ 12 
+ 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+ 12 
+ 
+ Item 9A. 
+ Controls and Procedures. 
+ 12 
+ 
+ Item 9B. 
+ Other Information. 
+ 13 
+
+Part III 
+ 
+ Item 10. 
+ Directors, Executive Officers and Corporate Governance. 
+ 14 
+ 
+ Item 11. 
+ Executive Compensation. 
+ 16 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ 17 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence. 
+ 19 
+ 
+ Item 14. 
+ Principal Accounting Fees and Services. 
+ 20 
+
+Part IV 
+ 
+ Item 15. 
+ Exhibits, Financial Statement Schedules. 
+ 21 
+
+SIGNATURES 
+ 22 
+ 
+ Item 16. 
+ Form 10-K Summary 
+
+i 
+
+FORWARD-LOOKING STATEMENTS 
+
+Certain statements contained in this Report that
+are not statements of historical fact constitute forward-looking statements. Words such as may, seek, 
+ expect, anticipate, estimate, project, budget, goal, 
+ forecast, anticipate, intend, plan, may, will, could, 
+ should, strategy, believes, predicts, potential, continue, 
+and similar expressions are intended to identify such forward-looking statements but are not the exclusive means of identifying such statements.
+Although the Company believes that the current views and expectations reflected in these forward-looking statements are reasonable, those
+views and expectations, and the Company s future plans, operations, business strategies, operating results and financial position,
+are inherently subject to risks, uncertainties, and other factors, many of which are not under the Company s control. Those risks,
+uncertainties, and other factors could cause the actual results to differ materially from those in the forward-looking statements. Those
+risks, uncertainties, and factors (including the risks contained in the section of this report titled Risk Factors that
+could cause the Company s actual results, performance or achievements to differ materially from those described or implied in the
+forward-looking statements and its goals and strategies to not be achieved. You are cautioned not to place undue reliance on forward-looking
+statements, which speak only as of the date of this Report. The Company expressly disclaims any obligation to release publicly any updates
+or revisions to these forward-looking statements to reflect any change in its views or expectations. The Company can give no assurances
+that such forward-looking statements will prove to be correct. 
+
+ii 
+
+PART I 
+
+Item 1. BUSINESS. 
+
+General 
+
+Financial Gravity Companies, Inc. (the Company is headquartered in Austin Texas, with locations in Denver, Colorado, Monterey, California and Cincinnati, Ohio. Company, along with its
+subsidiary companies, supports investment advisors and provides tax professionals with a turnkey family office charter. Company helps
+the tax professionals evolve from the commoditized business of tax compliance to a Family Office Director that runs and manages their
+own multi-family office. Family Office Directors are able to leverage the Financial Gravity systems, technology, proprietary resources,
+and deep domain expertise to bring an elevated and holistic financial service experience to their clients that spans proactive tax planning,
+retirement and estate planning, wealth management, and risk mitigation. 
+
+The currently operating wholly owned subsidiaries
+of the Company include: 
+
+Tax Master Network, LLC, runs the Tax Master Network TMN that provides four primary services including monthly subscriptions to the TMN systems, coaching and marketing services.
+TMN currently supports over 300 Certified Public Accountants CPA and Enrolled Agent professionals, training them to support
+clients through tax planning services. TMN has developed the Certified Tax Master that includes client acquisition and retention
+systems. TMN also offers tax planning services through the Tax Blueprint , which includes an extensive individualized review and assessment
+of the client s tax situation. The initial assessment sets the requirements for a custom Tax Blueprint for each client to use
+as guide to implementation of the identified tax savings strategies. Finally, TMN offers the Tax Operating System, which is a system for
+integrating and executing tax planning strategies. 
+
+TMN also provides CPAs, Enrolled Agents, and other
+tax professionals a system for marketing, selling, and fulfilling tax-planning engagements. The system rests on two proprietary SAAS-based
+applications, the Tax Ninja software, which uses non-technical language in written reports introducing clients to tax-saving concepts
+and strategies; and the Tax Operating System , which automates implementation of tax strategies. The system also includes: 1) marketing
+and practice-management tools and resources; 2) access to the Technical Training Center and the Sales Training Center to support members;
+3) the monthly Fueled program which promotes personal development education; 4) the weekly Tax Beat client newsletter (a client newsletter);
+and 5) the Certified Tax Master designation (which identifies members as offering special training not usually available to clients).
+TMN membership also includes the option to participate in the Financial Advisor Technical Education (FATE) program, which serves two goals:
+1) it helps tax planners do a better job helping clients manage tax exposure in their investment portfolios; and 2) it gives members a
+proprietary done for you path into the investment advisory business. 
+
+Financial Gravity Family Office Services, LLC FGFOS is a registered investment advisor that offers investment management advice to clients through independent investment
+advisors. Many of the independent investment advisors are members of TMN that are licensed to provide investment management advice. FGFOS
+provides support for the multi-family offices run by the TMN members. 
+
+Financial Gravity Asset Management, Inc., formerly
+Sofos Investment Management, Inc. FGAM is a registered investment advisor, registered with the Securities and Exchange
+Commission, and provides asset management services to individuals and businesses, including money management, financial planning, and
+wealth management. FGAM commenced its money management services in late 2020, and by September 30, 2021 had in excess of 170,000,000
+in assets under management. 
+
+Financial Gravity Enhanced Markets, LLC, formerly,
+MPath Advisor Resources, LLC FGEM is an insurance marketing organization and provides insurance products and services
+to insurance agents or agencies. This is a new venture that will be focused upon insurance marketing and will capture business synergies
+in the sale of insurance products by financial advisors with TMN and with Forta. 
+
+1 
+
+Forta Financial Group, Inc. Forta is a broker-dealer, a registered investment advisor, and a licensed insurance agent. It primarily operates in
+Colorado and has independent advisors and representatives in other states. As explained below, management has determined that
+Forta s broker/dealer business is no longer viable and has decided to discontinue Forta s broker/dealer operations.
+Company is in the process of completing that transition. 
+
+Competition 
+
+The market is comprised of a very large selection
+of varied suppliers that provide investment advisory and brokerage, financial advisory, accounting, and tax services. These include accounting
+firms, tax preparers, estate planners, lawyers, wealth management advisors, banks, and large financial institutions. However, many of
+these firms are not able to provide the customized services that small business owners are seeking, or simply do not have each of the
+customized services that Financial Gravity offers to meet the needs of small business owners and high net worth individuals at the price
+that Financial Gravity offers. 
+
+Financial Gravity s service delivery model has been proven to
+work over the past years. Financial Gravity believes that its superior products, services and overall customer service will enable it
+to achieve sales and revenue growth. 
+
+Intellectual Property 
+
+Financial Gravity maintains copyrights or trademarks
+on all of its printed marketing materials, the financialgravity.com website and other web pages, and proprietary software. Financial Gravity s
+goal is to preserve its trade secrets and operate without infringing on the proprietary rights of other parties. 
+
+To help protect its proprietary know-how, which
+is not patentable, Financial Gravity currently relies and will in the future rely on trade secret protection and confidentiality agreements
+to protect its interests. To this end, Financial Gravity requires all its employees, consultants, advisors and other contractors to enter
+into confidentiality agreements that prohibit the disclosure of confidential information and, where applicable, require disclosure and
+assignment to Financial Gravity of the ideas, developments, discoveries and inventions important to its business. 
+
+Employees 
+
+As of September 30, 2021, the Company had approximately 27 full-time
+employees. None of the Company s employees are covered by a collective bargaining agreement. The Company believes that it maintains
+good relations with its employees. 
+
+Government Regulation 
+
+The services provided by Financial Gravity, through its subsidiaries,
+are extensively regulated by federal and state authorities in the United States. Financial Gravity believes it is in compliance with federal
+and state qualification and registration requirements in order that it may continue to provide services to its clients consistent with
+applicable laws and regulations. 
+
+Item 1A. RISK FACTORS. 
+
+The Company s limited operating history may not serve as
+an adequate basis to judge its future prospects and results of operations . Financial Gravity has a relatively limited operating
+history. Its limited operating history and the unpredictability of the wealth management and insurance industries make it difficult for
+investors to evaluate its business. An investor in its securities must consider the risks, uncertainties and difficulties frequently encountered
+by companies in rapidly evolving markets. 
+
+2 
+
+The Company will need additional financing to implement its business
+plan. The Company will need additional financing to fully implement its business plan in a manner that not only continues to expand
+an already established direct-to-consumer approach, but also allows the Company to establish a stronger brand name in all the areas in
+which it operates, and to attract new advisors, insurance professionals and tax service providers. In particular, the Company will need
+additional financing to: 
+
+Effectuate its business plan and further develop its product and service lines; 
+
+Expand its facilities, human resources, and infrastructure; and 
+
+Increase its marketing efforts and lead generation. 
+
+There are no assurances that additional financing
+will be available on favorable terms, or at all. If additional financing is not available, the Company will need to reduce, defer or cancel
+development programs, planned initiatives and overhead expenditures. The failure to adequately fund its capital requirements could have
+a material adverse effect on the Company s business, financial condition, and results of operations. Moreover, the sale of additional
+equity securities to raise financing will result in additional dilution to the Company s stockholders and incurring additional indebtedness
+could involve the imposition of covenants that restrict the Company s operations. 
+
+The Company s products and services are subject to changes
+in applicable laws and regulations . The Company s business is particularly subject to changing federal and state
+laws and regulations related to the provision of financial services to consumers. The Company s continued success depends in part
+on its ability to anticipate and respond to these changes, and the Company may not be able to respond in a timely or commercially appropriate
+manner. If the Company fails to adjust its products and services in response to changing legal and/or regulatory requirements, the ability
+to deliver its products and services may be hindered, which in turn could have an adverse effect on the Company s business, financial
+condition and results of operations. 
+
+The Company may continue to encounter substantial
+competition in its business . The Company believes that existing and new competitors will continue to improve their products
+and services, as well as introduce new products and services with competitive price and performance characteristics. The Company expects
+that it must continue to innovate, and to invest in product development and productivity improvements, to compete effectively in the several
+markets in which the Company participates. The Company s competitors could develop a more efficient product or service or undertake
+more aggressive and costly marketing campaigns than those implemented by the Company, which could adversely affect the Company s
+marketing strategies and have an adverse effect on the Company's business, financial condition and results of operations. 
+
+Important factors affecting the Company's current
+ability to compete successfully include: 
+
+lead generation and marketing costs; 
+
+service delivery protocols; 
+
+branded name advertising; and 
+
+product and service pricing. 
+
+In periods of reduced demand for the Company's
+products and services, the Company can either choose to maintain market share by reducing product and service pricing to meet the competition,
+or maintain its product and service pricing, which would likely sacrifice market share. Sales and overall profitability may be reduced
+in either case. In addition, there can be no assurance that additional competitors will not enter the Company's existing markets, or that
+the Company will be able to continue to compete successfully against its competition. 
+
+3 
+
+The Company may not successfully manage
+its growth . The Company s success will depend upon the expansion of its operations and the effective management of
+its growth, which will place a significant strain on its management and on its administrative, operational, and financial resources. To
+manage this growth, it must expand its facilities, augment its operational, financial and management systems, and hire and train additional
+qualified personnel. If it is unable to manage its growth effectively, its business would be harmed. 
+
+The Company relies on key executive officers,
+and their knowledge of its business and technical expertise would be difficult to replace . The Company is highly dependent
+on its executive officers. If one or more of the Company's senior executives or other key personnel are unable or unwilling to continue
+in their present positions, the Company may not be able to replace them easily or at all, and the Company s business may be disrupted.
+Competition for senior management personnel is intense, the pool of qualified candidates is very limited, and it may not be able to retain
+the services of its senior executives or attract and retain high-quality senior executives in the future. Such failure could have a material
+adverse effect on the Company's business, financial condition and results of operations. 
+
+The Company may never pay dividends to its
+common stockholders . The Company currently intends to retain its future earnings to support operations and to finance expansion;
+accordingly, the Company does not anticipate paying any cash dividends in the foreseeable future. 
+
+The declaration, payment, and amount of any future
+dividends on common stock will be at the discretion of the Company's Board of Directors, and will depend upon, among other things, earnings,
+financial condition, capital requirements, level of indebtedness and other considerations the Board of Directors considers relevant. There
+is no assurance that future dividends will be paid on common stock or, if dividends are paid, the amount thereof. 
+
+The Company s common stock is quoted
+through the OTC Markets, which may have an unfavorable impact on its stock price and liquidity . The Company s common
+stock is quoted on the OTC Markets, which is a significantly more limited market than the New York Stock Exchange or NASDAQ. The trading
+volume may be limited by the fact that many major institutional investment funds, including mutual funds, follow a policy of not investing
+in OTC Markets stocks and certain major brokerage firms restrict their brokers from recommending OTC Markets stocks because they are considered
+speculative and volatile. 
+
+The trading volume of the Company s common
+stock has been and may continue to be limited and sporadic. As a result, the quoted price for the Company s common stock on the
+OTC Markets may not necessarily be a reliable indicator of its fair market value. 
+
+Additionally, the securities of small capitalization
+companies may trade less frequently and in more limited volume than those of more established companies. The market for small capitalization
+companies is generally volatile, with wide price fluctuations not necessarily related to the operating performance of such companies. 
+
+The Company s common stock is subject
+to price volatility unrelated to its operations . The market price of the Company s common stock could fluctuate substantially
+due to a variety of factors, including market perception of the Company s ability to achieve its planned growth, operating results
+of the Company and of other companies in the same industry, trading volume in the Company s common stock, changes in general conditions
+in the economy and the financial markets or other developments affecting the Company or its competitors. 
+
+The Company s common stock is classified
+as a penny stock. Rule 3a51-1 of the Securities Exchange Act of 1934 establishes the definition of a penny
+stock, for purposes relevant to us, as any equity security that has a minimum bid price of less than 5.00 per share or with an
+exercise price of less than 5.00 per share, subject to a limited number of exceptions which are not available to us. It is likely that
+the Company s common stock will be considered to be a penny stock for the immediately foreseeable future. 
+
+4 
+
+For any transaction involving a penny stock, unless
+exempt, the penny stock rules require that a broker or dealer approve a person s account for transactions in penny stocks and the
+broker or dealer receive from the investor a written agreement to the transaction, setting forth the identity and quantity of the penny
+stock to be purchased. In order to approve a person s account for transactions in penny stocks, the broker or dealer must obtain
+financial information and investment experience and objectives of the investor, make a reasonable determination that transactions in penny
+stocks are suitable for that person, and make a reasonable determination that that person has sufficient knowledge and experience in financial
+matters to be capable of evaluating the risks of transactions in penny stocks. 
+
+The broker or dealer must also provide disclosure
+to its customers, prior to executing trades, about the risks of investing in penny stocks in both public offerings and in secondary trading,
+the commissions payable to both the broker-dealer and the registered representative, and the rights and remedies available to an investor
+in cases of fraud in penny stock transactions. 
+
+Because of these regulations, broker-dealers may
+not wish to furnish the necessary paperwork and disclosures and/or may encounter difficulties in their attempt to buy or sell shares of
+the Company s common stock, which may in turn affect the ability of Company stockholders to sell their shares. 
+
+Accordingly, the penny stock classification adversely
+affects any market liquidity for the Company s common stock and subjects the shares to certain risks associated with trading in
+penny stocks. These risks include difficulty for investors in purchasing or disposing of shares, difficulty in obtaining accurate bid
+and ask quotations, difficulty in establishing the market value of the shares, and a lack of securities analyst coverage. 
+
+The Company s common stock is subject
+to dilution. Company s plan for increasing revenue is to recruit advisors and other professionals. Some of these recruits
+may be granted stock options or stock rights. These shares are among the shares reserved in Company s stock option plan (see compensation
+plans discussion). 
+
+FINRA Arbitrations . Forta
+had over 20 FINRA claims pending in 2021 that arise from the sale to clients of alternative investments (REITs, Business Development
+Loan Funds, and Oil and Gas securities). These income generating investments did not do as well as the stock markets, and the
+performance has lagged the market. While the exposure on these cases would not be material, the costs of defense for legal fees may
+be substantial. As part of its annual review of the performance of its subsidiaries, Company has decided to discontinue
+Forta s broker/dealer operation and that transition is now in progress. 
+
+The Company s performance may be affected
+by COVID-19. December 2019, a novel strain of coronavirus, referred to as COVID-19, was reported to have surfaced in Wuhan, China.
+Since then, COVID-19 has spread to other countries, including the United States. In March 2020, the World Health Organization declared
+the COVID-19 outbreak a pandemic. The financial markets demonstrated significant volatility in reaction to the virus outbreak, and new
+variants may contribute to volatility. The effects of such COVID-19 variants on the economy are not known. During periods of high volatility
+and uncertainty many investors choose to stop ongoing investment activity. Revenues of the Company are adversely affected when investors
+reduce their investment activities. In addition, over 50 t of Company s revenues is based upon the value of assets under management.
+If the investment portfolios of clients decrease in value, investment management fees may also decrease. Any significant shutdown of the
+economy for a sustained period will affect the Company s revenue which could lead to losses. 
+
+Item 1B. UNRESOLVED STAFF COMMENTS. 
+
+None. 
+
+Item 2. PROPERTIES. 
+
+The Company s corporate offices are located at 2501 Ranch Road
+620 South, Suite 110, Lakeway, Texas 78734. 
+
+5 
+
+TMN s offices are located in Cincinnati,
+OH. 
+
+Forta has offices in Greenwood Village, Colorado. 
+
+Company has offices in Carmel, California. 
+
+Item 3. LEGAL PROCEEDINGS. 
+
+Legal Proceedings 
+
+From time to time, we are a party to or
+otherwise involved in legal proceedings, claims and other legal matters, arising in the ordinary course of our business or
+otherwise. During 2021, Forta had over 20 FINRA arbitrations that were pending. The claims arise from the sale to clients of
+alternative investments (REITs, Business Development Loan Funds, and Oil and Gas securities). Most of the claims arise from
+investments prior 2015. None of the registered representatives that recommended these alternative investments is currently
+associated with Forta. Many of the claims have been settled, and most of the remaining claims are in settlement discussions. The
+total amount of the currently pending claims may exceed the amount of insurance available. Forta no longer generates significant
+revenue from brokerage activity like the sale of alternative investments. As part of its annual review of performance of its
+subsidiaries, Company has decided to discontinue Forta s broker/dealer operations and that transition is now in progress. 
+
+Item 4. MINE SAFETY DISCLOSURES. 
+
+Not applicable. 
+
+6 
+
+PART II 
+
+Item 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER
+MATTERS AND ISSUER PURCHASE OF EQUITY SECURITIES. 
+
+Market Information 
+
+The Company s Common Stock is currently traded in the over-the-counter
+market and quoted under the symbol FGCO. 
+
+Holders 
+
+The approximate number of stockholders of record of the Company s
+Common Stock on September 30, 2021 was 87. 
+
+Dividends 
+
+The Company has never paid any cash dividends on its common stock,
+and it is anticipated that none will be paid in the foreseeable future. 
+
+Recent Sales/Issuance of Unregistered Securities 
+
+During the year ended September 30, 2021, 8,000,000 shares of common
+stock were issued in connection with the NCW acquisition transaction. During the year ended September 30, 2020, an aggregate of 75,757
+shares of the Company s common stock have been sold for 25,000, 116,375 shares in stock options were exercised for 182 and 382,931
+shares were issued for 50,000 in services rendered to the Company. 
+
+As a result of the merger
+with Forta, 41,607,315 shares of stock have been issued to Forta shareholders as of September 30, 2021 with a total of 4,178,564 that
+remain unissued. As a result of the merger with NCW Group, Inc., 8,000,000 shares were issued to NCW shareholders as of September 30,
+2021. 
+
+The sales of the securities identified above were made pursuant to
+privately negotiated transactions that did not involve a public offering of securities and, accordingly, the Company believes that these
+transactions were exempt from the registration requirements of the Securities Act pursuant to Section 4(2) thereof. Each investor represented
+that such investor either (A) is an accredited investor, (B) has such knowledge and experience in financial and business
+matters that the investor is capable of evaluating the merits and risks of acquiring the shares of the Company s common stock, or
+(C) appointed an appropriate person to act as the investor s purchaser representative in connection with evaluating the merits and
+risks of acquiring the shares of the Company s common stock. The investors received written disclosures that the securities had
+not been registered under the Securities Act and that any resale must be made pursuant to a registration or an available exemption from
+such registration. All of the foregoing securities are deemed restricted securities for purposes of the Securities Act. 
+
+The Company s option grants were effected
+pursuant to Rule 701 promulgated under the Securities Act. 
+
+Repurchases of Equity Securities 
+
+The Company did not repurchase any of its equity securities during
+the years ended September 30, 2020 or 2019. 
+
+Item 6. SELECTED FINANCIAL DATA. 
+
+Not applicable. 
+
+7 
+
+Item 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS. 
+
+Forward-Looking Statements 
+
+The following Management s Discussion and Analysis of Financial
+Condition and Results of Operations MD A is intended to help you understand its historical results of operations during
+the periods presented and its financial condition. This MD A should be read in conjunction with its financial statements and the accompanying
+notes and contains forward-looking statements that involve risks and uncertainties and assumptions that could cause its actual results
+to differ materially from management s expectations. See the sections entitled Forward-Looking Statements and Risk
+Factors above. 
+
+Plan of Operations 
+
+Financial Gravity Companies, Inc. Financial Gravity, 
+ We or the Company ), based in Austin, Texas, was formed specifically to be the parent company of several subsidiaries
+that provide integrated tax, investment, business, and financial solutions. Financial Gravity s clients include small businesses,
+small business owners and high and middle net worth individuals. The Company s services are focused on helping clients build wealth,
+most often with investment advice, tax savings, lowering costs and improving efficiency. In addition to expanding through client procurement
+and organic growth, Financial Gravity intends to pursue acquisitions. The primary acquisition targets currently include individuals and
+groups that provide investment and financial advice. 
+
+Financial Gravity s Subsidiaries and Reportable Segments: 
+
+The following outline briefly describes Financial Gravity s active
+subsidiaries and the products and services they offer: 
+
+Tax Master Network, LLC, runs the Tax Master Network TMN that provides four primary services including monthly subscriptions to the TMN systems, coaching and marketing services. TMN currently
+supports over 300 Certified Public Accountants CPA and Enrolled Agent professionals, training them to support clients
+through tax planning services. TMN s tax planning services include the Tax Blueprint , Certified Tax Master , and the Tax
+Operating System. In addition, TMN has launched revamped tax operating system and financial advisor business development programs that
+will assist TMN subscribers in increasing their business activity. The goal is to provide TMN subscribers with a platform for them to
+enhance their business opportunities in the areas of investment and financial advice and to increase their effectiveness as tax advisors
+to small businesses and individuals. 
+
+Financial Gravity Family Office Services, LLC FGFOS is a registered investment advisor RIA that offers financial planning, and wealth management services
+to clients through independent investment advisors. Many of the independent investment advisors are members of TMN that are licensed to
+provide investment management advice. FGFOS provides support for the multi-family offices run by the TMN members. 
+
+Financial Gravity Asset Management, Inc., formerly
+Sofos Investment Management, Inc. FGAM ), is an RIA, registered with the Securities and Exchange Commission, and provides
+asset management services to individuals and businesses. FGAM had in excess of 170,000,000 in assets under management as of September
+30, 2021. 
+
+Financial Gravity Enhanced Markets, LLC, formerly,
+MPath Advisor Resources, LLC FGEM is an insurance marketing organization and provides insurance products and services
+to insurance agents or agencies. The advisors with FGFOS access insurance and other related products through FGEM. 
+
+Forta Financial Group, Inc. Forta is a broker-dealer, a registered investment advisor, and a licensed insurance agent. It primarily operates in
+Colorado. As part of its annual review of the performance of its subsidiaries, Company has decided to discontinue Forta s
+broker/dealer operations, and is in the process of completing that transition. 
+
+8 
+
+Growth comes from the following reportable segments: 
+
+Tax services and financial advisory services, including Tax Blueprint 
+and Tax Operating System services through TMN, as well as investment advisory services by TMN subscribers to their clients through
+FGFOS. 
+
+Family Office Services including wealth management services through
+FGFOS, investment advisory services through FGAM, and insurance services through FGEM. 
+
+Future growth is expected to come from these key areas, organic growth,
+acquisitions, and strategic alliances. 
+
+Business Acquisition and Disposition 
+
+The Company acquired Forta in 2020 in exchange
+for stock. However, management has determined that Forta should discontinue operations and Forta is being shut down. The goodwill attributed
+to the Forta acquisition has been written off in 2021. 
+
+In March 1, 2021 Company entered into a merger
+agreement with NCW Group, Inc. Company issued 8,000,000 shares of its common stock in exchange for 100 ownership of the stock of NCW
+Group, Inc. The owners of NCW and some staff have resigned from NCW and are employees of Forta. The transaction included transfer of client
+accounts from NCW to Forta and Sofos. This will generate approximately 500,000 in recurring annual revenue. The value of the assets is
+based upon the value of the recurring revenue, which is 2,000,000 in aggregate, which is the market value of 8 million shares at the
+time of issuance (July 26, 2021). The purchase price is allocated to Goodwill. 
+
+Revenues 
+
+For the year ended September 30, 2021, revenue increased approximately
+ 3,000,000 to 6,672,793 from 3,687480 for the year ended September 30, 2020. The principal drivers for this are an increase in revenue
+from Forta of approximately 1,625,000, from FGAM of approximately 680,000, from FGEM of approximately 460,000 and from TMN of approximately
+ 150,000. However, management has determined that Forta s broker/dealer business is no longer viable and has decided to discontinue
+Forta s operations, as a result of which Forta will no longer substantially contribute to Company s revenue. 
+
+Operating Expenses 
+
+Cost of services increased by 33,559 to 106,630
+for the year ended September 30, 2021 from 73,071 for the year ended September 30, 2020, primarily due increased costs at Forta of approximately
+ 22,000, and approximately 11,000 at FGAM. 
+
+Professional services expenses include consulting
+fees, legal expense, professional fees, and business consulting increased approximately 21,000 to 396,755 for the year ended September
+30, 2021 from 375,363 for the year ended September 30, 2020. The primary source of the increase was legal fees at Forta related to FINRA
+claims, reductions of audit and legal fees at Company of approximately 35,000, outside tax preparation fees related to TMN of approximately
+ 40,000, and small increases in expense at the other subsidiaries. 
+
+Depreciation and amortization expenses include
+depreciation on fixed assets and amortization of definite lived intangibles. Depreciation and amortization expenses decreased approximately
+ 55,000 to 111,052 for the year ended September 30, 2021 from 166,586 for the year ended September 30, 2020. The decrease is primarily
+due to an decrease of expense at Financial Gravity of approximately 86,000, offset by an increase at TMN of approximately 30,000. 
+
+9 
+
+General and administrative expenses increased
+approximately 470,000 to 1,141,570 for the year ended September 30, 2021 from 672,784 for the year ended September 30, 2020. The increase
+is primarily due increased costs at Forta of approximately 730,000 (reflected a full twelve months of operations), offset by decreases
+at other subsidiaries including decreases at FGAM of approximately 255,000. 
+
+Marketing expenses decreased approximately 47,000
+to approximately 78,000 for the year ended September 30, 2021 from 125,161 for the year ended September 30, 2020. The decrease is primarily
+due to a reduction of costs at Company of approximately 59,000, and net increases at the subsidiaries of approximately 12,000. The variance
+in expenses reflects a change in marketing efforts influenced by the move toward the independent advisor model at the subsidiaries. 
+
+Compensation expenses increased approximately
+ 2,350,000 to approximately 5,540,000 for the year ended September 30, 2021 from 3,186,305 for the year ended September 30, 2020. The
+increase is primarily due to an increase in executive compensation at Financial Gravity of approximately 443,000, the increase of compensation
+at Forta of approximately 1,627,000 that includes a full twelve months, and increases at FGEM and FGAM reflected increased commissions
+from higher revenue by independent advisors of approximately 260,000. 
+
+The Company experienced an increase in net loss
+of approximately 6,630,000 to a net loss of approximately 7,423,000 for the year ended September 30, 2021 from a net loss of 791,675
+for the year ended September 30, 2020, primarily attributable to a decrease in ordinary loss of approximately 208,000 for the reasons
+noted above, and the write-off of Goodwill of 7,380,603, offset by the income related to forgiveness of PPP loans of 661,045. 
+
+Significant Accounting Policies 
+
+Certain critical accounting policies affect the more significant judgments
+and estimates used in the preparation of the Company s consolidated financial statements. These policies are contained in Note 1
+to the consolidated financial statements. 
+
+Use of Estimates and Assumptions. 
+
+The preparation of consolidated financial statements
+in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and
+assumptions that affect reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of
+the consolidated financial statements and the reported amounts of revenues and expenses during the reported period. Actual results could
+differ from those estimates. 
+
+Revenue Recognition and Accounts Receivable. 
+
+Investment management fees are recognized as services
+are provided by the Company. Investment management fees include fees earned from assets under management by providing professional services
+to manage clients investments. Fees are generally paid quarterly, five days before each quarter-end or monthly in arrears. Revenues
+are recognized in the period earned. 
+
+The Company earns commission when it buys and
+sells securities and various insurance products on behalf of its customers. Each time a customer enters into a buy or sell transaction,
+the Company charges a commission. Commissions and related clearing expenses are recorded on the trade date (the date that the Company
+fills the trade order by finding and contracting with a counterparty and confirms the trade with the customer), and commission revenue
+from the sale of premiums on life insurance policies is recognized as the policy is accepted by the insurer. 
+
+10 
+
+The Company generates services income which is
+recognized as consulting and other professional services are performed by the Company. Income is recognized as services are delivered.
+Revenue represents gross billings less discounts, net of sales tax, as applicable. Amounts invoiced for work not yet completed are shown
+as contract liabilities in the accompanying consolidated balance sheets. Accrued revenue is carried only for investment management fees
+that are paid in arrears. The allowance for doubtful accounts was 0 and 0 as of September 30, 2021 and 2020, respectively. In the normal
+course of business, the Company extends credit on an unsecured basis to its customers, substantially all of whom are located in the United
+States of America. The Company does not believe that it is exposed to any significant risk of loss on accounts receivable. 
+
+The Company received revenue from FGAM operations
+that are primarily from investment management fees, including money management fees. Investment management fees are based upon a percentage
+of assets under management and totaled 2,076,383 for the fiscal year ending September 30, 2021, and 1,395,877 for the fiscal year ending
+September 30, 2020. 
+
+The Company received revenue from Forta s
+operations during the fiscal year ending September 30, 2021, and from May 21, 2020 through fiscal year ending September 30, 2020 including: 
+
+2021 
+ 2020 
+ 
+ Investment Advisory fees 
+ 1,774,561 
+ 757,290 
+ 
+ Commission-based transactions 
+ 963,297 
+ 436,024 
+ 
+ Insurance and Other Service Revenue 
+ 157,206 
+ 77,024 
+ 
+ Total Revenue 
+ 2,895,064 
+ 1,270,339 
+
+TMN charges month-to-month subscription fees to
+its members. None of these subscription programs come with a long-term commitment or contract, and there is no up-front payment beyond
+the monthly subscription fee. Cancellations are processed within the month requested and memberships are closed at the end of the period
+for which the most recent payment was made. Members are not entitled to refunds for unused memberships. 
+
+The Company received revenue from TMN s
+operations from the following sources during the fiscal year ending September 30,2021 including: 
+
+2021 
+ 2020 
+ 
+ TMN membership subscriptions: 
+ 857,699 
+ 733,838 
+ 
+ Tax Blueprints: 
+ 255,000 
+ 224,000 
+ 
+ Commissions/Referrals: 
+ 46,462 
+ 61,889 
+ 
+ Miscellaneous: 
+ 5,195 
+ (1,715 
+ 
+ Total: 
+ 1,164,356 
+ 1,018,012 
+
+The Company received revenue from FGEM s
+operations from insurance sales of 536,990 during the fiscal year ending September 30, 2021 from 73,882 in fiscal year 2020. 
+
+Stock-Based Compensation. 
+
+The Company recognizes the fair value of stock-based
+compensation awards as wages in the accompanying statements of operations for employee grants, commissions for non-employee grants, and
+stock appreciation rights grants, on a straight-line basis over the vesting period, using the Black-Scholes option pricing model, which
+is based on risk-free rate of 0.88 in the year ended September 30, 2021 and 1.32 in 2020, dividend yield of 0 , expected life of 10
+years and volatility of 87.68 in 2021 and volatility of 159 in 2020. 
+
+11 
+
+Liquidity and Capital Resources 
+
+As of September 30, 2021, the Company had cash
+and cash equivalents of 306,057, as compared 482,854 as of September 30, 2020. The decrease of 176,797 in cash and cash equivalents
+from September 30, 2020 was due to cash used in operations. 
+
+The accompanying consolidated financial statements
+have been prepared assuming that the Company will continue as a going concern, which contemplates the Company will need additional financing
+to fund additional material capital expenditures and to fully implement its business plan. There are no assurances that additional financing
+will be available on favorable terms, or at all. If additional financing is not available, the Company will need to reduce, defer or cancel
+development programs, planned initiatives and overhead expenditures as a way to supplement the cash flows generated by operations. The
+Company has a backlog of fees under contract in addition to the Company s accounts receivable balance. The failure to adequately
+fund its capital requirements could have a material adverse effect on its business, financial condition and results of operations. Moreover,
+the sale of additional equity securities to raise financing will result in additional dilution to the Company s stockholders and
+incurring additional indebtedness could involve the imposition of covenants that restrict its operations. Management, in the normal course
+of business, is trying to raise additional capital through sales of common stock as well as seeking financing from third parties, via
+both debt and equity, to balance the Company s cash requirements and to finance specific capital projects. 
+
+Off Balance Sheet Transactions and Related
+Matters 
+
+There are no off-balance sheet transactions, arrangements, obligations
+(including contingent obligations), or other relationships with unconsolidated entities or other persons that have, or may have, a material
+effect on financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures
+or capital resources of the Company. 
+
+Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+Interest Rate Risk. Interest rate increases may create market
+risks. Some clients may choose to limit their exposure to the stock market and this could have a material adverse effect on its financial
+condition and ability to continue as a going concern. 
+
+Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+
+The financial statements required by this item are included in this
+report in Part IV, Item 15. 
+
+Item 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+AND FINANCIAL DISCLOSURE. 
+
+None. 
+
+Item 9A. CONTROLS AND PROCEDURES. 
+
+Evaluation of Disclosure Controls and Procedures 
+
+The Company s Chief Executive Officer and
+Chief Financial Officer have evaluated the effectiveness of the Company s disclosure controls and procedures as of September 30,
+2021. The term disclosure controls and procedures, as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934,
+as amended (the Exchange Act ), means controls and other procedures of a company that are designed to ensure that information
+required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized
+and reported, within the time periods specified in the SEC s rules and forms. Management recognizes that any controls and procedures,
+no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily
+applies its judgment in evaluating the cost benefit relationship of possible controls and procedures. Based on its evaluation, management
+concluded as of September 30, 2021 that its disclosure controls and procedures were not effective because of material weaknesses in our
+internal control over financial reporting, described below in Management s Report on Internal Control Over Financial Reporting.
+Notwithstanding the identified material weaknesses, management believes the financial statements included in this Annual Report on Form
+10-K fairly represent in all material respects our financial condition, results of operations and cash flows at and for the periods presented
+in accordance with U.S. GAAP. 
+
+12 
+
+Management s Report on Internal Control
+Over Financial Reporting 
+
+The Company s management is responsible
+for establishing and maintaining adequate internal control over financial reporting. Responsibility estimates and judgments by management
+are required to assess the expected benefits and related costs of control procedures. The objectives of internal control include providing
+management with reasonable, but not absolute, assurance that assets are safeguarded against loss from unauthorized use or disposition,
+and that transactions are executed in accordance with management s authorization and recorded properly to permit the preparation
+of consolidated financial statements in conformity with accounting principles generally accepted in the United States. The Company s
+Chief Executive Officer and Chief Financial Officer assessed the effectiveness of its internal control over financial reporting as of
+September 30, 2021. In making this assessment, its management used the criteria based on the framework in Internal Control - Integrated
+Framework 2013 issued by the Committee of Sponsoring Organizations of the Treadway Commission. The Company s Chief Executive
+Officer and Chief Financial Officer have concluded that, as of September 30, 2021, its internal control over financial reporting was not
+effective in providing reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with US generally accepted accounting principles. The Company s Chief Executive Officer and
+Chief Financial Officer reviewed the results of their assessment with its board of directors. 
+
+Based on its evaluation under this framework,
+management concluded that its internal control over financial reporting was not effective as of the evaluation date due to the factors
+stated below. 
+
+Insufficient Resources : The Company has inadequate number of personnel with requisite expertise in the key functional areas of finance and accounting to be able to have appropriately designed and operating entity level controls including risk assessment; information and communication; monitoring; and financial reporting. 
+
+Inadequate Segregation of Duties: The Company has inadequate number of personnel to properly segregate duties to implement control procedures. 
+
+This annual report does not include an attestation
+report of its Company s independent registered public accounting firm regarding internal control over financial reporting. Management s
+report was not subject to attestation by the Company s independent registered public accounting firm pursuant to rules of the Securities
+and Exchange Commission that permit the Company to provide only management s report in this annual report. 
+
+Inherent Limitations on Effectiveness of Controls 
+
+Internal control over financial reporting
+has inherent limitations which include but is not limited to the use of independent professionals for advice and guidance, interpretation
+of existing and/or changing rules and principles, segregation of management duties, scale of organization, and personnel factors. Internal
+control over financial reporting is a process that involves human diligence and compliance and is subject to lapses in judgment and breakdowns
+resulting from human failures. Internal control over financial reporting also can be circumvented by collusion or improper management
+override. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements on a
+timely basis, however these inherent limitations are known features of the financial reporting process and it is possible to design into
+the process safeguards to reduce, though not eliminate, this risk. Therefore, even those systems determined to be effective can provide
+only reasonable assurance with respect to financial statement preparation and presentation. Projections of any evaluation of effectiveness
+to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate. 
+
+Changes in Internal Control over Financial
+Reporting 
+
+During the period covered by this report the Company
+continued to review and improve internal control over financial reporting. 
+
+Item 9B. OTHER INFORMATION. 
+
+None. 
+
+13 
+
+PART III 
+
+Item 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE. 
+
+Directors and Executive Officers 
+
+Set forth below is certain information regarding
+the persons who were directors and executive officers at any time during the fiscal year 2021. 
+
+Name 
+ 
+ Age
+
+Position
+with the Company 
+ 
+ Scott Winters 
+ 
+ 51 
+ 
+ Chairman of the Board, Chief Executive Officer 
+ 
+ John Pollock 
+ 
+ 55 
+ 
+ Executive Vice President Sales, FGEM CEO and
+Board Member 
+ 
+ Paul Williams 
+ 
+ 64 
+ 
+ Former Vice Chairman of the Board, Chief Financial Officer and Treasurer 
+ 
+ Jennifer Winters 
+ 
+ 50 
+ 
+ Secretary, Chief Operating Officer and Board Member
+
+Edward A. Lyon 
+ 
+ 57 
+ 
+ Chief Tax Strategist, TMN CEO and Board Member 
+ 
+ William Nelson, Jr. 
+ 
+ 50 
+ 
+ Chief Investment Officer, FGAM CEO and Board Member
+
+Gary Nemer 
+ 
+ 75 
+ 
+ Chief Financial Officer and Chief Legal Counsel 
+ 
+ Mark Williams 
+ 
+ 46 
+ 
+ Board Member 
+
+Scott Winters, August 15, 2019, Financial Gravity
+Companies, Inc. (the Company appointed Mr. Scott Winters to serve as Chief Executive Officer and Co-Chairman of the Board
+for the Company. Prior to joining the Company, from 2016 to present, Mr. Winters was a major stockholder of Presidential Brokerage, Inc.,
+a broker dealer and investment advisory firm. From 2003 to 2017 Mr. Winters was CEO, Chairman of the Board and Co-Founder of Eqis Capital
+Management, an investment advisory and wealth management firm. 
+
+John Pollock was CEO/Founder of Business Legacy,
+Inc. from 2002, Pollock Advisory Group from 2007, was the former CEO and Chairman of Financial Gravity Companies, Inc. (the Company),
+and is currently Co-Chairman of the Board and Executive Vice President Sales. Mr. Pollock served as CEO and Chairman of Financial
+Gravity since its inception until August 2019 and has been a major shareholder of the Company. 
+
+Paul O. Williams, 64, has served on the Financial
+Gravity Companies, Inc. (OTCQB: FGCO) Board of Directors and as Vice Chairman since 2015, and has served as our Chief Financial Officer
+ Secretary Treasurer from 2016 until August 2021. 
+
+Edward A. Lyon has been the Company s Chief
+Tax Strategist and a Director since October 2015. From 2005 until 2015, he was Partner-in-Charge of Content at Tax Coach Software, which
+he founded in 2005. Mr. Lyon received a B.A. in History from Hamilton College in 1986 and a J.D. from the University of Cincinnati College
+of Law in 1991. Mr. Lyon s specific experience, qualifications, attributes or skills that led to the conclusion that he should serve
+as a director for the Company. 
+
+Jennifer Winters serves as Corporate Secretary
+and Chief Operating Officer. Mrs. Winters was a Co-Founder of Eqis Holdings, Inc.. She also served on the Eqis Board of Directors from
+2010 to 2017, and as Chief Compliance Officer of Eqis Capital Management, Inc. from 2007 to 2015. Jennifer Winters is the spouse of Scott
+Winters, the Chief Executive Officer of the Company. 
+
+14 
+
+William Nelson, Jr. served as Chief Executive
+Officer of FGAM for part of the reporting period and was and is FGAM s Chief Investment Officer. Prior to joining the Company, from
+2016 to present, Mr. Nelson was a major stockholder of Presidential Brokerage, Inc., a broker dealer and investment advisory firm. From
+2003 to 2017 Mr. Nelson was the Chief Investment Officer, Board Member and Co-Founder of Eqis Capital Management, an investment advisory
+and wealth management firm. 
+
+Gary Nemer serves as Chief Legal Counsel and Chief
+Financial Officer of Company. 
+
+Mark Williams is a Board Member of Company and
+was the former founding and majority shareholder of NCW. 
+
+Section 16(a) Beneficial Ownership Reporting
+Compliance 
+
+Section 16(a) of the Securities Exchange Act of 1934, as amended (the
+ Exchange Act ), requires officers, directors and persons who beneficially own more than 10 of a class of our equity securities
+registered under the Exchange Act to file reports of ownership and changes in ownership with the Securities and Exchange Commission. Based
+solely upon a review of Forms 3 and 4 and amendments thereto furnished to us during fiscal year 2021 and Forms 5 and amendments thereto
+furnished to us with respect to fiscal year 2021, or written representations that Form 5 was not required for fiscal year 2021, we believe
+that all Section 16(a) filing requirements applicable to each of our officers, directors and greater-than-ten percent stockholders were
+fulfilled in a timely manner. We have notified all known beneficial owners of more than 10 of our common stock of their requirement to
+file ownership reports with the Securities and Exchange Commission. 
+
+Code of Ethics 
+
+The Company has adopted a code of ethics that applies to its principal
+executive, financial, and accounting officers and is included as an exhibit with this filing. 
+
+No Committees of the Board of Directors;
+No Financial Expert 
+
+The Company does not presently have a separately constituted audit
+committee, compensation committee, nominating committee, executive committee or any other committees of its Board of Directors. Nor does
+it have an audit committee financial expert. At present, its entire Board of Directors acts as its audit committee. None
+of the members of its Board of Directors meets the definition of audit committee financial expert as defined in Item 407(d)
+of Regulation S-K promulgated by the Securities and Exchange Commission. It has not retained an audit committee financial expert because
+it does not believe that it can do so without undue cost and expense. Moreover, it believes that the present members of the Board of Directors,
+taken as a whole, have sufficient knowledge and experience in financial affairs to effectively perform their duties. 
+
+15 
+
+Item 11. EXECUTIVE COMPENSATION. 
+
+Summary Compensation Table 
+
+The particulars of compensation paid to the following persons during
+the fiscal period ended September 30, 2021 and 2020 are set out in the summary compensation table below: 
+
+our Chief Executive Officer (Principal Executive Officer); 
+
+our Chief Financial Officer (Principal Financial Officer); 
+
+each of our three most highly compensated executive officers, other than the Principal Executive Officer and the Principal Financial Officer, who were serving as executive officers at the end of the fiscal year ended September 30, 2021 and 2020; and 
+
+up to two additional individuals for whom disclosure would have been provided under the item above but for the fact that the individual was not serving as our executive officer at the end of the fiscal year ended September 30, 2021 and 2020. 
+
+(collectively, the Named Executive Officers ): 
+
+SUMMARY COMPENSATION TABLE 
+
+Name and Principal Position 
+ Year 
+ Salary 
+ Option/SAR Awards (1) 
+ All Other 
+ Total 
+ 
+ Scott Winters, CEO 
+ 2021 
+ 264,507 
+
+264,507 
+
+2020 
+ 264,507 
+ 10,225 
+ 
+ 274,732 
+ 
+ John Pollock, EVP - Sales 
+ 2021 
+ 250,000 
+
+250,000 
+
+2020 
+ 250,000 
+ 10,225 
+ 
+ 260,225 
+ 
+ Paul Williams, CFO 
+ 2021 
+ 88,000 
+
+88,000 
+
+2020 
+ 96,000 
+ 10,225 
+ 
+ 106,225 
+ 
+ Edward A. Lyon, CEO TMN 
+ 2021 
+ 42,000 
+ 
+ 198,000 
+ 240,000 
+
+2020 
+ 42,000 
+ 10,225 
+ 198,000 
+ 250,225 
+ 
+ Jennifer Winters, COO 
+ 2021 
+ 137,416 
+
+137,416 
+
+2020 
+ 57,769 
+ 132,804 
+ 
+ 190,573 
+ 
+ William Nelson, CEO FGAM 
+ 2021 
+ 137,416 
+
+137,416 
+
+2020 
+ 57,769 
+ 132,804 
+ 
+ 190,573 
+ 
+ Gary Nemer, CFO 
+ 2021 
+ 68,258 
+
+34,149 
+
+2020 
+ 13,338 
+ 132,804 
+ 
+ 146,142 
+
+__________________________ 
+
+(1) 
+ The Company recognizes the fair value of stock-based compensation awards as wages in the
+ accompanying statements of operations for employee grants, commissions for non-employee grants, and stock appreciation rights grants,
+ on a straight-line basis over the vesting period, using the Black-Scholes option pricing model, which is based on risk-free rate of
+ 0.88 in the year ended September 30, 2021 and 1.32 in 2020, dividend yield of 0 , expected life of 10 years and volatility of 87.68 
+ in 2021 and volatility of 159 in 2020. 
+
+Each of the Named Executive Officers has an employment agreement. Edward
+A. Lyon, a member of the Board of Directors, is party to an employment agreement. which provides for base salary of 42,000 per year,
+plus management fees of 198,000 annually, paid semi-monthly. Mr. Lyon serves as the General Manager, responsible for supervising the
+business and affairs of Tax Master Network. 
+
+Summary Compensation 
+
+For the fiscal years ended September 30, 2021 and 2020, no outstanding
+stock options or other equity-based awards were re-priced or otherwise materially modified. There are no non-equity incentive plan agreements
+with any of the Directors or executive officers. 
+
+16 
+
+Outstanding Equity Awards at Fiscal Year-end 
+
+The following stock option and stock appreciation rights granted to
+executive officers are outstanding: 
+
+Issue Date 
+ Expiry Date 
+ Issued To 
+ Current Strike Price 
+ Issued Awards 
+ 
+ 3/5/2020 
+ 3/5/2030 
+ Edward Lyon 
+ 0.17 
+ 250,000.00 
+ 
+ 3/5/2020 
+ 3/5/2030 
+ Jennifer Winters 
+ 0.17 
+ 250,000.00 
+ 
+ 2/28/2020 
+ 2/28/2030 
+ Jennifer Winters 
+ 0.30 
+ 500,000.00 
+ 
+ 3/5/2020 
+ 3/5/2030 
+ Jennifer Winters 
+ 0.17 
+ 250,000.00 
+ 
+ 3/5/2020 
+ 3/5/2030 
+ John Pollock 
+ 0.17 
+ 250,000.00 
+ 
+ 3/5/2020 
+ 3/5/2030 
+ Paul Williams 
+ 0.17 
+ 250,000.00 
+ 
+ 3/5/2020 
+ 3/5/2030 
+ Scott Winters 
+ 0.17 
+ 250,000.00 
+ 
+ 9/1/2015 
+ 9/1/2025 
+ Scott Winters 
+ 0.33 
+ 75,000.00 
+ 
+ 3/5/2020 
+ 3/5/2030 
+ William Nelson 
+ 0.17 
+ 250,000.00 
+ 
+ 2/28/2020 
+ 2/28/2030 
+ William Nelson 
+ 0.30 
+ 500,000.00 
+ 
+ 3/5/2020 
+ 3/5/2030 
+ William Nelson 
+ 0.17 
+ 250,000.00 
+ 
+ 7/20/2020 
+ 2030/20/07 
+ Gary Nemer 
+ 0.25 
+ 250,000 
+ 
+ 7/20/2020 
+ 2030/20/07 
+ Gary Nemer 
+ 0.25 
+ 500,000 
+
+Compensation of Directors 
+
+This section is not applicable as there was no director compensation
+for years ended September 30, 2021 and 2020. 
+
+Employment Contracts, Termination of Employment, Change-in-Control
+Arrangements 
+
+Certain executives have compensation agreements that include payments
+to be made by us upon termination of service without cause, up to one year of annual salary. There are no arrangements for Directors,
+officers, employees or consultants that would result from a change-in-control, other than vesting as described in the stock option grant
+agreement and plan. 
+
+Item 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+AND RELATED STOCKHOLDER MATTERS. 
+
+Security Ownership of Certain Beneficial Owners and Management 
+
+The following table sets forth certain information
+with respect to the beneficial ownership, as of September 30, 2021, of the Company s common stock, which is the Company s
+only outstanding class of voting securities, and the voting power of management resulting from such beneficial ownership: 
+
+Beneficial
+ Owner (1) 
+ 
+ Amount
+ of Beneficial Ownership (1) 
+ 
+ Percentage of Shares (rounded) 
+ 
+ Scott Winters (3) 
+ 
+ 13,705,176 
+ 
+ 15 
+ 
+ William Nelson, Jr. 
+ 
+ 13,705,176 
+ 
+ 15 
+ 
+ John Pollock 
+ 
+ 15,060,462 
+ 
+ 16 
+ 
+ Edward A. Lyon 
+ 
+ 2,593,500 
+ 
+ 3 
+ 
+ Gary Nemer (2) 
+ 
+ 13,705,175 
+ 
+ 15 
+ 
+ Mark Williams 
+ 
+ 5,333,333 
+ 
+ 6 
+ 
+ Directors and executive officers as group (seven persons) 
+ 
+ 64,102,822 
+ 
+ 70 
+
+(1) 
+ Each beneficial owner has sole voting and investment power with respect to all shares attributable to that owner. Excludes stock options and SARs. 
+ 
+ (2) 
+ Non-director executive officer with more than 5 ownership. 
+ 
+ (3) 
+ Scott Winters has 75,000 fully vested stock options. 
+
+17 
+
+Changes in Control 
+
+None. 
+
+Securities authorized for issuance under equity compensation plans. 
+
+The following table provides information as of the end of the most
+recently completed fiscal year, with respect to Company compensation plans (including individual compensation arrangements) under which
+equity securities of the Company are authorized for issuance. 
+
+Equity Compensation Plan Information 
+
+A (1) 
+
+B 
+
+C 
+
+Plan Category 
+
+Number of securities to be issued upon exercise of outstanding options, warrants and rights 
+
+Weighted average exercise price of outstanding options, warrants and rights 
+
+Number of securities remaining available for future issuance under equity compensation plan (excluding securities reflected in Column A) 
+
+Equity compensation plans not approved by security holders (2015 Stock Option Plan) 
+
+(2) 
+
+(2) 
+ 
+ Equity compensation plans approved by security holders (2016 Stock Option Plan) 
+
+20,000,000 
+ 
+ (1) 
+
+0.24 
+
+12,739,804 
+ 
+ (3) 
+ 
+ Total 
+
+20,000,000 
+
+0.24 
+
+12,739,804 
+
+_____________________ 
+
+(1) 
+ Shares subject to stock options under 2016 Stock Option Plan. 
+ 
+ (2) 
+ The 2015 Stock Option Plan was replaced by the 2016 Stock Option Plan. 
+ 
+ (3) 
+ Shares available for grant of stock options to employees, directors and consultants under the 2016 Stock Option Plan. 
+
+The 2015 Stock Option Plan was adopted without
+approval of Company security holders, the 2016 Stock Option, as amended and restated, was adopted with approval of Company security holders. 
+
+The Company has granted stock options to certain
+employees and contractors under its 2015 Stock Option Plan, assumed from Financial Gravity Holdings and under its 2016 Stock Option Plan.
+The Company is authorized to issue an aggregate of 20,000,000 options, of which 12,739,804 remain available for issuance at September
+30, 2021 under the 2016 Stock Option Plan. Currently outstanding options under the 2015 and 2016 Stock Option Plans vest over a period
+of no greater than five years and expire ten years from the grant date. 
+
+18 
+
+Item 13. CERTAIN RELATIONSHIPS AND RELATED
+TRANSACTIONS, AND DIRECTOR INDEPENDENCE. Transactions with Related Persons, Promoters and Certain Control Persons 
+
+Except as set forth below, none of the Company s directors or
+officers, nor any person who beneficially owns, directly or indirectly, shares carrying more than 10 of the voting rights attached to
+the Company s shares, nor any relative or spouse of any of the foregoing persons, has had any material interest, direct or indirect,
+in any transaction to which the Company was a party, and in which the amount involved exceeds the lesser of (i) 120,000 or (ii) one percent
+of the average of the Company s total assets at year-end for the last two completed fiscal years. 
+
+In 2020, the following Officers and Directors
+of Financial Gravity received shares in the merger transaction: Scott Winters 13,705,176 shares and William Nelson, Jr. 13,705,176 shares.
+Jennifer Winters is an Officer and Director and the spouse of Scott Winters. 
+
+TaxTuneup, LLC, which is an entity owned by Mr.
+Edward A. Lyon, a current director of the Company, received shares of Financial Gravity Holdings issued in the transaction by which Financial
+Gravity acquired TMN, then having an approximate value of 864,500. As a consequence of such issuance, Mr. Lyon is the beneficial owner
+of ~3 of the Company s common stock as of September 30, 2021. 
+
+During fiscal year 2021 and 2020, TaxTuneup, LLC,
+an entity owned by Mr. Edward A. Lyon, received the sums of 198,000 and 198,000, respectively, from the Company, in compensation for
+strategic tax planning recommendations and research, business consulting and writing of books and tax planning and TMN related content.
+Mr. Lyon also received compensation from the Company, for a total compensation of 258,000 and 253,000 in 2021 and 2020, respectively. 
+
+Director Independence; Board Leadership Structure 
+
+The Company s common stock is quoted through the OTC System.
+For purposes of determining whether members of the Company s Board of Directors are independent, the Company s
+Board utilizes the standards set forth in the NASDAQ Stock Market Marketplace Rules. At present, the Company s entire Board serves
+as its Audit, Compensation and Nominating Committees. The Company s Board of Directors does not have any independent members for
+purposes of qualifying as independent members of the Board and an Audit, Compensation and Nominating Committee of the Board as defined
+under NASDAQ s Marketplace Rules. 
+
+The Company s Board of Directors is of the
+view that the current leadership structure is suitable for the Company at its present stage of development, and that the interests of
+the Company are best served by the combination of the roles of Chairman of the Board and Chief Executive Officer. 
+
+As a matter of regular practice, and as part of
+its oversight function, the Company s Board of Directors undertakes a review of the significant risks in respect of the Company s
+business. Such review is conducted in concert with outside professionals (including legal counsel) with expertise in substantive areas
+germane to the Company s business. With the Company s current governance structure, the Company s Board of Directors
+and senior executives are, by and large, the same individuals, and consequently, there is not a significant division of oversight and
+operational responsibilities in managing the material risks facing the Company. 
+
+19 
+
+Item 14. PRINCIPAL ACCOUNTING FEES AND SERVICES. 
+
+The following information summarizes amounts expensed for services
+provided us by Whitley Penn LLP for assurance and tax services, and Weaver Tidwell, LLP assurance services for the fiscal years ended
+September 30, 2021 and 2020, respectively. 
+
+Assurance Services. Fees expensed for services
+by Whitley Penn LLP were 3,250 for fiscal year 2021 and 83,035 for fiscal year 2020. Assurance fees include fees associated with the
+annual audit and the reviews of the Company s quarterly reports on Form 10-Q, and other SEC filings. Fees expensed for service by
+Weaver Tidwell, LLP related to the 2021 Forta FINRA audit and the audit, the 2021 10-Q and the 8-K filings of the Company and its subsidiaries
+were 154,825. 
+
+Tax Fees. Fees expensed for tax services by Whitley
+Penn LLP were 0 in fiscal year 2021 and 28,500 for fiscal year 2020. Fees expensed for tax services by Weaver Tidwell, LLP were 20,500. 
+
+All Other Fees. 
+
+None 
+
+Consistent with SEC policies regarding auditor independence, the audit
+committee has responsibility for appointing, setting compensation, approving and overseeing the work of the independent auditor. In recognition
+of this responsibility, the audit committee pre-approves all audit and permissible non-audit services provided by the independent auditor.
+The Board of Directors serves as the audit committee for the Company. 
+
+20 
+
+PART IV 
+
+Item 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+(a) Financial Statements and financial statement schedules 
+
+(1) and (2) The financial statements and financial statement schedules required to be filed as part of this report are set forth in Item 8 of Part II of this report. 
+
+(3) Exhibits. See Item 15(b) below. 
+
+(b) Exhibits required by Item 601 of Regulation S-K 
+
+Exhibit No. 
+ Description 
+
+14.1 
+ Code of Ethics 
+ 
+ 31.1 
+ Sarbanes-Oxley Section 302(a) Certification of John Pollock 
+ 
+ 31.2 
+ Sarbanes-Oxley Section 302(a) Certification of Paul Williams 
+ 
+ 32.1 
+ Sarbanes-Oxley Section 906 Certifications 
+
+101.INS 
+ Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document) 
+ 
+ 101.SCH 
+ Inline XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ Inline XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+ 
+ 104 
+ Cover Page Interactive Data File (formatted in IXBRL, and included in exhibit 101). 
+
+21 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or
+15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+Date: December 29, 2021 
+ By: 
+ /s/ Scott Winters 
+
+Scott Winters 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: December 29, 2021 
+ By: 
+ /s/ Gary Nemer 
+
+Gary Nemer 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and
+on the dates indicated. 
+
+Date: December 29, 2021 
+ By: 
+ /s/ Scott Winters 
+
+Scott Winters 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: December 29, 2021 
+ By: 
+ /s/ Gary Nemer 
+
+Gary Nemer 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+Signature 
+ 
+ Capacity 
+ Date 
+
+/s/ Scott Winters 
+ 
+ CEO, Chairman of the Board 
+ December 29, 2021 
+ 
+ Scott Winters 
+ 
+ (principal executive officer) 
+
+/s/ Mark Williams 
+ 
+ Director 
+ December 29, 2021 
+ 
+ Mark Williams 
+
+/s/ Edward A. Lyon 
+ 
+ Director 
+ December 29, 2021 
+ 
+ Edward A. Lyon 
+
+/s/ John Pollock 
+ 
+ Director 
+ December 29, 2021 
+ 
+ John Pollock 
+
+/s/ Jennifer Winters 
+ 
+ Director 
+ December 29, 2021 
+ 
+ Jennifer Winters 
+
+/s/ William Nelson 
+ 
+ Director 
+ December 29, 2021 
+ 
+ William Nelson, Jr. 
+
+22 
+
+FINANCIAL GRAVITY COMPANIES, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED FINANCIAL STATEMENTS AND 
+
+ REPORTS OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRMS 
+
+SEPTEMBER 30, 2021 AND 2020 
+
+CONTENTS 
+
+Page 
+
+REPORTS OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRMS 
+ F-2 
+
+CONSOLIDATED BALANCE SHEETS 
+ F-4 
+
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+ F-5 
+
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY 
+ F-6 
+
+CONSOLIDATED STATEMENTS OF CASH FLOW 
+ F-7 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ F-8 
+
+F- 1 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+Board of Directors and Shareholders 
+
+ Financial Gravity Companies, Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying consolidated balance sheets of Financial
+Gravity Companies, Inc. as of September 30, 2021 and 2020, and the related consolidated statements of operations, changes in stockholders 
+equity and cash flows for each of the years then ended, and the related notes (collectively referred to as the financial statements ).
+In our opinion, the financial statements present fairly, in all material respects, the financial position of Financial Gravity Companies,
+Inc. as of September 30, 2021 and 2020, and the results of its operations and its cash flows for the years then ended, in conformity
+with accounting principles generally accepted in the United States of America. 
+
+Emphasis of Matter 
+
+The accompanying financial statements have been prepared assuming
+that the Company will continue as a going concern. As discussed in Note 1 to the consolidated financial statements, the Company incurred
+a net loss and a net use of operating cash in the current year and currently has a retained deficit that raises substantial doubt about
+its ability to continue as a going concern. Management s plans in regard to these matters are also described in Note 1. The consolidated
+financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the entity s
+management. Our responsibility is to express an opinion on these financial statements based on our audits. We are a public accounting
+firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are required to be independent
+with respect to Financial Gravity Companies, Inc. in accordance with the U.S. federal securities laws and the applicable rules and regulations
+of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free
+of material misstatement, whether due to error or fraud. Financial Gravity Companies, Inc. is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the entity s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess the risks of material
+misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures
+included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included
+evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation
+of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+The critical audit matters communicated below is a matter arising
+from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee
+and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging,
+subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial
+statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing a separate opinion on the
+critical audit matters or on the account or disclosures to which it relates. 
+
+F- 2 
+
+Commitments and Contingencies FINRA claims 
+
+As disclosed in Note 1 to the financial statements, during the year
+ended September 30, 2021, the Company had over 20 FINRA arbitrations pending from the sale of alternative investments to clients, such
+as REIT s, Business Development Companies, and oil and gas securities. The Company records liabilities for arbitration claims in
+those instances where it can reasonably estimate the amount of the loss and when the liability is probable. Where the reasonable estimate
+of the probable loss is a range, the Company records the most likely estimate of the loss, or the low end of the range if there is no
+one best estimate. The Company either discloses the amount of a possible loss or range of loss if estimable, or states that such an estimate
+cannot be made. 
+
+Arbitration claims were identified as a critical audit matter because
+of the challenges auditing the Company s judgments applied in determining the likelihood of loss related to the resolution of such
+claims. Specifically, auditing the Company s determination of whether any contingent loss arising from the related claims is probable,
+reasonably possible or remote, and the related disclosures, is subjective and requires significant judgment due to the sensitivity of
+the issue. 
+
+How the Critical Audit Matter Was Addressed in the Audit 
+
+Addressing the matter involved performing procedures and evaluating
+audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included obtaining
+an understanding of the design and implementation of controls relating to the Company s estimation of any liability related to the
+claims, including controls over determining the likelihood of a loss and whether the amount of loss can be reasonably estimated, as well
+as financial statement disclosures over the legal proceedings and claims. These procedures also included obtaining and evaluating the
+letters of audit inquiry with external legal counsel, evaluating the reasonableness of the Company s assessment regarding whether
+an unfavorable outcome is reasonably possible or probable and reasonably estimable, evaluating the sufficiency of the Company s
+disclosures related to legal proceedings and claims and evaluating the completeness and accuracy of the Company s legal contingencies. 
+
+/s/ Weaver and Tidwell, LLP 
+
+We have served as Financial Gravity Companies, Inc.'s auditor since
+2020 
+
+Fort Worth, Texas 
+
+December 29, 2021 
+
+F- 3 
+
+Financial Gravity Companies, Inc. and Subsidiaries 
+
+ CONSOLIDATED BALANCE SHEETS 
+
+ As of September 30, 
+
+2021 
+ 2020 
+ 
+ ASSETS 
+
+CURRENT ASSETS 
+
+Cash and cash equivalents 
+
+Accrued revenues 
+
+Current right to use lease 
+
+Prepaid expenses and other current assets 
+
+Total current assets 
+
+OTHER ASSETS 
+
+Property and equipment, net 
+
+Proprietary content, net 
+
+Intellectual Property 
+
+Right to Use Lease 
+
+Goodwill 
+
+TOTAL ASSETS 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+CURRENT LIABILITIES 
+
+Accounts payable trade 
+
+Accrued expenses 
+
+Related Party Payables 
+
+Contract Liabilities 
+
+Line of credit 
+
+Rent Payable 
+
+Lease Payable 
+
+Notes payable 
+
+Total current liabilities 
+
+NOTES PAYABLE 
+
+Lease Payable 
+
+Total Long-Term Liabilities 
+
+Total Liabilities 
+
+COMMITMENTS AND CONTINGENCIES 
+
+STOCKHOLDERS EQUITY 
+
+Common stock, par value; shares authorized; shares issued and outstanding as of September 30, 2021 and shares issued and outstanding as of September 30, 2020 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total stockholders equity 
+
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 4 
+
+Financial Gravity Companies, Inc. and Subsidiaries 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS 
+
+ Years
+Ended September 30, 
+
+2021 
+ 2020 
+ 
+ REVENUE 
+
+Investment management fees 
+
+Service income 
+
+Broker Dealer 
+
+Total revenue 
+
+OPERATING EXPENSES 
+
+Cost of services 
+
+Professional services 
+
+Depreciation and amortization 
+
+General and administrative 
+
+Marketing 
+
+Salaries and wages 
+
+Total operating expenses 
+
+Net operating loss 
+
+Income tax 
+
+Other Income 
+
+PPP Loan Forgiveness 
+
+Goodwill Impairment 
+
+Interest Expense 
+
+NET OTHER INCOME/EXPENSE 
+
+NET LOSS 
+
+LOSS PER SHARE - Basic and Diluted 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 5 
+
+Financial
+Gravity Companies, Inc. and Subsidiaries 
+
+ CONSOLIDATED
+STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY 
+
+ For
+the years ended September 30, 2021 and 2020 
+
+Number of Shares Issued and Outstanding 
+ Common Stock Par Value Amount 
+ Additional Paid-In Capital 
+ Accumulated Deficit 
+ Total 
+ 
+ Balance at September 30, 2019 
+
+Stock based employee compensation expense 
+
+Stock options exercised 
+
+Private Placement stock issue 
+
+Stock issued in exchange for services 
+
+Forta acquisition 
+
+Net loss 
+
+Balance at September 30, 2020 
+
+Balance at September 30, 2020 
+
+Stock based employee compensation expense 
+
+NCW acquisition 
+
+Net loss 
+
+Balance at September 30, 2021 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 6 
+
+Financial Gravity Companies, Inc. and Subsidiaries 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+ Years Ended September 30, 
+
+2021 
+ 2020 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities 
+
+Loss on disposal of equipment 
+
+Depreciation and amortization 
+
+Common stock issued in exchange for services 
+
+Stock based compensation 
+
+Goodwill impairment 
+
+Debt forgiveness income 
+
+Changes in operating assets and liabilities 
+
+Accrued revenue 
+
+Accounts receivable - related party 
+
+Prepaid expenses 
+
+Accounts payable trade 
+
+Related party payables 
+
+Accrued expenses 
+
+Contract Liabilities 
+
+Rent Payable 
+
+Lease assets and liabilities 
+
+Net cash provided by (used in) operating activities 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Cash paid for purchase of property and equipment 
+
+Cash paid for NCW 
+
+Net cash Forta 
+
+Net cash provided by investing activities 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Change in line of credit 
+
+Borrowings from note payable 
+
+Payments on note payable 
+
+Proceeds from the sale of common stock 
+
+Net cash (used in) provided by financing activities 
+
+TOTAL CHANGE IN CASH AND CASH EQUIVALENTS 
+
+CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR 
+
+CASH AND CASH EQUIVALENTS AT END OF YEAR 
+
+Supplemental disclosures of cash flow information: 
+
+Interest Paid 
+
+Noncash investing and financing activities 
+
+PPP Loan Forgiveness 
+
+Common stock issued for acquisition 
+
+Common stock to be issued for acquisition 
+
+Note payable issued related to acquisition 
+
+Note payable assumed in acquisition 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 7 
+
+Financial Gravity Companies, Inc. and Subsidiaries 
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+CONSOLIDATING STATEMENTS OF OPERATIONS 
+
+ Year Ended September 30, 2020 
+
+Service Income 
+
+Investment Management Fees 
+
+Income from Inv in Subsidiaries 
+
+Total Income 
+
+Gross Profit 
+
+Expense 
+
+Compensation Expense 
+
+Cost of services 
+
+Depreciation Amortization 
+
+General and Administrative 
+
+Marketing 
+
+Professional Services 
+
+Total Expense 
+
+Net Ordinary Income 
+
+Other Income/Expense 
+
+Other Income 
+
+Other Expense 
+
+Net Other Income 
+
+Net Income/(Loss) 
+
+CONSOLIDATING STATEMENTS OF OPERATIONS 
+
+ Year Ended September 30, 2021 
+
+Eliminations 
+ FGC 
+ Forta 
+ FGAM 
+ FGFOS 
+ FGEM 
+ TMN 
+ TOTAL 
+
+Ordinary Income/Expense 
+
+Income 
+
+Broker Dealer 
+
+Service Income 
+
+Investment Management Fees 
+
+Income from Inv in Subsidiaries 
+
+Total Income 
+
+Gross Profit 
+
+Expense 
+
+Compensation Expense 
+
+Cost of services 
+
+Depreciation Amortization 
+
+General and Administrative 
+
+Marketing 
+
+Professional Services 
+
+Total Expense 
+
+Net Ordinary Income 
+
+Other Income/Expense 
+
+Debt Forgiveness 
+
+Goodwill Impairment 
+
+Other Expense 
+
+Net Other Income 
+
+Net Income/(Loss) 
+
+shares of Company common stock. Forta is a broker dealer,
+registered investment advisor and an insurance brokerage, subject to FINRA, SEC and insurance regulation. The acquisition transaction
+closed on May 21, 2020. Forta s financial performance is included in Company s consolidated statements starting as of May
+21, 2020. 
+
+The Company acquired Forta in May of 2020 in exchange for stock. A
+liability of has been recorded for shares of common stock related to the acquisition remaining to be issued. Forta
+had key employees who assumed vital executive leadership roles within the Company, including key executives who will focus on improving
+operations and growth opportunity. Forta also contributed key operating assets, including cash in excess of . 
+
+Identification of Company as the Acquirer 
+
+The acquisition was primarily effected by a merger and an exchange
+of Company s common stock as the consideration paid to Forta stockholders by Company for their equity interests in Forta. We looked
+at all pertinent facts and circumstances identified in ASC 805-10-25-1, ASC 805-10-05-4 to be considered in identifying the acquirer in
+a business combination effected by exchanging equity interests. The standard recognizes that the acquirer usually is the entity that issues
+its equity interests, but that in some business combinations the issuing entity is the acquiree. In these situations, the accounting acquiror
+is different than the legal acquiror. 
+
+The guidance provides the following factors to consider in identifying
+the accounting acquiror in a business combination like the acquisition that is effected by exchanging equity interests: 
+
+The majority shares ended up being held by Forta shareholders. The
+original calculation was to be an even 50 for Forta and Company shareholders. However, the calculations included shares that were granted
+through the option plan at Company, and it was assumed that each of the option share grants would be exercised. As it turned out, the
+vast majority of the option shares were not exercised, so that ended up skewing the majority calculation in favor of the Forta shareholders.
+There were no other special or unusual voting arrangements, convertible securities or other financial instruments of the combined Company
+immediately after the acquisition. 
+
+After the acquisition, the largest single minority interest would be
+held by a Company shareholder, John Pollock, and members of the Board of Directors and management of Company, some of whom were shareholders
+of Forta, would end up owning in excess of 40 of the voting shares of Company. 
+
+There is no agreement on the election of Board members, and neither
+Forta nor Financial Gravity shareholders have any agreement to elect a majority of the Board. 
+
+The composition of the senior management of the combined entity is
+from Financial Gravity. Based upon the above, the Company has concluded that Financial Gravity will be treated as the acquirer. 
+
+Purchase Price Allocation 
+
+The purchase price of was based upon the share price of
+Company s stock as of May 21, 2020 and note payable. We have used fair value estimates for the assets acquired and liabilities
+assumed for the acquisition. We believe significant synergies would arise from this acquisition, as a result of which the purchase
+price was in excess of the fair value of the net assets acquired and, as a result, we recorded goodwill of , which is based
+upon book value, to account for adjustments made. 
+
+Assets Acquired and Liabilities
+Assumed 
+
+Forta Financial Group, Inc. 
+
+ Assets Acquired and Liabilities Assumed 
+
+ As of May 21, 2020 
+
+ASSETS 
+
+Current Assets 
+
+Cash 
+
+Accounts Receivable 
+
+Other Current Assets 
+
+Total Current Assets 
+
+Other Assets 
+
+TOTAL ASSETS 
+
+LIABILITIES 
+
+Liabilities 
+
+Current Liabilities 
+
+Total Accounts Payable 
+
+Total Other Current Liabilities 
+
+Total Current Liabilities 
+
+Long-Term Liabilities 
+
+Total Long-Term Liabilities 
+
+TOTAL LIABILITIES 
+
+Goodwill 
+
+The accompanying unaudited pro forma condensed combined financial statement
+of Financial Gravity Companies, Inc. Financial Gravity, FGCO or the Company is presented to
+illustrate the estimated effects of the acquisition of 100 of the stock of Forta Financial Group, Inc. Forta or FFGI ),
+which closed on May 21, 2020 (the acquisition or the transaction on the historical financial position and
+results of operations of the Company. The unaudited pro forma condensed combined statement of operations is based upon and derived from
+and should be read in conjunction with Company s and Forta s historical audited financial statements for the year ended September
+30, 2020. 
+
+Service income 
+
+Commissions 
+
+Total revenue 
+
+OPERATING EXPENSES 
+
+Cost of services 
+
+Professional services 
+
+Depreciation and amortization 
+
+General and administrative 
+
+Marketing 
+
+Salaries and wages 
+
+Total operating expenses 
+
+Net operating loss 
+
+Interest Expense 
+
+NET INCOME/(LOSS) 
+
+In March of 2021, the Company entered into a merger agreement with
+NCW to acquire 100 of the stock of NCW in exchange for 8,000,000 shares of Company common stock and NCW was merged into Forta. NCW was
+investment advisory organization. The acquisition transaction closed on July 23, 2021. Prior to the acquisition, the client accounts
+of NCW were transferred to Forta. NCW had key employees who assumed vital executive leadership roles within the Company, including key
+executives who will focus on improving operations and growth opportunity. 
+
+Purchase Price Allocation 
+
+The purchase price of 2,082,065 was based upon the share price of
+Company s stock as of July 23, 2021, plus 83,665 in cash. We believe significant synergies may arise from this acquisition, as
+a result of which the purchase price was in excess of the fair value of the net assets acquired and, as a result, we have preliminarily
+recorded goodwill of 2,082,065, which is based upon book value, to account for adjustments made. We have not yet finalized estimates
+that relate to certain tangible and intangible assets, including customer relationships, trade names, contracts. Our estimates and assumptions
+for these acquisitions are subject to change as we obtain additional information for our estimates during the respective measurement
+periods (up to one year from the acquisition date). 
+
+Assets Acquired and Liabilities Assumed 
+
+ NCW Group, Inc. 
+
+ As of August 2, 2021 
+
+TOTAL ASSETS (A) 
+
+TOTAL LIABILITIES 
+
+Goodwill 
+
+(A) 
+
+Maintenance and repairs are charged to earnings as incurred; major
+repairs and replacements are capitalized. When items of property or equipment are sold or retired, the related cost and accumulated depreciation
+are removed from the accounts and any gain or loss is included in operations. 
+
+, the value attributed to it on the date of the purchase. The
+proprietary content is being amortized on a straight-line basis over an eight- year estimated life. During the years ended September 30,
+2021 and 2020, the Company recorded amortization expense of and , respectively, on this intangible asset, which is included
+in depreciation and amortization expense in the accompanying consolidated statements of operations. Accumulated amortization at September
+30, 2021 and 2020 was and , respectively. 
+
+Future amortization of proprietary content is estimated to be as follows
+for the years ended September 30: 
+
+2023 
+
+Future amortization 
+
+, of the recorded
+goodwill associated with the Forta reporting unit as of June 30, 2021. The factors that Company considered included the loss of investment
+advisors to competitors or to retirement resulting in substantially reduced revenue and lowered prospects for growth, and the number of
+claims by former clients that will divert assets away from operations. 
+
+Goodwill
+consists of the following: 
+
+Forta Goodwill (Net NCW Transaction) 
+
+Company Goodwill (Forta Transaction) 
+
+Total Goodwill 
+
+and for years ended September 30, 2021 and 2020, respectively. 
+
+For the years ended September 30, 2021 and 2020, approximately 
+and common stock options, respectively, and and warrants, respectively, were not added to the diluted average shares because
+inclusion of such shares would be antidilutive. 
+
+Accrued revenues are recorded for investment management fees that are
+paid in arrears. The allowance for doubtful accounts was and as of September 30, 2021 and 2020, respectively. 
+
+In the normal course of business, the Company extends credit on an
+unsecured basis to its customers, substantially all of whom are located in the United States of America. The Company does not believe
+that it is exposed to any significant risk of loss on accounts receivable. 
+
+FGAM generates investment management fees for services provided by
+the Company. Investment management fees include fees earned from assets under management by providing professional services to manage
+client investments. Revenue is recognized as earned, at the end of each monthly period. 
+
+Forta generates commission revenue from the sale of annuities and premiums
+on life insurance policies held by third parties. Commission revenue is derived from the sale of annuities and premiums on life insurance
+policies. The revenue is recognized when commissions are earned from when it is determined that insurance products are sold. Commissions
+are received after products are sold, issued or in force. 
+
+FGEM generates revenue from insurance marketing services for insurance
+agents, including sourcing of insurance policies through selling agreements. Revenue is recognized when the policies have been accepted
+by the issuer and it is probable the commission will be received. 
+
+Tax Master Network has five levels of network subscription services
+that are charged and collected on a month-to-month basis. None of these programs come with a long-term commitment or contract, and there
+is no up-front payment beyond the monthly subscription fee. Cancellations are processed within the month requested and memberships are
+closed at the end of the period for which the most recent payment was made. Members are not entitled to refunds for unused memberships.
+Any subscription fees paid for a future period are deferred in the financial statements. TMN also sells Tax Blueprint . These are
+tax planning strategies guides, to save customers taxes through the implementation of the recommended tax strategies. After an initial
+assessment, the customers pay half of the year one tax savings. A contract liability is recognized when the customer payment is received.
+Revenue is deferred until the customer reviews and accepts the final Tax Blueprint document and returns an executed delivery agreement. 
+
+The Company received revenue from FGAM s operations that are
+primarily from investment management fees, including money management fees. Investment management fees are based upon a percentage of
+assets under management and totaled and (or, after inter-company eliminations of for fiscal
+years 2021 and 2020, respectively. 
+
+The Company received revenue from Forta s operations during
+fiscal year 2021 and from (the date of the merger) from the following sources from May 21, 2020 through fiscal year ending September
+30, 2020 including: 
+
+Commission-based transactions 
+
+Insurance and Other Service Revenue 
+
+Total Revenue from contracts with customers 
+
+Other service fee revenue 
+
+Total revenue 
+
+The Company received revenue from TMN s operations from the following
+sources during the fiscal year ending September 30, 2021 and 2020 including: 
+
+2021 
+ 2020 
+ 
+ TMN membership subscriptions 
+
+Tax Blueprints 
+
+Commissions/Referrals 
+
+Total 
+
+The Company received revenue from FGEM s operations from insurance
+sales of and during fiscal year ending September 30, 2021 and 2020, respectively. 
+
+and for the years ended September 30, 2021 and 2020, respectively. 
+
+in the year ended September 30, 2021 of in 2020, dividend yield of , expected life of years and volatility
+of and in 2021 and 2020 respectively. SAR awards are new this year and are being treated as a liability award while the
+options are being treated as equity awards. While the fair value of the options are based on the Black Scholes assumptions included here,
+the SAR awards are based on assumptions at year end. Forfeitures are recorded as they occur. 
+
+in revenue, a net loss of (including a write off of Goodwill of 7,380,603), use of cash in operations of and an accumulated
+deficit of . These operating results raise substantial doubt about our ability to continue as a going concern. The financial
+statements do not include any adjustments to reflect the possible future effects on the recoverability and classification of assets or
+the amounts and classification of liabilities that may result from the outcome of these uncertainties. 
+
+On May 8, 2020, the Company received a PPP loan in the amount of .
+Additionally, on May 15, 2020, Forta received a PPP loan in the amount of . These loans have been forgiven. On February 2, 2021
+Forta received a PPP loan in the amount of . This PPP loan bears a fixed interest rate of over a five-year term, is guaranteed
+by the federal government, and does not require collateral. The loan may be forgiven, in part or whole, if the proceeds are used to retain
+and pay employees and for other qualifying expenditures. 
+
+Company s plans for expansion include attracting additional clients
+through marketing efforts with its current and future brokerage, investment management and insurance agent representatives, as well as
+increasing the TMN membership and the investment advisory activity of the members to increase assets under management and Company s
+revenue. Future growth plans will include efforts to increase advisory headcount through recruiting of individuals advisors and groups
+of advisors. There is no guaranty that the Company will achieve these objectives. 
+
+Internally developed software 
+
+Less accumulated depreciation and amortization 
+
+Depreciation expense
+was and during the years ended September 30, 2021 and 2020, respectively. 
+
+Trademarks at September 30, 2020 
+
+. Amounts drawn under this line of credit are due on demand, and monthly interest and principal payments are required.
+The interest rate on the line of credit is . This line of credit is collateralized by the personal guarantee of John Pollock. Line
+of credit balance was and as of September 30, 2021 and 2020, respectively. 
+
+. The note is in settlement
+of tax penalties and interest he incurred, that were proximately caused by the Company s actions. The monthly principal and interest
+payments are , with a balloon payment of in April 2022. The note is being repaid over 36 months and bears an interest rate
+of . The Company has instituted abatement efforts on O Banon s behalf, with the taxing authority, however the abatement
+was denied. The outstanding balance on September 30, 2021 and 2020, was and , respectively. 
+
+On August 31, 2020, the Company entered into an agreement with John
+DuPriest (DuPriest), a former officer of Forta, in settlement pursuant to employment termination. The parties entered into an unsecured
+promissory note to DuPriest in the amount of .00, bearing interest of , payable over 26 months beginning with January 15, 2021
+through February 15, 2023. The balance is and as of September 30, 2021 and 2020, respectively. 
+
+On February 2, 2021 Forta received a PPP loan in the amount of .
+This PPP loan bears a fixed interest rate of over a five-year term, is guaranteed by the federal government, and does not require collateral.
+The loan may be forgiven, in part or whole, if the proceeds are used to retain and pay employees and for other qualifying expenditures. 
+
+The
+Company s maturities of debt subsequent to September 30, 2021 are as follows: 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+Total debt 
+
+Accrued benefits 
+
+Commissions payable 
+
+State Tax liability 
+
+Federal Tax liability 
+
+Credit Cards 
+
+Other Accounts payable 
+
+Accrued operating expenses 
+
+Total accrued expenses 
+
+as of September 30, 2020 and may be carried forward to offset future taxable
+income; accordingly, no current provision for income tax has been recorded in the accompanying statements of operations. 
+
+The
+following table summarizes the difference between the actual tax provision and the amounts obtained by applying the statutory tax rates
+to the income or loss before income taxes for the years ended September 30: 
+
+Expense not deductible 
+
+State tax, net of federal benefit 
+
+Effect of rate change 
+
+Changes to valuation allowance 
+
+Provision for income taxes 
+
+A deferred tax liability or asset is determined based on the difference
+between the financial statement and tax bases of assets and liabilities as measured by the enacted tax rates which will be in effect when
+these differences reverse. Deferred tax expense or benefit in the accompanying consolidated statements of operations are the result of
+changes in the assets and liabilities for deferred taxes. The measurement of deferred tax assets is reduced, if necessary, by the amount
+for any tax benefits that, based on available evidence, are not expected to be realized. Income tax expense is the current tax payable
+or refundable for the year plus or minus the net change in the deferred tax assets and liabilities. Deferred income taxes of the Company
+arise from the temporary differences between financial statement and income tax recognition of NOL carry-forwards. 
+
+The deferred tax assets and liabilities in the accompanying consolidated
+balance sheets include the following components at September 30: 
+
+Amortization 
+
+Depreciation 
+
+Valuation allowance 
+
+Net deferred taxes 
+
+and lease liabilities of on the Company s statement of financial position with no impact on the Company's results of operations.
+The Company had no significant changes to processes or controls. 
+
+The Company leases their office space through an operating lease in
+Denver, Colorado and Carmel, California, and non-material offices leases in Cincinnati, Ohio. The Denver lease agreement was amended in
+December 2020, extending the lease terms into 2024 and deferring some past due lease obligations over the amended lease term. The Carmel
+lease is for a term that ends in June of 2023. The Company previously had a lease for office space in Loveland, CO, which expired in August
+2021, without renewal. Company s lease agreements obligate the Company to pay real estate taxes, insurance, and certain maintenance
+costs, which are accounted for separately. The Company s lease agreements do not contain any material residual value guarantees
+or material restrictive covenants. The Company determines if an arrangement is an operating lease at inception. Leases with an initial
+term of 12 months or less are not recorded on the balance sheet. All other leases are recorded on the balance sheet as right-of-use assets
+and lease liabilities for the lease term. Lease assets and lease liabilities are recognized at commencement date based on the present
+value of lease payments over the lease term and include options to extend or terminate the lease when they are reasonably certain to be
+exercised. The present value of lease payments is determined primarily using the incremental borrowing rate based on the information available
+at lease commencement date. The Company s operating lease expense is recognized on a straight-line basis over the lease term and
+is recorded in general and administrative expenses. 
+
+The Company terminated its lease in Allen Texas with the consent of
+the landlord. The termination agreement including a contingent stock issuance. Company will be issuing 188,000 shares of common stock
+to the landlord and the liability has been included in accrued expenses as of September 30, 2021. 
+
+Total rent expense for the years ended September 30, 2021 and September
+30, 2020 was and respectively for Forta s the Denver Lease. The Denver lease was renegotiated in December 2020,
+extending through April 2024, deferring October through December 2020 rent and spreading over the extended lease term. The space was downsized
+and a TI allowance was applied to rental payments. Forta had a small space in Loveland through August 2021, when the lease was not renewed.
+And a small space Colorado Springs during 2020. Rent expense is recorded on a straight-line basis over the term of the lease. Management
+expects that in the normal course of business, leases will be renewed or replaced by other leases. 
+
+Forta assumed an existing lease in Carmel CA upon the merger with
+NCW/Vestus. The lease runs through June 2023. The total rent expense for the Carmel lease was 22,500 for the year ended September
+30, 2021. There are renewal options at the end of this lease. At this time, renewal is uncertain. A discount rate of 6 was used in
+determining the lease asset and liability. 
+
+Minimum future annual rental payments under non-cancelable operating
+leases having original terms in excess of one year are as follows (however, the Leases obligations have changed see Subsequent
+Events): 
+
+2023 
+
+2024 
+
+Total 
+
+Rent Payable 
+
+Interest 
+
+Lease Liability 
+
+Cash paid for lease payments on the Denver and Carmel leases was approximately
+ in 2021, the weighted average discount rate is and the weighted average remaining lease term is years. 
+
+Legal Proceedings 
+
+From
+time to time, we are a party to or otherwise involved in legal proceedings, claims and other legal matters, arising in the ordinary course
+of our business or otherwise. During 2021, Forta had over 20 FINRA arbitrations that were pending. The claims arise from the sale to
+clients of alternative investments (REITs, Business Development Loan Funds, and Oil and Gas securities). Most of the claims arise from
+investments prior 2015. None of the registered representatives that recommended these alternative investments is currently associated
+with Forta. Many of the claims have been settled, and most of the remaining claims are in settlement discussions. The total amount of
+the currently pending claims (approximately 500,000) does not exceed the amount of insurance available. However, the Company cannot
+estimate the potential loss that may occur. (see Subsequent Events). 
+
+shares were issued
+for the acquisition of NCW Vestus. During the year ended September 30, 2020 shares were issued for services rendered, in
+a private placement, shares in stock option exercises, and were issued in the Forta merger to Forta Shareholders. 
+
+. Eligible individuals include any employee
+of the Company or any director, consultant, or other person providing services to the Company. The expiration date and exercise price
+are as established by the Board of Directors of the Company. The last date any options were granted under the 2015 Plan was March 14,
+2016. 
+
+Effective November 22, 2016, the Company established the 2016 Stock
+Option Plan (the 2016 Plan ). The Board of Directors of the Company has the authority and discretion to grant stock options.
+The maximum number of shares of stock that may be issued and exercised under the Plan is 
+ and the maximum term of an award is 
+ years. Eligible individuals include any employee of the Company or any director, consultant, or other person providing services
+to the Company. The expiration date and exercise price are as established by the Board of Directors of the Company. The first date any
+options were granted under the 2016 Plan was December 19, 2016. 
+
+months 
+ 
+ Granted 
+
+months 
+ 
+ Exercised 
+
+months 
+ 
+ Canceled or expired 
+
+Outstanding - September 30, 2020 
+
+months 
+ 
+ Granted 
+
+months 
+ 
+ Exercised 
+
+Canceled or expired 
+
+months 
+ 
+ Outstanding - September 30, 2021 
+
+months 
+
+Exercisable - September 30, 2021 
+
+months 
+
+All outstanding 2015 Plan stock options at September 30, 2016 became
+immediately vested upon the completion of the reverse merger with Pacific Oil Company. The stock options granted under the 2016 Plan have
+2 to 5 -year vesting periods. Total compensation expense included in salaries and wages of previously unamortized stock compensation was
+ and for the years ended September 30, 2021 and 2020, respectively. Unamortized share-based compensation expense as of
+September 30, 2021 amounted to approximately which is expected to recognize over the vesting periods of approximately years. 
+
+Stock appreciation rights representing 1.9 million shares included
+in the table above are recorded as liability with an accrual of included in accrued expenses at September 30, 2021. 
+
+and . The other agreement is with Vandata, LLC, which is owned by Keith Vandestadt who provides consulting services
+to TMN and is paid 5000 per month, for a total of 60,000 in fiscal 2021 and 2020, respectively. Vandata, LLC is also owed 10,000 for
+services previously rendered. 
+
+On , the Company entered into a loan agreement with John
+Pollock, Executive Vice President of the Company. The note bears interest at , and was originally to be repaid in six equal installments
+of , beginning July 1, 2019. The last two payments have been deferred, with the balance still accruing interest. The balance of
+the loan at September 30, 2021 and 2020 was and , respectively. In addition, Company owes to a company owned by Mr.
+Pollock for consulting services. Payments are not being made at this time on this obligation. 
+
+F- 24 
+
+<EX-14.1>
+ 2
+ fingravity_ex1401.htm
+ CODE OF ETHICS
+
+Exhibit 14.1 
+
+Financial
+Gravity Companies, Inc. 
+
+Code of Ethics and 
+
+ Conflict of Interests Policy 
+
+ for Members of the Board of Directors 
+
+The Board of Directors (the Board of Financial Gravity Companies, Inc. (the Corporation has adopted this Code of Ethics (the Code ). Each member
+of the Board (a Director is expected to abide by this Code. 
+
+This Code is intended: 
+
+(a) 
+to focus each Director on his/her duties and responsibilities as a director of a publicly held corporation; 
+
+(b) 
+to assist the Directors in the recognition of, and resolution of, ethical issues; and 
+
+(c) 
+to further promote a culture of honesty, accountability and integrity. 
+
+No code or policy can anticipate every situation
+that may arise. Accordingly, this Code is intended to serve as a source of guiding principles. A guiding principle for each Director is
+that a Director (a) should exhibit the highest standards of business and professional integrity and (b) should avoid even the appearance
+of improper behavior. 
+
+A Director is encouraged to bring questions about
+particular circumstances that may implicate one or more of the provisions of this Code to the attention of the Chairman of the Board. 
+
+A. 
+ Conflicts of interests 
+
+1. Board
+members have a paramount interest in promoting and preserving the interests of the stockholders of the Corporation. Directors should avoid
+any conflict of interest. Any situation that involves, or may be perceived as involving, a conflict between (a) the interests of the Corporation
+and its stockholders and (b) a Director s personal interests or the interests of a constituency which has designated the Director,
+should be disclosed to the Chairman. In addition, Directors must disclose information regarding their financial interests in organizations
+that do business with the Corporation. 
+
+2. Once
+a Director has disclosed a conflict or potential conflict of interest, that Director will refrain from voting on any issue before the
+Board that creates the conflict or potential conflict of interest. 
+
+3. A
+Director will not knowingly engage in any conduct or activity that is inconsistent with, or disruptive of, the Corporation s best
+interests or its relationship with any person or entity. 
+
+4. A
+Director, or any member of his or her immediate family, should not accept a substantial gift from a third party where the gift is given
+in order to influence the Director s actions as a member of the Board. Such a gift should likewise be declined when its acceptance
+would give the appearance of a conflict of interest. 
+
+5. Directors
+should not accept compensation for services performed for or on behalf of the Corporation from any source other than the Corporation. 
+
+B. 
+ Corporate Opportunities. 
+
+Directors may not (a) take for their advantage,
+business opportunities that are substantially related to the Corporation s business or (b) compete with the Corporation for business
+opportunities that are substantially related to the Corporation s business; provided, however, if the disinterested Directors
+determine that the Corporation will not pursue such an opportunity, the Director is free to take advantage of, or otherwise compete for,
+such opportunity. 
+
+1 
+
+C. 
+ Confidentiality 
+
+Directors should maintain the confidentiality
+of information entrusted to them by the Corporation and any other confidential information about the Corporation that comes to them in
+their capacity as a Director, except when disclosure is authorized by the Corporation or legally mandated. For purposes of this Code,
+ confidential information includes all non-public information relating to the Corporation. 
+
+D. 
+ Compliance with laws, rules and regulations. 
+
+Directors shall comply with all laws, rules and
+regulations applicable to the Corporation. 
+
+E. 
+ Encouraging the reporting of any illegal or unethical behavior. 
+
+Directors will ensure the Corporation adopts policies
+and procedures that are designed to: 
+
+1. encourage
+employees to talk to supervisors, managers and other appropriate personnel when in doubt about the best course of action in a particular
+situation; 
+
+2. encourage
+employees to report violations of laws, rules, or regulations to appropriate personnel; and 
+
+3. make
+clear that the Corporation will not allow retaliation for reports that are made in good faith. 
+
+F. 
+ Compliance Procedures. 
+
+Directors should communicate any suspected violations
+of this Code promptly to the Chairman. Suspected violations will be investigated by the Board or its designees and appropriate action
+will be taken in the event it is determined that a violation has occurred. 
+
+G. 
+ Fair Dealing 
+
+Directors will make every reasonable effort to
+deal fairly with the Corporation s customers, suppliers and employees. No Director should take unfair advantage of anyone through
+manipulation, concealment, abuse of privileged information, misrepresentation of material facts or any other intentional unfair-dealing
+practice. 
+
+H. 
+ Protection and Proper Use of the Corporation s Assets 
+
+Directors may not use the Corporation s
+assets, labor or information for personal use, unless such use is approved by the Chairman or is part of a compensation or expense reimbursement
+available to all of the Directors. 
+
+I. 
+ Annual Review/Waiver 
+
+The Board of Directors will review and reassess
+the adequacy of the Code annually and make any amendments to it as the Board deems appropriate. 
+
+Only the Board of Directors may approve any waiver
+of the Code with respect to any Director. Such a waiver must be promptly disclosed to the Company s stockholders. 
+
+2 
+
+</EX-14.1>
+
+<EX-31.1>
+ 3
+ fingravity_ex3101.htm
+ CERTIFICATION OF THE PRINCIPAL EXECUTIVE OFFICER
+
+Exhibit 31.1 
+
+Certification of the Principal Executive Officer 
+
+I, Scott Winters, Chief Executive Officer, certify that: 
+
+1. 
+ I have reviewed this annual report on Form 10-K of Financial Gravity Companies, Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15 (f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures,
+or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the
+period in which this report is being prepared; 
+
+(b) Designed such internal control over financial
+reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the
+registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of the annual report) that has materially affected, or is reasonably likely to materially
+affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses
+in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves
+management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: December 29, 2021 
+ By: /s/ Scott Winters 
+
+Scott Winters 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ fingravity_ex3102.htm
+ CERTIFICATION OF THE PRINCIPAL FINANCIAL OFFICER
+
+Exhibit 31.2 
+
+Certification of the Principal Financial Officer 
+
+I, Gary Nemer, Chief Financial Officer, certify that: 
+
+1. 
+ I have reviewed this annual report on Form 10-K of Financial Gravity Companies, Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15 (f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures,
+or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the
+period in which this report is being prepared; 
+
+(b) Designed such internal control over financial
+reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the
+registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of the annual report) that has materially affected, or is reasonably likely to materially
+affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses
+in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves
+management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: December 29, 2021 
+ By: /s/ Gary Nemer 
+
+Gary Nemer 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ fingravity_ex3201.htm
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION
+1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Financial
+Gravity Companies, Inc. (the Company on Form 10-K for the year ended September 30, 2021, as filed with the Securities and
+Exchange Commission on the date hereof (the Report ), I, Scott Winters, Principal Executive Officer, and I, Gary Nemer, Principal
+Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002 that, to the best of my knowledge: 
+
+1. 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: December 29, 2021 
+ By: /s/ Scott Winters 
+
+Scott Winters 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: December 29, 2021 
+ By: /s/ Gary Nemer 
+
+Gary Nemer 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 6
+ fgco-20210930.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ fgco-20210930_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ fgco-20210930_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ fgco-20210930_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

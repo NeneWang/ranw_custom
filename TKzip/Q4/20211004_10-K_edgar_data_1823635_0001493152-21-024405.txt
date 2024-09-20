@@ -1,0 +1,4019 @@
+<Header>
+<FileStats>
+    <FileName>20211004_10-K_edgar_data_1823635_0001493152-21-024405.txt</FileName>
+    <GrossFileSize>3213586</GrossFileSize>
+    <NetFileSize>121372</NetFileSize>
+    <NonText_DocumentType_Chars>242663</NonText_DocumentType_Chars>
+    <HTML_Chars>914699</HTML_Chars>
+    <XBRL_Chars>982324</XBRL_Chars>
+    <XML_Chars>851794</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-21-024405.hdr.sgml : 20211004
+<ACCEPTANCE-DATETIME>20211001203828
+ACCESSION NUMBER:		0001493152-21-024405
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		76
+CONFORMED PERIOD OF REPORT:	20210531
+FILED AS OF DATE:		20211004
+DATE AS OF CHANGE:		20211001
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CXJ GROUP CO., Ltd
+		CENTRAL INDEX KEY:			0001823635
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLE PARTS & ACCESSORIES [3714]
+		IRS NUMBER:				852041913
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-248779
+		FILM NUMBER:		211300689
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3004-2, 532 XI ZI INTERNATIONAL CENTER
+		STREET 2:		JING GAN DISTRICT
+		CITY:			HANGZHOU CITY
+		STATE:			F4
+		ZIP:			310016
+		BUSINESS PHONE:		8618668175727
+
+	MAIL ADDRESS:	
+		STREET 1:		3004-2, 532 XI ZI INTERNATIONAL CENTER
+		STREET 2:		JING GAN DISTRICT
+		CITY:			HANGZHOU CITY
+		STATE:			F4
+		ZIP:			310016
+
+</SEC-Header>
+</Header>
+
+ 0001493152-21-024405.txt : 20211004
+
+10-K
+ 1
+ form10k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+10-K 
+
+ANNUAL
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF 
+
+ THE
+SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended May 31, 2021 
+
+ Commission
+File Number 333-248779 
+
+CXJ
+GROUP CO., Limited 
+
+ (Exact
+name of registrant as specified in its charter) 
+
+Nevada 
+ 
+ 85-2041913 
+ 
+ (State
+ or jurisdiction of 
+ Classification
+ Code Number) 
+ 
+ (I.R.S.
+ Employer incorporation 
+ or
+ organization) 
+
+C290,
+DoBe E-Manor, Dongning Road No. 553, Jianggan District, 
+
+ Hangzhou
+City, Zhejiang Province, China, 310026 
+
+ (Address
+of principal executive offices, including zip code) 
+
+(+86)
+18668175727 
+
+ (Registrant s
+phone number, including area code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+ 
+ N/A 
+ 
+ N/A 
+ 
+ N/A 
+
+SECURITIES
+REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT: 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or 1fined Securities Act. Yes No 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes
+ No 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (section 232.405 of this chapter) during the preceding
+twelve months (or shorter period that the registrant was required to submit and post such files). Yes No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company 
+or an emerging growth company in Rule 12b-2 of the Exchange Act: 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+Non-accelerated
+ filer 
+ 
+ Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+Indicate
+the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date. 
+
+Class 
+ Outstanding at September 28, 2021 
+ 
+ Common Stock, 0.001 par value 
+ 101,487,017 
+
+CXJ
+GROUP CO., LIMITED . 
+
+ TABLE
+OF CONTENTS 
+
+Page 
+
+PART I 
+
+ITEM
+ 1. 
+ BUSINESS 
+ 4 
+ 
+ ITEM
+ 1A. 
+ RISK FACTORS 
+ 6 
+ 
+ ITEM
+ 1B. 
+ UNRESOLVED STAFF COMMENTS 
+ 6 
+ 
+ ITEM
+ 2. 
+ PROPERTIES 
+ 6 
+ 
+ ITEM
+ 3. 
+ LEGAL PROCEEDINGS 
+ 6 
+ 
+ ITEM
+ 4. 
+ MINE SAFETY DISCLOSURES 
+ 6 
+
+PART II 
+
+ITEM
+ 5. 
+ MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STROCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 7 
+ 
+ ITEM
+ 6. 
+ SELECTED FINANCIAL DATA 
+ 7 
+ 
+ ITEM
+ 7. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 8 
+ 
+ ITEM
+ 7A. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 10 
+ 
+ ITEM
+ 8. 
+ FINANCIAL
+STATEMENTS AND SUPPLEMENTATY DATA 
+ 11 
+ 
+ ITEM
+ 9. 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 12 
+ 
+ ITEM
+ 9A. 
+ CONTROL AND PROCEDURES 
+ 12 
+ 
+ ITEM
+ 9B. 
+ OTHER INFORMATION 
+ 13 
+
+PART III 
+
+ITEM
+ 10. 
+ DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 14 
+ 
+ ITEM
+ 11. 
+ EXECUTIVE COMPENSATION 
+ 18 
+ 
+ ITEM
+ 12. 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT 
+ 19 
+ 
+ ITEM
+ 13. 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ 20 
+ 
+ ITEM
+ 14. 
+ PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+ 21 
+
+PART IV 
+
+ITEM
+ 15. 
+ EXHIBITS AND FINANCIAL STATEMENTS SCHEDULES 22 
+ 
+ ITEM
+ 16. 
+ FORM 10-K SUMMARY 
+ 22 
+
+SIGNATURES 
+ 23 
+
+2 
+
+PART
+I 
+
+SPECIAL
+NOTE REGARDING FORWARD LOOKING STATEMENTS 
+
+The
+Securities and Exchange Commission SEC encourages us to disclose forward-looking information so that investors can better
+understand future prospects and make informed investment decisions. 
+
+Statements
+made in this Form 10-K that are not historical or current facts are forward-looking statements made pursuant to the safe
+harbor provisions of Section 27A of the Securities Act of 1933 (the Act and Section 21E of the Securities Exchange Act
+of 1934. These statements often can be identified by the use of terms such as may , will , expect ,
+ believe , anticipate , estimate , approximate or continue , or the
+negative thereof. We intend that such forward-looking statements be subject to the safe harbors for such statements. We wish to caution
+readers not to place undue reliance on any such forward-looking statements, which speak only as of the date made. Any forward-looking
+statements represent management s best judgment as to what may occur in the future. However, forward-looking statements are subject
+to risks, uncertainties and important factors beyond our control that could cause actual results and events to differ materially from
+historical results of operations and events and those presently anticipated or projected. We disclaim any obligation subsequently to
+revise any forward-looking statements to reflect events or circumstances after the date of such statement or to reflect the occurrence
+of anticipated or unanticipated events. 
+
+Financial
+information contained in this Annual Reports is stated in United States dollars and are prepared in accordance with United States generally
+accepted accounting principles (US GAAP) . 
+
+3 
+
+ Table of Contents 
+
+ITEM
+1. BUSINESS 
+
+Our
+Corporate History and Background 
+
+CXJ
+Group Co., Limited we , us , the Company or ECXJ was originally incorporated
+in State of Nevada on August 20, 1998 under the name Global II, Inc and underwent several name changes prior to its current name. Until
+August 2019, the Company was known as Global Entertainment Corp., which was a dormant company. 
+
+On
+March 04, 2019, the eight judicial District Court of Nevada appointed Custodian Ventures, LLC as custodian for the Company, proper notice
+having been given to the officers and directors of Global Entertainment Corporation. There was no opposition. 
+
+On
+June 18, 2019, control of the Company was transferred by the entity controlled by Custodian Ventures, LLC to Xinrui Wang, our director,
+by selling him 10,000,000 shares of Series A Preferred stock and 17,700,000 shares of common stock for a purchase price of 175,000. 
+
+On
+June 21, 2019, Lixin Cai was appointed act as the new President, CEO, Secretary and Chairman of the Board of Directors of the Company.
+On June 21, 2019, Cuiyao Luo was appointed act as the new CFO, Treasurer and Member of the Board of Directors of the Company. On September
+30, 2019, the Company appointed three more members to the Board of Directors of the Company, and they are Xinrui Wang, Wenbin Mao and
+Baiwan Niu. 
+
+Effective
+July 9, 2019 we changed our name from Global Entertainment Corp to CXJ Group Co., Limited. On July 12, 2019, the Company effectuated
+a 1 for 200 reverse stock split, while the authorized shares of common stock and preferred shares totally had been increased to 500,000,000.
+As a result of the foregoing we changed our trading symbol from GNTP and began trading as ECXJ on August 5, 2019. 
+
+On
+October 4, 2019, Xinrui Wang (the Seller ), entered into a Stock Purchase Agreement to pursuant to which the Seller agreed
+to sell to Wenbin Mao and Baiwan Niu (the Purchasers ), totaling 1,500,000 preferred stock of the Company Shares owned by the Seller, for an amount of 1,500. On October 8, 2019, Xinrui Wang, Wenbin Mao and Baiwan Niu effectuated a 1 for 10 conversion
+to convert all their preferred stock totaling 10,000,000 to 100,000,000 common shares. As a result of the conversion, there was no preferred
+stock outstanding of the Company as of October 8, 2019. 
+
+On
+May 28, 2020, we consummated the transactions contemplated by the Share Exchange Agreement among the Company, CXJ Investment Group Company
+Limited, a British Virgin Islands Corporation CXJ and the shareholder of CXJ, pursuant to which we acquired all the ordinary
+shares of CXJ in exchange for the issuance to the shareholder of CXJ of an aggregate of 1,364,800 shares of the Company. The shareholder
+is the selling security holder in this prospectus and are all affiliates. As a result of the transactions contemplated by the Share Exchange,
+CXJ became a wholly-owned subsidiary of the Company. 
+
+ECXJ,
+through its wholly owned subsidiary, CXJ and its subsidiaries and the VIE own and operate an active automobiles products trading and
+services business in the People s Republic of China. Our business is supporting our alliance with products and technical services
+enable them to service consumers in China. 
+
+4 
+
+ Table of Contents 
+
+Summary
+Financial Information 
+
+The
+tables and information below are derived from our audited financial statements as of May 31, 2021. 
+
+May 31, 2021 
+
+Financial Summary 
+
+Total Assets 
+ 783,731 
+ 
+ Total Liabilities 
+ (3,459,390 
+ 
+ Total Stockholders Equity (Deficit) 
+ (2,675,659 
+
+Business
+Operations 
+
+The
+Company are engaged in trading of the automobile exhaust cleaner product and providing the brand name management and related training
+services. 
+
+Revenues 
+
+Our
+revenues was 1,075,010 for the fiscal year ended May 31, 2021. We currently have more than 100 customers working with us and expect
+will be exceeded 300 customers in year 2022. 
+
+Our
+Strategy 
+
+Our
+strategy is to grow the automobile related products and services through providing the brand name management and related training services. 
+
+Compliance
+with Government Regulation 
+
+We
+are subject to federal, state, local regulation and other regulations applicable to our business. 
+
+Research
+and Development Activities and Costs 
+
+We
+have incurred research and development costs 94,127 for the fiscal years ended May 31, 2021. 
+
+Employees 
+
+As
+of May 31, 2021, we have 35 employees, all of whom were full-time employees. 
+
+Description
+of Properties 
+
+Our
+executive offices are located at C290, DoBe E-Manor, Dongning Road No. 553, Jianggan District, Hangzhou City, Zhejiang Province, China.
+and our telephone number is + 86 18668175727 .
+Our website is www.cjlclub.com. Information on our website is not part of this filing or otherwise incorporated herein. 
+
+Bankruptcy
+or Similar Proceedings 
+
+We
+have never been subject to bankruptcy, receivership or any similar proceeding. 
+
+5 
+
+ Table of Contents 
+
+ITEM
+1A. RISK FACTORS 
+
+As
+a smaller reporting company, as defined in Rule 12b-2 of the Exchange Act, we are not required to provide the information
+called for by this Item. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+ITEM
+2. PROPERTIES 
+
+We
+currently do not own any physical property or real property. Our executive offices are located C290,
+DoBe E-Manor, Dongning Road No. 553, Jianggan District,Hangzhou City, Zhejiang Province, China. We believe that this space is
+adequate for our present operations. 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+There
+are no pending legal proceedings to which the Company is a party or in which any director, officer or affiliate of the Company, any owner
+of record or beneficially of more than 5 of any class of voting securities of the Company, or security holder is a party adverse to
+the Company or has a material interest adverse to the Company. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+None. 
+
+6 
+
+ Table of Contents 
+
+PART
+II 
+
+ITEM
+ 5. 
+ MARKET
+ FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Market
+Information 
+
+Our
+common stock trades in the OTC Pink marketplace under the symbol ECXJ . The OTC marketplace is a quotation service that
+displays real-time quotes, last-sale prices, and volume information in over-the-counter OTC equity securities. OTC Pink
+Market has limited quotations and marketability of securities. We plan to take the appropriate steps to up-list to the Nasdaq Exchange
+and resume priced quotations with market makers as soon as it is able, however, we cannot assure whether and when we will be successful
+with respect to this plan. 
+
+Holders 
+
+As
+of May 31, 2021, there were 101,487,017 shares of common stock issued and outstanding held by approximately 267 holders of record. 
+
+Dividends 
+
+We
+have not declared any dividends and we do not plan to declare any dividends in the foreseeable future. 
+
+Equity
+Compensation Plans 
+
+We
+do not have any equity compensation plan. 
+
+Recent
+Sales of Unregistered Securities 
+
+There
+are no unreported sales of equity securities at May 31, 2021 
+
+Securities
+Authorized for Issuance Under Equity Compensation Plans 
+
+The
+Company does not have any equity compensation plans. 
+
+Purchases
+of Equity Securities by the Registrant and Affiliated Purchasers 
+
+We
+did not purchase any of our shares of common stock or other securities during the year ended May 31, 2021. 
+
+ITEM
+6. SELECTED FINANCIAL DATA 
+
+As
+a smaller reporting company, as defined in Rule 12b-2 of the Exchange Act, we are not required to provide the information
+called for by this Item. 
+
+7 
+
+ Table of Contents 
+
+ITEM
+ 7. 
+ MANAGEMENT S
+ DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Overview 
+
+We
+are engaged in trading of the automobile exhaust cleaner
+products and providing the brand name management and related training services. 
+
+COVID-19,
+a viral pandemic, has affected the international community, public health, and financial markets throughout the world. Similarly, this
+public health crisis has impacted the Company, its operations, and the results of those business activities as of year ended May 31,
+2021. 
+
+China
+is one of the best countries controlling the Covid-19 pandemic in the world, the impact of pandemic will be minimized and the management
+anticipates the revenue increases by 50 - 80 in the year 2022. 
+
+Results
+of Operations 
+
+Our
+operations for the years ended May 31, 2021 and 2020 are outlined below: 
+
+Year
+ended May 31, 2021 compared to year ended May 31, 2020 
+
+Year Ended 
+ Year to Year Comparison 
+
+May 31, 
+ May 31, 
+ Increase/ 
+ Percentage 
+
+2021 
+ 2020 
+ (Decrease) 
+ Change 
+
+Revenue 
+ 1,075,010 
+ 803,840 
+ 271,170 
+ 33.7 
+ 
+ Cost of Goods Sold 
+ (419,152 
+ (614,967 
+ 195,815 
+ (31.8 
+ 
+ Gross Profit 
+ 655,858 
+ 188,873 
+ 466,985 
+ 247.2 
+ 
+ Operating Expenses 
+ (2,536,599 
+ (877,847 
+ 1,658,752 
+ (189.0 
+ 
+ Other Income (Expenses) 
+ 2,485 
+ 7,926 
+ 5,441 
+ 68.6 
+ 
+ Interest Income 
+ 199 
+ 
+ 199 
+
+Provision for Income Taxes 
+ (8,185 
+ (1,418 
+ 6,767 
+ (477.2 
+ 
+ Net Income (Loss) 
+ (1,886,242 
+ (682,466 
+ 2,138,144 
+ (313.3 
+
+The
+revenue for the year ended May 31, 2021 increased by 271,170 to 1,075,010 compared with the same period in 2020. The increment is mainly
+due to the increase of brand name and motor oil income. 
+
+Cost
+of goods sold for the year ended May 31, 2021 decreased by 195,815 to 419,152 compared with the same period in 2020. The decrement
+is mainly due to the increase in sales of higher profitable products motor oil and decrease in sales of lower profitable product exhaust
+cleaner. 
+
+Operating
+expenses for the year ended May 31, 2021 increased by 1,658,752 to 2,536,599 compared with the same period in 2020. The increase is
+mainly due to write off of bad debts 1,593,899 and increased of research and development expenses 75,062 and amortization of intangible
+assets 11,522. 
+
+Net
+loss for the year ended May 31, 2021 decreased by 2,138,144 to net loss 1,886,242 due to the write off bad debts 1,593,899 and increased
+of research and development expenses 75,062 and amortization of intangible assets 11,522. 
+
+8 
+
+ Table of Contents 
+
+Liquidity
+and Capital Reserve 
+
+Since
+commencing operations, our working capital needs are generated from operations, and we had generated cash flow 324,521 and 15,588 in
+year 2021 and 2020 respectively. 
+
+We
+are in start-up stage operations and have generated limited revenues. Our business is subject to risks inherent in the establishment
+of a new business enterprise, including limited capital resources and possible cost overruns due to price and cost increases in services
+and products. 
+
+We
+expect that we will be able to meet our needs to fund operations, capital expenditures and other commitments in the next 12 months primarily
+with our cash and cash equivalents, operating cash flows. 
+
+We
+may, however, require additional cash resources due to changes in business conditions or other future developments. If these sources
+are insufficient to satisfy our cash requirements, we may seek to sell additional equity or debt securities or obtain a credit facility.
+The sale of additional equity or equity-linked securities could contractual result in additional dilution to stockholders. The incurrence
+of indebtedness would result in increased debt service obligations and could result in operating and financial covenants that would restrict
+operations. Financing may not be available in amounts or on terms acceptable to us, or at all. 
+
+The
+following table provides selected financial data about our Company as of May 31, 2021 and 2020, respectively. 
+
+Working
+Capital 
+
+The
+following table provides selected financial data about our Company as of May 31, 2021 and May 31, 2020, respectively. 
+
+Year Ended 
+ Year to Year Comparison 
+
+May 31, 2021 
+ May 31, 2020 
+ Increase/ (Decrease) 
+ Percentage Change 
+
+Cash 
+ 340,109 
+ 15,588 
+ 324,521 
+ 2082 
+
+Current Assets 
+ 671,584 
+ 3,262,890 
+ (2,591,306 
+ (79 
+ 
+ Current Liabilities 
+ 3,434,867 
+ 4,001,981 
+ (567,114 
+ (14 
+ 
+ Working Capital (Deficiency) 
+ (2,763,283 
+ (739,091 
+ (2,024,192 
+ 274 
+
+The
+decrease in working capital deficiency was primarily attributed to write off bad debts 1,593,899 and increased research and development
+expenses 75,062 and amortization of intangible assets 11,522.. The decrease in current liabilities was primarily attributed to amortization
+of advance received of brand name management fees. 
+
+9 
+
+ Table of Contents 
+
+Cash
+Flow 
+
+Year Ended 
+ Year to Year Comparison 
+
+May 31, 2021 
+ May 31, 2020 
+ Increase/ (Decrease) 
+ Percentage Change 
+
+Cash Flows provided by (used in) operating activities 
+ 492,401 
+ 89,437 
+ 402,964 
+ 451 
+ 
+ Cash Flows used in Investing activities 
+ (12,014 
+ (29,646 
+ 17,632 
+ (59 
+ 
+ Cash Flows provided by (used in financing activities. 
+ 8,725 
+ (46,505 
+ 55,230 
+ (119 
+ 
+ Effects on change in foreign exchange rate 
+ (164,591 
+ 2,302 
+ (166,893 
+ (7250 
+ 
+ Net Change in cash during period 
+ 324,521 
+ 15,588 
+ 308,933 
+ 1982 
+
+Cash
+Flow from Operating Activities 
+
+During
+the year ended May 31, 2021, cash flow from operating activities increased by 402,964 to 492,401 compared with same period in 2020.
+The increase in cash flow provided by operation activities is primarily due to an increase cash flow 1,396,739 from prepayment, deposits
+and other receivable, decrease cash flow 260,480 from trade receivable, decrease cash flow 714,454 from accrued liabilities, other
+payable and deposits. 
+
+Cash
+Flow from Investing Activities 
+
+During
+the year ended May 31, 2021, cash flow used in investing activities decreased by 17,632 to 12,014) compared with same period in 2020.
+The decreased in cash flow used in investing activities is due to the lesser R D cost invested in year 2021. 
+
+Cash
+Flow from Financing Activities 
+
+During
+the year ended May 31, 2021, cash flow from financing activities increased by 55,230 to 8,725 compared with same period in 2020. The
+increase in cash flow 55,230 from financing activities is mainly due to the director advance to company during the year. 
+
+Critical
+Accounting Policies and Estimates 
+
+The
+preparation of consolidated financial statements and related disclosures in conformity with U.S. generally accepted accounting principles
+and the Company s discussion and analysis of its financial condition and operating results require the Company s management
+to make judgments, assumptions and estimates that affect the amounts reported. Management bases its estimates on historical experience
+and on various other assumptions it believes to be reasonable under the circumstances, the results of which form the basis for making
+judgments about the carrying values of assets and liabilities. Actual results may differ from these estimates, and such differences may
+be material. 
+
+Off-Balance
+Sheet Arrangements 
+
+We
+do not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial
+condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources
+that is material to investors. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+As
+a smaller reporting company, as defined in Rule 12b-2 of the Exchange Act, we are not required to provide the information
+called for by this Item. 
+
+10 
+
+ Table of Contents 
+
+ITEM
+8. FINANCIAL STATEMENTS 
+
+CXJ
+GROUP CO., LIMITED 
+
+ TABLE
+OF CONTENTS 
+
+Report of Independent Registered Public Accounting Firm Total Asia Associates PLT 
+ F
+ - 1 
+ 
+ Consolidated Balance Sheets as of May 31, 2021 and 2020 
+ F
+ - 5 
+ 
+ Consolidated Statements of Operations and other Comprehensive Income (Loss) for the years ended May 31, 2021 and 2020 
+ F
+ - 6 
+ 
+ Consolidated Statements of Stockholders Equity (Deficit) for the years ended May 31, 2021 and 2020 
+ F
+ - 7 
+ 
+ Consolidated Statements of Cash Flows for the years ended May 31, 2021 and 2020 
+ F
+ - 8 
+ 
+ Notes to Consolidated Financial Statements 
+ F
+ - 9 
+
+11 
+
+ Table of Contents 
+
+TOTAL
+ ASIA ASSOCIATES PLT 
+ (AF002128
+ LLP0016837-LCA) 
+ A
+ Firm registered with US PCAOB and Malaysian MIA 
+ No.
+ 36G-2, Jalan Radin Anum, Bandar Baru Sri Petaling, 
+ 57000
+ Kuala Lumpur, Malaysia. 
+ Tel:
+ (603) 9057 3131 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Shareholders and Board of Directors of CXJ Group Co., Limited 
+
+C290,
+DoBe E-Manor, Dongning Road No. 553 
+
+ Jianggan
+District, Hangzhou City 
+
+ Zhejiang
+Province, China, 310026. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying balance sheet of CXJ Group Co., Limited (the Company as of May 31, 2021 and 2020 and the
+related statements of income, stockholders equity, and cash flows for the year ended May 31, 2021 and 2020, and the related notes
+(collectively referred to as the financial statements ). In our opinion, the financial statements present fairly, in all
+material respects, the financial position of the Company as of May 31, 2021 and 2020, and the results of its operations and its cash
+flows for the year ended May 31, 2021 and 2020, in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion. 
+
+Going
+Concern 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note
+2 to the financial statements, the Company has suffered recurring losses from operations and has a net capital deficiency that raise
+substantial doubt about the Company s ability to continue as a going concern. Management s plans in regard to these matters
+also are described in Note 2. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Critical
+Audit Matters 
+
+The
+critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the Board of Directors (Those Charged with Governance) that: (1) relate to accounts or disclosures
+that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgements. The communication
+of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating
+the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which
+they relate. 
+
+F- 1 
+
+Recognition
+of revenue 
+
+The
+Group recognizes revenue and cost derived from long term contract which span more than one accounting period over time using the apportionment
+of time method. Revenue for the financial year ended May 31, 2021 and 2020 were USD 1,075,010 and USD 803,840 respectively. Revenue from
+long term contracts represent approximately 49 and 8 of the total Group s revenue in respective financial year. 
+
+The
+apportionment of time method used to recognize revenue on the basis of the Group s effort or inputs to the satisfaction of a performance
+obligation. 
+
+We
+focused on this are because the management applies significant judgment and estimates in determining the apportionment of time for revenue
+recognized and to be recognized, the extent of costs incurred and yet to be incurred. 
+
+Our
+audit procedures in this area included the following, among others: 
+
+(a) 
+ Reading
+ all key contracts to obtain an understanding of the specific terms and conditions; 
+
+(b) 
+ Reviewing
+ management s workings on the computation based on time apportionment to ascertain the reasonableness of the amount of revenue
+ and cost recognized in profit or loss; 
+
+(c) 
+ Agreeing
+ samples of revenue recognized to date to invoice and assessing the adequacy of accrual of costs made; and 
+
+(d) 
+ Assessing
+ the adequacy and reasonableness of the disclosures in the financial statements. 
+
+Recoverability
+and impairment of trade receivables 
+
+The
+Group recognizes trade receivables USD 8,477 and USD 436,620 as at May 31, 2021 and 2020 respectively, as disclosed in Note 6 to the
+consolidated financial statements. The trade receivables as represents approximately 1 and 13 of the Group s total assets for
+respective financial year. 
+
+We
+focus and assess the recoverability of the trade receivables involved judgements and estimation uncertainty in analyzing historical trend
+in bad payment, indicators of expected credit losses (ECL), customer concentration, customer creditworthiness and customer payment terms
+and adjusted for forward looking macro-economic factors. 
+
+Our
+audit procedures in this area included the following, among others: 
+
+(a) 
+ Understanding
+ the Group s identification, monitoring, and assessment on the impairment of receivables; 
+
+(b) 
+ Understanding
+ the Group s basis and justification in making accounting estimates for impairment; 
+
+(c) 
+ Reviewing
+ ageing analysis of receivables and testing the reliability thereof; 
+
+(d) 
+ Reviewing
+ subsequent collections for major receivables and overdue amount; 
+
+(e) 
+ Making
+ inquiries of management regarding the action plans to recover overdue amount; 
+
+(f) 
+ Understanding
+ of the receivables with significant credit exposures which were significantly overdue or deemed to be in default; and 
+
+(g) 
+ Evaluating
+ the reasonableness and adequacy of the bad debts written off recognized for identified exposures. 
+
+Recoverability
+and impairment of non-trade receivables 
+
+The
+Group recognizes non-trade receivables USD 216,683 and USD 2,518,698 as at May 31, 2021 and 2020 respectively, as disclosed in Note 7
+to the consolidated financial statements. The non-trade receivables as represents approximately 28 and 72 of the Group s total
+assets for both financial years. 
+
+Non-trade
+receivables are significant account to the Group and need to re-align to the Group s principal activities, core business activities
+and objectives. We assess the recoverability of the non-trade receivables involved judgements and estimation uncertainty in analyzing
+historical trend in bad payment, indicators of expected credit losses (ECL), non-trade parties concentration, non-trade parties 
+creditworthiness and non-trade parties payment terms and adjusted for bases on case-to-case basis. 
+
+F- 2 
+
+Our
+audit procedures in this area included the following, among others: 
+
+(a) 
+ Understanding
+ the Group s identification, monitoring, and assessment on the impairment of receivables; 
+
+(b) 
+ Understanding
+ the Group s basis and justification in making accounting estimates for impairment; 
+
+(c) 
+ Reviewing
+ ageing analysis of receivables and testing the reliability thereof; 
+
+(d) 
+ Reviewing
+ subsequent collections for major receivables and overdue amount; 
+
+(e) 
+ Making
+ inquiries of management regarding the action plans to recover overdue amount; 
+
+(f) 
+ Understanding
+ of the receivables with significant credit exposures which were significantly overdue or deemed to be in default; and 
+
+(g) 
+ Evaluating
+ the reasonableness and adequacy of the bad debts written off recognized for identified exposures. 
+
+Recoverability
+and impairment of amount due from shareholders 
+
+The
+Group recognizes amount due from shareholders USD 43,500 and USD 51,458 as at May 31, 2021 and 2020 respectively, as disclosed in Note
+11 to the consolidated financial statements. Amount due from shareholders are remained receivables and represent significant corporate
+governance challenge to the Group and require prompt action to re-align to the Group s corporate governance and objectives. 
+
+We
+assess the recoverability of the amount due from shareholders involved judgements and estimation uncertainty in analyzing historical
+trend in bad payment, indicators of expected credit losses (ECL), shareholders concentration, shareholders creditworthiness
+and shareholders payment terms and adjusted accordingly. 
+
+Our
+audit procedures in this area included the following, among others: 
+
+(a) 
+ Understanding
+ the Group s identification, monitoring, and assessment on the impairment of receivables; 
+
+(b) 
+ Understanding
+ the Group s basis and justification in making accounting estimates for impairment; 
+
+(c) 
+ Reviewing
+ ageing analysis of receivables and testing the reliability thereof; 
+
+(d) 
+ Reviewing
+ subsequent collections for major receivables and overdue amount; 
+
+(e) 
+ Making
+ inquiries of management regarding the action plans to recover overdue amount; 
+
+(f) 
+ Understanding
+ of the receivables with significant credit exposures which were significantly overdue or deemed to be in default; and 
+
+(g) 
+ Evaluating
+ the reasonableness and adequacy of the allowance for impairment recognized for identified exposures. 
+
+Impairment
+assessment on intangible assets 
+
+The
+Group recognizes intangible assets amounting to USD 32,974 and USD 29,646 as at May 31, 2021 and 2020, as disclosed in Note 8 to the
+consolidated financial statements, representing approximately 4 and 1 of the Group s total assets for respective financial year. 
+
+The
+Group carries out impairment test by comparing the recoverable amount of cash generating unit CGU based on the value
+in use method and the carrying amounts. The impairment test was significant due to the complexity of the assessment process involving
+significant judgements and estimation uncertainty in making key assumptions about future market and economic conditions, growth rates,
+profit margins, discount rate, etc. for value in use of CGU based on future discounted cash flows. 
+
+Our
+audit procedures in this area included the following, among others: 
+
+(a) 
+ Examining
+ management s cash flows forecast that support the impairment assessment; 
+
+(b) 
+ Assessing
+ the reliability of management s forecast through the review of past trends of actual financial performance against previous
+ forecasted results; 
+
+(c) 
+ Assessing
+ the key assumptions on which the cash flows projections are based, by amongst others, comparing them against business plans, contracts
+ with customers, historical results and market data; 
+
+(d) 
+ Performing
+ sensitivity analysis to stress test the key assumptions and inputs used in the impairment assessment; and 
+
+(e) 
+ Assessing
+ the adequacy and reasonableness of the disclosure in the financial statements. 
+
+F- 3 
+
+Completeness,
+existence and accuracy of staff advances 
+
+The
+Group recognizes staff advances amounting to USD 30,157 and USD 3,099 as at May 31, 2021 and 2020, as disclosed in Note 7 to the consolidated
+financial statements, representing approximately 4 and 0.08 of the Group s total assets for respective financial year. 
+
+The
+Group provides advances to employees for their out-of-pocket expenses. Upon incurred, employees will subsequently observe protocol set
+forth within the Group for record keeping. 
+
+Our
+audit procedures in this area included the following, among others: 
+
+(a) 
+ Examining
+ management s record to support the incurrence and accuracy; 
+
+(b) 
+ Assessing
+ the reliability of management s protocol set forth; and 
+
+(c) 
+ Assessing
+ management s record with cut off to support completeness. 
+
+Contingent
+liabilities 
+
+Recent
+disputes with a third party may lead to potential liabilities exposure or contingent liabilities to the Group. A contingent liability
+is a liability that may occur depending on the outcome of an uncertain future event. A contingent liability is recorded if the contingency
+is likely and the amount of the liability can be reasonably estimated. As at May 31, 2021, the Group has provided a provision of USD
+94,192 at their best estimate based on facts and circumstances prevailed, as disclosed in Note 13 to the consolidated financial statements. 
+
+Our
+audit procedures in this area included the following, among others: 
+
+(a) 
+ Enquiry
+ and interview of management; 
+
+(b) 
+ Obtain
+ representation from management and/or solicitor confirmation; 
+
+(c) 
+ Perform
+ subsequent event review and review minutes and/or correspondence in relation to the disputes; and 
+
+(d) 
+ Assessing
+ the adequacy and reasonableness of the disclosure in the financial statements. 
+
+/s/
+Total Asia Associates PLT 
+
+TOTAL
+ ASIA ASSOCIATES PLT 
+
+We
+ have served as the Company s auditor since 2020. 
+
+Kuala
+ Lumpur, Malaysia 
+
+September
+ 28, 2021 
+
+F- 4 
+
+CXJ
+GROUP CO., LIMITED 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+ AS
+OF May 31, 2021 and May 31, 2020 
+
+ Currency
+Expressed in United States Dollars US ), Except For Number Of Shares) 
+
+May 31, 2021 
+ May 31, 2020 
+
+Audited 
+ Audited 
+
+ASSETS 
+
+CURRENT ASSETS 
+
+Account receivables 
+ 8,477 
+ 436,620 
+ 
+ Prepayments, deposits and other receivables 
+ 216,683 
+ 2,518,698 
+ 
+ Inventories 
+ 62,815 
+ 124,658 
+ 
+ Due from a director 
+ - 
+ 115,868 
+ 
+ Due from a related party 
+ 43,500 
+ 51,458 
+ 
+ Cash and cash equivalents 
+ 340,109 
+ 15,588 
+ 
+ Total Current Assets 
+ 671,584 
+ 3,262,890 
+
+NON-CURRENT ASSETS 
+
+Operating lease right-of-use assets 
+ 79,173 
+ 192,741 
+ 
+ Intangible assets 
+ 32,974 
+ 29,646 
+ 
+ Total non-current assets 
+ 112,147 
+ 222,387 
+
+TOTAL ASSETS 
+ 783,731 
+ 3,485,277 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+CURRENT LIABILITIES 
+
+Account payables 
+ 233,516 
+ 156,955 
+ 
+ Advanced received, accrued expenses and other payables 
+ 3,030,788 
+ 3,735,680 
+ 
+ Amount due to a director 
+ 114,935 
+ 26,302 
+ 
+ Operating lease liabilities, net of current portion 
+ 55,628 
+ 83,044 
+ 
+ Total current liabilities 
+ 3,434,867 
+ 4,001,981 
+
+NON-CURRENT LIABILITIES 
+
+Operating lease liabilities, non-current portion 
+ 24,523 
+ 112,759 
+
+TOTAL LIABILITIES 
+ 3,459,390 
+ 4,114,740 
+
+STOCKHOLDERS EQUITY 
+
+Common stock, 0.001 par value, 490,000,000 and 490,000,000 shares authorized, 101,487,017 and 101,487,017 shares issued and outstanding as of May 31, 2021 and May 31, 2020 respectively 
+ 101,487 
+ 101,487 
+ 
+ Additional paid-in capital 
+ - 
+ - 
+ 
+ Accumulated other comprehensive income (expense) 
+ (152,739 
+ 7,215 
+ 
+ Accumulated deficit 
+ (2,624,407 
+ (738,165 
+
+TOTAL STOCKHOLDERS EQUITY 
+ (2,675,659 
+ (629,463 
+ 
+ TOTAL LIABILITIES AND STOCKHOLDERS EQUITY 
+ 783,731 
+ 3,485,277 
+
+F- 5 
+
+CXJ
+GROUP CO., LIMITED 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME (LOSS) 
+
+ FOR
+THE YEAR ENDED MAY 31, 2021 and MAY 31, 2020 
+
+ Currency
+Expressed in United States Dollars US ), Except For Number Of Shares) 
+
+For the year ended 
+
+May 31, 2021 
+ May 31, 2020 
+
+Audited 
+ Audited 
+
+REVENUE 
+
+- Non-related party 
+ 1,075,010 
+ 803,840 
+
+COST OF REVENUE 
+ (419,152 
+ (614,967 
+
+GROSS PROFIT 
+ 655,858 
+ 188,873 
+
+OTHER INCOME/(EXPENSE) 
+ 2,485 
+ 7,926 
+
+SELLING AND DISTRIBUTION EXPENSES 
+ (389,559 
+ (529,780 
+ 
+ GENERAL AND ADMINISTRATIVE EXPENSES 
+ (2,147,040 
+ (348,067 
+
+LOSS FROM OPERATIONS 
+ (1,878,256 
+ (681,048 
+
+INTEREST INCOME 
+ 199 
+ - 
+
+LOSS BEFORE INCOME TAX 
+ (1,878,057 
+ (681,048 
+
+INCOME TAXES EXPENSE 
+ (8,185 
+ (1,418 
+
+NET LOSS 
+ (1,886,242 
+ (682,466 
+
+Other comprehensive income: 
+
+- Foreign exchange adjustment loss 
+ (159,954 
+ 7,215 
+ 
+ COMPREHENSIVE LOSS 
+ (2,046,196 
+ (675,251 
+
+Net loss per share - Basic and diluted 
+ (0.02 
+ (0.01 
+
+Weighted average number of common shares outstanding Basic and diluted 
+ 101,487,017 
+ 101,487,017 
+
+F- 6 
+
+CXJ
+GROUP CO., LIMITED 
+
+ CONSOLIDATED
+STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY 
+
+ FOR
+THE YEARS ENDED MAY 31, 2021 AND May 31, 2020 
+
+ Currency
+Expressed in United States Dollars US ), Except For Number Of Shares) 
+
+Common Stock 
+ Additional 
+ Accumulated Other 
+ 
+ Total 
+
+Number of Shares 
+ Amount 
+ Paid-In Capital 
+ Comprehensive Income 
+ Accumulated Deficit 
+ Stockholders Deficit 
+
+Balance as of May 31,2019 
+ 24,356,062 
+ 24,356 
+ 4,343 
+ - 
+ (42,911 
+ (14,212) 
+
+1 for 200 reverse stock split 
+ (24,233,845 
+ (24,234 
+ 24,234 
+ - 
+ - 
+ - 
+ 
+ Prefer Stock issued and convert to common stock 
+ 100,000,000 
+ 100,000 
+ (90,000 
+ - 
+ - 
+ 10,000 
+ 
+ Common Stock issued 
+ 1,364,800 
+ 1,365 
+ 4,093,088 
+ - 
+ - 
+ 4,094,453 
+ 
+ Acquisition of Subsidiary 
+ - 
+ - 
+ (4,031,665 
+ - 
+ (12,788 
+ (4,044,453) 
+ 
+ Net Loss 
+
+(682,466 
+ (682,466) 
+ 
+ Accumulated other Comprehensive Income 
+ - 
+ - 
+ - 
+ 7,215 
+ - 
+ 7,215 
+ 
+ Balance as of May 31, 2020 
+ 101,487,017 
+ 101,487 
+ - 
+ 7,215 
+ (738,165 
+ (629,463) 
+
+Net Loss 
+ - 
+ - 
+ - 
+ - 
+ (1,886,242 
+ (1,886,242) 
+ 
+ Accumulated other Comprehensive Income 
+ - 
+ - 
+ - 
+ (159,954) 
+ - 
+ (159,954) 
+ 
+ Balance as of May 31, 2021 
+ 101,487,017 
+ 101,487 
+ - 
+ (152,739) 
+ (2,624,407 
+ (2,675,659) 
+
+F- 7 
+
+CXJ
+GROUP CO., LIMITED 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+ FOR
+THE YEARS ENDED MAY 31, 2021 AND 2020 
+
+ (Currency
+expressed in United States Dollars US 
+
+For the year ended May 31, 
+
+2021 
+ 2020 
+
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net loss 
+ (1,886,242 
+ (682,466 
+ 
+ Adjustments to reconcile net loss to net cash provided by operating activities 
+
+Acquisition of subsidiary 
+ - 
+ 50,000 
+ 
+ Conversion of preferred shares to common shares 
+ - 
+ 10,000 
+ 
+ Operating lease expenses 
+ 69,827 
+ 60,129 
+ 
+ Temination of lease 
+ (3,564 
+ - 
+ 
+ Bad debts written off 
+ 1,593,899 
+ - 
+ 
+ Amortization of Intangible assets 
+ 11,522 
+ - 
+ 
+ Changes in operating assets and liabilities: 
+ - 
+ - 
+ 
+ Accounts receivables 
+ (260,480 
+ (436,620 
+ 
+ Prepayments, deposits and other receivables 
+ 1,396,739 
+ (2,518,698 
+ 
+ Inventories 
+ 61,843 
+ (124,658 
+ 
+ Due to/(from) a director 
+ 205,771 
+ (119,363 
+ 
+ Due from a shareholder 
+ - 
+ (1,458 
+ 
+ Due from a related company 
+ - 
+ 13,521 
+ 
+ Accounts payable 
+ 86,123 
+ 172,168 
+ 
+ Operating lease liabilities 
+ (68,583 
+ (52,154 
+ 
+ Other payables and accrued liabilities 
+ (714,454 
+ 3,719,036 
+
+Net cash provided by operating activities 
+ 492,401 
+ 89,437 
+ 
+ CASH FLOWS FROM INVESTING ACTIVITY: 
+
+Purchase of intangible assets 
+ (12,014 
+ (29,646 
+
+Net cash used in investing activity 
+ (12,014 
+ (29,646 
+ 
+ CASH FLOWS FROM FINANCING ACTIVITIES: 
+
+Loan from related party 
+ 6,500 
+ 3,495 
+ 
+ Advances from/(to) a director 
+ 2,225 
+ (50,000 
+ 
+ Net cash provided by/(used in) financing activities 
+ 8,725 
+ (46,505 
+ 
+ Effect of exchange rate changes on cash and cash equivalents 
+ (164,591 
+ 2,302 
+ 
+ Net change in cash and cash equivalents 
+ 324,521 
+ 15,588 
+ 
+ Cash and cash equivalents, beginning of year 
+ 15,588 
+ - 
+ 
+ CASH AND CASH EQUIVALENTS, END OF YEAR 
+ 340,109 
+ 15,588 
+
+F- 8 
+
+CXJ
+Group Co., Limited 
+
+ Notes
+to the Consolidation Financial Statements 
+
+ May
+31, 2021 and 2020 
+
+ Express
+in United States Dollars 
+
+NOTE
+1 - ORGANIZATION AND DESCRIPTION OF BUSINESS 
+
+CXJ
+Group Co, Limited was incorporated in the State of Nevada on August 20, 1998 under the name Global II, Inc and underwent several name
+changes prior to its current name. Until August 2019, the Company was know as Global Entertainment Corp, which was a dormant company. 
+
+On
+March 04, 2019, the eight judicial District Court of Nevada appointed Custodian Ventures, LLC as custodian for the Company, proper notice
+having been given to the officers and directors of Global Entertainment Corporation. There was no opposition. 
+
+On
+June 18, 2019, control of the Company was transferred by the entity controlled by Custodian Ventures, LLC to Xinrui Wang, our director,
+by selling him 10,000,000 shares of Series A Preferred stock and 17,700,000 shares of common stock for a purchase price of 175,000. 
+
+On
+July 9, 2019 we changed our name from Global Entertainment Corp to CXJ Group Co., Limited. On July 12, 2019, the Company effectuated
+a 1 for 200 reverse stock split, while the authorized shares of common stock and preferred shares totally had been increased to 500,000,000.
+As a result of the foregoing we changed our trading symbol from GNTP and began trading as ECXJ on August 5, 2019. 
+
+On
+October 4, 2019, Xinrui Wang (the Seller ), entered into a Stock Purchase Agreement to pursuant to which the Seller agreed
+to sell to Wenbin Mao and Baiwan Niu (the Purchasers ), totaling 1,500,000 preferred stock of the Company Shares owned by the Seller, for an amount of 1,500. On October 8, 2019, Xinrui Wang, Wenbin Mao and Baiwan Niu effectuated a 1 for 10 conversion
+to convert all their preferred stock totaling 10,000,000 to 100,000,000 common shares. As a result of the conversion, there was no preferred
+stock outstanding of the Company as of October 8, 2019. 
+
+On
+May 28, 2020, we consummated the transactions contemplated by the Share Exchange Agreement among the Company, CXJ Investment Group Company
+Limited, a British Virgin Islands Corporation CXJ and the shareholder of CXJ, pursuant to which we acquired all the ordinary
+shares of CXJ in exchange for the issuance to the shareholder of CXJ of an aggregate of 1,364,800 shares of the Company. The shareholder
+is the selling security holder in this prospectus and are all affiliates. As a result of the transactions contemplated by the Share Exchange,
+CXJ became a wholly-owned subsidiary of the Company. 
+
+ECXJ,
+through its wholly owned subsidiary, CXJ and its subsidiaries and the VIE own and operate an active automobiles products trading and
+services business in the People s Republic of China. Our business is supporting our alliance with products and technical services
+enable them to service consumers in China. 
+
+F- 9 
+
+NOTE
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis
+of presentation and liquidation 
+
+The
+condensed consolidated balance sheets as of May 31, 2021 and May 31, 2020 and the condensed consolidated statements of operations and
+comprehensive income (loss), shareholders equity, and cash flow for the year ended May 31, 2021 and 2020 have been prepared by
+the Company is in conformity with generally accepted accounting principles in the United States US GAAP ). 
+
+The
+Company incurred net loss of 1,875,008 and 682,466 during the year ended May 31, 2021 and 2020, respectively. As of May31, 2021 and
+May 31, 2020, the Company had an accumulated deficit of 2,613,173 and 738,165, respectively. Although it was loss in these two years,
+the Company generated net cash inflow from operations of 324,521 and 15,588 during the year ended May 31, 2021 and 2020, respectively. 
+
+As
+of May 31, 2021 and May 31, 2020, the Company had cash and cash equivalents of 340,109 and 15,588, the current liability of 3,434,867.
+The Company s China subsidiaries and VIE are subject to preapproval from the State Administration of Foreign Exchange SAFE for non-domestic financing. Additionally, the amount of cash available for transfer from the China subsidiaries and the VIE for use by
+the Company s non-China subsidiaries is also limited both by the liquidity needs of the subsidiaries in China and the restriction
+on foreign currency exchange by Chinese-government mandated limitations including currency exchange controls on certain transfers of
+funds outside of China. 
+
+The
+company currently is seeking to restructure the terms of our liabilities by raising funds to pay off liabilities. Our ability to continue
+as a going concern is depend upon obtaining the necessary financing or negotiating the terms of the existing borrowing to meet our current
+and future liquidity need. 
+
+Going
+Concern Uncertainties 
+
+The
+accompanies financial statements have been prepared assuming that the Company will continue as a going concern. The company having accumulated
+deficit of 2,624,407 and 738,165 as of May 31, 2021 and May 31, 2020 respectively. For the year ended May 31, 2021 and 2020, the Company
+suffered from a net loss of 1,886,242 and 682,466 respectively. Furthermore, the Company recorded a positive cash flows of 324,521
+and 15,588 as of May 31, 2021 and 2020 respectively. 
+
+The
+Company s cash position is significant to support the Company s daily operation. While the Company believes in the viability
+of its strategy and in its ability to raise additional funds, there can be no assurance to that effect. The Company s ability to
+continue as a going concern is dependent upon its ability to improve profitability and the ability to acquire financial support from
+its major shareholder. 
+
+These
+and other factors raise substantial doubts about the Company s ability to continue as a going concern within one year after the
+date that financial statements are issued. These financial statements do not include any adjustments to reflect he possible future effects
+on the recoverability and classification of assets or the amount and classification of liabilities that may result in the Company not
+being able to continue as a going concern. 
+
+F- 10 
+
+Principles
+of consolidation 
+
+The
+accompanying consolidated financial statements include the financial statements of the Company, its subsidiaries and the VIE. All significant
+inter-company transactions and balances between the Company, its subsidiaries and the VIE have been eliminated upon consolidation. 
+
+To
+comply with PRC laws and regulations, the Company provides substantially trading of exhaust cleaner and brand name management service
+in China via its VIE, which hold critical operating licenses that enable the Company to do business in China. Substantially all of the
+Company s revenues, costs and net income (loss) in China are directly or indirectly generated through these VIE. The Company has
+signed various agreements with its VIE and legal shareholders of the VIE to allow the transfer of economic benefits from the VIE to the
+Company and to direct the activities of the VIE. 
+
+The
+Company believes that the contractual arrangements among its subsidiaries, the VIE and its shareholders are in compliance with the current
+PRC laws and legally enforceable. However, uncertainties in the interpretation and enforcement of the PRC laws, regulations and policies
+could limit the Company s ability to enforce these contractual arrangements. As a result, the Company may be unable to consolidate
+the VIE and its subsidiary in the consolidated financial statements. The Company s ability to control its VIE also depends on the
+authorization by the shareholders of the VIE to exercise voting rights on all matters requiring shareholders approval in the VIE.
+The Company believes that the agreements on authorization to exercise shareholder s voting power are legally enforceable. In addition,
+if the legal structure and contractual arrangements with its VIE were found to be in violation of any future PRC laws and regulations,
+the Company may be subject to fines or other actions. The Company believes the possibility that it will no longer be able to control
+and consolidate its VIE as a result of the aforementioned risks and uncertainties is remote. 
+
+The
+following table sets forth its subsidiaries and the VIE, including their country of incorporation or residence and our ownership interest
+in such subsidiaries. Please see Note 4 VIE Structure and Arrangement . 
+
+Subsidiaries: 
+ Date of incorporation 
+ Interest 
+ Place of incorporation 
+
+CXJ Investment Group Company Ltd 
+ 2020/2/19 
+ 100 
+ BVI 
+ 
+ CXJ (HK) Technology Group Company Ltd 
+ 2020/3/11 
+ 100 
+ Hong Kong 
+ 
+ CXJ (SHENZHEN) TECHNOLOGY CO., LTD 
+ 2020/5/26 
+ 100 
+ PRC 
+ 
+ VIE: CXJ TECHNOLOGY (HANGZHOU) CO., LTD 
+ 2019/3/28 
+ 100 
+ PRC 
+
+Use
+of estimates 
+
+The
+accompanying consolidated financial statements have been prepared in conformity with US GAAP requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities at the balance sheet date and revenues and expenses during the
+reporting periods. Significant accounting estimates reflected in the Company s consolidated financial statements include, but not
+limited to economic lives and impairment of long-lived assets, valuation allowance for deferred tax assets, and uncertain tax position.
+Changes in facts and circumstances may result in revised estimates. Actual results could differ from those estimates, and as such, differences
+may be material to the consolidated financial statements. 
+
+F- 11 
+
+Foreign
+currency 
+
+The
+functional currency of the Company, CXJ Group Co., Ltd, CXJ Investment Group Company Ltd and CXJ (HK) Technology Group Company Ltd is
+US Dollar. The VIE determined their functional currency to be Chinese Remibi, or RMB based on the criteria of ASC 830, Foreign Currency
+Matters. The Company uses USD as its reporting currency. 
+
+The
+Company uses the average exchange rate for the year and the exchange rate at the balance sheet date to translate the operating results
+and financial position, respectively. The Company also uses the historical exchange rate at the initial transaction date to translate
+the capital and various reserve items. Translation differences are recorded in accumulated other comprehensive income (loss), a component
+of shareholders deficits. 
+
+Translation
+of amounts from CNY into US 1 has been made at the following exchange rates for the respective periods: 
+
+As of for the year ended 
+
+May 31, 2021 
+ May 31, 2020 
+
+Period-end CNY: US 1 exchange rate 
+ 6.37 
+ 7.13 
+ 
+ Period-average CNY: US 1 exchange rate 
+ 6.68 
+ 7.02 
+ 
+ Period-end HK : US 1 exchange rate 
+ 7.76 
+ 7.76 
+ 
+ Period-average HK : US 1 exchange rate 
+ 7.75 
+ 7.80 
+
+Cash
+and cash equivalents 
+
+Cash
+and cash equivalents consist of cash on hand, demand deposits placed with banks or other financial institutions and have original maturities
+of less than three months. 
+
+Accounts
+Receivable and allowance for doubtful accounts 
+
+Accounts
+receivable are stated at the historical carrying amount net of allowance for doubtful accounts. 
+
+The
+Company maintains an allowance for doubtful accounts which reflects its best estimate of amounts that potentially will not be collected.
+The Company determines the allowance for doubtful accounts taking into consideration various factors including but not limited to historical
+collection experience and credit-worthiness of the debtors as well as the age of the individual receivables balance. Additionally, the
+Company makes specific bad debt provisions based on any specific knowledge the Company has acquired that might indicate that an account
+is uncollectible. The facts and circumstances of each account may require the Company to use substantial judgment in assessing its collectability. 
+
+Inventories,
+net 
+
+Inventories,
+consisting of finished goods, work in process, and raw materials. Inventories are stated at the lower of cost and net realizable value.
+Cost of inventory is determined using the weighted average cost method. Adjustments are recorded to write down the cost of inventory
+to the estimated net realizable value due to slow-moving and obsolete inventory, which is dependent upon factors such as historical and
+forecasted consumer demand, and promotional environment. The Company takes ownership, risks and rewards of the products purchased. 
+
+F- 12 
+
+(i)
+Prepayments 
+
+Prepayments
+are mainly consisted of prepaid income tax, rental, prepayments for consulting fee and advances to supplies. 
+
+(j)
+Intangible assets, net 
+
+The
+Company s intangible assets with definite useful lives primarily consist of software, non-patent technology and land use right.
+The Company typically amortizes its software and non-patent technology with definite useful lives on a straight-line basis over the shorter
+of the contractual terms or the estimated useful lives. 
+
+According
+to the law of PRC, the government owns all the land in the PRC. Companies or individuals are authorized to possess and use the land only
+through land use rights granted by the Chinese government for a specified period of time. The Company amortizes its land use rights using
+the straight-line method over the periods the rights are granted. 
+
+The
+estimated useful lives are as follow: 
+
+Software
+ 
+ 3
+ years 
+
+(k)
+Impairment of long-lived assets other than goodwill 
+
+The
+Company evaluates its long-lived assets, including fixed assets and intangible assets with finite lives, for impairment whenever events
+or changes in circumstances, such as a significant adverse change to market conditions that will impact the future use of the assets,
+indicate that the carrying amount of an asset may not be fully recoverable. When these events occur, the Company evaluates the recoverability
+of long-lived assets by comparing the carrying amount of the assets to the future undiscounted cash flows expected to result from the
+use of the assets and their eventual disposition. If the sum of the expected undiscounted cash flows is less than the carrying amount
+of the assets, the Company recognizes an impairment loss based on the excess of the carrying amount of the assets over their fair value.
+Fair value is generally determined by discounting the cash flows expected to be generated by the assets, when the market prices are not
+readily available. 
+
+For
+all periods presented, there was no impairment of any of the Company s long-lived assets. 
+
+(l)
+Fair value of financial instruments 
+
+The
+Company s financial instruments include cash and cash equivalents, amount due from/to related parties, merchant deposits, payable
+to merchants. The carrying values of these financial instruments approximate their fair values due to their short-term maturities. 
+
+The
+Company applies ASC 820, Fair Value Measurements and Disclosures, ASC 820 ). ASC 820 defines fair value, establishes a
+framework for measuring fair value and expands disclosures about fair value measurements. ASC 820 requires disclosures to be provided
+on fair value measurement. 
+
+ASC
+820 establishes a three-tier fair value hierarchy, which prioritizes the inputs used in measuring fair value as follows: 
+
+Level
+1 Observable inputs that reflect quoted prices (unadjusted) for identical assets or liabilities in active markets. 
+
+Level
+2 Other inputs that are directly or indirectly observable in the marketplace. 
+
+Level
+3 Unobservable inputs which are supported by little or no market activity. 
+
+ASC
+820 describes three main approaches to measuring the fair value of assets and liabilities: (1) market approach; (2) income approach;
+and (3) cost approach. The market approach uses prices and other relevant information generated from market transactions involving identical
+or comparable assets or liabilities. The income approach uses valuation techniques to convert future amounts to a single present value
+amount. The measurement is based on the value indicated by current market expectations about those future amounts. The cost approach
+is based on the amount that would currently be required to replace an asset. 
+
+F- 13 
+
+(m)
+Revenue recognition 
+
+Effective
+March 20, 2017, the Company early adopted ASU 2014-09, Revenue from Contracts with Customers (ASC Topic 606). Under Topic 606, revenues
+are recognized when the promised products have been confirmed of delivery or services have been transferred to the consumers in amounts
+that reflect the consideration the customer expects to be entitled to in exchange for those services. The Company presents value added
+taxes VAT as reductions of revenues. The Company recognizes revenues net of value added taxes VAT and
+relevant charges. 
+
+Product
+Revenue 
+
+We
+generate revenue primarily from the sales of automobile exhaust cleaners and auto parts directly to members. We recognize product revenue
+at a point in time when the control of the products has been transferred to customers. The transfer of control is considered complete
+when products have been picked up by or shipped to our customers. Our sales arrangements for automobile exhaust cleaners and auto parts
+usually require a full prepayment before the delivery of products. 
+
+We
+also generate revenue from the sales of auto parts directly to the members, such as a business or individual engaged in auto parts businesses.
+We recognize revenue at a point in time when products are delivered and customer acceptance is made. For the sales arrangements of auto
+parts products, we generally require payment upon issuance of invoices. 
+
+Service
+Revenue 
+
+We
+also generate revenue from brand name authorization fee and brand name management service under separate contracts. Revenue from brand
+name authorization and management services include service fees for provision of brand name teenage hero car to our members,
+and provision of management service. Revenue from the maintenance service to the members is recognized at a point in time when services
+are provided. Revenue from the management service to the customer is recognized as the performance obligation is satisfied over time
+over the contracting period. 
+
+(o)
+Selling and Distribution Expenses 
+
+Selling
+and distribution expenses amounted to 389,559 and 529,780 for the year ended May 31, 2021 and 2020 respectively. Selling and distribution
+expenses are mainly included salary 226,435, sale-related consultancy fee 110,983 and travelling expenses 28,685. 
+
+(p)
+General and administrative expenses 
+
+General
+and administrative expenses amounted to 2,147,040 and 348,067 consist bad debts written off 1,593,899, research and development expenses
+ 75,062, amortization of intangible assets 11,522, salary and welfare 171,050, rental expenses 71,035. 
+
+F- 14 
+
+(q)
+Operating Leases 
+
+Prior
+to the adoption of ASC 842 on January 1, 2019: 
+
+Leases,
+mainly leases of factory buildings, offices and employee dormitories, where substantially all the rewards and risks of ownership of assets
+remain with the lessor are accounted for as operating leases. Payments made under operating leases are recognized as an expense on a
+straight-line basis over the lease term. The Company had no finance leases for any of the periods stated herein. 
+
+Upon
+and hereafter the adoption of ASC 842 on January 1, 2019: 
+
+The
+Company determines if an arrangement is a lease at inception. Operating leases are included in operating lease right-of-use ROU assets, operating lease liability, and operating lease liability, non-current in the Company s consolidated balance sheets. Please
+refer to Note 2-Recently adopted accounting pronouncements for the disclosures regarding the Company s method of adoption of ASC
+842 and the impacts of adoption on its consolidated balance sheets, results of operations and cash flows. ROU assets represent the Company s
+right to use an underlying asset for the lease term and lease liabilities represent the Company s obligation to make lease payments
+arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date based on the present value of
+lease payments over the lease term. When determining the lease term, the Company includes options to extend or terminate the lease when
+it is reasonably certain that it will exercise that option, if any. As the Company s leases do not provide an implicit rate, the
+Company used an incremental borrowing rate based on the information available at commencement date in determining the present value of
+lease payments. The Company has elected to adopt the following lease policies in conjunction with the adoption of ASU 2016-02: (i) for
+leases that have lease terms of 12 months or less and does not include a purchase option that is reasonably certain to exercise, the
+Company elected not to apply ASC 842 recognition requirements; and (ii) the Company elected to apply the package of practical expedients
+for existing arrangements entered into prior to January 1, 2019 to not reassess (a) whether an arrangement is or contains a lease, (b)
+the lease classification applied to existing leases, and(c) initial direct costs. 
+
+(r)
+Value-added taxes 
+
+Revenue
+is recognized net of value-added taxes VAT ). The VAT is based on gross sales price and VAT rates applicable to the Company
+is 17 for the period from the beginning of 2018 till the end of April 2018, then changed to 16 from May 2018 to the end of March 2019,
+and changed to 13 from April 2019. Entities that are VAT general taxpayers are allowed to offset qualified input VAT paid to suppliers
+against their output VAT liabilities. Net VAT balance between input VAT and output VAT is recorded as VAT payable if output VAT is larger
+than input VAT and is recorded as VAT recoverables if input VAT is larger than output VAT. All of the VAT returns filed by the Company s
+subsidiaries in China, have been and remain subject to examination by the tax authorities. 
+
+(s)
+Income taxes 
+
+The
+Company followed the liability method of accounting for income taxes in accordance with ASC 740, Income Taxes, or ASC 740. Under this
+method, deferred tax assets and liabilities are determined based on the difference between the financial reporting and tax bases of assets
+and liabilities using enacted tax rates that will be in effect in the period in which the differences are expected to reverse. The Company
+recorded a valuation allowance to offset deferred tax assets if based on the weight of available evidence, it is more-likely-than-not
+that some portion, or all, of the deferred tax assets will not be realized. The effect on deferred taxes of a change in tax rate is recognized
+in tax expense in the period that includes the enactment date of the change in tax rate. 
+
+The
+Company accounted for uncertainties in income taxes in accordance with ASC 740. Interest and penalties related to unrecognized tax benefit
+recognized in accordance with ASC 740 are classified in the consolidated statements of comprehensive loss as income tax expense. 
+
+F- 15 
+
+British Virgin Island 
+
+Under the current tax laws of British Virgin Island,
+the Company and its subsidiaries are not subject to tax on their income or capital gains. In addition, upon of dividends by the Company
+to its shareholders, no British Virgin Island withholding tax will be imposed. 
+
+United States 
+
+Under the current tax laws of United States, the Company
+and its subsidiaries are not subject to tax on their income or capital gains. In addition, upon of dividends by the Company to its shareholders,
+no United States withholding tax will be imposed. 
+
+P.R.C China 
+
+The China Corporate Income Tax Law CIT Law became effective on January 1, 2008. Under the CIT Law, China s dual tax system for domestic enterprises and foreign investment
+enterprises FIEs was effectively replaced by a unified system. The new law establishes a tax rate of 25 for most enterprises.
+The Company s VIE through which the majority of our business in China is applicable to this tax rate 
+
+For the Year Ended May 31, 2021 
+ For the Year Ended May 31, 2020 
+
+PRC statutory rate 
+ 25 
+ 25 
+ 
+ Net operating losses for which no deferred tax assets was recognized 
+ (25 
+ (25 
+ 
+ The Company s expense is out of limit than that of PRC statutory tax policy allowed 
+ 16.50 
+ 16.50 
+ 
+ Effective income tax rate 
+ 16.50 
+ 16.50 
+
+Income tax expense for the year May 31, 2021 and May
+31, 2020, respectively are as follows: 
+
+For the year ended ended 
+
+May 31, 2021 
+ May 31, 2020 
+ 
+ Current 
+ 8,185 
+ 1,418 
+ 
+ Deferred 
+
+Income tax expense 
+ 8,185 
+ 1,418 
+
+(t) Employee benefit expenses 
+
+As stipulated by the regulations of the PRC, full-time
+employees of the Company are entitled to various government statutory employee benefit plans, including medical insurance, maternity insurance,
+workplace injury insurance, unemployment insurance and pension benefits through a PRC government-mandated multi-employer defined contribution
+plan. The Company is required to make contributions to the plan and accrues for these benefits based on certain percentages of the qualified
+employees salaries. 
+
+F- 16 
+
+(u) Comprehensive income (loss) 
+
+Comprehensive income (loss) is defined as the changes
+in equity of the Company during a period from transactions and other events and circumstances excluding transactions resulting from investments
+by owners and distributions to owners. Among other disclosures, ASC 220, Comprehensive Income, requires that all items that are required
+to be recognized under current accounting standards as components of comprehensive income be reported in a financial statement that is
+displayed with the same prominence as other financial statements. For each of the periods presented, the Company s comprehensive
+income (loss) includes net loss and foreign currency translation adjustment and is presented in the consolidated statements of operations
+and comprehensive income (loss). 
+
+(v) Loss per share 
+
+Basic loss per share is computed by dividing net loss
+attributable to ordinary shareholders by the weighted average number of ordinary shares outstanding during the period using the two-class
+method. Under the two-class method, net loss is allocated between ordinary shares and other participating securities based on their participating
+rights. Diluted loss per share is calculated by dividing net loss attributable to ordinary shareholders by the weighted average number
+of ordinary and dilutive ordinary equivalent shares outstanding during the period. Ordinary equivalent shares consist of shares issuable
+upon the exercise of share options using the treasury stock method. Ordinary equivalent shares are not included in the denominator of
+the diluted loss per share calculation when inclusion of such shares would be anti-dilutive. 
+
+(u) Segment reporting 
+
+The Company follows ASC 280, Segment Reporting. The
+Company s Chief Executive Officer as the chief operating decision-maker reviews the consolidated financial results when making decisions
+about allocating resources and assessing the performance of the Company as a whole and hence, the Company has only one reportable segment.
+The Company operates and manages its business as a single segment. As the Company s long-lived assets are substantially all located
+in the PRC and substantially all the Company revenues are derived from within the PRC, no geographical segments are presented. 
+
+(w) Recent accounting pronouncements 
+
+In February 2016, the Financial Accounting Standards
+Board FASB issued ASU No. 2016-02, Leases (Topic 842) ASU 2016-02 ), as amended, which generally requires
+lessees to recognize operating and financing lease liabilities and corresponding right-of-use assets on the balance sheet and to provide
+enhanced disclosures surrounding the amount, timing and uncertainty of cash flows arising from leasing arrangements. The Company adopted
+the new standard effective January 1, 2019 and elected the package of practical expedients permitted under the transition guidance, which
+allows to carryforward our historical lease classification, and initial direct costs for any leases that exist prior to adoption of the
+new standard. The Company will also keep leases with an initial term of 12 months or less off the balance sheet and recognize the associated
+lease payments in the consolidated statements of income on a straight-line basis over the lease term. The Company estimates approximately
+US 374,341 would be recognized as total right-of-use assets and total lease liabilities on its consolidated balance sheet as of June 1,
+2019. Other than additional disclosure, the Company does not expect the new standard to have a material impact on its consolidated financial
+statements. 
+
+F- 17 
+
+NOTE 3. ACQUISITION 
+
+On March 28, 2019, Mr. Cai, Lixin (Mr. Cai), the Company s
+Chairman of the Board and Chief Executive Officer and Chief Financial Officer, incorporated CXJ Technology (Hangzhou) Co., Ltd CXJHZ in Hangzhou, China. Mr. Cai in turn incorporated CXJ Investment Group Company Ltd CXJ ), CXJ (HK) Technology Group Company
+Ltd CXJHK ), and CXJ (Shenzhen) Technology Co., Ltd CXJSZ and reorganized these entities with CXJ being
+a holding entity with the solely shareholder. As a result of the reorganization, CXJ owns 100 interest in CXJHK and CXJHK owns 100 interest
+in CXJSZ. CXJSZ controls 100 interest in CXJHZ through VIE contractual arrangements as disclosed in Note 4. Such reorganization was completed
+on May 28, 2020. 
+
+On June 18, 2019, the Company underwent a change of
+control as a result of the transfer of 10,000,000 shares of Series A Preferred stock (which voted on a 10 for one basis at the time of
+the change of control) from Custodian Ventures, LLC and 17,700,000 shares of common stock to Xinrui Wang. 
+
+On May 28, 2020, we consummated the transactions contemplated
+by the Share Exchange Agreement among the Company, CXJ Investment Group Company Limited CXJ ), a British Virgin Islands
+Corporation and the shareholder of CXJ, pursuant to which we acquired all the ordinary shares of CXJ in exchange for the issuance to the
+shareholder of CXJ of an aggregate of 1,364,800 shares of the Company. The shareholder is the selling security holder in this prospectus
+and are all affiliates. As a result of the transactions contemplated by the Share Exchange, CXJ became a wholly-owned subsidiary of the
+Company. 
+
+The Company accounted for above transaction as a reverse
+acquisition under ASC Subtopic 805-40, based on the fact that the CXJ is an accounting acquirer and the Company is the accounting acquiree.
+Meanwhile, the CXJ retrospectively consolidates the Company and as if it had been owned by CXJ since May 28, 2020, the date the Company
+was acquired by Mr. Lixin Cai, in accordance with ASC Subtopic 805-50. 
+
+NOTE 4. VIE STRUCTURE AND ARRANGEMENTS 
+
+The Company consolidates VIE in which it holds a variable
+interest and is the primary beneficiary through contractual agreements. The Company is the primary beneficiary because it has the power
+to direct activities that most significantly affect their economic performance and have the obligation to absorb the majority of their
+losses or benefits. The results of operations and financial position of the VIE are included in the Company s consolidated financial
+statements. 
+
+In order to operate its business in PRC and to comply
+with PRC laws and regulations that prohibit or restrict foreign ownership of companies that provides value-added services, the Company
+entered into a series of contractual agreements with the VIE: CXJ Technology (Shenzhen) Co., Ltd. CXJSZ ). These contractual
+agreements may not be terminated by the VIE, except with the consent of, or a material breach by us. Currently, the Company is still evaluating
+the overall operating strategy for business and does not have plan to provide any funding to the VIE. Please refer to Note 7 for associated
+regulatory risks. 
+
+F- 18 
+
+The key terms of the VIE Agreements are summarized
+as follows: 
+
+(a) Exclusive Consulting and Services Agreement 
+
+The WFOE has the exclusive right to provide technical
+service, marketing and management consulting service, financial support service and human resource support services to the VIE, and the
+VIE is required to take all commercially reasonable efforts to permit and facilitate the provision of the services by WFOE. As compensation
+for providing the services, WFOE is entitled to receive service fees from the VIE equivalent to the WFOE s cost plus certain percentage
+of such costs as calculated on accounting policies generally accepted in the PRC. The WFOE and the VIE agree to periodically review the
+service fee and make adjustments as deemed appropriate. The term of the Technical Services Agreement is perpetual, and may only be terminated
+upon written consent of both parties. 
+
+(b) Equity Pledge Agreement 
+
+The VIE s shareholders pledged all of their
+equity interests in VIE (the Collateral to WFOE, our wholly owned subsidiary in PRC, as security for the performance of
+the obligations to make all the required technical service fee payments pursuant to the Technical Services Agreement and for performance
+of the VIE s Shareholders obligation under the Call Option Agreement. The terms of the Equity Pledge Agreement expire upon
+satisfaction of all obligations under the Technical Services Agreement and Call Option Agreement. 
+
+(c) Exclusive Option Agreement 
+
+The VIE s shareholders granted an exclusive
+option to WFOE, or its designee, to purchase, at any time and from time to time, to the extent permitted under PRC law, all or any portion
+of the VIE s shareholders equity in the VIE. The exercise price of the option shall be determined by WFOE at its sole discretion,
+subject to any restrictions imposed by PRC law. The term of the agreement is until all of the equity interest in the VIE held by the VIE s
+Shareholders are transferred to WFOE, or its designee and may not be terminated by any part to the agreement without consent of the other
+parties. 
+
+(d) Power of Attorney 
+
+The VIE s shareholders granted WFOE the irrevocable
+right, for the maximum period permitted by law, all of its voting rights as shareholders of the VIE. The VIE s shareholders may
+not transfer any of its equity interest in the VIE to any party other than WFOE. The Power of Attorney agreements may not be terminated
+except until all of the equity in VIE s has been transferred to WFOE or its designee. 
+
+NOTE 5. SHAREHOLDERS EQUITY 
+
+The Company has 490,000,000 shares of common stock
+authorized with a par value of 0.001 per share as of May 31, 2021 and May 31, 2020. 
+
+Effective July 9, 2019 we changed our name from Global
+Entertainment Corp to CXJ Group Co., Limited. On July 12, 2019, the Company effectuated a 1 for 200 reverse stock split, while the authorized
+shares of common stock and preferred shares totally had been increased to 500,000,000. As a result of the foregoing we changed our trading
+symbol from GNTP and began trading as ECXJ on August 5, 2019. 
+
+F- 19 
+
+On October 4, 2019, Xinrui Wang (the Seller ),
+entered into a Stock Purchase Agreement to pursuant to which the Seller agreed to sell to Wenbin Mao and Baiwan Niu (the Purchasers ),
+totaling 1,500,000 preferred stock of the Company Shares owned by the Seller, for an amount of 1,500. On October 8, 2019,
+Xinrui Wang, Wenbin Mao and Baiwan Niu effectuated a 1 for 10 conversion to convert all their preferred stock totaling 10,000,000 to 100,000,000
+common shares. As a result of the conversion, there was no preferred stock outstanding of the Company as of October 8, 2019. 
+
+On May 28, 2020, we consummated the transactions contemplated
+by the Share Exchange Agreement among the Company, CXJ Investment Group Company Limited, a British Virgin Islands Corporation CXJ and the shareholder of CXJ, pursuant to which we acquired all the ordinary shares of CXJ in exchange for the issuance to the shareholder
+of CXJ of an aggregate of 1,364,800 shares of the Company. The shareholder is the selling security holder in this prospectus and are all
+affiliates. As a result of the transactions contemplated by the Share Exchange, CXJ became a wholly-owned subsidiary of the Company. 
+
+NOTE 6. ACCOUNT RECEIVABLES, NET 
+
+As of May 31, 2021 and May 31, 2020. our account receivables
+are 8,477 and 436,620, respectively. Account receivables allowance is 0 as of May 31, 2021 and May 31, 2020.. 
+
+NOTE 7. PREPAYMENT, DEPOSIT AND OTHER RECEIVABLES
+
+Prepaid expenses and other receivables consisted of
+the following at May 31, 2021 and May 31, 2020: 
+
+As of 
+
+May 31, 2021 
+
+May 31, 2020 
+
+(audited) 
+
+(audited) 
+
+Prepayment 
+
+168,470 
+
+110,382 
+
+Deposit 
+
+15,754 
+
+39,598 
+
+Other receivables 
+
+32,459 
+
+2,368,718 
+
+Total 
+
+216,683 
+
+2,518,698 
+
+Other Receivables 
+
+Description 
+
+Amount 
+ (USD) 
+ 
+ Remark 
+
+Staff Advances 
+
+30,157 
+
+Social Insurance 
+
+2,302 
+
+Total 
+
+32,459 
+
+As of May 31, 2021, the balance 168,470 represented
+the prepayment of consultancy fees, office rental, goods and parts purchases. The balance 15,754 is the rental deposits of office and
+warehouse. The balance 32,459 represented staff advance 30,157 for company business conferences and functions and social insurance 2,302. 
+
+F- 20 
+
+NOTE 8. INTANGIBLE ASSETS 
+
+Intangible assets and related accumulated amortization
+were as follows: 
+
+As of 
+
+May 31, 2021 
+ May 31, 2020 
+
+(audited) 
+ (audited) 
+
+Cost 
+ 
+ 45,057 
+ 
+ 29,646 
+ 
+ Less: Accumulated amortization 
+ (11,522 
+
+Less: Foreign translation difference 
+ (561 
+
+Total 
+ 32,974 
+ 29,646 
+
+During the year ended May 31, 2021, the Company has
+converted development expenses of developed E-Commerce app to intangible assets 36,250 and amortize in May 2021. The Company is still
+increased the development expenses for the enterprise resource planning system (ERP) for the partners or clients, the system can be used
+on both PC/APP, the Company reassessed the whole program can be completed in the year of 2022. The function can be classified into vehicles
+management, membership management, inventory management and financial management. The app for clients or partners is also available on
+WeChat mini program to manage consumers request and reservation. Accumulated amortization is 11,522 and write off development
+expenses 75,062 for the year ended May 31, 2021. 
+
+NOTE 9. ACCOUNTS PAYABLE 
+
+Accounts payable consists of the following: 
+
+As of 
+
+May 31, 2021 
+ May 31, 2020 
+
+(audited) 
+ (audited) 
+
+Accounts Payable 
+ 233,516 
+ 156,955 
+
+The accounts payable balance of 233,516 includes
+payable to vendors for motor oil and auto parts. It was expected to be paid in the year 2021. 
+
+NOTE 10. ADVANCED RECEIVED, ACCRUED EXPENSES AND
+OTHER PAYABLE 
+
+As of 
+
+May 31, 2021 
+
+May 31, 2020 
+
+(audited) 
+
+(audited) 
+
+Deposit Received 
+
+63,241 
+
+- 
+
+Accrued Expenses 
+
+148,615 
+
+66,934 
+
+Advanced Received 
+
+2,723,405 
+
+2,185,552 
+
+Other Payable 
+
+95,527 
+
+1,483,194 
+
+Total 
+
+3,030,788 
+
+3,735,680 
+
+Deposit Received 63,241 include deposit for brand
+name used 43,618 and deposit of intention 19,623. Accrued Expenses 148,615 include accrued audit fee 15,000, tax consultant fee 7,000,
+salary 61,830 and rental 58,650. Other payable 95,527 include 94,191 for provision of business dispute with customer, and the customer
+lodged a police report but no legal action against us is taken, 1336 is the expenses received and refundable to customers. 
+
+F- 21 
+
+Advanced received 
+
+Description 
+ Amount 
+ Remark 
+
+Prepayment of Goods from customers 
+ 200,249 
+
+Brand Name Management Fees From Customers 
+ 2,508,001 
+ Will amortized according to the contracts 
+ 
+ Inbound Marketing 
+ 15,155 
+
+Total 
+ 2,723,405 
+
+Advanced received 2,723,405 include prepayment of
+goods from customers 200,249, brand name management fees from customers 2,508,001 and inbound marketing 15,155 paid by customers that
+can recognized as revenue in the coming one year. 
+
+NOTE 11: RELATED PARTY TRANSACTION 
+
+(a) Related party list 
+
+Names Of Related Parties 
+ 
+ Relationship With The Company 
+ 
+ New Charles Technology Group Limited 
+ 
+ Company controlled by the director 
+ 
+ Lixin Cai 
+ 
+ Director 
+ 
+ Cuiyao Luo 
+ 
+ Director 
+
+The Company had the following related party balances
+and transactions as of and for the year ended May 31, 2021 and the year ended May 31, 2020. All related parties are controlled by either
+the founder or the directors of the Company and are providing professional services for the Company to facilitate its operation of the
+Company. These advanced balances are short-term in nature, bearing no interest, and due on demand. 
+
+Amounts due from related parties 
+ As of 
+
+May 31, 2021 
+ May 31, 2020 
+
+(audited) 
+ (audited) 
+
+Lixin Cai 
+ 
+ 115,868 
+ 
+ New Charles Technology Group Limited 
+ 43,500 
+ 51,458 
+ 
+ Total 
+ 43,500 
+ 167,326 
+
+As of May 31, 2021, the reporting date, the amount
+due from New Charles Technology Group Limited mainly represents 43,500 of unpaid authorized share capital, and New Charles Technology
+Group Limited will settle the outstanding balance in the coming year. 
+
+F- 22 
+
+Amounts due to related parties 
+ As of 
+
+May 31, 
+ 2021 
+ May 31, 
+ 2020 
+
+(audited) 
+ (audited) 
+
+Cuiyao Luo 
+ 114,935 
+ 26,302 
+
+As of May 31, 2021 and May 31, 2020, Cuiyao Luo advanced
+ 114,935 and 26,302 to the company as working capital and to pay administrative expenses, which is unsecured, interest-free with no fixed
+payment term, for working capital purpose. 
+
+NOTE 12. LEASE RIGHT-OF-USE ASSET AND LEASE LIABILITIES 
+
+The Company officially adopted ASC 842 for the period
+on and after June 1, 2019 as permitted by ASU 2016-02. ASC 842 originally required all entities to use a modified retrospective 
+transition approach that is intended to maximize comparability and be less complex than a full retrospective approach. On July 30, 2018,
+the FASB issued ASU 2018-11 to provide entities with relief from the costs of implementing certain aspects of the new leasing standard,
+ASU 2016-02 of which permits entities may elect not to recast the comparative periods presented when transitioning to ASC 842. As permitted
+by ASU 2018-11, the Company elect not to recast comparative periods, thusly. 
+
+As of June 1, 2019, the Company recognized approximately
+US 247,369, lease liability as well as right-of-use asset for all leases (with the exception of short-term leases) at the commencement
+date. Lease liabilities are measured at present value of the sum of remaining rental payments as of June 1, 2019, with discounted rate
+of 3.25 adopted from The People s Bank Of China s base lending rate as a reference for discount rate, as this bank is the
+largest bank and national bank of China. 
+
+A single lease cost is recognized over the lease term
+on a generally straight-line basis. All cash payments of operating lease cost are classified within operating activities in the statement
+of cash flows. 
+
+The initial recognition of operating lease right and
+lease liability as follow: 
+
+USD 
+
+Gross lease payable 
+
+259,257 
+
+Less: imputed interest 
+
+(11,888) 
+ 
+ Initial recognition as of June 1, 2019 
+
+247,369 
+
+As of May 31, 2021, operating lease right of use asset as follow: 
+
+Initial recognition as of June 1, 2019 
+
+247,369 
+
+Amortization for the year ended May 31, 2020 
+
+(54,628) 
+ 
+ Balance as of May 31, 2020 
+
+192,741 
+
+Add: New office lease on November 30, 2020 
+
+77,546 
+
+Amortization for the year ended May 31, 2021 
+
+(69,827) 
+ 
+ Adjustment for discontinuation of tenancy 
+
+(138,844) 
+ 
+ Foreign exchange translation 
+
+17,557 
+
+Balance as of May 31, 2021 
+
+79,173 
+
+F- 23 
+
+Initial recognition as of June 1, 2019 
+
+247,369 
+
+Less: gross repayment for the year ended May 31, 2020 
+
+(56,390) 
+ 
+ Add: imputed interest for the year ended May 31, 2020 
+
+4,824 
+
+Balance as of May31, 2020 
+
+195,803 
+
+Add: New office lease on November 30, 2020 
+
+77,546 
+
+Add: imputed interest for the year ended May 31, 2021 
+
+4,421 
+
+Less: gross repayment for the year ended May 31, 2021 
+
+(73,003) 
+ 
+ Adjustment for discontinuation of tenancy 
+
+(142,519) 
+ 
+ Foreign exchange translation 
+
+17,903 
+
+Balance as of May 31, 2021 
+
+80,151 
+
+Less: lease liability current portion 
+
+(24,523) 
+ 
+ Lease liability non-current portion 
+
+55,628 
+
+During the year ended May 31, 2021, the Company terminated
+one lease and a new lease consolidated in the Company as at November 30,2020. 
+
+Maturities of operating lease obligation as follow: 
+
+Year ending 
+ 
+ Operating Lease 
+
+May 31, 2022 
+
+24,523 
+
+May 31, 2023 
+
+55,628 
+
+Total 
+
+80,151 
+
+Other information: 
+
+For the year ended May 31, 2021 
+
+Cash paid for amounts included in the measurement of lease liabilities: 
+
+Operating cash flow from operating lease 
+
+68,583 
+
+Right-of-use assets obtained in exchange for operating lease liabilities 
+
+79,173 
+
+Remaining lease term for operating lease (years) 
+
+1.45 
+
+Weighted average discount rate for operating lease 
+
+3.25 
+
+Lease expenses were for the year ended May 31, 2021
+were 69,827 compared to 54,628 as of May31, 2020. 
+
+NOTE 13: CONTINGENT LIABILITIES
+
+A provision of 94,191 is provided,
+where the Company has a business dispute with a customer, and the customer lodged a police report but no legal action is taken against
+us. 
+
+NOTE 14: SUBSEQUENT EVENT 
+
+In accordance with ASC 855-10,
+the Company has analyzed its operations subsequent to the May 31, 2021 to the date these financial statements were issued and has determined
+that the management intends to extend business operation in e-commerce business and will acquire 51 of equity of Shenzhen Lanbei Technology
+Co., Ltd in 2 nd Quarter 2022. 
+
+NOTE 15: SIGNIFICANT EVENT 
+
+The full impact of the COVID-19 outbreak continues
+to evolve as of the date of this report. As such, it is uncertain as to the full magnitude that the pandemic will have on our financial
+condition, liquidity, and future results of operations. Management is actively monitoring the impact of the global situation on our financial
+condition, liquidity, operations, suppliers, industry, and workforce. Given the daily evolution of the COVID-19 outbreak and the global
+responses to curb its spread, we are not able to estimate the effects of the COVID-19 outbreak on our results of operations, financial
+condition, or liquidity for the period ended May 31 , 2021. 
+
+24 
+
+ Table of Contents 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+ON FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Our management, with the participation and supervision
+of our Chief Executive Officer and our Chief Financial Officer, are responsible for our disclosure controls and procedures pursuant to
+Rules 13a-15(e) and 15d-15(e) under the Exchange Act. Disclosure controls and procedures are controls and other procedures that are designed
+to ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized
+and reported, within the time periods specified under SEC rules and forms. Disclosure controls and procedures include controls and procedures
+designed to ensure that information required to be disclosed in our reports filed under the Exchange Act is accumulated and communicated
+to our principal executive officer and our principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. 
+
+Our management, including our Chief Executive Officer
+and Chief Financial Officer, carried out an evaluation of the effectiveness of our disclosure controls and procedures as of May 31, 2021.
+Based on this evaluation, our management concluded that as of May 31, 2021 these disclosure controls and procedures were not effective
+at the reasonable assurance level. As discussed below, our internal control over financial reporting is an integral part of our disclosure
+controls and procedures. 
+
+Management s Annual Report on Internal Control
+over Financial Reporting 
+
+Our management is responsible for establishing and
+maintaining adequate internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act). Internal control
+over financial reporting is a process, including policies and procedures, designed to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external reporting purposes in accordance with U.S. generally accepted
+accounting principles. 
+
+Our Chief Executive Officer and Chief Financial Officer
+performed an evaluation of our internal control over financial reporting under the framework in Internal Control Integrated Framework
+(2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. 
+
+Based on the results of this assessment, our management
+concluded that our internal control over financial reporting was not effective as of May 31, 2021, based on such criteria. Deficiencies
+existed in the design or operation of our internal controls over financial reporting that adversely affected our internal controls and
+that may be considered to be material weaknesses. The matters involving internal controls and procedures that our management considered
+to be material weaknesses under the standards of the Public Company Accounting Oversight Board were: (i) lack of a majority of independent
+members and a lack of a majority of outside directors on our Board, resulting in ineffective oversight in the establishment and monitoring
+of required internal controls and procedures; and (ii) inadequate segregation of duties consistent with control objectives. Management
+believes that the lack of a majority of outside directors on our Board results in ineffective oversight in the establishment and monitoring
+of required internal controls and procedures, which could result in a material misstatement in our financial statements in future periods. 
+
+Auditor s Report on Internal Control over
+Financial Reporting 
+
+This Annual Report does not include an attestation
+report of our independent registered public accounting firm regarding internal control over financial reporting. Management s report
+was not subject to attestation by our independent registered public accounting firm pursuant to rules of the SEC that permit us to provide
+only management s report in this Annual Report. 
+
+12 
+
+ Table of Contents 
+
+Changes in Internal Controls over Financial Reporting 
+
+In connection with our continued monitoring and maintenance
+of our controls procedures as part of the implementation of Section 404 of the Sarbanes-Oxley Act, we continue to review, test, and improve
+the effectiveness of our internal controls. There have not been any changes in our internal control over financial reporting (as such
+term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the fourth quarter and since the year ended May 31, 2021
+that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+Inherent Limitation on the Effectiveness of Internal
+Controls 
+
+The effectiveness of any system of internal control
+over financial reporting is subject to inherent limitations, including the exercise of judgment in designing, implementing, operating,
+and evaluating the controls and procedures, and the inability to eliminate misconduct completely. Accordingly, any system of internal
+control over financial reporting can only provide reasonable, not absolute, assurances. In addition, projections of any evaluation of
+effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that
+the degree of compliance with the policies or procedures may deteriorate. We intend to continue to monitor and upgrade our internal controls
+as necessary or appropriate for our business but cannot assure that such improvements will be sufficient to provide us with effective
+internal control over financial reporting. 
+
+ITEM 9B. OTHER INFORMATION 
+
+None. 
+
+13 
+
+ Table of Contents 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+The
+following table sets forth the names and ages of our current directors and executive officers, the principal offices and positions held
+by each person, and the year such director or officer commenced serving in such capacity: 
+
+Name 
+ 
+ Age 
+ 
+ Positions 
+
+Lixin Cai 
+ 
+ 33 
+ 
+ President, CEO, Secretary and Director 
+ 
+ Cuiyao Luo 
+ 
+ 41 
+ 
+ CFO, Treasurer and Director 
+ 
+ Xinrui Wang 
+ 
+ 43 
+ 
+ Director 
+ 
+ Wenbin Mao 
+ 
+ 48 
+ 
+ Director 
+ 
+ Baiwan Niu 
+ 
+ 40 
+ 
+ Director 
+
+Linxin Cai 
+
+President, CEO, Secretary and Director 
+
+Mr. Linxin Cai obtained
+a college s degree in Vehicle Inspection and maintenance professional from Central South University in 2010. 
+
+From
+2010 to 2012, he served at Hangzhou Xiaomuzhi Auto Maintenance Technology Co., Ltd. and was subsequently promoted to Marketing Manager.
+His major responsibilities were planned, executed, and led online marketing tactics, resulting in wide range company advancements. 
+
+From
+2012 to 2019, he joined Hangzhou Kuaidian Maintenance Technology Development Co., Ltd. and served as Operating Controller. He was responsible
+to lead company s internal operational teams including designating roles, assigning objectives, and monitoring and evaluating results
+and reports. Due to Mr. Cai s status as a qualified expert in auto industry, along with his 10 years of professional working experience,
+the Board of Directors has determined it best to appoint him to the position of Chief Executive Officer of the Company. 
+
+Cuiyao Luo 
+
+CFO, Treasurer and Director 
+
+Ms. Cuiyao Luo has
+three degrees, her first college s degree in Proximate Analysis was from Zhejiang Shuren University in 2000, her second college s
+degree in Computer Science and Technology was from Hunan University in 2003 and earned her master s degree in Administration Major
+in Jiangnan University. 
+
+From
+2003 to 2005, Ms. Luo worked at Zhejiang Talent Specialized College as office director of the Teacher Training Institution. Her responsibilities
+include fostering communication and providing advice on critical issues. Ms. Luo became the President Assistant and Marketing Manager
+in Hangzhou Xiaomuzhi Auto Maintenance Technology Co., Ltd since from year 2006 to 2012. From year 2013 to present, she founded her own
+company Shaodong Xian Liang Shi Zhen Cuiyao Home Appliance Sales Department . Due to Ms. Luo s over 18 years of experience
+in management of various businesses, the Board of Directors elected to appoint Ms. Luo to the positions of Chief Financial Officer of
+the company. 
+
+14 
+
+ Table of Contents 
+
+Xinrui Wang 
+
+Director 
+
+Mr. Xinrui Wang was graduated
+from Dahua Group Technical College and obtained his Fine Chemical Bachelor s degree from University of Science Technology,
+Beijing in 2002. Xinrui Wang has extensive knowledge in network optimal design, mathematical modeling and enterprises management. 
+
+He started his
+own business in 2011. From 2016 to now, Xinrui Wang founded and has been serving as president in Hebei Changlai Changwang Network Technology
+Co., Ltd. In the same year, Xinrui Wang founded the Chang Lai Chang Wang (Hangzhou) E-commerce Co., Ltd, where he served as President.
+He is responsible for all aspects of business development and strategic planning for the business and established and maintained company
+policies and procedures. From June 2019 to now, He invested in CXJ Group Co., Ltd and serves as a director based on his previous years 
+experience in e-commerce and was interest in automobile products manufacturing and selling. 
+
+Wenbin Mao 
+
+Director 
+
+Mr. Wenbin Mao was graduated
+from Beijing Foreign Studies University and obtained Finance degree. Wenbin Mao has extensive knowledge in trading and business design.
+He founded and has been serving as general manager in Shenzhen Xing Yao International Film Television Media Ltd since year 2016,
+Due to his over 20 years of experience in business administrative, he was appointed as the director of CXJ Group Co., Ltd. 
+
+Baiwan Niu 
+
+Director 
+
+Mr. Baiwan Niu was graduated
+from Ping Ding Shan Colleague and obtained Computer degree. Baiwan Niu has extensive knowledge in branding and business design. He founded
+and has been serving as general manager in Shenzhen Jiao Rui International Trading Ltd since year 2015, due to his over 18 years of experience
+in brand management experience, he was appointed as the director of CXJ Group Co., Ltd. 
+
+Director
+Qualifications 
+
+We
+believe that our directors should have the highest professional and personal ethics and values, consistent with our values and standards.
+They should have broad experience at the policy-making level in business or banking. They should be committed to enhancing stockholder
+value and should have sufficient time to carry out their duties and to provide insight and practical wisdom based on experience. Their
+service on other boards of public companies should be limited to a number that permits them, given their individual circumstances, to
+perform responsibly all director duties for us. Each director must represent the interests of all stockholders. When considering potential
+director candidates, the Board also considers the candidate s character, judgment, diversity, age and skills, including financial
+literacy and experience in the context of our needs and the needs of the Board. 
+
+Term
+of Office 
+
+All
+directors hold office until the next annual meeting of the stockholders of the Company and until their successors have been duly elected
+and qualified. The Company s Bylaws provide that the Board of Directors will consist of no less than one member. Officers are elected
+by and serve at the discretion of the Board of Directors. 
+
+15 
+
+ Table of Contents 
+
+Director
+Independence 
+
+We
+are not required to have independent members of our Board of Directors, and do not anticipate having independent Directors until such
+time as we are required to do so. 
+
+The
+Board and Committees 
+
+We
+do not have any independent directors. We are not required to maintain a majority of independent directors or the foregoing committees
+under the rules applicable to companies that do not have securities listed or quoted on a national securities exchange. Our board of directors
+does not maintain a separate audit, nominating, or compensation committee. Functions customarily performed by such committees are performed
+by our board of directors as a whole. 
+
+Involvement
+in Certain Legal Proceedings 
+
+To
+our knowledge, our directors and executive officers have not been involved in any of the following events during the past ten years: 
+
+Any bankruptcy petition filed by or against such person or any business of which such person was a general partner or executive officer either at the time of the bankruptcy or within two years prior to that time; 
+
+Any conviction in a criminal proceeding or being subject to a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+
+Being subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining him from or otherwise limiting his involvement in any type of business, securities or banking activities or to be associated with any person practicing in banking or securities activities; 
+
+Being found by a court of competent jurisdiction in a civil action, the SEC or the Commodity Futures Trading Commission to have violated a Federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated; 
+
+Being subject of, or a party to, any Federal or state judicial or administrative order, judgment decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of any Federal or state securities or commodities law or regulation, any law or regulation respecting financial institutions or insurance companies, or any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+
+Being subject of or party to any sanction or order, not subsequently reversed, suspended, or vacated, of any self-regulatory organization, any registered entity or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member. 
+
+16 
+
+ Table of Contents 
+
+Family
+Relationships 
+
+There
+are no family relationships among our directors and executive officers. 
+
+Stockholder
+Communications with the Board Of Directors 
+
+We
+have not implemented a formal policy or procedure by which our stockholders can communicate directly with our Board of Directors. Nevertheless,
+every effort has been made to ensure that the views of stockholders are heard by the Board of Directors or individual directors, as applicable,
+and that appropriate responses are provided to stockholders in a timely manner. We believe that we are responsive to stockholder communications,
+and therefore have not considered it necessary to adopt a formal process for stockholder communications with our Board. During the upcoming
+year, our Board will continue to monitor whether it would be appropriate to adopt such a process. 
+
+Employment
+Agreements 
+
+We
+have no employment agreements with any of our directors. 
+
+Indemnification
+Agreements 
+
+ We
+have no indemnification agreements with our officers, directors or any other person. 
+
+17 
+
+ Table of Contents 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+The
+following tables set forth certain information about compensation paid, earned or accrued for services by our President and all other
+executive officers (collectively, the Named Executive Officers in the fiscal years ended May 31, 2021 and 2020: 
+
+SUMMARY COMPENSATION TABLE 
+
+The table below summarizes all compensation awarded
+to, earned by, or paid to our officers for all services rendered in all capacities to us for the fiscal periods indicated. 
+
+Name and 
+
+Stock 
+
+Option 
+
+Plan 
+
+Deferred 
+
+All Other 
+
+Principal 
+
+Salary 
+
+Bonus 
+
+Awards 
+
+Awards 
+
+Compensation 
+
+Compensation 
+
+Compensation 
+
+Total 
+
+Position 
+ 
+ Year 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+Lixin Cai 
+
+2021 
+
+27,624 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+27,624 
+
+2020 
+
+26,070 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+26,070 
+
+Cuiyao Luo 
+
+2021 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2020 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Xinrui Wang 
+
+2021 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2020 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Wenbin Mao 
+
+2021 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2020 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Baiwan Niu 
+
+2021 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2020 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Employment
+Contracts, Termination of Employment, Change-in-Control Arrangements 
+
+The
+Company has no employment agreements with its officers or any significant employee and did not enter into any employment contracts, termination
+of employment, or change-in-control arrangements during the fiscal year ended May 31, 2021. 
+
+Option
+Exercises and Fiscal Year-End Option Value Table. 
+
+There
+were no stock options exercised by the named executive officers as of the end of the fiscal year ended May 31, 2021. 
+
+Long-Term
+Incentive Plans and Awards 
+
+There
+were no awards made to a named executive officer, under any long-term incentive plan, as of the end of the fiscal year ended May 31, 2021. 
+
+We
+currently do not pay any compensation to our directors serving on our board of directors. 
+
+Compensation
+of Directors 
+
+We
+currently do not compensate our directors for their services in their capacity as directors. 
+
+18 
+
+ Table of Contents 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The
+following table sets forth certain information regarding beneficial ownership of our common stock as of , May 31, 2021, by (i) each person
+(or group of affiliated persons) who is known by us to own more than five percent (5 of the outstanding shares of our common stock,
+(ii) each director, executive officer and director nominee, and (iii) all of our directors, executive officers and director nominees as
+a group. 
+
+Beneficial
+ownership is determined in accordance with SEC rules and generally includes voting or investment power with respect to securities. For
+purposes of this table, a person or group of persons is deemed to have beneficial ownership of any shares of common stock
+that such person has the right to acquire within 60 days of May31, 2021. For purposes of computing the percentage of outstanding shares
+of our common stock held by each person or group of persons named above, any shares that such person or persons has the right to acquire
+within 60 days of May 31, 2021, is deemed to be outstanding for such person, but is not deemed to be outstanding for the purpose of computing
+the percentage ownership of any other person. The inclusion herein of any shares listed as beneficially owned does not constitute an admission
+of beneficial ownership. 
+
+As
+of May 31, 2021, we had 101,487,017 shares of common stock issued and outstanding. 
+
+Name and Address of Beneficial Owner 
+ 
+ Amount and Nature of Beneficial Ownership 
+
+Percentage of Class 
+
+Xinrui Wang 
+
+79,838,500 
+
+78.7 
+
+CXJ Investment Holding Ltd (Controlled by Xinrui Wang) 
+
+5,000,000 
+
+4.9 
+
+New Charles Technology Group Ltd Controlled by Lixin Cai) 
+
+1,364,800 
+
+1.3 
+
+Wenbin Mao 
+
+10,500,000 
+
+10.3 
+
+Baiwan Niu 
+
+4,500,000 
+
+4.4 
+
+Based on 101,487,017 shares of common stock outstanding
+on September 28, 2021. Except as otherwise indicated, each of the stockholders listed above has sole voting and investment power over
+the shares beneficially owned. 
+
+19 
+
+ Table of Contents 
+
+ITEM 13. CERTAIN RELATIONSHIPS, RELATED TRANSACTIONS
+AND DIRECTOR INDEPENDENCE 
+
+Related
+Party Transactions 
+
+Related party list: 
+
+Names Of Related Parties 
+ 
+ Relationship With The Company 
+ 
+ New Charles Technology Group Limited 
+ 
+ Company controlled by the director 
+ 
+ Lixin Cai 
+ 
+ Director 
+ 
+ Cuiyao Luo 
+ 
+ Director 
+
+The Company had the following related
+party balances and transactions as of and for the year ended May 31, 2021 and 2020. All related parties are controlled by either the founder
+or the directors of the Company and are providing professional services for the Company to facilitate its operation of e-Commerce system.
+These advanced balances are short-term in nature, bearing no interest, and due on demand. 
+
+Amounts due from related parties 
+ 
+ As of 
+
+May 31, 
+ 2021 
+
+May 31, 
+ 2020 
+
+(audited) 
+
+(audited) 
+
+Lixin Cai 
+
+115,868 
+
+New Charles Technology Group Limited 
+
+43,500 
+
+51,458 
+
+Total 
+
+43,500 
+
+167,326 
+
+As
+of May 31, 2021, amount due from related party is 43,500, during the year, Lixin Cai had repaid 115,868 and New Charles Technology Group
+Limited repaid 7,958 respectively. 
+
+Amounts due to related parties 
+ 
+ As of 
+
+May 31, 
+ 2021 
+
+May 31, 
+ 2020 
+
+(audited) 
+
+(audited) 
+
+Cuiyao Luo 
+
+114,935 
+
+26,302 
+
+During
+the year ended May 31, 2021, Cuiyao Luo had paid on behalf of of the Company for the operating expenses amounted to 88,633. 
+
+20 
+
+ Table of Contents 
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+Year Ended 
+
+Year Ended 
+
+May 31, 
+
+May 31, 
+
+2021 
+
+2020 
+
+Audit Fees (1) 
+
+24,000 
+
+24,000 
+
+Audit Related Fees 
+
+Tax Fees (2) 
+
+7,000 
+
+All Other Fees (3) 
+
+24,631 
+
+12,444 
+
+Total 
+
+55,631 
+
+36,444 
+
+(1) Audit fees consist of fees incurred for professional
+services rendered for the audit of our financial statements, for reviews of our interim financial statements included in our quarterly
+reports on Form 10-Q and for services that are normally provided in connection with statutory or regulatory filings or engagements 
+
+(2) Tax fees consist of fees billed for professional
+services relating to tax compliance, tax planning, and tax advice. 
+
+(3) All other fees consist of fees billed for all
+other services. 
+
+21 
+
+ Table of Contents 
+
+PART
+IV 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+(a) Financial Statements 
+
+(1) Financial
+statements for our company are listed in the index under Item 8 of this document 
+
+(2) All
+financial statement schedules are omitted because they are not applicable, not material or the required information is shown in the financial
+statements or notes thereto. 
+
+(b) Exhibits 
+
+Number 
+ 
+ Description of Exhibit 
+ 
+ 21.1 
+ 
+ Subsidiaries of Registrant 
+ 
+ 31.1 
+ 
+ Certification of Principal Executive Officer Pursuant to Securities Exchange Act Rules 13a-14(a), as adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 31.2 
+ 
+ Certification of Principal Financial Officer Pursuant to Securities Exchange Act Rules 13a-14(a), as adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.1 
+ 
+ Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.2 
+ 
+ Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+ITEM 16. FORM 10-K SUMMARY 
+
+None. 
+
+22 
+
+ Table of Contents 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+CXJ Group Co., Ltd. 
+
+(Name of Registrant) 
+
+By: 
+ /s/ Lixin Cai 
+ 
+ Date: October 1, 2021 
+ Title: 
+ 
+ Chairman and Chief Executive Officer and Director 
+ (Principal Executive Officer) 
+
+By: 
+ /s/ Cuiyao Luo 
+ 
+ Date: October 1, 2021 
+ Title: 
+ Chief Financial Officer 
+
+23 
+
+<EX-21.1>
+ 2
+ ex21-1.htm
+
+EXHIBIT
+21.1 
+
+SUBSIDIARIES 
+
+Name
+ of Company 
+ 
+ Jurisdiction
+ of Organization 
+ 
+ CXJ
+ Investment Group Co., Ltd. 
+ 
+ BVI 
+
+CXJ
+ (HK) Technology Group Co., Ltd. 
+ 
+ HK 
+
+CXJ
+ (Shenzhen) Technology Co., Ltd. 
+ 
+ PRC 
+
+CXJ
+ Technology (Hangzhou) Co., Ltd. 
+ 
+ PRC 
+
+(1)
+ CXJ Investment Group Co., Ltd. is a wholly owned subsidiary of CXJ Group Co., Limited 
+
+2)
+ CXJ (HK) Technology Group Co., Ltd is a wholly owned subsidiary of CXJ Investment Group Co., Ltd. 
+
+3)
+ CXJ (Shenzhen) Technology Co., Ltd is as wholly owned subsidiary of CXJ (HK) Technology Group Co., Ltd. 
+
+4)
+ CXJ Technology (Hangzhou) Co., Ltd is fully controlled (VIE agreement) by CXJ (Shenzhen) Technology Co., Ltd. 
+
+</EX-21.1>
+
+<EX-31.1>
+ 3
+ ex31-1.htm
+
+EXHIBIT
+31.1 
+
+CERTIFICATION 
+
+I,
+Lixin Cai, certify that: 
+
+1.
+I have reviewed this annual report on Form 10-K of CXJ Group Co., Ltd. (the Company for the year ended May 31, 2021; 
+
+2.
+Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ Designed
+ such internal control over financial reporting, or caused such internal control to be designed under our supervision, to provide
+ reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes
+ in accordance with generally accepted accounting principles. 
+
+c. 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d. 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; 
+
+5.
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+a. 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b. 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+By: 
+ /s/
+ Lixin Cai 
+ 
+ Date:
+ October 1, 2021 
+ Title: 
+ Chairman
+ and Chief Executive Officer and Director 
+ (Principal
+ Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ ex31-2.htm
+
+EXHIBIT
+31.2 
+
+CERTIFICATION 
+
+I,
+Cuiyao Luo, certify that: 
+
+1.
+I have reviewed this annual report on Form 10-K of CXJ Group Co., Ltd. (the Company for the year ended May 31, 2021; 
+
+2.
+Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+5.
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ Designed
+ such internal control over financial reporting, or caused such internal control to be designed under our supervision, to provide
+ reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes
+ in accordance with generally accepted accounting principles. 
+
+c. 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d. 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; 
+
+5.
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+a. 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b. 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+By: 
+ /s/
+ Cuiyao Luo 
+ 
+ Date:
+ October 1, 2021 
+ Title: 
+ Chief
+ Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ ex32-1.htm
+
+EXHIBIT
+32.1 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350, 
+
+AS
+ADOPTED PURSUANT TO 
+
+SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of CXJ Group Co., Ltd (the Company on Form 10-K for the year ending May 31, 2021 as
+filed with the Securities and Exchange Commission on the date hereof (the Report ), The undersigned hereby certifies, pursuant
+to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge and
+belief: 
+
+(1)
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2)
+The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of
+the Company. 
+
+By: 
+ /s/
+ Lixin Cai 
+ 
+ Date:
+ October 1, 2021 
+ Title: 
+ Chairman
+ and Chief Executive Officer and Director 
+ (Principal
+ Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ ex32-2.htm
+
+EXHIBIT
+32.2 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350, 
+
+AS
+ADOPTED PURSUANT TO 
+
+SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of CXJ Group Co., Ltd. (the Company on Form 10-K for the year ending May 31, 2021 as
+filed with the Securities and Exchange Commission on the date hereof (the Report ), The undersigned hereby certifies, pursuant
+to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge and
+belief: 
+
+(1)
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2)
+The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of
+the Company. 
+
+Date:
+ October 1, 2021 
+
+By: 
+ /s/
+ Cuiyao Luo 
+
+Title: 
+ Chief
+ Financial Officer 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 8
+ ecxj-20210531.xml
+ INLINE XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 9
+ ecxj-20210531.xsd
+ INLINE XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ ecxj-20210531_cal.xml
+ INLINE XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ ecxj-20210531_def.xml
+ INLINE XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ ecxj-20210531_lab.xml
+ INLINE XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ ecxj-20210531_pre.xml
+ INLINE XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

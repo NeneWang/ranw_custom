@@ -1,0 +1,4127 @@
+<Header>
+<FileStats>
+    <FileName>20211209_10-K_edgar_data_1297937_0001493152-21-030972.txt</FileName>
+    <GrossFileSize>5344564</GrossFileSize>
+    <NetFileSize>156352</NetFileSize>
+    <NonText_DocumentType_Chars>798815</NonText_DocumentType_Chars>
+    <HTML_Chars>2259055</HTML_Chars>
+    <XBRL_Chars>879375</XBRL_Chars>
+    <XML_Chars>1095464</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-21-030972.hdr.sgml : 20211209
+<ACCEPTANCE-DATETIME>20211209163054
+ACCESSION NUMBER:		0001493152-21-030972
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		62
+CONFORMED PERIOD OF REPORT:	20211003
+FILED AS OF DATE:		20211209
+DATE AS OF CHANGE:		20211209
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PARKS AMERICA, INC
+		CENTRAL INDEX KEY:			0001297937
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		IRS NUMBER:				910626756
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1003
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-51254
+		FILM NUMBER:		211482332
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1300 OAK GROVE RD
+		CITY:			PINE MOUNTAIN
+		STATE:			GA
+		ZIP:			31822
+		BUSINESS PHONE:		706-663-8744
+
+	MAIL ADDRESS:	
+		STREET 1:		1300 OAK GROVE RD
+		CITY:			PINE MOUNTAIN
+		STATE:			GA
+		ZIP:			31822
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GREAT AMERICAN FAMILY PARKS INC
+		DATE OF NAME CHANGE:	20040721
+
+</SEC-Header>
+</Header>
+
+ 0001493152-21-030972.txt : 20211209
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+. ANNUAL
+REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ For
+the fiscal year ended , 
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission
+file number: 
+
+(Exact
+name of registrant as specified on its charter) 
+
+State
+ or other jurisdiction of 
+ incorporation
+ or organization 
+ 
+ (I.R.S.
+ Employer 
+ Identification
+ Number) 
+
+, 
+
+ (Address,
+Including Zip Code of Principal Executive Offices) 
+
+- 
+
+ (Issuer s
+telephone number) 
+
+With
+copies to: 
+
+ Jonathan
+H. Gardner 
+
+ Kavinoky
+Cook LLP 
+
+ 726
+Exchange St., Suite 800 
+
+ Buffalo,
+New York 14210 
+
+Securities
+registered under Section 12(b) of the Exchange Act: 
+
+NONE 
+
+Securities
+registered under Section 12(g) of the Exchange Act: 
+
+(Title
+of class) 
+
+Indicate
+by check mark whether the registrant is a well-known seasoned issuer as defined in Rule 405 of the Securities Act. 
+
+ Yes
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+ Yes
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. 
+
+. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period
+that the registrant was required to submit and post such files). 
+
+. No 
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained,
+to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting
+company. See definition of accelerated filer and large accelerated filer in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the Exchange Act) Yes .
+
+The
+aggregate market value of the issued and outstanding stock held by non-affiliates of the registrant of the Company s common stock
+as of April 4, 2021 (the last day of the most recently completed second quarter), was approximately . For purposes of the above
+statement only, all directors, executive officers and 10 stockholders are assumed to be affiliates. This determination of affiliate
+status is not necessarily a conclusive determination for any other purpose. 
+
+As
+of December 6, 2021, the issuer had outstanding shares of Common Stock. 
+
+DOCUMENTS
+INCORPORATED BY REFERENCE None 
+
+FORM
+10-K 
+
+FOR
+THE FISCAL YEAR ENDED OCTOBER 3, 2021 
+
+INDEX 
+
+Page 
+
+PART
+ I 
+
+Item
+ 1 
+ Business 
+ 4 
+ 
+ Item
+ 1A 
+ Risk
+ Factors 
+ 6 
+ 
+ Item
+ 1B 
+ Unresolved
+ Staff Comments 
+ 9 
+ 
+ Item
+ 2 
+ Properties 
+ 9 
+ 
+ Item
+ 3 
+ Legal
+ Proceedings 
+ 10 
+ 
+ Item
+ 4 
+ Mine
+ Safety Disclosures 
+ 10 
+
+PART
+ II 
+
+Item
+ 5 
+ Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 11 
+ 
+ Item
+ 6 
+ Selected
+ Financial Data 
+ 11 
+ 
+ Item
+ 7 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations 
+ 11 
+ 
+ Item
+ 7A 
+ Quantitative
+ and Qualitative Disclosures About Market Risk 
+ 19 
+ 
+ Item
+ 8 
+ Financial
+ Statements and Supplementary Data 
+ 19 
+ 
+ Item
+ 9 
+ Changes
+ in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 19 
+ 
+ Item
+ 9A 
+ Controls
+ and Procedures 
+ 19 
+ 
+ Item
+ 9B 
+ Other
+ Information 
+ 20 
+
+PART
+ III 
+
+Item
+ 10 
+ Directors,
+ Executive Officers, and Corporate Governance 
+ 20 
+ 
+ Item
+ 11 
+ Executive
+ Compensation 
+ 24 
+ 
+ Item
+ 12 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 26 
+ 
+ Item
+ 13 
+ Certain
+ Relationships and Related Transactions, and Director Independence 
+ 26 
+ 
+ Item
+ 14 
+ Principal
+ Accountant Fees and Services 
+ 27 
+
+PART
+ IV 
+
+Item
+ 15 
+ Exhibits
+ and Financial Statement Schedules 
+ 28 
+
+Signatures 
+ 29 
+
+2 
+
+FORWARD-LOOKING
+STATEMENTS 
+
+In
+this Annual Report on Form 10-K, references to Parks! America, Inc., Parks! America, the Company, 
+ we, us, and our refer to Parks! America, Inc. and our wholly owned subsidiaries. 
+
+Except
+for the historical information contained herein, this Annual Report on Form 10-K contains forward-looking statements within the meaning
+of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Such forward-looking
+statements involve risks and uncertainties. These statements are found in the sections entitled Business , 
+ Management s Discussion and Analysis of Financial Condition and Results of Operation , 
+and Risk Factors . Such forward-looking statements involve risks and uncertainties,
+including, among other things, statements concerning: our business strategy; liquidity and capital expenditures; future sources of revenues
+and anticipated costs and expenses; and trends in industry activity generally. Such forward-looking statements include, among others,
+those statements including the words such as may, will, should, expect, plan, 
+ could, anticipate, intend, believe, estimate, predict, 
+ potential, goal, or continue or similar language or by
+discussions of our outlook, plans, goals, strategy or intentions . 
+
+Our
+actual results may differ significantly from those projected in the forward-looking statements. These statements are only predictions
+and involve known and unknown risks, uncertainties and other factors, including, but not limited to, the risks outlined under Risk
+Factors , that may cause our actual results, levels of activity, performance or achievements to be materially different
+from any future results, levels of activity, performance or achievements expressed or implied by such forward-looking statements. For
+example, factors that could cause actual results to vary materially from future results include, but are not limited to: competition
+from other parks which we believe is increasing, factors related to the spread of COVID-19 and its variants, difficulty engaging seasonal
+and full-time workers, weather conditions during our primary tourist season, the price of animal feed and the price of gasoline. Although
+we believe that the expectations reflected in these forward-looking statements are based on reasonable assumptions, we cannot guarantee
+future results, levels of activity, performance or achievements. 
+
+The
+forward-looking statements we make in this Annual Report on Form 10-K are based on management s current views and assumptions regarding
+future events and speak only as of the date of this report. We assume no obligation to update any
+of these forward-looking statements to reflect actual results, changes in assumptions or changes in other factors affecting these forward-looking
+statements, except as required by applicable law, including the securities laws of the United States and the rules and regulations of
+the Securities and Exchange Commission SEC ). 
+
+3 
+
+PART
+I 
+
+ITEM
+1. BUSINESS 
+
+Overview 
+
+Parks!
+America, Inc., through our wholly owned subsidiaries, owns and operates three regional theme parks and is in the business of acquiring,
+developing and operating local and regional theme parks and attractions in the United States. Our wholly owned subsidiaries are Wild
+Animal Safari, Inc., a Georgia corporation Wild Animal Georgia ), Wild Animal, Inc., a Missouri corporation Wild
+Animal Missouri ), and Aggieland-Parks, Inc., a Texas corporation Aggieland Wild Animal Texas ).
+Wild Animal Georgia owns and operates the Wild Animal Safari theme park in Pine Mountain, Georgia (the Georgia Park ).
+Wild Animal Missouri owns and operates the Wild Animal Safari theme park located in Strafford, Missouri (the Missouri
+Park ). Aggieland Wild Animal Texas owns and operates the Aggieland Wild Animal Safari theme park near Bryan/College Station,
+Texas (the Texas Park ). We acquired our Georgia Park on June 13, 2005, our Missouri Park on March 5, 2008, and our Texas
+Park on April 27, 2020. 
+
+Our
+Parks are open year round but experience increased seasonal attendance, typically beginning in the latter half of March through early
+September. As a result, our combined third and fourth quarter net sales have historically ranged from 68 to 72 of our annual attendance
+based net sales. For our 2021 fiscal year, the first full year including our Texas Park, combined third and fourth quarter net sales
+were approximately 60 of our annual attendance based net sales. 
+
+Our
+business plan includes expansion via the acquisition of additional local or regional theme parks and attractions, if attractive opportunities
+arise. We believe acquisitions, if any, should not unnecessarily encumber the Company with additional debt that cannot be justified by
+current operations. We may also pursue contract management opportunities for themed attractions owned by third parties. By using a combination
+of equity, debt and other financing options, we intend to carefully monitor stockholder value in conjunction with the pursuit of growth. 
+
+Shares
+of our common stock trade on the OTC Markets Group OTCPink marketplace OTCPink under the symbol, PRKA. 
+
+For
+an overview of our business operations, see MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITIONS AND RESULTS OF OPERATIONS
+herein. 
+
+Corporate
+History 
+
+The
+Company was originally incorporated on July 30, 1954 as Painted Desert Uranium Oil Co., Inc. in Washington State. On October 1,
+2002, Painted Desert Uranium Oil Co., Inc. changed its name to Royal Pacific Resources, Inc. and its corporate domicile to the
+State of Nevada. 
+
+On
+December 19, 2003, Royal Pacific Resources, Inc. acquired the assets of Great Western Parks LLC pursuant to a Share Exchange Agreement
+that set the stage for our current corporate structure and operating strategy. We changed the name of the Company to Great American Family
+Parks, Inc. The acquisition was accounted for as a reverse acquisition in which Great Western Parks was considered to be
+the acquirer of Royal Pacific Resources for reporting purposes. As of June 11, 2008, the Company changed its name from Great American
+Family Parks, Inc. to its current name, Parks! America, Inc. In addition, effective June 25, 2008, the Company s quotation symbol
+on the OTCPink was changed from GFAM to PRKA. 
+
+Wild
+Animal Safari, Inc. Our Georgia Park 
+
+On
+June 13, 2005, Wild Animal Georgia acquired our Georgia Park in Pine Mountain, Georgia. Our Georgia Park is situated within a
+200-acre portion of a 500-acre plot, which is owned by Wild Animal Georgia, located approximately 75 miles southwest of Atlanta.
+Our Georgia Park features a three-mile drive-through animal viewing area that opened in 1991. It is home to over 500 animals, birds and
+reptiles, comprised of over 65 species. The majority of the animals roam wild in a natural habitat. Visitors can observe, photograph
+and feed the animals along the paved road that runs through the drive-through section of our Georgia Park s natural habitat area.
+Some animals are contained in special fenced-in exhibit areas within the natural habitat, drive-through section of our Georgia Park,
+while others are in a more traditional zoo-like walk through section of the park, the Walkabout Adventure Zoo, which also includes a
+reptile house, featuring reptiles from several continents. 
+
+4 
+
+Wild
+Animal, Inc. Our Missouri Park 
+
+Wild
+Animal Missouri purchased our Missouri Park as of March 5, 2008. Our Missouri Park is situated in Strafford, Missouri on 255
+acres of land located 12 miles east of Springfield and approximately 45 miles north of Branson. Our Missouri Park features a five-mile
+drive-through wild animal viewing area that opened in 1971. It is home to approximately 400 animals, birds and reptiles, comprised of
+over 65 species. Most of the animals roam wild throughout the natural habitat. Visitors can observe, photograph and feed the animals
+along the paved road that runs throughout the drive-through section of our Missouri Park s natural habitat area. Some animals are
+contained in special fenced-in exhibit areas within the natural habitat, drive-through section of our Missouri Park and other animals
+are in a more traditional zoo-like walk through section of the park, the Walkabout Adventure Zoo, which also contains a reptile house,
+featuring reptiles from several continents. During our 2018 fiscal year, we made a significant investment in acquiring a baby female
+giraffe for our Missouri Park. During our 2020 fiscal year, we completed an expanded giraffe exhibit, which allows our guests to view
+and feed our giraffes year round. 
+
+Aggieland-Parks,
+Inc. Our Texas Park 
+
+Aggieland
+Wild Animal Texas acquired our Texas Park on April 27, 2020. Our Texas Park is situated on 250 acres of a 450-acre property,
+located approximately 25 miles northeast of Bryan/College Station, Texas and 120 miles northwest of downtown Houston. Our Texas Park
+features a two-and-a-half mile drive-through animal viewing area that opened in 2019. It is home to over 550 animals, birds and reptiles,
+comprised of over 70 species. The majority of the animals roam wild in a natural habitat. Visitors can observe, photograph and feed the
+animals along a crushed-gravel road that runs throughout the drive-through section of our Texas Park s natural habitat area.
+Our Texas Park also includes a 20-acre Walkabout Adventure Zoo, featuring outdoor and indoor animal exhibits, a reptile house, two aviaries,
+extensive giraffe and tortoise encounter areas, an otter exhibit, and a large hippopotamus enclosure and pond. 
+
+Animal
+Park Operations 
+
+Park
+revenues are primarily derived from admission fees, food and beverage sales, gift shop and specialty item sales, and sales of animal
+food. We also provide vehicle rentals at our Georgia Park. Management s plans to grow revenues at each of our Parks include ongoing
+improvements to existing facilities, making each Park more attractive to visitors and developing unused acreage. We also believe that
+increasing local and regional awareness of each Park via advertising and promotion is a critical element of our revenue growth plans,
+especially for our Texas and Missouri Parks. 
+
+In
+addition to the animal environments, each of our Parks contain a gift shop, a restaurant or concessions, and picnic areas. We sell food
+and beverages in our restaurants or concession areas, and a variety of items in our gift shops, including shirts, hats, educational books,
+toys and novelty items, many of which are animal themed. Our 2022 fiscal year plans include the addition of an expansive new giraffe
+exhibit at our Georgia Park, a holiday lights drive through display at our Missouri Park, and expanding the guest food service capabilities
+and offerings at our Texas Park. Increasing attendance, as well as increasing the per capita income generated in our gift shops and from
+concessions continues to be a primary focus. We also plan on increasing revenues via on-going product development,
+including animal encounters and rental vehicles at all three of our Parks. 
+
+The
+majority of the animals at each of our Parks were born on-site or domestically acquired. We rarely import animals and have not imported
+any animals in the past 10 years. Auctions and sales of animals across the United States occur often and we may acquire animals in these
+auctions if we see an opportunity to enhance our Parks. As a result of natural breeding, animal populations at our Parks tend to grow
+over time. Periodically, we sell surplus animals born at each Park, and these proceeds are recorded as revenue. The periodic acquisition
+and sale of animals is also part of our herd and genetic management program. From time-to-time, we may also relocate animals between
+our Parks as part of this program. Each Park is subject to routine inspection by federal and state agencies. Each Park maintains a high
+standard of animal care and has passed all recent inspections. 
+
+Employees 
+
+Our
+Georgia Park has approximately 27 full-time employees. During our Georgia Park s prime attendance season, which typically begins
+in the latter half of March and extends through early September, we engage up to 30-35 additional part-time and seasonal employees.
+Our Missouri Park has approximately 14 full-time employees and engages in the range of 15-20 additional part-time and seasonal employees.
+Our Texas Park has approximately 14 full-time employees and engages in the range of 15-20 additional part-time and seasonal employees.
+We also engage consultants from time to time. We have no collective bargaining agreements with our employees and believe our relations
+with our employees are good. Parks! America has three officers and one director who oversee the strategy of the Company, the operations
+and capital investment activities of our Parks, as well as the overall financial activities, controls and reporting for the Company and
+each Park. 
+
+5 
+
+ITEM
+1A. RISK FACTORS 
+
+You
+should read the following discussion and analysis together with our consolidated financial statements and related notes included elsewhere
+in this Annual Report on Form 10-K. Some of the information contained in this discussion and analysis or set forth elsewhere in this
+Annual Report on Form 10-K, including information with respect to our plans and strategies for our business, includes forward-looking
+statements that involve risks and uncertainties. You should review the Risk Factors 
+below for a discussion of important factors that could cause actual results to differ materially from the results described in or implied
+by the forward-looking statements contained in this report. If any of the following risks actually occur, our business, financial condition
+and results of operations could be adversely affected. 
+
+Risk
+Factors Relating to Our Business: 
+
+The
+COVID-19 pandemic and measures taken in response thereto may have a material negative impact on our business, results of operations and
+cash flows, and financial condition. The extent of the impact is dependent upon future developments, which are highly uncertain and difficult
+to predict. 
+
+In
+March 2020, the World Health Organization characterized COVID-19, a disease caused by a novel strain of a coronavirus, as a pandemic.
+The rapid spread of COVID-19 has resulted in governmental authorities throughout the United States implementing a variety of containment
+measures with the objective of slowing the spread of the virus, including travel restrictions, shelter-in-place orders and business shutdowns.
+The COVID-19 pandemic and these containment measures have the potential to have a material impact on the Company s business. 
+
+We
+began to see a significant reduction in paid attendance at our Georgia and Missouri Parks beginning the week of March 9, 2020. Effective
+April 3, 2020, both Parks were closed to the public as a result of shelter-in-place mandates in Georgia and Missouri. Also note that
+prior to the Company s acquisition of the Texas Park, its operations were also closed to the public for the majority of April 2020
+due to a shelter-in-place mandate in Texas. In compliance with respective state issued guidelines, our Georgia Park reopened on May 1,
+2020 and our Missouri Park reopened on May 4, 2020, with the drive-through portion of our Texas Park reopening on May 1, 2020 and the
+park was fully reopened on May 15, 2020. Since we reopened each of our Parks, attendance levels at each facility were strong for the
+balance of our 2020 fiscal year, which continued throughout our 2021 fiscal year, compared to pre-COVID 19 comparable periods. 
+
+While
+our business has experienced a rebound subsequent to the reopening of our Parks, there may be longer-term negative impacts to our business,
+results of operations and cash flows, and financial condition as a result of the COVID-19 pandemic. These negative impacts include changes
+in customer behavior and preferences causing significant volatility or reductions in Park attendance, increases in operating expenses
+to comply with additional hygiene-related protocols, limitations in our ability to recruit and maintain staffing, limitations on our
+employees ability to work and travel, and significant changes in the economic or political conditions in the areas our Parks are located.
+Despite our efforts to manage these impacts, the ultimate impact may be material, and will depend on a number of factors beyond our control,
+including the duration and severity of the COVID-19 pandemic, the emergence of variants of the COVID-19 virus, and actions by governmental
+authorities taken to contain its spread and mitigate its public health effects. There is also the potential for our attendance levels
+to moderate or decline as alternative entertainment venues reopen to full capacity once the COVID-19 pandemic has run its course or vaccines
+are widely adopted and proven effective. 
+
+The
+extent and duration of longer-term impacts of the COVID-19 pandemic on customer perceptions of our Parks are largely uncertain and dependent
+upon future developments that cannot be accurately predicted. There is no recent historical precedent that provides insights into the
+longer-term impacts that the COVID-19 pandemic will have on consumer behavior. As a result, the ultimate impact is highly uncertain and
+subject to change. We do not yet know the full extent COVID-19 will have on our overall business, results of operations and cash flows,
+and financial position. COVID-19 and the resulting economic disruptions have also led to significant volatility in the capital markets.
+As a smaller public company, our ability to access cash is already difficult and the impacts of COVID-19 on capital markets has likely
+had negatively impacted our ability to raise additional capital at a reasonable cost. 
+
+General
+economic conditions may have an adverse impact on our business, financial condition or results of operations. 
+
+Our
+business and operating results can be impacted by a number of macroeconomic factors, including but not limited to consumer confidence
+and spending levels, tax rates, unemployment, consumer credit availability, raw materials costs, pandemics (such as the ongoing COVID-19
+pandemic) and natural disasters, fuel and energy costs (including oil prices), and credit market conditions. The COVID-19 pandemic has
+severely impacted and will likely continue to impact many of these factors. A general economic slowdown or recession resulting in a decrease
+in discretionary spending could adversely affect the frequency with which guests choose to visit our parks and the amount that our guests
+spend when they visit. Our ability to source supplies, materials and services at reasonable costs and in a timely manner could be impacted
+by adverse economic conditions in the U.S. and abroad. For example, our ability to obtain gift shop merchandise had been adversely impacted
+by recent supply chain distributions at least in part attributed to collateral impacts from COVID-19. 
+
+6 
+
+Conditions
+beyond our control could damage our properties and could adversely impact attendance at our parks and result in decreased revenues. 
+
+Natural
+disasters, public heath crises, epidemics, pandemics, such as the outbreak of COVID-19, terrorist activities, power outages or other
+events outside our control could disrupt our operations, impair critical systems, damage our properties or reduce attendance at our parks
+or require temporary park closures. Damage to our properties could take a long time to repair and there is no guarantee that we would
+have adequate insurance to cover the costs of repair or the expense of the interruption to our business. Furthermore, natural disasters
+such as fires, earthquakes or hurricanes may interrupt or impede access to our affected properties or require evacuations and may cause
+attendance at our affected properties to decrease for an indefinite period. For example, our Texas Park was closed for several weeks,
+experienced power outages and sustained property damage associated with winter storms in February 2021. The occurrence of such events
+could have a material adverse effect on our business, financial condition and results of operations. 
+
+We
+cannot predict the frequency, duration or severity of these activities and the effect that they may have on our business, financial condition
+or results of operations. 
+
+The
+Theme Park Industry is highly competitive and we may be unable to compete effectively. 
+
+The
+theme park industry is highly competitive, highly fragmented, rapidly evolving, and subject to technological change and intense marketing
+by providers with similar products. One of our competitors for attracting general recreation dollars, Callaway Gardens, is located within
+five miles of our Georgia Park. In May 2018, Great Wolf Resorts opened an expansive lodge and indoor waterpark within 10 miles of our
+Georgia Park. In September 2017, the founder of Bass Pro Shops opened Johnny Morris Wonders of Wildlife National Museum
+and Aquarium , approximately 12 miles from our Missouri Park in Springfield, Missouri. Branson, Missouri is located just 45 minutes
+from our Missouri Park. There are a variety of animal attractions throughout southeastern Texas; the nearest is Franklin Drive Thru Safari,
+within a 35-40 minute drive of our Texas Park. Many of our current competitors are significantly larger and have substantially greater
+market presence as well as greater financial, technical, operational, marketing and other resources and experience than we have. In the
+event that a competitor expends significant sales and marketing resources in one or several markets we may not be able to compete successfully
+in such markets. We believe that competition will continue to increase, potentially placing downward pressure on prices. Such pressure
+could adversely affect our gross margins if we are not able to reduce costs commensurate with such price reductions. In addition, the
+pace of technological change makes it impossible for us to predict whether we will face new competitors using different technologies
+to provide the same or similar products offered or proposed to be offered by us. If our competitors were to provide better and more cost
+effective products, our business could be materially and adversely affected. 
+
+We
+face strong competition from numerous entertainment alternatives. 
+
+In
+addition to competing with other themed and amusement parks, our venues compete with other types of recreational venues and entertainment
+alternatives, including but not limited to movies, sports attractions, vacation travel and video games. There can be no assurance that
+we will successfully differentiate ourselves from these entertainment alternatives or that consumers will consider our entertainment
+offerings to be more appealing than those of our competitors. The increasing availability and quality of technology-based entertainment
+has provided families with a wider selection of entertainment alternatives in their homes, including home entertainment units, in-home
+and online gaming, as well as on-demand streaming video and related access to various forms of entertainment. In addition, traditional
+theme parks have been able to reduce the cost and increase the variety of their attractions by implementing technologies that cannot
+be readily incorporated by wild animal attractions such as our Parks. 
+
+The
+suspension or termination of any of our business licenses may have a negative impact on our business. 
+
+We
+maintain a variety of business licenses issued by federal, state and local government agencies that are required to be renewed periodically.
+We cannot guarantee that we will be successful in renewing all of our licenses on a periodic basis. The suspension, termination or expiration
+of one or more of these licenses could have a significant adverse affect on our revenues and profits. In addition, any changes to the requirements for any of our licenses could affect our ability to maintain the licenses. 
+
+Our
+insurance coverage may not be adequate to cover all possible losses that we could suffer, and our insurance costs may increase. 
+
+Companies
+engaged in the theme park business may be sued for substantial damages in the event of an actual or alleged accident. An accident occurring
+at our Parks or at competing parks may reduce attendance, increase insurance premiums, and negatively impact our operating results. Our
+properties contain drive-through, safari style animal parks, and there are inherent risks associated with allowing the public to interact
+with animals. Although we carry liability insurance to cover this risk, there can be no assurance that our coverage will be adequate
+to cover liabilities, or that we will be able to afford or obtain adequate coverage should a catastrophic incident occur. 
+
+7 
+
+We
+currently have 6.0 million of liability insurance per occurrence, which is capped at 10.0 million in aggregate. We will continue to
+use reasonable commercial efforts to maintain policies of liability, fire and casualty insurance sufficient to provide reasonable coverage
+for risks arising from accidents, fire, weather, other acts of God, and other potential casualties. There can be no assurance that we
+will be able to obtain adequate levels of insurance to protect against suits and judgments in connection with accidents or other disasters
+that may occur in our Parks. 
+
+We
+may not identify or complete acquisitions in a timely, cost-effective manner, if at all. 
+
+Our
+business plan includes expansion via the acquisition of additional local or regional theme parks and attractions, if attractive opportunities
+arise. There can be no assurance that we will be successful in acquiring and operating additional local or regional theme parks and attractions.
+Competition for acquisition opportunities in the theme park industry is intense as there are a limited number of parks within the United
+States that could reasonably qualify as acquisition targets for us. Our acquisition strategy is dependent upon, among other things, our
+ability to: identify acquisition opportunities; obtain debt and equity financing; and obtain necessary regulatory approvals. Our ability
+to pursue our acquisition strategy may be hindered if we are not able to successfully identify acquisition targets or obtain the necessary
+financing or regulatory approvals, including but not limited to those arising under federal and state antitrust and environmental laws. 
+
+Significant
+amounts of additional financing may be necessary for the implementation of our Business Plan. 
+
+The
+Company may require additional debt and equity financing to pursue its business plan. There can be no assurance that we will be successful
+in obtaining additional financing. Lack of additional funding could force us to substantially curtail our expansion plans. Furthermore,
+the issuance by the Company of any additional securities would dilute the ownership of existing stockholders and may affect the price
+of our common stock. 
+
+Our
+ownership of real property subjects us to environmental regulation, which creates uncertainty regarding future environmental expenditures
+and liabilities. 
+
+We
+may be required to incur costs to comply with environmental requirements, such as those relating to discharges to air, water and land;
+the handling and disposal of solid and hazardous waste; and the cleanup of properties affected by hazardous substances. Under these and
+other environmental requirements we may be required to investigate and clean up hazardous or toxic substances or chemical releases at
+one of our properties. As an owner or operator, we could also be held responsible to a governmental entity or third party for property
+damage, personal injury and investigation and cleanup costs incurred by them in connection with any contamination. Environmental laws
+typically impose cleanup responsibility and liability without regard to whether the owner or operator knew of or caused the presence
+of the contaminants. The liability under environmental laws has been interpreted to be joint and several unless the harm is divisible
+and there is a reasonable basis for allocation of the responsibility. The costs of investigation, remediation or removal of those substances
+may be substantial, and the presence of those substances, or the failure to remediate a property properly, may impair our ability to
+use our property. We are not currently aware of any material environmental risks regarding our properties. However, we may be required
+to incur costs to remediate potential environmental hazards or to mitigate environmental risks in the future. 
+
+We
+are dependent upon the services of our Executive Officers, key personnel and consultants. 
+
+Our
+success is heavily dependent on the continued active participation of our executive officers. Loss of the services of one or more of
+these officers could have a material adverse effect upon our business, financial condition or results of operations. 
+
+Further,
+our success and achievement of our growth plans depend on our ability to recruit, hire, train and retain other highly qualified technical
+and managerial personnel. Competition for qualified employees among companies in the theme park industry is intense, and the loss of
+any such persons, or an inability to attract, retain and motivate any additional highly skilled employees required for the expansion
+of the Company s activities, could have a materially adverse effect on the Company. The inability of the Company to attract and
+retain the necessary personnel, and consultants and advisors could have a material adverse effect on the Company s business, financial
+condition or results of operations. 
+
+8 
+
+Increased
+labor and employee benefit costs may reduce our results of operations. We also depend on a seasonal workforce, many of whom are
+paid at minimum wage. 
+
+Labor
+is a primary component in the cost of operating our business. Our ability to control labor costs is subject to numerous external factors,
+including market pressures with respect to prevailing wage rates, unemployment levels, and health and other insurance costs, as well
+as the impact of legislation or regulations governing labor relations, minimum wage, and healthcare benefits. Furthermore, our operations
+are dependent in part on a seasonal workforce, many of whom are paid at or near minimum wage. We seek to manage seasonal wages and the
+timing of the hiring process to ensure the appropriate workforce is in place for peak and low seasons; however, we may be unable to recruit
+and hire sufficient personnel to meet our business needs. In addition, we cannot guarantee that material increases in the cost of securing
+our workforce will not occur in the future. Increased state or federal minimum wage requirements, general wages or an inadequate workforce
+could have an adverse impact on our results of operations. We anticipate that the recent upward pressures on general wage rates will
+increase our salary, wage and benefit expenses in our 2022 fiscal year and beyond, and further legislative changes or competitive wage
+rates could continue to increase these expenses in the future. 
+
+Risk
+Factors Relating to Our Common Stock: 
+
+Our
+Common Stock is subject to the penny stock rules of the SEC and the trading market in our Common Stock is limited, which
+makes transactions in our Common Stock cumbersome and may reduce the value of an investment in our Common Stock. 
+
+Our
+common stock is considered a penny stock and the sale of our stock by you will be subject to the penny stock rules 
+of the SEC. The penny stock rules require broker-dealers to take steps before making any penny stock trades in customer accounts. As
+a result, the market for our shares could be illiquid and there could be delays in the trading of our stock, which would negatively affect
+your ability to sell your shares and could negatively affect the trading price of your shares. 
+
+We
+do not expect to pay dividends for some time, if at all. 
+
+As
+of the date of this report, no cash dividends have been paid on our common stock. We expect that any income from operations will be devoted
+to our future operations and growth, as well as to service our debt. We do not expect to pay cash dividends in the near future. Any future
+determination as to the payment of dividends on our common stock will be at the discretion of our Board of Directors and will depend
+on our earnings, operating and financial condition, capital requirements and other factors deemed relevant by our Board of Directors.
+The provisions of credit agreements, which we may enter into from time to time, may also restrict the declaration of dividends on our
+common stock. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS 
+
+None 
+
+ITEM
+2. PROPERTIES 
+
+The
+Company owns and operates the following wild animal theme parks: 
+
+Wild
+Animal Safari, Inc. Our Georgia Park 
+
+Our
+Georgia Park is situated within a 200-acre portion of a 500-acre plot, which is owned by Wild Animal Georgia, located approximately
+75 miles southwest of Atlanta. Our Georgia Park features a three-mile drive-through animal viewing area that opened in 1991. It is home
+to over 500 animals, birds and reptiles, comprised of over 65 species. The majority of the animals roam wild in a natural habitat. Visitors
+can observe, photograph and feed the animals along the paved road that runs through the drive-through section of our Georgia Park s
+natural habitat area. Some animals are contained in special fenced-in exhibit areas within the natural habitat, drive-through section
+of our Georgia Park, while others are in a more traditional zoo-like walk through section, the Walkabout Adventure Zoo, which also includes
+a reptile house, featuring reptiles from several continents. In addition to the animal environments, our Georgia Park contains a gift
+shop, a restaurant and picnic areas. 
+
+Wild
+Animal, Inc. Our Missouri Park 
+
+Our
+Missouri Park is situated in Strafford, Missouri on 255 acres of land located 12 miles east of Springfield and approximately 45 miles
+north of Branson. Our Missouri Park features a five-mile drive-through wild animal viewing area that opened in 1971. It is home to approximately
+400 animals, birds and reptiles, comprised of over 65 species. Most of the animals roam wild throughout the natural habitat. Visitors
+can observe, photograph and feed the animals along the paved road that runs throughout the drive-through section of our Missouri Park s
+natural habitat area. Some animals are contained in special fenced-in areas within the natural habitat, drive-through section of our
+Missouri Park and other animals are in a more traditional zoo-like atmosphere, the Walkabout Adventure Zoo, which also contains a reptile
+house, featuring reptiles from several continents. During our 2020 fiscal year we completed an expanded giraffe exhibit, which allows
+our guests to view and feed our giraffes year round. Our Missouri Park also has a gift shop, a restaurant, and several party rooms for
+rental. 
+
+9 
+
+Aggieland-Parks,
+Inc. Our Texas Park 
+
+Our
+Texas Park is situated on 250 acres of a 450-acre property, located approximately 25 miles northeast Bryan/College Station, Texas and
+120 miles northwest of downtown Houston. Our Texas Park features a two-and-a-half mile drive-through animal viewing area that opened
+in 2019. It is home to over 550 animals, birds and reptiles, comprised of over 70 species. The majority of the animals roam wild in a
+natural habitat. Visitors can observe, photograph and feed the animals along a crushed-gravel road that runs throughout the drive-through
+section of our Texas Park s natural habitat area. Our Texas Park also includes a 20-acre Walkabout Adventure Zoo, featuring outdoor
+and indoor animal exhibits, a reptile barn, two aviaries, extensive giraffe and tortoise encounter areas, an otter exhibit, and a large
+hippopotamus enclosure and pond. In addition, our Texas Park offers a gift shop, a covered individual and group dining area, several
+party rooms for rental, and a playground for young children and families. 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+On
+February 17, 2021, two children of James Meikle, our former President and Chief Operating Officer, filed a Complaint in the Eighth Judicial
+District Court, Clark County, Nevada (case no. A-21-829563-C), alleging we were obligated under Mr. Meikle s Employment Agreement
+to purchase at least 540,000 of life insurance for Mr. Meikle, who passed away on November 28, 2018. The Complaint seeks damages of
+ 540,000, as well as interest and expenses. We deny we were obligated to purchase such life insurance and we have raised other issues
+which we believe are adverse to their claim. We are vigorously opposing this claim. 
+
+Other
+Matters 
+
+Except
+as noted above, we are not a party to any pending legal proceeding, nor are any of our properties the subject of a pending legal proceeding,
+that is not in the ordinary course of business or otherwise material to the financial condition of its business. None of our directors,
+officers or affiliates is involved in a proceeding adverse to our business or has a material interest adverse to our business. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not
+applicable 
+
+10 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR COMMON EQUITY, RELATED STOCKHOLDERS MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Our
+common stock trades on the OTCPink under the symbol PRKA . The table below sets forth, for the periods indicated, the high
+and low closing prices per share of our common stock as reported on the OTCPink. These quotations reflect prices between dealers, do
+not include retail mark-ups, markdowns, and commissions and may not necessarily represent actual transactions. The prices are adjusted
+to reflect all stock splits. As of October 3, 2021, there were 75,124,087 shares outstanding held by approximately 3,200 stockholders
+of record. The number of stockholders of record does not reflect shares held beneficially or those shares held in street 
+name. 
+
+High 
+ Low 
+ 
+ 2021 
+ First
+ Quarter 
+ 0.480 
+ 0.310 
+
+Second
+ Quarter 
+ 0.478 
+ 0.380 
+
+Third
+ Quarter 
+ 0.850 
+ 0.370 
+
+Fourth
+ Quarter 
+ 0.930 
+ 0.600 
+ 
+ 2020 
+ First
+ Quarter 
+ 0.200 
+ 0.160 
+
+Second
+ Quarter 
+ 0.250 
+ 0.120 
+
+Third
+ Quarter 
+ 0.202 
+ 0.130 
+
+Fourth
+ Quarter 
+ 0.410 
+ 0.181 
+
+We
+do not currently pay any dividends on our common stock, and for the foreseeable future we intend to retain future earnings, if any, for
+use in our business. Any future determination as to the payment of dividends on our common stock will be at the discretion of our Board
+of Directors and will depend on our earnings, operating and financial condition, capital requirements and other factors deemed relevant
+by our Board of Directors. The provisions of our credit agreements, which we may enter into from time to time, may also restrict the
+declaration of dividends on our common stock. 
+
+ITEM
+6. SELECTED FINANCIAL DATA 
+
+Not
+applicable 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Management s
+discussion and analysis of results of operations and financial condition MD A is a supplement to the accompanying
+consolidated financial statements and provides additional information on our businesses, current developments, financial condition, cash
+flows and results of operations. The following discussion should be read in conjunction with our consolidated financial statements for
+the year ended October 3, 2021 provided in this Annual Report on Form 10-K. Certain statements contained herein may constitute forward-looking
+statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements involve a number of risks, uncertainties
+and other factors that could cause actual results to differ materially, as discussed more fully herein. 
+
+The
+forward-looking information set forth in this Annual Report on Form 10-K is based on management s current views and assumptions
+regarding future events, and speak only as of the date of this report. We assume no obligation
+to update any of these forward-looking statements to reflect actual results, changes in assumptions or changes in other factors affecting
+these forward-looking statements, except as required by applicable law, including the securities laws of the United States and the rules
+and regulations of the SEC. More information about potential factors that could affect our business and financial results is included
+in the section entitled Risk Factors in this Annual Report on Form 10-K. 
+
+Overview 
+
+Through
+our wholly owned subsidiaries, we own and operate three regional theme parks and are in the business of acquiring, developing and operating
+local and regional theme parks and attractions in the United States. Our wholly owned subsidiaries are Wild Animal Safari, Inc., a Georgia
+corporation Wild Animal Georgia ), Wild Animal, Inc., a Missouri corporation Wild Animal Missouri ),
+and Aggieland-Parks, Inc., a Texas corporation Aggieland Wild Animal Texas ). Wild Animal Georgia owns
+and operates the Wild Animal Safari theme park in Pine Mountain, Georgia (the Georgia Park ). Wild Animal Missouri
+owns and operates the Wild Animal Safari theme park located in Strafford, Missouri (the Missouri Park ). Aggieland Wild
+Animal Texas owns and operates the Aggieland Wild Animal Safari theme park near Bryan/College Station, Texas (the Texas
+Park ). On April 27, 2020, we acquired substantially all the assets of Aggieland Safari LLC and related entities Aggieland
+Safari ). For additional information see NOTE 3. ACQUISITION of the Notes to the Consolidated Financial Statements
+included in this Annual Report on Form 10-K for additional information on this matter. 
+
+11 
+
+Our
+Parks are open year round but experience increased seasonal attendance, typically beginning in the latter half of March through early
+September. As a result, our combined third and fourth quarter net sales have historically ranged from 68 to 72 of our annual attendance
+based net sales. For our 2021 fiscal year, the first full year including our Texas Park, combined third and fourth quarter net sales
+were approximately 60 of our annual attendance based net sales 
+
+The
+table below outlines our annual net sales, reported and adjusted income before income taxes, and net cash provided by operating activities
+for the last five fiscal years. During the past five fiscal years, our Georgia Park has benefitted from several positive factors including
+strong and stable management, the addition of online ticket sales in June 2015, growth and positive economic conditions in the greater
+Atlanta area, as well as positive guest perceptions of this Park. Our strong results through fiscal 2019 and the resulting improvements
+in our financial position provided us with the resources to pursue and ultimately complete the Aggieland Safari acquisition. 
+
+Fiscal
+ Year 
+
+2021 
+ 2020 
+ 2019 
+ 2018 
+ 2017 
+ 
+ Total
+ net sales 
+ 11,862,491 
+ 9,507,264 
+ 6,184,254 
+ 6,046,758 
+ 6,238,264 
+
+change 
+ 24.8 
+ 53.7 
+ 2.3 
+ -3.1 
+ 24.1 
+
+Reported
+ income before income taxes 
+ 3,680,546 
+ 3,693,869 
+ 1,495,438 
+ 1,422,592 
+ 2,035,954 
+
+change 
+ -0.4 
+ 147.0 
+ 5.1 
+ -30.1 
+ 68.1 
+
+of total net sales 
+ 31.0 
+ 38.9 
+ 24.2 
+ 23.5 
+ 32.6 
+
+Adjusted
+ income before income taxes ) 
+ 3,490,558 
+ 3,669,496 
+ 1,575,882 
+ 1,553,124 
+ 1,955,954 
+
+change 
+ -4.9 
+ 132.9 
+ 1.5 
+ -20.6 
+ 52.9 
+
+of total net sales 
+ 29.4 
+ 38.6 
+ 25.5 
+ 25.7 
+ 31.4 
+
+EBITDA 
+ 4,620,623 
+ 4,457,682 
+ 2,138,546 
+ 2,188,851 
+ 2,640,022 
+
+change 
+ 3.7 
+ 108.4 
+ -2.3 
+ -17.1 
+ 42.9 
+
+of total net sales 
+ 39.0 
+ 46.9 
+ 34.6 
+ 36.2 
+ 42.3 
+
+Net
+ cash provided by operating activities 
+ 3,308,718 
+ 3,680,401 
+ 1,858,158 
+ 1,767,243 
+ 1,827,187 
+
+change 
+ -10.1 
+ 98.1 
+ 5.1 
+ -3.3 
+ 24.9 
+
+of total net sales 
+ 27.9 
+ 38.7 
+ 30.0 
+ 29.2 
+ 29.3 
+
+- Excludes 189,988 gain on extinguishment of debt in 2021, 24,373 of tornado related insurance proceeds in 2020, 80,444 of tornado
+damage asset write-offs and costs in 2019, 130,532 of deferred financing costs write-offs in 2018, and a 80,000 settlement gain in
+2017. 
+
+The
+rapid acceleration of the COVID-19 pandemic in the United States occurred at the beginning of our 2020 fiscal year annual high season.
+We began to see a significant reduction in paid attendance at our Georgia and Missouri Parks beginning the week of March 9, 2020. Effective
+April 3, 2020, both Parks were closed as a result of shelter-in-place mandates in Georgia and Missouri. Also note that prior to our acquisition
+of our Texas Park, its operations were suspended for the majority of April 2020 due to a shelter-in-place mandate in Texas. 
+
+In
+compliance with respective state issued guidelines, our Georgia Park and our Texas Park each reopened on May 1, 2020, and our Missouri
+Park reopened on May 4, 2020. Attendance levels were strong at each of our three Parks for the balance of our 2020 fiscal year, which
+continued throughout our 2021 fiscal year, compared to pre-COVID 19 comparable periods. While attendance based net sales remained strong
+versus the comparable pre-COVID-19 period, we experienced a year-over-year decline in attendance based net sales and attendance during
+the final 22 weeks of our 2021 fiscal year versus the comparable period of our 2020 fiscal year. We believe the increased attendance
+levels each of our Parks has experienced since reopening in early May 2020 reflects the principally outdoor nature of the family-friendly,
+wild animal education and entertainment experience provided at each of our Parks. The experience offered at each of our Parks is particularly
+attractive during the COVID-19 pandemic as potential guests are seeking outdoor entertainment options. While we have seen many repeat
+customers since reopening in early May 2020, we also experienced an increase in first time visitors seeking an outdoor entertainment
+alternative. We believe this has increased the local and regional awareness for each of our Parks, which we believe will have positive
+longer-term ramifications for our business. 
+
+12 
+
+However,
+there remains the possibility of longer-term negative impacts to our business, results of operations and cash flows, and financial condition,
+as a result of the COVID-19 pandemic. These negative impacts may include changes in customer behavior and preferences causing significant
+volatility or reductions in attendance at one or more of our Parks, increases in operating expenses to comply with additional hygiene-related
+protocols, limitations in our ability to recruit and maintain staffing, limitations on our employees ability to work and travel, and
+significant changes in the economic or political conditions in the areas our Parks are located. Despite our efforts to manage these potential
+impacts, the ultimate impact may be material, and will depend on a number of factors beyond our control, including the duration and severity
+of the COVID-19 pandemic, the outbreak of new variants of the COVID-19 virus, and actions by governmental authorities taken to contain
+its spread and mitigate its public health effects. There is also the potential for attendance levels at our Parks to moderate or decline
+as alternative entertainment venues reopen to full capacity once the COVID-19 pandemic has run its course or vaccines are widely adopted
+and proven effective. 
+
+We
+are committed to leveraging the strong operating model we have established at our Georgia Park, with a focus on increasing attendance,
+as well as increasing the average revenue generated per guest visit via concession and gift shop revenues. Among our highest priorities
+over the next several years is continuing the integration of our Texas Park. As our Texas Park first opened to the public in May 2019,
+we believe there remains tremendous potential to increase attendance by increasing the local and regional awareness of this facility
+via advertising and promotion. We are pleased with the expanded attendance at our Missouri Park since it reopened in May 2020 and plan
+on leveraging the increased exposure of this facility to continue to build on this recent success. 
+
+During
+our 2021 fiscal year, we engaged an experienced amusement industry consulting firm to assist us in developing a master plan for our Georgia
+Park. Our 2022 fiscal year capital plan includes the first major project within that master plan, an impressive giraffe exhibit. This
+exhibit will be a new showcase for our Georgia Park, allowing our guests to encounter our giraffes regardless of weather conditions or
+outside temperatures. In aggregate, our 2022 fiscal year capital investment plan involves nearly 3.0 million of improvements across
+all three of our parks. This significant increase in capital investment spending will be fully funded from our existing cash, and
+demonstrates our commitment to building for long-term, sustainable growth. 
+
+Our
+long-term business plan includes expansion via the acquisition of additional local or regional theme parks and attractions, if attractive
+opportunities arise. We believe acquisitions, if any, should not unnecessarily encumber the Company with additional debt that cannot
+be justified by current operations. We may also pursue contract management opportunities for themed attractions owned by third parties.
+By using a combination of equity, debt and other financing options, we intend to carefully monitor stockholder value in conjunction with
+the pursuit of growth. 
+
+Strong
+growth in our annual operating cash flow over the past five to six fiscal years has provided us with incremental cash flow, and provided
+us with the financial strength to complete the Aggieland Safari acquisition. However, our current size and operating model leave us little
+room for error. Any future capital raised by us is likely to result in dilution to existing stockholders. It is possible that cash generated
+by, or available to, us may not be sufficient to fund our capital and liquidity needs for the near-term. 
+
+Consolidated
+and Segment Results of Operations for the Year Ended October 3, 2021 as Compared to the Year Ended September 27, 2020 
+
+We
+manage our operations on an individual location basis. Discrete financial information is maintained for each Park and provided to our
+corporate management for review and as a basis for decision-making. The primary performance measures used to allocate resources are Park
+earnings before interest and tax expense, and free cash flow. We use this measure of operating profit to gauge segment performance because
+we believe this measure is the most indicative of performance trends and the overall earnings potential of each segment. 
+
+Our
+2021 fiscal year was comprised of 53-weeks, compared to our 2020 fiscal year which was comprised of 52-weeks. Furthermore, our Texas
+Park was acquired on April 27, 2020, as such was included in our 2020 fiscal year reported results for a partial year. Therefore, in
+addition to full year reported attendance based sales comparisons, attendance based sales analyses will include comparable 53-week pro
+forma sales comparisons as if our Texas Park were acquired at the beginning of our 2020 fiscal year. 
+
+13 
+
+The
+following table shows our consolidated and segment operating results for the years ended October 3, 2021 and September 27, 2020: 
+
+Georgia
+ Park 
+ Missouri
+ Park 
+ Texas
+ Park 
+ Consolidated 
+
+Fiscal
+ 2021 
+ Fiscal
+ 2020 
+ Fiscal
+ 2021 
+ Fiscal
+ 2020 
+ Fiscal
+ 2021 
+ Fiscal
+ 2020 
+ Fiscal 
+ 2021 
+ Fiscal
+ 2020 
+ 
+ Total
+ net sales 
+ 8,067,808 
+ 6,878,994 
+ 1,792,112 
+ 1,449,781 
+ 2,002,571 
+ 1,178,489 
+ 11,862,491 
+ 9,507,264 
+ 
+ Segment
+ income (loss) from operations 
+ 4,517,649 
+ 4,113,926 
+ 202,597 
+ 84,836 
+ (62,922 
+ 433,916 
+ 4,657,324 
+ 4,632,678 
+ 
+ Segment
+ operating margin 
+ 56.0 
+ 59.8 
+ 11.3 
+ 5.9 
+ -3.1 
+ 36.8 
+ 39.3 
+ 48.7 
+
+Corporate
+ expenses 
+
+(896,136 
+ (783,671 
+ 
+ Other
+ income, net 
+
+65,314 
+ 27,788 
+ 
+ Gain
+ on extinguishment of debt 
+
+189,988 
+ - 
+ 
+ Interest
+ expense 
+
+(335,944 
+ (182,926 
+ 
+ Income
+ before income taxes 
+
+3,680,546 
+ 3,693,869 
+
+Total
+Net Sales 
+
+The
+Company s total net sales for the year ended October 3, 2021 increased by 2.35 million or 24.8 , to 11.86 million compared to
+ 9.51 million for the year ended September 27, 2020. Our Parks combined attendance based net sales increased by 2.21 million
+or 23.5 , and animal sales increased by 140,555. On a comparable 53-week pro forma basis, our attendance based net sales increased by
+ 1.36 million or 13.3 . 
+
+On
+a reported basis, our Georgia Park s attendance based net sales increased by 1.10 million or 16.2 , to 7.95 million, our Missouri
+Park s attendance based net sales increased by 338,839 or 23.7 , to 1.77 million, and our Texas Park s attendance based
+sales increased by 770,094 to 1.94 million. 
+
+On
+a comparable 53-week basis, our Georgia Park s attendance based net sales increased by 973,189 or 14.0 and our Missouri Park s
+attendance based net sales 313,720 or 21.6 . On a comparable 53-week pro forma basis, our Texas Park s attendance based sales
+increased approximately 76,966 or 4.1 
+
+On
+comparable 53-week basis, paid attendance at our Missouri Park increased by approximately 11.7 , while paid attendance at our
+Georgia Park declined by approximately 4.5 . On a comparable 53-week pro forma basis paid attendance at our Texas Park increased by approximately
+3.2 . 
+
+Segment
+Operating Margin 
+
+Our
+consolidated segment operating margin increased 24,646, resulting in segment income from operations of 4.66 million for the year ended
+October 3, 2021 compared to segment income from operations of 4.63 million for the year ended September 27, 2020. Our Georgia Park s
+segment income was 4.52 million, an increase of 403,723, principally as a result of higher attendance based net sales and higher animal
+sales, partially offset by higher cost of sales, as well as higher compensation and general operating expenses. Our Missouri Park generated
+a segment operating income of 202,597, an increase of 117,761. Excluding an insurance recovery of 24,373 for tornado damage during
+our 2020 fiscal year, our Missouri Park s segment operating income increased by 142,134, primarily as a result of higher attendance
+based net sales, partially offset by higher cost of sales, and higher compensation and general operating expenses. Our Texas Park generated
+a segment loss of 62,922 for the year ended October 3, 2021, compared to segment income of 433,916 after its acquisition on April 27,
+2020, resulting in a net decrease of 496,838. This decrease is primarily attributable higher cost of sales, higher compensation,
+advertising and general operating expenses, as well as higher depreciation expense, partially offset by higher attendance based net sales
+and higher animal sales. 
+
+Corporate
+Expenses 
+
+Corporate
+spending increased by 112,465 to 896,136 during the year ended October 3, 2021, primarily due to the hiring of an Executive Vice President
+of Operations and higher travel expenses, partially offset by lower professional fees. 
+
+Other
+Income, Net 
+
+Other
+income, net, was 65,314 for the year ended October 3, 2021, an increase of 37,526, primarily attributable to a full year of
+mineral rights royalty income for our Texas Park, partially offset by lower interest income. 
+
+14 
+
+Gain
+on Extinguishment of Debt 
+
+During
+the year ended October 3, 2021, we received notification the SBA approved both our Wild Animal Georgia and Wild Animal 
+Missouri Paycheck Protection Program PPP loan forgiveness applications, resulting in a gain on extinguishment of debt
+totaling 189,988. 
+
+Interest
+Expense 
+
+Interest
+expense for the year ended October 3, 2021 was 335,944, an increase of 153,018, primarily as a result of debt incurred related to the
+acquisition of our Texas Park on April 27, 2020, partially offset by a lower interest rate associated with the June 2021 refinancing
+of our Synovus Bank Synovus term loan. 
+
+Income
+Taxes 
+
+For
+the year ended October 3, 2021, we generated income before income taxes of 3.68 million and recorded a tax provision of 882,000, for
+an effective tax rate of approximately 24.0 , which was favorably impacted by the non-taxable PPP loan forgiveness. For the year ended
+September 27, 2020, we generated income before income taxes of 3.69 million and recorded a tax provision of 926,400, for an effective
+tax rate of approximately 25.1 . 
+
+For
+additional information, see N ote 8. Income
+Taxes of the Notes to the Consolidated Financial Statements included in this Annual Report on Form 10-K. 
+
+Net
+Income and Income Per Share 
+
+Our
+reported net income for the year ended October 3, 2021 was 2.80 million or 0.04 per basic share and per fully diluted share, an increase
+of 31,077 as compared with reported net income of 2.77 million or 0.04 per basic share and per fully diluted share, for the
+year ended September 27, 2020. 
+
+For
+ the year ended 
+
+October
+ 3, 2021 
+ September
+ 27, 2020 
+ 
+ Net
+ income 
+ 2,798,546 
+ 2,767,469 
+ 
+ Gain
+ on extinguishment of debt 
+ (189,988 
+ - 
+ 
+ Tornado
+ damage and expenses, net 
+ - 
+ (24,373 
+ 
+ Tax
+ impact - tornado damage and expenses 
+ - 
+ 5,120 
+ 
+ Adjusted
+ net income 
+ 2,608,558 
+ 2,748,216 
+
+As
+shown in the table above, several one-time items impacted our year-over-year reported net income comparison. Our 2021 fiscal year included
+a gain on extinguishment of debt totaling 189,988. Our 2020 fiscal year included an insurance recovery of 24,373 associated with tornado
+damages at our Missouri Park. Management believes that adjusted net income, excluding one-time items, should be considered in evaluating
+the ongoing operating performance of our business. Excluding the after-tax effect of these items, our 2021 and 2020 fiscal year adjusted
+net income would have been 2.61 million and 2.75 million, respectively, resulting in a decrease in adjusted net income of 139,658.
+The decrease in our adjusted net income is attributable to a 496,838 decline in the segment income generated by our Texas Park, a 112,465
+increase in Corporate expenses, and a 153,018 increase in interest expense, partially offset by a 403,723 increase in segment income
+for our Georgia Park, a 142,134 increase in the segment income of our Missouri Park, a 37,526 increase in other income and a 39,280
+decrease in our income tax provision. 
+
+Financial
+Condition, Liquidity and Capital Resources 
+
+Financial
+Condition and Liquidity 
+
+Our
+primary sources of liquidity are cash generated by operations and borrowings under our loan agreements. Historically, our slow season
+starts after Labor Day in September and runs until Spring Break, which typically begins toward the end of March. The first and second
+quarters of our fiscal year have historically generated negative cash flow, requiring us to use cash generated from prior fiscal years,
+as well as borrowing on a seasonal basis, to fund operations and prepare our Parks for the busy season during the third and fourth quarters
+of our fiscal year. As a result of our improved cash position, during our 2021 and 2020 fiscal years we did not utilize any seasonal
+borrowing. 
+
+15 
+
+On
+June 18, 2021, we entered a new 1.95 million, seven-year term loan (the 2021 Term Loan with Synovus Bank Synovus ),
+at an annual interest rate of 3.75 . The 2021 Term Loan replaced our 2018 borrowing facility with Synovus Bank, which included a term
+loan in the original principal amount of 1.60 million at 5.00 per annum and a 350,000 line of credit at 4.75 per annum. After paying
+off the balance outstanding on the 2018 Term Loan, the net additional borrowings on the 2021 Term Loan were 930,222
+and the line of credit was not renewed. Combined with available cash, we used the incremental proceeds from the 2021 Term Loan to paydown
+ 1.0 million of the 2020 Term Loan used to finance our Texas Park acquisition, which has a 5.00 annual interest rate. Overall, we estimate
+this refinancing will generate approximately 24,375 in annual interest savings. 
+
+Our
+working capital was 5.70 million as of October 3, 2021, compared to 3.86 million as of September 27, 2020. The year-over-year increase
+in working capital primarily reflects cash flow provided by operating activities, partially offset by capital investments, the payoff
+of the Aggieland Seller Note, as well as net term debt payments during our 2021 fiscal year. 
+
+Total
+loan debt, including current maturities, as of October 3, 2021 was 5.66 million compared to 7.02 million as of September 27, 2020.
+The year-over-year decrease in total loan debt is the result of the payoff of the Aggieland Seller Note, the forgiveness of our PPP loans
+and net term debt payments during our 2021 fiscal year. Our bank line of credit LOC was terminated effective June 18,
+2021 and there were no borrowings on the LOC as of September 27, 2020. 
+
+As
+of October 3, 2021, we had equity of 14.57 million and total loan debt of 5.66 million, resulting in a debt to equity ratio of 0.39
+to 1.0, compared to 0.60 to 1.0 as of September 27, 2020. 
+
+Operating
+Activities 
+
+Net
+cash provided by operating activities was 3.31 million for our 2021 fiscal year, compared to 3.68 million, for our 2020 fiscal year,
+resulting in a decrease of 371,683, primarily due to working capital uses. 
+
+Investing
+Activities 
+
+Our
+2021 fiscal year included 988,901 of capital improvements, compared to 525,409 spent on capital improvements during our 2020
+fiscal year. In addition, during our 2020 fiscal year we acquired Aggieland Safari, investing approximately 6.37 million of cash. 
+
+During
+our 2021 fiscal year, property and equipment investing at our Georgia Park included improvements to our drive-through road and other
+infrastructure improvements, various improvements to our concession and food service capabilities, improvements and additions to animal
+shelters and exhibits, spending on annual requirements for our rental vehicle fleet, and the acquisition of various animals. For our
+Missouri Park, 2021 fiscal year property and equipment investments included improvements and additions to animal shelters and exhibits,
+the acquisition of various animals, fencing improvements, improvements to our gift shop, and the acquisition of various equipment. For
+our Texas Park, 2021 fiscal year property and equipment investments included improvements to animal shelters and exhibits, the acquisition
+of various park equipment, drive through road improvements, and the acquisition of various animals. 
+
+During
+our 2020 fiscal year, property and equipment investing at our Georgia Park included improvements to our drive-through roads, improvements
+and additions to animal shelters and exhibits, spending on annual requirements for our rental vehicle fleet, and various animal acquisitions.
+For our Missouri Park, 2020 fiscal year property and equipment investments included the completion of a new giraffe barn and primate
+night house, various animal acquisitions, fencing improvements and the acquisition of various equipment. For our Texas Park, 2020 fiscal
+year property and equipment investments included various park maintenance equipment and animal acquisitions. 
+
+Financing
+Activities 
+
+Net
+cash used in financing activities was 1.20 million for the year ended October 3, 2021, compared to net cash provided by financing activities
+of 4.92 million for the year ended September 27, 2020. 
+
+In
+June 2021, we entered into the 2021 Term Loan for 1.95 million, using those proceeds to pay off the 1.02 million outstanding balance
+of our 2018 Term Loan. Combined with additional cash, we used the net remaining proceeds of the 2021 Term Loan to prepay 1.00 million
+against our 2020 Term Loan. In addition, on June 29, 2021, we paid off the 750,000 Aggieland Safari Seller Note. 
+
+Excluding
+the 1.0 million prepayment of the 2020 Term Loan, net principal payments against our combined term loans totaled 448,648 for
+the year ended October 3, 2021. 
+
+16 
+
+During
+the year ended September 27, 2020, net cash provided by financing activities related to our Aggieland acquisition totaled 4.94 million,
+cash provided by PPP loans totaled 188,087 was provided by PPP loans, while cash used for scheduled payments against our 2018 Term Loan
+totaled 207,135. 
+
+Borrowing
+Agreements 
+
+On
+June 18, 2021, through our wholly owned subsidiary Wild Animal Georgia, we completed a refinancing transaction (the 2021
+Refinancing with Synovus Bank Synovus ). The 2021 Refinancing included a term loan in the original principal amount
+of 1.95 million (the 2021 Term Loan ). The 2021 Term Loan bears interest at a rate of 3.75 per annum and is payable in
+monthly installments of approximately 26,480, based on a seven-year amortization period. The 2021 Term Loan has a maturity date of June
+18, 2028. The 2021 Term Loan is secured by a security deed on the assets of Wild Animal Georgia. We paid a total of approximately
+ 1,514 in fees and expenses in connection with the 2021 Refinancing. The outstanding balance of the 2021 Term Loan was 1.89 million
+as of October 3, 2021. 
+
+On
+April 27, 2020, we acquired Aggieland Wild Animal Texas, financing the transaction with the 2020 Term Loan from First Financial
+Bank First Financial and the Aggieland Seller Note. The 2020 Term Loan in the original principal amount of 5.0 million
+from First Financial is secured by substantially all the Aggieland Wild Animal Texas assets, as well as guarantees from the
+Company and its subsidiaries. The 2020 Term Loan bears interest at a rate of 5.0 per annum, has a maturity date of April 27, 2031, and
+required interest only monthly payments through April 2021. The 2020 Term Loan requires monthly payments of approximately
+ 53,213 beginning in May 2021. We paid a total of approximately 62,375 in fees and expenses in connection with the 2020 Term Loan.
+On June 30, 2021, the Company used the incremental proceeds of the 2021 Term Loan, combined with additional funds, to paydown 1.0 million
+against the 2020 Term Loan, which had an outstanding balance of 3.83 million as of October 3, 2021. 
+
+The
+Aggieland Seller Note represented a deferred portion of the purchase price, had a face value of 750,000, bore no interest, had a maturity
+date of June 30, 2021, and was secured by a second priority subordinated lien and security interest in the acquired mineral rights and
+the animal inventory. We applied a 2.5 discount rate to determine a fair value of 728,500 for the Aggieland Seller Note as of April
+27, 2020 and the resulting 21,500 discount was amortized as interest expense over the 14 month period of the note. On June 29, 2021,
+the Company paid off the Aggieland Seller Note. 
+
+On
+July 11, 2018, through our wholly owned subsidiary Wild Animal Georgia, we completed a refinancing transaction (the 2018
+Refinancing with Synovus. The 2018 Refinancing included a term loan in the original principal amount of 1.6 million (the 2018
+Term Loan ). The 2018 Term Loan had an interest rate of 5.0 per annum and was payable in monthly payments of approximately 22,672,
+based on a seven-year amortization period. The 2018 Term Loan had a maturity date of June 11, 2021, with an option to renew at 5.0 per
+annum for an additional 49-month term. The 2018 Term Loan was secured by a security deed on the assets of Wild Animal Georgia.
+We paid a total of approximately 15,680 in fees and expenses in connection with the 2018 Refinancing. The 2021 Term Loan replaced our
+2018 Term Loan with Synovus, which had an outstanding balance of 1.02 million, and was paid off with the proceeds of the 2021 Term Loan. 
+
+As
+a result of the significant negative economic impacts and uncertainties caused by the COVID-19 pandemic, Wild Animal Georgia
+and Wild Animal Missouri each applied for PPP loans. On April 14, 2020 and April 16, 2020, we received two unsecured PPP loans
+totaling 188,087. The PPP was established under the Coronavirus Aid, Relief, and Economic Security (CARES) Act, which was signed into
+law on March 27, 2020, and is administered by the U.S. Small Business Administration (the SBA ). The term of the PPP loans
+was two years, with an interest rate of 1.0 per annum. All payments were deferred for the first twelve months of these PPP loans, with
+accrued interest being added to the principal during the payment deferral period. Under the terms of the CARES Act, some or all the PPP
+loan proceeds were eligible to be forgiven, based on use for specified purposes, subject to limitations and ongoing rulemaking by the
+SBA. We applied for forgiveness of the full amount of both the Wild Animal Georgia and Wild Animal Missouri PPP loans
+in March 2021. Effective March 29, 2021 and May 25, 2021, the SBA approved the Forgiveness Applications for Wild Animal Georgia
+and Wild Animal Missouri, respectively, including forgiveness of accrued interest, resulting in a gain on extinguishment
+of debt totaling 189,988 during the year ended October 3, 2021. 
+
+Subsequent
+Events 
+
+None 
+
+Off
+Balance Sheet Arrangements 
+
+We
+do not have any off balance sheet arrangements that are reasonably likely to have a current or future effect on our financial condition,
+revenues, results of operations, liquidity or capital expenditures. 
+
+17 
+
+Critical
+Accounting Policies and Estimates 
+
+Our
+discussion and analysis of financial condition and results of operations is based upon our consolidated financial statements, which have
+been prepared in accordance with accounting principles generally accepted in the United States. Our significant accounting policies are
+set forth in NOTE 2. SIGNIFICANT ACCOUNTNG POLICIES of the Notes to the Consolidated Financial Statements included in this
+Annual Report on Form 10-K, which should be reviewed as they are integral to understanding our results of operations and financial position.
+Our critical accounting policies are periodically reviewed with the Audit Committee of the Board of Directors of the Company. 
+
+The
+preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities,
+revenues and expenses, and related disclosure of any contingent assets and liabilities. On an on-going basis, we evaluate our estimates,
+including those related to long-lived assets, revenue recognition, income taxes, and contingencies and litigation. We base our
+estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results
+of which form the basis for making judgments about carrying values of assets and liabilities that are not readily apparent from other
+sources. Although actual results historically have not deviated significantly from those determined using our estimates, our results
+of operations or financial condition could differ, perhaps materially, from these estimates under different assumptions or conditions. 
+
+Long-lived
+Assets, including Property and Equipment 
+
+Property
+and equipment are stated at cost. Improvements and replacements are capitalized when they extend the useful life, increase capacity or
+improve the efficiency of the assets. Repairs and maintenance are charged to expense as incurred. Depreciation of property and equipment
+is provided on the straight-line method and is based on the estimated useful economic lives of the respective assets. We make subjective
+assessments as to these useful lives for purposes of determining the amount of depreciation to record annually with respect to our investments
+in property and equipment. These assessments have a direct impact on our net income or loss, as a change in the estimated useful economic
+lives of our investments in property and equipment would increase or decrease depreciation expense, thereby decreasing or increasing
+net income or loss. We review long-lived assets whenever circumstances change such that the recorded value of an asset may not be recoverable
+and therefore impaired. 
+
+Revenue
+Recognition 
+
+We
+recognize revenues when a performance obligation has been satisfied by transferring control of promised services or products to our guests/customers
+in an amount that reflects the amount the Company has received or expects to receive in exchange for those services or products. Park
+admission fee revenues from advance online ticket purchases are deferred until the customers visit to the parks. Park admission
+revenues for annual passes and memberships are deferred and recognized as revenue on a pro-rata basis over the term of the pass or membership.
+Revenues from retail and concession sales are generally recognized upon the concurrent receipt of payment and delivery of goods to the
+customer. Sales taxes billed and collected are not included in revenue. 
+
+Accounting
+for Income Taxes 
+
+We
+account for income taxes under the asset and liability method, under which deferred tax assets and liabilities are recognized for the
+anticipated future tax consequences attributable to differences between financial statement amounts and their respective tax bases using
+enacted tax rates in effect for the year in which the differences are expected to reverse. We review our deferred tax assets to determine
+whether their value can be realized based upon available evidence. A valuation allowance is established when we believe that it is more
+likely than not that some portion of our deferred tax assets will not be realized. 
+
+Significant
+judgment is required in determining our provision or benefit for income taxes, our deferred tax assets and liabilities, and any valuation
+allowance recorded against our net deferred tax assets. We record deferred tax assets, primarily resulting from net operating loss carry-forwards,
+to the extent we believe these assets will more likely than not be realized. In making such determination, we consider all available
+evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax planning strategies and recent
+results of operations. In the event we determine it is more likely than not we will not realize our deferred tax assets we establish
+a valuation allowance. 
+
+Contingencies 
+
+We
+have various contingencies, as described in NOTE 9. COMMITMENTS AND CONTINGENCIES of the Notes to the Consolidated Financial
+Statements included in this Annual Report on Form 10-K. We are not aware of any other legal matters involving the Company, however, there
+can be no assurance that all proceedings that may currently be brought against us are known by us at this time. 
+
+18 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not
+applicable 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+Our
+financial statements and related notes are set forth at pages F-1 through F-18. 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+(a)
+Disclosure Controls and Procedures 
+
+With
+the participation of the principal executive officer and principal financial officer of Parks! America (the Registrant ),
+the Registrant s management has evaluated the effectiveness of the Registrant s disclosure controls and procedures, as required
+by Rule 13a-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act ), as of the end of the fiscal year
+covered by this Annual Report on Form 10-K. Based upon that evaluation, the Registrant s principal executive officer and principal
+financial officer have concluded that the Registrant s disclosure controls and procedures were effective as of the end of the fiscal
+year covered by this Annual Report on Form 10-K. 
+
+(b)
+Management s Annual Report on Internal Control over Financial Reporting 
+
+Overview 
+
+Management
+of the Company is responsible for establishing and maintaining adequate internal control over financial reporting. Internal control over
+financial reporting is defined in Rule 13a-15(f) or 15d-15(f) promulgated under the Exchange Act as a process designed by, or under the
+supervision of, the Company s principal executive and principal financial officers and effected by the Company s board of
+directors, management and other personnel, to provide reasonable assurance regarding the reliability of financial reporting and the preparation
+of financial statements for external purposes in accordance with accounting principles generally accepted in the United States and includes
+those policies and procedures that: 
+
+1. 
+ Pertain
+ to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets
+ of the Company; 
+
+2. 
+ Provide
+ reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with
+ accounting principles generally accepted in the United States and that receipts and expenditures of the Company are being made only
+ in accordance with authorizations of management and directors of the Company; and 
+
+3. 
+ Provide
+ reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company s
+ assets that could have a material effect on the financial statements. 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Even those systems determined
+to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. Because of the
+inherent limitations of internal control, there is a risk that material misstatements may not be prevented or detected on a timely basis
+by internal control over financial reporting. However, these inherent limitations are known features of the financial reporting process.
+Therefore, it is possible to design into the process safeguards to reduce this risk. 
+
+Management
+based its assessment of the Company s internal control over financial reporting on criteria established in Internal Control
+ Integrated Framework (1992) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on its
+assessment, management has concluded that the Company s disclosure controls and procedures and internal control over financial
+reporting are effective as of October 3, 2021. 
+
+19 
+
+(c)
+Changes in Internal Control over Financial Reporting 
+
+There
+has been no change in our internal control over financial reporting, as defined in Rules 13a-15(f) of the Exchange Act, during our most
+recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial
+reporting as of October 3, 2021. 
+
+ITEM
+9B. OTHER INFORMATION 
+
+None 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE 
+
+Our
+executive officers and directors are as follows: 
+
+Name 
+ Age 
+ Title 
+ 
+ Dale
+ Van Voorhis 
+ 80 
+ Chief
+ Executive Office and Director 
+ 
+ Todd
+ R. White 
+ 59 
+ Chief
+ Financial Officer and Director 
+ 
+ Mark
+ Whitfield 
+ 60 
+ Executive
+ Vice President 
+ 
+ Lisa
+ Brady 
+ 35 
+ Director 
+ 
+ John
+ Gannon 
+ 64 
+ Director 
+ 
+ Charles
+ Kohnen 
+ 54 
+ Director 
+ 
+ Jeffery
+ Lococo 
+ 64 
+ Secretary
+ and Director 
+ 
+ Rick
+ Ruffolo 
+ 53 
+ Director 
+
+Dale
+Van Voorhis 
+
+Dale
+Van Voorhis was appointed as our Chief Executive Officer on January 27, 2011. Mr. Van Voorhis was re-appointed to our Board of Directors
+on March 13, 2009, and served as the Company s Chief Operating Officer from March 28, 2009 until January 27, 2011. Mr. Van Voorhis
+previously served the Company in various management and board of director roles from December 2003 through December 2006. In addition,
+Mr. Van Voorhis has been the President of Amusement Business Consultants, Inc., an amusement industry consulting company, since its inception
+in 1994. Mr. Van Voorhis was President and CEO of Funtime Parks Inc. Funtime from 1982 until 1994. Funtime consisted
+of three parks in New York and Ohio and they generated total attendance of 2.6 million visitors in 1993. Funtime sold the three parks
+for 60 million in 1994. Mr. Van Voorhis has over 55 years of experience in the amusement/entertainment industry. 
+
+Todd
+R. White 
+
+Todd
+R. White was appointed the Chief Financial Officer of Parks! America on May 31, 2013 and was appointed as a Director of the Company effective
+January 1, 2014. Prior to joining the Company, from 1992 through 2011, Mr. White was an executive with The Scotts Miracle-Gro Company
+in a variety of roles, and served most recently as its Vice President, Global Controller from 2005 through 2011. Mr. White was with Price
+Waterhouse in Cincinnati, Ohio from 1986 to 1992. He received a B.A. in business administration from The Ohio State University and an
+MBA from the University of Wisconsin-Madison. He currently serves on the Board of Managers of Spring Brook Farm Cheese, LLC, which is
+wholly owned by the Farms for City Kids Foundation. 
+
+Mark
+Whitfield 
+
+Mark
+Whitfield joined Parks! America, Inc. and was appointed Executive Vice President on September 21, 2020. Mr. Whitfield s 42 year
+amusement park career began in 1979 at Six Flags Theme Parks, where he was Manager of Games Attractions, and Merchandise and Director
+of Revenue at six of the current and former Six Flags parks. Most recently, Mr. Whitfield was a Senior Director of Revenue at PARC Management
+in Jacksonville, and for the last 10 years as General Manager at Palace Entertainment parks in San Dimas, California and in the Wisconsin
+Dells. He is very active in the community and served with distinction as an elected Village Trustee in Lake Delton, Wisconsin, President
+and Board Chair of the Sauk County, Economic Development Corporation, co-Commissioner of the Baraboo-Dells Airport, as well as serving
+on the Board of Directors at the San Dimas Chamber of Commerce and the Wisconsin Dells Visitors Convention Bureau. Mr. Whitfield
+brings extensive experience and consistent positive results in financial/EBITDA growth, employee development, marketing, operations and
+in-park revenue. Mr. Whitfield has BA in Communication and Political Science and a Master of Liberal Arts from Houston Baptist University. 
+
+20 
+
+Lisa
+Brady 
+
+Lisa
+Brady was appointed as a Director of the Company effective November 12, 2021. Ms. Brady brings more than a decade of experience in the
+entertainment, leisure, and hospitality industry with executive-level experience in strategic planning, mergers and acquisitions, investor
+relations, financial modeling, and real estate development. Ms. Brady started her career as a sell-side analyst at KeyBank Capital markets,
+covering the leisure and hospitality sector. Upon joining Cedar Fair Entertainment Company FUN ), Ms. Brady played an integral
+role within investor relations, leading communications efforts with both the sell-side and buy side. Ms. Brady was promoted to the Director
+of Business Development where she served as a key leader in the company s strategic growth initiatives. Ms. Brady graduated summa
+cum laude from Penn State University and received the John Zahniser Female Scholar Athlete Award. 
+
+John
+Gannon 
+
+John
+Gannon has been a Director of the Company since December 2019. Mr. Gannon has 33 years of experience in the amusement park, water park,
+and zoo industry. After 14 years of service, Mr. Gannon retired from the Columbus Zoo and Aquarium in January 2020, most recently serving
+as its Senior Vice President responsible for managing all for profit ventures, including its water park, its amusement park section and
+its golf course. Prior to joining the Columbus Zoo and Aquarium, Mr. Gannon was with Six Flags, Premier Parks and Funtime Inc. for a
+combined total of 19 years. During his time with Six Flags, Mr. Gannon served as Vice President of Finance, with responsibility over
+the eastern United States and Europe. Mr. Gannon started his career as a CPA with Ernst Young. Mr. Gannon is a member of the International
+Association of Amusement Parks and Attractions IAAPA and the World Waterpark Association (WWA). In 2017, Governor John
+Kasich appointed Mr. Gannon to the Ohio Department of Agriculture Advisory Board on Amusement Ride Safety. Mr. Gannon earned a Bachelor
+of Science degree in Accounting from the University of Akron. 
+
+Charles
+Kohnen 
+
+Charles
+Kohnen has been a director of the Company since October 19, 2010. Mr. Kohnen has a diverse business background including experience with
+planning and executing management strategies for turnaround companies. From 1998 to 2006 he was Managing Partner of Kohnen Realty Co.,
+a real estate and stock investment company that he co-founded, where he was responsible for all aspects of the business including the
+coordination of all legal, accounting and buyout matters. Mr. Kohnen has also served as Chairman of a privately held restaurant located
+in Cincinnati, Ohio. Mr. Kohnen also serves on the Board of one non-profit organization and earned a Bachelor of Science degree in General
+Business from Miami University in Oxford, Ohio. 
+
+Jeffery
+Lococo 
+
+Jeffery
+Lococo was appointed Secretary of the Company on January 27, 2011 and has been a Director of the Company since May 2006. Mr. Lococo is
+President of Lococo Company LLC, an industry leading consulting firm in the amusement and resort industry segment. Mr. Lococo began his
+career with the Marriott Corporation theme park division, and progressed through middle management to General Manager level in 1990 with
+Funtime. From 1994 to 2000, Mr. Lococo held various executive vice president level positions with Six Flags Inc. Mr. Lococo joined Great
+Wolf Resorts Inc. in March of 2000 as General Manager of Great Wolf Lodge Sandusky, Ohio, and in 2005, was promoted to Corporate Vice
+President of Resort Operations for all Great Wolf Lodge Resorts. Mr. Lococo has over 35 years of experience in the theme/water park,
+entertainment and hospitality industry. 
+
+Rick
+Ruffolo 
+
+Rick
+Ruffolo was appointed as a Director of the Company effective November 12, 2021. Mr. Ruffolo brings three decades of consumer goods, specialty
+retail, marketing, innovation, and executive leadership experience to the Parks! America Board. In his first twenty years, Mr. Ruffolo
+held brand management roles at P G, SC Johnson, and Nestle Purina, as well as senior executive roles leading the brand, marketing,
+and innovation departments at Yankee Candle and Bath Body Works where he received multiple patents including for the multi-billion
+dollar launch of the Wallflowers home fragrance business. In the last ten years, as CEO President, Mr. Ruffolo has led the successful
+turnaround and growth of several private equity-backed portfolio companies including Sensible Organics, CR Brands, Enviroscent, and Phelps
+Pet Products. Mr. Ruffolo is a dual citizen of the U.S. and Italy, was a NCAA Division I athlete and graduated summa cum laude in marketing
+and business administration from the University of Dayton, and received his MBA with honors from Washington University in St. Louis. 
+
+21 
+
+Involvement
+in Certain Legal Proceedings 
+
+During
+the past ten years none of the following events have occurred with respect to any of our directors or executive officers or any of the
+persons nominated by our board to become a director of the Company. 
+
+1. 
+ A
+ petition under the Federal bankruptcy laws or any state insolvency law was filed by or against, or a receiver, fiscal agent or similar
+ officer was appointed by a court for the business or property of such person, or any partnership in which he was a general partner
+ at or within two years before the time of such filing, or any corporation or business association of which he was an executive officer
+ at or within two years before the time of such filing; 
+
+2. 
+ Such
+ person was convicted in a criminal proceeding or is a named subject of a pending criminal proceeding (excluding traffic violations
+ and other minor offenses); 
+
+3. 
+ Such
+ person was the subject of any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent
+ jurisdiction, permanently or temporarily enjoining him from, or otherwise limiting, the following activities: 
+
+i. 
+ Acting as a futures
+ commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant,
+ any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or as an
+ investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee of any investment
+ company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice in connection
+ with such activity; 
+
+ii. 
+ Engaging in any type
+ of business practice; or 
+
+iii. 
+ Engaging in any activity
+ in connection with the purchase or sale of any security or commodity or in connection with any violation of Federal or State securities
+ laws or Federal commodities laws; 
+
+4. 
+ Such
+ person was the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any Federal or State
+ authority barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any activity described
+ in paragraph (3)(i) above, or to be associated with persons engaged in any such activity; 
+
+5. 
+ Such
+ person was found by a court of competent jurisdiction in a civil action or by the Commission to have violated any Federal or State
+ securities law, and the judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended,
+ or vacated; 
+
+6. 
+ Such
+ person was found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated
+ any Federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not
+ been subsequently reversed, suspended or vacated; 
+
+7. 
+ Such
+ person was the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not
+ subsequently reversed, suspended or vacated, relating to an alleged violation of: 
+
+i. 
+ Any
+ Federal or State securities or commodities law or regulation; or 
+
+ii. 
+ Any
+ law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent
+ injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease- and-desist order, or removal
+ or prohibition order; or 
+
+iii. 
+ Any
+ law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+
+8. 
+ Such
+ person was the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory
+ organization (as defined in Section 3(a)(26) of the Exchange Act), any registered entity (as defined in Section 1(a)(29) of the Commodity
+ Exchange Act), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or
+ persons associated with a member. 
+
+22 
+
+Audit
+Committee 
+
+Our
+Audit Committee is responsible for: (1) overseeing the accounting and financial reporting processes of the Company, including the audits
+of the Company s consolidated financial statements; (2) appointing, compensating and overseeing the work of the independent registered
+public accounting firm employed by the Company; (3) assisting the Board in its oversight of: (a) the integrity of the Company s
+consolidated financial statements and (b) the independent registered public accounting firm s qualifications and independence;
+and (4) undertaking the other matters required by applicable rules and regulations of the SEC. Our Audit Committee is comprised of three
+directors, John Gannon, Charles Kohnen, and Jeffery Lococo. The Board has determined that John Gannon qualifies as an audit committee
+financial expert as that term is defined in the applicable SEC Rules. 
+
+Our
+Audit Committee met four times in the twelve-month period ended October 3, 2021. 
+
+Compensation
+Committee 
+
+Our
+Compensation Committee determines matters pertaining to the compensation and expense reporting of certain of our executive officers,
+and administers our stock option, incentive compensation, and employee stock purchase plans. The Compensation Committee is composed of
+three Directors, John Gannon, Charles Kohnen, and Jeffery Lococo. 
+
+Our
+Compensation Committee met one time during the twelve-month period ended October 3, 2021. 
+
+Code
+of Ethics 
+
+We
+have not adopted a Code of Ethics. 
+
+SECTION
+16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE 
+
+Section
+16(a) of the Securities Exchange Act of 1934, as amended, requires our executive officers and directors and persons who own more than
+10 of a registered class of our equity securities to file with the SEC initial statements of beneficial ownership, reports of changes
+in ownership and annual reports concerning their ownership of our common stock and other equity securities, on Forms 3, 4 and 5 respectively.
+Executive officers, directors and greater than 10 stockholders are required by the SEC regulations to furnish our Company with copies
+of all Section 16(a) reports they file. Based upon a review of those forms and any written representations regarding the need for filing
+Forms 5, to the best of the Company s knowledge, no required Section 16(a) reports were filed late. 
+
+23 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+SUMMARY
+COMPENSATION TABLE 
+
+The
+following table sets forth information regarding compensation paid to our principal executive officer, principal financial officer, and
+our other executive officers, for the years ended October 3, 2021, September 27, 2020 and September 29, 2019. 
+
+Name
+ Principal 
+
+Salary 
+
+Bonus 
+
+Stock
+ Award 
+
+Option
+ Awards 
+
+Non-Equity
+ Incentive Plan Compensation 
+
+Change
+ in Pension Value and Non-Qualified Deferred Compensation Earnings 
+
+All
+ Other Compensation 
+
+Total 
+
+Position 
+ 
+ Year 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+Dale
+ Van Voorhis 
+ 
+ 2021 
+
+100,000 
+
+25,000 
+
+10,000 
+
+6 
+
+135,006 
+
+Chief
+ Executive 
+ 
+ 2020 
+
+93,333 
+
+20,000 
+
+8,500 
+
+- 
+
+121,833 
+
+Officer and Director 
+ 
+ 2019 
+
+90,000 
+
+18,000 
+
+4,625 
+
+- 
+
+112,625 
+
+Mark
+ Whitfield 
+ 
+ 2021 
+
+135,000 
+
+- 
+
+- 
+
+290 
+
+135,290 
+
+Executive
+ Vice President 
+ 
+ 2020 
+
+2,596 
+
+10,000 
+
+- 
+
+- 
+
+12,596 
+
+Michael
+ D. Newman (1) 
+ 
+ 2021 
+
+108,000 
+
+25,000 
+
+- 
+
+- 
+
+133,000 
+
+Vice
+ President of Safari 
+ 
+ 2020 
+
+102,167 
+
+17,000 
+
+- 
+
+3,661 
+
+122,828 
+
+Operations 
+ 
+ 2019 
+
+96,250 
+
+15,000 
+
+- 
+
+5,492 
+
+116,742 
+
+Todd
+ R. White 
+ 
+ 2021 
+
+86,250 
+
+25,000 
+
+10,000 
+
+290 
+
+121,540 
+
+Chief
+ Financial 
+ 
+ 2020 
+
+73,750 
+
+20,000 
+
+8,500 
+
+- 
+
+102,250 
+
+Officer and Director 
+ 
+ 2019 
+
+67,500 
+
+18,000 
+
+4,625 
+
+- 
+
+90,125 
+
+James
+ Meikle (2) 
+ 
+ 2019 
+
+- 
+
+- 
+
+- 
+
+88,167 
+
+88,167 
+
+Director
+and 
+
+Chief
+ Operating Officer 
+
+(1)
+Effective October 31, 2021, Mr. Newman resigned his employment with the Company. 
+
+ (2)
+On November 28, 2018, Mr. Meikle passed away. 
+
+DIRECTOR
+COMPENSATION 
+
+The
+following table sets forth with respect to the named director, compensation information inclusive of equity awards and payments made
+in the year ended October 3, 2021. 
+
+Fees
+ Earned or Paid in Cash 
+ Stock
+ Awards 
+ Option
+ Awards 
+ Non-Equity
+ Incentive Plan Compensation 
+ Change
+ in Pension Value and Non-Qualified Deferred Compensation Earnings 
+ All
+ Other Compensation 
+ Total 
+ 
+ Name 
+ ) 
+ Shares/( 
+ ) 
+ ) 
+ ) 
+ ) 
+ ) 
+ 
+ Dale
+ Van Voorhis 
+ 
+ 22,789 
+
+10,000 
+
+(10,000 
+
+John
+ Gannon 
+ 5,000 
+ 11,395 
+
+10,000 
+
+(5,000 
+
+William
+ Jump (1) 
+ 10,000 
+
+10,000 
+
+Charles
+ Kohnen 
+ 
+ 22,789 
+
+10,000 
+
+(10,000 
+
+Jeffery
+ Lococo 
+ 
+ 22,789 
+
+10,000 
+
+(10,000 
+
+Todd
+ R. White 
+ 
+ 22,789 
+
+10,000 
+
+(10,000 
+
+(1)
+On January 14, 2021, Mr. Jump passed away. 
+
+Historically,
+each director was awarded an annual grant of 25,000 Shares for their service to the Company. Beginning in our 2018 fiscal year, we provided
+each director with the option of receiving their annual grant in Shares or the cash equivalent, based on the Share price on the date
+of grant. Beginning in our 2020 fiscal year, our annual director compensation is based on a dollar award, with each director provided
+the option of receiving that compensation in all Shares, all cash or a combination thereof. 
+
+24 
+
+Employment
+Agreements 
+
+Effective
+as of June 1, 2020, the Company and Dale Van Voorhis, the Company s Chairman and Chief Executive Officer, entered into an employment
+agreement (the 2020 Van Voorhis Employment Agreement ). Pursuant to the 2020 Van Voorhis Employment Agreement, Mr. Van Voorhis
+receives an initial base annual compensation in the amount of 100,000 per year, subject to annual review by the Board of Directors.
+The 2020 Van Voorhis Employment Agreement has a term of two years and entitles Mr. Van Voorhis to participate in any deferred compensation
+plan the Company may adopt during the term of his employment with the Company. 
+
+Effective
+as of January 1, 2019, the Company and Todd R. White, the Company s Chief Financial Officer, entered into an employment agreement
+(the 2019 White Employment Agreement ). The 2019 White Employment Agreement has a term of three years, with minimum annual
+compensation of 70,000 in year one, 75,000 in year two and 80,000 in year three. Effective January 1, 2021, Mr. White s annual
+compensation was changed to 90,000. Mr. White is entitled to participate in any deferred compensation plan the Company may
+adopt during the term of his employment with the Company. 
+
+Effective
+as of May 1, 2018, the Company entered into an employment agreement with Michael D. Newman (the Newman Employment Agreement to serve as the Company s Vice President of Safari Operations. Mr. Newman had been the general manager of Wild Animal Georgia
+since February 2011. Pursuant to the Newman Employment Agreement, Mr. Newman received an initial base annual compensation of 95,000
+per year, subject to annual review by the Board of Directors. Mr. Newman also received a 5,000 signing bonus. Effective as of May 1,
+2020, Mr. Newman s annual compensation was set at 108,000. The Newman Employment Agreement had a term of five years and entitled
+Mr. Newman to participate in any deferred compensation plan the Company may adopt during the term of his employment with the Company.
+Effective October 31, 2021, Mr. Newman resigned his employment with the Company. 
+
+As
+of October 3, 2021, the Company has not adopted any deferred compensation plans. Each of the foregoing employment agreements contains
+provisions for severance compensation in the event an agreement is (i) terminated early by the Company without cause 116,667 in aggregate)
+or (ii) in the event of a change in control of the Company 381,667 in aggregate), as well as disability and death payment provisions 95,000 in aggregate). 
+
+Effective
+as of July 1, 2017, the Company and James Meikle, then the Company s President and Chief Operating Officer, entered into the 2017
+Meikle Employment Agreement . The 2017 Meikle Employment Agreement had a term of two years, with an initial base annual compensation
+in the amount of 135,000 per year. On November 28, 2018, Mr. Meikle passed away. Pursuant to the death benefit terms of the 2017 Meikle
+Employment Agreement, during the three month period ended December 30, 2019, the Company recorded a provision of approximately 88,000,
+which was distributed to his estate on January 15, 2020. 
+
+Stock
+Option and Award Plan 
+
+A
+Stock Option and Award Plan (the Plan providing for incentive stock options and performance bonus awards for executives,
+employees, and directors was approved by our Board of Directors on February 1, 2005, however, the Plan has not been submitted to the
+stockholders for approval. The Plan sets aside five million (5,000,000) shares for award of stock options, including qualified incentive
+stock options and performance stock bonuses. To date, no grants or awards have been made pursuant to the Plan and we did not submit the
+Plan for consideration to the Company s stockholders at the last meeting of stockholders. 
+
+25 
+
+ITEM
+12. EQUITY COMPENSATION PLAN INFORMATION AND SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The
+following table sets forth certain information relating to the ownership of common stock by (i) each person known by us to be the beneficial
+owner of more than five percent of the outstanding shares of our common stock, (ii) each of our directors, (iii) each of our named executive
+officers, and (iv) all of our executive officers and directors as a group. Unless otherwise indicated, the information relates to these
+persons, beneficial ownership as of December 6, 2021. Except as may be indicated in the footnotes to the table and subject to
+applicable community property laws, each person has the sole voting and investment power with respect to the shares owned. The address
+of each beneficial owner is care of Parks! America, Inc., 1300 Oak Grove Road, Pine Mountain, GA 31822, unless otherwise set forth below
+that person s name. 
+
+Name 
+ Number
+ of Shares Owned 
+ Percent
+ (1) 
+ Title 
+ 
+ Dale
+ Van Voorhis 
+ 16,012,700 
+ 21.3 
+ Chief
+ Executive Officer and Director 
+
+Todd
+ R. White (2) 
+ 1,265,109 
+ 1.7 
+ Chief
+ Financial Officer and Director 
+
+Charles
+ Kohnen (3) 
+ 21,856,759 
+ 29.1 
+ Director 
+
+Jeffery
+ Lococo 
+ 554,759 
+ 7.0 
+ Secretary
+ and Director 
+
+John
+ Gannon 
+ 11,394 
+ 0.0 
+ Director 
+
+Focused
+ Compounding Fund, LP 
+ 1700
+ Alma Drive, Suite 460 
+ Plano,
+ TX 75075 
+ 13,097,450 
+ 17.4 
+
+(1) 
+ Based
+ upon shares of common stock issued and outstanding as of December 6, 2021, except that shares of common stock underlying options
+ and warrants exercisable within 60 days of the date hereof are deemed to be outstanding. 
+
+(2) 
+ 410,350
+ of the Company s shares owned by Mr. White are held jointly with his spouse. 
+
+(3) 
+ 15,271,000
+ of the Company s shares owned by Mr. Kohnen are held jointly with his spouse. 
+
+Officers,
+directors and their controlled entities, as a group, controlled approximately 52.8 of the outstanding common stock of the Company as
+of December 6, 2021. 
+
+The
+information as to shares beneficially owned has been individually furnished by our respective directors, named executive officers and
+other stockholders, or taken from documents filed with the SEC. 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+Except
+as set forth below, none of the following parties has, since our date of incorporation, had any material interest, direct or indirect,
+in any transaction with the Company or in any presently proposed transaction that has or will materially affect the Company: 
+
+Any
+ of our directors or officers; 
+
+Any
+ person proposed as a nominee for election as a director; 
+
+Any
+ person who beneficially owns, directly or indirectly, shares carrying more than 10 of the voting rights attached to our outstanding
+ shares of common stock; 
+
+Any
+ of our promoters; and 
+
+Any
+ relative or spouse of any of the foregoing persons who has the same house as such person. 
+
+Director
+Independence 
+
+Of
+the members of the Company s Board of Directors, Lisa Brady, John Gannon, Charles Kohnen, Jeffery Lococo and Rick Ruffolo are considered
+to be independent under the listing standards of the Rules of NASDAQ set forth in the NASDAQ Manual (note, our common shares are not
+currently listed on NASDAQ or any other national securities exchange, and this reference is used for definitional purposes only). 
+
+26 
+
+ITEM
+14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+Audit
+Fees 
+
+As
+disclosed on a Form 8-K filed with the U.S. Securities and Exchange Commission on April 10, 2020, GBQ Partners LLC was appointed as
+our independent registered accounting firm effective April 8, 2020. Our prior independent registered public accounting firm, Tama,
+Budaj Raab, P.C. Certified Public Accountants TBR ), resigned as effective April 8, 2020. 
+
+On
+a combined basis, fees billed by our independent registered public accounting firms, for the audit and quarterly reviews of our financial
+statements and services that are normally provided by an accountant in connection with statutory and regulatory filings or engagements
+for the years ended October 3, 2021 and September 27, 2020 were approximately 55,000 and 48,500, respectively. 
+
+Tax
+Fees 
+
+The
+aggregate fees billed by TBR, for professional services rendered for tax compliance, tax advice and tax planning for the years ended
+October 3, 2021 and September 27, 2020 were approximately 13,000 and 6,500, respectively. 
+
+All
+Other Fees 
+
+Our
+independent registered public accounting firms billed no other fees for the years ended October 3, 2021 and September 27, 2020. 
+
+Audit
+Committee Pre-Approval Policies and Procedures 
+
+The
+audit committee is required to pre-approve the audit and non-audit services performed by our independent registered public accounting
+firm in order to assure that the provision of such services do not impair the registered public accounting firm s independence. 
+
+27 
+
+PART
+IV 
+
+ITEM
+15. EXHIBITS 
+
+3.1 
+ Articles of Incorporation of Great American Family Parks, Inc. dated July 17, 2002 (incorporated by reference to the Registration Statement on Form SB-2 filed with the Securities and Exchange Commission on August 4, 2005). 
+
+3.2 
+ Amended Articles of Incorporation of Great American Family Parks, Inc. dated January 26, 2004 (incorporated by reference to the Registration Statement on Form SB-2 filed with the Securities and Exchange Commission on August 4, 2005). 
+
+3.3 
+ Bylaws of Great American Family Parks, Inc. dated January 30, 2004 (incorporated by reference to the Registration Statement on Form SB-2 filed with the Securities and Exchange Commission on August 4, 2005). 
+
+3.4 
+ Great American Family Parks 2005 Stock Option Plan dated February 1, 2005 (incorporated by reference to the Registration Statement on Form SB-2 filed with the Securities and Exchange Commission on August 4, 2005). 
+
+3.5 
+ Amended Bylaws of the Company, as of January 17, 2011 (incorporated by reference to the Annual Report on Form 10-KT filed by the Company on December 29, 2012). 
+
+3.6 
+ Amended Bylaws of the Company as of June 12, 2012 (incorporated by reference to the Report on Form 8-K filed by with the Securities and Exchange Commission on July 16, 2012). 
+
+21.1 
+ Subsidiaries
+ of the Registrant. 
+
+23.1 
+ Consent
+ of GBQ Partners LLC dated December 9, 2021. 
+
+31.1 
+ Certification
+ by Chief Executive Officer, required by Rule 13a-14(a) or Rule 15d-14(a) of the Exchange Act, promulgated pursuant to Section 302
+ of the Sarbanes-Oxley Act of 2002. 
+
+31.2 
+ Certification
+ by Chief Financial Officer, required by Rule 13a-14(a) or Rule 15d-14(a) of the Exchange Act, promulgated pursuant to Section 302
+ of the Sarbanes-Oxley Act of 2002. 
+
+32.1 
+ Certification
+ by Chief Executive Officer, required by Rule 13a-14(b) or Rule 15d-14(b) of the Exchange Act and Section 1350 of Chapter 63 of Title
+ 18 of the United States Code, promulgated pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+Certification
+ by Chief Financial Officer, required by Rule 13a-14(b) or Rule 15d-14(b) of the Exchange Act and Section 1350 of Chapter 63 of Title
+ 18 of the United States Code, promulgated pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+28 
+
+SIGNATURES 
+
+In
+accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf as of 
+
+ December
+9, 2021 by the undersigned, thereunto duly authorized. 
+
+PARKS!
+ AMERICA, INC. 
+
+By:
+ 
+ /s/
+ Dale Van Voorhis 
+
+Dale
+ Van Voorhis 
+
+Chief
+ Executive Officer and Director 
+
+(Principal
+ Executive Officer) 
+
+In
+accordance with the Exchange Act, this report has been signed below by the following persons on behalf of the registrant and in the capacities
+and on the dates indicated. 
+
+SIGNATURE 
+ TITLE 
+ DATE 
+
+By: 
+ /s/
+ Dale Van Voorhis 
+
+Dale
+ Van Voorhis 
+ Chief
+ Executive Officer and Director 
+ (Principal
+ Executive Officer) 
+ December
+ 9, 2021 
+
+By:
+ 
+ /s/
+ Lisa Brady 
+
+Lisa
+ Brady 
+ Director 
+ December
+ 9, 2021 
+
+By: 
+ /s/
+ John Gannon 
+
+John
+ Gannon 
+ Director 
+ December
+ 9, 2021 
+
+By: 
+ /s/
+ Charles Kohnen 
+
+Charles
+ Kohnen 
+ Director 
+ December
+ 9, 2021 
+
+By: 
+ /s/
+ Jeffery Lococo 
+
+Jeffery
+ Lococo 
+ Secretary
+ and Director 
+ December
+ 9, 2021 
+
+By: 
+ /s/
+ Rick Ruffolo 
+
+Rick
+ Ruffolo 
+ Director 
+ December
+ 9, 2021 
+
+By:
+ 
+ /s/
+ Todd R. White 
+
+Todd
+ R. White 
+ Chief
+ Financial Officer and Director 
+ (Principal
+ Financial Officer) 
+ 
+ December
+ 9, 2021 
+
+29 
+
+ITEM
+8 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+INDEX
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+Consolidated
+ Financial Statements of Parks! America and Subsidiaries 
+ Page 
+
+Report
+ of Independent Registered Public Accounting Firm 
+ F-2 
+
+Consolidated
+ Balance Sheets as of October 3, 2021 and September 27, 2020 
+ F-4 
+
+Consolidated
+ Statements of Operations for the years ended October 3, 2021 and September 27, 2020 
+ F-5 
+
+Consolidated
+ Statement of Changes in Stockholders Equity for the years ended October 3, 2021 and September 27, 2020 
+ F-6 
+
+Consolidated
+ Statements of Cash Flows for the years ended October 3, 2021 and September 27, 2020 
+ F-7 
+
+Notes
+ to the Consolidated Financial Statements 
+ F-8 
+
+F- 1 
+
+Report
+of Independent Registered Public Accounting Firm 
+
+Board
+of Directors and Shareholders 
+
+ Parks!
+America, Inc. 
+
+Opinion
+on the Consolidated Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheets of Parks! America, Inc. (the Company as of October 3, 2021 and
+September 27 2020, the related consolidated statements of operations, stockholders equity, and cash flows for the years then ended,
+and related notes (collectively referred to as the consolidated financial statements ). In our opinion, the consolidated
+financial statements present fairly, in all material respects, the financial position of the Company as of October 3, 2021 and
+September 27, 2020, and the results of its operations and its cash flows for the years then ended, in conformity with accounting
+principles generally accepted in the United States of America. 
+
+Basis
+for Opinion 
+
+These
+consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion
+on these consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company
+Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company in accordance
+with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to
+error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial
+reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting but
+not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly,
+we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether
+due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting
+principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial
+statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+F- 2 
+
+Critical
+Audit Matter 
+
+The
+critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated
+or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of a critical audit
+matter does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical
+audit matter below, providing separate opinions on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+Estimated
+Redemption Rate Used to Determine Online Ticket Sales for Deferred Revenue 
+
+Customers
+can purchase online admission tickets in advance of their visit. These tickets can be used anytime during a twelve month period following
+the date of the ticket purchase. For such purchases, the Company estimates a redemption rate based on historical experience and other
+factors and assumptions the Company believes to be customary and reasonable. The remaining portion of online ticket sales represents
+tickets expected to go unused. The Company recognizes a pro-rata portion of the expected unused ticket revenue over time. The Company
+reviews the estimated redemption rate on an ongoing basis and revises it as necessary. As of October 3, 2021, 192,801 of deferred revenue
+related to the consideration received for advance online ticket sales. 
+
+We
+identified the evaluation of the estimated redemption rate used to determine deferred revenue for online ticket sales as a critical audit
+matter. Subjective auditor judgment was required to evaluate the effect of historical customer usage patterns on the estimated rate of
+future use assumption. 
+
+The
+following are the primary procedures we performed to address this critical audit matter. We obtained an understanding and evaluated the
+design of controls over the Company s process to develop the estimated redemption rate. We evaluated historical periods 
+ticket redemption activity for indication of significant changes in customer behavior and to determine whether changes in the historical
+activity were consistent with changes in the Company s business that impact the estimated redemption rate assumption. We compared
+trends of customers historical redemption patterns to the Company s estimated redemption rate assumption. We assessed the
+outstanding online ticket data utilized by the Company to derive the redemption rate assumption by comparing it to relevant underlying
+documentation. 
+
+/s/
+ GBQ Partners LLC 
+
+GBQ
+ Partners LLC 
+
+We
+ have served as the Company s auditor since 2020. 
+
+Columbus,
+ Ohio 
+
+December
+ 9, 2021 
+
+F- 3 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+ As
+of October 3, 2021 and September 27, 2020 
+
+October
+ 3, 2021 
+ September
+ 27, 2020 
+ 
+ ASSETS 
+
+Cash 
+
+Accounts
+ receivable 
+ 
+ - 
+ 
+ Inventory 
+
+Prepaid
+ expenses 
+
+Total
+ current assets 
+
+Property
+ and equipment, net 
+
+Intangible
+ assets, net 
+ 
+ - 
+ 
+ Other
+ assets 
+
+Total
+ assets 
+
+LIABILITIES
+ AND STOCKHOLDERS EQUITY 
+
+Liabilities 
+
+Accounts
+ payable 
+
+Other
+ current liabilities 
+
+Current
+ portion of long-term debt, net 
+
+Total
+ current liabilities 
+
+Long-term
+ debt, net 
+
+Total
+ liabilities 
+
+Stockholders 
+ equity 
+
+Common
+ stock; shares authorized, 
+ at par value; and 
+ shares issued and outstanding, respectively 
+
+Capital
+ in excess of par 
+
+Treasury
+ stock 
+
+Retained
+ earnings 
+
+Total
+ stockholders equity 
+
+Total
+ liabilities and stockholders equity 
+
+The
+accompanying notes are an integral part of these consolidated financial statements . 
+
+F- 4 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS 
+
+ For
+the Years Ended October 3, 2021 and September 27, 2020 
+
+1 
+ 2 
+
+For
+ the year ended 
+
+October
+ 3, 2021 
+ September
+ 27, 2020 
+ 
+ Net
+ sales 
+
+Sale
+ of animals 
+
+Total
+ net sales 
+
+Cost
+ of sales 
+
+Selling,
+ general and administrative 
+
+Depreciation
+ and amortization 
+
+Tornado
+ damage insurance recovery 
+ - 
+
+Loss
+ on disposal of operating assets 
+
+Income
+ from operations 
+
+Other
+ income, net 
+
+Gain
+ on extinguishment of debt 
+ 
+ - 
+ 
+ Interest
+ expense 
+
+Income
+ before income taxes 
+
+Income
+ tax provision 
+
+Net
+ income 
+
+Income
+ per share - basic and diluted 
+
+Weighted
+ average shares 
+ outstanding (in 000 s) - basic and diluted 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 5 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ CONSOLIDATED
+STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY 
+
+ For
+the Years Ended October 3, 2021 and September 27, 2020 
+
+1 
+ 
+ 2 
+ 
+ 3 
+ 
+ 4 
+ 
+ 5 
+
+Capital
+ in 
+
+Shares 
+ Amount 
+ Excess
+ of Par 
+ Treasury 
+ Stock 
+ Retained 
+ Earnings 
+ Total 
+ 
+ Balance
+ at September 29, 2019 
+
+Issuance
+ of common stock to Directors 
+
+- 
+ - 
+
+Net
+ income for the year 
+ ended September 27, 2020 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Balance
+ at September 27, 2020 
+
+Beginning balance, value 
+
+Issuance
+ of common stock to Directors 
+
+- 
+ - 
+
+Net
+ income for the year 
+ ended October 3, 2021 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Balance
+ at October 3, 2021 
+
+Ending
+ balance, value 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 6 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+ For
+the Years Ended October 3, 2021 and September 27, 2020 
+
+1 
+ 2 
+
+For
+ the year ended 
+
+October
+ 3, 2021 
+ September
+ 27, 2020 
+ 
+ OPERATING
+ ACTIVITIES: 
+
+Net
+ income 
+
+Reconciliation
+ of net income to net cash provided by operating activities: 
+
+Depreciation
+ and amortization expense 
+
+Interest
+ expense - debt financing cost amortization 
+
+Interest
+ expense - loan discount amortization 
+
+Loss
+ on disposal of assets 
+
+Stock-based
+ compensation 
+
+Gain
+ on extinguishment of debt 
+ 
+ - 
+ 
+ Changes
+ in assets and liabilities 
+
+(Increase)
+ decrease in accounts receivable 
+ 
+ - 
+ 
+ (Increase)
+ decrease in inventory 
+
+(Increase)
+ decrease in prepaid expenses 
+
+Increase
+ (decrease) in accounts payable 
+
+Increase
+ (decrease) in other current liabilities 
+
+Net
+ cash provided by operating activities 
+
+INVESTING
+ ACTIVITIES: 
+
+Acquisition
+ of property and equipment 
+
+Acquisition
+ of Aggieland Safari 
+ - 
+
+Tradename
+ registrations 
+ 
+ - 
+ 
+ Proceeds
+ from the disposition of property and equipment 
+
+Net
+ cash used in investing activities 
+
+FINANCING
+ ACTIVITIES: 
+
+Payments
+ on 2018 Term Loan 
+
+Payments
+ on 2020 Term Loan 
+ 
+ - 
+ 
+ Payments
+ on 2021 Term Loan 
+ 
+ - 
+ 
+ Payment
+ of Note to Seller of Aggieland Safari 
+ 
+ - 
+ 
+ Proceeds
+ from 2021 Term Loan 
+ 
+ - 
+ 
+ Proceeds
+ from 2020 Term Loan 
+ - 
+
+Proceeds
+ from Paycheck Protection Program Loans 
+ - 
+
+Debt
+ financing costs 
+
+Net
+ cash (used in) provided by financing activities 
+
+Net
+ increase in cash 
+
+Cash
+ at beginning of period 
+
+Cash
+ at end of period 
+
+Supplemental
+ Cash Flow Information: 
+
+Cash
+ paid for interest 
+
+Cash
+ paid for income taxes 
+
+Non-Cash
+ Investing and Financing Activities: 
+
+Note
+ to Seller of Aggieland Safari 
+ - 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 7 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ October
+3, 2021 
+
+as Painted Desert Uranium
+ Oil Co., Inc. in Washington State. On October 1, 2002, Painted Desert Uranium Oil Co., Inc. changed its name to Royal Pacific
+Resources, Inc. and its corporate domicile to the State of . 
+
+On
+December 19, 2003, Royal Pacific Resources, Inc. acquired the assets of Great Western Parks LLC pursuant to a Share Exchange Agreement
+that resulted in the Company assuming control and changing the corporate name to Great American Family Parks, Inc. The acquisition was
+accounted for as a reverse acquisition in which Great Western Parks was considered to be the acquirer of Royal Pacific Resources for
+reporting purposes. On June 11, 2008, the Company changed its name from Great American Family Parks, Inc. to Parks! America, Inc. 
+
+The
+Company owns and operates through wholly owned subsidiaries three regional theme parks and is in the business of acquiring, developing
+and operating local and regional theme parks and attractions in the United States. The Company s wholly owned subsidiaries are
+Wild Animal Safari, Inc. a Georgia corporation Wild Animal Georgia ), Wild Animal, Inc., a Missouri corporation Wild Animal Missouri ), and Aggieland-Parks, Inc., a Texas corporation Aggieland Wild Animal Texas ).
+Wild Animal Georgia owns and operates the Wild Animal Safari theme park in Pine Mountain, Georgia (the Georgia Park ).
+Wild Animal Missouri owns and operates the Wild Animal Safari theme park located in Strafford, Missouri (the Missouri
+Park ). Aggieland Wild Animal Texas owns and operates the Aggieland Wild Animal Safari theme park near Bryan/College Station,
+Texas (the Texas Park ). The Company acquired the Georgia Park on June 13, 2005, the Missouri Park on March 5, 2008, and
+the Texas Park on April 27, 2020. 
+
+The
+Company s Parks are open year round, but experience increased seasonal attendance, typically beginning in the latter half of March
+through early September. As a result, combined third and fourth quarter net sales have historically ranged from 68 to 72 of annual
+attendance based net sales. For the Company s 2021 fiscal year, the first full year including Aggieland Safari, combined third
+and fourth quarter net sales were approximately 60 of annual attendance based net sales. 
+
+COVID-19
+
+In
+March 2020, the World Health Organization characterized COVID-19, a disease caused by a novel strain of a coronavirus, as a pandemic.
+The rapid spread of COVID-19 has resulted in governmental authorities throughout the United States implementing a variety of containment
+measures with the objective of slowing the spread of the virus, including travel restrictions, shelter-in-place orders and business shutdowns.
+The COVID-19 pandemic and these containment measures have had, and could continue to have, a material impact on the Company s business. 
+
+The
+rapid acceleration of the COVID-19 pandemic in the United States occurred at the beginning of the Company s annual high season.
+Beginning the week of March 9, 2020, the Company began to see a significant reduction in paid attendance at its Georgia and Missouri
+Parks. Effective April 3, 2020, the Company s Georgia and Missouri Parks were closed as a result of shelter-in-place mandates in
+Georgia and Missouri. Also note that prior to the acquisition of the Texas Park, its operations were suspended for the majority of April
+2020 due to a shelter-in-place mandate in Texas. 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ October
+3, 2021 
+
+NOTE
+1. ORGANIZATION (CONTINUED) 
+
+In
+compliance with respective state issued guidelines, the Georgia Park and the Texas Park each reopened on May 1, 2020, and the Missouri
+Park reopened on May 4, 2020. Subsequent to reopening, attendance levels were strong at each of the Company s three Parks for the
+balance of its 2020 fiscal year, which continued throughout its 2021 fiscal year in comparison to pre-COVID-19. However, there may be
+longer-term negative impacts to the Company s business, results of operations and cash flows, and financial condition as a result
+of the COVID-19 pandemic. These negative impacts may include changes in customer behavior and preferences causing significant volatility
+or reductions in Park attendance, increases in operating expenses to comply with additional hygiene-related protocols, limitations in
+the Company s ability to recruit and maintain staffing, limitations on the Company s employees ability to work and travel,
+and significant changes in the economic or political conditions in the areas the Company s Parks are located. Despite the Company s
+efforts to manage these potential impacts, the ultimate impact may be material, and will depend on a number of factors beyond its control,
+including the duration and severity of the COVID-19 pandemic and actions by governmental authorities taken to contain its spread and
+mitigate its public
+health effects. There is also the potential for attendance levels at the Company s Parks to moderate or decline as alternative
+entertainment venues reopen to full capacity once the COVID-19 pandemic has run its course or vaccines are widely adopted and proven
+effective. While attendance based net sales remain strong versus the comparable pre-COVID-19 period, the Company experienced a decline
+in attendance based net sales and attendance for weeks 32 through 53 of its 2021 fiscal year versus the comparable period of its 2020
+fiscal year. 
+
+and 0 as of October 3, 2021 and September 27, 2020, respectively. 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ October
+3, 2021 
+
+NOTE
+2. SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+
+and as of October 3, 2021 and September 27, 2020, respectively. 
+
+Mineral
+ rights 
+
+Ground
+ improvements 
+
+Buildings
+ and structures 
+
+Animal
+ shelters and habitats 
+
+Park
+ animals 
+
+Equipment
+ - concession and related 
+
+Equipment
+ and vehicles - yard and field 
+
+Vehicles
+ - buses and rental 
+
+Rides
+ and entertainment 
+
+Furniture
+ and fixtures 
+
+Projects
+ in process 
+
+Property
+ and equipment, cost 
+
+Less
+ accumulated depreciation 
+
+Property
+ and equipment, net 
+
+years. 
+
+Accrued
+ sales taxes 
+
+Accrued
+ wages and payroll taxes 
+
+Accrued
+ property taxes 
+
+Accrued
+ income taxes 
+ - 
+
+Other
+ accrued liabilities 
+
+Other
+ current liabilities 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ October
+3, 2021 
+
+NOTE
+2. SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+
+and as of October 3, 2021 and
+September 27, 2020, respectively, and is included within Other Current Liabilities in the accompanying consolidated balance sheets. 
+
+and ,
+respectively. 
+
+ shares for award of stock options, including qualified
+incentive stock options and performance stock bonuses. To date, grants or awards have been made pursuant to the Plan and the Company
+did not submit the Plan for consideration to the Company s stockholders at its last meeting of stockholders. 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ October
+3, 2021 
+
+NOTE
+2. SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+
+interest and penalties related to unrecognized tax benefits were accrued as of October 3, 2021 or September 27, 2020. 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ October
+3, 2021 
+
+, the Company, through a newly formed subsidiary, Aggieland-Parks, Inc., a Texas corporation, acquired substantially all
+the assets of Aggieland Safari LLC, Ferrill Creek Ranch LLC, and Vernell Investments LLC (combined the Aggieland Assets ),
+primarily consisting of the Aggieland Safari Adventure Zoo and Safari Park Aggieland Safari ), including animal inventory,
+real estate, mineral rights, and certain equipment and other assets necessary to operate Aggieland Wild Animal Texas. Aggieland
+Wild Animal Texas is situated on 250 acres of a 450-acre property, located approximately 25 miles northeast of Bryan/College
+Station, Texas and 120 miles northwest of downtown Houston. The total purchase price for the Aggieland Assets was million, after
+determination of the fair value of the seller note. The transaction was financed with a million loan (the 2020 Term Loan from First Financial Bank, N.A. First Financial ), a seller note with a face value of (the Aggieland Seller
+Note ), and cash totaling million. The 2020 Term Loan is secured by substantially all the Aggieland Assets, as well as guarantees
+from the Company and its subsidiaries. The 2020 Term Loan bears interest at a rate of per annum, has a maturity date of , and required interest only monthly payments through April 2021. The Aggieland Seller Note represented a deferred portion of the
+purchase price, bore no interest, matured on June 30, 2021, and was secured by a second priority subordinated lien and security interest
+in the acquired mineral rights and the animal inventory. The Company applied a 2.5 discount rate to determine a fair value of 
+for the Aggieland Seller Note as of April 27, 2020. 
+
+Cash
+ at closing 
+
+2020
+ Term Loan 
+
+Aggieland
+ Seller Note 
+
+Less
+ cash received 
+
+Total
+ consideration 
+
+Property
+ and equipment 
+
+Deferred
+ revenue 
+
+Total
+ net assets acquired 
+
+The
+purchase price has been allocated based on the estimated fair value of assets acquired and liabilities assumed as
+of the acquisition date. The determination of estimated fair value requires management to make significant estimates and assumptions. 
+
+The
+following table presents supplemental pro forma information for the year ended September 27, 2020 as if the acquisition had occurred
+at the beginning of the Company s 2020 fiscal year. The unaudited pro forma information includes adjustments for depreciation expense
+on property and equipment acquired, interest expense on debt incurred related to the acquisition, and the related income tax effects,
+as well as the elimination of property and equipment impairment charges recorded by Aggieland Safari prior to the acquisition. The pro
+forma financial information is not necessarily indicative of the results of operations that would have occurred had the transaction been
+effected at the beginning of the Company s 2020 fiscal year. 
+
+Net
+ income 
+
+Income
+ per share - basic and diluted 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ October
+3, 2021 
+
+million (the 2021 Term Loan ). The bears interest at a rate of per annum
+and is of approximately , based on a seven-year amortization period. The 2021 Term Loan has a
+maturity date of . The 2021 Term Loan is secured by a security deed on the assets of Wild Animal Georgia. The Company
+paid a total of approximately in fees and expenses in connection with the 2021 Refinancing. The outstanding balance of the 2021
+Term Loan was million as of October 3, 2021. 
+
+On
+ , the Company, through its wholly owned subsidiary Wild Animal Georgia, completed a refinancing transaction (the
+ 2018 Refinancing with Synovus. The 2018 Refinancing included a term loan in the original principal amount of million
+(the ). The 2018 Term Loan had an interest rate of per annum and was of
+approximately , based on a seven-year amortization period. The 2018 Term Loan had a maturity date of , with an option
+to renew at 5.0 per annum for an additional 49-month term. The 2018 Term Loan was secured by a The Company paid a total of approximately in fees and expenses in connection with the 2018 Refinancing. The
+2021 Term Loan replaced the Company s 2018 Term Loan with Synovus, which had an outstanding balance of million, which was
+paid off with the proceeds of the 2021 Term Loan. 
+
+On
+April
+27, 2020 , the Company acquired
+Aggieland Wild Animal Texas, see NOTE 3. ACQUISITION , financing the transaction with the from First Financial and
+the Aggieland Seller Note. The 2020 Term Loan in the original principal amount of 
+ million from First Financial is
+ 
+ The 2020 Term Loan bears interest at a rate of
+ 
+ per annum, has a maturity date
+of April 27, 2031, and required interest only monthly payments through April 2021. The 2020 Term Loan requires monthly payments of approximately
+ 
+ beginning in May 2021. The Company
+paid a total of approximately 
+ in fees and expenses in connection
+with the 2020 Term Loan. On June
+30, 2021 , the Company used the
+incremental proceeds of the 2021 Term Loan, combined with additional funds, to paydown 
+ million against the 2020 Term Loan,
+which had an outstanding balance of 
+ million as of October 3, 2021.
+The Company was in compliance with the liquidity and annual debt coverage ratio financial covenants of the 2020 Term Loan as of September
+27, 2020 and October 3, 2021, and for the years then ended. 
+
+The
+Aggieland Seller Note represented a deferred portion of the Aggieland Wild Animal Texas purchase price, had a face value of ,
+bore no interest, matured on June 30, 2021, and was secured by a second priority subordinated lien and security interest in the acquired
+mineral rights and the animal inventory. The Company applied a 2.5 discount rate to determine a fair value of for the Aggieland
+Seller Note as of April 27, 2020, with the resulting discount amortized as interest expense over the period of the Aggieland
+Seller Note. On June 29, 2021, the Company paid off the Aggieland Seller Note. 
+
+As
+a result of the initial negative economic impacts and uncertainties caused by the COVID-19 pandemic, Wild Animal Georgia and
+Wild Animal Missouri each applied for Paycheck Protection Program PPP loans. On April 14, 2020 and , the Company received two PPP loans totaling . The PPP was established under the Coronavirus Aid, Relief, and
+Economic Security (CARES) Act, which was signed into law on March 27, 2020, and is administered by the U.S. Small Business Administration
+(the SBA ). The term of the PPP loans was two years, with an interest rate of per annum. All payments were deferred
+for the first twelve months of these PPP loans, with accrued interest being added to the principal during the payment deferral period.
+Under the terms of the CARES Act, some or all the PPP loan proceeds were eligible to be forgiven, based on use for specified purposes,
+subject to limitations and ongoing rulemaking by the SBA. The Company applied for forgiveness of the full amount of both the Wild Animal
+ Georgia and Wild Animal Missouri PPP loans in March 2021. Effective March 29, 2021 and May 25, 2021 the SBA approved
+the Forgiveness Applications for Wild Animal Georgia and Wild Animal Missouri, respectively, including forgiveness of
+accrued interest, resulting in a gain on extinguishment of debt totaling , during the year ended October 3, 2021. 
+
+Interest
+expense of and
+ for
+the years ended October 3, 2021 and September 27, 2020, respectively, includes 
+ and ,
+respectively, of debt financing costs amortization in each period. In addition, interest expense for the years ended October 3,
+2021 and September 27, 2020 includes 
+ and 
+ of loan discount amortization,
+respectively. 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ October
+3, 2021 
+
+ NOTE
+4. LONG-TERM DEBT (CONTINUED) 
+
+Less:
+ unamortized debt financing costs 
+
+Gross
+ long-term debt 
+
+Less
+ current portion of long-term debt, 
+
+net
+ of unamortized costs and discount 
+
+Long-term
+ debt 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+thereafter 
+
+Total 
+
+, the Company, through its wholly owned subsidiary Wild Animal Georgia, completed the .
+The 2018 Refinancing included a line of credit of up to (the 2018 LOC ). The 2018 LOC was scheduled to mature , with an option to renew for an additional . On , the Company, through its wholly owned subsidiary
+Wild Animal Georgia, completed the 2021 Refinancing with Synovus, which in part replaced the 2018 LOC. The Company elected to
+not renew the 2018 LOC, which had never been utilized. 
+
+, to be paid all in shares of the Company s common stock, all in cash or a combination thereof, at
+each Director s election. Four Directors elected to receive all shares, one Director elected to receive 50 in shares and 50 in
+cash, and one Director elected all cash. Based on the closing stock price of per share on December 18, 2020, a total of 
+shares were distributed on January 11, 2021. The total compensation award cost of was reported as an expense in the three month
+period ended January 3, 2021. 
+
+, to be paid all in shares of the Company s common stock, all in cash or a combination thereof, at each
+Director s election. All four Directors elected to receive all shares, totaling shares, based on the closing stock price
+of per share on December 5, 2019, and the Company distributed each award on January 8, 2020. The total award cost of was
+reported as an expense in the three month period ended December 29, 2019. 
+
+Officers,
+Directors and their controlled entities own approximately of the outstanding common stock of the Company as of October 3, 2021. 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ October
+3, 2021 
+
+, the (the 2020 Van Voorhis Employment Agreement ). Pursuant to the 2020 Van Voorhis Employment Agreement, Mr. Van Voorhis
+receives an initial base annual compensation in the amount of per year, subject to annual review by the Board of Directors.
+The 2020 Van Voorhis Employment Agreement has a term of and entitles Mr. Van Voorhis to participate in any deferred compensation
+plan the Company may adopt during the term of his employment with the Company. 
+
+Effective
+as of , the 
+(the 2019 White Employment Agreement ). The 2019 White Employment Agreement has a term of , with minimum annual
+compensation of in year one, in year two and in year three. Effective January 1, 2021, Mr. White s annual
+compensation was changed to . Mr. White is entitled to participate in any deferred compensation plan the Company may adopt during
+the term of his employment with the Company. 
+
+Effective
+as of , the (the Newman Employment Agreement to serve as the Company s Vice President of Safari Operations. Mr. Newman had been the general manager of Wild Animal Georgia
+since February 2011. Pursuant to the Newman Employment Agreement, Mr. Newman received an initial base annual compensation of 
+per year, subject to annual review by the Board of Directors. Mr. Newman also received a signing bonus. Effective as of May 1,
+2020, Mr. Newman s annual compensation was changed to . The Newman Employment Agreement had a term of and entitled
+Mr. Newman to participate in any deferred compensation plan the Company may adopt during the term of his employment with the Company.
+Effective October 31, 2021, Mr. Newman resigned his employment with the Company. 
+
+As
+of October 3, 2021, the Company has not adopted any deferred compensation plans. Each of the foregoing employment agreements contains
+provisions for severance compensation in the event an agreement is (i) terminated early by the Company without cause in aggregate)
+or (ii) in the event of a change in control of the Company in aggregate), as well as disability and death payment provisions in aggregate). 
+
+million and million, respectively.
+The Company s provision for income taxes consists of the following: 
+
+State 
+
+Total
+ tax provision 
+
+The
+Company s provision for Federal income tax consists of the following: 
+
+State
+ tax benefit 
+
+PPP
+ loan forgiveness benefit 
+ 
+ - 
+ 
+ Other 
+
+Net
+ provision for Federal income taxes 
+
+For
+the fiscal years ended October 3, 2021 and September 27, 2020, the Company recorded a provision for State of Georgia income taxes of
+ and , respectively. 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ October
+3, 2021 
+
+of life insurance for Mr. Meikle, who passed away on November 28, 2018. The Complaint
+seeks damages of , as well as interest and expenses. The Company denies it was obligated to purchase such life insurance and
+has raised other issues it believes are adverse to this claim. The Company is vigorously opposing this claim. 
+
+On
+May 21, 2019, the Company s Missouri Park was struck by a tornado and sustained property damage, primarily to the walk about ,
+the more traditional zoo-like section of the park, as well as to several auxiliary buildings. The park was closed at the time of this
+event and no employees were injured. While a few animals sustained non-life threatening injuries, no animals were killed or escaped. 
+
+As
+a result of the tornado damage, through September 29, 2019, the Company had written-off related to the net book value of property
+destroyed and damaged, and incurred of cleanup and repair expenses. Through September 29, 2019, the Company had capitalized 
+of expenditures related to improvements associated with the tornado damage. The Company capitalized an additional of improvements
+associated with the tornado damage during the year ended September 27, 2020. On April 15, 2020, the Company received of insurance
+proceeds, partially offsetting the costs and expenses incurred in the recovery from the tornado damage. 
+
+Except
+as described above, the Company is not a party to any pending legal proceeding, nor is its property the subject of a pending legal proceeding,
+that is not in the ordinary course of business or otherwise material to the financial condition of its business. None of the Company s
+directors, officers or affiliates is involved in a proceeding adverse to its business or has a material interest adverse to its business. 
+
+Missouri 
+
+Texas 
+
+Consolidated 
+
+Total
+ net sales 
+
+Income
+ (loss) before income taxes: 
+
+Georgia 
+
+Missouri 
+
+Texas 
+
+Segment
+ total 
+
+Corporate 
+
+Other
+ income, net 
+
+Gain
+ on extinguishment of debt 
+ 
+ - 
+ 
+ Interest
+ expense 
+
+Consolidated 
+
+Income before income taxes 
+
+PARKS!
+AMERICA, INC. and SUBSIDIARIES 
+
+ NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ October
+3, 2021 
+
+NOTE
+10. BUSINESS SEGMENTS (CONTINUED) 
+
+October
+ 3, 2021 
+ September
+ 27, 2020 
+
+For
+ the year ended 
+
+October
+ 3, 2021 
+ September
+ 27, 2020 
+ 
+ Depreciation
+ and amortization: 
+
+Georgia 
+
+Missouri 
+
+Texas 
+
+Corporate 
+
+Consolidated 
+
+Depreciation
+ and amortization 
+
+Capital
+ expenditures 
+
+Georgia 
+
+Missouri 
+
+Texas 
+
+Consolidated 
+
+Capital
+ expenditures 
+
+October
+ 3, 2021 
+ September
+ 27, 2020 
+
+As
+ of 
+
+October
+ 3, 2021 
+ September
+ 27, 2020 
+ 
+ Total
+ assets: 
+
+Georgia 
+
+Missouri 
+
+Texas 
+
+Corporate 
+
+Consolidated 
+
+Total
+ assets 
+
+F- 18 
+
+<EX-21.1>
+ 2
+ ex21-1.htm
+
+Exhibit 21.1 
+
+SUBSIDIARIES OF PARKS! AMERICA, INC. 
+
+1. 
+ Wild Animal Safari, Inc., a Georgia corporation, wholly owned by Parks! America, Inc. 
+
+2. 
+ Wild Animal, Inc., a Missouri corporation, wholly owned by Parks! America, Inc. 
+
+3. 
+ Aggieland-Parks, Inc., a Texas corporation, wholly owned by Parks! America, Inc. 
+
+</EX-21.1>
+
+<EX-23.1>
+ 3
+ ex23-1.htm
+
+Exhibit 23.1 
+
+GBQ Partners LLC 
+
+ Phone 614.221.1120 
+
+ 230 West Street, Suite 700 
+
+ Columbus, OH 43215 
+
+ www.gbq.com 
+
+December 9, 2021 
+
+To the Board of Directors 
+
+ Parks! America, Inc. 
+
+ Pine Mountain, Georgia 
+
+Consent Of Independent Registered Public Accounting
+Firm 
+
+We hereby consent to the use in the Form 10-K for
+the year ended October 3, 2021, pursuant to Section 13 or 15(d) of the Securities Act of 1934, filed by Parks! America, Inc. of our report
+(the Report dated December 9, 2021, relating to the consolidated financial statements of Parks! America, Inc. and Subsidiaries
+as of and for the years ended October 3, 2021 and September 27, 2020. 
+
+/s/ GBQ Partners LLC 
+
+GBQ Partners LLC 
+
+Columbus, Ohio 
+
+December 9, 2021 
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ ex31-1.htm
+
+Exhibit 31.1 
+
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+
+ PURSUANT TO RULES 13a-14(a)/15d-14(a) 
+
+ UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED 
+
+I, Dale Van Voorhis, certify that: 
+
+1. 
+ I have reviewed this Annual Report on Form 10-K of Parks! America, Inc. (the registrant for the year ended October 3, 2021; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: December 9, 2021 
+
+/s/ Dale Van Voorhis 
+
+Dale Van Voorhis 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Parks! America, Inc. 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ ex31-2.htm
+
+Exhibit 31.2 
+
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+
+ PURSUANT TO RULES 13a-14(a)/15d-14(a) 
+
+ UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED 
+
+I, Todd R. White, certify that: 
+
+1. 
+ I have reviewed this Annual Report on Form 10-K of Parks! America, Inc. (the registrant for the year ended October 3, 2021; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: December 9, 2021 
+
+/s/ Todd R. White 
+
+Todd R. White 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+Parks! America, Inc. 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ ex32-1.htm
+
+Exhibit 32.1 
+
+CERTIFICATIONS 
+
+ PURSUANT TO 18 U.S.C SECTION 1350 AS ADOPTED PURSUANT
+TO SECTION 906 
+
+ OF THE SARBANES-OXLEY ACT OF 2002 
+
+Pursuant to 18 U.S.C. Section 1350 as adopted pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002, each of the undersigned officers of Parks! America, Inc. (the Company ),
+does hereby certify, to such officer s knowledge, that: 
+
+The Annual Report on Form 10-K for the year ended
+October 3, 2021 (the Form 10-K of the Company fully complies with the requirement of section 13(a) or 15(d) of the Securities
+Exchange Act of 1934 and the information contained in the Form 10-K fairly presents, in all material respects, the financial condition
+and results of operations of the Company. 
+
+Dated: December 9, 2021 
+
+/s/ Dale Van Voorhis 
+
+Dale Van Voorhis 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Parks! America, Inc. 
+
+Dated: December 9, 2021 
+
+/s/ Todd R. White 
+
+Todd R. White 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+Parks! America, Inc. 
+
+A signed original of this written statement required
+by Section 906 has been provided to Parks! America, Inc. and will be retained by Parks! America, Inc. and furnished to the Securities
+and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 9
+ prka-20211003.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ prka-20211003_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ prka-20211003_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ prka-20211003_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

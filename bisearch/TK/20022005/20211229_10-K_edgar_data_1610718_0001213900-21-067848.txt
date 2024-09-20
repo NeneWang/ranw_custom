@@ -1,0 +1,2710 @@
+<Header>
+<FileStats>
+    <FileName>20211229_10-K_edgar_data_1610718_0001213900-21-067848.txt</FileName>
+    <GrossFileSize>399967</GrossFileSize>
+    <NetFileSize>105732</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>265672</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-21-067848.hdr.sgml : 20211229
+<ACCEPTANCE-DATETIME>20211229125335
+ACCESSION NUMBER:		0001213900-21-067848
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211229
+DATE AS OF CHANGE:		20211229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Outdoor Specialty Products, Inc.
+		CENTRAL INDEX KEY:			0001610718
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3949]
+		IRS NUMBER:				464854952
+		STATE OF INCORPORATION:			UT
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56301
+		FILM NUMBER:		211527748
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3842 QUAIL HOLLOW DRIVE
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84109
+		BUSINESS PHONE:		801-560-5184
+
+	MAIL ADDRESS:	
+		STREET 1:		3842 QUAIL HOLLOW DRIVE
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84109
+
+</SEC-Header>
+</Header>
+
+ 0001213900-21-067848.txt : 20211229
+
+10-K
+ 1
+ f10k2021_outdoorspecialty.htm
+ ANNUAL REPORT
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ WASHINGTON,
+D.C. 20549 
+
+Form
+10-K 
+
+(Mark
+One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended September 30, 2021 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from _______________ to _______________ 
+
+Commission
+file number 0-18958 
+
+OUTDOOR
+SPECIALTY PRODUCTS, INC. 
+
+ (Exact
+name of registrant as specified in charter) 
+
+NEVADA 
+ 
+ 46-4854952 
+ 
+ (State
+ or other jurisdiction of incorporation or organization) 
+ 
+ (IRS
+ Employer Identification No.) 
+
+3842
+ Quail Hollow Drive, Salt Lake City, Utah 
+ 
+ 84109 
+ 
+ (Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+Registrant s
+telephone number, including area code: 801) 560-5184 
+
+Securities
+registered under Section 12(b) of the Act: None 
+
+Securities
+registered under Section 12(g) of the Exchange Act: 
+
+Common
+Stock, 0.001 Par Value 
+
+ (Title
+of Class) 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No 
+
+Note
+ Checking the box above will not relieve any registrant required to file reports pursuant to Section 13 or 15(d) of the Exchange
+Act from their obligations under those Sections. 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit and post such files). Yes No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+Non-accelerated
+ filer 
+ 
+ Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of 
+the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b))
+by the registered public accounting firm that prepared or issued its audit report 
+
+Indicate
+by check mark whether the issuer is a shell company (as defined in rule 12b-2 of the Exchange Act).
+Yes No 
+
+State
+the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which
+the common equity was sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s
+most recently completed second fiscal quarter. 
+
+As
+of March 31, 2021, the last day of our most recently completed second fiscal quarter, based on the 0.35 price at which the common equity
+was sold in our private placement of securities in 2014, the aggregate market value of the 274,318 shares held by non-affiliates was
+approximately 96,011. 
+
+APPLICABLE
+ONLY TO REGISTRANTS INVOLVED IN BANKRUPTCY 
+
+ PROCEEDINGS
+DURING THE PRECEDING FIVE YEARS 
+
+Indicate
+by check mark whether the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the
+Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court.
+Yes No 
+
+(APPLICABLE
+ONLY TO CORPORATE REGISTRANTS) 
+
+ Indicate
+the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date. 
+
+As
+of December 21, 2021, there were 5,284,318 shares of the issuer s common stock outstanding. 
+
+DOCUMENTS
+INCORPORATED BY REFERENCE 
+
+List
+hereunder the following documents if incorporated by reference and the part of the Form 10-K (e.g., Part I, Part II, etc.) into which
+the document is incorporated: (1) Any annual report to security holders; (2) Any proxy or information statement; and (3) Any prospectus
+filed pursuant to Rule 424(b) or (c) under the Securities Act of 1933. The listed documents should be clearly described for identification
+purposes (e.g., annual report to security holders for fiscal year ended December 24, 1980). 
+
+None. 
+
+OUTDOOR
+SPECIALTY PRODUCTS, INC. 
+
+TABLE
+OF CONTENTS TO ANNUAL REPORT ON FORM 10-K 
+
+YEAR
+ENDED SEPTEMBER 30, 2021 
+
+PAGE 
+
+PART I 
+
+Item
+ 1. 
+ Business 
+ 1 
+ 
+ Item
+ 1A. 
+ Risk Factors 
+ 4 
+ 
+ Item
+ 1B. 
+ Unresolved Staff Comments 
+ 4 
+ 
+ Item
+ 2. 
+ Properties 
+ 4 
+ 
+ Item
+ 3. 
+ Legal Proceedings 
+ 4 
+ 
+ Item
+ 4. 
+ Mine Safety Disclosures 
+ 4 
+
+PART II 
+
+Item
+ 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 5 
+ 
+ Item
+ 6. 
+ [Reserved] 
+ 6 
+ 
+ Item
+ 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 6 
+ 
+ Item
+ 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 10 
+ 
+ Item
+ 8. 
+ Financial Statements and Supplementary Data 
+ 10 
+ 
+ Item
+ 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 10 
+
+Item
+ 9A. 
+ Controls and Procedures 
+ 10 
+ 
+ Item
+ 9B. 
+ Other Information 
+ 11 
+ 
+ Item
+ 9C. 
+ Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ 11 
+
+PART III 
+
+Item
+ 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 11 
+ 
+ Item
+ 11. 
+ Executive Compensation 
+ 12 
+ 
+ Item
+ 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 12 
+
+Item
+ 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 13 
+ 
+ Item
+ 14. 
+ Principal Accountant Fees and Services 
+ 14 
+ 
+ Item
+ 15. 
+ Exhibit and Financial Statement Schedules 
+ 14 
+ 
+ Item
+ 16. 
+ Form 10-K Summary 
+ 15 
+
+SIGNATURES 
+ 16 
+
+i 
+
+SPECIAL
+NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+Certain
+statements and information in this report on Form 10-K may constitute forward-looking statements. The words believe , may ,
+ potentially , estimate , continue , anticipate , intend , could , would , project , plan ,
+ expect and similar expressions that convey uncertainty of future events or outcomes are intended to identify forward-looking statements.
+These statements involve known and unknown risks, uncertainties and other important factors that may cause our actual results, performance
+or achievements to be materially different from any future results, performances or achievements expressed or implied by the forward-looking
+statements. These forward-looking statements include, but are not limited to, statements concerning the following: 
+
+our
+ future financial and operating results; 
+
+our
+ business strategy; 
+
+our
+ intentions, expectations and beliefs regarding anticipated growth, market penetration and
+ trends in our business; 
+
+the
+ effects of market conditions on our stock price and operating results; 
+
+our
+ ability to maintain our competitive technological advantages against competitors in our industry; 
+
+our
+ ability to timely and effectively adapt our existing technology and have our technology solutions
+ gain market acceptance; 
+
+our
+ ability to introduce new products and bring them to market in a timely manner; 
+
+our
+ ability to maintain, protect and enhance our intellectual property; 
+
+the
+ effects of increased competition in our market and our ability to compete effectively; 
+
+costs
+ associated with defending intellectual property infringement and other claims; 
+
+our
+ expectations concerning our relationships with customers and other third parties; 
+
+the
+ impact of outbreaks, and threat or perceived threat of outbreaks, of epidemics and pandemics,
+ including, without limitation, the coronavirus outbreak, on our sourcing and manufacturing
+ operations as well as consumer spending; 
+
+risks
+ associated with sourcing and manufacturing; and 
+
+our
+ ability to comply with evolving legal standards and regulations, particularly concerning
+ requirements for being a public company and United States export regulations. 
+
+These
+forward-looking statements speak only as of the date of this Form 10-K and are subject to uncertainties, assumptions, and business and
+economic risks. As such, our actual results could differ materially from those set forth in the forward-looking statements. Moreover,
+we operate in a competitive and changing environment, and new risks emerge from time to time. It is not possible for us to predict all
+risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may
+cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks,
+uncertainties and assumptions, the forward-looking events and circumstances discussed in this Form 10-K may not occur, and actual results
+could differ materially and adversely from those anticipated or implied in our forward-looking statements. 
+
+You
+should not rely upon forward-looking statements as predictions of future events. Although we believe that the expectations reflected
+in our forward-looking statements are reasonable, we cannot guarantee that the future results, levels of activity, performance or events
+and circumstances described in the forward-looking statements will be achieved or occur. Moreover, neither we nor any other person assumes
+responsibility for the accuracy and completeness of the forward-looking statements. We undertake no obligation to update publicly any
+forward-looking statements for any reason after the date of this Form 10-K to conform these statements to actual results or to changes
+in our expectations, except as required by law. 
+
+You
+should read this Report on Form 10-K and the documents that we have filed with the SEC as exhibits hereto with the understanding that
+our actual future results and circumstances may be materially different from what we expect. 
+
+ii 
+
+PART
+I 
+
+Item
+1. Business 
+
+Corporate
+History 
+
+Outdoor
+Specialty Products, Inc. (the Company, we, or us was originally incorporated in the state
+of Utah on January 31, 2014, and changed its domicile to the state of Nevada on February 24, 2021. The Company is and has since its inception
+been engaged in the business of developing, selling, and marketing products in niche markets within the specialty outdoor products marketplace.
+We introduced our proprietary Reel Guard product in 2014 and continue to offer it to customers. We intend to commence manufacturing,
+marketing, and selling our new SLINKOR product in the near future, pursuant to a license agreement entered into with the
+inventor in May 2021. We have no subsidiaries 
+
+The
+Reel Guard 
+
+The
+Reel Guard is designed to protect fishing reels from scratching, scuffing, dents, and other damage due to dropping, resting on gravel
+while servicing the line, being transported with other fishing and outdoor equipment, and general wear and tear. To date, the primary
+application for the Reel Guard has been fly fishing reels, but we believe the Reel Guard may also be suitable for use with some deep-sea
+fishing reels. The Reel Guard consists of a thin, rubberized material that is attached to the outer edges of a fishing reel using special
+adhesive strips that hold the material in place but provide for easy removal with no damage to the reel. The Reel Guard is designed for
+reels with up to a 4.25-inch diameter that have square to slightly rounded edges, and the custom installation procedure makes the Reel
+Guard suitable for a variety of different reels. The Reel Guard was invented by Kirk Blosch, the Company s founder and president,
+in 2014 to fill a need that he believed was not being met by existing products. We filed for and obtained a provisional patent for the
+Reel Guard in 2014 under the name Reel Bumper Guard and U.S. Patent No. 9,872,485 for the device was issued on January
+23, 2018. We recently paid the first (fourth year) maintenance fee for the Reel Guard patent in the amount of 985 to prevent the patent
+from lapsing. The next maintenance fee will be due on or before July 23, 2025. 
+
+The
+SLINKOR 
+
+We
+entered into a License and Royalty Agreement (the License Agreement ), dated as of May 4, 2021, with Stephen Smith (the
+ Licensor ), for another fishing product referred to as the SLINKOR. The SLINKOR is a slow sinking fishing
+sinker comprised of a smooth, egg-shaped piece of pre-molded foam with lead weights compressed into each end using a guide wire that
+aligns the weights and allows a fishing line to be threaded through the product. The buoyancy of the foam coupled with the calibrated
+weight of the lead and the movement of the water causes the SLINKOR to sink slowly to the bottom of a lake or river allowing the fisherman
+to control the desired depth for the bait. The SLINKOR is designed for use with flies, spinners, flatfish, and other types of bait and
+the weight of the SLINKOR permits the fisherman to make longer casts. The smooth egg shape of the SLINKOR is designed to let it slide
+along the bottom of the lake or river while resting on top of moss or bouncing over rocks and greatly reducing snags. The device permits
+a fisherman to run his line through the SLINKOR, attach a swivel, and run 18 to 30 inches of leader from the swivel to the bait based
+on the current water conditions, the desired depth, and the presence or absence of moss, rocks, and other obstacles. The SLINKOR will
+be available in two sizes; the large SLINKOR is 2 inches long and 1 inches wide and the small SLINKOR is 1 inches long
+by 1 inches wide. 
+
+The
+License Agreement generally grants us the non-exclusive, world-wide right to use and apply the SLINKOR technology and any intellectual
+property rights thereto and to make, have made, use, lease, sell, market, or otherwise dispose of the SLINKOR in all markets throughout
+the world, and the exclusive right to market, sell or otherwise dispose of the SLINKOR in e-commerce markets throughout the world. The
+License Agreement reserves to the Licensor the non-exclusive right to continue to manufacture and sell the SLINKOR in stores, at trade
+shows, and in other brick and mortar physical locations and to purchase completed SLINKOR products from us (to the extent available)
+at our cost plus 10 . In consideration for the rights granted under the License Agreement, we paid the Licensor a one-time license fee
+in the amount of 500 and agreed to pay the Licensor the following royalties based on our net revenue from sales of the SLINKOR: (i)
+20 of net revenue from product sales up to 1 Million, (ii) 15 of net revenue from product sales between 1 Million and 3 Million,
+and (iii) 10 of net revenue from product sales in excess of 3 Million. We did not pay any royalties to the Licensor during the 2021
+fiscal year. This summary description of the License Agreement is qualified in its entirety by reference to the License Agreement, a
+copy of which is filed as an exhibit to this report. 
+
+1 
+
+Manufacturing 
+
+We
+own our custom injection mold for the Reel Guard, and we contract with a third party to manufacture the Reel Guard in minimum lots of
+1,000 on an as needed basis. The adhesive strips used to attach the Reel Guard to the reel are manufactured by a national adhesives manufacturing
+company and custom ordered in pre-cut lengths from a local distributor in minimum lots of 1,000. We contract with another third party
+to print the Reel Guard product information card and package the Reel Guard product in sale-ready packages. Our Reel Guard inventory
+consists of both the raw material adhesive strips and the finished, packaged product units. For the years ended September 30, 2021 and
+2020, respectively, we had on hand 2,088 and 2,106 in finished goods and 2,596 and 2,596 in raw materials. 
+
+We
+intend to manufacture the SLINKOR at the residence of our president or in a small warehouse space that may be leased from a third party
+subject to availability and acceptable rental rates. We will acquire raw materials consisting of the egg-shaped foam pieces and lead
+weights and will use a custom hand press and a guide wire to compress the lead weights onto each end of the SLINKOR. We plan to use our
+existing printing and packaging contractor to print the SLINKOR product information and package the SLINKOR in sale-ready packages. We
+intend to manufacture an initial run of 1,000 SLINKOR units and to manufacture additional quantities as needed to meet demand. 
+
+We
+maintain an inventory of products which we believe is sufficient to meet demand. If we should underestimate sales and fail to timely
+manufacture additional quantities of our products, we could face delays in providing our products to our customers which could have a
+negative effect on our reputation and result in a decline in our product sales. If we should overestimate sales, we will have invested
+our capital in products that remain in inventory, which will have a negative effect on our financial condition and results of operations.
+No assurances can be given that we will be able to accurately predict sales and maintain an optimal level of inventory in our system. 
+
+Although
+we have purchased substantially all inventories from one supplier and have been dependent on this supplier for all inventory purchases
+since we commenced operations, we believe the raw materials for both the Reel Guard and the SLINKOR are available for purchase from several
+different sources in the open market. We also believe there are several other manufacturing, printing, and packaging services capable
+of performing the services provided by our current contractors at competitive prices. Our ability to timely obtain raw materials and
+finished goods may be affected by events beyond our control, such as the inability of suppliers to timely deliver materials due to work
+stoppages or slowdowns, or significant weather and health conditions (such as COVID-19). Any adverse change in our supply chain and manufacturing,
+such as our relationship with our third-party contractors, the financial condition of such contractors, and their ability to provide
+supplies and services to us on a timely basis could have a material adverse effect on our business, results of operations, and financial
+condition. 
+
+Marketing
+/ Shipping 
+
+We
+currently market and sell the Reel Guard through our website at outdoorspecialtyproducts.com , where we also provide
+access to marketing materials, instructional videos, and installation instructions. We also list the Reel Guard for sale on eBay. To
+date we have sold the Reel Guard to residents of approximately 25 states and have made one sale outside the U.S. to a resident of Hungary. 
+
+We
+intend to market the SLINKOR on our website and to expand our website to include marketing materials and SLINKOR instructional videos
+created by the Licensor. 
+
+Our
+business is affected by seasonality, which historically has resulted in higher sales volume during the spring and summer months. 
+
+2 
+
+We
+currently only accept PayPal as the method of payment for our products. Our products are shipped via U.S. Mail promptly following confirmation
+from PayPal that payment for an order has been received. Shipping is included in the product price and a customer pays no additional
+shipping charges. 
+
+Other
+Products 
+
+We
+have taken initial steps toward the development of a what we believe to be a unique fishing rod product that involves the ability to
+attach different upper fly rod portions of varying lengths and weights to a single rod butt handle that results in a light weight, multi-purpose
+fly rod. We have conducted preliminary research regarding the patentability of the proposed product and believe we may be able to obtain
+patent protection for the product, although no assurances can be given that the product will be developed or that patent protection will
+be obtained. We have halted our efforts regarding the development of this new product until such time as we have sufficient capital on
+hand to proceed with its development. 
+
+We
+were formed with the belief that there is an underserved marketplace in the outdoor sporting goods space which can be exploited from
+multiple fronts. In addition to the Reel Guard and the SLINKOR, we intend to investigate opportunities to develop additional products
+and to market third party products in the outdoor sporting goods space on our website. 
+
+Intellectual
+Property 
+
+We
+hold a U.S. patent on our Reel Guard. We do not hold patents on any other products, and we do not currently hold any trademarks. No assurance
+can be given that our patent will provide sufficient protection against potential competitors and we may be unable to successfully assert
+our intellectual property rights, or these rights may be invalidated, circumvented, or challenged. Any such inability or a successful
+intellectual property challenge or infringement proceeding against us, could have a material adverse effect on our business. 
+
+Facilities 
+
+Our
+operations are currently conducted from at the residence of our president. Our facilities are furnished to us at no cost and consist
+of the shared use of approximately 500 square feet of office space and assembly/storage space. In connection with the commencement of
+manufacturing of the SLINKOR, we are investigating the desirability of leasing a small assembly, storage, and office space from a third
+party. 
+
+Competition 
+
+The
+outdoor specialty products industry is intensely competitive with respect to price, quality, features, and durability, and it is often
+difficult to entice customers to try a new product. Many of our competitors are well-established companies with name brand recognition
+and almost all our competitors have substantially greater financial and other resources than do we. Such competitors include many national
+and regional companies and most of our competitors have been in existence for a substantially longer period than have we and are better
+established. As such, there can be no assurance that we will be able to compete effectively in our chosen market. In addition, a change
+in the pricing, marketing, or promotional strategies or product mix of one or more of these competitors could have a material adverse
+impact on our sales and earnings. 
+
+Government
+Regulation 
+
+Our
+operations are subject to numerous federal, state, and local government regulations. The failure to comply with such requirements or
+increase in the cost of compliance could adversely affect our operations. We are also subject to federal and state environmental regulations,
+but these have not had a material effect on our operations to date. Our operations are also subject to federal and state laws governing
+such matters as wages, working conditions, citizenship requirements, and overtime. 
+
+3 
+
+Employees
+and Consultants 
+
+We
+do not currently have any employees other than our founder and president. The loss of our president, would have a material adverse impact
+on our business and there is no assurance that we could locate a qualified replacement. We have not entered into an employment agreement
+with our president and we do not carry key man life insurance on his life. 
+
+Financing 
+
+Following
+our incorporation in 2014, we completed the private placement of 285,714 shares of our common stock to accredited investors in a private
+placement at a price of 0.35 per share for total proceeds of 100,011. The proceeds from the private placement together with our limited
+product sales were sufficient to fund our operations through our fiscal year ended September 30, 2020. On January 4, 2021, we entered
+into a revolving promissory note agreement with our president and principal stockholder which provided for total loans of up to 40,000
+at an interest rate 3.5 per annum, which was repayable on or before December 31, 2021. As of September 30, 2021, we had borrowed an
+aggregate principal amount of 30,250 under this revolving loan, no repayments had been made, and the accrued interest on the borrowed
+funds was 409. During December 2021, we amended the revolving promissory note agreement to extend the maturity date to June 30, 2022,
+and we entered into a new revolving promissory note agreement with another principal stockholder providing for loans of up to 7,000
+at an interest rate of 3.5 per annum, which is repayable on or before June 30, 2022. During December 2021, we borrowed an aggregate
+principal amount of 5,294 under the second revolving loan agreement. 
+
+Item
+1A. Risk Factors 
+
+Not
+Applicable. The Company is a smaller reporting company. 
+
+Item
+1B. Unresolved Staff Comments. 
+
+Not
+Applicable. The Company is a smaller reporting company. 
+
+Item
+2. Properties. 
+
+Our
+principal office is located at the residence of our President, Kirk Blosch, 3842 Quail Hollow Drive, Salt Lake City, UT 84109, and such
+space is provided to us on a rent-free basis. The Company believes that the office facilities are sufficient for the foreseeable
+future, although we are investigating the desirability of leasing a small assembly, storage, and office space from a third party. 
+
+Item
+3. Legal Proceedings. 
+
+The
+Company is not a party to any material legal proceedings, and to our knowledge, no such legal proceedings have been threatened against
+us. 
+
+Item
+4. Mine Safety Disclosures. 
+
+Not
+Applicable. 
+
+4 
+
+Part
+II 
+
+Item
+5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+Market
+Information 
+
+Our
+common stock is currently quoted on the OTC PINK tier of the OTC Markets Group under the symbol ODRS. However, quotations
+for the stock during the 2021 and 2020 years were limited and sporadic and there currently is no established trading market for our common
+stock. 
+
+The
+following table sets forth, for the periods indicated, the high and low bid prices per share of common stock as set forth in the OTC
+Market Report. The below quotations represent inter-dealer prices without retail mark-up, mark-down, or commission and may not necessarily
+represent actual transactions. 
+
+Price Range 
+ 
+ Period 
+ High 
+ Low 
+ 
+ Year Ending September 30, 2021 
+
+First Quarter 
+ 1.75 
+ 1.75 
+ 
+ Second Quarter 
+ 1.75 
+ 1.75 
+ 
+ Third Quarter 
+ 1.75 
+ 1.75 
+ 
+ Fourth Quarter 
+ 1.75 
+ 1.75 
+ 
+ Year Ended September 30, 2020: 
+
+First Quarter 
+ 0.00 
+ 0.00 
+ 
+ Second Quarter 
+ 0.00 
+ 0.00 
+ 
+ Third Quarter 
+ 0.0005 
+ 0.00 
+ 
+ Fourth Quarter 
+ 1.75 
+ 0.00 
+
+As
+of December 21, 2021, our shares of common stock were held by 68 stockholders of record as reported by our transfer agent. 
+
+Dividends 
+
+Holders
+of our common stock are entitled to dividends when, as, and if declared by our Board of Directors, out of funds legally available, therefore.
+We have never declared cash dividends on our common stock and our Board of Directors does not anticipate paying cash dividends in the
+foreseeable future as it intends to retain any future earnings to finance the growth of our business. There are no restrictions in our
+articles of incorporation or bylaws that restrict us from declaring dividends. 
+
+Securities
+Authorized for Issuance Under Equity Compensation Plans 
+
+As
+of the end of the latest fiscal year ended September 30, 2021, the only compensation plans (including individual compensation arrangements)
+under which our equity securities were authorized for issuance was our 2021 Stock Incentive Plan, adopted on February 8, 2021, which
+authorizes the issuance of up to 1,000,000 shares of our common stock in awards granted as incentive or non-statutory stock options,
+restricted stock units, stock appreciation rights, or restricted stock grants. The 10-year plan is administered by our Board of Directors.
+No awards have been made under the plan to date. 
+
+Special
+Sales Practice Requirements with Regard to Penny Stocks 
+
+In
+order to protect investors from patterns of fraud and abuse that have occurred in the market for low priced securities commonly referred
+to as penny stocks, the SEC has adopted regulations that generally define a penny stock to be any equity
+security having a market price (as defined) less than 5.00 per share, or an exercise price of less than 5.00 per share, subject to
+certain exceptions. The price of our stock is currently below 5.00 per share and our stock is subject to the penny stock 
+regulations. As a result, broker-dealers selling our common stock are subject to additional sales practices when they sell our stock
+to persons other than established clients and accredited investors. For transactions covered by these rules, before the
+transaction is executed, the broker-dealer must make a special customer suitability determination, receive the purchaser s written
+consent to the transaction and deliver a risk disclosure document relating to the penny stock market. The broker-dealer must also disclose
+the commission payable to both the broker-dealer and the registered representative taking the order, current quotations for the securities
+and, if applicable, the fact that the broker-dealer is the sole market maker and the broker-dealer s presumed control over the
+market. Monthly statements must be sent disclosing recent price information for the penny stock held in the account and information on
+the limited market in penny stocks. Such penny stock rules may restrict trading in our common stock and may deter broker-dealers
+from effecting transactions in our common stock. 
+
+5 
+
+Transfer
+Agent 
+
+The
+transfer agent of our common stock is Action Stock Transfer Corporation, 2469 Fort Union Blvd #214, Cottonwood Heights, UT 84121; telephone
+(801) 274-1088. 
+
+Recent
+Sales of Unregistered Securities 
+
+During
+the three months ended September 30, 2021, we did not sell any unregistered securities. No sales of unregistered securities were made
+by us within the past two years. 
+
+Issuer
+Purchases of Equity Securities 
+
+We
+have not adopted a stock repurchase plan and, except as described below, we did not purchase any shares of our equity securities during
+our 2021 fiscal year. In connection with our change of domicile to the State of Nevada through the merger of the Utah corporation into
+a Nevada corporation in February 2021, we repurchased 1,429 shares of our common stock from a shareholder for 500 upon the shareholders 
+exercise of dissenters rights, which shares were cancelled and returned to the status of authorized and unissued shares. 
+
+Item
+6. Reserved. 
+
+Item
+7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+You
+should read the following discussion in conjunction with our financial statements, which are included elsewhere in this report. 
+
+The
+following discussion contains forward-looking statements. Forward-looking statements give our current expectations or forecasts of future
+events. You can identify these statements by the fact that they do not relate strictly to historical or current facts. They use words
+such as anticipate , estimate , expect , project , intend , plan , believe , and other words
+and terms of similar meaning in connection with any discussion of future operating or financial performance. From time to time, we also
+may provide forward-looking statements in other materials we release to the public. 
+
+Overview 
+
+We
+are and have since our inception in 2014 been engaged in the business of developing, selling, and marketing products in niche markets
+within the specialty outdoor products marketplace. We introduced our proprietary Reel Guard product in 2014 and continue
+to offer it to customers. We intend to commence manufacturing, marketing, and selling our new SLINKOR product in the near
+future, pursuant to a license agreement entered into with the inventor in May 2021. 
+
+In
+March 2020, the World Health Organization declared the outbreak of a novel coronavirus (COVID-19) as a pandemic, which continues to spread
+throughout the world. While the disruption is currently expected to be temporary, there is uncertainty around its duration. As a result
+of COVID-19 mobility restrictions globally, there have been changes in consumer behavior. We expect these changes in behavior to continue
+to evolve as the pandemic progresses. The impacts seen to date may continue to create a wider range of outcomes as consumer behaviors
+and mobility restrictions continue to evolve. 
+
+6 
+
+The
+report of our auditor and our financial statements contain a going concern limitation based on our failure to generate sufficient revenue
+to produce net income and on our limited operating history. These factors, among others, indicate that there is a substantial doubt about
+our ability to continue as a going concern for a reasonable period of time. Our continuation as a going concern is dependent upon our
+ability to generate sufficient cash flow to meet our obligations on a timely basis and ultimately to obtain profitability. We believe
+the addition of our new SLINKOR product will result in increased sales and additional cash flow, although no assurances can be given
+that the SLINKOR will be accepted in the marketplace or that its addition to our product line will result in a material increase in sales. 
+
+Results
+of Operations 
+
+Sales 
+
+From
+our inception in 2014 through the present, our revenues have resulted solely from sales of our proprietary Reel Guard product and our
+costs of sales also relate solely to that product. Total sales for the year ended September 30, 2021, were 204, compared to 548 for
+the year ended September 30, 2020, a decrease of 344, or approximately 63 . We believe travel restrictions and changes in consumer behavior
+caused by the COVID-19 pandemic may have had an adverse effect on sales. 
+
+Cost
+of Sales 
+
+Cost
+of sales for 2021 was 18, compared to 48 for 2020, a decrease of 30, or 63 . The decrease in cost of sales in 2021 is primarily attributed
+to the decrease in sales discussed above. Cost of sales as a percentage of sales for 2021 and 2020 was approximately 9 . Cost of sales
+as a percentage of sales remained fairly constant during such periods since we offered only one product for sale and the sales price
+and manufacturing costs have not changed significantly. 
+
+General
+and Administrative Expenses 
+
+General
+and administrative expenses were 39,678 for 2021, compared to 12,324 for 2020, an increase of 27,354 or approximately 222 . The increase
+in these expenses is primarily attributable to an increase in our legal and accounting expenses in connection with our change of corporate
+domicile from Utah to Nevada and the preparation and filing of our Form 10 registration statement. 
+
+Depreciation
+and Amortization Expense 
+
+Depreciation
+and amortization expenses currently are not material to our business. Depreciation expense was 631 for 2021 and 757 for 2020 resulting
+from the depreciation of our injection molds for the Reel Guard product using the straight-line method over the useful life which is
+determined to be seven years. Amortization expense was 408 for 2021 and 382 for 2020 resulting from the amortization of our patent
+over seventeen years, which is its estimated legal life. 
+
+Research
+and Development Expenses 
+
+Research
+and development expenses are not currently material to our business. We did not incur research and development expenses in either 2021
+or 2020. 
+
+Liquidity
+and Capital Resources 
+
+As
+of September 30, 2021, we had total current assets of 11,310, including cash of 6,168, and current liabilities of 31,073, resulting
+in a working capital deficit of 19,763. Our current liabilities include an outstanding balance of 30,250 under the short-term revolving
+loan agreement from our president for which the due date has been extended to June 30, 2022. As of September 30, 2021, we had an accumulated
+stockholders deficit of 119,280. We have financed our operations from sales of our Reel Guard product, proceeds from our 2014
+private placement, and proceeds from the short-term revolving loan agreement from our president and principal stockholder in early 2021. 
+
+7 
+
+For
+2021, net cash used by operating activities was 38,062, as a result of a net loss of 39,901, reduced by depreciation and amortization
+of 1,039, a decrease in inventory of 18, an increase in accounts payable of 414, and an increase in accrued interest of 409, and
+increased by an increase in prepaid expense of 41. By comparison, for 2020 net cash used by operating activities was 8,637, as a result
+of a net loss of 11,824, reduced by depreciation and amortization of 1,139, a decrease in prepaid expense of 2,000, and a decrease
+in inventory of 48. 
+
+In
+2021, we had no cash flows used in or provided by investing activities. In 2020, we had net cash used in investing activities of 916
+for the initial maintenance fee on the Reel Guard patent. 
+
+In
+2021, we had net cash provided by financing activities of 29,750 consisting of 30,250 in proceeds from the revolving loan agreement
+with our president, decreased by 500 for our repurchase of shares of common stock pursuant to a stockholder s exercise of dissenters 
+rights in connection with our change of domicile merger. 
+
+Following
+our incorporation in 2014, we completed the private placement of 285,714 shares of our common stock to accredited investors in a private
+placement at a price of 0.35 per share for total proceeds of 100,011. The proceeds from the private placement together with our limited
+product sales were sufficient to fund our operations through our fiscal year ended September 30, 2020. On January 4, 2021, we entered
+into a revolving promissory note agreement with our president and principal stockholder which provided for total loans of up to 40,000
+at an interest rate 3.5 per annum, which was repayable on or before December 31, 2021. As of September 30, 2021, we had borrowed an
+aggregate principal amount of 30,250 under this revolving loan, no repayments had been made, and the accrued interest on the borrowed
+funds was 409. During December 2021, we amended the revolving promissory note agreement to extend the maturity date to June 30, 2022,
+and we entered into a new revolving promissory note agreement with another principal stockholder providing for loans of up to 7,000
+at an interest rate of 3.5 per annum, which is repayable on or before June 30, 2022. During December 2021, we borrowed an aggregate
+principal amount of 5,294 under the second revolving loan agreement. 
+
+We
+believe we have adequate funds to meet our obligations for the next twelve months from our current cash, the revolving note agreements,
+and projected cash flows from operations. Cash flow from operations has not historically been sufficient to sustain our operations without
+the above additional sources of capital. Our future working capital requirements will depend on many factors, including the expansion
+of our product lines to include the new SLINKOR product. To the extent our cash, cash equivalents, and cash flows from operating activities
+and the revolving note agreements are insufficient to fund our future activities, we may need to raise additional funds through private
+equity or debt financing. We also may need to raise additional funds in the event we determine in the future to effect one or more acquisitions
+of businesses, technologies, and products. If additional funding is required, we may not be able to affect an equity or debt financing
+on terms acceptable to us or at all. 
+
+In
+addition, COVID-19 and related measures to contain its impact have caused material disruptions in both national and global financial
+markets and economies. The future impact of COVID-19 and these containment measures cannot be predicted with certainty and may increase
+our borrowing costs and other costs of capital and otherwise adversely affect our business, results of operations, financial condition
+and liquidity, and no assurance can be given that we will have access to external financing at times and on terms we consider acceptable,
+or at all, or that we will not experience other liquidity issues going forward. 
+
+Requirements 
+
+The
+Company currently has no lease obligations or requirements and has not entered into any agreements that require a commitment of cash. 
+
+Off-Balance
+Sheet Arrangements 
+
+As
+of September 30, 2021, and 2020, we did not have any off-balance sheet financing arrangements. 
+
+8 
+
+Critical
+Accounting Policies 
+
+The
+preparation of financial statements in conformity with accounting principles generally accepted in the United States requires our management
+to make assumptions, estimates and judgments that affect the amounts reported in the financial statements, including the notes thereto,
+and related disclosures of commitments and contingencies, if any. We consider our critical accounting policies to be those that require
+the more significant judgments and estimates in the preparation of financial statements, including the following: 
+
+Accounting
+Estimates 
+
+The
+preparation of financial statements in conformity with generally accepted accounting principles in the United States of America requires
+management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent
+assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting
+period. Actual results could differ from those estimates. 
+
+Cash
+and Cash Equivalents 
+
+For
+the purpose of the financial statements, the Company considers all highly liquid debt instruments purchased with a maturity of three
+months or less to be cash equivalents. 
+
+Inventories 
+
+Inventories,
+consisting primarily of injection molded Reel Guards and Adhesive Strips, are stated at the lower of cost or net realizable value, with
+cost determined using primarily the first-in-first-out (FIFO) method. 
+
+Patents 
+
+Patents
+consist of the cost of obtaining the patent for the Reel Guard. Our patents are amortized over their legal life (typically 17 years)
+and analyzed periodically for impairment in accordance with ASC 350, Intangibles Goodwill and Other. 
+
+Revenue
+Recognition 
+
+When
+the Company sells a reel protector, it recognizes revenue in accordance with Accounting Standards Update 2014-09 (ASC 606, Revenue from
+Contracts with Customers). Under ASC 606, the Company recognizes revenue upon the transfer of promised goods to customers in amounts
+that reflect the consideration to which the Company expects to be entitled. The Company considers revenue earned when all the following
+criteria are met: (i) the contract with the customer has been identified, (ii) the performance obligations have been identified, (iii)
+the transaction price has been determined, (iv) the transaction price has been allocated to the performance obligations, and (v) the
+performance obligations have been satisfied. 
+
+9 
+
+Property,
+Plant, and Equipment 
+
+The
+Company s capital asset consists of molding equipment for the Reel Guard stated at cost. Depreciation is calculated using the straight-line
+method over the estimated useful life which is determined to be seven years. Expenditures for additions and improvements are capitalized,
+while repairs and maintenance costs are expensed as incurred. The cost and related accumulated depreciation of any capital assets that
+are sold or otherwise disposed of are removed from the accounts and any gain or loss is recorded in the year of disposal. 
+
+Income
+Taxes 
+
+The
+Company follows ASC 740-10, which clarifies the accounting for uncertainty in income taxes recognized in an enterprise s financial
+statements. This standard requires a company to determine whether it is more likely than not that a tax position will be sustained upon
+examination based upon the technical merits of the position. If the more-likely-than- not threshold is met, a company must measure the
+tax position to determine the amount to recognize in the financial statements. 
+
+Deferred
+taxes are provided on a liability method whereby deferred tax assets are recognized for deductible temporary differences and operating
+loss, and tax credit carryforwards and deferred tax liabilities are recognized for taxable temporary differences. Temporary differences
+are the differences between the reported amounts of assets and liabilities and their tax basis. Deferred tax assets are reduced by a
+valuation allowance when, in the opinion of management, it is more likely than not that some portion or all of the deferred tax assets
+will not be realized. The Company has followed the guidance provided by Staff Accounting Bulletin (SAB) No. 118 to calculate the value
+of the deferred tax calculation and current income tax calculation to show the effect of the Tax Cut and Jobs Act of 2017. Effective
+January 1, 2018, the corporate tax rate is now 21 percent for all income levels. 
+
+The
+Company adopted changes issued by FASB which prescribed a recognition threshold and measurement attribute for financial statement recognition
+and measurement of an uncertain tax position taken or expected to be taken in a tax return. Under the guidance, an uncertain income tax
+position must be recognized at the largest amount that is more-likely-than-not to be sustained upon audit by the relevant taxing authority. 
+
+Item
+7A. Quantitative and Qualitative Disclosures About Market Risk 
+
+Not
+Applicable. The Company is a smaller reporting company. 
+
+Item
+8. Financial Statements and Supplementary Data 
+
+The
+following financial statements are being filed with this report and are located immediately following the signature page. 
+
+Index
+to Financial Statements 
+
+Report
+of Independent Registered Public Accounting Firm 
+
+Balance
+Sheets as of September 30, 2021 and 2020 
+
+Statements
+of Operations for the years ended September 30, 2021 and 2020 
+
+Statements
+of Changes in Stockholders Equity (Deficit) for the years ended September 30, 2021 and 2020 
+
+Statements
+of Cash Flows for the years ended September 30, 2021 and 2020 
+
+Notes
+to Financial Statements 
+
+Item
+9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+None. 
+
+Item
+9A. Controls and Procedures 
+
+Disclosure
+Controls and Procedures 
+
+Under
+the supervision and with the participation of our management, including our President and Treasurer who serves as our principal executive
+and principal financial officer, we evaluated the effectiveness of the design and operation of our disclosure controls and procedures
+(as defined in Rule 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 the Exchange Act as of September
+30, 2021, the end of the period covered by this report. Based upon that evaluation, our President and Treasurer, concluded that our disclosure
+controls and procedures as of September 30, 2021 were effective such that the information required to be disclosed by us in reports filed
+under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in the SEC s rules
+and forms and (ii) accumulated and communicated to our management, including our President and Treasurer, as appropriate to allow timely
+decisions regarding disclosure. A controls system cannot provide absolute assurance that the objectives of the controls system are met,
+and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company
+have been detected. 
+
+10 
+
+Management s
+Report on Internal Control over Financial Reporting 
+
+This
+annual report does not include a report of management s assessment regarding internal control over financial reporting or an attestation
+report of the Company s registered public accounting firm due to a transition period established by rules of the Securities and
+Exchange Commission for newly public companies. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+There
+was no change in our internal control over financial reporting during the year ended September 30, 2021 that has materially affected,
+or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+Item
+9B. Other Information 
+
+None. 
+
+Item
+9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+
+Not
+Applicable. 
+
+Part
+III 
+
+Item
+10. Directors, Executive Officers and Corporate Governance 
+
+The
+following table sets forth the names and ages of the member of our Board of Director and our executive officers and the positions held
+by each. 
+
+Name 
+ 
+ Age 
+ 
+ Title 
+ 
+ Kirk
+ Blosch 
+ 
+ 67 
+ 
+ President,
+ CEO, and Chairman 
+
+Kirk
+Blosch is the founder of the Company and has been its sole officer and director since its inception in 2014. Since 2008 he has been the
+owner and principal broker of B B Real Estate Group LLC, a Salt Lake City, Utah, based real estate firm providing sales, consulting,
+and development services. Mr. Blosch has over 35 years of experience in evaluating business opportunities, creating business or development
+plans, funding various projects, and overseeing the construction and development of real estate projects. He received his Bachelor of
+Science degree in organizational communication from the University of Utah in 1976. 
+
+Family
+Relationships 
+
+There
+are no family relationships among our directors, executive officers or persons nominated or chosen to become directors or executive officers. 
+
+Board
+of Directors 
+
+Our
+board of directors consists of one person, Kirk Blosch. Such person is not independent within the meaning of Rule 5605(a)(2)
+of the NASDAQ Marketplace because he is an officer of the Company. 
+
+Our
+board of directors has not appointed any standing committees, there is no separately designated audit committee and the Company s
+single, non-independent board member performs the functions that would customarily be performed by an audit committee. The board of directors
+does not have an independent financial expert because it does not believe the scope of the Company s activities to
+date has justified the expenses involved in obtaining such a financial expert. In addition, our securities are not listed on a national
+exchange and we are not subject to the special corporate governance requirements of any such exchange. 
+
+The
+Company does not have a compensation committee and the Company s single, non-independent board member participates in the consideration
+of executive officer and director compensation. To date, the Company has not paid any executive or director compensation and has not
+engaged independent compensation consultants to determine or recommend the amount or form of executive or director compensation. 
+
+The
+Company does not have a standing nominating committee and the Company s single, non-independent board member performs the functions
+that would customarily be performed by a nominating committee. The board of directors does not believe a separate nominating committee
+is required at this time due to the limited size of the Company s business operations and the limited resources of the Company
+that do not permit it to compensate its directors. The board of directors has not established policies with regard to the consideration
+of director candidates recommended by security holders or the minimum qualifications of such candidates. 
+
+11 
+
+Code
+of Ethics 
+
+We
+have not adopted a Code of Ethics that applies to our executive officers, including our principal executive, financial and accounting
+officers. We do not believe the adoption of a code of ethics at this time would provide any meaningful additional protection to the Company
+because we have only one officer and our business operations are not extensive or complex. 
+
+Director
+Meetings and Stockholder Meeting Attendance 
+
+The
+Board of Directors held no formal meetings during 2021 and the sole director took action by unanimous written consents in lieu of meetings.
+Our policy is to encourage, but not require, members of the Board of Directors to attend annual stockholder meetings. We did not hold
+an annual stockholder meeting during the 2021 year. 
+
+Communications
+with Directors 
+
+Shareholders
+may communicate with the Board of Directors or any individual director by sending written communications addressed to the Board of Directors,
+or any individual director, to: Outdoor Specialty Products, Inc., Attention: Corporate Secretary, 3842 Quail Hollow Drive, Salt Lake
+City, Utah 84109. All communications will be compiled by the corporate secretary and forwarded to the Board of Directors or any individual
+director, as appropriate. In order to facilitate a response to any such communication, the Company s Board of Directors suggests,
+but does not require, that any such submission include the name and contact information of the shareholder submitting the communication. 
+
+Delinquent
+Section 16(a) Reports 
+
+Based on our review of Forms 3 and 4 and amendments thereto filed electronically
+with the SEC during the 2021 fiscal year, Ed Bailey, a beneficial owner of more than ten percent of our common stock, failed to file the
+Form 3 report required as a result of the effectiveness of our Form 10 registration statement. Mr. Bailey advised us that he plans to
+file the report at the earliest practicable date and that he was unable to file the report prior to the filing of this report due to a
+problem in updating his Edgar filing codes. 
+
+Item
+11. Executive Compensation 
+
+Kirk
+Blosch, our President, Secretary and Treasurer, is our only employee. We did not pay any executive compensation during the fiscal years
+ended September 30, 2021 and 2020. We have not entered into any employment agreements with our officers and directors. We reimburse our
+officers for reasonable costs and expenses incurred by them in connection with our business. 
+
+We
+have not granted our officers or directors any stock options, stock awards or other forms of equity compensation. 
+
+We
+do not have any retirement, pension or profit-sharing plans covering our officers or directors, and we are not contemplating implementing
+any such plans at this time. 
+
+Director
+Compensation 
+
+We
+did not pay our sole director any compensation for serving in his capacity as a director during the fiscal years ended September 30,
+2021 and 2020. 
+
+Item
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+The
+following table sets forth information regarding the beneficial ownership of our common stock as of December 21, 2021. The information
+in this table provides the ownership information for each person known by us to be the beneficial owner of more than 5 of our common
+stock, each of our directors, each of our executive officers, and our executive officers and directors as a group. 
+
+12 
+
+Beneficial
+ownership has been determined in accordance with the rules and regulations of the SEC and includes voting or investment power with respect
+to the shares. Unless otherwise indicated, the persons named in the table below have sole voting and investment power with respect to
+the number of shares indicated as beneficially owned by them. 
+
+Name and Address of Beneficial Owner 
+ Common Stock Beneficially Owned (1) 
+ Percentage of Common Stock Owned (1) 
+ 
+ Principal Stockholders 
+
+Ed Bailey 
+ 760,000 
+ 14.4 
+ 
+ 4685 S. Highland Dr. Salt Lake City, UT 84106 
+
+Officers and Directors 
+
+Kirk Blosch, President and Director (2) 
+ 4,250,000 
+ 80.4 
+ 
+ 3842 Quail Hollow Drive Salt Lake City, UT 84109 
+
+Director and Officer (1 person) 
+ 4,250,000 
+ 80.4 
+
+(1) 
+ Applicable
+ percentage ownership is based on 5,284,318 shares of common stock outstanding as of December 21, 2021. Beneficial ownership is determined
+ in accordance with the rules of the Securities and Exchange Commission and generally includes voting or investment power with respect
+ to securities. 
+
+(2) 
+ Kirk
+ Blosch is the only officer, employee, and director of the Company. He has full voting and investment control of the shares beneficially
+ owned by him. 
+
+Item
+13. Certain Relationships and Related Transactions and Director Independence 
+
+On
+January 4, 2021, we entered into a revolving promissory note agreement with Kirk Blosch, our president, director, and principal stockholder
+which provided for total loans of up to 40,000 at an interest rate 3.5 per annum, which was repayable on or before December 31, 2021.
+As of September 30, 2021, we had borrowed an aggregate principal amount of 30,250 under this revolving loan, no repayments had been
+made, and the accrued interest on the borrowed funds was 409. During December 2021, we amended the revolving promissory note agreement
+to extend the maturity date to June 30, 2022. We also entered into a new revolving promissory note agreement with another principal stockholder,
+providing for loans of up to 7,000 at an interest rate of 3.5 per annum, which is repayable on or before June 30, 2022. During December
+2021, we borrowed an aggregate principal amount of 5,294 under the second revolving loan agreement. 
+
+Director
+Independence 
+
+Our
+board of directors consists of one person, Kirk Blosch. Such person is not independent within the meaning of Rule 5605(a)(2)
+of the NASDAQ Marketplace because he is an officer of the Company. 
+
+Indemnification 
+
+Nevada
+law expressly authorizes a Nevada corporation to indemnify its directors, officers, employees, and agents against liabilities arising
+out of such persons conduct as directors, officers, employees, or agents if they acted in good faith, in a manner they reasonably
+believed to be in or not opposed to the best interests of the company, and, in the case of criminal proceedings, if they had no reasonable
+cause to believe their conduct was unlawful. Generally, indemnification for such persons is mandatory if such person was successful,
+on the merits or otherwise, in the defense of any such proceeding, or in the defense of any claim, issue, or matter in the proceeding.
+In addition, as provided in the articles of incorporation, bylaws, or an agreement, the corporation may pay for or reimburse the reasonable
+expenses incurred by such a person who is a party to a proceeding in advance of final disposition if such person furnishes to the corporation
+an undertaking to repay such expenses if it is ultimately determined that he did not meet the requirements. In order to provide indemnification,
+unless ordered by a court, the corporation must determine that the person meets the requirements for indemnification. Such determination
+must be made by a majority of disinterested directors; by independent legal counsel; or by a majority of the shareholders. 
+
+13 
+
+Article
+X of our Articles of Incorporation provides that we must pay expenses of officers and directors incurred in defending a civil or criminal
+action, suit or proceeding, involving alleged acts or omissions of such officer or director in his or her capacity as an officer or director
+as they are incurred and in advance of the final disposition of the action, suit or proceeding, upon receipt of an undertaking by or
+on behalf of the director or officer to repay the amount if it is ultimately determined by a court of competent jurisdiction that he
+or she is not entitled to be indemnified by us. 
+
+Insofar
+as indemnification for liabilities arising under the Securities Act of 1933 (the Act may be permitted to directors, officers
+and controlling persons of our company pursuant to the foregoing provisions, or otherwise, we have been advised that in the opinion of
+the Securities and Exchange Commission, such indemnification is against public policy as expressed in the Act and is, therefore, unenforceable. 
+
+Item
+14. Principal Accountant Fees and Services 
+
+Pinnacle
+Accountancy Group of Utah (a dba of the registered firm Heaton Company, PLLC) served as the Company s independent registered
+public accounting firm for the fiscal years ended September 30, 2021 and 2020. 
+
+During
+the fiscal years ended September 30, 2021 and 2020, fees for services provided by Pinnacle Accountancy Group of Utah. were as follows: 
+
+Year Ended 
+
+September 30, 
+
+2021 
+ 2020 
+ 
+ Audit Fees 
+ 8,900.00 
+ 4,900.00 
+ 
+ Audit-Related Fees 
+ - 
+ - 
+ 
+ Tax Fees 
+ - 
+ - 
+ 
+ All Other Fees 
+ - 
+ - 
+
+Total 
+ 8,900.00 
+ 4,900.00 
+
+Audit
+Fees consisted of fees billed for services rendered for the audit of the Company s annual financial statements, review of
+financial statements included in the Company s quarterly reports on Form 10-Q, and other services normally provided in connection
+with statutory and regulatory filings. Audit-Related Fees consisted of fees billed for due diligence procedures in connection
+with acquisitions and divestitures and consultation regarding financial accounting and reporting matters. Tax Fees consisted
+of fees billed for tax payment planning and tax preparation services. All Other Fees consisted of fees billed for services
+in connection with legal matters and technical accounting research. 
+
+The
+Company s Board of Directors functions as its audit committee. It is the policy of the Company for all work performed by our principal
+accountant to be approved in advance by the Board of Directors. All of the 
+
+ services
+described above in this Item 14 were approved in advance by our Board of Directors. 
+
+Item
+15. Exhibit and Financial Statement Schedules 
+
+(a) List
+ of all financial statements filed as part of this report. 
+
+Index
+ of Financial Statements 
+
+Report of Independent Registered Public Accounting Firm 
+ F-1 
+ 
+ Balance Sheets at September 30, 2021 and 2020 
+ F-3 
+ 
+ Statements of Operations for the years ended September 30, 2021 and 2020 
+ F-4 
+ 
+ Statements of Changes in Stockholders Equity (Deficit) for the years ended September 30, 2021 and 2020 
+ F-5 
+ 
+ Statements of Cash Flows for the years ended September 30, 2021 and 2020 
+ F-6 
+ 
+ Notes to Financial Statements 
+ F-7 
+
+(b) The
+ following documents are included as exhibits to this report. 
+
+14 
+
+(a)
+Exhibits 
+
+Exhibit 
+Number 
+ 
+ SEC 
+Reference 
+ Number 
+ 
+ Title of Document 
+ 
+ Location 
+
+3.1 
+ 
+ 3 
+ 
+ Articles of Incorporation 
+ 
+ Incorporated by Reference(1) 
+ 
+ 3.2 
+ 
+ 3 
+ 
+ Articles of Merger dated February 24, 2021 
+
+3.3 
+ 
+ 3 
+ 
+ Bylaws 
+ 
+ Incorporated by Reference(1) 
+ 
+ 4.1 
+ 
+ 4 
+ 
+ 2021 Stock Incentive Plan 
+ 
+ Incorporated by Reference(1) 
+ 
+ 10.1 
+ 
+ 10 
+ 
+ Merger Agreement dated February 24, 2021 
+ 
+ Incorporated by Reference(1) 
+ 
+ 10.2 
+ 
+ 10 
+ 
+ Revolving Promissory Note Agreement with Kirk Blosch dated January 4, 2021 
+ 
+ Incorporated by Reference(1) 
+ 
+ 10.3 
+ 
+ 10 
+ 
+ License and Royalty Agreement dated May 4, 2021 
+ 
+ Incorporated by Reference(1) 
+ 
+ 10.4 
+ 
+ 10 
+ 
+ First Amendment to Revolving Promissory Note Agreement dated December 1, 2021 
+ 
+ This Filing 
+ 
+ 10.5 
+ 
+ 10 
+ 
+ Revolving Promissory Note Agreement with Ed Bailey dated December 1, 2021 
+ 
+ This Filing 
+ 
+ 21.1 
+ 
+ 21 
+ 
+ Schedule of the Registrant s Subsidiaries 
+ 
+ This Filing 
+ 
+ 31.1 
+ 
+ 31 
+ 
+ Section 302 Certification of Chief Executive and Chief Financial Officer 
+ 
+ This Filing 
+ 
+ 32.1 
+ 
+ 32 
+ 
+ Section 1350 Certification of Chief Executive and Chief Financial Office 
+ 
+ This Filing 
+
+(1) Incorporated
+by reference to the Company s Registration Statement on Form 10-12G filed June 24, 2021. 
+
+Item
+16. Form 10-K Summary 
+
+None. 
+
+15 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+Outdoor
+ Specialty Products, Inc. 
+
+Dated: December
+ 29, 2021 
+ By
+ 
+ /s/
+ Kirk Blosch 
+
+Kirk Blosch 
+
+President, Secretary and Treasurer 
+
+(Principal Executive and Accounting Officer) 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated. 
+
+Dated:
+ December 29, 2021 
+ By 
+ /s/
+ Kirk Blosch 
+
+Kirk Blosch 
+
+President, Secretary, Treasurer and Director 
+
+(Principal Executive and Accounting Officer) 
+
+16 
+
+OUTDOOR
+SPECIALTY PRODUCTS, INC. 
+
+ INDEX
+TO FINANCIAL STATEMENTS 
+
+Report of Independent Registered Public Accounting Firm 
+ 
+ F-1 
+
+Balance Sheets as of September 30, 2021 and 2020 
+ 
+ F-3 
+
+Statements of Operations for the Years Ended September 30, 2021 and 2020 
+ 
+ F-4 
+
+Statements of Changes in Stockholders Equity (Deficit) for the Years Ended September 30, 2021 and 2020 
+ 
+ F-5 
+
+Statements of Cash Flows for the Years Ended September 30, 2021 and 2020 
+ 
+ F-6 
+
+Notes to Financial Statements 
+ 
+ F-7 
+
+REPORT OF INDEPENDENT REGISTERED
+PUBLIC ACCOUNTING FIRM 
+
+To the Board of Directors and Stockholders 
+
+ Outdoor Specialty Products, Inc. 
+
+ Salt Lake City, Utah 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance
+sheets of Outdoor Specialty Products, Inc. (the Company) as of September 30, 2021 and 2020, and the related statements of operations,
+changes in stockholders equity (deficit), and cash flows for the years then ended, and the related notes (collectively referred
+to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position
+of the Company as of September 30, 2021 and 2020, and the results of its operations and its cash flows for the years then ended, in conformity
+with accounting principles generally accepted in the United States of America. 
+
+Consideration of the Company s
+Ability to Continue as a Going Concern 
+
+The accompanying financial statements
+have been prepared assuming that the Company will continue as a going concern. The Company has suffered recurring losses since inception,
+has a working capital deficit, and has not achieved profitable operations, which raise substantial doubt about its ability to continue
+as a going concern. Management s plans in regard to these matters are described in Note 7. The financial statements do not include
+any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance
+with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether
+the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were
+we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an
+understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the
+Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures
+to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that
+respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as
+evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical
+Audit Matter 
+
+The critical
+audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or
+required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+F- 1 
+
+Going Concern Disclosure 
+
+The financial statements of the Company
+are prepared on a going concern basis, which assumes that the Company will continue in operation for the foreseeable future and, accordingly,
+will be able to realize its assets and discharge its liabilities in the normal course of operations. As noted in Going Concern
+Considerations above, the Company has a history of recurring net losses, a significant accumulated deficit and currently has net
+working capital deficit. The Company has contractual obligations such as commitments for repayments of accounts payable, accrued interest,
+and line credit related party (collectively obligations ). Currently management s forecasts and related assumptions
+illustrate their ability to meet the obligations through management of expenditures, obtaining additional financing through loans from
+related and unrelated parties, and private placements of capital stock for additional funding to meet its operating needs. Should there
+be constraints on the ability to access financing through stock issuances, the Company will continue to manage cash outflows and meet
+the obligations through related and unrelated party loans. 
+
+We identified management s assessment
+of the Company s ability to continue as a going concern as a critical audit matter. Management made judgments to conclude that it
+is probable that the Company s plans will be effectively implemented and will provide the necessary cash flows to fund the Company s
+obligations as they become due. Specifically, the judgments with the highest degree of impact and subjectivity in determining it is probable
+that the Company s plans will be effectively implemented include its ability to manage expenditures, its access funding from the
+capital market, and obtain loans from related and unrelated parties. Auditing the judgments made by management required a high degree
+of auditor judgment and an increased extent of audit effort. 
+
+Addressing the matter involved performing
+procedures and evaluating audit evidence in connection with forming our overall opinion on the financial statements. These procedures
+included the following, among others: (i) evaluating the probability that the Company will be able to access funding from the capital
+market; (ii) evaluating the probability that the Company will be able to manage expenditures, and (iii) evaluating the probability that
+the Company will be able to obtain loans from related and unrelated parties. 
+
+/s/ Pinnacle Accountancy Group of Utah 
+
+We have served as the Company s auditor since 2018. 
+
+Pinnacle Accountancy Group of Utah 
+
+ (a dba of Heaton Company, PLLC) 
+
+ Farmington, Utah 
+
+ December 27, 2021 
+
+F- 2 
+
+OUTDOOR SPECIALTY PRODUCTS, INC. 
+
+ Balance Sheets 
+
+September 30, 
+ September 30, 
+ 
+ Assets: 
+ 2021 
+ 2020 
+ 
+ Current Assets: 
+
+Cash 
+ 6,168 
+ 14,480 
+ 
+ Prepaid expense 
+ 458 
+ 417 
+ 
+ Inventory 
+ 4,684 
+ 4,702 
+ 
+ Total current assets 
+ 11,310 
+ 19,599 
+
+Property, Plant and Equipment, net 
+ - 
+ 631 
+
+Other Assets: 
+
+Patents, net 
+ 5,000 
+ 5,408 
+
+Total Assets 
+ 16,310 
+ 25,638 
+
+Liabilities and Stockholders' Equity (Deficit): 
+
+Current Liabilities: 
+
+Accounts Payable 
+ 414 
+ - 
+ 
+ Accrued Interest 
+ 409 
+ - 
+ 
+ Line of credit related party 
+ 30,250 
+ - 
+ 
+ Total Liabilities 
+ 31,073 
+ - 
+
+Stockholders' Equity (Deficit): 
+
+Preferred Stock, 0.001 par value, 10,000,000 shares authorized, none issued and outstanding 
+ - 
+ - 
+ 
+ Common stock, 0.001 par value, 190,000,000 shares
+ authorized, 5,284,318 and 5,285,747 shares issued and outstanding, respectively 
+ 5,285 
+ 5,286 
+ 
+ Additional paid-in capital 
+ 99,232 
+ 99,731 
+
+Accumulated deficit 
+ (119,280 
+ (79,379 
+ 
+ Total Stockholders' Equity (Deficit) 
+ (14,763 
+ 25,638 
+
+Total Liabilities and Stockholders' Equity (Deficit) 
+ 16,310 
+ 25,638 
+
+The accompanying notes are an integral part of
+these audited financial statements. 
+
+F- 3 
+
+OUTDOOR SPECIALTY PRODUCTS, INC. 
+
+ Statements of Operations 
+
+For the Year Ended 
+
+September 30, 
+
+2021 
+ 2020 
+ 
+ Revenue 
+ 204 
+ 548 
+ 
+ Cost of sales 
+ (18 
+ (48 
+ 
+ Gross Profit 
+ 186 
+ 500 
+
+Operating Expenses: 
+
+General and administrative 
+ 39,678 
+ 12,324 
+ 
+ Total Operating Expenses 
+ 39,678 
+ 12,324 
+ 
+ Loss from Operations 
+ (39,492 
+ (11,824 
+
+Other Expense: 
+
+Interest expense 
+ 409 
+ - 
+ 
+ Total other expense 
+ 409 
+ - 
+ 
+ Net Loss 
+ (39,901 
+ (11,824 
+ 
+ Net loss per share of common stock - basic and diluted 
+ (0.01 
+ (0.00 
+ 
+ Weighted average number of common shares outstanding - basic and diluted 
+ 5,284,318 
+ 5,285,747 
+
+The accompanying notes are an integral part
+of these audited financial statements. 
+
+F- 4 
+
+OUTDOOR SPECIALTY PRODUCTS, INC. 
+
+ Statements of Changes in Stockholders Equity
+(Deficit) 
+
+ Years Ended September 30, 2021 and 2020 
+
+Common Stock 
+ Additional Paid-in Capital 
+ Accumulated Deficit 
+ Total Stock- holders Equity (Deficit) 
+
+Shares 
+ Amount 
+
+Balance, September 30, 2019 
+ 5,285,747 
+ 5,286 
+ 99,731 
+ (67,555 
+ 37,462 
+ 
+ Net loss 
+ - 
+ - 
+ - 
+ (11,824 
+ (11,824 
+
+Balance September 30, 2020 
+ 5,285,747 
+ 5,286 
+ 99,731 
+ (79,379 
+ 25,638 
+
+Dissenter shares repurchased and cancelled 
+ (1,429 
+ (1 
+ (499 
+ - 
+ (500 
+ 
+ Net loss 
+ - 
+ - 
+ - 
+ (39,901 
+ (39,901 
+
+Balance, September 30, 2021 
+ 5,284,318 
+ 5,285 
+ 99,232 
+ (119,280 
+ (14,763 
+
+The accompanying notes are an integral part of
+these audited financial statements. 
+
+F- 5 
+
+OUTDOOR SPECIALTY PRODUCTS, INC. 
+STATEMENTS OF CASH FLOWS 
+
+For the Year Ended 
+
+September 30, 
+
+2021 
+ 2020 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net Loss 
+ (39,901 
+ (11,824 
+ 
+ Adjustments to Reconcile Net Loss 
+
+To Net Cash Used by Operating Activities 
+
+Depreciation and Amortization 
+ 1,039 
+ 1,139 
+ 
+ Changes in Operating Assets and Liabilities: 
+
+(Increase) decrease in prepaid expense 
+ (41 
+ 2,000 
+ 
+ Decrease in inventory 
+ 18 
+ 48 
+ 
+ Increase in accounts payable 
+ 414 
+ - 
+ 
+ Increase in accrued interest 
+ 409 
+ - 
+ 
+ Net Cash Used by Operating Activities 
+ (38,062 
+ (8,637 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Purchase of patent 
+ - 
+ (916 
+ 
+ Net Cash Used by Investing Activities 
+ - 
+ (916 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Proceeds from line of credit - related party 
+ 30,250 
+ - 
+ 
+ Repurchase of common shares 
+ (500 
+ - 
+ 
+ Net Cash Provided by Financing Activities 
+ 29,750 
+ - 
+
+Net Decrease in Cash 
+ (8,312 
+ (9,553 
+ 
+ Cash at Beginning of Period 
+ 14,480 
+ 24,033 
+ 
+ Cash at End of Period 
+ 6,168 
+ 14,480 
+
+SUPPLEMENTAL DISCLOSURES: 
+
+Cash Paid During the Period For: 
+
+Interest 
+ - 
+ - 
+ 
+ Income taxes 
+ - 
+ - 
+
+The accompanying notes are an integral part of
+these audited financial statements. 
+
+F- 6 
+
+OUTDOOR SPECIALTY PRODUCTS, INC. 
+
+ Notes to Financial Statements 
+
+ September 30, 2021 and 2020 
+
+Note 1 Organization and Summary of Significant
+Accounting Policies 
+
+Organization Outdoor Specialty
+Products, Inc. (the Company was incorporated in the State of Utah on January 31, 2014 and changed its domicile to the state
+of Nevada on February 24, 2021. The Company is in the business of developing and selling outdoor products with its first product focused
+on a reel protector for fishing reels. The Company also will be selling third party products through its website. The Company has elected
+a September 30 fiscal year end. 
+
+Accounting Estimates The preparation
+of financial statements in conformity with generally accepted accounting principles in the United States of America requires management
+to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual
+results could differ from those estimates. 
+
+Cash and Cash Equivalents For the
+purpose of the financial statements, the Company considers all highly liquid debt instruments purchased with original maturities of three
+months or less to be cash equivalents. 
+
+Inventories Inventories, consisting
+primarily of injection molded Reel Guards and Adhesive Strips, are stated at the lower of cost or net realizable value, with cost determined
+using primarily the first-in-first-out (FIFO) method. The Company purchased substantially all inventories from one supplier and
+has been dependent on this supplier for all inventory purchases since we commenced operations. The Company has 2,088 and 2,106 in finished
+goods and 2,596 and 2,596 in raw materials for the years ended September 30, 2021 and 2020, respectively. 
+
+Patents Patents consist of the
+cost of obtaining a patent for the Company s reel protector. Our patents are amortized over their legal life (typically 17 years)
+and analyzed periodically for impairment in accordance with ASC 350, Intangibles Goodwill and Other. 
+
+Revenue Recognition When the Company
+sells a reel protector, it recognizes revenue in accordance with Accounting Standards Update 2014-09 (ASC 606, Revenue from Contracts
+with Customers). Under ASC 606, the Company recognizes revenue upon the transfer of promised goods to customers in amounts that reflect
+the consideration to which the Company expects to be entitled. The Company considers revenue earned when all the following criteria are
+met: (a) the contract with the customer has been identified, (ii) the performance obligations have been identified, (iii) the transaction
+price has been determined, (iv) the transaction price has been allocated to the performance obligations, and (v) the performance obligations
+have been satisfied. 
+
+The Company earned 204 and 548 in revenue during
+the years ended September 30, 2021 and 2020, respectively. 
+
+F- 7 
+
+OUTDOOR SPECIALTY PRODUCTS, INC. 
+
+ Notes to Financial Statements 
+
+ September 30, 2021 and 2020 
+
+Note 1 Organization and Summary of Significant
+Accounting Policies (continued) 
+
+Recently Enacted Pronouncements 
+ The Company has reviewed all recently issued, but not yet adopted, accounting standards in order to determine their effects,
+if any, on its results of operation, financial position or cash flows. Based on that review, the Company believes that none of these
+pronouncements will have a significant effect on its current or future earnings or operations. 
+
+Basic and Diluted Loss Per Share - Basic
+loss per share is computed by dividing net loss attributable to common shares by the weighted average number of common shares outstanding
+during the period. Diluted loss per share is computed by dividing net income attributable to common shares for the period by the weighted
+average number of common and potential common shares outstanding during the period. Potential common shares are included in the calculation
+of diluted net income per share, when they are present in the financial statements, to the extent such shares are dilutive. During the
+years ended September 30, 2021 and 2020, the Company did not have any stock options, warrants, or other convertible or potentially-dilutive
+instruments issued and outstanding. 
+
+NOTE 2 Income Tax 
+
+The Company follows ASC 740-10, which clarifies
+the accounting for uncertainty in income taxes recognized in a company s financial statements. This standard requires a company
+to determine whether it is more likely than not that a tax position will be sustained upon examination based upon the technical merits
+of the position. If the more-likely-than- not threshold is met, a company must measure the tax position to determine the amount to recognize
+in the financial statements. 
+
+Deferred taxes are provided on a liability method
+whereby deferred tax assets are recognized for deductible temporary differences and operating loss, and tax credit carry-forwards and
+deferred tax liabilities are recognized for taxable temporary differences. Temporary differences are the differences between the reported
+amounts of assets and liabilities and their tax basis. Deferred tax assets are reduced by a valuation allowance when, in the opinion of
+management, it is more likely than not that some portion or all of the deferred tax assets will not be realized. The Company followed
+the guidance provided by Staff Accounting Bulletin (SAB) No. 118 to calculate the value of the deferred tax calculation and current income
+tax calculation to show the effect of the Tax Cut and Jobs Act of 2017. Effective January 1, 2018 the corporate tax rate is now 21 percent
+for all income levels. 
+
+F- 8 
+
+OUTDOOR SPECIALTY PRODUCTS, INC. 
+
+ Notes to Financial Statements 
+
+ September 30, 2021 and 2020 
+
+NOTE 2 Income Tax (continued) 
+
+Deferred tax asset and valuation allowance are
+as follows at September 30: 
+
+2021 
+ 2020 
+ 
+ Approximate net operating loss carryforward 
+ 31,000 
+ 20,600 
+ 
+ Valuation allowance 
+ (31,000 
+ (20,600 
+ 
+ Deferred tax asset 
+ - 
+ - 
+
+The components of income tax expense (benefit) are as follows: 
+
+2021 
+ 2020 
+ 
+ Current federal tax (21 
+ (8,400 
+ (2,500 
+ 
+ Current state tax (5 
+ (2,000 
+ (600 
+ 
+ Change in valuation allowance 
+ 10,400 
+ 3,100 
+
+- 
+ - 
+
+At September 30, 2021, the Company had net operating
+loss carryforwards of approximately 119,000 that may be offset against future taxable income as long as the continuity of ownership 
+test is met. No tax benefit has been reported in the September 30, 2021 financial statements since the potential tax benefit
+is offset by a valuation allowance of the same amount. The years 2018-2021 are open to examination by the IRS. No reserves
+for uncertain tax positions have been recorded. 
+
+The Company adopted changes issued by FASB which
+prescribed a recognition threshold and measurement attribute for financial statement recognition and measurement of an uncertain tax position
+taken or expected to be taken in a tax return. Under the guidance, an uncertain income tax position must be recognized at the largest
+amount that is more-likely-than-not to be sustained upon audit by the relevant taxing authority. 
+
+F- 9 
+
+OUTDOOR SPECIALTY PRODUCTS, INC. 
+
+ Notes to Financial Statements 
+
+ September 30, 2021 and 2020 
+
+NOTE 3 Long Lived Assets 
+
+Property, Plant, and Equipment 
+
+The Company s capital asset consists of
+molding equipment stated at cost. Depreciation is calculated using the straight-line method over the estimated useful life
+which is determined to be seven years. Expenditures for additions and improvements are capitalized, while repairs and maintenance
+costs are expensed as incurred. The cost and related accumulated depreciation of any capital assets that are sold or otherwise
+disposed of are removed from the accounts and any gain or loss is recorded in the year of disposal. 
+
+The following is a summary of property, plant,
+and equipment less accumulated depreciation as of September 30: 
+
+2021 
+ 2020 
+
+Mold 
+ 5,300 
+ 5,300 
+ 
+ Total property, plant and equipment 
+ 5,300 
+ 5,300 
+
+Less: accumulated depreciation 
+ (5,300 
+ (4,669 
+
+Property, plant, equipment, net 
+ - 
+ 631 
+
+Depreciation expense for the year ended September
+30, 2021 and 2020 was 631 and 757, respectively. 
+
+Patent 
+
+The following is a summary of patents less accumulated
+amortization as of September 30: 
+
+2021 
+ 2020 
+
+Patent 
+ 6,943 
+ 6,943 
+ 
+ Total patent 
+ 6,943 
+ 6,943 
+
+Less: accumulated amortization 
+ (1,943 
+ (1,535 
+
+Patent, net 
+ 5,000 
+ 5,408 
+
+Amortization expense for the year ended September
+30, 2021 and 2020 was 408 and 382, respectively. 
+
+F- 10 
+
+OUTDOOR SPECIALTY PRODUCTS, INC. 
+
+ Notes to Financial Statements 
+
+ September 30, 2021 and 2020 
+
+NOTE 3 Long Lived Assets (continued) 
+
+Patent (continued) 
+
+Future amortization of patent are as follows: 
+
+Year Ending September 30, 
+
+2021 
+ 408 
+ 
+ 2022 
+ 408 
+ 
+ 2023 
+ 408 
+ 
+ 2024 
+ 408 
+ 
+ 2025 
+ 408 
+ 
+ Thereafter 
+ 2,960 
+
+5,000 
+
+The Company has reviewed the patent for impairment
+and has determined that no impairment loss has been incurred. The cost is being amortized over 17 years, which is the estimated legal
+life of the patent. 
+
+NOTE 4 Line of Credit Related
+Party 
+
+During the year ending September 30, 2021, the
+Company entered into a revolving promissory note agreement with a related party which allows the Company to borrow up to a maximum of
+ 40,000, with funds being advanced from time to time upon request by the Company. The revolving promissory note bears interest at the
+rate of 3.5 . During December 2021, we amended the revolving promissory note agreement to extend the maturity date to June 30, 2022 and
+we entered into a new revolving promissory note agreement with another principal stockholder providing for loans of up to 7,000 at an
+interest rate of 3.5 per annum, which is repayable on or before June 30, 2022. The balance on the line of credit on September 30, 2021
+was 30,250 with accrued interest of 409. 
+
+NOTE 5 Stockholders Equity 
+
+During the year ending September 20, 2021, the
+Company increased its authorized common shares from 90,000,000 to 190,000,000. Also, during the year ending September 30, 2021, the Company
+repurchased 1,429 shares of our common stock from a shareholder for 500 upon the shareholders exercise of dissenters rights,
+which shares were cancelled. 
+
+F- 11 
+
+OUTDOOR SPECIALTY PRODUCTS, INC. 
+
+ Notes to Financial Statements 
+
+ September 30, 2021 and 2020 
+
+NOTE 6 Basic and Diluted Loss Per Share 
+
+The following table sets forth the computation
+of basic and diluted loss per share for the years ended September 30: 
+
+2021 
+ 2020 
+
+Loss (numerator) 
+ (39,901 
+ (11,824 
+ 
+ Weighted average shares (denominator) 
+ 5,284,318 
+ 5,285,747 
+ 
+ Net loss per share basic and diluted 
+ - 
+ - 
+
+NOTE 7 Going Concern 
+
+The accompanying financial statements have been
+prepared on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course
+of business. As shown in the accompanying financial statements, the Company did not generate sufficient revenue to generate
+net income and has a limited operating history. These factors, among others, indicate that there is substantial doubt that the Company
+will be able to continue as a going concern for a reasonable period of time. 
+
+The financial statements do not include any adjustments
+relating to the recoverability and classification of assets and liabilities that might be necessary should the Company be unable to continue
+as a going concern. The Company s continuation as a going concern is dependent upon its ability to generate sufficient
+cash flow to meet its obligations on a timely basis and ultimately to attain profitability. The Company intends to seek additional
+funding through equity offerings to fund its business plan. There is no assurance that the Company will be successful in raising
+additional funds. 
+
+NOTE 8 Subsequent Events 
+
+During
+December 2021, we amended the revolving promissory note agreement to extend the maturity date to June 30, 2022, and we entered into a
+new revolving promissory note agreement with another principal stockholder providing for loans of up to 7,000 at an interest rate of
+3.5 per annum, which is repayable on or before June 30, 2022. During December 2021, we borrowed an aggregate principal amount of 5,294
+under the second revolving loan agreement . 
+
+The Company has evaluated subsequent events from
+the balance sheet date through the date of the financial statements were issued and determined that there are no additional events requiring
+disclosure. 
+
+F-12 
+
+<EX-10.4>
+ 2
+ f10k2021ex10-4_outdoor.htm
+ FIRST AMENDMENT TO REVOLVING PROMISSORY NOTE AGREEMENT DATED DECEMBER 1, 2021
+
+Exhibit 10.4 
+
+FIRST AMENDMENT TO REVOLVING PROMISSORY NOTE
+AGREEMENT 
+
+This First Amendment to Revolving Promissory Note
+Agreement is made and entered into as of the 1 st day of December 2021 by and between Outdoor Specialty Products, Inc., a Nevada
+corporation Borrower ), and Kirk Blosch Noteholder ). 
+
+WHEREAS, Borrower and Noteholder entered into that
+certain Revolving Promissory Note Agreement, dated January 4, 2021, in the original principal amount of 40,000.00 (the Original
+Note ); and 
+
+WHEREAS, Borrower and Noteholder desire to amend
+the maturity date of the Original Note as provided herein. 
+
+NOW, THEREFORE, in consideration of the premises
+and covenants set forth herein, the parties hereto agree as follows: 
+
+1. Amendment . Section 1(a) of the Original
+Note, captioned Maturity Date, is hereby amended by deleting such section in its entirety and replacing it with the following: 
+
+(a) Maturity Date . The aggregate unpaid Principal Indebtedness,
+all accrued and unpaid interest thereon, and all other amounts payable under this Note shall be due and payable on or before the close
+of business on June 30, 2022 (the Maturity Date ). The Maturity Date may be extended from time to time by the written
+agreement of Borrower and Noteholder. 
+
+2. Defined Terms / No Further Modification .
+Any terms used but not defined herein shall have the meanings ascribed to them in the Original Note. Except as expressly set forth herein,
+the Original Note shall remain unmodified and shall continue in full force and effect. 
+
+Dated as of December 1,
+ 2021. 
+ 
+ OUTDOOR SPECIALTY PRODUCTS, INC. 
+
+Borrower: 
+
+By 
+ /s/
+ Kirk Blosch 
+
+Name: 
+ Kirk Blosch 
+
+Title: 
+ President 
+
+Noteholder: 
+
+/s/
+ Kirk Blosch 
+
+Kirk Blosch 
+
+</EX-10.4>
+
+<EX-10.5>
+ 3
+ f10k2021ex10-5_outdoor.htm
+ REVOLVING PROMISSORY NOTE AGREEMENT WITH ED BAILEY DATED DECEMBER 1, 2021
+
+Exhibit 10.5 
+
+REVOLVING PROMISSORY NOTE
+AGREEMENT 
+
+ OUTDOOR SPECIALTY PRODUCTS,
+INC. 
+
+ (Line of Credit Loan) 
+
+US 7,000.00 
+ December 1, 2021 
+
+FOR VALUE RECEIVED, intending
+to be legally bound hereby, Outdoor Specialty Products, Inc., a Utah corporation having an address of 3842 Quail Hollow Drive, Salt Lake
+City, Utah 84109 Borrower ), hereby promises to pay to the order of Ed Bailey, an individual, or his successors and
+assigns (referred to herein as the Noteholder at 4685 S. Highland Drive, Suite 200, Salt Lake City, Utah 84117,
+the principal sum of SEVEN THOUSAND AND NO/100 DOLLARS (US 7,000.00), or so much of that sum as may be advanced by the Noteholder under
+this Promissory Note from time to time and not repaid (the Principal Indebtedness ), plus interest as computed below. 
+
+The following is a statement
+of the rights and obligations of Borrower and the Noteholder under this Promissory Note (this Note ). 
+
+1. Maturity
+Date; Optional Prepayments . 
+
+(a) Maturity
+Date . The aggregate unpaid Principal Indebtedness, all accrued and unpaid interest thereon, and all other amounts payable under this
+Note shall be due and payable on or before the close of business on June 30, 2022 (the Maturity Date ). The Maturity
+Date may be extended from time to time by the written agreement of Borrower and Noteholder. 
+
+(b) Optional
+Prepayment . Borrower may prepay this Note in whole or in part at any time or from time to time without penalty or premium by paying
+the principal amount to be prepaid together with accrued interest thereon to the date of prepayment. 
+
+2. Interest . 
+
+(a) Interest
+Rate . Except as otherwise provided herein, the outstanding balance of the Principal Indebtedness shall bear interest at the rate of
+three and one-half percent (3.5 per annum. Interest shall accrue daily on the outstanding balance of the Principal Indebtedness both
+before and after judgment. All computations of interest shall be made based on a 360-day year and the actual number of days elapsed. Interest
+shall accrue on the Principal Indebtedness commencing on the day or days on which advances under this Note are made but shall not accrue
+on the Principal Indebtedness on the day on which it is paid. 
+
+(b) Default
+Interest . If any amount payable hereunder is not paid when due, whether at stated maturity, by acceleration or otherwise, such overdue
+amount shall bear interest at a rate equal to twelve percent (12 per annum from the date of such non-payment until such amount is paid
+in full. 
+
+3. Payment
+Mechanics . 
+
+(a) Manner
+of Payment . All payments of interest and principal shall be made in lawful money of the United States of America no later than 5:00
+P.M. on the date on which such payment is due by company check or by wire transfer of immediately available funds to Noteholder at the
+above address or to Noteholder s account at a bank specified by the Noteholder in writing to Borrower from time to time. 
+
+(b) Application
+of Payments . All payments made hereunder shall be applied first, to the payment of any fees or charges outstanding hereunder, second,
+to accrued and unpaid interest and third, to the payment of the outstanding Principal Indebtedness. 
+
+(c) Business
+Day Convention . Whenever any payment to be made hereunder shall be due on a day that is a Saturday, Sunday, or other day on which
+commercial banks in Salt Lake City, Utah are authorized or required by law to close, such payment shall be made on the next succeeding
+business day and such extension will be taken into account in calculating the amount of interest payable under this Note. 
+
+4. Revolving
+Line of Credit . This Note shall be a revolving line of credit under which Borrower may, with the consent of Lender, repeatedly
+draw and repay funds, so long as no default has occurred hereunder beyond any applicable notice and/or cure period and so long as the
+aggregate, outstanding principal balance at any time does not exceed the principal amount of this Note. If, at any time prior to the Maturity
+Date, this Note shall have a zero-balance owing, this Note shall not be deemed satisfied or terminated but shall remain in full force
+and effect for future draws unless terminated on other grounds. 
+
+5. Event
+of Default/Remedies . An event of default will occur if any of the following events occurs: (a) failure to pay any principal or
+interest hereunder within five (5) days after the same becomes due; (b) any representation or warranty made by Borrower hereunder or in
+connection with any borrowing or request for an advance hereunder, or in any certificate, financial statement, or other statement furnished
+by Borrower to Noteholder is untrue in any material respect at the time when made; (c) filing by Borrower of a voluntary petition in bankruptcy
+seeking reorganization, arrangement or readjustment of debts, or any other relief under the U.S. Bankruptcy Code as amended or under any
+other insolvency act or law, state or federal, now or hereafter existing; or (d) filing of an involuntary petition against Borrower in
+bankruptcy seeking reorganization, arrangement or readjustment of debts, or any other relief under the U.S. Bankruptcy Code as amended,
+or under any other insolvency act or law, state or federal, now or hereafter existing, and the continuance thereof for sixty (60) days
+undismissed, unbonded, or undischarged. 
+
+Upon the occurrence of an event of default as
+defined above, the Noteholder may declare the entire unpaid principal balance, together with accrued interest thereon, to be immediately
+due and payable without presentment, demand, protest, or other notice of any kind and shall be entitled to exercise all rights and remedies
+provided in the Loan Agreement, at law and in equity. 
+
+6. Interest
+Limitation . All agreements between the parties to this Note and the holder of this Note are hereby expressly limited so that in
+no contingency or event whatsoever, whether by reason of deferment or advancement of the proceeds of the loan evidenced by this Note,
+acceleration of maturity of this Note, or otherwise shall the amount paid or agreed to be paid to the Noteholder for the use, forbearance
+or detention of the money to be loaned under this Note exceed the maximum interest rate permissible under applicable law. If, from any
+circumstance whatsoever, fulfillment of any provision of this Note or of any other agreement between the parties to this Note and the
+Noteholder, at the time performance of such provision shall be due, shall involve transcending the limit of validity prescribed by law,
+then the obligation to be fulfilled shall be reduced to the limit of such validity. In the event that any payment is received by the Noteholder
+that would otherwise be deemed to be a payment of interest in excess of the maximum allowed by law, such payment shall be deemed to have
+been paid on account of principal at the time of receipt. This provision shall never be superseded or waived and shall control every other
+provision of this Note and all agreements between the parties and the Noteholder. 
+
+7. Severability . If
+any provision of this Note, or the application of any such provision to any person or circumstance, is held to be unenforceable or invalid
+by any court of competent jurisdiction or under any applicable law, Borrower and the Noteholder shall negotiate an equitable adjustment
+to the provisions of this Note with a view to effecting, to the greatest extent possible, the original purpose and intent of this Note,
+and in any event, the validity and enforceability of the remaining provisions of this Note shall not be affected thereby. 
+
+8. Notices .
+Any notice, demand or request required or permitted to be given under this Note shall be in writing and shall be deemed given (a) when
+delivered personally (including by recognized national courier), (b) three (3) days after being deposited in the U.S. mail, first class
+mail, registered or certified, with postage prepaid, or (c) one (1) day after deposit with a nationally recognized overnight courier,
+specifying next day delivery, with written verification of receipt, in each case addressed to the parties at their respective addresses
+set forth in the introductory paragraph hereof or such other address as a party may request by notifying the other in writing. 
+
+9. Governing
+Law . This Note has been executed and delivered, and shall be deemed to have been made, in Salt Lake City, Utah.
+This Note is governed by, and will be construed and enforced in accordance with, the laws of the State of Utah, without giving effect
+to any conflict of laws rules. 
+
+10. Attorney s
+Fees . If this Note is collected by an attorney after default in the payment of principal or interest, either with or without suit,
+the undersigned agrees to pay all costs and expenses of collection including a reasonable attorney s fee. 
+
+11. Waiver
+of Presentment Etc . Borrower hereby waives presentment for payment, protest, demand and notice of dishonor and nonpayment of this
+Note, and consents to all extensions of time, renewals, waivers, or modifications that may be granted by the holder hereof with respect
+to the payment or other provisions of this Note. 
+
+12. Entire
+Agreement: Successors and Assigns . This Note constitutes the entire agreement between Borrower and the Noteholder relative to
+the subject matter hereof. Any previous agreement between Borrower and the Noteholder related to the subject matter hereof is superseded
+by this Note. This Note shall inure to the benefit of, and be binding upon, the respective successors and permitted assigns of the parties. 
+
+13. Waiver
+and Amendment . This Note and the terms hereof may be amended, waived, modified, or discharged only upon the written consent
+of both Borrower and the Noteholder. The waiver by a party of any breach or violation of any provision of this Note will not operate as,
+or be construed to be, a waiver of any subsequent breach or violation hereof. 
+
+2 
+
+IN WITNESS WHEREOF, Borrower
+has executed this Note as of the date first written above. 
+
+COMPANY: 
+
+OUTDOOR SPECIALTY PRODUCTS, INC. 
+
+a Utah corporation 
+
+By 
+ /s/ Kirk Blosch 
+
+Name: 
+ Kirk Blosch 
+
+Title: 
+ President 
+
+ACCEPTED AND AGREED TO: 
+
+/s/
+Ed Bailey 12-20-21 
+
+Ed Bailey 
+
+3 
+
+</EX-10.5>
+
+<EX-21.1>
+ 4
+ f10k2021ex21-1_outdoor.htm
+ SCHEDULE OF THE REGISTRANT'S SUBSIDIARIES
+
+Exhibit 21.1 
+
+Schedule of Subsidiaries 
+
+The Company has no subsidiaries. 
+
+</EX-21.1>
+
+<EX-31.1>
+ 5
+ f10k2021ex31-1_outdoor.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+I, Kirk Blosch, certify that: 
+
+1. I have reviewed this report on Form 10-K of Outdoor Specialty Products, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit
+to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for,
+the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal controls over financial reporting
+(as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the registrant and have: 
+
+a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures
+to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented
+in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and 
+
+d. Disclosed in this report any change in the registrant s internal control over financial reporting
+that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over
+financial reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation
+of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board
+of directors (or persons performing the equivalent functions): 
+
+a. All significant deficiencies and material weaknesses in the design or operation of internal control
+over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize
+and report financial information; and 
+
+b. Any fraud, whether or not material, that involves management or other employees who have a significant
+role in the registrant s internal control over financial reporting. 
+
+Date: December 29, 2021 
+ /s/ Kirk Blosch 
+
+Kirk Blosch 
+
+President, Secretary and Treasurer 
+
+(Principal Executive Officer and 
+
+Principal Financial Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 6
+ f10k2021ex32-1_outdoor.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Outdoor Specialty
+Products, Inc. (the Company on Form 10-K for the fiscal year ended September 30, 2021 as filed with the Securities and
+Exchange Commission on or about the date hereof (the Report ), I, Kirk Blosch, President, Secretary and Treasurer of the
+Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements
+of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly
+presents, in all material respects, the financial condition and results of operations of the Company. 
+
+December 29, 2021 
+ /s/ Kirk Blosch 
+
+Kirk Blosch 
+
+President, Secretary and Treasurer 
+
+A signed original of this written statement
+required by Section 906 of the Sarbanes-Oxley Act has been furnished to Outdoor Specialty Products, Inc. and will be retained by Outdoor
+Specialty Products, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+

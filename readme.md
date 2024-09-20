@@ -16,14 +16,15 @@ Testing
 [nltk_data]   Package punkt is already up-to-date!
 
 
-(.venv) ➜  bisearch git:(master) ✗ python3 HCulturemain.py
-First in data ['20', '1750', '1800', '1923', '2034', '2062', '2098', '2135', '2178', '2186']
-
 
 ```commandline
 
 python3 HCulturefuncs.py
 ```
+
+To test the demo try changing to test
+
+
 
 Install at least once.
 ```commandline

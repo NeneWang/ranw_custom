@@ -1,0 +1,1025 @@
+<Header>
+<FileStats>
+    <FileName>20211216_10-K_edgar_data_216877_0001513162-21-000163.txt</FileName>
+    <GrossFileSize>3998109</GrossFileSize>
+    <NetFileSize>133823</NetFileSize>
+    <NonText_DocumentType_Chars>667949</NonText_DocumentType_Chars>
+    <HTML_Chars>1389098</HTML_Chars>
+    <XBRL_Chars>812949</XBRL_Chars>
+    <XML_Chars>878691</XML_Chars>
+    <N_Exhibits>12</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001513162-21-000163.hdr.sgml : 20211216
+<ACCEPTANCE-DATETIME>20211216110043
+ACCESSION NUMBER:		0001513162-21-000163
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		61
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211216
+DATE AS OF CHANGE:		20211216
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PISMO COAST VILLAGE INC
+		CENTRAL INDEX KEY:			0000216877
+		STANDARD INDUSTRIAL CLASSIFICATION:	HOTELS, ROOMING HOUSE, CAMPS & OTHER LODGING PLACES [7000]
+		IRS NUMBER:				952990441
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-08463
+		FILM NUMBER:		211496378
+
+	BUSINESS ADDRESS:	
+		STREET 1:		165 S DOLLIVER ST
+		CITY:			PISMO BEACH
+		STATE:			CA
+		ZIP:			93449
+		BUSINESS PHONE:		8057735649
+
+	MAIL ADDRESS:	
+		STREET 1:		165 S DOLLIVER ST
+		CITY:			PISMO BEACH
+		STATE:			CA
+		ZIP:			93449
+
+</SEC-Header>
+</Header>
+
+ 0001513162-21-000163.txt : 20211216
+
+10-K
+ 1
+ pcv-20210930.htm
+ FORM 10-K
+
+Form 10-K 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549 FORM (Mark One) ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended , 2021 OR TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from __________ to ___________ 
+ Commission file number (Exact name of registrant as specified in its charter) (State or other jurisdiction of incorporation or organization) (IRS Employer ID No.) , , (Address of Principal Executive Offices) (Zip Code) ) Registrant s telephone number, including area code Securities registered pursuant to Section 12(b) of the Act: Name of Each Exchange on Which Registered Title of Each Class N/A N/A 
+ Securities registered pursuant to Section 12(g) of the Act: Common Stock (Title of Class) Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. YES [ ] NO [X] Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. YES [ ] NO [X] 1 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. YES [ X ] NO [ ] Indicate by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (Subsection 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). YES [ X ] NO [ ] Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (Subsection 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [ ] Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. [ ] Large accelerated filer [ ] Accelerated filer [X] [ ] Smaller reporting company Emerging growth company If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ] Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). YES [ ] NO [ ] State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter. APPLICABLE ONLY TO REGISTRANTS INVOLVED IN BANKRUPTCY PROCEEDINGS DURING THE PRECEDING FIVE YEARS: Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Section 12, 13, or 15 (d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. YES [ ] NO [ ] (APPLICABLE ONLY TO CORPORATE REGISTRANTS) Indicate the number of shares outstanding of each of the registrant's classes of common stock, as of the latest practicable date. DOCUMENTS INCORPORATED BY REFERENCE Portions of the registrant's Notice of 2021 Definitive Proxy Statement for the Annual Meeting of Shareholders to be held January 15, 2022, are incorporated by reference into Part III. 2 
+
+FORM 10-K PART I ITEM 1. BUSINESS a. BUSINESS DEVELOPMENT Pismo Coast Village, Inc., the "Registrant" or the "Company," was incorporated under the laws of the State of California on April 2, 1975. The Company's sole business is owning and operating Pismo Coast Village RV Resort, a recreational vehicle resort (hereinafter the "Resort") in Pismo Beach, California. The Resort has continued to enhance its business by upgrading facilities and services to better serve customers. b. BUSINESS OF ISSUER The Company is engaged in only one business, namely, the ownership and operation of the Resort. The Company generates revenue from rental of camping sites, recreational vehicle storage, recreational vehicle repair and retail sales from a general store and recreational vehicle parts store. Accordingly, all of the revenues, operating profit (loss) and identifiable assets of the Company are attributable to a single industry segment. Pismo Coast Village RV Resort is a full-service 400-space recreational vehicle resort. Its Resort operations include site rentals, RV storage business, video arcade, laundromat, and other income sources related to the operation. The retail operations include a general store, RV parts store, and RV repair shop. In addition, the Company has a recreation department that provides a summer season youth program and recreational equipment rentals. PUBLIC AND SHAREHOLDER USERS The present policy of the Company is to offer each shareholder the opportunity for 45 nights of free use of sites at the Resort; 25 nights may be used during prime time and 20 nights during non-prime time. The free use of sites by shareholders is managed by designating the nights of the year as prime time and non-prime time. A prime time night is one that is most in demand, for example, Memorial Day Weekend and the period from June 1 until Labor Day. Non-prime time is that time with the least demand. Each shareholder is furnished annually a calendar that designates the prime and non-prime time nights; it also provides a schedule of when reservations can be made and the procedure for making reservations. Shareholder's free use of sites average approximately 21 to 24 annually (refer to Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, page 9). SEASONAL ASPECTS OF BUSINESS The business of the Company is seasonal and is concentrated during prime days of the year which are defined as follows: President's Day Weekend, Easter week, Memorial Day Weekend, summer vacation months, Labor Day, Thanksgiving Weekend and Christmas vacation. WORKING CAPITAL REQUIREMENTS By accumulating reserves during the prime seasons, the Company is able generally to meet its working capital needs during off-season. Industry practice is to accumulate funds during the prime season, and use such funds, as necessary, in the off-season. The Company has arranged, but not used, a 500,000 line of credit to ensure funds are available, if necessary, in the off-season. 3 
+
+COMPETITION The Company is in competition with nine other RV parks located within a five-mile radius. Since its property is the only property located adjacent to the beach, it has a competitive edge. The Company is recognized as a recreational vehicle resort rather than a park because of its upgraded facilities and amenities, which include 66 channels of satellite TV, high-speed wireless internet service throughout the property, a heated pool, a miniature golf course and a recreational program. The Resort is noted for its ability to provide full service, which includes RV storage and RV repair and service. The Resort is consistently given high ratings by industry travel guides based on resort appearance, facilities offered, and recreational programs. In November 2007, Pismo Coast Village RV Resort was awarded the designation of 2007/2008 RV Park of the Year, Large Park Category, by the National Association of RV Parks and Campgrounds (ARVC), which has a membership of more than 3,900 properties. Pismo Coast Village RV Resort also received national Park of the Year honors in 1999, 1997, and 1995. In fiscal year 2004, Pismo Coast Village RV Resort was awarded the designation of RV Park of the Year - Mega Park Category 2004 by the California Travel Parks Association (CTPA), now known as the California Association of RV Parks and Campgrounds (CalARVC). These factors allow the Resort to price its site rental fees above most of its competition based on perceived value received. Competition for the tourist market is strong between the cities on the Central Coast of California. Resort management and staff are involved with the City of Pismo Beach, Chamber of Commerce, Conference and Visitors Bureau, and are major sponsors in cooperative events and advertising. The Resort continues to market off-season discounts and place advertisements in trade publications and industry directories. In addition, the Company places its brochure with companies selling or renting recreational vehicles and has found the Resort's website and social media to be very effective. The marketing program also targets groups and clubs by offering group discounts, meeting facilities, and catering services. The Company's marketing plan was funded 38,690 for fiscal year 2021, which was developed out of operating revenues. The major source of the Company's business is repeat business, which has been developed by attention to good customer service and providing quality recreational facilities. ENVIRONMENTAL REGULATION The Company is affected by federal, state and local antipollution laws and regulations. Due to the nature of its business operations (camping, RV storage and small retail store sales), the discharge of materials into the environment is not considered to be of a significant concern, and the EPA has not designated the Company as a potentially responsible party for clean up of hazardous waste. The main property of the Resort is located within the boundaries of those lands under the review and purview of the Coastal Commission of the State of California and the City of Pismo Beach. The water and sewer systems are serviced by the City of Pismo Beach. The Company was subject to state and federal regulations regarding the fiscal year 1996 reconstruction of an outflow structure that empties into Pismo Creek at the north boundary of the Resort. Because the Resort is within the wetlands area, the California Coastal Commission required permits for repair and construction to be reviewed by the following agencies: City of Pismo Beach, State Lands Commission, Regional Water Quality Board, State of California, California Department of Fish and Game, State Department of Parks and Recreation and the Army Corps of Engineers. EMPLOYEES As of September 30, 2021, the Company employed approximately 61 people, with 13 of these on a part-time basis and 48 on a full-time basis. Due to the seasonal nature of the business, additional staff is needed during peak periods and fewer during the off-season. Staffing levels during the fiscal year ranged from approximately 57 employees to 63 employees. Management considers its labor relations to be good. 4 
+
+ADDITIONAL INFORMATION The Company has remained conservative when considering rates and rate increases. As a result of experiencing increasing operational expenses and conducting a local comparative rate study, the Board of Directors (Board) voted to increase all monthly trailer storage fees 6 per month effective January 1, 2021. The Board also voted at the September 2020 meeting to increase all nightly rates 5 per night effective March 1, 2021. It is anticipated the proposed rates will continue to market site usage at its highest value and not negatively impact the Company's ability to capture an optimum market share. c. REPORTS TO SECURITY HOLDERS Pismo Coast Village, Inc. files quarterly reports, an annual report, and periodic reports, providing the public with current information about the Company and its operations with the Securities and Exchange Commission. The Company makes available on its website, www.pismocoastvillage.com, access to its annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and all amendments to those reports as soon as reasonably practicable after such material is electronically filed with or furnished to the Securities and Exchange Commission. The public may read and copy any materials filed with the Securities and Exchange Commission, on official business days during the hours of 10:00 a.m. to 3:00 p.m., at the SEC's Public Reference Room located at 100 F Street, N. E., Washington, D.C. 20549. Information on the operation of the Public Reference Room may be obtained by calling the SEC at 1-800-SEC-0330. The SEC maintains an internet site (http://www.sec.gov) that contains reports, proxy statements, and other information that the Company files electronically with the SEC. ITEM 2. PROPERTIES The Company's principal asset consists of the Resort, which is located at 165 South Dolliver Street in Pismo Beach, California. The Resort is built on a 26-acre site and includes 400 campsites with full hookups and nearby restrooms with showers and common facilities, such as a video arcade, recreation hall, restaurant, general store, swimming pool, laundromat, and three playgrounds. In 1980, the Company purchased a 2.1-acre parcel of real property located at 2250 22nd Street, Oceano, California, at a price of 66,564. The property is being used by the Company as a storage facility for recreational vehicles. The storage capacity of this lot is approximately 121 units. On October 20, 2014, the Company entered into a long-term lease with Verizon Wireless for the installation of a cell tower. The lease term is for five (5) years with up to four (4) additional five (5) year terms unless lessee terminates the lease at the end of the current term. In 1981, the Company exercised an option and purchased a 3.3-acre parcel located at 424 South Dolliver Street, Pismo Beach, California, at a price of 300,000. The property, which previously had been leased by the Company, is used primarily as a recreational vehicle storage yard. The storage capacity of this lot is approximately 120 units. On June 6, 2016, the Company entered into a long-term lease with Verizon Wireless for the installation of a cell tower. The lease term is for five (5) years with up to four (4) additional five (5) year terms unless lessee terminates the lease at the end of the current term. In 1988, the Company purchased approximately 0.6 acres of property at 180 South Dolliver Street, Pismo Beach, California, across the street from the main property, consisting of a large building with a storefront and one large maintenance bay in the rear. Also, on the property is a smaller garage-type building with three parking stalls. The Company enlarged its recreational vehicle repair operation, added RV storage for approximately eleven units and developed the storefront into an RV parts store. The property was purchased for 345,000, of which 300,000 was financed and paid in full during fiscal year 1997. 5 
+
+On December 31, 1998, the Company closed escrow on a parcel of property located at 1295 Sand Dollar Avenue, Oceano, California, to be developed as an additional RV storage facility. The 5.5-acre property is located adjacent to existing Company RV storage. On October 14, 1999, construction was completed, and the Company received County approval to occupy the premises. The property was purchased for 495,000, of which 395,000 was financed and paid in full in July 2000. Development cost amounted to 195,723 and was allocated from operational cash flow. Storage capacity for this property is approximately 408 units and is currently full. On February 28, 2003, the Company closed escrow on a parcel of property to be developed as an additional RV storage facility. The 4.7-acre property is located on Fountain Avenue in Oceano, California, and was purchased for 650,000, of which 500,000 was financed. The note on this property was paid off in September 2005. The construction permit granted by the County of San Luis Obispo was contingent upon permit approval by the California Coastal Commission. In January 2006, the Commission denied the permit based on wetland conditions. The property is currently being considered for another use. Due to the continued demand for RV storage and the denial of the aforementioned permit, the Board of Directors elected to purchase additional property. On January 11, 2006, the Company closed escrow on a six-acre property located at 974 Sheridan Road, Arroyo Grande, California, previously developed as an RV storage facility. The purchase price was 2.1 million, and included approximately 80 existing storage customers. This property had been permitted and developed the previous year, and is considered in good condition with a capacity of approximately 229 units. On April 6, 2006, the Company purchased the 2.2-acre property located at 2030 Front Street in Oceano, California, that it previously rented from Union Pacific Railroad for RV storage. The purchase price was 925,000 and the condition is considered good. The lot is operating at full capacity with 181 units. On May 9, 2008, the Company closed escrow on a 19.55-acre property located at 2180 Arriba Place in Arroyo Grande, California, to be developed for RV storage. The purchase price was 3.1 million for the undeveloped land. The Company received a development permit through the County of San Luis Obispo Planning Commission. The development was completed in May 2010, and the storage capacity is expected to be approximately 900 units. On January 21, 2013, the Company entered into a long-term lease with Verizon Wireless for the installation of a cell tower. The lease term is for five (5) years with up to four (4) additional five (5) year terms unless lessee terminates the lease at the end of the current term. On May 20, 2015, the Company closed escrow on a one-acre property located at 2096 Nipomo Street in Oceano, California, to be developed as an RV Repair and Service facility. The purchase price was 425,000 and required the demolition of a two-story residence. The Company successfully expanded the usable property area by seeking road abandonment. On September 1, 2017, the Company received a Minor Use Permit with conditions from San Luis Obispo County. Construction was completed and the Certificate of Occupancy was received from the County of San Luis Obispo in March of 2021. There is no deferred maintenance on any of the Resort's facilities. The Company's facilities are in good condition and adequate to meet the needs of the shareholder users as well as the public users. The Company continues to develop sufficient revenue from general public sites sales to support a continued positive maintenance program and to meet the demands of shareholders use of free sites. Management considers the Company's insurance policies offer adequate coverage for risk and liability exposure. 6 
+
+1. TRAILER STORAGE YARDS In 1986, the Company leased a parcel of land 100 feet wide by 960 feet long, located at 2030 Front Street in Oceano, California, from the Union Pacific Railroad Corporation. The property is being used by the Company as a storage facility for recreational vehicles. Capital improvements in the amount of 40,000 were made to this property, which provides storage for approximately 180 units. On July 29, 2005, Union Pacific Railroad Corporation sold the property to the Weyrick Family Trust, who, after entering into a five-year lease, agreed to sell the property to the Company for 925,000. This transaction was completed April 6, 2006. Associated with the previously mentioned property, and included within the fenced storage perimeter, is the lease of a ten-foot by 960-foot section belonging to Union Pacific Railroad. This lease also allows for the Company's fence to encroach upon the lessor's property. This annual lease is currently 7,379, with a 3 automatic annual increase. In 1991, the Company developed a lease for a five-acre RV storage lot at the Oceano Airport clear zone as storage for approximately 310 RVs. This lot, which is located at 1909 Delta Lane in Oceano, was developed to replace a 100-unit storage lot that was closed when the lease was not renewed. Construction was completed in January 1992 and capital improvements in the amount of 330,768 were made to this property of which 300,000 was financed and paid in full during fiscal year 1997. The original lease on the storage lot was for five years and the Company executed a third five-year option with the County of San Luis Obispo that expired December 31, 2006. In response to the Company's request for another five-year extension, the County has answered that, until the Oceano Airport Master Plan is updated, the lease will be a month-to-month holdover. On June 2, 2020, the San Luis Obispo County Board of Supervisors voted to approve a lease with the Company following the completion of the Oceano Drainage project. The initial lease term is for two years and may be extended for four additional and successive two-year terms. Monthly lease is set at 3,737 with an annual adjustment based on Consumer Price Index published in July. The Resort leases out areas to other companies to ensure that the best service and equipment are available for guest use or creates cash flow for the Company. These areas are leased from the Company pursuant to the herein below described leases. 1. RECREATIONAL ARCADE AGREEMENT WITH COIN AMUSEMENTS, INC. This agreement is dated November 1, 2021, and pursuant to this agreement, the Company granted Coin Amusements, Inc. the concession to operate various coin-operated game units at the Resort. The one-year term expires on October 31, 2022, and continued renewal is expected without significant impact. 2. WASH MULTIFAMILY LAUNDRY SYSTEMS, GOLETA, CA The seven-year lease that expired October 31, 2016, was renewed for another seven years effective September 1, 2016. The lease grants Wash Multifamily Laundry Systems Wash the right to place and service coin-operated laundry machines on the Resort. The agreement provides that 70 of the Lessee's gross income be paid to the Company as rent. On September 8, 2016, Wash replaced all 18 washers and 18 dryers with new equipment. Continued renewal is expected without significant impact. 3. PISMO COAST INVESTMENTS The Company renewed a lease agreement with Ms. Jeanne Sousa, a California Corporations Licensed Broker, for the lease of a 200-square foot building at the Resort from which she conducts sales activities in the Company's stock. On November 8, 2019, the lease was renewed commencing January 1, 2020 and terminating December 31, 2022. Continued renewal is expected without significant impact. Termination or cancellation may be made by either Lessor or Lessee by giving the other party sixty (60) days written notice. 7 
+
+4. VERIZON WIRELESS The Company entered into a lease with GTE Mobilnet of Santa Barbara Limited Partnership, d/b/a Verizon Wireless, for a 42-foot by 37-foot portion of the RV storage lot located at 2180 Arriba Place, Arroyo Grande, California, for the construction and operation of a cell tower communications facility. The term of the lease is for five years commencing on January 21, 2013. On June 1, 2020 an amendment to the agreement was signed by the Company and Airtouch Cellular d/b/a Verizon Wireless. The amendment set the rent to 2000 per month with an annual increase of 2 . The amendment also stipulated six renewable five-year terms On October 20, 2014, the Company entered into a second lease with GTE Mobilnet of Santa Barbara Limited Partnership, d/b/a Verizon Wireless, for a 40-foot by 40-foot portion of the RV storage lot located at 2250 22 nd Street, Oceano, California, for the construction and operation of a cell tower communications facility. The term of the lease is for five years commencing on October 20, 2014, and ending on October 19, 2019. Continued renewal is expected without significant impact. The Lessee, upon the annual anniversary date of the agreement, may terminate provided that three (3) months prior notice is given to Lessor. On January 14, 2016, the Company entered into a third lease with GTE Mobilnet of Santa Barbara Limited Partnership, d/b/a Verizon Wireless, for the placement of a 22-foot tall flagpole cell tower at 165 South Dolliver, Pismo Beach, California. The lease includes space for the flagpole and equipment enclosure, conduits, and right of way. The term of the lease is for five years commencing on January 14, 2016, and ending on January 13, 2021. Continued renewal is expected without significant impact. The Lessee, upon the annual anniversary date of the agreement, may terminate provided that three (3) months prior notice is given to Lessor. On June 6, 2016, the Company entered into a fourth lease with GTE Mobilnet of Santa Barbara Limited Partnership, d/b/a Verizon Wireless, for a 40-foot by 40-foot portion of the RV storage lot located at 424 South Dolliver Street, Pismo Beach, California, for the construction and operation of a cell tower communications facility. The term of the lease is for five years commencing on June 6, 2016, and ending on June 5, 2021. Continued renewal is expected without significant impact. The Lessee, upon the annual anniversary date of the agreement, may terminate provided that three (3) months prior notice is given to Lessor. 5. ROCK AND ROLL DINER OF OCEANO INC. d/b/a PISMO COAST VILLAGE GRILL The Company entered into a lease with Mr. Marios Pouyioukkas, owner/operator of Rock and Roll Diner of Oceano Inc., for the lease of a 708-square foot space at the Resort from which the concessionaire operates the restaurant facilities as an independent food service operation. The term of the initial lease was from June 18, 2012 until December 31, 2013. The lease was renewed November 1, 2019 for a three-year period beginning January 1, 2020, and will expire December 31, 2022. Continued renewal is expected without significant impact. Termination or cancellation may be made by either Lessor or Lessee by giving the other party thirty (30) days written notice. ITEM 3. LEGAL PROCEEDINGS No pending legal proceedings against the Company other than routine litigation incidental to the business. ITEM 4. (REMOVED AND RESERVED). 8 
+
+PART II ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. a. MARKET INFORMATION There is no market for the Company's common stock, and there are only limited or sporadic transactions in its stock. Ms. Jeanne E. Sousa, a licensed broker/dealer, handled sales of the Company s shares as Pismo Coast Investments. The last transaction the Company is aware of occurred August 10, 2021, at a price of 44,000 for one share conveyed. This price was used for computation of aggregate market value of Company stock on page 2 of this Report. b. HOLDERS The approximate number of holders of the Company's common stock on September 30, 2021, was 1,506. c. DIVIDENDS The Company has paid no dividends since it was organized in 1975, and although there is no legal restriction impairing the right of the Company to pay dividends, the Company does not intend to pay dividends in the foreseeable future. The Company selects to invest its available working capital to enhance the facilities at the Resort, or develop properties supporting the Resort operations. d. SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS The Company does not currently have securities authorized for issuance under equity compensation plans. e. RECENT SALES OF UNREGISTERED SECURITIES: USE OF PROCEEDS FROM REGISTERED SECURITIES The Company does not have sales of unregistered securities. ITEM 6. SELECTED FINANCIAL DATA Not applicable to smaller reporting companies. See Management s Discussion and Analysis. ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS The following analysis discusses the Company's financial condition as of September 30, 2021, compared with September 30, 2020. The discussion should be read in conjunction with the audited financial statement and the related notes to the financial statement and the other financial information included elsewhere in this Form 10-K. Certain information included herein contains statements that may be considered forward-looking statements, such as statements relating to anticipated expenses, capital spending and financing sources. Such forward-looking information involves important risks and uncertainties that could significantly affect anticipated results in the future and, accordingly, such results may differ from those expressed in any forward-looking statements made herein. These risks and uncertainties include, but are not limited to, those relating to competitive industry conditions, California tourism and weather conditions, dependence on existing management, leverage and debt service, the regulation of the recreational vehicle industry, domestic or global economic conditions, and changes in federal or state tax laws or the administration of such laws. 9 
+
+OVERVIEW Pismo Coast Village, Inc. operates as a 400-space recreational vehicle resort. The Company includes additional business operations to provide its users with a full range of services expected of a recreational resort. These services include a store, video arcade, laundromat, recreational vehicle repair, RV parts shop and an RV storage operation. The Company is authorized to issue 1,800 shares of one class, all with equal voting rights and all being without par value. Transfers of shares are restricted by Company bylaws. One such restriction is that transferees must acquire shares with intent to hold the same for the purpose of enjoying camping rights and other benefits to which a shareholder is entitled. Each share of stock is intended to provide the shareholder with the opportunity for 45 nights of free site use per year. However, if the Company is unable to generate sufficient funds from the public, the Company may be required to charge shareholders for services. Management is charged with the task of developing sufficient funds to operate the Resort through site sales to general public guests by allocating a minimum of 175 sites to general public use and allocating a maximum of 225 sites for shareholder free use. The other service centers are expected to generate sufficient revenue to support themselves and/or produce a profit. The Company continues to promote and depend upon recreational vehicle camping as the primary source of revenue. The rental of campsites to the general public provides income to cover expenses, complete capital improvements, and allow shareholders up to 45 free nights camping annually. Additional revenues come from RV storage and spotting, RV service and repair, on-site convenience store, and other ancillary activities such as laundromat, arcade, and bike rental. On March 11, 2020, the World Health Organization declared the outbreak of a coronavirus (COVID-19) a pandemic. In response, the County of San Luis Obispo followed by the Governor of California issued a Shelter at Home order effective March 19, 2020, requiring certain non-essential businesses to temporarily close to the public. The Company began canceling reservations on March 19 and closed the park on March 23. The resort remained closed until May 22, 2020 at which time the County of San Luis Obispo permitted occupancy to fifty percent. On June 5, 2020, the County of San Luis Obispo allowed lodging businesses to operate at full capacity with restrictions on amenities. The RVing public actively seeks accommodations on the Central Coast despite volatile fuel prices and personal financial uncertainties. RVing offers an affordable outdoor recreational experience, and the Company provides quality facilities and services in a highly popular location. Site occupancy for fiscal year 2020 was down 18.0 , following the previous year s occupancy, primarily due to the impacts of COVID-19. Revenues from ancillary operations, such as the General Store, RV service, laundromat, arcade, and bike rental, were significantly decreased due to the COVID-19 closure and ongoing impact. Following the full resort reopening on June 5, 2020, the company experienced multiple months of record occupancy, including fiscal year 2021 reflecting record occupancy. This occupancy has directly impacted the increase of revenue in all segments of the company. RV storage continues to provide a significant portion of the Company s revenue. RV storage provides numerous benefits to the customer including: no stress of towing, no need to own a tow vehicle, use of RV by multiple family members, and convenience. Ongoing investment in Resort improvements has assured Resort guests and shareholders a top quality, up-to-date facility. This quality and pride of ownership was evident when the National Association of RV Parks and Campgrounds Park of the Year was awarded to the Resort for 2007 - 2008. In addition, in 2008 the Resort was the only industry rated "A" park in California for customer satisfaction based on internet visitor surveys collected nationally by Guest Reviews. The Resort also received the Guest Reviews A rated park recognition for the years 2011, 2012, 2013, 2014, 2015, 2016 and one of 30 parks nationally in 2017. 10 
+
+The Company's commitment to quality, value, and enjoyment is underscored by the business' success due to word of mouth and referrals from guests. In addition, investment for online marketing, ads in the leading national directories, and trade magazine advertising formulates most of the business-marketing plan. CURRENT OPERATING PLANS The Board of Directors continues its previously established policy by adopting a stringent conservative budget for fiscal year 2022, which projects a positive cash flow of approximately 2,757,241 from operations. This projection is based on paid site occupancy reflecting similar occupancy as experienced in fiscal year 2019, as fiscal year 2020 occupancy was skewed due to the COVID-19 closure. The 2022 budget plan includes a 5 per night increase for all site rentals effective January 1, 2022. While the Company projects a positive cash flow, this cannot be assured for fiscal year 2022. FINANCIAL CONDITION The business of the Company is seasonal and is concentrated on prime days of the year which are defined as follows: President's Day weekend, Easter week, Memorial Day weekend, summer vacation months, Labor Day weekend, Thanksgiving week, and Christmas/New Year s week. There are no known trends that affect business or affect revenue. The Company develops its income from two sources: (a) Resort Operations, consisting of revenues generated from RV site rentals, from RV storage space operations, and lease revenues from the laundromat, arcade, restaurant operations and property leases for cell tower communications facilities by third party lessees; and (b) Retail Operations, consisting of revenues from general store operations and from RV parts and service operations. With the possibility of requiring additional funds for planned capital improvements and the winter season, the Company maintains a 500,000 Line of Credit to ensure funds will be available if required. In anticipation of future large projects, the Board of Directors has instructed management to build operational cash balances. The Company has no other liabilities to creditors other than current accounts payable arising from its normal day-to-day operations and advance Resort rental reservation deposits, none of which are in arrears. LIQUIDITY The Company's policy is to use its ability to generate operating cash flow to meet its expected future needs for internal growth. The Company has continued to maintain sufficient cash so as to not require the use of a short-term line of credit during the off-season period, and the Company expects to be able to do so (although no assurance of continued cash flow can be given). Net cash provided by operating activities totaled 3,001,405 in 2021, compared to 1,424,339 for the 2020 fiscal year. During fiscal year 2021, capital investment of 169,180 was made that included a new street sweeper, a garbage compactor container, and final construction on the RV shop. During fiscal year 2020, capital investment of 637,041 was made that included construction on the new RV service facility, and a new Hino trailer tow truck. These projects were completed on time and within budget. Fiscal year 2021's current ratio (current assets to current liabilities) of 3.06 increased from fiscal year 2019's current ratio of 2.60. The increase in current ratio is the result of increased cash and cash equivalents. Working Capital increased to 6,377,259 at the end of fiscal year 2021, compared to 4,288,675 at the end of fiscal year 2020. This increase is primarily a result of increased cash and cash equivalents as a result of increased income from Resort operations and postponement of some capital projects. 11 
+
+CAPITAL RESOURCES AND PLANNED EXPENDITURES The Company plans capital expenditures up to 223,000 in fiscal year 2022 to further enhance the Resort facilities and services. This would include upgrading the resort WiFi system, installing six surveillance cameras on the resort, replacing two older pickups, and replacing a tractor. Funding for these projects is expected to come from normal operating cash flows and, if necessary, supplemented with outside financing. These capital expenditures are expected to increase the Resort's value to its shareholders and the general public. RESULTS OF OPERATIONS YEAR-TO-YEAR COMPARISON Revenue: Operating revenue, interest and other income increased above the prior fiscal year ended September 30, 2020, by 2,379,128, or 32.0 . REVENUE BY SEGMENT 2021 2020 OCCUPANCY of Shareholder Site Use 23.8 20.4 of Paid Site Rental 65.4 47.1 Total Site Occupancy 87.5 67.7 of Storage Rental 99.0 99.0 Average Paid Site 67.27 64.8 RESORT OPERATIONS Site Rental 6,421,329 4,469,703 Storage Operations 1,895,295 1,788,939 Support Operations 188,275 121,726 Total 8,504,899 6,380,368 RETAIL OPERATIONS Store 705,779 554,899 RV Repair/Parts Store 600,228 495,488 Total 1,306,007 1,050,387 INTEREST INCOME 981 2,004 TOTAL REVENUE 9,811,887 7,432,759 
+ Occupancy rates on the previous table are calculated based on the quantity occupied as compared to the total sites available for occupancy (i.e., total occupied to number of total available). Average paid site is based on site revenue and paid sites. Resort support operations include revenues received from the arcade, laundromat, recreational activities, and other less significant sources. 12 
+
+2021 COMPARED WITH 2020 Resort operations income increased 2,124,531, or 33.3 , primarily due to COVID-19 and the resort campsites being closed from March 23, 2020 until May 22, 2020. Paid site revenue increased 1,951,626, or 43.7 , due to an increase of 26,372, or 38.2 in paid site night occupancy. Due to the temporary resort closure in 2020, RV Storage and RV Spotting revenue increased 111,526, or 6.5 , for fiscal year ended September 30, 2021. Retail operations income increased 255,620, or 24.3 , primarily due to the impact of COVID-19 on all resort retail segments during fiscal year 2020. While the RV Service operation was able to remain open, the General Store on the resort was closed from March 23, 2020 until June 5, 2020. The RV Service department revenue increased 104,740, or 21.1 above the previous year. The General Store revenue increased 150,879, or 27.2 above the previous year. In an effort to maximize revenue, management continues to stock more appropriate items, more effectively merchandise, and pay greater attention to customer service. In addition, management has actively promoted the RV service and retail operation locally compared to previous years. Interest/Dividend Income decreased 1,023, or 51.0 , below the previous year. Interest Expense decreased to 13,545 in 2021 compared to 17,413 the previous year. Operating Expenses increased 581,865, or 11.1 , as a result of labor, small equipment, credit card service expense, land lease, utilities including water/sewer, gas, electricity, and garbage, and vehicle expense. During the 2020 COVID-19 closure, 50 of the staff continued working. During this time many expenses were reduced or managed accordingly. Maintaining a conservative approach, most expense items were managed well below plan and in many categories below the previous year. The Board of Directors has directed management to continue maintenance projects as needed to provide a first-class resort for campers using recreational vehicles. Income before provision for income tax of 3,470,535, a 172.3 increase above last year, is reflective of increased income from operations. Net income of 2,413,335 for fiscal year 2021 shows an increase of 1,534,479, or 174.6 , above a net income of 878,856 in 2020. This increase in net income is a reflection of the increase in the income before provision for income tax. INFLATION has not had a significant impact on our profit position. The Company has increased rates, which have more than compensated for the rate of inflation. FUTURE OPERATING RESULTS could be unfavorably impacted to the extent that changing prices result in lower discretionary income for customers and/or increased transportation costs to the Resort. In addition, increasing prices affect operations and liquidity by raising the replacement cost of property and equipment. FACTORS THAT MAY AFFECT FUTURE OPERATING RESULTS: A number of factors, many of which are common to the lodging industry and beyond our control, could affect our business, including the following: increased gas prices; increased competition from other resorts in our market; increases in operating costs due to inflation, labor costs, workers' compensation and healthcare related costs, utility costs, insurance and unanticipated costs such as acts of nature and their consequences and other factors that may not be offset by increased rates; changes in interest rates, cost and terms of debt financing; 13 
+
+changes in governmental laws and regulations, fiscal policies and zoning ordinances and the related costs of compliance with laws and regulations, fiscal policies and ordinances; adverse effects of market conditions, which may diminish the desire for leisure travel; and adverse effects of a downturn in the leisure industry. The leisure and travel business is seasonal and seasonal variations in revenue at our Resort can be expected to cause quarterly fluctuations in our revenue. Our revenue is generally highest in the third and fourth quarters. Quarterly revenue also may be harmed by events beyond our control, such as extreme weather conditions, terrorist attacks or alerts, contagious diseases, economic factors, and other considerations affecting travel. To the extent that cash flow from operations is insufficient during any quarter due to temporary or seasonal fluctuations in revenue, we have to rely on our short-term line of credit for operations. In the recent past, events beyond our control, including an economic slowdown and terrorism, harmed the operating performance of the leisure industry generally, and if these or similar events occur again, our operating and financial results may be harmed by declines in average daily rates or occupancy. Carrying our outstanding debt may harm our business and financial results by: requiring us to use a substantial portion of our funds from operations to make required payments on principal and interest, which will reduce the amount of cash available to us for our operations and capital expenditures, future business opportunities and other purposes; making us more vulnerable to economic and industry downturns and reducing our flexibility in responding to changing business and economic conditions; limiting our ability to borrow more money for operations, capital expenditures or to finance acquisitions in the future; and requiring us to sell one or more properties, possibly on disadvantageous terms, in order to make required payments of interest and principal. Our Resort has a need for ongoing renovations and potentially significant capital expenditures in connection with improvements, and the costs of such renovations or improvements may exceed our expectations. Occupancy and the rates we are able to charge are often affected by the maintenance and capital improvements at a resort, especially in the event that the maintenance of improvements is not completed on schedule, or if the improvements result in the closure of the General Store or a significant number of sites. The costs of capital expenditures we need to make could harm our financial condition and reduce amounts available for operations. These capital improvements may also give rise to additional risks including: construction cost overruns and delays; a possible shortage of available cash to fund capital improvements and the related possibility that financing of these expenditures may not be available to us on favorable terms; uncertainties as to market demand or a loss of market demand after capital improvements have begun; 14 
+
+disruption in service and site availability causing reduced demand, occupancy, and rates; and possible environmental issues. We rely on our executive officers, the loss of whom could significantly harm our business. Our continued success will depend, to a significant extent, on the efforts and abilities of our C.E.O. and General Manager, Jay Jamison. Mr. Jamison is important to our business and strategy and to the extent that were he to depart and is not replaced with an experienced substitute, Mr. Jamison's departure could harm our operations, financial condition and operating results. Uninsured and underinsured losses could harm our financial condition, and results of operations. Various types of catastrophic issues, such as losses due to wars, terrorist acts, earthquakes, floods, pollution or environmental matters, generally are either uninsurable or not economically insurable, or may be subject to insurance coverage limitations, such as large deductibles or co-payments. Our Resort is located on the coast of California, which has been historically at greater risk to certain acts of nature (such as severe storms, fires and earthquakes). In the event of a catastrophic loss, our insurance coverage may not be sufficient to cover the full current market value or replacement cost of our lost properties. Should an uninsured loss or a loss in excess of insured limits occur, we could lose all or a portion of the capital we have invested in the Resort, as well as the anticipated future revenue from the Resort. In that event, we might nevertheless remain obligated for any notes payable or other financial obligations related to the property. Inflation, changes in building codes and ordinances, environmental considerations and other factors might also keep us from using insurance proceeds to replace or renovate the Resort after it has been damaged or destroyed. Under these circumstances, the insurance proceeds we receive might be inadequate to restore our economic position on the damaged or destroyed property. ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA Pismo Coast Village, Inc. is responsible for the information and representations contained in this report. The financial statements have been prepared in conformity with accounting principles generally accepted in the United States of America, which we considered appropriate in the circumstances and include some amounts based on our best estimates and judgments. Other financial information in this report is consistent with these financial statements. Our accounting systems include controls designed to reasonably assure assets are safeguarded from unauthorized use or disposition and provide for the preparation of financial statements in conformity with accounting principles generally accepted in the United States of America. These systems are supplemented by the selection and training of qualified financial personnel and an organizational structure that provides for appropriate segregation of duties. 15 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM To the Board of Directors and Shareholders Pismo Coast Village, Inc. 165 South Dolliver Street Pismo Beach, California Opinion on the Financial Statements We have audited the accompanying balance sheets of Pismo Coast Village, Inc. (the Company) (a California corporation) as of September 30, 2021 and 2020, and the related statements of income and comprehensive income, stockholders equity, and cash flows for each of the years in the two-year period ended September 30, 2021 and 2020, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of September 30, 2021 and 2020, and the results of its operations and its cash flows for each of the years in the two-year period ended September 30, 2021, in conformity with accounting principles generally accepted in the United States of America. Basis for Opinion These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. Critical Audit Matters The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 16 
+
+Income Taxes Management s estimates of the deferred tax assets, liabilities and provisions disclosed in Note 7 are based primarily on the differences between depreciation measurements on a tax basis versus GAAP basis, and timing of vacation expense recognition and shareholder site usage. We evaluated the key factors and assumptions used to develop the estimates of income tax provisions in determining that they are reasonable in relation to the financial statements taken as a whole. We identified the evaluation of the Company s income tax provisions as a critical audit matter because the application of tax law and timing of recognition of income tax expense and benefits is complex and involves subjective judgement. We have served as the Company s auditor since 2005. BROWN ARMSTRONG ACCOUNTANCY CORPORATION Bakersfield, California November 12, 2021 17 
+
+PISMO COAST VILLAGE, INC. 
+ BALANCE SHEET 
+ SEPTEMBER 30, 2021 AND 2020 
+
+2021 
+
+2020 
+
+Assets 
+
+Current assets 
+
+Cash and cash equivalents 
+
+Accounts receivable 
+
+Inventories 
+
+Prepaid income taxes 
+
+- 
+
+Prepaid expenses 
+
+Total current assets 
+
+Property and equipment 
+
+Net of accumulated depreciation and amortization 
+
+Total assets 
+
+Liabilities and Stockholders Equity 
+
+Current liabilities 
+
+Accounts payable and accrued liabilities 
+
+Accrued salaries and vacation 
+
+Rental deposits 
+
+Income taxes payable 
+
+- 
+
+Current portion of capital lease obligations 
+
+Total current liabilities 
+
+Long-term liabilities 
+
+Deferred taxes 
+
+PPP Loan Payable 
+
+- 
+
+Capital lease obligations, net of current portion 
+
+Total liabilities 
+
+Stockholders equity 
+
+Common stock par value, shares issued, shares outstanding 
+
+Retained earnings 
+
+Total stockholders equity 
+
+Total liabilities and Stockholders Equity 
+
+The accompanying notes are an integral part of these financial statements. 
+
+18 
+
+PISMO COAST VILLAGE, INC. 
+ STATEMENTS OF INCOME AND COMPREHENSIVE INCOME 
+ YEARS ENDED SEPTEMBER 30, 2021 AND 2020 
+
+2021 
+
+2020 
+
+Income 
+
+Resort operations 
+
+Retail operations 
+
+Total income 
+
+Costs and expenses 
+
+Operating expenses 
+
+Cost of goods sold 
+
+Depreciation 
+
+Total cost and expenses 
+
+Income from operations 
+
+Other income (expense) 
+
+Interest and dividend income 
+
+Interest expense 
+
+) 
+
+) 
+
+PPP loan forgiveness income 
+
+- 
+
+Total other income (expense) 
+
+) 
+
+Income before provision for income tax 
+
+Provision for income tax 
+
+Net income 
+
+Net income per share 
+
+Total comprehensive income per share 
+
+The accompanying notes are an integral part of these financial statements. 
+
+19 
+
+PISMO COAST VILLAGE, INC. 
+ STATEMENT OF CHANGES IN STOCKHOLDERS EQUITY 
+ YEARS ENDED SEPTEMBER 30, 2021 AND 2020 
+
+Accumulated 
+ Other 
+ Comprehensive 
+ Income 
+
+Common Stock 
+
+Retained 
+ Earnings 
+
+Shares 
+
+Amount 
+
+Total 
+
+Balance September 30, 2018 
+
+Net Income 
+
+Unrealized gain on investments 
+
+) 
+
+) 
+
+Balance September 30, 2019 
+
+- 
+
+Net Income 
+
+Unrealized gain on investments 
+
+- 
+
+- 
+
+Balance September 30, 2020 
+
+- 
+
+Net Income 
+
+Unrealized gain on investments 
+
+- 
+
+- 
+
+Balance September 30, 2021 
+
+- 
+
+The accompanying notes are an integral part of these financial statements. 
+
+20 
+
+PISMO COAST VILLAGE, INC. 
+ STATEMENT OF CASH FLOWS 
+ YEARS ENDED SEPTEMBER 30, 2021 AND 2020 
+
+2021 
+
+2020 
+
+Cash flows from operating activities 
+
+Net Income 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation and amortization 
+
+PPP loan forgiveness income 
+
+) 
+
+- 
+
+Accounts receivable 
+
+) 
+
+Inventory 
+
+) 
+
+Prepaid income taxes 
+
+) 
+
+Prepaid expenses 
+
+Accounts payable and accrued liabilities 
+
+Accrued salaries and vacation 
+
+) 
+
+Rental deposits 
+
+Income taxes payable 
+
+- 
+
+Deferred taxes 
+
+) 
+
+Total adjustments 
+
+Net cash provided by operating activities 
+
+Cash flows from investing activities 
+
+Purchases of property and equipment 
+
+) 
+
+) 
+
+Net cash used in investing activities 
+
+) 
+
+) 
+
+Cash flows from financing activities 
+
+Proceeds from Loans 
+
+- 
+
+Acquisition of capital lease assets 
+
+- 
+
+Principal payments on capital lease obligations 
+
+) 
+
+) 
+
+Net cash used in financing activities 
+
+) 
+
+Net increase in cash and cash equivalents 
+
+Cash and cash equivalents beginning of year 
+
+Cash and cash equivalents end of year 
+
+Schedule of payments of interest and taxes 
+
+Cash paid for income tax 
+
+Cash paid for interest 
+
+The accompanying notes are an integral part of these financial statements. 
+
+21 
+
+PISMO COAST VILLAGE, INC. NOTES TO FINANCIAL STATEMENTS SEPTEMBER 30, 2021 AND 2020 and in TOT and TBID assessments due to the City of Pismo Beach and the County of San Luis Obispo included in accrued expenses on the combined balance sheet, respectively. 22 
+
+PISMO COAST VILLAGE, INC. NOTES TO FINANCIAL STATEMENTS SEPTEMBER 30, 2021 AND 2020 PAGE 2 NOTE 2: Summary of Significant Accounting Policies (Continued) , , , and of the Company total revenue for the period ended September 30, 2021, respectively. Revenue from other ancillary goods and services accounts for the remaining of revenue for the period ended September 30, 2021. and on the balance sheet as rental deposits, respectively. and of cash equivalents. to years 
+
+Furniture, fixtures, equipment, and leasehold improvements 
+
+to years 
+
+Transportation equipment 
+
+to years 
+
+23 
+
+PISMO COAST VILLAGE, INC. NOTES TO FINANCIAL STATEMENTS SEPTEMBER 30, 2021 AND 2020 PAGE 3 NOTE 2: Summary of Significant Accounting Policies (Continued) shares issued and outstanding. The financial statements report only basic earnings per share, as there are no potentially dilutive shares outstanding. and for the years ended September 30, 2021 and 2020, respectively. Advertising expense was included in operating expenses on the statement of operations. and in excess of the federally insured limit with Pacific Premier Bank, respectively. However, because Pacific Premier Bank is a member of the Certificate of Deposit Account Registry Service (CDARS), large deposits are divided into smaller amounts and placed with other FDIC insured banks which are also members of the CDARS network. Then, those member banks issue CDs in amounts under 250,000, so that the entire deposit balance is eligible for FDIC insurance. 24 
+
+PISMO COAST VILLAGE, INC. NOTES TO FINANCIAL STATEMENTS SEPTEMBER 30, 2021 AND 2020 PAGE 4 NOTE 2: Summary of Significant Accounting Policies (Continued) 
+
+Building and resort improvements 
+
+Furniture, fixtures, equipment and leasehold improvements 
+
+Transportation equipment 
+
+Construction in progress 
+
+Less accumulated depreciation 
+
+) 
+
+) 
+
+and for the years ended September 30, 2021 and 2020, respectively. and , respectively, and related accumulated amortization was and , respectively. Depreciation expense on assets under capital lease was and for the years ended September 30, 2021 and 2020, respectively. , expiring . The Company received a Letter of Credit written in favor of the County of San Luis Obispo (the County), California for to cover a bond requirement relating to public improvements as part of the Company s construction of a new RV service facility. The Company completed the required public improvements and the Letter of credit has been exonerated. 25 
+
+PISMO COAST VILLAGE, INC. NOTES TO FINANCIAL STATEMENTS SEPTEMBER 30, 2021 AND 2020 PAGE 5 , including Interest at per annum, through January 2023. 
+
+A 2018 Hino truck leased from Donahue Transportation Services Corp, payable in monthly installments of , including interest at per annum, through September 2024. 
+
+A 2019 Hino truck leased from Donahue Transportation Services Corp, payable in monthly installments of , including interest at per annum, through May 2025. 
+
+A 2019 Hino truck leased from Donahue Transportation Services Corp, payable in monthly installments of , including interest at per annum, through December 2025. 
+
+A 2020 Hino truck leased from Donahue Transportation Services Corp, payable in monthly installments of , including interest at per annum, through May 2027. 
+
+Less current portion 
+
+) 
+
+) 
+
+Total capital lease obligations, net of current portion 
+
+2023 
+
+2024 
+
+2025 
+
+2026 
+
+Thereafter 
+
+Present value of future minimum payments 
+
+Less amount representing interest 
+
+) 
+
+Less current portion of capital lease obligations 
+
+) 
+
+Total capital lease obligations, net of current portion 
+
+26 
+
+PISMO COAST VILLAGE, INC. NOTES TO FINANCIAL STATEMENTS SEPTEMBER 30, 2021 AND 2020 PAGE 6 days per year. If the Company is unable to generate sufficient funds from the public, the Company may be required to charge shareholders for services. State Deferred: Federal ) State ) ) Provision for income taxes) ) State ) ) Net deferred income taxes ) ) 
+ 27 
+
+PISMO COAST VILLAGE, INC. NOTES TO FINANCIAL STATEMENTS SEPTEMBER 30, 2021 AND 2020 PAGE 7 NOTE 7: Income Taxes (Continued) 
+
+) 
+
+Unrealized gain on investments 
+
+- 
+
+- 
+
+Total gross deferred tax liabilities 
+
+) 
+
+) 
+
+Vacation accrual 
+
+Federal benefit of state taxes 
+
+Total gross deferred tax assets 
+
+) 
+
+) 
+
+, pursuant to the Paycheck Protection Program (the PPP under Division A, Title I of the CARES Act, which was enacted March 27, 2020. The loan, which was in the form of a note dated April 28, 2020 issued by the borrower, matures on and bears interest at a rate of per annum, payable monthly commencing on November 28, 2020. The note may be prepaid by the borrower at any time prior to maturity with no prepayment penalties. Funds from the loan were only used for payroll costs, costs used to continue group health care benefits, mortgage payments, rent, utilities, and interest on other debt obligations incurred before February 15, 2020. The Company received full forgiveness of the loan as of May 10, 2021. per month. The lease has converted to a month-to-month lease however the lessor is considering a long-term renewal at this time. per month. Future minimum lease payments under this obligation are as follows: 2022 
+ and for the years ended September 30, 2021 and 2020, respectively. 28 
+
+PISMO COAST VILLAGE, INC. NOTES TO FINANCIAL STATEMENTS SEPTEMBER 30, 2021 AND 2020 PAGE 8 and for the years ended September 30, 2021 and 2020, respectively. 29 
+
+PISMO COAST VILLAGE, INC. SCHEDULE OF OPERATING EXPENSES SEPTEMBER 30, 2021 AND 2020 
+
+Advertising and promotion 
+
+Auto and truck expense 
+
+Bad debts 
+
+Contract services 
+
+Corporation expense 
+
+Custodial supplies 
+
+Direct labor 
+
+Employee travel and training 
+
+Equipment lease 
+
+Insurance 
+
+Miscellaneous 
+
+Office supplies and expense 
+
+Payroll tax expense 
+
+Payroll service 
+
+Pension plan match 
+
+Professional services 
+
+Property taxes 
+
+Recreational supplies 
+
+Rent - storage lots 
+
+Repairs and maintenance 
+
+Retail operating supplies 
+
+Security 
+
+Service charges 
+
+Taxes and licenses 
+
+Telephone 
+
+Uniforms 
+
+Utilities 
+
+Total operating expenses 
+
+30 
+
+INDEPENDENT AUDITOR'S REPORT ON SUPPLEMENTAL INFORMATION To the Board of Directors and Shareholders Pismo Coast Village, Inc. 165 South Dolliver Street Pismo Beach, California We have audited the financial statements of Pismo Coast Village, Inc. (the Company) as of and for the years ended September 30, 2021 and 2020, and our reports thereon dated November 12, 2021, which expressed an unqualified opinion on those financial statements, appears on page 16. The supplementary information contained in the Statements of Operations for the Three Months Ended September 30, 2021 and 2020, has been subjected to audit procedures performed in conjunction with the audit of the Company s financial statements. The supplementary information is the responsibility of the Company s management. Our audit procedures included determining whether the supplementary information reconciles to the financial statements or the underlying accounting and other records, as applicable, and performing procedures to test the completeness and accuracy of the information presented in the supplementary information. In forming our opinion on the supplementary information, we evaluated whether the supplementary information, including its form and content, is presented in conformity with accounting principles generally accepted in the United States of America. In our opinion, the supplementary information is fairly stated, in all material respects, in relation to the financial statements as a whole. BROWN ARMSTRONG ACCOUNTANCY CORPORATION B akersfield, C alifornia November 12, 2021 31 
+
+PISMO COAST VILLAGE, INC. 
+ STATEMENTS OF INCOME (UNAUDITED) 
+ THREE MONTHS ENDED SEPTEMBER 30, 2021 AND 2020 
+
+2021 
+
+2020 
+
+Income: 
+
+Resort operations 
+
+2,549,078 
+
+2,372,518 
+
+Retail operations 
+
+361,810 
+
+389,306 
+
+Total income 
+
+2,910,888 
+
+2,761,824 
+
+Costs and expenses: 
+
+Operating expenses 
+
+1,836,557 
+
+1,462,417 
+
+Cost of goods sold 
+
+180,249 
+
+199,329 
+
+Depreciation 
+
+122,747 
+
+104,988 
+
+Total cost and expenses 
+
+2,139,553 
+
+1,766,734 
+
+Income from operations 
+
+771,335 
+
+995,090 
+
+Other income (expense): 
+
+Interest income 
+
+70 
+
+500 
+
+Interest expense 
+
+(2,639) 
+
+(4,250) 
+
+Total other income (expense) 
+
+(2,569) 
+
+(3,750) 
+
+Income before provision for income tax 
+
+768,766 
+
+991,340 
+
+Provision for income tax 
+
+1,696,100 
+
+486,800 
+
+Net income 
+
+(927,334) 
+
+504,540 
+
+Net income per share 
+
+(522.44) 
+
+284.25 
+
+Total comprehensive income per share 
+
+(522.44) 
+
+284.25 
+
+32 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE There has been no change of accountants, nor any disagreement with accountants, on any matter of accounting principle, practices, or financial statement disclosures required to be reported under this item. ITEM 9A(T). CONTROLS AND PROCEDURES DISCLOSURE CONTROLS AND PROCEDURES Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in our reports, filed or submitted under the Securities Exchange Act, is recorded, processed, summarized and reported, within the time periods specified in the Securities and Exchange Commission's rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed in our reports filed under the Exchange Act is accumulated and communicated to management, including our principal executive officer and our principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. Our management, under the direction of our Chief Executive Officer and Chief Financial Officer (who is our principal accounting officer), has evaluated the effectiveness of our disclosure controls and procedures as required by Exchange Act Rule 13a-15(b) as of September 30, 2021 (the end of the period covered by this report). Based on that evaluation, our principal executive officer and our principal accounting officer concluded that these disclosure controls and procedures were effective as of such date. INTERNAL CONTROL OVER FINANCIAL REPORTING Our management is also responsible for establishing internal control over financial reporting ("ICFR") as defined in Rules 13a-I5(f) and 15(d)-15(f) under the 1934 Act. Our ICFR is intended to be designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America. Our ICFR is expected to include policies and procedures that management believes are necessary that: 1. pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the Company; 2. provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the Company are being made only in accordance with authorizations of management and our directors; and 3. provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the Company's assets that could have a material effect on the financial statements. Management recognizes that there are inherent limitations in the effectiveness of any system of internal control, and accordingly, even effective internal control can provide only reasonable assurance with respect of financial statement preparation and may not prevent or detect misstatements. In addition, effective internal control at a point in time may become ineffective in future periods because of changes in conditions or due to deterioration in the degree of compliance with our established policies and procedures. 33 
+
+As of September 30, 2020, management assessed the effectiveness of the Company's internal control over financial reporting (ICFR) based on the criteria for effective ICFR established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) and SEC guidance on conducting such assessments by smaller reporting companies and non-accelerated filers. Based on that assessment, management concluded that, during the period covered by this report, such internal controls and procedures were effective as of September 30, 2021. This Annual Report does not include an attestation report of our independent registered public accounting firm regarding internal control over financial reporting. Management's report was not subject to attestation by our independent registered public accounting firm pursuant to temporary rules of the SEC that permit us to provide only management's report in this Annual Report. There were no changes in our internal control over financial reporting during the fiscal year ended September 30, 2021 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. ITEM 9B. OTHER INFORMATION No disclosure is required under this item. PART III ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE a. The Company's Directors were chosen at the Shareholders Annual Meeting held January 16, 2021. The Directors serve for one year, or until their successors are elected. The names, ages, background and other information concerning the Directors, including other offices held by the Directors with the Company, are set forth below. The following is a list of the Company's Directors and Executive Officers setting forth their functions and experience. There is no understanding or agreement under which the Directors hold office. DAVID BESSOM, Director Age 73 David Bessom attended Bakersfield Jr. College in Bakersfield, CA, receiving an Associate in Arts degree in 1968. That summer, he started working for the Santa Fe Railroad as a brakeman, and in the fall, started attending San Jose State College. He received a Bachelor of Arts degree in 1970 while continuing to work in the railroad industry. Mr. Bessom was employed with the Santa Fe Railroad for 42 years, of which approximately 14 years of that time he was as a full-time elected representative for the Conductors, Brakeman and Yardman for the states of California, Arizona and New Mexico. He retired in the fall of 2008. He and his wife, Linda, were married in 1999, currently reside in Huntington Beach, CA and have four sons between them. Mr. Bessom has served on the Board of Directors since November 2017. SAM BLANK, Director Age 76 Sam Blank served as a public-school teacher and administrator for more than 30 years. He earned Associate, Bachelor s, Master s, and Doctoral degrees from Citrus College, CSU Fullerton, Whittier College, and Brigham Young University, respectively. He holds lifetime California teaching and administrative credentials. Dr. Blank began his career in 1967 as a middle school teacher in the West Covina USD. He soon became an assistant principal in neighboring Charter Oak USD. In 1979, he joined Poway USD, where he served as principal of elementary and middle schools until he retired in 2001. He has been principal of schools that received California Distinguished Schools and National Blue Ribbon Schools honors. Following his retirement from public education, Dr. Blank obtained a real estate salesperson license and is currently affiliated with Coldwell Banker Realty. He and his wife, Bonnie, have been married since 1968 and have resided in Escondido since 1979. Bonnie is also retired with more than 25 years of service as a teacher and high school counselor. Their married daughter and two grandsons live in the North Bay Area. Dr. Blank has served on the Environmental, Health Safety, Finance, Audit, and Operations Committees. He has served on the Board of Directors since November 2016. 34 
+
+HARRY BUCHAKLIAN, Director Age 89 Harry Buchaklian has a B.A. degree from California State University, Fresno, in industrial arts, and a secondary level teaching credential in laboratory electronics and small engine repair. His career included employment as an assistant manager with Western Auto Stores, electronics instructor at Fresno Technical College, and technical supervisor for Sears Roebuck. He retired from Sears Roebuck in 1994. He has been a member of the Board from March 1981 to January 1992 and from September 1995 to present, serving one year as Executive Vice President, and as a chairman of the Policy, Audit and Environmental, Health and Safety Advisory Committees. RODNEY ENNS, Director and Vice President Operations Age 68 Rodney Enns has a B.S. degree in computer engineering from California State University, Fresno, and a secondary math teaching credential from the State of California. He was president, owned and operated, Ennsbrook Ent., an incorporated poultry enterprise, from 1975 to 1995. Mr. Enns then worked as an electrical engineer at Voltage Multipliers, Inc., and was promoted to senior engineer before leaving in August 2005. He is currently teaching high school mathematics and engineering at Milpitas High School in Milpitas, California. He has been a member of the Board of Directors since November 2007, and is currently serving as Vice President - Operations. WILLIAM FISCHER, Director Age 88 William (Bill) Fischer resides in Camarillo, California. He served four years in the U.S. Air Force during the Korean War, attaining the rank of Staff Sergeant. He is a graduate of California State University, Northridge, with a B.S. degree in accounting. He worked in the aerospace, entertainment and public utility industries until 1969 when he was hired by Getty Oil Company s corporate office in Los Angeles, California, as an accounting supervisor. Texaco, Inc. acquired Getty Oil in 1985, and he was promoted to Manager of Benefits Plans Accounting and transferred to Houston, Texas. Mr. Fischer was responsible for the Savings/Thrift, 401(k), and ESOP Plans administration until 1989, when he elected early retirement. He was an independent financial consultant to various companies until 2006. Mr. Fischer also was active in residential real estate from 1989 to 1997, and, since 1980, has had an active real estate broker s license. He is a member of the Veterans of Foreign Wars, Moose, and Knights of Columbus organizations. He looks forward to contributing his financial background to the Board. Mr. Fischer served two years as Executive Vice President and five years as Nominating Committee Chairman. He has been on the Board since January 2002. WAYNE HARDESTY, Director Age 88 Wayne Hardesty graduated from Arizona State University in 1955. He was commissioned an Ensign from the Naval Officer Candidate School in Newport, Rhode Island, in 1956, and was immediately assigned to the Navy Area Audit Office in Los Angeles, California, for duty at U.S.C. and General Dynamics-Pomona. He entered civil service in 1959, and remained with the Audit Office until 1973, at which time he became a price analyst for the U.S. Air Force at Norton Air Force Base working on the MX and Minuteman Project. Mr. Hardesty received his MBA from Southern Illinois University in 1980. He retired from civil service in 1988 and became self-employed, primarily in tax preparation for both individual and business returns. He became a licensed Enrolled Agent in 1989 and currently operates Hardesty Financial Services in Rancho Cucamonga, California. Mr. Hardesty has been a member of the Board since September 2008, has served three years as Chairman of the Audit Committee, and has served eight years as Chief Financial Officer and Vice President Finance and as Chair of the Finance Committee. DENNIS HEARNE, Director Age 83 Dennis Hearne holds an A.A. degree in business administration from Hartnell Junior College in California. He served two years in the Navy. Prior to retirement, he was employed in a family agriculture business, L.A. Hearne Company, located in the Salinas Valley in California, for thirty-seven years, and presently serves as a director of the company s board. Mr. Hearne has also served on the board of directors of the California Feed and Grain Association in Sacramento and the California Crop Improvement Association in Davis. He is a member of Knights of Columbus, serving as treasurer and financial secretary for fifteen years. Mr. Hearne is a retired volunteer fireman with forty years of service, serving the rural area in King City, California. He has been a member of the Board of Directors since September 2006, and served nine years as Chairman of the Nominating Committee. 35 
+
+TERRIS HUGHES, Director Age 72 Terris (Terry) Hughes holds an A.A. degree from Bakersfield Junior College in California in police science. He was employed by Belridge/Shell Oil for twenty-three years, from 1973 to 1997, holding the position of senior training technician for the last ten years of that time. He was employed as an internal consultant for Aera Energy LLC, an oil industry company formed in 1997 between the Shell Oil and Mobil Oil Corporations. His duties were to serve as a behavior base safety advisor and provide safety training to Aera Energy LLC employees. He retired from Aera Energy LLC on December 31, 2014. Mr. Hughes then opened his own business entitled Saf-T-Treasures, and travels the country providing safety motivational presentations to employees of various industries. He has been a member of the Board since January 1996, has served one year as Vice President Policy, three years as Executive Vice President, and five years as President. MARCUS JOHNSON, Director Age 68 Marcus Johnson (Marc) has spent his entire career as an educator in the Central Valley of California. For sixteen years he taught, then spent the next twenty-one years in leadership roles, retiring in 2013 from the Sanger Unified School District, where he spent fourteen years, with twelve of those years as Superintendent. Currently, he serves as the K-12 liaison with the Central Valley Higher Education Consortium (CVHEC), and is also the Executive Director of the Fresno Compact in Fresno, California. In addition to those roles, Mr. Johnson does consulting with schools and districts nationally, and is a published author as well. He has been married to his wife, Penni, for forty-five years, and they currently reside in Wildwood Island in Sanger, California. They have three children and nine grandchildren. Mr. Johnson has been a member of the Board since November 2018. KAREN KING, Director Age 63 Karen King studied business finance and management at California Lutheran University in Thousand Oaks, California, and at the University of Phoenix. From 1991 to 2006, she was employed as Director of Credit Risk and Underwriting Management, Credit Risk Manager, Customer Account Team Lead Underwriting and Quality Control, and as Desktop Underwriter Technology Instructor with Fannie Mae, and, from 2006 to 2008, she was employed with PMI Mortgage Insurance Company as Vice President, National Account Operations in Walnut Creek, California. In June 2008, Mrs. King and her family relocated to Camarillo, California, where she was employed until December 2009 as a sales agent for Camarillo Properties, a local real estate brokerage firm. In December 2009, she accepted employment with Bank of America, and held the positions of Vice President - Investor Audit, Vice President - Executive Customer Relations, Office of the CEO, and Vice President - Operations Risk. She left Bank of America in September 2015 when she was hired by Wells Fargo Bank as Vice President, Senior Business Control Associate. From 2014-2019, Mrs. King served as president on the Camarillo Ranch Foundation Board. She has also been involved with the Camarillo City Ambassadors, the Camarillo Council on Aging, and the Ventura County Council on Aging, representing the City of Camarillo. Mrs. King has been a member of the Board of Directors since November 2016, and is currently serving as the Chair of the Audit Committee. GARRY NELSON, Director and President Age 71 Garry Nelson is a graduate of Cal Poly University, San Luis Obispo, California, and has been involved in agriculture for more than forty years. From 2003 until his retirement in 2014, he was employed as the president and general manager of Vintage Nurseries in Wasco, California, a company that specializes in grapevines. Prior to his employment at Vintage Nurseries, he was vice president and chief operating officer for Belridge Farms for many years. Mr. Nelson was a member of the Shafter City Council for twenty years, serving as mayor for eight of those years. He also serves on the board of Bakersfield Memorial Hospital Foundation and has served on numerous agricultural industry boards. Mr. Nelson has been a member of the Company's Board of Directors since November 2008, has served four years as Executive Vice President and as Chair of the Personnel and Compensation/Benefits Committee, and is currently serving his first year as President. 36 
+
+RONALD NUNLIST, Director Age 83 Ronald Nunlist was employed in the oil business for many years. From 1995 to 1997, he was employed as an operations foreman by Cal Resources LLC, an oil industry company owned by Shell Oil Corporation. From 1997 until his retirement in 1999, Mr. Nunlist was employed as a logistics specialist by Aera Energy LLC, an oil industry company formed between the Shell Oil and Mobil Oil Corporations. Mr. Nunlist presently serves as a planning commissioner for the City of Shafter, California. He has been a member of the Board since January 1986, serving ten years as President (1992 to 1997 and from 2011 to 2016), and ten years as Vice President Operations. GEORGE PAPPI, JR., Director and Executive Vice President Age 59 Mr. Pappi s current occupation is as a property major case general adjuster for The Hartford Insurance. Other positions held during his more than thirty years of employment include office manager, property and bodily injury adjustor, fire and casualty (with extensive construction background), risk management and commercial insurance. He graduated from Cal Poly Pomona with a B.S. in management and human resources. He resides in La Verne, California, and is actively involved in local community and church activities and the United Way organization. Mr. Pappi has been a member of the Board of Directors since January 2004, has served six years as Vice President Secretary, and is currently serving his first year as Executive Vice President. DWIGHT PLUMLEY, Director Age 69 Dwight Plumley attended College of the Sequoias in California, studying electronic engineering and construction real estate. In 1973, he started in the produce equipment industry working for Packers Manufacturing, Inc. as a service and installation supervisor. In 1979, he became employed by Pennwalt Corporation, an international equipment producer, as a project manager and supervisor. Mr. Plumley purchased Packers Manufacturing, Inc. in 1987, and, as president, produced fruit and vegetable packing and processing systems, from small to multimillion-dollar projects, nationwide and internationally. He has also served on the board of directors for Yosemite Bible Camp, a 60-acre facility for up to 350 campers and staff from 1994 to 2006 and served as church deacon from 1984 to 2004. Mr. Plumley has been a member of the Board of Directors since January 2010, and served seven years as Vice President Operations. JERRY ROBERTS, Director, Chief Financial Officer and Vice President - Finance Age 68 Jerry Roberts has an associate of arts degree in math and science from the College of the Sequoias, Visalia, California; a bachelor s degree in biological sciences from the University of the Pacific, Stockton, California; an MBA degree from the Santa Clara University Graduate School of Business, Santa Clara, California; and is licensed by the California State Board of Accountancy as a Certified Public Accountant. He was first licensed in 1982 after fulfilling experience requirements while in the employment of the international accounting firm of Arthur Andersen Co. Mr. Roberts is currently a partner in the accounting, tax and consulting firm of Lampros Roberts, established in 1985. Mr. Roberts has been married to his wife, Denise, since 1978. They have three sons, and currently reside in Los Gatos, California. Mr. Roberts has been a member of the Board since March 2013, and served as Chief Financial Officer and Vice President Finance from January 16, 2021 until resigning for personal reasons on September 24, 2021. BRIAN SKAGGS, Director and Vice President Secretary Age 63 Brian Skaggs received his Bachelor of Science degree in Civil Engineering in 1980, and, in 1988, received a Master s degree in engineering, both degrees from California State University, Fresno. He became a Registered Civil Engineer in the State of California in 1983. In 1980, Mr. Skaggs was hired as Assistant Engineer by Summers Engineering, Inc., was promoted to Civil Engineer in 1983, and in March 1991 was promoted to Senior Civil Engineer and became a partner in the firm. During his years of employment with Summers Engineering, he has worked in the field of water resources engineering in the San Joaquin Valley and other areas in California. Mr. Skaggs has been a member, past vice-president and past president of the American Council of Engineering Companies (ACEC), Sequoia Chapter, and the ACEC Sequoia Chapter was named chapter of the year while he was serving as President. He is also a member of the American Water Works Association, a member of the U.S. Committee on Irrigation and Drainage, and a member of American Society of Civil Engineers. Mr. Skaggs is a member, past vice-president and current president of the Hanford Fraternal Hall Association; a member, past treasurer and past president of the Hanford Celebration Committee; and a member and past treasurer of the Kit Carson Volunteer Fire Department. Mr. Skaggs has been a member of the Board of Directors since May 2016, and is currently serving his third year as the Environmental, Health and Safety Advisory Committee Chair and his first year as Vice President - Secretary. 37 
+
+GARY WILLEMS, Director Age 67 Gary Willems holds a B.A. degree in music education and a California life teaching credential from Fresno Pacific University, as well as a professional clear administrative services credential. Mr. Willems started teaching in 1977 and was a Band Director for thirty years in the Dinuba/Reedley area. He was also Head Marching Band Director of the Reedley High School Band from 1985 to 2007. In 2007, he moved into school administration where he was employed as the Visual and Performing Arts Coordinator and the Administrator of the Dunlap Leadership Academy Charter School (an on-line high school) at Kings Canyon Unified School District. In 2014, Mr. Willems retired from education, and he is now enjoying time with his wife, children and grandchildren. Mr. Willems has served on the Board of Directors since January 2001, served two years as Vice President Secretary, and is currently the Chair of the Nominating Committee. JACK WILLIAMS, Director Age 71 Mr. Williams graduated from San Diego State University in 1974 with a B.S. in accounting. Following that, he has been employed in the field of accounting in a variety of industries, including agriculture, construction, heavy equipment sales, and manufacturing. He was employed as a financial analyst by Texaco Oil Corporation in the Bakersfield, California, area from 1997 until 1999, and as Chief Financial Officer for Goodwill Industries of South-Central California from March 2000 to November 2004. Mr. Williams was an interim controller for Diversified Utilities Services, a position he held from April 2005 to December 2005. He established his own C.P.A. practice in 1983, which he continues to own and operate. Mr. Williams has been a member of the Board since January 1995, and served sixteen years as Chief Financial Officer and Vice President Finance. Mr. Williams was appointed as Chief Financial Officer and Vice President Finance on October 1, 2021, to fill the remaining term upon Mr. Robert s resignation. b. OTHER OFFICERS AND SIGNIFICANT EMPLOYEES JAY JAMISON, Chief Executive Officer/General Manager and Assistant Corporate Secretary Age 68 Jay Jamison has been employed by the Company since June 1997 as General Manager and serves as Assistant Corporate Secretary. In March 2007, the Board changed his title to Chief Executive Officer/General Manager. He has a B.S. degree in Agricultural Management from Cal Poly San Luis Obispo, graduating in 1976. Mr. Jamison was raised on his family s guest ranch, Rancho Oso, in Santa Barbara County, which included a recreational vehicle park, resident summer camp, equestrian facilities and numerous resort amenities. He worked on the ranch throughout his childhood and after college. The family business was sold in 1983, at which time Mr. Jamison was hired by Thousand Trails, Inc., a private membership resort, as a Resort Operations Manager. His last ten years at Thousand Trails were spent managing a 200-acre, 518-site, full-service resort near Hollister, California. He also managed Thousand Trails resorts in Acton and Idyllwild in Southern California. Prior to his employment with the Company, Mr. Jamison was a General Manager with Skycrest Enterprises in Redding and managed Sugarloaf Marina and Resort on Lake Shasta in Northern California between January 1995 and June 1997. Mr. Jamison was appointed to and served as a commissioner on the Pismo Beach Conference and Visitors Bureau from February 1998 to January 2010, serving as Chair from August 1999 until February 2009. At the 1999 National Association of RV Parks and Campgrounds Annual Convention, he was elected to serve on the Board of Directors representing the ten western states. During his two three-year terms on the Board, he served four years as Treasurer of the National Association, a position he held until he termed out December 2005. In June of 2002, Mr. Jamison was installed as a Director on the Board for the San Luis Obispo County Chapter of the American Red Cross, and served until June 2011, including from June 2006 until July 2008 as Board Chairman. In February 2006, Mr. Jamison was elected to serve as a commissioner on the California Travel and Tourism Commission, which markets California to potential domestic and international visitors. During his two four-year terms, he served on the Audit Committee, two years as committee Chairman, and one year on the Executive Committee. He termed out as a commissioner in June 2014; however, he still remains a member of the Audit Committee, and currently serves as Chairman. Mr. Jamison was installed as a member of the Board of Directors for the San Luis Obispo County Conference and Visitors Bureau (Visit San Luis Obispo County) in 2012, and served on the Executive Committee following two years as Board Chair. From 2014 through 2020 Mr. Jamison served as a member of the Advisory Council for the Experience Industry Management (EIM) Department at Cal Poly San Luis Obispo. 38 
+
+c. FAMILY RELATIONSHIPS There are no familial relationships between the Directors nor between the Directors and the Officers. d. INVOLVEMENT IN CERTAIN LEGAL PROCEEDINGS To the knowledge of the Company, none of the officers or directors have been personally involved in any bankruptcy or insolvency proceedings. To the knowledge of the Company, none of the directors or officers have been convicted in any criminal proceedings (excluding traffic violations and other minor offenses) or are the subject of a criminal proceeding which is presently pending, nor have such persons been the subject of any order, judgment, or decree of any court of competent jurisdiction, permanently or temporarily enjoining them from acting as an investment advisor, underwriter, broker or dealer in securities, or as an affiliated person, director or insurance company, or from engaging in or continuing in any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security, nor were any of such persons the subject of a federal or state authority barring or suspending, for more than 60 days, the right of such person to be engaged in any such activity, which order has not been reversed or suspended. e. AUDIT COMMITTEE FINANCIAL EXPERT Our Board of Directors has determined that it does not have a member of its Audit Committee that qualifies as an "audit committee financial expert" as defined in Item 401(e) of Regulation S-B, and is "independent" as the term is used in Item 7(d)(3)(iv) of Schedule 14A under the Securities Exchange Act of 1934, as amended. We believe that the members of our Audit Committee are collectively capable of analyzing and evaluating our financial statements and understanding internal controls and procedures for financial reporting. Due to the fact that the Directors of Pismo Coast Village, Inc. do not receive compensation for the services they provide in that capacity, the Company has been unable to nominate and retain a director with the required expertise to stand for election to the Board of Directors. However, until the time that our Audit Committee has a qualified audit committee financial expert, we believe our engagement of Glenn Burdette (GB), Certified Public Accountants, satisfies this requirement. GB provides the Company's quarterly compilation of the balance sheets and the related statements of income and retained earnings, and cash flows in accordance with Statements on Standards for Accounting and Review Services issued by the American Institute of Certified Public Accountants. f. CODE OF ETHICS On November 8, 2003, the Company's Board of Directors adopted the introduction to our code of ethical conduct. After further review, consideration was given to adopting a more comprehensive and detailed Code. At the meeting of the Executive Committee held June 19, 2009, the committee approved a recommendation to present a revised Code of Ethics to the full Board for adoption. At the Board of Directors meeting held July 18, 2009, the Board unanimously approved the revised and complete Code of Ethics that applies to all the Company's employees and directors, including our principal executive officer, principal financial officer, principal accounting officer or controller, and persons performing similar functions. The complete text of the revised Code of Ethics is filed with this Form 10-K as Exhibit 14. In addition, the Company has posted the Code of Ethics on its website, www.pismocoastvillage.com . 39 
+
+A copy of the Company s Code of Ethics will be provided to any person, without charge, upon written request. Requests for the Company s Code of Ethics should be addressed to: Mr. Jay Jamison, Chief Executive Officer/General Manager Pismo Coast Village, Inc. 165 South Dolliver Street Pismo Beach CA 93449 g. SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE Section 16(a) of the Securities Exchange Act of 1934, as amended, requires the Company s directors, officers, and persons who beneficially own more than ten percent of a registered class of our equity securities within specified time periods to file with the SEC initial reports Form 3 of beneficial ownership and reports of changes Form 4 and Form 5 in beneficial ownership of Common Stock of the Company. To the Company s knowledge, based solely on a review of the copies of such reports furnished to us and written representations that no other reports were required, all of the Company s officers, directors and beneficial owners of greater than ten percent of the outstanding Common Stock complied with the Section 16(a) filing requirements for the fiscal year ended September 30, 2021. ITEM 11. EXECUTIVE COMPENSATION STOCK OPTIONS AND STOCK APPRECIATION RIGHTS GRANTED DURING THE LAST FISCAL YEAR This information required by Item 11 is incorporated by reference in the Company s Definitive Proxy Statement for the Annual Meeting of Shareholders to be held January 15, 2022, under the caption Compensation of Directors and Executive Officers. The Definitive Proxy Statement is expected to be filed with the Commission on or before December 17, 2021. ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS Not applicable. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT a. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS No person owns beneficially of record more than 5 of the Company's securities. b. SECURITY OWNERSHIP OF MANAGEMENT. The following sets forth the securities beneficially owned, directly, by all directors and officers as a group as of September 30, 2021: Board Member Title of Class Amount of Ownership Percent of Class David Bessom 7632 Quebec Drive Huntington Beach CA 92648 Common Stock 1 Share 0.056 Sam Blank 124 Helen Way Escondido CA 92025 Common Stock 1 Share 0.056 Harry Buchaklian 1361 East Ticonderoga Drive Fresno CA 93720 Common Stock 1 Share 0.056 40 
+
+Board Member Title of Class Amount of Ownership Percent of Class Rodney Enns 2577 Sandell Avenue Kingsburg CA 93631 Common Stock 1 Share 0.056 William Fischer 2496 Figleaf Rd Camarillo, CA 93012 Common Stock 1 Share 0.056 Wayne Hardesty 8651 Foothill Boulevard Space 110 Rancho Cucamonga CA 91730 Common Stock 1 Share 0.056 Dennis Hearne 45075 Merritt Street King City CA 93930 Common Stock 2 Shares 0.111 Terris Hughes 2426 Sunset Street Wasco CA 93280 Common Stock 1 Share 0.056 Marcus Johnson 700 Trout Lake Drive Sanger CA 93657 Common Stock 1 Share 0.056 Karen King 52 Maxine Drive Camarillo CA 93010 Common Stock 1 Share 0.056 Garry Nelson 727 Acacia Avenue Shafter CA 93263 Common Stock 1 Share 0.056 Ronald Nunlist 1105 Minter Avenue Shafter CA 93263 Common Stock 4 Shares 0.222 George Pappi, Jr. 5728 Via De Mansion La Verne CA 91750 Common Stock 1 Share 0.056 Dwight Plumley 4212 West Hemlock Avenue Visalia CA 93277 Common Stock 3 Shares 0.166 Jerry Roberts 16230 Camino Del Sol Los Gatos CA 95032 Common Stock 3 Shares 0.166 Brian Skaggs 371 Northstar Drive Hanford CA 93230 Common Stock 1 Share 0.056 Gary Willems 2015 Dorking Avenue Cambria CA 93428 Common Stock 1 Share 0.056 41 
+
+Board Member Title of Class Amount of Ownership Percent of Class Jack Williams 7801 Revelstoke Way Bakersfield CA 93309 Common Stock 1 Share 0.056 All Officers and Directors as a Group Common Stock 26 Shares 1.444 Amount of Ownership: All such shares are owned beneficially and of record, and there are no additional shares known to the Company for which the listed beneficial owner has the right to acquire beneficial ownership as specified in Rule 13D-3(d)(1) of the Exchange Act. c. CHANGES IN CONTROL Not applicable. ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE There have been no transactions during the past two years, or proposed transactions, to which the Company was or is to be a party, in which any of the officers, directors, nominees, named shareholders, or family members of any such persons, had or is to have a direct or indirect material interest, other than transactions where competitive bids determine the rates or charges involved, or where the amount involved does not exceed 120,000, or where the interest of the party arises solely from the ownership of securities of the Company and the party received no extra or special benefit that was not shared by all shareholders. EMPLOYMENT AGREEMENTS See Item 11, Executive Compensation - Employment contracts and termination of employment and change in control arrangements, for a discussion of the current employment contracts between Pismo Coast Village, Inc. and Mr. Jamison. OTHER ARRANGEMENTS During the fiscal years 2021 and 2020, Pismo Coast Village, Inc. paid for various hospitality functions and for travel, lodging and hospitality expenses for spouses who occasionally accompanied directors when they were traveling on company business. Management believes that the expenditures were to Pismo Coast Village, Inc.'s benefit. CERTAIN BUSINESS RELATIONSHIPS None. (1)-(5) INDEBTEDNESS OF MANAGEMENT None. TRANSACTIONS WITH PROMOTERS Not applicable. DIRECTOR INDEPENDENCE Our Board of Directors consists of shareholders of the Resort and therefore are not considered to be "independent" as defined by Section 121A of the American Stock Exchange Listing Standards. The Board considers all relevant facts and circumstances in its determination of independence of all members of the Board (including any relationships set forth in this Form 10-K under the heading "Certain Related Person Transactions"). As disclosed above, the Audit Committee, the Nominating Committee and the Personnel and Compensation/Benefits Committee members are not considered to be independent. 42 
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES The shareholders will vote on the independent audit firm for the fiscal year ending September 30, 2022 at the annual shareholders meeting held on January 15, 2022. The following table discloses the fees that the Company was billed for professional services rendered by its independent public accounting firm, Brown Armstrong Accountancy Corporation, in each of the last two fiscal years. Years Ended September 30, 2021 2020 Audit fees (1) 51,900 53,100 Audit-related fees (2) - - Tax fees (3) - - All other fees (4) 2,500 2,500 Total 54,400 55,600 
+ The previous table reflects fees billed for the audit of the Company's consolidated financial statements included in its Form 10-K and review of its quarterly reports on Form 10-Q. (1) Reflects fees, if any, for consulting services related to financial accounting and reporting matters. (2) Reflects fees billed for tax compliance, tax advice and preparation of the Company's federal tax return. (3) Reflects fees, if any, for other products or professional services not related to the audit of the Company's consolidated financial statements and review of its quarterly reports, or for tax services. (4) AUDIT COMMITTEE'S PREAPPROVAL POLICIES AND PROCEDURES For the fiscal years ended September 30, 2021 and September 30, 2020, all audit related services, tax services and other services were pre-approved by the Audit Committee, which concluded that the provision of such services by Brown Armstrong were compatible with the maintenance of that firm's independence in the conduct of its auditing function. (5) No effort expended on the principal accountant's engagement to audit the registrant's financial statements for the most recent fiscal year was attributed to work performed by persons other than the accountant's full-time, permanent employees. 43 
+
+PART IV ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES EXHIBITS AND INDEX OF EXHIBITS 1. Financial Statements included in this Form 10-K Report: Description Page Report of Independent Registered Accounting Firm 16 Balance Sheets as of September 30, 2021 and 2020 18 Statements of Income and Comprehensive Income for the years ended September 30, 2021 and 2020 19 Statements of Changes in Stockholders Equity for the years ended September 30, 2021 and 2020 2 0 Statements of Cash Flows for the years ended September 30, 2021 and 2020 2 1 Notes to Financial Statements for the years ended September 30, 2021 and 2020 2 2 Independent Auditor's Report on Additional Information 31 Statements of Income (Unaudited) for the three months ended September 30, 2021 and 2020 32 2. Exhibits filed with this Form 10-K Report: Exhibit No . Description of Exhibit 14 Code of Ethics 31.1 Certification of the President of the Company pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 31.2 Certification of the Chief Executive Officer (principal executive officer) of the Company pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 31.3 Certification of the Chief Financial Officer (principal financial officer and principal accounting officer) of the Company pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 32.1 Certification of the President of the Company Pursuant to 18 U.S.C. Subsection 1350, as adopted Pursuant to Section 906 of the Sarbanes Oxley Act of 2002 32.2 Certification of the Chief Executive Officer (principal executive officer) of the Company pursuant to 18 U.S.C. Subsection 1350, as adopted pursuant to Section 906 of the Sarbanes Oxley Act of 2002 32.3 Certification of the Chief Financial Officer (principal financial officer and principal accounting officer) of the Company pursuant to 18 U.S.C. Subsection 1350, as adopted pursuant to Section 906 of the Sarbanes Oxley Act of 2002 44 
+
+SIGNATURES Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. Registrant: PISMO COAST VILLAGE, INC. By: /s/ GARRY NELSON Garry Nelson, President and Chairman of the Board Date: November 12, 2021 Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. By: /s/ JAY JAMISON Jay Jamison, Chief Executive Officer, General Manager and Assistant Corporate Secretary (principal executive officer) Date: November 12, 2021 By: /s/ GARRY NELSON Garry Nelson, President and Chairman of the Board, and Director Date: November 12, 2021 By: /s/ JACK WILLIAMS Jack Williams, Chief Financial Officer, Vice President Finance, and Director (principal financial officer and principal accounting officer) Date: November 12, 2021 By: /s/ GEORGE PAPPI, JR. George Pappi, Jr., Executive Vice President and Director Date: November 12, 2021 By: /s/ BRIAN J. SKAGGS Brian J. Skaggs, Vice President - Secretary and Director Date: November 12, 2021 By: /s/ RODNEY ENNS Rodney Enns, Vice President - Operations and Director Date: November 12, 2021 By: /s/ DAVID BESSOM David Bessom, Director Date: November 12, 2021 By: /s/ SAM BLANK Sam Blank, Director Date: November 12, 2021 By: /s/ HARRY BUCHAKLIAN Harry Buchaklian, Director Date: November 12, 2021 45 
+
+By: /s/ WILLIAM FISCHER William Fischer, Director Date: November 12, 2021 By: /s/ WAYNE HARDESTY Wayne Hardesty, Director Date: November 12, 2021 By: /s/ DENNIS HEARNE Dennis Hearne, Director Date: November 12, 2021 By: /s/ TERRIS HUGHES Terris Hughes, Director Date: November 12, 2021 By: /s/ MARCUS JOHNSON Marcus Johnson, Director Date: November 12, 2021 By: /s/ KAREN KING Karen King, Director Date: November 12, 2021 By: /s/ RONALD NUNLIST Ronald Nunlist, Director Date: November 12, 2021 By: /s/ DWIGHT PLUMLEY Dwight Plumley, Director Date: November 12, 2021 By: /s/ JERRY ROBERTS Jerry Roberts, Director Date: November 12, 2021 By: /s/ GARY WILLEMS Gary Willems, Director Date: November 12, 2021 46 
+
+<EX-99>
+ 2
+ exhibit_99.htm
+ EXHIBIT 99
+
+Exhibit 99 Exhibit 99. Code of Ethics PISMO COAST VILLAGE, INC. (the "Company") CODE OF ETHICS AND BUSINESS CONDUCT FOR DIRECTORS, SENIOR OFFICERS AND EMPLOYEES OF THE COMPANY (the "Code") INTRODUCTION This Code applies to the Chief Executive Officer, President, Chief Financial Officer, Principal Executive Officer, Principal Financial Officer, Principal Accounting Officer, Controller and persons performing similar functions (collectively, the "Senior Officers") along with all directors and employees within the Company (the Senior Officers, directors and employees are hereinafter collectively referred to as the "Employees"). This Code covers a wide range of business practices and procedures. It does not cover every issue that may arise, but it sets out basic principles to guide all Employees of the Company. All Employees should conduct themselves accordingly and seek to avoid the appearance of improper behavior in any way relating to the Company. Any Employee who has any questions about the Code should consult with the Chief Executive Officer, the President, or the Company's audit committee (the "Audit Committee"). The Company has adopted the Code for the purposes of promoting: X honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships; X full, fair, accurate, timely and understandable disclosure in all reports and documents that the Company files with, or submits to, the Securities and Exchange Commission ("SEC") and in other public communications made by the Company that are within the Senior Officer's area of responsibility; X compliance with applicable governmental laws, rules and regulations; X the prompt internal reporting of violations of the Code; and X accountability for adherence to the Code. 1 
+ 
+ HONEST AND ETHICAL CONDUCT Each Senior Officer and member of the Board owes a duty to the Company to act with integrity. Integrity requires, among other things, being honest and candid. Employees must adhere to a high standard of business ethics and are expected to make decisions and take actions based on the best interests of the Company, as a whole, and not based on personal relationships or benefits. Generally, a "conflict of interest" occurs when an Employee's personal interests is, or appears to be, inconsistent with, interferes with or is opposed to the best interests of the Company or gives the appearances of impropriety. Business decisions and actions must be made in the best interests of the Company and should not be influenced by personal considerations or relationships. Relationships with the Company's stakeholders for example suppliers, competitors and customers should not in any way affect an Employee's responsibility and accountability to the Company. Conflicts of interests can arise when an Employee or a member of his or her family receive improper gifts, entertainment or benefits as a result of his or her position in the Company. Specifically, each Employee must: 1. act with integrity, including being honest and candid while still maintaining the confidentiality of information when required or consistent with the Company's policies; 2. avoid violations of the Code, including actual or apparent conflicts of interest with the Company in personal and professional relationships; 3. disclose to the Chief Executive Officer, President, or the Audit Committee any material transaction or relationship that could reasonably be expected to give rise to a breach of the Code, including actual or apparent conflicts of interest with the Company; 4. obtain approval from the Chief Executive Officer, President or the Audit Committee before making any decisions or taking any action that could reasonably be expected to involve a conflict of interest or the appearance of a conflict of interest; 5. observe both the form and spirit of laws and governmental rules and regulations, accounting standards and Company policies; 6. maintain a high standard of accuracy and completeness in the Company's financial records; 7. ensure full, fair, timely, accurate and understandable disclosure in the Company's periodic reports; 8. report any violations of the Code to the Chief Executive Officer, President or Audit Committee; 2 
+ 
+ 9. proactively promote ethical behavior among peers in his or her work environment; and 10. maintain the skills appropriate and necessary for the performance of his or her duties. DISCLOSURE As a result of the Company's status as a public company, it is required to file periodic and other reports with the Securities and Exchange Commission. The Company takes its public disclosure responsibility seriously to ensure that these reports furnish the marketplace with full, fair, accurate, timely and understandable disclosure regarding the financial and business condition of the Company. All disclosures contained in reports and documents filed with or submitted to the Securities and Exchange Commission, or other government agencies, on behalf of the Company or contained in other public communications made by the Company must be complete and correct in all material respects and understandable to the intended recipient. The Senior Officers, in relation to his or her area of responsibility, must be committed to providing timely, consistent and accurate information, in compliance with all legal and regulatory requirements. It is imperative that this disclosure be accomplished consistently during both good times and bad and that all parties in the marketplace have equal or similar access to this information. All of the Company's books, records, accounts and financial statements must be maintained in reasonable detail, must appropriately reflect the Company's transactions, and must conform both to applicable legal requirements and to the Company's systems of internal controls. Unrecorded or "off the book" funds, assets or liabilities should not be maintained unless permitted by applicable law or regulation. Senior Officers involved in the preparation of the Company's financial statements must prepare those statements in accordance with generally accepted accounting principles, consistently applied, and any other applicable accounting standards and rules so that the financial statements materially, fairly and completely reflect the business transactions and financial statements and related condition of the Company. Further, it is important that financial statements and related disclosures be free of material errors. Specifically, each Senior Officer must: 1. familiarize himself or herself with the disclosure requirements generally applicable to the Company; 2. not knowingly misrepresent, or cause others to misrepresent, facts about the Company to others, including the Company's independent auditors, governmental regulators, self-regulating organizations and other governmental officials: 3. to the extent that he or she participates in the creation of the Company's books and records, promote the accuracy, fairness and timeliness of those records; and 4. in relation to his or her area of responsibility, properly review and critically analyze proposed disclosure for accuracy and completeness. 3 
+ 
+ CONFIDENTIALITY In carrying out the Company's business, directors, officers and employees often learn confidential or proprietary information about the Company, its customers, clients, suppliers, or joint venture parties. Directors, officers and employees must maintain the confidentiality of all information so entrusted to them, except when disclosure is authorized or legally mandated. Confidential or proprietary information of the Company, and of other companies, includes any nonpublic information that would be harmful to the relevant company or useful or helpful to competitors if disclosed. COMPLIANCE It is the Company's policy to comply with all applicable laws and governmental rules and regulations. It is the personal responsibility of each director, officer and employee to adhere to the standards and restrictions imposed by those laws, rules and regulations, including those relating to accounting and auditing matters. It is against Company policy and a violation of federal securities laws for a director, officer or employee to trade in securities on the basis of material information not yet publicly disclosed. Any director, officer or employee who possesses nonpublic information about the Company or its business which is material in nature may not trade in any securities affected by such nonpublic information, including the Company's securities, until such time as the information has been made known to the public. A material fact about a company is one that a reasonable investor would be likely to consider important in making a decision to buy, sell or hold the securities of such company. Any director, officer or employee who is uncertain about the legal rules involving a purchase or sale of any Company securities or any securities in companies that he or she is familiar with by virtue of his or her work for the Company, should consult the Audit Committee Chair. FAIR DEALING We have a history of succeeding through honest business competition. We do not seek competitive advantages through illegal or unethical business practices. Each director, officer and employee should endeavor to deal fairly with the Company's customers, clients, service providers, suppliers, competitors and employees. No director, officer or employee should take unfair advantage of anyone through manipulation, concealment, abuse of privileged information, misrepresentation of material facts, or any unfair dealing practice. REPORTING VIOLATIONS The Company, through the Board's Audit Committee, is responsible for applying this Code to specific situations in which questions may arise and has the authority to interpret this Code in any particular situation. This Code is not intended to provide a comprehensive guideline for Senior Officers in relation to their business activities with the Company. Any Employee may seek clarification on the application of this Code from the Audit Committee. 4 
+
+Each Employee must: 1. notify the Company of any existing or potential violation of this Code, and failure to do so is itself a breach of the Code; and 2. not retaliate, directly or indirectly, or encourage others to do so, against any Employee for reports, made in good faith, or any misconduct or violations of the Code solely because that Employee raised a legitimate ethical issue. The Audit Committee will take all action it considers appropriate to investigate any breach of the Code reported to it. All Employees are required to cooperate fully with any such investigations and to provide truthful and accurate information. If the Audit Committee determines that a breach has occurred, it will take or authorize disciplinary or preventative action as it deems appropriate, after consultation with the Company's counsel if warranted, up to and including termination of employment. Where appropriate, the Company will not limit itself to disciplinary action but may pursue legal action against the offending Employee involved. In some cases, the Company may have a legal or ethical obligation to call violations to the attention of appropriate enforcement authorities. Compliance with the Code may be monitored by audits performed by the Audit Committee, the Company's counsel and/or by the Company's outside auditors. All Employees are required to cooperate fully with any such audits and to provide truthful and accurate information. Any waiver of this Code for any Employee may be made only by the Board or the Audit Committee and will be promptly disclosed to stockholders and others, as required by applicable law. The Company must disclose changes to and waivers of the Code in accordance with applicable law. 5 
+
+</EX-99>
+
+<EX-31.1>
+ 3
+ exhibit31_1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1 Exhibit 31.1 Certification required under Section 302 of the Sarbanes-Oxley Act of 2002 CERTIFICATION I, Garry Nelson, certify that: 1. I have reviewed this annual report on Form 10-K of Pismo Coast Village, Inc.; 2. 
+ Based on my knowledge, this report does not
+contain any untrue statement of a material fact or omit to state a
+material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with
+ respect to the period covered by this report; 3. 
+ Based on my knowledge, the financial
+statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results
+ of operations and cash flows of the Company as of, and for, the periods
+ presented in this report; 4. 
+ The Company's other
+certifying officers and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange
+Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for
+ the Company and have: (a) 
+ Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the Company, including
+its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is
+being prepared; (b) 
+ Designed such internal control over financial reporting, or
+caused such internal control over financial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted
+accounting principles; (c) 
+ Evaluated the effectiveness of the Company's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end
+of the period covered by this report based on such evaluation; and (d) 
+ Disclosed in this report any change in the Company's internal
+control over financial reporting that occurred during the Company's most
+ recent fiscal quarter that has materially affected, or is reasonably
+likely to materially affect, the Company's internal control over
+financial reporting; 1 
+ 
+ 5. 
+ The Company's other certifying officers and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting,
+ to the Company's auditors and the audit committee of the Company's
+board of directors (or persons performing the equivalent functions): (a) All
+ significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are
+reasonably likely to adversely affect the Company's ability to record,
+process, summarize and report financial information; and (b) 
+ Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the Company's internal controls
+ over financial reporting. Date: November 12, 2021 Signature: /s/ GARRY NELSON 
+ GARRY NELSON, President and Chairman of the Board 2 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ exhibit31_2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2 Exhibit 31.2 Certification required under Section 302 of the Sarbanes-Oxley Act of 2002 CERTIFICATION I, Jay Jamison, certify that: 1. I have reviewed this annual report on Form 10-K of Pismo Coast Village, Inc.; 2. 
+ Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which
+such statements were made, not misleading with respect to the period
+covered by this report; 3. 
+ Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows
+of the Company as of, and for, the periods presented in this report; 4. 
+ The Company's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as
+defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the Company and have: (a) 
+ Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the Company, including
+its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is
+being prepared; (b) 
+ Designed such internal control over financial reporting, or caused such
+ internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting
+principles; (c) Evaluated
+ the effectiveness of the Company's disclosure controls and procedures
+and presented in this report our conclusions about the effectiveness of
+the disclosure controls and procedures, as of the end of the period
+covered by this report based on such evaluation; and (d) Disclosed
+ in this report any change in the Company's internal control over
+financial reporting that occurred during the Company's most recent
+fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, the Company's internal control over financial
+reporting; 1 
+ 5. 
+ The Company's other certifying officers and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting,
+ to the Company's auditors and the audit committee of the Company's
+board of directors (or persons performing the equivalent functions): (a) All
+ significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are
+reasonably likely to adversely affect the Company's ability to record,
+process, summarize and report financial information; and (b) Any
+ fraud, whether or not material, that involves management or other
+employees who have a significant role in the Company's internal controls
+ over financial reporting. Date: November 12, 2021 Signature: /s/ JAY JAMISON JAY JAMISON, Chief Executive Officer (principal executive officer) 2 
+
+</EX-31.2>
+
+<EX-31.3>
+ 5
+ exhibit31_3.htm
+ EXHIBIT 31.3
+
+Exhibit 31.3 Exhibit 31.3 Certification required under Section 302 of the Sarbanes-Oxley Act of 2002 CERTIFICATION I, Jack Williams, certify that: 1. I have reviewed this annual report on Form 10-K of Pismo Coast Village, Inc.; 2. Based
+ on my knowledge, this report does not contain any untrue statement of a
+ material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered
+by this report; 3.
+ Based on my knowledge, the
+financial statements, and other financial information included in this
+report, fairly present in all material respects the financial condition,
+ results of operations and cash flows of the Company as of, and for, the
+ periods presented in this report; 4.
+ The Company's other certifying
+officers and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules
+13a-15(e) and 15d-15(e)) and internal control over financial reporting
+(as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+Company and have: (a) 
+ Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the Company, including
+its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is
+being prepared; (b) 
+ Designed such internal control over financial reporting, or caused such
+ internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting
+principles; (c) 
+ Evaluated the effectiveness of the Company's disclosure controls and
+procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end
+of the period covered by this report based on such evaluation; and d) 
+ Disclosed in this report any change in the Company's internal control
+over financial reporting that occurred during the Company's most recent
+fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, the Company's internal control over financial
+reporting; 1 
+ 5. The
+ Company's other certifying officers and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to
+the Company's auditors and the audit committee of the Company's board of
+ directors (or persons performing the equivalent functions): (a) All
+ significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are
+reasonably likely to adversely affect the Company's ability to record,
+process, summarize and report financial information; and (b) 
+ Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the Company's internal controls
+ over financial reporting. Date: November 12, 2021 Signature: /s/ JACK WILLIAMS 
+ JACK WILLIAMS, Chief Financial Officer (principal financial officer and principal accounting officer) 2 
+
+</EX-31.3>
+
+<EX-32.1>
+ 6
+ exhibit32_1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1 Exhibit 32.1 Certification required under Section 906 of the Sarbanes-Oxley Act of 2002 PISMO COAST VILLAGE, INC. CERTIFICATION PURSUANT TO 18 U.S.C. Subsection 1350 of the PRESIDENT AND CHAIRMAN OF THE BOARD In
+
+ connection with the Annual Report on Form 10-K (the "Report") of
+Pismo Coast Village, Inc. (The "Company") for the fiscal year ended
+September 30, 2021, the undersigned, Garry Nelson, President and Chairman of
+ the Board of the Company, hereby certifies pursuant to 18 U.S.C.
+Subsection 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that, to the best of the undersigned's
+knowledge and belief: 1. The
+ Report fully complies with the requirements of section 13(a) or 15(d)
+of the Securities Exchange Act of 1934; and 2. The
+ information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the
+Company. Date: 
+
+ November 12, 2021
+ /s/
+
+ GARRY NELSON 
+
+ Garry Nelson, President and Chairman of the Board 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ exhibit32_2.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2 Exhibit 32.2 Certification required under Section 906 of the Sarbanes-Oxley Act of 2002 PISMO COAST VILLAGE, INC. CERTIFICATION PURSUANT TO 18 U.S.C. Subsection 1350 of the CHIEF EXECUTIVE OFFICER In
+
+ connection with the Annual Report on Form 10-K (the "Report") of
+Pismo Coast Village, Inc. (The "Company") for the fiscal year ended September 30, 2021, the undersigned, Jay Jamison, Chief Executive Officer of
+the Company, hereby certifies pursuant to 18 U.S.C. Subsection 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that,
+ to the best of the undersigned's knowledge and belief: 1. The
+ Report fully complies with the requirements of section 13(a) or 15(d)
+of the Securities Exchange Act of 1934; and 2. The
+ information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the
+Company. Date: 
+
+ November 12, 2021
+ /s/
+
+ JAY JAMISON 
+
+ Jay Jamison, Chief Executive Officer 
+
+ (principal executive officer) 
+
+</EX-32.2>
+
+<EX-32.3>
+ 8
+ exhibit32_3.htm
+ EXHIBIT 32.3
+
+Exhibit 32.3 Exhibit 32.3 Certification required under Section 906 of the Sarbanes-Oxley Act of 2002 PISMO COAST VILLAGE, INC. CERTIFICATION PURSUANT TO 18 U.S.C. Subsection 1350 of the CHIEF FINANCIAL OFFICER In
+
+ connection with the Annual Report on Form 10-K (the "Report") of
+Pismo Coast Village, Inc. (The "Company") for the fiscal year ended September 30, 2021, the undersigned, Jack Williams, Chief Financial Officer
+of the Company, hereby certifies pursuant to 18 U.S.C. Subsection 1350,
+as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002,
+that, to the best of the undersigned's knowledge and belief: 1. The
+ Report fully complies with the requirements of section 13(a) or 15(d)
+of the Securities Exchange Act of 1934; and 2. The
+ information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the
+Company. Date: 
+
+ November 12, 2021
+
+/s/ JACK WILLIAMS Jack Williams, Chief Financial Officer (principal financial officer and principal accounting officer) 
+
+</EX-32.3>
+
+<EX-101.SCH>
+ 9
+ pcv-20210930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ pcv-20210930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ pcv-20210930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ pcv-20210930_lab.xml
+ XBRL TAXONOMY EXTENSION LABELS LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ pcv-20210930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

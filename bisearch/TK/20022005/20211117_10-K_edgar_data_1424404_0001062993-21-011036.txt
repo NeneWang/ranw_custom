@@ -1,0 +1,2001 @@
+<Header>
+<FileStats>
+    <FileName>20211117_10-K_edgar_data_1424404_0001062993-21-011036.txt</FileName>
+    <GrossFileSize>2118577</GrossFileSize>
+    <NetFileSize>122738</NetFileSize>
+    <NonText_DocumentType_Chars>306897</NonText_DocumentType_Chars>
+    <HTML_Chars>496091</HTML_Chars>
+    <XBRL_Chars>686719</XBRL_Chars>
+    <XML_Chars>425720</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001062993-21-011036.hdr.sgml : 20211117
+<ACCEPTANCE-DATETIME>20211117150723
+ACCESSION NUMBER:		0001062993-21-011036
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		45
+CONFORMED PERIOD OF REPORT:	20210531
+FILED AS OF DATE:		20211117
+DATE AS OF CHANGE:		20211117
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Wolverine Technologies Corp.
+		CENTRAL INDEX KEY:			0001424404
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53767
+		FILM NUMBER:		211420404
+
+	BUSINESS ADDRESS:	
+		STREET 1:		UNIT #55, 11020 WILLIAMS ROAD
+		CITY:			RICHMOND
+		STATE:			A1
+		ZIP:			V7A 1X8
+		BUSINESS PHONE:		(778) 297-4409
+
+	MAIL ADDRESS:	
+		STREET 1:		UNIT #55, 11020 WILLIAMS ROAD
+		CITY:			RICHMOND
+		STATE:			A1
+		ZIP:			V7A 1X8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Wolverine Exploration Inc.
+		DATE OF NAME CHANGE:	20080118
+
+</SEC-Header>
+</Header>
+
+ 0001062993-21-011036.txt : 20211117
+
+10-K
+ 1
+ form10k.htm
+ FORM 10-K
+
+Wolverine Technologies Corp.: Form 10-K - Filed by newsfilecorp.com 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 10-K 
+ (Mark One) 
+ [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the fiscal year ended May 31, 2021 
+ [ ] TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from [ ] to [ ] 
+ Commission file number 000-53767 
+ Wolverine Technologies Corp. 
+ (Exact name of registrant as specified in its charter) 
+
+Nevada 
+
+98-0569013 
+
+(State or other jurisdiction of incorporation or organization) 
+
+(I.R.S. Employer Identification No.) 
+
+#55-11020-Williams Road, Richmond, British Columbia, Canada 
+
+V7A 1X8 
+
+(Address of principal executive offices) 
+
+(Zip Code) 
+
+Registrant's telephone number, including area code: 778.297.4409 
+ Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of Each Class 
+
+Name of Each Exchange On Which Registered 
+
+N/A 
+
+N/A 
+
+Securities registered pursuant to Section 12(g) of the Act: 
+ N/A 
+ (Title of class) 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 the Securities Act. 
+ Yes No 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act 
+ Yes No 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the last 90 days. 
+ Yes No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-K 229.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+ Yes No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definition of "large accelerated filer," "accelerated filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+ Yes No 
+ The value of Common Stock held by non-affiliates of the Registrant on November 30, 2020 was 1,119,543 based on a market price of 0.002 per share. For purposes of this computation, all executive officers and directors have been deemed to be affiliates. Such determination should not be deemed to be an admission that such executive officers and directors are, in fact, affiliates of the Registrant. 
+ Indicate the number of shares outstanding of each of the registrant's classes of common stock as of the latest practicable date. 
+ 675,626,548 shares of common stock issued outstanding as of November 17, 2021. 
+ DOCUMENTS INCORPORATED BY REFERENCE 
+ None. 
+ 
+ 2 
+
+TABLE OF CONTENTS 
+
+Item 1. Business 
+ 4 
+
+Item 1A. Risk Factors 
+ 12 
+
+Item 2. Properties 
+ 15 
+
+Item 3. Legal Proceedings 
+ 15 
+
+Item 4. Mine Safety Disclosures 
+ 15 
+
+Item 5. Market for Common Equity and Related Stockholder Matters 
+ 15 
+
+Item 6. Selected Financial Data 
+ 16 
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 16 
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 20 
+
+Item 8. Financial Statements and Supplementary Data 
+ 20 
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 35 
+
+Item 9A (T). Controls and Procedures 
+ 35 
+
+Item 9B. Other Information 
+ 36 
+
+Item 10. Directors, Executive Officers and Corporate Governance 
+ 36 
+
+Item 11. Executive Compensation 
+ 39 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 40 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ 41 
+
+Item 14. Principal Accountants Fees and Services 
+ 42 
+
+Item 15. Exhibits, Financial Statement Schedules 
+ 43 
+
+3 
+
+PART I 
+ Item 1. Business 
+ This annual report contains forward-looking statements. These statements relate to future events or our future financial performance. In some cases, you can identify forward-looking statements by terminology such as "may", "should", "expects", "plans", "anticipates", "believes", "estimates", "predicts", "potential" or "continue" or the negative of these terms or other comparable terminology. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks in the section entitled "Risk Factors" that may cause our or our industry's actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. 
+ Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Except as required by applicable law, including the securities laws of the United States, we do not intend to update any of the forward-looking statements to conform these statements to actual results. 
+ Our financial statements are stated in United States Dollars (US and are prepared in accordance with United States generally accepted accounting principles. 
+ In this annual report, unless otherwise specified, all dollar amounts are expressed in United States Dollars and all references to "common shares" refer to the common shares in our capital stock. 
+ As used in this annual report, the terms "we", "us", "our company", "Wolverine", mean Wolverine Technologies Corp., a Nevada corporation, unless otherwise indicated. 
+ Corporate History 
+ Our company was incorporated in the State of Nevada on February 23, 2006 and is quoted on the OTC Pink under the symbol WOLV. 
+ Since we began operations in 2006, the Company has been focused primarily on the exploration for and development of base and precious metal properties located in North America. In February 2007, we acquired a right to earn a 90 interest in approximately 520 claims through a combination of an upfront cash payment of 34,000, an upfront share payment of 34,000,000 common shares of Wolverine, and by making exploration expenditure commitments totaling 600,000 over three years. From 2007 to the present, we spent approximately US 710,757 to earn our 90 interest in the Cache River Property; Shenin Resources Inc. maintains a 10 carried interest in the project. 
+ The Cache River Property now consists of a total of 53 mineral claims of which 6 claims are held under Licence 013472M and an additional 47 claims were recently staked and are held under Licenses 031643M and 031889M. We are not currently conducting any exploration on the Cache River Property but will return to exploration on the Cache River Property in the summer/fall of 2021. 
+ We have not yet determined whether the Cache River Property contain mineral reserves that are economically recoverable. 
+ Our Current Business 
+ We are an exploration stage mining company engaged in the identification, acquisition, and exploration of metals and minerals with a focus on base and precious metals. Our current operational focus is to raise sufficient funds to continue exploration activities on our property in Labrador, Canada, known as the Cache River Property. The Cache River Property consists of a total of 53 mineral claims of which 6 claims are held under Licence 013472M and an additional 47 claims were recently staked and are held under Licenses 031643M and 031889M. We are not currently conducting any exploration on the Cache River Property. We intend to conduct further exploration activities on the Cache River when financing is available. We expect to review other potential exploration projects from time to time as they are presented to us. 
+ 
+ 4 
+
+On April 19, 2016, Wolverine entered into a Share Purchase Agreement with our Director, David Chalk, pursuant to which we have agreed to issue in a private placement 400,000,000 shares of our common stock in consideration for one-third of the net proceeds that Mr. Chalk may realize from the sale of Mr. Chalk's 15 equity interest in Decision-Zone Inc., a privately held cyber-security software company based in Ontario, Canada. The Agreement is subject to our Company increasing its authorized capital to allow for the issuance of the consideration shares. As of the date of this filing, the agreement has not yet closed. 
+ Our business is conducted by independent contractors which include our officers and directors, among others. As of May 31, 2021, the company had three consultants PubCo Services Inc. (Richard Haderer), Texada Consulting Inc. (Bruce Costerd), and David Chalk engaged on a non-exclusive, part time basis, and several other IR, administrative, and accounting consultants who are engaged on an intermittent, as needed basis. Our business plan does not anticipate that we will hire a large number of employees or that we will require extensive office space. We have to date, and plan to continue to acquire most of the industry and geological expertise we require through third party contractual relationships with other companies, which will act as operators of our various interests. Although this exposes us to certain risks on behalf of those operators, it also allows us to participate in the often, unique experience and knowledge that local persons have related to certain properties. 
+ The Company's objectives for the next twelve months include: 
+ 
+ With respect to the Cache River Property, p rior to launching further deeper drilling, a review of all previous geophysical surveys will be completed by a qualified geophysicist to determine which type of new geophysical survey should be performed to locate deeper seated mineralization on the original 6 claims and on the new additional 47 claims that were staked in November and December of 2020 ; 
+
+To complete the Share Purchase Agreement with David Chalk. 
+ 
+ We have suffered recurring losses from operations and anticipate generating losses for the foreseeable future. The continuation of our business is dependent upon obtaining further financing, completing a successful program of exploration and/or development, and, finally, achieving a profitable level of operations. The issuance of additional equity securities by us could result in a significant dilution in the equity interests of our current stockholders. Obtaining commercial loans, assuming those loans would be available, will increase our liabilities and future cash commitments. 
+ There are no assurances that we will be able to obtain further funds required for our continued operations. As noted herein, we are pursuing various financing alternatives to meet our immediate and long-term financial requirements. There can be no assurance that additional financing will be available to us when needed or, if available, that it can be obtained on commercially reasonable terms. If we are not able to obtain the additional financing on a timely basis, we will be unable to conduct our operations as planned, and we will not be able to meet our other obligations as they become due. In such event, we will be forced to scale down or perhaps even cease our operations. 
+ 
+ 5 
+
+Mineral Properties 
+ Summary 
+ The Company has one current mineral project known as the Cache River Property. We have not yet determined if the Cache River Property contains mineral reserves that are economically recoverable. 
+ Cache River Property -Labrador, Canada 
+ Technical Report 
+ Wolverine commissioned G Timothy Froude, B.Sc., P. Geo., a licensed member of the Professional Engineers and Geoscientists of Newfoundland and Labrador to complete a Technical Report on the Cache River Property. The Technical Report, a report compliant with National Instrument 43-101, is dated September 21, 2016 and has been filed on SEDAR at www.sedar.com in conjunction with this Prospectus. The following information concerning the Cache River Property is derived from the Technical Report. The scientific and technical information contained in this 10-K relating to the Cache River Property is supported by the Technical Report, which is subject to certain assumptions, qualifications, and procedures described therein. 
+ Property Description and Location 
+ The Cache River Property is located about 120 kilometres (75 miles) west of Goose Bay, Labrador, a small town of 9,000 people on the Atlantic Coast of northern Canada. It takes approximately one and a half to two hours to drive to the Cache River Property from Goose Bay. 
+ The Cache River Property lie within NTS map sheets 13E/01 and 13F/04 and extends approximately from 53o 11' 08'' N latitude and 62o 11' 56'' W longitude to 53o 06' 34'' N latitude and 61o 57' 02'' W longitude. 
+ Goose Bay features an international airport. From there, the Cache River Property can be accessed directly from the Trans-Labrador Highway. The Cache River Property are easily accessible by the Trans-Labrador Highway, which runs through the central portion of the Cache River Property. The Trans-Labrador Highway is a well-maintained Provincial Highway with a gravel surface. There are no gas stations between Goose Bay and Churchill Falls, the next major community located 290 kilometres (180 miles) to the west of Goose Bay and 160 kilometres (105 miles) to the west of the Labrador Claims. 
+ Access to the Cache River Property is possible for most of the year given the proximity to Goose Bay and the fact that the highway is well maintained. Airborne geophysical surveys are best performed either in late winter (March-April) or during the summer (June-August). Ground geophysical surveys should be scheduled to avoid freeze-up (November-December) and breakup (late April to early June). Ground geological surveys are best conducted with no snow cover (mid June to mid November). 
+ 
+ 6 
+
+Figure 1. Cache River Property Location 
+ Description of Claims 
+ The Cache River Property consists of a total of 53 mineral claims of which 6 claims are held under Licence 013472M and an additional 47 claims were recently staked and are held under Licenses 031643M and 031889M as described in the table below. A layout of the claims is shown in Figure 2 below. 
+
+Summary of the Claims 
+
+Number 
+
+# of Claims 
+
+NTS 
+
+Area 
+
+Good to Date 
+
+(hectares) 
+
+013472M 
+
+6 
+
+13F/04 
+
+150 
+
+05-17-2022 
+
+031643M 
+
+29 
+
+13F/04 
+
+725 
+
+12-13-2025 
+
+031889M 
+
+18 
+
+13F/04 
+
+450 
+
+01-21-2026 
+
+In the Province of Newfoundland and Labrador a mineral claim consists of a 25-hectare square measuring 500 meters per side. A single license can contain from one to 256 claims. The claims are unencumbered and in good standing and there are no third-party conditions which affect the claims other than conditions defined by the Province of Newfoundland and Labrador described below. The claims together make up an aggregate area of 2,825 hectares. We have no insurance covering the claims. Management believes that no insurance is necessary since the claims are unimproved and contain no buildings or improvements. 
+ 
+ 7 
+
+Figure 2 Cache River Property Claims Location 
+ There is no assurance that a commercially viable mineral deposit exists on the Cache River Property. Further exploration will be required before an evaluation as to the economic feasibility of the Cache River Property is determined. Our consulting geophysicist has written a report and provided us with recommendations of how we should explore the property. Until management can validate otherwise, the property is without known reserves. 
+ History of Labrador and the Cache River Property 
+ According to the report prepared by our consulting geophysicist, the geologic setting is based on information available from the Geological Survey of Canada (DNR Open File 013F/0055) and the Government of Newfoundland and Labrador (Open File 013F/0061). The regional geology as described by both government reports contains very little detail because the Trans-Labrador Highway was under construction during much of the mapping initiative, opening in 1992. 
+ Also, the area has seen only limited geologic mapping on a regional scale, in part due to the remoteness of the area and the timing of the Federal and Provincial mapping initiatives that preceded construction of the Trans-Labrador Highway. The mapped geology within the area is part of a regional 1:500,000 compilation undertaken by the Newfoundland and Labrador Provincial Government during the early 1990's. The survey area is located outside of the area of detailed mapping, in which case geologic mapping has been taken from previous publications, most notably a Federal Government regional mapping program from 1990-1994. During the period 1990 to 1994 the area was regionally mapped by the Geological Survey of Canada and by the Mines and Energy Branch of the Newfoundland and Labrador Government. Geologic mapping was performed on a very regional scale, due in part to the remoteness of the area (away from the Trans-Labrador Highway) and the lack of outcrop. In summary there is very little geological mapping within the survey area and there has never been a detailed mapping program. 
+ 
+ 8 
+
+Exploration History 
+ In October 2007 we completed a 1493- line km helicopter borne, AeroTEM electromagnetic, magnetic and radiometric survey over the Cache River property at a line spacing of 100 meters. The airborne survey identified 8 conductive targets which warranted ground follow-up. 
+ In the fall of 2009, geological reconnaissance, along with prospecting and (rock) sampling, was completed on three of our eleven licenses on the Cache River Property. Some, but not all of the known mineralized (copper and gold) zones were sampled as this was more of a reconnaissance exercise until a more systematic program is put in place. In addition, to the usual base metal sampling, scintillometer surveys were done on the exposed rock cuts along the highway and selected areas of the southern portions of the three licenses (to test for potential radioactive and rare earth element mineralization). 
+ Work on the property during June of 2010 consisted of prospecting, sampling and geological reconnaissance on, and around, electro-magnetic and radiometric anomalies that were identified during the 2007 airborne survey. Earlier sampling on rock cuts along the highway had shown copper and gold values up to 6.4 copper and 108 ppb gold, that warranted further exploration. 
+ Continued prospecting during July 2010 on other areas of the property has revealed additional outcrops containing malachite (oxidized copper mineral) alteration on the western end of the property near anomaly number one. 
+ In August and September of 2010, a follow up program of diamond drilling was contracted to an Ontario, Canada, drilling company and a total of 522.5 meters was drilled in 6 holes. 
+ In November and December 2010 an induced polarization (IP) Survey was completed on two grids located on the property. Grid 1 consisted of 19, 1.6 km lines oriented at 360 degrees. Five of those lines were cut short (1.2 km) due to a large lake that was not completely frozen at the time of the survey and was considered unsafe. A 1.8 km base line oriented at 090 degrees crossed the centre of the grid. Grid 2 consisted of 13 lines that varied from 750 m, in the south to 1500 m in the north. The lines were oriented at 090 degrees with a baseline 1.2 km long, oriented at 360 degrees. 
+ In June of 2011 we conducted a prospecting program which defined the eleven drill targets in the anomalous areas which were identified by the Induced Polarization Survey completed in late 2010. 
+ In the fall of 2011, a follow up program of diamond drilling was contracted to an Ontario, Canada drilling company and a total of 271 meters was drilled in 4 holes. 
+ In the fall of 2012, a follow up program of diamond drilling consisting of two holes was drilled by Innu-Cartwright Drilling Limited Partnership. 
+ Exploration Results 
+ Disseminated mineralization consisting mainly of pyrite, pyrrhotite and chalcopyrite were detected in several areas of the property. Mineralization was first noted in roadside rock cuts, samples were taken but the GPS location was not recorded as none were available, only a generalized location within several metres was given to the geologist. 
+ After acquiring the property, an airborne electromagnetic, magnetic and radiometric survey was completed, and several anomalies were detected. Wolverine then engaged a geologist to supervise the prospecting, trenching and drilling program. Prospecting revealed other zones of disseminated copper and gold mineralization, mainly in rock cuts along the highway which had the best exposure as most of the property is covered by marsh and forested overburden. 
+ 
+ 9 
+
+Diamond drilling on two airborne anomalous areas revealed disseminated mineralization in four of the six drill holes. 
+ An induced polarization (IP) survey was completed on two selected areas that detected 23 anomalous zones. 
+ Of the four holes drilled in the fall of 2011, two had minor indications of sulphide mineralization with magnetite, while one contained disseminated mineralization consisting of blebs of chalcopyrite and pyrite for approximately 37 metres (121 feet). 
+ The two anomalies drilled in the fall of 2012 at approximately 50-degree angles did not intersect sufficient amounts of mineralization to account for the magnitude of that picked up by the IP survey. There are very minor amounts of pyrite and the rock is slightly magnetic with only background radioactivity. 
+ Quality Assurance/Quality Control 
+ All drill core samples were cut lengthwise with a rock saw. Half of the sample was retained for future reference and the other was sent by Canada Post, insured and delivered to the laboratory. Sample sections were measured by depth markers in the core boxes and confirmed by the geologist. Results were mailed back to the geologist and confirmed by the chief chemist's signature. A portion of the laboratory sample was retained at the laboratory for a period of one year. 
+ Surface bedrock sample sites were selected by geologists and prospectors. GPS readings recorded the locations. Samples were stored in new industrial plastic sample bags with the sample number which was also recorded in note books. Samples were again sent by Canada Post with the same procedure noted above. 
+ Present Condition of the Cache River Property 
+ The mineralization found to date on the Cache River Property consists primarily of copper and gold mineralization in sulphide with associated pyrite (a non-economic sulphide mineral). There are also a number of malachite veins (and malachite-stained outcrops). 
+ The country rocks have been identified as meta-sedimentary gneiss. Locally, gabbros and diorites have been identified by surface prospecting. 
+ Based on the mineralization and the known geologic rock types, there appear to be three possible deposit types that could host mineralization within the Cache River Property; 1) porphyry copper-gold in sulphide, 2) volcanogenic (Cu-Pb-Zn) massive sulphide, or 3) magmatic nickel-copper sulphide. 
+ Copper-gold (Cu-Au) deposits occur within sedimentary rocks when a stock intrudes into the sediments and heats up the ground water. The heated fluids pick up copper and other metals as they percolate through fractures opened up within the sediments. Mineralization is mostly disseminated, but significant veins of chalcopyrite, rich in gold, are also present. The presence of chalcopyrite in meta-sediment and malachite staining are excellent indicators for a copper-gold system. 
+ VMS deposits are commonly formed by deposition of hot metals into seawater from volcanic vents on the seafloor. The main metals include copper, zinc, lead, gold and silver. Within the Cache River Property there are no mapped volcanic rocks, although the known mineralization has been found within gabbro and diorite. 
+ Magmatic nickel-copper sulphide deposits are hosted in mafic to ultramafic rocks such as gabbro, norite, and troctolite. Other rock types commonly associated with these host rocks are diorites and anorthosites. Within the Cache River Property chalcopyrite mineralization was identified in a gabbro and separately associated with a diorite dyke. 
+ The Cache River Property are almost completely covered by overburden and tree cover. Rock outcrops are best observed along the highway where they have been uncovered. 
+ 
+ 10 
+
+The climate within the area is typically northern with short hot summers and long cold winters. Winter temperatures can range from -15 o C to -35 o C and occasionally fall to below -42 o C. 
+ There is no equipment, infrastructure or electricity currently on the property. 
+ There have been no previous airborne surveys in this area that are within 35 kilometers (22 miles) of the Cache River Property. The area would have been covered as part of the Federal Government regional airborne magnetic survey, but this survey would not have the sufficient resolution to identify magnetic units less than 1 kilometer in size and could not detect any conductive mineralization. 
+ Geology of the Cache River Property 
+ Geologically the area is mapped as early to late Proterozoic meta-sediments that have been metamorphosed to gneisses. Major gabbroic and anorthositic intrusives have intruded the gneisses several kilometers to the east and local gabbros and diorites occur throughout the area along with several quartz veins. Large tourmaline crystals have also been identified on the property. The area has little outcrop and is covered by overburden, generally sand and gravel. Spruces trees are abundant but are not very tall. 
+ The presence of several copper showings and malachite staining in the limited outcrop suggests that a mineralizing event of copper and gold has intruded into the meta-sedimentary rocks. The nature of the mineralization is likely to be copper veins and disseminations with associated gold. It is also possible that magmatic nickel and copper mineralization could be present with associated platinum group elements within gabbros. 
+ Environmental Liabilities 
+ Management is not aware of any environmental liabilities, which may have effect on the Company. The Company intends to fully comply with all environmental regulations. 
+ Recommendations 
+ The work recently completed on the Cache River Property has identified an area that could host significant copper and gold mineralization in a previously unexplored area. Exploration programs conducted between 2006 and 2012 consisting of prospecting, trenching and diamond drilling did not return significant results. However airborne and ground geophysical surveys identified numerous anomalies. Much of the previous drilling was limited in depth and many anomalies remain untested. Prior to launching further deeper drilling, a review of all previous geophysical surveys will be completed by a qualified geophysicist to determine which type of new geophysical survey should be performed to locate deeper seated mineralization on the original 6 claims and on the new additional 47 claims that were staked in November and December of 2020. 
+ A proposed 100,000 program is recommended to complete Phase 1. 
+
+Phase 1 Program Proposed Expenditures 
+
+CDN 
+
+Project Management/Staff Costs 
+
+10,000 
+
+Geophysicist (review of previous geophysics/work; recommend new program) 
+
+15,000 
+
+Geophysical survey - to be determined 
+
+55,000 
+
+Report revision/miscellaneous 
+
+7,500 
+
+Subtotal 
+
+87,500 
+
+Contingency 13 
+
+12,500 
+
+Phase 1 Total 
+
+100,000 
+
+11 
+
+Subsidiaries 
+ We do not have any subsidiaries. 
+ Intellectual Property 
+ We do not own, either legally or beneficially, any patent or trademark. 
+ REPORTS TO SECURITY HOLDERS 
+ We are not required to deliver an annual report to our stockholders but will voluntarily send an annual report, together with our annual audited financial statements upon request. We are required to file annual, quarterly and current reports, proxy statements, and other information with the Securities and Exchange Commission. Our Securities and Exchange Commission filings are available to the public over the Internet at the SEC's website at http://www.sec.gov . 
+ The public may read and copy any materials filed by us with the SEC at the SEC's Public Reference Room at 100 F Street, NE, Washington DC 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. We are an electronic filer. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC. The Internet address of the site is http://www.sec.gov . 
+ Item 1A. Risk Factors 
+ Much of the information included in this annual report includes or is based upon estimates, projections or other "forward looking statements". Such forward looking statements include any projections and estimates made by us and our management in connection with our business operations. While these forward-looking statements, and any assumptions upon which they are based, are made in good faith and reflect our current judgment regarding the direction of our business, actual results will almost always vary, sometimes materially, from any estimates, predictions, projections, assumptions or other future performance suggested herein. 
+ Such estimates, projections or other "forward looking statements" involve various risks and uncertainties as outlined below. We caution the reader that important factors in some cases have affected and, in the future, could materially affect actual results and cause actual results to differ materially from the results expressed in any such estimates, projections or other "forward looking statements". 
+ If we do not obtain additional financing, the business plan will fail. 
+ Our current operating funds are insufficient to complete the next phases of our proposed exploration program on our Labrador mineral claims. We will need to obtain additional financing in order to complete our business plan and our proposed exploration program. Our business plan calls for significant expenses in connection with the exploration of the Labrador Claims. We have not made arrangements to secure any additional financing. 
+ Because we have only recently commenced business operations, we face a high risk of business failure and this could result in a total loss of your investment. 
+ We are not currently conducting any exploration and are in the initial stages of exploration of the Labrador Claims, and thus have no way to evaluate the likelihood whether our company will be able to operate our business successfully. Our Company was incorporated on February 23, 2006 and to date we have been involved primarily in organizational activities, obtaining financing and preliminary exploration of the Labrador Claims. We have not earned any revenues and we have never achieved profitability as of the date of this annual report. Potential investors should be aware of the difficulties normally encountered by new mineral exploration companies and the high rate of failure of such enterprises. The likelihood of success must be considered in the light of problems, expenses, difficulties, complications and delays encountered in connection with the exploration of the mineral properties that our company plans to undertake. These potential problems include, but are not limited to, unanticipated problems relating to exploration and additional costs and expenses that may exceed current estimates. We have no history upon which to base any assumption as to the likelihood that its business will prove successful, and we can provide no assurance to investors that our company will generate any operating revenues or ever achieve profitable operations. If our company is unsuccessful in addressing these risks its business will likely fail and you will lose your entire investment in this offering. 
+ 
+ 12 
+
+Because our company has only recently commenced business operations, we expect to incur operating losses for the foreseeable future. 
+ Our company has never earned any revenue and our company has never been profitable. Prior to completing exploration on the Labrador Claims, we may incur increased operating expenses without realizing any revenues from the Labrador Claims, this could cause our company to fail and you will lose your entire investment in this offering. 
+ If we do not find a joint venture partner for the continued development of our mineral claims, we may not be able to advance exploration work. 
+ If the results of the exploration program are successful, we may try to enter into a joint venture agreement with a partner for the further exploration and possible production of the Labrador Claims. Our company would face competition from other junior mineral resource exploration companies who have properties that they deem to be attractive in terms of potential return and investment cost. In addition, if our company entered into a joint venture agreement, our company would likely assign a percentage of our interest in the Labrador Claims to the joint venture partner. If our company is unable to enter into a joint venture agreement with a partner, our company may fail and you may lose your entire investment in this offering. 
+ Because of the speculative nature of mineral property exploration, there is substantial risk that no commercially viable deposits will be found and our business will fail. 
+ Exploration for base and precious metals is a speculative venture involving substantial risk. We can provide investors with no assurance that the Labrador Claims contain commercially viable mineral deposits. The exploration program that our company will conduct on the Labrador Claims may not result in the discovery of commercial viable mineral deposits. Problems such as unusual and unexpected rock formations and other conditions are involved in base and precious metal exploration and often result in unsuccessful exploration efforts. In such a case, we may be unable to complete our business plan and you could lose your entire investment. 
+ Because of the inherent dangers involved in base and precious metal exploration, there is a risk that our company may incur liability or damages as we conducts our business. 
+ The search for base and precious metals involves numerous hazards. As a result, our company may become subject to liability for such hazards, including pollution, cave-ins and other hazards against which we cannot insure or against which we may elect not to insure. Our company currently has no such insurance nor do we expect to get such insurance in the foreseeable future. If a hazard were to occur, the costs of rectifying the hazard may exceed our asset value and cause our company to liquidate all of our assets resulting in the loss of your entire investment. 
+ Because access to our company's mineral claims is often restricted by inclement weather, we will be delayed in exploration and any future mining efforts. 
+ Access to the Labrador mineral claims is restricted to the period between May and November of each year due to snow in the area. As a result, any attempts to visit, test, or explore the property are largely limited to these few months of the year when weather permits such activities. These limitations can result in significant delays in exploration efforts, as well as mining and production in the event that commercial amounts of minerals are found. Such delays can result in our company's inability to meet deadlines for exploration expenditures as defined by the Province of Newfoundland and Labrador. This could cause the business venture to fail and the loss of your entire investment unless our company can meet the deadlines. 
+ As our company undertakes exploration of the Labrador Claims, we will be subject to compliance with government regulation that may increase the anticipated time and cost of its exploration program. 
+ There are several governmental regulations that materially restrict the exploration of minerals. Our company will be subject to the mining laws and regulations as contained in the Mineral Act of the Province of Newfoundland and Labrador as we carry out our exploration program. We may be required to obtain work permits, post bonds and perform remediation work for any physical disturbance to the land in order to comply with these regulations. While our company's planned exploration program budgets for regulatory compliance, there is a risk that new regulations could increase our time and costs of doing business and prevent our company from carrying out our exploration program. 
+ 
+ 13 
+
+Because market factors in the mining business are out of our control, our company may not be able to market any minerals that may be found. 
+ The mining industry, in general, is intensely competitive and we can provide no assurance to investors even if minerals are discovered that a ready market will exist from the sale of any base or precious metals found. Numerous factors beyond our control may affect the marketability of base or precious metals. These factors include market fluctuations, the proximity and capacity of natural resource markets and processing equipment, government regulations, including regulations relating to prices, taxes, royalties, land tenure, land use, importing and exporting of minerals and environmental protection. The exact effect of these factors cannot be accurately predicted, but the combination of these factors may result in our company not receiving an adequate return on invested capital and you may lose your entire investment. 
+ Because our company holds a significant portion of our cash reserves in United States dollars, we may experience weakened purchasing power in Canadian dollar terms. 
+ Our company holds a significant portion of our cash reserves in United States dollars. Due to foreign exchange rate fluctuations, the value of these United States dollar reserves can result in both translation gains or losses in Canadian dollar terms. If there was to be a significant decline in the United States dollar versus the Canadian Dollar, our US dollar purchasing power in Canadian dollars would also significantly decline. Our company has not entered into derivative instruments to offset the impact of foreign exchange fluctuations. 
+ Our auditors have expressed substantial doubt about our company's ability to continue as a going concern. 
+ The accompanying financial statements have been prepared assuming that our company will continue as a going concern. As discussed in Note 1 to the May 31, 2021, financial statements, our company was incorporated on February 23, 2006, and has never generated any revenue, has a working capital deficiency, and has incurred operating losses since inception. As a result, our company's auditor has expressed substantial doubt about the ability of our company to continue as a going concern. Continued operations are dependent on our ability to complete equity or debt financings or generate profitable operations. Such financings may not be available or may not be available on reasonable terms. Our financial statements do not include any adjustments that may result from the outcome of this uncertainty. 
+ Our stock is a penny stock. Trading of our stock may be restricted by the SEC's penny stock regulations which may limit a stockholder's ability to buy and sell our stock. 
+ Our stock is a penny stock. The Securities and Exchange Commission has adopted Rule 15g-9 which generally defines "penny stock" to be any equity security that has a market price (as defined) less than 5.00 per share or an exercise price of less than 5.00 per share, subject to certain exceptions. Our securities are covered by the penny stock rules, which impose additional sales practice requirements on broker-dealers who sell to persons other than established customers and "accredited investors". The term "accredited investor" refers generally to institutions with assets in excess of 5,000,000 or individuals with a net worth in excess of 1,000,000 or annual income exceeding 200,000 or 300,000 jointly with their spouse. The penny stock rules require a broker-dealer, prior to a transaction in a penny stock not otherwise exempt from the rules, to deliver a standardized risk disclosure document in a form prepared by the SEC which provides information about penny stocks and the nature and level of risks in the penny stock market. The broker-dealer also must provide the customer with current bid and offer quotations for the penny stock, the compensation of the broker-dealer and its salesperson in the transaction and monthly account statements showing the market value of each penny stock held in the customer's account. The bid and offer quotations, and the broker-dealer and salesperson compensation information, must be given to the customer orally or in writing prior to effecting the transaction and must be given to the customer in writing before or with the customer's confirmation. In addition, the penny stock rules require that prior to a transaction in a penny stock not otherwise exempt from these rules, the broker-dealer must make a special written determination that the penny stock is a suitable investment for the purchaser and receive the purchaser's written agreement to the transaction. These disclosure requirements may have the effect of reducing the level of trading activity in the secondary market for the stock that is subject to these penny stock rules. Consequently, these penny stock rules may affect the ability of broker-dealers to trade our securities. We believe that the penny stock rules discourage investor interest in and limit the marketability of our common stock. 
+ 
+ 14 
+
+OTC Markets has placed a "Shell Risk" identifier on the Company's page on OTC Markets website. 
+ OTC Markets has placed a "Shell Risk" identifier on the Company's page on OTC Markets website. The Company is not in agreement that it is a "Shell Company" as defined in Rule 12b-2 of the Exchange Act due to the operations conducted by the Company in the past few years in the technology sector, and that such operations have been more than nominal. If advisable or beneficial for the Company or its shareholders, the Company may elect to pursue the appeal process with OTC Markets to have the "Shell Risk" identifier removed. 
+ Item 1B. Unresolved Staff Comments 
+ None. 
+ Item 2. Properties 
+ We do not own any real property. Our principal business offices are located at #55-11020 Williams Road, Richmond British Columbia, Canada, V7A 1X8 at a cost of CDN 1,000 per month on a month-to-month basis. 
+ Item 3. Legal Proceedings 
+ Other than as set out below, our company is not a party to any pending legal proceeding and no legal proceeding is contemplated or threatened as of the date of this annual report. 
+ Item 4. Mine Safety Disclosures 
+ Not applicable. 
+ PART II 
+ Item 5. Market for Common Equity and Related Stockholder Matters 
+ Public Market for Common Stock 
+ Our stock is quoted on the OTC Pink under the symbol WOLV. 
+ Stockholders of Our Common Shares 
+ As of the date of this annual report, we have 237 registered shareholders. 
+ Stock Option Grants 
+ No stock options were granted during the year ended May 31, 2021. 
+ Warrants 
+ We have not issued and do not have any outstanding warrants to purchase shares of our common stock. 
+ Dividends 
+ There are no restrictions in our articles of incorporation or bylaws that prevent us from declaring dividends. The Nevada Revised Statutes, however, do prohibit us from declaring dividends where, after giving effect to the distribution of the dividend: 
+
+1. 
+
+we would not be able to pay our debts as they become due in the usual course of business; or 
+
+2. 
+
+our total assets would be less than the sum of our total liabilities plus the amount that would be needed to satisfy the rights of shareholders who have preferential rights superior to those receiving the distribution. 
+
+15 
+
+We have not declared any dividends, and we do not plan to declare any dividends in the foreseeable future. 
+ Securities Authorized for Issuance Under Equity Compensation Plans 
+ On May 28, 2010 our directors approved the adoption of our 2010 Stock Plan which permits our company to issue up to 5,147,250 shares of our common stock, and 5,147,250 options to acquire shares of common stock, to directors, officers, employees and consultants of our company upon the grant of stock or the exercise of stock options granted under the 2010 Plan. All of the stock options granted under the 2010 Stock Plan have expired unexercised. 
+ Transfer Agent 
+ Our common shares are issued in registered form. Empire Stock Transfer, Inc. Telephone: (702) 818-5898; Facsimile: (702) 974-1444 is the registrar and transfer agent for our common shares. 
+ As of November 17, 2021 we have 237 registered stockholders and 675,626,548 shares of common stock outstanding. 
+ Purchase of Equity Securities by the Issuer and Affiliated Purchasers 
+ We did not purchase any of our shares of common stock or other securities during the year ended May 31, 2021. 
+ Recent Sales of Unregistered Securities 
+ On September 25, 2020, we issued 4,500,000 shares of our common stock in a private placement at a purchase price of CDN 0.003 (USD 0.00225) raising gross proceeds of CDN 13,500. We have issued all of the shares to three (3) non-US persons (as that term is defined in Regulation S of the Securities Act of 1933) in an offshore transaction relying on Regulation S and/or Section 4(2) of the Securities Act of 1933. 
+ On September 25, 2020, we issued 500,000 shares of our common stock pursuant to a debt settlement agreement with one (1) individual. The deemed price of the shares issued was CDN 0.003 per share (USD 0.00225). We have issued all of the shares one (1) non-US persons (as that term is defined in Regulation S of the Securities Act of 1933) in an offshore transaction relying on Regulation S and/or Section 4(2) of the Securities Act of 1933. 
+ On July 26, 2021, we issued 3,000,000 shares of our common stock in a private placement at a purchase price of USD 0.001875 raising gross proceeds of USD 5,625. We have issued all of securities to one (1) U.S. person (as that term is defined in Regulation S of the Securities Act of 1933) relying upon Rule 506 of Regulation D of the Securities Act of 1933. 
+ On July 26, 2021, we issued 37,000,000 shares of our common stock in a private placement at a purchase price of CDN 0.0025 raising gross proceeds of CDN 92,500. We have issued all of the shares to fifteen (15) non-US persons (as that term is defined in Regulation S of the Securities Act of 1933) in an offshore transaction relying on Regulation S and/or Section 4(2) of the Securities Act of 1933. 
+ Purchase of Equity Securities by the Issuer 
+ Wolverine did not purchase any of our shares of common stock or other securities during our fourth quarter of our fiscal year ended May 31, 2021. 
+ Item 6. Selected Financial Data 
+ As a "smaller reporting company", we are not required to provide the information required by this Item. 
+ Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion should be read in conjunction with our audited financial statements and the related notes for the years ended May 31, 2021 and 2020 that appear elsewhere in this annual report. The following discussion contains forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ materially from those discussed in the forward looking statements. Factors that could cause or contribute to such differences include, but are not limited to those discussed below and elsewhere in this annual report, particularly in the section entitled "Risk Factors" beginning on page 12 of this annual report. 
+ 
+ 16 
+
+Our audited financial statements are stated in United States Dollars and are prepared in accordance with United States generally accepted accounting principles. 
+ Cash Requirements 
+ There is limited historical financial information about us upon which to base an evaluation of our performance. We have not generated any revenues from activities. We cannot guarantee we will be successful in our business activities. Our business is subject to risks inherent in the establishment of a new business enterprise, including limited capital resources, possible delays in the exploration of our properties, and possible cost overruns due to price and cost increases in services. 
+ Over the next twelve months we intend to use any funds that we may have available to fund our operations and conduct exploration on our Labrador Claims. We expect to review other potential exploration projects from time to time as they are presented to us. 
+ Not accounting for our working capital deficit of 317,032 as of May 31, 2021, we require additional funds of approximately 100,000 at a minimum to proceed with our plan of operation over the next twelve months. As we do not have the funds necessary to cover our projected operating expenses for the next twelve-month period, we will be required to raise additional funds through the issuance of equity securities, through loans or through debt financing. There can be no assurance that we will be successful in raising the required capital or that actual cash requirements will not exceed our estimates. We intend to fulfill any additional cash requirement through the sale of our equity securities. 
+ Our auditors have issued a going concern opinion for our year ended May 31, 2021. This means that there is substantial doubt that we can continue as an on-going business for the next twelve months unless we obtain additional capital to pay our bills. This is because we have not generated any revenues and no revenues are anticipated until we begin removing and selling minerals. As we had minimal cash and a working capital deficit in the amount of 317,032 as of May 31, 2021, we do not have sufficient working capital to enable us to carry out our stated plan of operation for the next twelve months. We plan to complete debt financings and/or private placement sales of our common stock in order to raise the funds necessary to pursue our plan of operation and to fund our working capital deficit in order to enable us to pay our accounts payable and accrued liabilities. We currently do not have any arrangements in place for the completion of any debt financings or private placement financings and there is no assurance that we will be successful in completing any debt financing or private placement financing. Our success or failure will be determined by what we find under the ground. 
+ Plan of Operation 
+ The Plan of Operation for the next 12 months is to raise 100,000 for the exploration program on the Cache River Property. 
+ As at May 31, 2021, we cash of 9,111. We will need to raise additional financing to fund our exploration program over the next 12 months. 
+ The continuation of our business is dependent upon obtaining further financing, a successful program of exploration and/or development, and, finally, achieving a profitable level of operations. The issuance of additional equity securities by us could result in a significant dilution in the equity interests of our current stockholders. Obtaining commercial loans, assuming those loans would be available, will increase our liabilities and future cash commitments. 
+ There are no assurances that we will be able to obtain further funds required for our continued operations. As noted herein, we are pursuing various financing alternatives to meet our immediate and long-term financial requirements. There can be no assurance that additional financing will be available to us when needed or, if available, that it can be obtained on commercially reasonable terms. If we are not able to obtain the additional financing on a timely basis, we will be unable to conduct our operations as planned, and we will not be able to meet our other obligations as they become due. In such event, we will be forced to scale down or perhaps even cease our operations. 
+ 
+ 17 
+
+Purchase of Significant Equipment 
+ We did not purchase any significant equipment over the twelve months ending May 31, 2021. 
+ Results of Operations for the Years Ended May 31, 2021 and 2020 
+ The following summary of our results of operations should be read in conjunction with our audited financial statements for the years ended May 31, 2021 and 2020. 
+ Our operating results for the years ended May 31, 2021 and 2020 are summarized as follows: 
+
+Year Ended May 31 
+
+2021 
+
+2020 
+
+Revenue 
+ 
+ - 
+
+- 
+
+Operating expenses 
+ 
+ (161,390) 
+ 
+ (253,029) 
+
+Other income (expenses) 
+ 
+ (15,260) 
+ 
+ (39,138) 
+
+Net loss 
+ 
+ (176,650) 
+ 
+ (292,167) 
+
+Revenues 
+ We have not earned any revenues since our inception and we do not anticipate earning revenues in the near future. 
+ Operating Expenses 
+ Our operating expenses for the years ended May 31, 2021 and 2020 are outlined in the table below: 
+
+Year Ended May 31 
+
+2021 
+
+2020 
+
+General and administrative 
+ 
+ (158,722) 
+ 
+ (253,029) 
+
+Mineral property exploration costs 
+ 
+ (2,668) 
+ 
+ - 
+
+Gain on forgiveness of debt 
+ 
+ 2,261 
+
+2,747 
+
+Foreign exchange loss 
+ 
+ (17,521) 
+ 
+ (556) 
+
+Loss on settlement of debt 
+ 
+ - 
+
+(41,329) 
+
+Total expenses 
+ 
+ (176,650) 
+ 
+ (292,167) 
+
+The decrease in expenses for the year ended May 31, 2021 of 115,517, compared to the same period in fiscal 2020, was mainly due to a decrease in professional fees of 33,441, a decrease in transfer agent and filing fees of 30,214, a decrease in consulting fees of 30,061, a decrease on loss of settlement of debt of 41,329, offset by an increase in foreign exchange loss of 16,965. 
+ Mineral property and exploration costs increased by 2,668 from nil during the year ended May 31, 2020, to 2,668 during the year ended May 31, 2021. Mineral property exploration costs increased during the year as a result of the staking of additional 18 mineral claims in Labrador, Canada 
+ 
+ 18 
+
+Liquidity and Financial Condition 
+ Working Capital 
+
+At May 31, 2021 
+
+At May 31, 2020 
+
+Current assets 
+ 
+ 18,424 
+
+7,123 
+
+Current liabilities 
+ 
+ 335,456 
+
+192,208 
+
+Working deficit 
+ 
+ (317,032) 
+ 
+ (185,085) 
+
+Cash Flows 
+
+Year Ended May 31 
+
+2021 
+
+2020 
+
+Net Cash Used in Operating Activities 
+ 
+ (38,769) 
+ 
+ (119,671) 
+
+Net Cash Provided by (Used in) investing activities 
+ 
+ - 
+
+- 
+
+Net Cash Provided by Financing Activities 
+ 
+ 44,703 
+
+122,848 
+
+Net change in cash during period 
+ 
+ 5,934 
+
+3,177 
+
+Operating Activities 
+ Net cash used in operating activities during the year ended May 31, 2021 was 38,769 compared to 119,671 for the year ended May 31, 2020. The decrease was primarily a result of a decrease in net loss of 115,517, offset by a decrease in non-cash expenses of 40,843. 
+ Investing Activities 
+ Net cash provided by investing activities during the year ended May 31, 2021 was Nil compared to net cash used in investing activities of Nil for the year ended May 31, 2020. 
+ Financing Activities 
+ During the year ended May 31, 2021, we received proceeds of 44,703 from financing activities, which included share subscriptions of 44,703. During the year ended May 31, 2020, we received proceeds of 122,848 from financing activities, which included proceeds from the issuance of common shares of 9,736 and share subscriptions of 113,112. 
+ Contractual Obligations 
+ As a "smaller reporting company", we are not required to provide tabular disclosure obligations. 
+ Off-Balance Sheet Arrangements 
+ We have no significant off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material to stockholders. 
+ APPLICATION OF CRITICAL ACCOUNTING POLICIES 
+ Our audited financial statements and accompanying notes are prepared in accordance with generally accepted accounting principles used in the United States. Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses. These estimates and assumptions are affected by management's application of accounting policies. We believe that understanding the basis and nature of the estimates and assumptions involved with the following aspects of our financial statements is critical to an understanding of our financial statements. 
+ 
+ 19 
+
+Mineral Property Costs 
+ Our company has been in the exploration stage since its inception on February 23, 2006 and has not yet realized any revenues from its planned operations. It is primarily engaged in the acquisition and exploration of mining properties. Mineral property exploration costs are expensed as incurred. Mineral property acquisition costs are initially capitalized when incurred. Our company assesses the carrying costs for impairment under ASC 360, " Property, Plant, and Equipment ", at each fiscal quarter end. When it has been determined that a mineral property can be economically developed as a result of establishing proven and probable reserves, the costs then incurred to develop such property, are capitalized. Such costs will be amortized using the units-of-production method over the estimated life of the probable reserve. If mineral properties are subsequently abandoned or impaired, any capitalized costs will be charged to operations. No mineral costs were incurred in the current period. 
+ Stock-based Compensation 
+ Our company records stock-based compensation in accordance with ASC 718, " Compensation-Stock Compensation " and ASC 505, " Equity Based Payments to Non-Employees ", using the fair value method. All transactions in which goods or services are the consideration received for the issuance of equity instruments are accounted for based on the grant date fair value of the consideration received or the fair value of the equity instrument issued, whichever is more reliably measurable. 
+ NEW ACCOUNTING PRONOUNCEMENTS 
+ The Company has implemented all new accounting pronouncements that are in effect and that may impact its financial statements and does not believe that there are any other new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations. 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ As a "smaller reporting company", we are not required to provide the information required by this Item. 
+ Item 8. Financial Statements and Supplementary Data 
+ Our audited financial statements are stated in United States dollars (US and are prepared in accordance with United States generally accepted accounting principles. The following audited financial statements are filed as part of this annual report: 
+ 
+ 20 
+
+WOLVERINE TECHNOLOGIES CORP. 
+ May 31, 2021 
+ (Expressed in U.S. dollars) 
+
+Index 
+
+Report of Independent Registered Public Accounting Firm 
+ F-1 
+
+Balance Sheets 
+ F-2 
+
+Statements of Operations 
+ F-3 
+
+Statements of Changes in Stockholders' Deficit 
+ F-4 
+
+Statements of Cash Flows 
+ F-5 
+
+Notes to the Financial Statements 
+ F-6 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ To the Board of Directors and Shareholders of Wolverine Technologies Corp.: 
+ Opinion on the Financial Statements 
+ We have audited the accompanying balance sheets of Wolverine Technologies Corp. the Company as of May 31, 2021 and 2020, the related statements of operations, stockholders deficit, and cash flows for each of the years in the two-year period ended May 31, 2021 and the related notes (collectively referred to as the financial statements ). In our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of the Company as of May 31, 2021 and 2020, and the results of its operations and its cash flows for each of the years in the two-year period ended May 31, 2020, in conformity with accounting principles generally accepted in the United States of America. 
+ Explanatory Paragraph Regarding Going Concern 
+ The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the financial statements, the Company has never generated revenues, is unlikely to generate earnings in the immediate or foreseeable future, has suffered recurring losses from operations and has a net capital deficiency, all of which raise substantial doubt about its ability to continue as a going concern. Management's plans in regard to these matters are also described in Note 1. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+ Basis for Opinion 
+ These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+ Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ Critical Audit Matters 
+ Critical audit matters are matters arising from the current-period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. We determined that there were no critical audit matters. 
+ /s/ Sadler, Gibb Associates, LLC 
+ We have served as the Company s auditor since 2018. 
+ Draper, UT November 17, 2021 
+ F-1 
+ 
+ WOLVERINE TECHNOLOGIES CORP. 
+ Balance Sheets 
+ (Expressed in U.S. dollars) 
+
+May 31, 2021 
+
+May 31, 2020 
+
+ASSETS 
+
+Current Assets 
+
+Cash 
+ 
+ 9,111 
+
+3,177 
+
+GST receivable 
+ 
+ 9,313 
+
+3,946 
+
+Total Assets 
+ 
+ 18,424 
+
+7,123 
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT 
+
+Current Liabilities 
+
+Accounts payable and accrued liabilities 
+ 
+ 244,936 
+
+144,968 
+
+Short term debt - related parties (Note 3) 
+ 
+ 90,520 
+
+47,240 
+
+Total Liabilities 
+ 
+ 335,456 
+
+192,208 
+
+Commitments and contingencies (Note 6) 
+ 
+ - 
+
+- 
+
+Stockholders' Deficit 
+
+Common stock, 2,000,000,000 shares authorized, 0.001 par value 635,626,548 and 630,626,548 shares issued and outstanding at May 31, 2021 and May 31, 2020, respectively 
+ 
+ 635,627 
+
+630,627 
+
+Subscriptions received 
+ 
+ 44,703 
+
+10,736 
+
+Additional paid-in capital 
+ 
+ 5,483,001 
+
+5,477,265 
+
+Accumulated deficit 
+ 
+ (6,480,363) 
+ 
+ (6,303,713) 
+
+Total Stockholders' Deficit 
+ 
+ (317,032) 
+ 
+ (185,085) 
+
+Total Liabilities and Stockholders' Deficit 
+ 
+ 18,424 
+
+7,123 
+
+F-2 
+
+WOLVERINE TECHNOLOGIES CORP. 
+ Statements of Operations 
+ (Expressed in U.S. dollars) 
+
+Year 
+
+Year 
+
+Ended 
+
+Ended 
+
+May 31, 
+
+May 31, 
+
+2021 
+
+2020 
+
+Operating Expenses 
+
+General and administrative 
+ 
+ 158,722 
+
+253,029 
+
+Mineral property exploration costs 
+ 
+ 2,668 
+
+- 
+
+Total Operating Expenses 
+ 
+ 161,390 
+
+253,029 
+
+Net Loss Before Other Expenses 
+ 
+ (161,390) 
+ 
+ (253,029) 
+
+Other Income (Expense) 
+
+Gain on forgiveness of debt 
+ 
+ 2,261 
+
+2,747 
+
+Foreign exchange loss 
+ 
+ (17,521) 
+ 
+ (556) 
+
+Loss on settlement of debt 
+ 
+ - 
+
+(41,329) 
+
+Total Other Income (Expense) 
+ 
+ (15,260) 
+ 
+ (39,138) 
+
+Net Loss 
+ 
+ (176,650) 
+ 
+ (292,167) 
+
+Net Loss Per Share of Common Stock, Basic and Diluted 
+ 
+ (0.00) 
+ 
+ (0.00) 
+
+Weighted Average Number of Common Stock Outstanding, Basic and Diluted 
+ 
+ 635,126,548 
+
+549,925,820 
+
+(The accompanying notes are an integral part of these financial statements.) 
+
+F-3 
+
+WOLVERINE TECHNOLOGIES CORP. 
+ Statements of Changes in Stockholders' Deficit 
+ For the year ended May 31, 2021 and 2020 
+ (Expressed in U.S. dollars) 
+
+Additional 
+
+Subscriptions 
+
+Paid-in 
+
+Accumulated 
+
+Shares 
+
+Amount 
+
+Received 
+
+Capital 
+
+Deficit 
+
+Total 
+
+# 
+
+Balance, May 31, 2019 
+ 
+ 477,270,993 
+
+477,271 
+
+60,862 
+
+5,238,347 
+
+(6,011,546) 
+ 
+ (235,066) 
+
+Common stock subscribed for cash 
+ 
+ - 
+
+- 
+
+9,736 
+
+- 
+
+- 
+
+9,736 
+
+Common stock issued to settle debt 
+ 
+ 58,266,666 
+
+58,267 
+
+1,000 
+
+100,033 
+
+- 
+
+159,300 
+
+Common stock issued to settle related party debt 
+ 
+ 20,000,000 
+
+20,000 
+
+- 
+
+40,000 
+
+- 
+
+60,000 
+
+Common stock subscribed for cash 
+ 
+ 58,888,889 
+
+58,889 
+
+- 
+
+54,223 
+
+- 
+
+113,112 
+
+Common stock issued for subscription payable 
+ 
+ 16,200,000 
+
+16,200 
+
+(60,862) 
+ 
+ 44,662 
+
+- 
+
+- 
+
+Net loss for the year 
+ 
+ - 
+
+- 
+
+- 
+
+- 
+
+(292,167) 
+ 
+ (292,167) 
+
+Balance, May 31, 2020 
+ 
+ 630,626,548 
+
+630,627 
+
+10,736 
+
+5,477,265 
+
+(6,303,713) 
+ 
+ (185,085) 
+
+Common stock subscribed for cash 
+ 
+ - 
+
+- 
+
+44,703 
+
+- 
+
+- 
+
+44,703 
+
+Common stock issued to settle debt 
+ 
+ 500,000 
+
+500 
+
+(1,000) 
+ 
+ 500 
+
+- 
+
+- 
+
+Common stock issued for subscription payable 
+ 
+ 4,500,000 
+
+4,500 
+
+(9,736) 
+ 
+ 5,236 
+
+- 
+
+- 
+
+Net loss for the year 
+ 
+ - 
+
+- 
+
+- 
+
+- 
+
+(176,650) 
+ 
+ (176,650) 
+
+Balance, May 31, 2021 
+ 
+ 635,626,548 
+
+635,627 
+
+44,703 
+
+5,483,001 
+
+(6,480,363) 
+ 
+ (317,032) 
+
+(The accompanying notes are an integral part of these financial statements.) 
+
+F-4 
+
+WOLVERINE TECHNOLOGIES CORP. 
+ Statements of Cash Flows 
+ (Expressed in U.S. dollars) 
+
+Year 
+
+Year 
+
+Ended 
+
+Ended 
+
+May 31, 
+
+May 31, 
+
+2021 
+
+2020 
+
+Operating Activities 
+
+Net loss 
+ 
+ (176,650) 
+ 
+ (292,167) 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Loss on settlement of debt 
+ 
+ - 
+
+41,329 
+
+Gain on forgiveness of debt 
+ 
+ (2,261) 
+ 
+ (2,747) 
+
+Changes in operating assets and liabilities: 
+
+Other receivable 
+ 
+ (5,367) 
+ 
+ (354) 
+
+Accounts payable 
+ 
+ 102,229 
+
+88,533 
+
+Accounts payable - related parties 
+ 
+ 43,280 
+
+45,735 
+
+Net Cash Used in Operating Activities 
+ 
+ (38,769) 
+ 
+ (119,671) 
+
+Financing Activities 
+
+Proceeds from issuance of common stock 
+ 
+ - 
+
+9,736 
+
+Proceeds from common stock subscriptions 
+ 
+ 44,703 
+
+113,112 
+
+Net Cash Provided by Financing Activities 
+ 
+ 44,703 
+
+122,848 
+
+Increase in Cash 
+ 
+ 5,934 
+
+3,177 
+
+Cash, Beginning of Year 
+ 
+ 3,177 
+
+- 
+
+Cash, End of Year 
+ 
+ 9,111 
+
+3,177 
+
+Non-cash Investing and Financing Activities: 
+
+Common stock issued to settle accounts payable 
+ 
+ 1,000 
+
+159,300 
+
+Common stock issued to settle related party accounts payable 
+ 
+ - 
+
+60,000 
+
+Common stock issued for prior year subscriptions 
+ 
+ 9,736 
+
+60,862 
+
+Supplemental Disclosures: 
+
+Interest paid 
+ 
+ - 
+
+1,232 
+
+Income taxes paid 
+ 
+ - 
+
+- 
+
+(The accompanying notes are an integral part of these financial statements.) 
+
+F-5 
+
+WOLVERINE TECHNOLOGIES CORP. 
+ Notes to the Financial Statements 
+ May 31, 2021 
+ (Expressed in U.S. dollars) 
+
+1. Organization and basis of presentation 
+ Wolverine Technologies Corp. (the "Company") was incorporated in the State of Nevada on February 23, 2006. The Company's principal business was the acquisition and exploration of mineral resources. The Company had not determined that its properties contain mineral reserves that were economically recoverable, financing had not yet become available, and commodity prices had not fully recovered. Therefore, management decided to change the focus of the Company to include cyber security. Effective August 12, 2015, the Company changed its name from Wolverine Exploration Inc. to Wolverine Technologies Corp. The Company has now refocused its efforts back to the exploration of mineral resources. 
+ The recent outbreak of the novel coronavirus COVID-19, which was declared a pandemic by the World Health Organization on March 11, 2020, has led to adverse impacts on the U.S. and global economies, disruptions of financial markets, and created uncertainty regarding potential impacts to the Company's operations. The COVID-19 pandemic has impacted and could further impact the Company's operations and the operations of the Company's suppliers and vendors as a result of quarantines, facility closures, and travel and logistics restrictions. The extent to which the COVID-19 pandemic impacts the Company's business, results of operations and financial condition will depend on future developments, which are highly uncertain and cannot be predicted, including, but not limited to the duration, spread, severity, and impact of the COVID-19 pandemic, the effects of the COVID-19 pandemic on the Company's suppliers and vendors and the remedial actions and stimulus measures adopted by local and federal governments, and to what extent normal economic and operating conditions can resume. The management team is closely following the progression of COVID-19 and its potential impact on the Company. Even after the COVID-19 pandemic has subsided, the Company may experience adverse impacts to its business as a result of any economic recession or depression that has occurred or may occur in the future. Therefore, the Company cannot reasonably estimate the impact at this time on its business, liquidity, capital resources and financial results. 
+ Going Concern 
+ These financial statements have been prepared on a going concern basis, which implies the Company will continue to realize its assets and discharge its liabilities in the normal course of business. The Company has never generated revenues and is unlikely to generate earnings in the immediate or foreseeable future. The continuation of the Company as a going concern is dependent upon the continued financial support from its shareholders, the ability of the Company to obtain necessary equity financing to continue operations, and the attainment of profitable operations. The Company plans to raise financing of debt or equity. There can be no assurance that additional financing will be available when needed or, if available, that it can be obtained on commercially reasonable terms. At May 31, 2021, the Company has a working capital deficiency of 317,032 and has accumulated losses of 6,480,363 since inception. These factors raise substantial doubt regarding the Company's ability to continue as a going concern. These financial statements do not include any adjustments to the recoverability and classification of recorded asset amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going concern. 
+ 2. Summary of Significant Accounting Pronouncements 
+ a) Basis of Presentation 
+ These financial statements and related notes are presented in accordance with accounting principles generally accepted in the United States, and are expressed in U.S. dollars. The Company's fiscal year-end is May 31. 
+ b) Use of Estimates 
+ The preparation of financial statements in accordance with accounting principles generally accepted in the United States requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses in the reporting period. The Company regularly evaluates estimates and assumptions related to stock-based compensation, and deferred income tax asset valuation allowances. The Company bases its estimates and assumptions on current facts, historical experience and various other factors that it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities and the accrual of costs and expenses that are not readily apparent from other sources. The actual results experienced by the Company may differ materially and adversely from the Company's estimates. To the extent there are material differences between the estimates and the actual results, future results of operations will be affected. 
+
+F-6 
+
+WOLVERINE TECHNOLOGIES CORP. 
+ Notes to the Financial Statements 
+ May 31, 2021 
+ (Expressed in U.S. dollars) 
+
+c) Cash and Cash Equivalents 
+ The Company considers all highly liquid instruments with maturity of three months or less at the time of issuance to be cash equivalents. 
+ d) Mineral Property Costs 
+ The company has been in the exploration stage since its inception on February 23, 2006 and has not yet realized any revenues from its planned operations. It is primarily engaged in the acquisition and exploration of mining properties. Mineral property exploration costs are expensed as incurred. Mineral property acquisition costs are initially capitalized when incurred. Our company assesses the carrying costs for impairment under ASC 360, " Property, Plant, and Equipment ", at each fiscal quarter end. When it has been determined that a mineral property can be economically developed as a result of establishing proven and probable reserves, the costs then incurred to develop such property, are capitalized. Such costs will be amortized using the units-of-production method over the estimated life of the probable reserve. If mineral properties are subsequently abandoned or impaired, any capitalized costs will be charged to operations. No mineral costs were incurred in the current period. 
+ e) Income Taxes 
+ The asset and liability method provides that deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities, and for operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using the currently enacted tax rates and laws that will be in effect when the differences are expected to reverse. The Company records a valuation allowance to reduce deferred tax assets to the amount that is believed more likely than not to be realized. 
+ Uncertain tax positions are recognized in the financial statements only if that position is more likely than not of being sustained upon examination by taxing authorities, based on the technical merits of the position. The Company recognizes interest and penalties related to uncertain tax positions in the income tax provision. There are currently no unrecognized tax benefits that if recognized would affect the tax rate. There was 0 of interest and penalties recognized for the years ended May 31, 2021 and 2020. 
+ f) Foreign Currency Translation 
+ The Company's functional and reporting currency is the United States dollar. Occasional transactions may occur in Canadian dollars and management has adopted ASC 830, " Foreign Currency Translation Matters ". Monetary assets and liabilities denominated in foreign currencies are translated using the exchange rate prevailing at the balance sheet date. Non-monetary assets and liabilities denominated in foreign currencies are translated at rates of exchange in effect at the date of the transaction. Average monthly rates are used to translate revenues and expenses. Gains and losses arising on translation or settlement of foreign currency denominated transactions or balances are included in the determination of income. 
+ g) Stock-based Compensation 
+ The Company records stock-based compensation in accordance with ASC 718, " Compensation - Stock Compensation " and ASC 505, " Equity Based Payments to Non-Employees ", using the fair value method. All transactions in which goods or services are the consideration received for the issuance of equity instruments are accounted for based on the grant date fair value of the consideration received or the fair value of the equity instrument issued, whichever is more reliably measurable. 
+
+F-7 
+
+WOLVERINE TECHNOLOGIES CORP. 
+ Notes to the Financial Statements 
+ May 31, 2021 
+ (Expressed in U.S. dollars) 
+
+h) Earnings (Loss) Per Share 
+ The Company computes earnings (loss) per share in accordance with ASC 260, " Earnings per Share ". ASC 260 requires presentation of both basic and diluted earnings per share ("EPS") on the face of the income statement. Basic EPS is computed by dividing earnings (loss) available to common shareholders (numerator) by the weighted average number of shares outstanding (denominator) during the period. Diluted EPS gives effect to all dilutive potential common shares outstanding during the period using the treasury stock method. In computing diluted EPS, the average stock price for the period is used in determining the number of shares assumed to be purchased from the exercise of stock options or warrants. Diluted EPS excludes all dilutive potential shares if their effect is anti-dilutive. At May 31, 2021 and 2020, the Company had no dilutive shares outstanding. 
+ i) Financial Instruments and Fair Value Measures 
+ ASC 820, " Fair Value Measurements and Disclosures ", requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. ASC 820 establishes a fair value hierarchy based on the level of independent, objective evidence surrounding the inputs used to measure fair value. A financial instrument's categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement. ASC 820 prioritizes the inputs into three levels that may be used to measure fair value: 
+ Level 1 
+ Level 1 applies to assets or liabilities for which there are quoted prices in active markets for identical assets or liabilities. 
+ Level 2 
+ Level 2 applies to assets or liabilities for which there are inputs other than quoted prices that are observable for the asset or liability such as quoted prices for similar assets or liabilities in active markets; quoted prices for identical assets or liabilities in markets with insufficient volume or infrequent transactions (less active markets); or model-derived valuations in which significant inputs are observable or can be derived principally from, or corroborated by, observable market data. 
+ Level 3 
+ Level 3 applies to assets or liabilities for which there are unobservable inputs to the valuation methodology that are significant to the measurement of the fair value of the assets or liabilities. 
+ The Company's financial instruments consist principally of cash, other receivables, accounts payable and amounts due to related parties. Pursuant to ASC 820, the fair value of cash is determined based on "Level 1" inputs, which consist of quoted prices in active markets for identical assets. The recorded values of all other financial instruments approximate their current fair values because of their nature and respective maturity dates or durations. 
+ j) Comprehensive Income 
+ ASC 220, " Comprehensive Income ", establishes standards for the reporting and display of comprehensive loss and its components in the financial statements. As at May 31, 2021 and 2020, the Company has no items that represent a comprehensive loss and, therefore, has not included a schedule of comprehensive loss in the financial statements. 
+
+F-8 
+
+WOLVERINE TECHNOLOGIES CORP. 
+ Notes to the Financial Statements 
+ May 31, 2021 
+ (Expressed in U.S. dollars) 
+
+3. Recent Accounting Pronouncements 
+ The Company has implemented all new accounting pronouncements that are in effect and that may impact its financial statements and does not believe that there are any other new accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations. 
+ 4. Related Party Transactions 
+ (a) During the year ended May 31, 2021, the Company incurred consulting fees of 31,536 (2020 - 29,884) to a company controlled by the President of the Company. 
+ (b) During the year ended May 31, 2021, the Company incurred consulting fees of nil (2020 - 22,117) to a Director of the Company. 
+ (c) As at May 31, 2021, the Company owes 57,292 (May 31, 2020 - 18,123) to a company controlled by the President of the Company, which is non-interest bearing, unsecured and due on demand. 
+ (d) As at May 31, 2021, the Company owes 33,228 (May 31, 2020 - 29,117) to a Director of the Company, which is non-interest bearing, unsecured and due on demand. 
+ 5. Mineral Properties 
+ In November 2020 and April 2021, the Company staked mineral claims located in Labrador, Canada for 2,668 (Cdn 3,448). As at May 31, 2021, the Company wrote off the mineral property acquisition costs of 2,668 due to the uncertainty of establishing proven and probable reserves. 
+ 6. Common Stock 
+ Stock transactions during the year ended May 31, 2021: 
+ (a) On September 25, 2020, the Company issued 4,500,000 shares of common stock pursuant to a private placement for cash proceeds of 9,736 (Cdn 13,500) received during the year ended May 31, 2020. 
+ (b) On September 25, 2020, the Company issued 500,000 shares of common stock with a fair value of 1,000 to settle 1,085 (Cdn 1,500) in debt, resulting in a gain on settlement of 85 recognized during the year ended May 31, 2020. 
+ (c) During the year ended May 31, 2021, the Company received cash proceeds of 40,953 (Cdn 50,000) for 20,000,000 shares of common stock to be issued subsequent to year end. The common stock was issued on July 26, 2021 (Note 10). 
+ (d) During the year ended May 31, 2021, the Company received cash proceeds of 3,750 for 2,000,000 shares of common stock to be issued subsequent to year end. The common stock was issued on July 26, 2021 (Note 10). 
+ Stock transactions during the year ended May 31, 2020: 
+ (a) On August 23, 2019, the Company issued 16,200,000 shares of common stock pursuant to a private placement for cash proceeds of 60,862 (Cdn 81,000) received during the year ended May 31, 2019. 
+ (b) On August 23, 2019, the Company issued 5,000,000 shares of common stock pursuant to a private placement for cash proceeds of 12,349 (Cdn 16,500). 
+ (c) On August 23, 2019, the Company issued 1,500,000 shares of common stock with a fair value of 3,000 to settle accounts payable of 4,887 (Cdn 6,500), resulting in a gain on settlement of 1,887. 
+ (d) On February 3, 2020, the Company agreed to issue 8,100,000 shares of common stock with a fair value of 24,300 to settle accounts payable of 18,225, resulting in a loss of 6,075. The common stock was issued on March 13, 2020. 
+ (e) On February 13, 2020, the Company agreed to issue 33,666,666 shares of common stock with a fair value of 101,000 to settle accounts payable of 76,173, resulting in a loss on settlement of 24,827. The common stock was issued on March 13,2020. 
+
+F-9 
+
+WOLVERINE TECHNOLOGIES CORP. 
+ Notes to the Financial Statements 
+ May 31, 2021 
+ (Expressed in U.S. dollars) 
+
+(f) On February 13, 2020, the Company agreed to issue 20,000,000 shares of common stock with a fair value of 60,000 to settle related party accounts payable of 45,251, resulting in a loss on settlement of 14,749. The common stock was issued on March 13, 2020. 
+ (g) On March 13, 2020, the Company issued 15,000,000 shares of common stock with a fair value of 30,000 to settle accounts payable of 32,348 (Cdn 45,000) resulting in a gain on settlement of 2,350. 
+ (h) On March 13, 2020, the Company issued 53,888,889 shares of common stock pursuant to a private placement for cash proceeds of 121,250. The Company had also incurred share issuance costs of 20,488, resulting in net cash proceeds of 100,762. 
+ (i) On May 29, 2020, the Company agreed to issue 500,000 shares of common stock with a fair value of 1,000 to settle 1,085 (Cdn 1,500) resulting in a gain on settlement of 85. These shares were issued on September 29, 2020. 
+ (j) During the year ended May 31, 2020, the Company received cash proceeds of 9,736 for the issuance of 4,500,000 common shares. These shares were issued on September 25, 2020. 
+ At May 31, 2021 and 2020, the Company had no dilutive shares, or common stock equivalents. 
+ 7. Stock-based Compensation 
+ On May 28, 2010, the Board of Directors of the Company adopted the 2010 Stock Plan (the "Plan"). The maximum number of shares of the Company's common stock available for issuance under the Plan is 10,294,500 shares. An aggregate of 5,147,250 shares may be issued under stock options and an aggregate of 5,147,250 shares may be issued in the form of restricted shares. As at May 31, 2021, there were none issued. 
+ At May 31, 2021 and 2020, the Company had no outstanding or exercisable stock options. 
+ 8. Commitments 
+ (a) On January 31, 2007, the Company entered into a consulting agreement with a company whereby it has agreed to pay 7,702 (Cdn 10,000) per month. The Company is obligated to issue a bonus of 5 of the Company's issued and outstanding common shares as of the date of the payment of the bonus upon and only in the event of the discovery of a major commercially viable mineral resource deposit. As at May 31, 2021, the Company has not issued a bonus. During the year ended May 31, 2021, the Company recorded consulting fees of 94,517 (Cdn 120,000). During the year ended May 31, 2020, the Company recorded consulting fees of 89,286 (Cdn 120,000). 
+ (b) On April 19, 2016, the Company signed a Share Purchase Agreement with a Director of the Company, whereby the Company will issue, in a private placement, 400,000,000 shares of common stock of the Company in consideration for one-third of the net proceeds that the Director will receive from the sale of the Director's 15 interest in Decision-Zone Inc. As of the date of this filing, the agreement has not yet closed. 
+
+F-10 
+
+WOLVERINE TECHNOLOGIES CORP. 
+ Notes to the Financial Statements 
+ May 31, 2021 
+ (Expressed in U.S. dollars) 
+
+9. Income Taxes 
+ The Company has net operating losses carried forward of 4,548,600 available to offset taxable income in future years which expires beginning in fiscal 2027. Under section 382 of the Internal Revenue Code such a change in control negates much of the tax loss carry forward and deferred income tax. The Company is subject to examination by the IRS for tax years 2014 to 2021. The Company is also subject to income tax in Canada. 
+ The Company was subject to United States federal and state income taxes at an approximate rate of 21 for the years ended May 31, 2021 and 2020. 
+ The reconciliation of the provision for income taxes at the United States federal statutory rate compared to the Company's income tax expense as reported is as follows: 
+
+2021 
+
+2020 
+
+Income tax recovery at statutory rate 
+ 
+ (37,096) 
+ 
+ (61,355) 
+
+Temporary differences 
+ 
+ 560 
+
+- 
+
+Valuation allowance change 
+ 
+ 36,536 
+
+61,355 
+
+Provision for income taxes 
+ 
+ - 
+
+- 
+
+The significant components of deferred income tax assets and liabilities at May 31, 2021 and 2020, are as follows: 
+
+2021 
+
+2020 
+
+Mineral property costs 
+ 
+ 300,531 
+
+299,971 
+
+Net operating losses carried forward 
+ 
+ 955,211 
+
+918,675 
+
+Gross deferred income tax assets 
+ 
+ 1,255,742 
+
+1,218,646 
+
+Valuation allowance 
+ 
+ (1,255,742) 
+ 
+ (1,218,646) 
+
+Net deferred income tax asset 
+ 
+ - 
+
+- 
+
+10. Subsequent events 
+ On July 26, 2021, the Company issued 3,000,000 shares of common stock pursuant to a private placement for cash proceeds of 5,625, of which 3,750 was received at May 31, 2021 (Note 6). 
+ On July 26, 2021, the Company issued 37,000,000 shares of common stock pursuant to a private placement for cash proceeds of 75,295 (Cdn 92,500), of which 40,953 (Cdn 50,000) was received at May 31, 2021 (Note 6). 
+ Subsequent to May 31, 2021, the Company received cash proceeds of 25,715 (Cdn 32,500) for the subscription of 13,000,000 shares of common stock pursuant to a private placement. As of the date of these financial statements the shares had yet to be issued. 
+ Subsequent to May 31, 2021, the Company received cash proceeds of 18,750 for the subscription of 10,000,000 shares of common stock pursuant to a private placement. As of the date of these financial statements the shares had yet to be issued. 
+ The Company has evaluated subsequent events through the date which the financial statements were available to be issued. All subsequent events requiring recognition as of May 31, 2021, have been incorporated into these financial statements and there are no subsequent events that require disclosure in accordance with FASB ASC 
+
+F-11 
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ There were no disagreements related to accounting principles or practices, financial statement disclosure, internal controls or auditing scope or procedure during the two fiscal years and interim periods. 
+ Item 9A (T). Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ We maintain disclosure controls and procedures, as defined in Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934 (the "Exchange Act"), that are designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission's rules and forms and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. 
+ We carried out an evaluation, under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures as of May 31, 2021. Based on the evaluation of these disclosure controls and procedures, and in light of the weaknesses identified below, the Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were not effective. 
+ Management's Report on Internal Control over Financial Reporting 
+ Our management is responsible for establishing and maintaining effective internal control over financial reporting. Under the supervision of our Chief Executive Officer and Chief Financial Officer, the Company conducted an evaluation of the effectiveness of our internal control over financial reporting as of May 31, 2021 using the criteria established in Internal Control-Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). 
+ A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company's annual or interim financial statements will not be prevented or detected on a timely basis. In its assessment of the effectiveness of internal control over financial reporting as of May 31, 2021, the Company determined that there were significant deficiencies that constituted material weaknesses, as described below. 
+ (1) lack of a functioning audit committee and lack of a majority of outside directors on our board of directors, resulting in ineffective oversight in the establishment and monitoring of required internal controls and procedures; 
+ (2) inadequate segregation of duties consistent with control objectives; 
+ (3) insufficient written policies and procedures for accounting and financial reporting with respect to the requirements and application of US GAAP and SEC disclosure requirements; and 
+ (4) ineffective controls over period end financial disclosure and reporting processes. 
+ Management is currently evaluating remediation plans for the above control deficiencies. 
+ 
+ 35 
+
+In light of the existence of these control deficiencies, management concluded that there is a reasonable possibility that a material misstatement of the annual or interim financial statements will not be prevented or detected on a timely basis by the Company's internal controls. 
+ As a result, management has concluded that the Company's internal control over financial reporting as of May 31, 2021 based on criteria established in Internal Control-Integrated Framework (2013) issued by COSO was not effective. 
+ This Annual Report does not include an attestation report of the Company's registered public accounting firm regarding internal control over financial reporting. Management's report was not subject to attestation by the Company's registered public accounting firm pursuant to temporary rules of the SEC that permit the Company to provide only management's report in this annual report. 
+ Changes in Internal Control 
+ During the year ended May 31, 2021 there were no changes in our internal control over financial reporting that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ Inherent limitations on effectiveness of controls 
+ Internal control over financial reporting has inherent limitations which include but is not limited to the use of independent professionals for advice and guidance, interpretation of existing and/or changing rules and principles, segregation of management duties, scale of organization, and personnel factors. Internal control over financial reporting is a process which involves human diligence and compliance and is subject to lapses in judgment and breakdowns resulting from human failures. Internal control over financial reporting also can be circumvented by collusion or improper management override. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements on a timely basis, however these inherent limitations are known features of the financial reporting process and it is possible to design into the process safeguards to reduce, though not eliminate, this risk. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ Item 9B. Other Information 
+ None 
+ PART III 
+ Item 10. Directors, Executive Officers and Corporate Governance 
+ All of the directors of our company hold office until the next annual meeting of the stockholders or until their successors have been elected and qualified. Our officers are appointed by our board of directors and hold office until their death, resignation or removal from office. Our directors and executive officers, their ages, positions held, and duration as such, are as follows: 
+ 
+ 36 
+
+Name 
+
+Position Held with the Company 
+
+Age 
+
+Date First Elected or Appointed 
+
+Richard Haderer 
+
+President, Chief Executive Officer, Chief Financial Officer and Director 
+
+58 
+
+April 13, 2015 
+
+Luke Rich 
+
+Vice President, Exploration and Business Development and Director 
+
+56 
+
+June 14, 2010 
+
+David Ian Chalk 
+
+Director 
+
+63 
+
+April 13, 2015 
+
+Business Experience 
+ The following is a brief account of the education and business experience of each director and executive officer during at least the past five years, indicating each person's principal occupation during the period, and the name and principal business of the organization by which he was employed. 
+ Richard Haderer 
+ Mr. Haderer has worked as a regulatory consultant for Wolverine since February of 2006. Mr. Haderer has been President of PubCo Services Inc. since April 1996. PubCo Services Inc. provides regulatory consulting services to publicly traded companies. Mr. Haderer has also served as a director and officer of several publicly traded companies. From November 1989 to April 1996, Mr. Haderer worked as a Listing Analyst with the Alberta Stock Exchange (now the TSX Venture Exchange). 
+ Luke Rich 
+ Mr. Rich is a member of the Innu Nation and Mushuau Innu First Nations and is a former VP of the Innu Nation. Prior to joining Wolverine, Mr. Rich was also Co-CEO of the Innu Development Limited Partnership ("IDLP") from October 2007 to April 2010. IDLP participated in the construction of the mine and mill for the Voisey Bay Nickel Project. Mr. Rich is also a board member of various IDLP owned companies including Innu Mikun Airlines, Innu Keiwit Constructor LP and the Innu/SNC Lavalin Partnership. 
+ Dr. David Chalk 
+ Dr. Chalk is a pioneer in the technology industry having created Doppler Computers and Chalk Media Inc. which was sold to Research in Motion, now Blackberry, in 2009. Dr. Chalk has also received numerous awards for his many innovations in the business and technology worlds. Among his many accolades, Dr. Chalk has received an Honorary Doctorate of Technology from the University of Fraser Valley, Ernst and Young's Entrepreneur Award also industry leading awards for software development in the mobility, security and education and digital video fields. 
+ Family Relationships 
+ There are no family relationships among our directors or officers. 
+ Involvement in Certain Legal Proceedings 
+ Our directors, executive officers and control persons have not been involved in any of the following events during the past five years: 
+ 1. any bankruptcy petition filed by or against any business of which such person was a general partner or executive officer either at the time of the bankruptcy or within two years prior to that time; 
+ 
+ 37 
+
+2. any conviction in a criminal proceeding or being subject to a pending criminal proceeding (excluding traffic violations and other minor offences); 
+ 3. being subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any type of business, securities or banking activities; or 
+ 4. being found by a court of competent jurisdiction (in a civil action), the Commission or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated. 
+ Section 16(a) Beneficial Ownership Compliance 
+ Section 16(a) of the Securities Exchange Act of 1934 requires our executive officers and directors and persons who own more than 10 of our common stock to file with the Securities and Exchange Commission initial statements of beneficial ownership, reports of changes in ownership and annual reports concerning their ownership of our common stock and other equity securities, on Forms 3, 4 and 5 respectively. Executive officers, directors and greater than 10 shareholders are required by the SEC regulations to furnish us with copies of all Section 16(a) reports that they file. 
+ Based solely on our review of the copies of such forms received by us, or written representations from certain reporting persons, we believe that during fiscal year ended May 31, 2021 all filing requirements applicable to our officers, directors and greater than 10 percent beneficial owners were complied with. 
+ Audit Committee and Audit Committee Financial Expert 
+ We do not have an audit committee; our entire board of directors performs the function of an audit committee. Our board of directors has determined that it does not have a member that qualifies as an "audit committee financial expert" as defined in Item 407(d)(5)(ii) of Regulation S-K, and is "independent" as the term is used in Item 7(d)(3)(iv) of Schedule 14A under the Securities Exchange Act of 1934, as amended. 
+ We believe that the members of our board of directors are collectively capable of analyzing and evaluating our financial statements. We believe that retaining an independent director who would qualify as an "audit committee financial expert" would be overly costly and burdensome and is not warranted in our circumstances given the early stages of our development and the fact that we have not generated any material revenues to date. In addition, we currently do not have nominating, compensation or audit committees or committees performing similar functions nor do we have a written nominating, compensation or audit committee charter. Our board of directors does not believe that it is necessary to have such committees because it believes the functions of such committees can be adequately performed by our board of directors. 
+ Code of Ethics 
+ We adopted a Code of Ethics applicable to all of our directors, officers, employees and consultants, which is a "code of ethics" as defined by applicable rules of the SEC. Our Code of Ethics is attached as an exhibit to our registration statement on Form S-1 filed on July 15, 2008. If we make any amendments to our Code of Ethics other than technical, administrative, or other non-substantive amendments, or grant any waivers, including implicit waivers, from a provision of our Code of Ethics to our chief executive officer, chief financial officer, or certain other finance executives, we will disclose the nature of the amendment or waiver, its effective date and to whom it applies in a Current Report on Form 8-K filed with the SEC. 
+ 
+ 38 
+
+Item 11. Executive Compensation 
+ The particulars of the compensation paid to the following persons: 
+
+our principal executive officer; 
+
+each of our two most highly compensated executive officers who were serving as executive officers at the end of the years ended May 31, 2021 and 2020; and 
+
+up to two additional individuals for whom disclosure would have been provided under (b) but for the fact that the individual was not serving as our executive officer at the end of the years ended May 31, 2021 and 2020, 
+
+who we will collectively refer to as the named executive officers of our company, are set out in the following summary compensation table, except that no disclosure is provided for any named executive officer, other than our principal executive officers, whose total compensation did not exceed 100,000 for the respective fiscal year: 
+
+SUMMARY COMPENSATION TABLE 
+
+Name and Principal Position 
+
+Year 
+
+Salary ) 
+
+Bonus ) 
+
+Stock Awards ) 
+
+Option Awards ) 
+
+Non-Equity Incentive Plan Compensation ) 
+
+Change in Pension Value and Nonqualified Deferred Compensation Earnings ) 
+
+All Other Compensation ) 
+
+Total ) 
+
+Richard Haderer 
+ Chief Executive Officer, Chief Financial Officer and Director 
+
+2021 
+ 2020 
+
+31,536 
+ 29,884 
+
+Nil 
+ Nil 
+
+Nil 
+ Nil 
+
+Nil 
+ Nil 
+
+Nil 
+ Nil 
+
+Nil 
+ Nil 
+
+Nil 
+ Nil 
+
+31,536 
+ 29,884 
+
+Stock Options/SAR Grants 
+ N/A. 
+ Aggregated Option Exercises in Last Fiscal Year and Fiscal Year-End Values 
+ There were no options exercised during our fiscal year ended May 31, 2021 or May 31, 2020 by any officer or director of our company. 
+ Compensation of Directors 
+ We reimburse our directors for expenses incurred in connection with attending board meetings. We have not paid any director's fees or other cash compensation for services rendered as a director since our inception to May 31, 2021. 
+ 
+ 39 
+
+We have no formal plan for compensating our directors for their service in their capacity as directors, although such directors are expected in the future to receive stock options to purchase common shares as awarded by our board of directors or (as to future stock options) a compensation committee which may be established. Directors are entitled to reimbursement for reasonable travel and other out-of-pocket expenses incurred in connection with attendance at meetings of our board of directors. Our board of directors may award special remuneration to any director undertaking any special services on our behalf other than services ordinarily required of a director. No director received and/or accrued any compensation for their services as a director, including committee participation and/or special assignments. 
+ Employment Contracts and Termination of Employment and Change in Control Arrangements 
+ We have not entered into any employment agreement or consulting agreement with our directors and executive officers. Consulting fees of CDN 40,000 per year are paid or accrued to PubCo Services Inc, a company controlled by Richard Haderer, CEO, CFO and a director of the Company. Consulting fees are paid or accrued on a quarterly basis to David Chalk, a director of the Company. 
+ There are no arrangements or plans in which we provide pension, retirement or similar benefits for directors or executive officers. Our directors and executive officers may receive stock options at the discretion of our board of directors in the future. We do not have any material bonus or profit-sharing plans pursuant to which cash or non-cash compensation is or may be paid to our directors or executive officers, except that stock options may be granted at the discretion of our board of directors. 
+ We have no plans or arrangements with respect to remuneration received or that may be received by our executive officers to compensate such officers in the event of termination of employment (as a result of resignation, retirement, change of control) or a change of responsibilities following a change of control, where the value of such compensation exceeds 60,000 per executive officer. 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ The following table sets forth, as of November 10, 2021, certain information with respect to the beneficial ownership of our common stock by each stockholder known by us to be the beneficial owner of more than 5 of our common stock and by each of our current directors and executive officers. Each person has sole voting and investment power with respect to the shares of common stock, except as otherwise indicated. Beneficial ownership consists of a direct interest in the shares of common stock, except as otherwise indicated. 
+ 
+ 40 
+
+Name and Address of Beneficial Owner 
+
+Amount and Nature of Beneficial Ownership 
+
+Percentage of Class (1) 
+
+Richard Haderer 103 Huntcroft Place NE Calgary, Alberta T2K 4E6 
+
+32,030,000 
+
+4.7 
+
+Luke Rich 
+ P.O. Box 65 
+ Natuashish, NL A0P1A0 
+
+3,125,140 
+
+0.5 
+
+David Ian Chalk 
+ 20629 86A Ave 
+ Langley, British Columbia V1M 3X3 
+
+700,000 
+
+0.1 
+
+Matthew Chan 
+ 7010 Union Street 
+ Burnaby, British Columbia V5A 1H9 
+
+50,000,000 
+
+7.4 
+
+Directors and Officers as a Group 
+
+35,855,140 
+
+5.3 
+
+(1) Under Rule 13d-3, a beneficial owner of a security includes any person who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise has or shares: (i) voting power, which includes the power to vote, or to direct the voting of shares; and (ii) investment power, which includes the power to dispose or direct the disposition of shares. Certain shares may be deemed to be beneficially owned by more than one person (if, for example, persons share the power to vote or the power to dispose of the shares). In addition, shares are deemed to be beneficially owned by a person if the person has the right to acquire the shares (for example, upon exercise of an option) within 60 days of the date as of which the information is provided. In computing the percentage ownership of any person, the amount of shares outstanding is deemed to include the amount of shares beneficially owned by such person (and only such person) by reason of these acquisition rights. As a result, the percentage of outstanding shares of any person as shown in this table does not necessarily reflect the person's actual ownership or voting power with respect to the number of shares of common stock actually outstanding on November 17, 2021. As of November 17, 2021, there were 675,626,548 shares of our company's common stock issued and outstanding. 
+ Changes in Control 
+ We are unaware of any contract or other arrangement or provisions of our Articles or Bylaws the operation of which may at a subsequent date result in a change of control of our company. There are not any provisions in our Articles or Bylaws, the operation of which would delay, defer, or prevent a change in control of our company. 
+ Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ Except as disclosed herein, there have been no transactions or proposed transactions in which the amount involved exceeds the lesser of 120,000 or one percent of the average of our total assets at year-end for the last three completed fiscal years in which any of our directors, executive officers or beneficial holders of more than 5 of the outstanding shares of our common stock, or any of their respective relatives, spouses, associates or affiliates, has had or will have any direct or material indirect interest. 
+ 
+ 41 
+
+Director Independence 
+ We currently act with three directors, Mr. Richard Haderer, Mr. Luke Rich and Mr. David Chalk. We have determined that we do not have a director that qualifies as an "independent director" as defined in NASDAQ Marketplace Rule 4200(a)(15). 
+ We do not have a standing audit, compensation or nominating committee, but our entire board of directors act in such capacity. We believe that our directors are capable of analyzing and evaluating our financial statements and understanding internal controls and procedures for financial reporting. Our directors do not believe that it is necessary to have an audit committee because we believe that the functions of an audit committee can be adequately performed by the board of directors. In addition, we believe that retaining additional independent directors who would qualify as an "audit committee financial expert" would be overly costly and burdensome and is not warranted in our circumstances given the early stages of our development. 
+ Item 14. Principal Accountants Fees and Services 
+ The aggregate fees billed for the most recently completed fiscal years ended May 31, 2021 and 2020 for professional services rendered by the principal accountant for the audit of our annual financial statements and review of the financial statements included in our quarterly reports on Form 10-Q and services that are normally provided by the accountant in connection with statutory and regulatory filings or engagements for these fiscal periods were as follows: 
+
+Year Ended May 31 
+
+2021 ) 
+
+2020 ) 
+
+Audit Fees 
+
+24,000 
+
+21,000 
+
+Audit Related Fees 
+
+Nil 
+
+Nil 
+
+Tax Fees 
+
+Nil 
+
+Nil 
+
+All Other Fees 
+
+Nil 
+
+Nil 
+
+Total 
+
+24,000 
+
+21,000 
+
+Our board of directors pre-approves all services provided by our independent auditors. All of the above services and fees were reviewed and approved by the board of directors either before or after the respective services were rendered. 
+ Our board of directors has considered the nature and amount of fees billed by our independent auditors and believes that the provision of services for activities unrelated to the audit is compatible with maintaining our independent auditors' independence. 
+ 
+ 42 
+
+PART IV 
+ Item 15. Exhibits, Financial Statement Schedules 
+ Exhibits required by Item 601 of Regulation S-K 
+
+Exhibit Number 
+
+Description 
+
+(3) 
+
+(i) Articles of Incorporation; and (ii) Bylaws 
+
+3.1 
+
+Articles of Incorporation of Wolverine filed as an Exhibit to our Form S-1 (Registration Statement) on July 15, 2008, and incorporated herein by reference. 
+
+3.2 
+
+Bylaws of Wolverine, filed as an Exhibit to our Form S-1 (Registration Statement) on July 15, 2008, and incorporated herein by reference. 
+
+3.3 
+
+Certificate of Amendment of Wolverine, filed as an Exhibit to our Form S-1 (Registration Statement) filed on July 15, 2008 and incorporated herein by reference. 
+
+3.4 
+
+Certificate of Registration of Extra-Provincial Corporation, filed as an Exhibit to our Form S-1 (Registration Statement) filed on July 15, 2008 and incorporated herein by reference. 
+
+3.5 
+
+Certificate of Amendment of Wolverine, filed as an Exhibit to our Form 8-K filed on September 17, 2013 and incorporated herein by reference. 
+
+3.6 
+
+Articles of Merger of Wolverine, filed as an Exhibit to our Form 8-K filed on August 11, 2015 and incorporated herein by reference. 
+
+3.7 
+
+Certificate of Amendment of Wolverine, filed as an Exhibit to our Form 8-K filed on February 19, 2020 and incorporated herein by reference. 
+
+(10) 
+
+Material Contracts 
+
+10.1 
+
+Vend-In Agreement dated February 28, 2007 between Wolverine and Shenin Resources Inc., filed as an Exhibit to our Form S-1 (Registration Statement) filed on July 15, 2008 and incorporated herein by reference. 
+
+10.2 
+
+Consulting Agreement dated January 31, 2007 between Wolverine and Texada Consulting Inc., filed as an Exhibit to our Form S-1 (Registration Statement) filed on July 15, 2008 and incorporated herein by reference. 
+
+43 
+
+10.3 
+
+Share Purchase Agreement between Wolverine and David Chalk dated April 19, 2016. 
+
+(14) 
+
+Code of Ethics 
+
+14.1 
+
+Code of Ethics, filed as an Exhibit to our Form S-1 (Registration Statement) filed on July 15, 2008 and incorporated herein by reference. 
+
+(31) 
+
+Rule 13a-14(a)/15d-14(a) Certifications 
+
+31.1 
+
+Section 302 Certifications under Sarbanes-Oxley Act of 2002 
+
+(32) 
+
+Section 1350 Certifications 
+
+32.1 
+
+Section 906 Certifications under Sarbanes-Oxley Act of 2002 
+
+(101) 
+ Interactive Data File 
+
+101.INS 
+ XBRL Instance Document 
+
+101.SCH 
+ XBRL Taxonomy Extension Schema Document 
+
+101.CAL 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF 
+ XBRL Taxonomy Extension Definition Linkbase 
+
+101.LAB 
+ XBRL Taxonomy Extension Label Linkbase Document 
+
+101.PRE 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+
+Filed herewith. 
+ 
+ 44 
+
+SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereto duly authorized. 
+
+WOLVERINE TECHNOLOGIES CORP. 
+
+(Registrant) 
+
+Dated: November 17, 2021 
+
+/s/ Richard Haderer 
+
+Richard Haderer 
+
+President, Chief Executive Officer, Chairman and Director 
+
+(Principal Executive Officer) 
+
+Dated: November 17, 2021 
+
+/s/ Richard Haderer 
+
+Richard Haderer 
+
+Chief Financial Officer and Director 
+
+(Principal Financial Officer and Principal Accounting Officer) 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+WOLVERINE TECHNOLOGIES CORP. 
+
+(Registrant) 
+
+Dated: November 17, 2021 
+
+/s/ Richard Haderer 
+
+Richard Haderer 
+
+President, Chief Executive Officer, Chairman and Director 
+
+(Principal Executive Officer) 
+
+Dated: November 17, 2021 
+
+/s/ Richard Haderer 
+
+Richard Haderer 
+
+Chief Financial Officer and Director 
+
+(Principal Financial Officer and Principal Accounting Officer) 
+
+Dated: November 17, 2021 
+
+/s/ Luke Rich 
+
+Luke Rich 
+
+Director 
+
+Dated: November 17, 2021 
+
+/s/ David Chalk 
+
+David Chalk 
+
+Director 
+
+45 
+
+<EX-31.1>
+ 2
+ exhibit31-1.htm
+ EXHIBIT 31.1
+
+Wolverine Technologies Corp.: Exhibit 31.1 - Filed by newsfilecorp.com 
+
+EXHIBIT 31.1 
+ CERTIFICATION PURSUANT TO 18 U.S.C. ss 1350, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Richard Haderer, certify that: 
+ 1. I have reviewed this Annual Report on Form 10-K of Wolverine Technologies Corp.; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date: November 16, 2021 
+ /s/ Richard Haderer Richard Haderer Chief Executive Officer, Chief Financial Officer, and Director (Principal Executive Officer ,Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ exhibit32-1.htm
+ EXHIBIT 32.1
+
+Wolverine Technologies Corp.: Exhibit 32.1 - Filed by newsfilecorp.com 
+
+EXHIBIT 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Richard Haderer, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+ (1) the Annual Report on Form 10-K of Wolverine Technologies Corp. for the year ended May 31, 2021 (the "Report") fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ (2) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of Wolverine Technologies Corp. 
+
+Dated: November 16, 2021 
+
+/s/ Richard Haderer 
+
+Richard Haderer 
+
+Chief Executive Officer, Chief Financial Officer and Director 
+
+(Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer) 
+
+Wolverine Technologies Corp. 
+
+A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement required by Section 906, has been provided to Wolverine Technologies Corp. and will be retained by Wolverine Technologies Corp. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 4
+ wolv-20210531.xml
+ XBRL TAXONOMY INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 5
+ wolv-20210531.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ wolv-20210531_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ wolv-20210531_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ wolv-20210531_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ wolv-20210531_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

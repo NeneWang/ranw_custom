@@ -1,0 +1,1911 @@
+<Header>
+<FileStats>
+    <FileName>20211216_10-K_edgar_data_1373690_0001062993-21-012972.txt</FileName>
+    <GrossFileSize>1814355</GrossFileSize>
+    <NetFileSize>105859</NetFileSize>
+    <NonText_DocumentType_Chars>147180</NonText_DocumentType_Chars>
+    <HTML_Chars>508004</HTML_Chars>
+    <XBRL_Chars>536121</XBRL_Chars>
+    <XML_Chars>441990</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001062993-21-012972.hdr.sgml : 20211216
+<ACCEPTANCE-DATETIME>20211216134911
+ACCESSION NUMBER:		0001062993-21-012972
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		51
+CONFORMED PERIOD OF REPORT:	20210831
+FILED AS OF DATE:		20211216
+DATE AS OF CHANGE:		20211216
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Indigenous Roots Corp.
+		CENTRAL INDEX KEY:			0001373690
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				205243308
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55873
+		FILM NUMBER:		211497300
+
+	BUSINESS ADDRESS:	
+		STREET 1:		41 PUGET DRIVE
+		CITY:			STEILACOOM
+		STATE:			WA
+		ZIP:			98388
+		BUSINESS PHONE:		778-476-8302
+
+	MAIL ADDRESS:	
+		STREET 1:		41 PUGET DRIVE
+		CITY:			STEILACOOM
+		STATE:			WA
+		ZIP:			98388
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN PARAMOUNT GOLD CORP.
+		DATE OF NAME CHANGE:	20111012
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	American Paramount Gold Corp.
+		DATE OF NAME CHANGE:	20100412
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Zebra Resources, Inc.
+		DATE OF NAME CHANGE:	20080918
+
+</SEC-Header>
+</Header>
+
+ 0001062993-21-012972.txt : 20211216
+
+10-K
+ 1
+ form10k.htm
+ FORM 10-K
+
+Indigenous Roots Corp.: Form 10-K - Filed by newsfilecorp.com 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 
+ FORM 10-K 
+ (Mark One) 
+ [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the fiscal year ended August 31, 2021 
+ [ ] TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from [ ] to [ ] 
+ Commission file number 333-138148 
+ INDIGENOUS ROOTS CORP. (Exact name of registrant as specified in its charter) 
+
+Nevada 
+
+20-5243308 
+
+(State or other jurisdiction of incorporation or 
+
+(I.R.S. Employer Identification No.) 
+
+organization) 
+
+41 Puget Drive, Steilacoom 
+
+98388 
+
+Washington 
+
+(Address of principal executive offices) 
+
+(Zip Code) 
+
+Registrant's telephone number, including area code: (250) 681-1010 
+ Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of Each Class 
+
+Name of Each Exchange on Which Registered 
+
+N/A 
+
+N/A 
+
+Securities registered pursuant to Section 12(g) of the Act: 
+ N/A (Title of class) 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 the Securities Act. Yes [ ] No [X] 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act Yes [ ] No [X] 
+ 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the last 90 days." Yes [ ] No [X] 
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-K 229.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes [ ] No [ X ] 
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [ ] 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definition of "large accelerated filer," "accelerated filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer [ ] 
+
+Accelerated filer [ ] 
+
+Non-accelerated filer [X] 
+
+Smaller reporting company [X] 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for completing with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes [ ] No [X] 
+ State the aggregate market value of voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and ask price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter. 
+ The aggregate market value of Common Stock held by non-affiliates of the Registrant on August 31, 2021 was 2,992,137 based on a 0.37 closing price for the Common Stock on August 31, 2021 For purposes of this computation, all executive officers and directors have been deemed to be affiliates. Such determination should not be deemed to be an admission that such executive officers and directors are, in fact, affiliates of the Registrant. 
+ Indicate the number of shares outstanding of each of the registrant's classes of common stock as of the latest practicable date. 
+ 15,586,857 shares of common stock issued outstanding as of November 30, 2021 
+ DOCUMENTS INCORPORATED BY REFERENCE 
+ None. 
+ 2 
+ 
+ Table of Contents 
+
+PART I 
+ 
+ 5 
+
+Item 1. 
+ Business 
+ 5 
+
+Item 1A. 
+ Risk Factors 
+ 8 
+
+Item 1B. 
+ Unresolved Staff Comments 
+ 10 
+
+Item 2. 
+ Properties 
+ 1 0 
+
+Item 3. 
+ Legal Proceedings 
+ 10 
+
+Item 4. 
+ [Removed and Reserved] 
+ 11 
+
+PART II 
+ 
+ 11 
+
+Item 5. 
+ Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 11 
+
+Item 6. 
+ Selected Financial Data 
+ 12 
+
+Item 7. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 12 
+
+Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 17 
+
+Item 8. 
+ Financial Statements and Supplementary Data 
+ 17 
+
+Item 9. 
+ Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 30 
+
+Item 9A. 
+ Controls and Procedures 
+ 30 
+
+Item 9B. 
+ Other Information 
+ 32 
+
+PART III 
+ 
+ 32 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 32 
+
+Item 11. 
+ Executive Compensation 
+ 34 
+
+Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 36 
+
+Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 37 
+
+Item 14. 
+ Principal Accounting Fees and Services 
+ 37 
+
+PART IV 
+ 
+ 38 
+
+Item 15. 
+ Exhibits, Financial Statement Schedules 
+ 38 
+
+SIGNATURES 
+ 
+ 40 
+
+4 
+ This annual report contains forward-looking statements. These statements relate to future events or our future financial performance. In some cases, you can identify forward-looking statements by terminology such as "may", "should", "expects", "plans", "anticipates", "believes", "estimates", "predicts", "potential" or "continue" or the negative of these terms or other comparable terminology. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks in the section entitled "Risk Factors", that may cause our or our industry's actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. 
+ Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Except as required by applicable law, including the securities laws of the United States, we do not intend to update any of the forward-looking statements to conform these statements to actual results. 
+ Our financial statements are stated in United States Dollars (US and are prepared in accordance with United States Generally Accepted Accounting Principles. 
+ In this annual report, unless otherwise specified, all dollar amounts are expressed in United States dollars and all references to "common shares" refer to the common shares in our capital stock. 
+ As used in this annual report, the terms "we", "us", "our", "our company" and "Indigenous Roots" refer to Indigenous Roots Corp., unless otherwise indicated. 
+ 
+ PART I 
+ Item 1. Business 
+ Corporate Overview 
+ Our principal executive offices are located at 41 Puget Drive, Steilacoom, WA. Our telephone number is (250) 681-1010. 
+ Our common stock is quoted on the OTC Pink under the symbol "IRCC". 
+ Corporate History 
+ We were incorporated under the laws of the State of Nevada on July 20, 2006 under the name "Zebra Resources Incorporated" (aka "Zebra Resources Inc."). At inception, we were an exploration stage company engaged in the acquisition, exploration and development of mineral properties. 
+ Effective March 17, 2010, we effected a one (1) old for two (2) new forward stock split of our issued and outstanding common stock. As a result, our authorized capital increased from 75,000,000 to 150,000,000 shares of common stock and our issued and outstanding increased from 32,000,000 shares of common stock to 64,000,000 shares of common stock, all with a par value of 0.001. 
+ 5 
+ 
+ Effective March 17, 2010, we changed our name from "Zebra Resources Incorporated" to "American Paramount Gold Corp.", by way of a merger with our wholly owned subsidiary American Paramount Gold Corp., which was formed solely for the change of name. 
+ The name change and forward stock split became effective with the Over-the-Counter Bulletin Board at the opening for trading on April 12, 2010 under the new stock symbol "APGA". 
+ On July 30, 2010, our directors approved the adoption of the 2010 Stock Option Plan ("2010 Plan") which permits our company to issue up to 6,500,000 shares of our common stock to directors, officers, employees and consultants of our company upon the exercise of stock options granted under the 2010 Plan. As at August 31, 2016, there are no outstanding stock options. 
+ On November 16, 2011, our company's board of directors approved a forty (40) for one (1) reverse stock split of our authorized and issued and outstanding common shares. 
+ On November 28, 2011, the Nevada Secretary of State accepted for filing a Certificate of Change, wherein we effected an amendment to our Articles of Incorporation to decrease the authorized number of shares of our common stock from 150,000,000 to 3,750,000 shares of common stock, par value of 0.001. On November 29, 2011 the Nevada Secretary of State accepted for filing a Certificate of Correction, wherein we effected an amendment to our Articles of Incorporation to correct the Certificate of Change filed on November 28, 2011 to state that no fractional shares shall be issued and that fractional shares shall be rounded up rather than rounded down. 
+ The reverse split became effective with the Over-the-Counter Bulletin Board at the opening of trading on January 26, 2012 under the new symbol APGA. The CUSIP number was changed to 02882T 204. 
+ Effective January 8, 2019, we changed our name to Indigenous Roots Corp. 
+ The name change became effective with the Over-the-Counter Bulletin Board at the opening for trading on February 9, 2019 under the stock symbol "IRCC". Our CUSIP number is 455685107. 
+ On April 1, 2019, the Company acquired 100 of the issued and outstanding shares of Edison Power Company ('Edison Power"), a Nevada corporation, in exchange for 6,849,239 common shares of the Company. Edison Power owns a 100 interest in Edison Delaware 2 LLC, a Delaware registered limited liability corporation that owns and operates a 140 kW/h solar power generating facility in Georgetown, Delaware. The facility was completed in March, 2019 and began generating power in April, 2019. 
+ 6 
+ 
+ Our Current Business 
+ We are currently in the Renewable Energy sector. 
+ Subsidiaries 
+ On April 1, 2019, the Company acquired 100 of the issued and outstanding shares of Edison Power Company ('Edison Power"), a Nevada corporation, in exchange for 6,849,239 common shares of the Company. Edison Power owns a 100 interest in Edison Delaware 2 LLC, a Delaware registered limited liability corporation. 
+ On December 1, 2019, the Company acquired all of the issued and outstanding shares of Edison Power Corporation ("EPC") in exchange for cash of 10. EPC was federally incorporated in Canada on April 13, 2015. 
+ Research and Development Expenditures 
+ We have incurred nil in research and development expenditures over the last two fiscal years. 
+ Employees 
+ Currently we do not have any employees. Additionally, we have not entered into any consulting or employment agreements with our president, chief executive officer, treasurer, secretary or chief financial officer. Our directors, executive officers and certain contracted individuals play an important role in the running of our company. We do not expect any material changes in the number of employees over the next twelve-month period. We do and will continue to outsource contract employment as needed. 
+ 7 
+ 
+ REPORTS TO SECURITY HOLDERS 
+ We are required to file annual, quarterly and current reports, proxy statements and other information with the Securities and Exchange Commission and our filings are available to the public over the internet at the Securities and Exchange Commission's website at http://www.sec.gov. The public may read and copy any materials filed by us with the Securities and Exchange Commission at the Securities and Exchange Commission's Public Reference Room at 100 F Street N.E. Washington D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the Securities and Exchange Commission at 1-800-732-0330. The SEC also maintains an Internet site that contains reports, proxy and formation statements, and other information regarding issuers that file electronically with the SEC, at http://www.sec.gov. 
+ Item 1A. Risk Factors 
+ Risks Related to Our Company 
+ The fact that we have not earned any operating revenues since our incorporation raises substantial doubt about our ability to continue as a going concern. 
+ We have generated minimal revenue from operations since our incorporation. Due to its inability to meet its debt obligation, the Company may have to forfeit ownership of the Solar Power System and thus lose its only revenue producing asset. We had cash of 515,903 as of August 31, 2021 23,114-August 31, 2020) and a working capital deficiency of 1,080,003. We have a cumulative net loss of 4,902,173 from our inception on July 20, 2006 through August 31, 2021. We estimate that our average annual operating expenses will be approximately 200,000 including management services and administrative costs. We have traditionally raised our operating capital from sales of equity securities, but there can be no assurance that we will continue to be able to do so. 
+ 8 
+ 
+ Management plans to seek additional capital through a private placement of its capital stock. These conditions raise substantial doubt about our company's ability to continue as a going concern. Although there are no assurances that management's plans will be realized, management believes that our company will be able to continue operations in the future. The financial statements do not include any adjustments relating to the recoverability and classification of recorded assets, or the amounts of and classification of liabilities that might be necessary in the event our company cannot continue in existence. We continue to experience net operating losses. 
+ Risks Associated with Our Common Stock 
+ Trading on the OTC Bulletin Board may be volatile and sporadic, which could depress the market price of our common stock and make it difficult for our stockholders to resell their shares. 
+ Our common stock is quoted on the OTC Pinksheet service of the Financial Industry Regulatory Authority. Trading in stock quoted on the OTC Pinksheet is often thin and characterized by wide fluctuations in trading prices, due to many factors that may have little to do with our operations or business prospects. This volatility could depress the market price of our common stock for reasons unrelated to operating performance. Moreover, the OTC Bulletin Board is not a stock exchange, and trading of securities on the OTC Bulletin Board is often more sporadic than the trading of securities listed on a quotation system like NASDAQ or a stock exchange like NYSE Amex. Accordingly, shareholders may have difficulty reselling any of their shares. 
+ Our stock is a penny stock. Trading of our stock may be restricted by the SEC's penny stock regulations and FINRA's sales practice requirements, which may limit a stockholder's ability to buy and sell our stock. 
+ Our stock is a penny stock. The Securities and Exchange Commission has adopted Rule 15g-9 which generally defines "penny stock" to be any equity security that has a market price (as defined) less than 5.00 per share or an exercise price of less than 5.00 per share, subject to certain exceptions. Our securities are covered by the penny stock rules, which impose additional sales practice requirements on broker-dealers who sell to persons other than established customers and "accredited investors". The term "accredited investor" refers generally to institutions with assets in excess of 5,000,000 or individuals with a net worth in excess of 1,000,000 or annual income exceeding 200,000 or 300,000 jointly with their spouse. The penny stock rules require a broker-dealer, prior to a transaction in a penny stock not otherwise exempt from the rules, to deliver a standardized risk disclosure document in a form prepared by the SEC which provides information about penny stocks and the nature and level of risks in the penny stock market. The broker-dealer also must provide the customer with current bid and offer quotations for the penny stock, the compensation of the broker-dealer and its salesperson in the transaction and monthly account statements showing the market value of each penny stock held in the customer's account. The bid and offer quotations, and the broker-dealer and salesperson compensation information, must be given to the customer orally or in writing prior to effecting the transaction and must be given to the customer in writing before or with the customer's confirmation. In addition, the penny stock rules require that prior to a transaction in a penny stock not otherwise exempt from these rules; the broker-dealer must make a special written determination that the penny stock is a suitable investment for the purchaser and receive the purchaser's written agreement to the transaction. These disclosure requirements may have the effect of reducing the level of trading activity in the secondary market for the stock that is subject to these penny stock rules. Consequently, these penny stock rules may affect the ability of broker-dealers to trade our securities. We believe that the penny stock rules discourage investor interest in, and limit the marketability of, our common stock. 
+ 9 
+ 
+ In addition to the "penny stock" rules promulgated by the Securities and Exchange Commission, the Financial Industry Regulatory Authority has adopted rules that require that in recommending an investment to a customer, a broker-dealer must have reasonable grounds for believing that the investment is suitable for that customer. Prior to recommending speculative low-priced securities to their non-institutional customers, broker-dealers must make reasonable efforts to obtain information about the customer's financial status, tax status, investment objectives and other information. Under interpretations of these rules, the Financial Industry Regulatory Authority believes that there is a high probability that speculative low-priced securities will not be suitable for at least some customers. The Financial Industry Regulatory Authority requirements make it more difficult for broker-dealers to recommend that their customers buy our common stock, which may limit your ability to buy and sell our stock. 
+ Other Risks 
+ Trends, Risks and Uncertainties 
+ We have sought to identify what we believe to be the most significant risks to our business, but we cannot predict whether, or to what extent, any of such risks may be realized nor can we guarantee that we have identified all possible risks that might arise. Investors should carefully consider all such risk factors before making an investment decision with respect to our common stock. 
+ Item 1B. Unresolved Staff Comments 
+ As a "smaller reporting company", we are not required to provide the information required by this Item. 
+ Item 2. Properties 
+ Executive Offices 
+ Our executive, administrative, and operating offices are located at 41 Puget Drive, Steilacoom, WA 98388. 
+ Item 3. Legal Proceedings 
+ There are no proceedings in which any of our directors, officers or affiliates, or any registered or beneficial shareholder, is an adverse party or has a material interest adverse to our company. 
+ 10 
+ 
+ Item 4. [Removed and Reserved] 
+ PART II 
+ Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ Our common shares are quoted on the Over-the-Counter (OTC) Bulletin Board under the symbol "IRCC" The following quotations, obtained from Market Watch, reflect the high and low bids for our common shares based on inter-dealer prices, without retail mark-up, mark-down or commission and may not represent actual transactions. 
+ The high and low bid prices of our common stock for the periods indicated below are as follows: 
+
+OTC Bulletin Board (1) 
+
+Quarter Ended 
+ High 
+ Low 
+
+August 31, 2021 
+ 0.37 
+ 0.37 
+
+May 31, 2021 
+ 0.12 
+ 0.12 
+
+February 28, 2021 
+ 0.11 
+ 0.11 
+
+November 30, 2020 
+ 0.13 
+ 0.13 
+
+(1) 
+
+Over-the-counter market quotations reflect inter-dealer prices without retail mark-up, mark- down or commission, and may not represent actual transactions. 
+
+Our shares are issued in registered form. Nevada Agency and Transfer Company, 50 West Liberty Street, Suite 880, Reno, Nevada 89501 (Telephone: (775) 322-0626; Facsimile: (775) 322-5623) is the registrar and agent for our common and preferred shares. 
+ On August 31, 2021, the shareholders' list showed 143 registered shareholders, 15,586,857 common shares outstanding. 
+ Dividend Policy 
+ We have not paid any cash dividends on our common stock and have no present intention of paying any dividends on the shares of our common stock. Our current policy is to retain earnings, if any, for use in our operations and in the development of our business. Our future dividend policy will be determined from time to time by our board of directors. 
+ 11 
+ 
+ Recent Sales of Unregistered Securities; Use of Proceeds from Registered Securities 
+ We did not sell any equity securities which were not registered under the Securities Act during the year ended August 31, 2021 that were not otherwise disclosed on our quarterly reports on Form 10-Q or our current reports on Form 8-K filed during the year ended August 31, 2021. 
+ Equity Compensation Plan Information 
+ We have no long-term incentive plans, other than the 2010 Stock Option Plan described below. 
+ 2010 Stock Option Plan 
+ On July 30, 2010, our directors approved the adoption of the 2010 Stock Option Plan which permits our company to issue up to 6,500,000 shares of our common stock to directors, officers, employees and consultants of our company upon the exercise of stock options granted under the 2010 Plan. There are no outstanding options as at August 31, 2021 
+
+Equity Compensation Plan Information 
+
+Plan category 
+ Number of securities to be issued upon exercise of outstanding options, warrants and rights 
+ Weighted-average exercise price of outstanding options, warrants and rights 
+ Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a)) 
+
+Equity compensation plans approved by security holders 
+ Nil 
+ Nil 
+ Nil 
+
+Equity compensation plans not approved by security holders 
+ Nil 
+ Nil 
+ Nil 
+
+Total 
+ Nil 
+ Nil 
+ Nil 
+
+Purchase of Equity Securities by the Issuer and Affiliated Purchasers 
+ We did not purchase any of our shares of common stock or other securities during the fourth quarter of our fiscal year ended August 31, 2021. 
+ Item 6. Selected Financial Data 
+ As a "smaller reporting company", we are not required to provide the information required by this Item. 
+ Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion should be read in conjunction with our audited financial statements and the related notes for the years ended August 31, 2021 and August 31, 2020 that appear elsewhere in this annual report. The following discussion contains forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ materially from those discussed in the forward- looking statements. Factors that could cause or contribute to such differences include, but are not limited to those discussed below and elsewhere in this annual report, particularly in the section entitled "Risk Factors" beginning on page 7 of this annual report. 
+ 12 
+ 
+ Our audited financial statements are stated in United States Dollars and are prepared in accordance with United States Generally Accepted Accounting Principles. 
+ Cash Requirements 
+ Over the next 12 months we intend to operate as a business development company. We anticipate that we will incur the following operating expenses during this period: 
+
+Estimated Funding Required During the Next 12 Months 
+
+Expense 
+ 
+ Amount 
+
+General, Administrative and Corporate Expenses 
+ 
+ 100,000 
+
+Operating Expenses 
+ 
+ 100,000 
+
+Total 
+ 
+ 200,000 
+
+At present, our cash requirements for the next 12 months outweigh the funds available. Of the 200,000 that we require for the next 12 months, we have 515,903 in cash and a working capital deficiency of 1,080,003 In order to improve our liquidity, we plan to pursue additional equity financing from private investors or possibly a registered public offering. We do not currently have any definitive arrangements in place for the completion of any further private placement financings and there is no assurance that we will be successful in completing any further private placement financings. If we are unable to achieve the necessary additional financing, then we plan to reduce the amounts that we spend on our business activities and administrative expenses in order to be within the amount of capital resources that are available to us. 
+ Purchase of Significant Equipment 
+ We do not anticipate the purchase or sale of any plant or significant equipment during the next 12 months. 
+ Going Concern 
+ The financial statements included in this filing have been prepared in conformity with generally accepted accounting principles that contemplate the continuance of our company as a going concern, which contemplates the realization of assets and liquidation of liabilities in the normal course of business. The Company has generated minimal revenue from operations. As shown on the accompanying financial statements, our company has incurred a net loss of 4,902,173 for the period from inception (July 20, 2006) to August 31, 2021 and has a working capital deficiency of 1,080,003 as at August 31, 2021. These conditions raise substantial doubt about our company's ability to continue as a going concern. 
+ The future of our company is dependent upon its ability to obtain financing and upon future profitable operations from the development of its mining activities. 
+ Off-Balance Sheet Arrangements or capital resources that is material to stockholders. 
+ There were none during the years ended August 31, 2021 or 2020. 
+ Results of Operations for the Years Ended August 31, 2021 and 2020 
+ The following summary of our results of operations should be read in conjunction with our audited financial statements for the years ended August 31, 2021 and 2020. 
+ 13 
+ 
+ Our operating results for the years ended August 31, 2021 and 2020 are summarized as follows: 
+
+Year Ended 
+
+August 31, 
+
+2021 
+
+2020 
+
+Revenue 
+ 
+ 12,589 
+
+7,635 
+
+Operating expenses 
+ 
+ 140,643 
+
+66,817 
+
+Other expenses 
+ 
+ 789,383 
+
+47,245 
+
+Net operating loss for the year 
+ 
+ (917,437) 
+ 
+ (106,427) 
+
+Expenses 
+ Our operating expenses for the years ended August 31, 2021 and 2020 are outlined in the table below: 
+
+Year Ended 
+
+August 31, 
+
+2021 
+
+2020 
+
+General and administrative expense 
+ 
+ 12,044 
+
+9,545 
+
+Executive stock compensation 
+ 
+ 50,000 
+
+- 
+
+Legal and audit fees 
+ 
+ 37,126 
+
+16,062 
+
+Depreciation 
+ 
+ 41,473 
+
+41,210 
+
+Equity Compensation 
+ We currently do not have any equity compensation plans or arrangements. On July 31, 2010 our directors approved the adoption of our 2010 Stock Option Plan which permits our company to grant up to 6,500,000 options to acquire shares of common stock, to directors, officers, employees and consultants of our company. 
+ Liquidity and Financial Condition 
+ Working Capital 
+
+At August 31, 
+
+2021 
+
+2020 
+
+Current Assets 
+ 
+ 514,445 
+
+25,999 
+
+Current Liabilities 
+ 
+ 1,594,448 
+
+1,009,818 
+
+Working Capital Deficit 
+ 
+ (1,080,003) 
+ 
+ (983,819) 
+
+Contractual Obligations 
+ As a "smaller reporting company", we are not required to provide tabular disclosure obligations. 
+ 14 
+ 
+ Critical Accounting Policies 
+ Our financial statements and accompanying notes have been prepared in conformity with accounting principles generally accepted in the United States of America for financial statements. Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expenses. These estimates and assumptions are affected by management's application of accounting policies. We believe that understanding the basis and nature of the estimates and assumptions involved with the following aspects of our financial statements is critical to an understanding of our financials. 
+ Accounting estimates 
+ The preparation of the financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amount of revenue and expenses during the reporting period. Actual results could differ from those estimates. 
+ Cash and cash equivalents 
+ For purposes of the statement of cash flows, our company considers highly liquid financial instruments purchased with a maturity of three months or less to be cash equivalents. 
+ Fair value of financial instruments 
+ The Company measures the fair value of financial assets and liabilities based on GAAP guidance which defines fair value, establishes a framework for measuring fair value, and expands disclosures about fair value measurements. Under GAAP, fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. A fair value hierarchy is also established, which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. 
+ Level 1 - Quoted prices in active markets for identical assets or liabilities. 
+ Level 2 - Quoted prices for similar assets and liabilities in active markets or inputs that are observable. 
+ Level 3 - Inputs that are unobservable (for example cash flow modelling inputs based on assumptions). 
+ The table below presents the carrying value and fair value of our company's financial instruments. 
+ The fair value represents management's best estimates based on a range of methodologies and assumptions. The carrying value of receivables and payables arising in the ordinary course of business and the receivable from taxing authorities, approximate fair value because of the relatively short period of time between their origination and expected realization. 
+
+Carrying 
+
+Significant 
+
+value 
+
+Quoted 
+
+Significant 
+
+Unobserva 
+
+August 31, 
+
+Prices in 
+
+Other 
+
+ble 
+
+2021 
+
+(Level 1) 
+
+(Level 2) 
+
+(Level 3) 
+
+Accounts receivable 
+ 
+ (1,458) 
+ 
+ (1,458) 
+ 
+ - 
+
+- 
+
+Accounts payable and accrued expenses 
+ 
+ 178,256 
+
+178,256 
+
+- 
+
+- 
+
+Loan payable 
+ 
+ 466,435 
+
+466,435 
+
+Due to related parties 
+ 
+ 43,615 
+
+43,615 
+
+- 
+
+- 
+
+Loan payable 
+ 
+ 906,142 
+
+906,142 
+
+- 
+
+- 
+
+15 
+ 
+ Income taxes 
+ The Company follows the asset and liability method of accounting for income taxes, which requires recognition of deferred tax assets and liabilities for future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax basis and tax credit carry-forwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in operations in the period that includes the enactment date. The Company has a net operating loss carry-forward to be used in future years. The Company has established a valuation allowance for the full tax benefit of the operating loss carry-forwards due to the uncertainty regarding realization. 
+ Net loss per common share 
+ Basic net loss per share is computed by dividing the net loss available to common stockholders for the period by the weighted average number of shares of common stock outstanding during the period. The calculation of diluted net loss per share gives effect to common stock equivalents; however, potential common shares are excluded if their effect is anti-dilutive. 
+ Stock-based compensation 
+ The Company applies the fair value method for accounting for stock option awards, whereby the Company recognizes a compensation expense for all stock options awarded to employees, officers and consultants based on the fair value of the options on the date of grant, which is determined using the Black-Scholes Option Pricing Model. The options are expensed over the vesting period of the options on a graded vesting basis. 
+ The Company accounts for equity instruments issued in exchange for the receipt of goods or services from other than at the estimated fair market value of the consideration received or the estimated fair value of the equity instruments issued, whichever is more reliably measurable. The value of equity instruments issued for consideration for other than employee services is determined on the earliest of a performance commitment or completion of performance by the provider of goods or services. 
+ 16 
+ 
+ Concentration of credit risk 
+ Our company places our cash and cash equivalents with high credit quality financial institutions. 
+ Recent Accounting Pronouncements 
+ Recent accounting pronouncements issued by the Financial Accounting Standards Board or other authoritative standards groups with future effective dates are either not applicable or are not expected to be significant to the financial statements of the Company. 
+ Item 7A. Quantitative and Qualitative Disclosures about Market Risk 
+ As a "smaller reporting company", we are not required to provide the information required by this Item. 
+ Item 8. Financial Statements and Supplementary Data 
+ 17 
+ 
+ INDIGENOUS ROOTS CORP. 
+ CONSOLIDATED FINANCIAL STATEMENTS 
+ AUGUST 31, 2021 AND 2020 
+ (EXPRESSED IN US DOLLARS) 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ To the shareholders and board of directors of Indigenous Roots Corp.: 
+ Opinion on the Consolidated Financial Statements We have audited the accompanying consolidated balance sheets of Indigenous Roots Corp. (the "Company") as of August 31, 2020 and 2019, the related consolidated statements of operations, cash flows and changes in deficit for the years then ended, and the related notes (collectively referred to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of August 31, 2020 and 2019, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+ Going Concern The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the financial statements, the Company has incurred losses in developing its business, and further losses are anticipated. The Company requires additional funds to meet its obligations and the costs of its operations. These factors raise substantial doubt about the Company s ability to continue as a going concern. Management s plans in this regard are described in Note 1. The financial statements do not include any adjustments that might result from the outcome of this uncertainty 
+ Basis for Opinion These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting in accordance with the standards of the PCAOB. As part of our audit we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion in accordance with the standards of the PCAOB. 
+ Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provide a reasonable basis for our opinion. 
+ /DMCL/ DALE MATHESON CARR-HILTON LABONTE LLP CHARTERED PROFESSIONAL ACCOUNTANTS 
+ We have served as the Company s auditor since 2012 Vancouver, Canada December 4, 2020 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ To the Board of Directors and Stockholders of Indigenous Roots Corp. 
+ Opinion on the Financial Statements 
+ We have audited the accompanying consolidated balance sheet of Indigenous Roots Corp. ("the Company") as of August 31, 2021, and the related consolidated statements of operations, changes in deficit, and cash flows for the year then ended, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of August 31, 2021, and the results of its operations and its cash flows for the year then ended, in conformity with accounting principles generally accepted in the United States of America. 
+ Going Concern 
+ The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the financial statements, the Company has an accumulated deficit and working capital deficiency. These factors raise substantial doubt about the Company's ability to continue as a going concern. Management's plans in regard to these matters are also described in Note 1. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+ Basis for Opinion 
+ These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion. 
+ Our audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+ Critical Audit Matters 
+ Critical audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. We determined that there were no critical audit matters. 
+
+We have served as the Company's auditor since 2021. 
+ Spokane, Washington December 14, 2021 
+ 
+ INDIGENOUS ROOTS CORP. 
+ CONSOLIDATED BALANCE SHEETS 
+ (EXPRESSED IN US DOLLARS) 
+
+August 31, 2021 
+
+August 31, 2020 
+
+ASSETS 
+
+Current Assets 
+
+Cash 
+ 
+ 515,903 
+
+23,114 
+
+Accounts receivable 
+ 
+ (1,458) 
+ 
+ 2,885 
+
+514,445 
+
+25,999 
+
+Fixed Asset (Note 4) 
+ 
+ - 
+
+771,253 
+
+Total Assets 
+ 
+ 514,445 
+
+797,252 
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT 
+
+Current Liabilities 
+
+Accounts payable and accrued liabilities 
+ 
+ 178,256 
+
+139,103 
+
+Loan payable-related party 
+ 
+ 466,435 
+
+- 
+
+Due to related parties (Note 5) 
+ 
+ 43,615 
+
+37,615 
+
+Loan payable (Note 6) 
+ 
+ 906,142 
+
+833,100 
+
+1,594,448 
+
+1,009,818 
+
+Total Liabilities 
+ 
+ 1,594,448 
+
+1,009,818 
+
+STOCKHOLDERS' DEFICIT 
+
+Common stock 
+
+200,000,000 authorized shares, par value 0.001 
+
+15,586,857 shares issued and outstanding as at August 31, 2021 and 15,086,857 as at August 31, 2020 
+ 
+ 15,588 
+
+15,088 
+
+Additional paid-in-capital 
+ 
+ 4,536,362 
+
+4,486,862 
+
+Deficit 
+ 
+ (5,631,953) 
+ 
+ (4,714,516) 
+
+Total Stockholders' Deficit 
+ 
+ (1,080,003) 
+ 
+ (212,566) 
+
+Total Liabilities and Stockholders' Deficit 
+ 
+ 514,445 
+
+797,252 
+
+Going concern (Note 1) 
+ Subsequent event (Note 10) 
+ The accompanying notes are an integral part of these consolidated financial statements. 
+ 20 
+ 
+ INDIGENOUS ROOTS CORP. 
+ CONSOLIDATED STATEMENTS OF OPERATIONS (EXPRESSED IN US DOLLARS) 
+
+For the Year Ended August 31, 
+
+2021 
+
+2020 
+
+REVENUE 
+ 
+ 12,589 
+
+7,635 
+
+EXPENSES 
+
+Operating expenses 
+
+General and administrative expenses 
+ 
+ 12,044 
+
+9,545 
+
+Executive stock compensation 
+ 
+ 50,000 
+
+- 
+
+Legal and audit fees 
+ 
+ 37,126 
+
+16,062 
+
+Depreciation (Note 4) 
+ 
+ 41,473 
+
+41,210 
+
+Total operating expenses 
+ 
+ 140,643 
+
+66,817 
+
+Other (income) expenses 
+
+Foreign exchange 
+ 
+ (30,370) 
+ 
+ 37,982 
+
+Asset impairment expense 
+ 
+ 729,780 
+
+- 
+
+Interest expense (Note 6) 
+ 
+ 89,973 
+
+9,263 
+
+Total other (income) expenses 
+ 
+ 789,383 
+
+47,245 
+
+Net and comprehensive income (loss) 
+ 
+ (917,437) 
+ 
+ (106,427) 
+
+BASIC AND DILUTED INCOME (LOSS) PER COMMON SHARE 
+ 
+ (0.06) 
+ 
+ (0.01) 
+
+WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING - BASIC AND DILUTED 
+ 
+ 15,586,857 
+
+15,086,857 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+ 21 
+ 
+ INDIGENOUS ROOTS CORP. 
+ CONSOLIDATED STATEMENT OF CASH FLOWS (EXPRESSED IN US DOLLARS) 
+
+For the Year Ended Ended August 31 
+
+2021 
+
+2020 
+
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net income (loss) 
+ 
+ (917,437) 
+ 
+ (106,427) 
+
+Non-cash items: 
+
+Stock compensation 
+ 
+ 50,000 
+
+- 
+
+Interest expense 
+ 
+ 73,042 
+
+9,261 
+
+Depreciation expense 
+ 
+ 41,473 
+
+41,210 
+
+Asset impairment expense 
+ 
+ 729,780 
+
+- 
+
+Change in operating assets and liabilities: 
+
+Accounts receivable 
+ 
+ 4,343 
+
+63,046 
+
+Accounts payable and accrued liabilities 
+ 
+ 39,153 
+
+70,235 
+
+Due to related parties 
+ 
+ 6,000 
+
+(48,622) 
+
+NET CASH FLOWS PROVIDED BY OPERATING ACTIVITIES 
+ 
+ 26,354 
+
+28,703 
+
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+
+Loan advances 
+ 
+ 466,435 
+
+(5,617) 
+
+NET CASH FLOWS USED IN FINANCING ACTIVITIES 
+ 
+ 466,435 
+
+(5,617) 
+
+Net change in cash 
+ 
+ 492,789 
+
+23,086 
+
+CASH, BEGINNING OF THE YEAR 
+ 
+ 23,114 
+
+28 
+
+CASH, END OF THE YEAR 
+ 
+ 515,903 
+
+23,114 
+
+The accompanying notes are an integral part of these consolidated financial statements 
+ 22 
+ 
+ INDIGENOUS ROOTS CORP. CONSOLIDATED STATEMENT OF CHANGES IN DEFICIT (EXPRESSED IN US DOLLARS) 
+
+Shares Issued Number 
+
+Amount 
+
+Additional paid in capital 
+
+Deficit 
+
+Total 
+
+As at August 31, 2019 
+ 
+ 15,086,857 
+
+15,088 
+
+4,486,862 
+
+(4,608,089) 
+ 
+ (106,139) 
+
+Net loss 
+ 
+ - 
+
+- 
+
+- 
+
+(106,427) 
+ 
+ (106,427) 
+
+As at August 31, 2020 
+ 
+ 15,086,857 
+
+15,088 
+
+4,486,862 
+
+(4,714,516) 
+ 
+ (212,566) 
+
+Shares issued for services 
+ 
+ 500,000 
+
+500 
+
+49,500 
+
+- 
+
+50,000 
+
+Net loss 
+ 
+ - 
+
+- 
+
+- 
+
+(917,437) 
+ 
+ (917,437) 
+
+As at August 31, 2021 
+ 
+ 15,586,857 
+
+15,588 
+
+4,536,362 
+
+(5,631,953) 
+ 
+ (1,080,003) 
+
+The accompanying notes are an integral part of these consolidated financial statements 
+ 23 
+ 
+ INDIGENOUS ROOTS CORP. 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS AUGUST 31, 2021 (Stated in U.S. Dollars) 
+ 1. ORGANIZATION AND NATURE OF BUSINESS 
+ Indigenous Roots Corp. (the "Company") was incorporated in the State of Nevada on July 20, 2006 and is listed on the OTCQB under the symbol "IRCC". 
+ On April 1, 2019, the Company acquired 100 of the issued and outstanding shares of Edison Power Company ('Edison Power"), a Nevada corporation, in exchange for 6,849,239 common shares of the Company. Edison Power owns a 100 interest in Edison Delaware 2 LLC, a Delaware registered limited liability corporation that owns and operates a 140 kW/h solar power generating facility in Georgetown, Delaware. The facility was substantially completed in March, 2019 and began generating power in April, 2019 (Note 3). 
+ On December 1, 2019, the Company acquired all of the issued and outstanding shares of Edison Power Corporation ("EPC") in exchange for cash of 10. EPC was federally incorporated in Canada on April 13, 2015. EPC has no equity and has not generated any revenue since inception. 
+ Going concern 
+ The accompanying financial statements have been prepared assuming the Company will continue as a going concern. At August 31, 2021 the Company had an accumulated deficit of 5,631,953 and a working capital deficiency of 1,080,003. Continuation as a going concern is dependent upon the ability of the Company to obtain the necessary financing to meet obligations and pay its liabilities arising from normal business operations when they come due and ultimately upon its ability to achieve profitable operations. Due to its inability to meet its debt obligation, the Company may have to forfeit ownership of the Solar Power System and thus lose its only revenue producing asset. The outcome of these matters cannot be predicted with any certainty at this time and raise substantial doubt that the Company will be able to continue as a going concern. These financial statements do not include any adjustments to the amounts and classification of assets and liabilities that may be necessary should the Company be unable to continue as a going concern. Management intends to obtain additional funding by borrowing funds from its directors and officers, issuing promissory notes and/or a private placement of common stock. 
+ In March 2020 the World Health Organization declared coronavirus COVID-19 a global pandemic. This contagious disease outbreak, which has continued to spread, and any related adverse public health developments, has adversely affected workforces, economies, and financial markets globally, potentially leading to an economic downturn. There has been no immediate impact on the Company and the future impact is currently not determinable but management continues to monitor the situation. 
+ 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+ (a) Basis of Presentation 
+ These financial statements and related notes are presented in accordance with accounting principles generally accepted in the United States and are expressed in U.S. dollars. 
+ (b) Principles of Consolidation 
+ These financial statements include the accounts of the Company and its subsidiaries. Subsidiaries are all entities (including structured entities) which the Company controls. For accounting purposes, control is established by an investor when it is exposed to, or has rights to, variable returns from its involvement with the entity and has the ability to affect those returns through its power over the entity. All inter-company balances and transactions are eliminated upon consolidation. 
+ (c) Use of Estimates 
+ The preparation of financial statements in accordance with accounting principles generally accepted in the United States requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses in the reporting period. The Company regularly evaluates estimates and assumptions related to useful life of fixed asset and deferred income tax asset valuation allowances. 
+ The Company bases its estimates and assumptions on current facts, historical experience and various other factors that it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities and the accrual of costs and expenses that are not readily apparent from other sources. The actual results experienced by the Company may differ materially and adversely from the Company's estimates. To the extent there are material differences between the estimates and the actual results, future results of operations will be affected. 
+ 24 
+ 
+ 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+ (d) Cash and Cash Equivalents 
+ The Company considers all highly liquid instruments with maturity of three months or less at the time of issuance and trust funds to be cash equivalents. 
+ (e) Impairment of Long-Lived Assets 
+ The Company evaluates the recoverability of its fixed assets and other assets in accordance with ASC 360-10-15, Impairment or Disposal of Long-Lived Assets . Impairment of long-lived assets is recognized when the net book value of such assets exceeds their expected cash flows, in which case the assets are written down to fair value, which is determined based on discounted future cash flows or appraised values. 
+ (f) Related Party Transactions 
+ The Company follows ASC 850, Related Party Disclosures , for the identification of related parties and disclosure of related party transactions. In accordance with ASC 850, the Company's financial statements include disclosures of material related party transactions, other than compensation arrangements, expense allowances, and other similar items in the ordinary course of business, as well as transactions that are eliminated in the preparation of financial statements. 
+ (g) Income Taxes 
+ The Company accounts for income taxes using the asset and liability method in accordance with ASC 740, "Income Taxes". The asset and liability method provide that deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities, and for operating loss and tax credit carry-forwards. Deferred tax assets and liabilities are measured using the currently enacted tax rates and laws that will be in effect when the differences are expected to reverse. The Company records a valuation allowance to reduce deferred tax assets to the amount that is believed more likely than not to be realized. 
+ (h) Foreign Currency Translation 
+ The Company and its subsidiaries' functional and reporting currency is the U.S. dollar. Transactions in foreign currencies are translated into the currency of measurement at the exchange rates in effect on the transaction date. Monetary balance sheet items expressed in foreign currencies are translated into U.S. dollars at the exchange rates in effect at the balance sheet date. The resulting exchange gains and losses are recognized in the statement of operations. 
+ (i) Financial Instruments and Fair Value Measures 
+ ASC 820, "Fair Value Measurements and Disclosures", requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. ASC 820 establishes a fair value hierarchy based on the level of independent, objective evidence surrounding the inputs used to measure fair value. A financial instrument's categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement. ASC 820 prioritizes the inputs into three levels that may be used to measure fair value: 
+ Level 1 - Level 1 applies to assets or liabilities for which there are quoted prices in active markets for identical assets or liabilities. 
+ Level 2 - Level 2 applies to assets or liabilities for which there are inputs other than quoted prices that are observable for the asset or liability such as quoted prices for similar assets or liabilities in active markets; quoted prices for identical assets or liabilities in markets with insufficient volume or infrequent transactions (less active markets); or model-derived valuations in which significant inputs are observable or can be derived principally from, or corroborated by, observable market data. 
+ 25 
+ 
+ 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+ (i) Financial Instruments and Fair Value Measures (continued) 
+ Level 3 - applies to assets or liabilities for which there are unobservable inputs to the valuation methodology that are significant to the measurement of the fair value of the assets or liabilities. 
+ The Company's financial instruments consist principally of cash, accounts receivable, accounts payable, loan payable, and amounts due to related parties. Pursuant to ASC 820, the fair value of cash is determined based on "Level 1" inputs, which consist of quoted prices in active markets for identical assets. The recorded values of all other financial instruments approximate their current fair values because of their nature and respective maturity dates or durations. 
+ (j) Stock-based Compensation 
+ The Company records stock-based compensation in accordance with ASC 718, "Compensation - Stock Compensation" and ASC 505, "Equity Based Payments to Non-Employees", using the fair value method. All transactions in which goods or services are the consideration received for the issuance of equity instruments are accounted for based on the fair value of the consideration received or the fair value of the equity instrument issued, whichever is more reliably measurable. 
+ (k) Revenue 
+ Pursuant to ASC 606, Revenue is derived from the generation of electricity utilizing the solar power generating system and collectivity is reasonably assured. 
+ (l) Leases 
+ Pursuant to ASC 842, transparency and comparability among organizations by recognizing lease assets and lease liabilities on the balance sheet and disclosing key information about leasing transactions. As of the date of this report, the Company has no material leases to report. 
+ (m) Loss Per Share 
+ The Company computes earnings (loss) per share in accordance with ASC 260, "Earnings per Share". ASC 260 requires presentation of both basic and diluted earnings per share ("EPS") on the face of the income statement. Basic EPS is computed by dividing earnings (loss) available to common shareholders (numerator) by the weighted average number of shares outstanding (denominator) during the period. Diluted EPS gives effect to all dilutive potential common shares outstanding during the period using the treasury stock method and convertible preferred stock using the if-converted method. In computing diluted EPS, the average stock price for the period is used in determining the number of shares assumed to be purchased from the exercise of stock options or warrants. Diluted EPS excludes all dilutive potential shares if their effect is anti-dilutive. As at August 31, 2021 the Company does not have any potentially dilutive shares. 
+ (n) Comprehensive Loss 
+ ASC 220, "Comprehensive Income", establishes standards for the reporting and display of comprehensive loss and its components in the financial statements. 
+ (o) Recent Accounting Pronouncements 
+ None. 
+ 26 
+ 
+ 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+ 3. ACQUISITION 
+ On April 1, 2019, the Company acquired 100 of the issued and outstanding shares of Edison Power, a Nevada corporation, in exchange for 6,849,239 common shares of the Company. Edison Power owns a 100 interest in Edison Delaware 2 LLC, a Delaware registered limited liability corporation that owns and operates a 140 kW/h solar power generating facility in Georgetown, Delaware. The facility was substantially completed in March, 2019 and began generating power in April, 2019. The transaction has been accounted for as an asset acquisition as Edison Power did not have inputs, processes and outputs in place that constituted a business under ASC 805 Business Combinations. The total consideration paid was allocated to the assets and liabilities acquired based on relative fair values: 
+
+Consideration : 
+
+Issuance of 6,849,239 common shares 
+ 
+ 63,450 
+
+63,450 
+
+Fair value of assets and liabilities acquired: 
+
+Accounts receivable 
+ 
+ 63,450 
+
+Solar power system (Note 4) 
+ 
+ 809,300 
+
+Loan payable (Note 6) 
+ 
+ (809,300) 
+
+63,450 
+
+4. FIXED ASSETS 
+ Fixed assets consist of the following: 
+
+Useful Life 
+ 
+ Balance at August 31, 2020 
+
+Additions 
+
+Accumulated Depreciation and Impairment 
+
+Balance at August 31, 2021 
+
+Solar Power System 
+ 20 years 
+ 
+ 829,456 
+
+- 
+
+(829,456) 
+ 
+ - 
+
+829,456 
+
+- 
+
+(829,456) 
+ 
+ - 
+
+On April 1, 2019, the Company acquired the solar power system through the acquisition of Edison Power. For the year ended August 31, 2021, t he Company recognized an impairment loss of 729,780 relating to the Solar Power System (the "System"). The Company was in default of its payments to the note holder - Delaware Sustainable Energy Utility ("DSEU"). DSEU called for full payment of the note and took control of the System and all revenues generated by the System. The Company will not realize any future revenue from the System, is unable to bring the payments current and will not contest DSEU's action. 
+ 27 
+ 
+ 5. RELATED PARTY TRANSACTIONS 
+ As at August 31, 2021, the Company owed 466,435 (August 31, 2020 - nil) to a related party of the Company for cash provided to the Company. The debt is unsecured, bears no interest and is payable on demand. 
+ As at August 31, 2021, the Company owed 43,615 (August 31, 2020 - 37,615) to the Controller of the Company for cash and services provided to the Company. The debt is unsecured, bears no interest and is payable on demand. 
+ During the year ended August 31, 2021, the Company accrued 6,000 (August 31, 2020 - 6,000) in accounting fees to the Controller of the Company. 
+ On April 2, 2021, the Company issued 500,000 common shares to the President of the Company in exchange for services rendered. The shares were valued at 0.10 per share. 
+ 6. LOAN PAYABLE 
+ On June 15, 2019, the Company issued a promissory note to SEU in the amount of 981,500. As at August 31, 2021, SEU had advanced the principal amount of 803,520. The promissory note bears an interest rate of 2 per annum and is payable in monthly installments of 4,161 including principal and interest for 240 months commencing January 1, 2020. The loan matures in January 2040. The funds were advanced to the Company for the construction of a solar power electricity generating system. 
+
+Loan payable as at August 31, 2020 
+ 
+ 833,100 
+
+Interest expense 
+ 
+ 17,827 
+
+Default interest expense 
+ 
+ 30,428 
+
+Late charge 
+ 
+ 24,786 
+
+Loan payable as at August 31, 2021 
+ 
+ 906,142 
+
+The loan is secured by a promissory note, a first priority security interest on the solar power system, an assignment of a Power Purchase Agreement and the corporate guarantee of Edison Power Company. On September 1, 2020, SEU called for full payment of the loan due to payment arrears and the loan is now in default. The Company does not expect to make any further payments and as such SEU will be exercising its right to take ownership of the pledged assets. As at the date of filing, the negotiation between the Company and SEU is in progress. The Company has reclassified the loan as a current liability. 
+ 7. COMMON STOCK 
+ Share Issuances 
+ The Company issued 6,739,739 common shares on April 1, 2019 and 109,500 on July 3, 2019 pursuant to the terms of a Share Exchange Agreement with the shareholders of Edison Power Company (Note 3). 
+ On April 2, 2021, the Company issued 500,000 common shares to the President of the Company in exchange for services rendered. The shares were valued at 0.10 per share. 
+ 28 
+ 
+ 8. INCOME TAXES 
+ The reported income taxes differ from the amounts obtained by applying statutory rates to the loss before income taxes as follows: 
+
+August 31, 2021 
+
+August 31, 2020 
+
+Net income (loss) 
+ 
+ (917,437) 
+ 
+ (106,427) 
+
+21.0 
+
+21.0 
+
+Expected income tax recovery 
+ 
+ 192,662 
+
+22,350 
+
+Effect of change in tax rates 
+ 
+ - 
+
+- 
+
+Change in valuation allowance 
+ 
+ (192,662) 
+ 
+ (22,350) 
+
+Income tax recovery 
+ 
+ - 
+
+- 
+
+The Company's tax-effected deferred tax assets and liabilities are estimated as follows: 
+
+August 31, 2021 
+ 
+ August 31, 2020 
+
+Deferred tax assets 
+
+Net operating loss carry forwards 
+ 
+ 1,142,542 
+
+225,105 
+
+Fixed assets 
+ 
+ - 
+
+12,223 
+
+Less: Valuation allowance 
+ 
+ ((1,142,542) 
+ 
+ (237,328) 
+
+Net deferred income tax assets 
+ 
+ - 
+
+- 
+
+At August 31, 2021, the Company has a deferred tax asset. A full valuation allowance has been established as management believes it is more likely that not that the deferred tax asset will not be realized. 
+ As at August 31, 2021, the Company has non-capital losses of approximately 1,071,931 that may be carried forward and applied against federal and state taxable income of future years. The non-capital losses may be carried forward and expire between 2032 and 2040. 
+ Tax attributes are subject to review, and potential adjustment by tax authorities. 
+ 10. SUBSEQUENT EVENT 
+ On October 15, 2021, a majority of the shareholders of the Company consented in writing to effectuate a spin-off of Edison Power Corp. ("EPC"), the Company's wholly-owned subsidiary. 
+ Once effectuated, the Spin-Off of EPC would result in the Company's Common stockholders, on October 22, 2021 (the " Record Date "), owning one half share of the Common Stock of EPC for each one share owned of the Common Stock of the Company. The Spin-Off will result in the issuance of 7,543,428 shares of the Company being issued at a par value of 7,543. 
+ 29 
+ 
+ Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ There were no disagreements related to accounting principles or practices, financial statement disclosure, internal controls or auditing scope or procedure during the two fiscal years and interim periods. 
+ Item 9A. Controls and Procedures 
+ Management's Report on Disclosure Controls and Procedures 
+ We maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in our reports filed under the Securities Exchange Act of 1934 , as amended, is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission's rules and forms, and that such information is accumulated and communicated to our management, including our president and chief financial officer (who are acting as our principal executive officer and as our principal financial officer and principle accounting officer) to allow for timely decisions regarding required disclosure. 
+ As of August 31, 2021, the end of our fiscal year covered by this report, we carried out an evaluation, under the supervision and with the participation of our president (our principal executive officer) and our chief financial officer (our principal financial and accounting officer), of the effectiveness of the design and operation of our disclosure controls and procedures. Based on the foregoing, our president (our principal executive officer) and our chief financial officer (our principal financial and accounting officer) concluded that our disclosure controls and procedures were not effective as of the end of the period covered by this annual report. 
+ Management's Report on Internal Control over Financial Reporting 
+ Our management is responsible for establishing and maintaining adequate internal control over financial reporting. Responsibility, estimates and judgments by management are required to assess the expected benefits and related costs of control procedures. The objectives of internal control include providing management with reasonable, but not absolute, assurance that assets are safeguarded against loss from unauthorized use or disposition, and that transactions are executed in accordance with management's authorization and recorded properly to permit the preparation of financial statements in conformity with accounting principles generally accepted in the United States. Our management assessed the effectiveness of our internal control over financial reporting as of August 31, 2021. In making this assessment, our management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission ("COSO") in Internal Control-Integrated Framework of 2013 . Our management has concluded that, as of August 31, 2021, our internal control over financial reporting is not effective. Our management reviewed the results of their assessment with our Board of Directors. 
+ This annual report does not include an attestation report of our company's registered public accounting firm regarding internal control over financial reporting. Management's report was not subject to attestation by our Company's registered public accounting firm pursuant to temporary rules of the Securities and Exchange Commission that permit our Company to provide only management's report in this annual report. 
+ Inherent limitations on effectiveness of controls 
+ Internal control over financial reporting has inherent limitations which include but is not limited to the use of independent professionals for advice and guidance, interpretation of existing and/or changing rules and principles, segregation of management duties, scale of organization, and personnel factors. Internal control over financial reporting is a process which involves human diligence and compliance and is subject to lapses in judgment and breakdowns resulting from human failures. Internal control over financial reporting also can be circumvented by collusion or improper management override. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements on a timely basis, however these inherent limitations are known features of the financial reporting process and it is possible to design into the process safeguards to reduce, though not eliminate, this risk. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ 30 
+ 
+ Material Weaknesses Identified 
+ In connection with the preparation of the financial statements for the year ended August 31, 2021, management identified the following material weakness in internal control: 
+ Our company's accounting staff does not have sufficient technical accounting knowledge relating to accounting for income taxes and complex US GAAP matters. 
+ Plan for Remediation of Material Weaknesses 
+ We intend to take appropriate and reasonable steps to make the necessary improvements to remediate this deficiency as resources to do so become available. We intend to consider the results of our remediation efforts and related testing as part of our year-end 2021assessment of the effectiveness of our internal control over financial reporting. Such remediation would entail enhancing the training and oversight of the accounting personnel responsible for non-routine transactions involving complex accounting matters and engaging the services of an independent consultant with sufficient expertise in income tax and complex US GAAP matters to assist us in the preparation of our financial statements. 
+ 31 
+ 
+ Changes in Internal Control over Financial Reporting 
+ There have been no changes in our internal controls over financial reporting that occurred during the fourth quarter ended August 31, 2021that have materially or are reasonably likely to materially affect, our internal controls over financial reporting. 
+ Item 9B. Other Information 
+ None 
+ PART III 
+ Item 10. Directors, Executive Officers and Corporate Governance 
+ On September 27, 2019, Lawrence Faulk was appointed President, CEO, Secretary, Treasurer and as Director. 
+ On April 8, 2021, Ian Marshall was appointed as a Director of the Company. 
+ Family Relationships 
+ There are no family relationships between any of our directors, executive officers and proposed directors or executive officers. 
+ Involvement in Certain Legal Proceedings 
+ None. 
+ 32 
+ 
+ Compliance with Section 16(a) of the Securities Exchange Act of 1934 
+ Our common stock is not registered pursuant to Section 12 of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). Accordingly, our officers, directors, and principal stockholders are not subject to the beneficial ownership reporting requirements of Section 16(a) of the Exchange Act. 
+ Code of Ethics 
+ Effective December 13, 2011, our company's board of directors adopted a Code of Business Conduct and Ethics that applies to, among other persons, members of our board of directors, our company's officers including our president (being our principal executive officer and principal financial officer), contractors, consultants and advisors. As adopted, our Code of Business Conduct and Ethics sets forth written standards that are designed to deter wrongdoing and to promote: 
+
+1. 
+ honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships; 
+
+2. 
+ full, fair, accurate, timely, and understandable disclosure in reports and documents that we file with, or submit to, the Securities and Exchange Commission and in other public communications made by us; 
+
+3. 
+ compliance with applicable governmental laws, rules and regulations; 
+
+4. 
+ the prompt internal reporting of violations of the Code of Business Conduct and Ethics to an appropriate person or persons identified in the Code of Business Conduct and Ethics; and 
+
+5. 
+ accountability for adherence to the Code of Business Conduct and Ethics. 
+
+Our Code of Business Conduct and Ethics requires, among other things, that all of our company's personnel shall be accorded full access to our president and secretary with respect to any matter which may arise relating to the Code of Business Conduct and Ethics. 
+ Further, all of our company's personnel are to be accorded full access to our company's board of directors if any such matter involves an alleged breach of the Code of Business Conduct and Ethics by our Company officers. In addition, our Code of Business Conduct and Ethics emphasizes that all employees, and particularly managers and/or supervisors, have a responsibility for maintaining financial integrity within our company, consistent with generally accepted accounting principles and federal and state securities laws. Any employee who becomes aware of any incidents involving financial or accounting manipulation or other irregularities, whether by witnessing the incident or being told of it, must report it to his or her immediate supervisor or to our company's president or secretary. If the incident involves an alleged breach of the Code of Business Conduct and Ethics by the president or secretary, the incident must be reported to any member of our board of directors. Any failure to report such inappropriate or irregular conduct of others is to be treated as a severe disciplinary matter. It is against our company policy to retaliate against any individual who reports in good faith the violation or potential violation of our company's Code of Business Conduct and Ethics by another. We will provide a copy of the Code of Business Conduct and Ethics to any person without charge, upon request. Requests may be sent in writing to our company, 130 King Street West, Suite 3670, Toronto, Ontario M5X 1A9. 
+ Audit Committee and Audit Committee Financial Expert 
+ We have no audit committee. 
+ Our board of directors has determined that it does not have a member of its audit committee that qualifies as an "audit committee financial expert" as defined in Item 407(d)(5)(ii) of Regulation S-K, and is "independent" as the term is used in Item 7(d)(3)(iv) of Schedule 14A under the Securities Exchange Act of 1934, as amended. 
+ 33 
+ 
+ We believe that the members of our audit committee are collectively capable of analyzing and evaluating our financial statements and understanding internal controls and procedures for financial reporting. We believe that retaining an independent director who would qualify as an "audit committee financial expert" would be overly costly and burdensome and is not warranted in our circumstances given the early stages of our development and the fact that we have not generated any material revenues to date. In addition, we currently do not have nominating or compensation committee or committees performing similar functions nor do we have a written nominating or compensation committee charters. Our board of directors does not believe that it is necessary to have such committees because it believes the functions of such committees can be adequately performed by our board of directors. 
+ Item 11. Executive Compensation 
+ On April 2, 2021, the Company issued 500,000 common shares to the President of the Company in exchange for services rendered. The shares were valued at 0.10 per share. 
+ 34 
+ 
+ There are no arrangements or plans in which we provide pension, retirement or similar benefits for directors or executive officers. Our directors and executive officers may receive share options at the discretion of our board of directors in the future. We do not have any material bonus or profit-sharing plans pursuant to which cash or non-cash compensation is or may be paid to our directors or executive officers, except that share options may be granted at the discretion of our board of directors. 
+ Stock Option Plan 
+ On June 30, 2010 our directors approved the adoption of our 2010 Stock Option Plan which permits our company to grant up to 6,500,000 options to acquire shares of common stock, to directors, officers, employees and consultants of our company. 
+ Option Exercises 
+ During our fiscal year ended August 31, 2021, there were no options exercised by our named officers. 
+ Compensation of Directors 
+ There are no agreements for compensation with Mr. Larry Faulk or Ian Marshall for their services as Officers or Directors. 
+ 35 
+ 
+ Pension, Retirement or Similar Benefit Plans 
+ There are no arrangements or plans in which we provide pension, retirement or similar benefits for directors or executive officers. We have no material bonus or profit-sharing plans pursuant to which cash or non-cash compensation is or may be paid to our directors or executive officers, except that stock options may be granted at the discretion of the board of directors or a committee thereof. 
+ Indebtedness of Directors, Senior Officers, Executive Officers and Other Management 
+ None of our directors or executive officers or any associate or affiliate of our company during the last two fiscal years, is or has been indebted to our company by way of guarantee, support agreement, letter of credit or other similar agreement or understanding currently outstanding. 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ The following table sets forth, as of August 31, 2021, certain information with respect to the beneficial ownership of our common shares by each shareholder known by us to be the beneficial owner of more than 5 of our common shares, as well as by each of our current directors and executive officers as a group. Each person has sole voting and investment power with respect to the shares of common stock, except as otherwise indicated. Beneficial ownership consists of a direct interest in the shares of common stock, except as otherwise indicated. 
+
+Name and Address of Beneficial Owner 
+
+Title of Class 
+
+Amount and Nature of Beneficial Ownership 
+
+Percentage of Class (1) 
+
+Mike Matvieshen, Kelowna, BC 
+
+Common 
+
+3,000,000 
+
+19.2 
+
+Q4 Financial Group Inc., Vancouver, BC 
+
+Common 
+
+3,000,000 
+
+19.2 
+
+Directors and Officers as a group 
+
+Common 
+
+500,000 
+
+.03 
+
+Stephen Nelson 
+
+Common 
+
+1,000,000 
+
+.06 
+
+(1) 
+
+Based on 15,586,857 shares of common stock issued and outstanding as of August 31, 2021. Except as otherwise indicated, we believe that the beneficial owners of the common shares listed above, based on information furnished by such owners, have sole investment and voting power with respect to such shares, subject to community property laws where applicable. Beneficial ownership is determined in accordance with the rules of the Securities and Exchange Commission and generally includes voting or investment power with respect to securities. Shares of common stock subject to options or warrants currently exercisable, or exercisable within 60 days, are deemed outstanding for purposes of computing the percentage ownership of the person holding such option or warrants, but are not deemed outstanding for purposes of computing the percentage ownership of any other person. 
+
+36 
+ 
+ Changes in Control 
+ We are unaware of any contract or other arrangement or provisions of our Articles or Bylaws the operation of which may at a subsequent date result in a change of control of our company. There are not any provisions in our Articles or Bylaws, the operation of which would delay, defer, or prevent a change in control of our company. 
+ Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ Except as disclosed herein, no director, executive officer, shareholder holding at least 5 of shares of our common stock, or any family member thereof, had any material interest, direct or indirect, in any transaction, or proposed transaction since the year ended August 31, 2012, in which the amount involved in the transaction exceeded or exceeds 120,000. 
+ Director Independence 
+ We have determined that we do not have a director that is an "independent director" as defined in NASDAQ Marketplace Rule 4200(a)(15). 
+ Our board of directors has determined that it does not have a member of its audit committee that qualifies as an "audit committee financial expert" as defined in Item 407(d)(5)(ii) of Regulation S-K, and is "independent" as the term is used in Item 7(d)(3)(iv) of Schedule 14A under the Securities Exchange Act of 1934, as amended. 
+ We believe that retaining an independent director who would qualify as an "audit committee financial expert" would be overly costly and burdensome and is not warranted in our circumstances given the early stages of our development and the fact that we have not generated any material revenues to date. In addition, we currently do not have nominating or compensation committee or committees performing similar functions nor do we have a written nominating or compensation committee charters. Our board of directors does not believe that it is necessary to have such committees because it believes the functions of such committees can be adequately performed by our board of directors. 
+ Item 14. Principal Accounting Fees and Services 
+ The aggregate fees billed for the most recently completed fiscal year ended August 31, 2021 and for fiscal year ended August 31, 2020 for professional services rendered by the principal accountant for the audit of our annual financial statements and review of the financial statements included in our quarterly reports on Form 10-Q and services that are normally provided by the accountant in connection with statutory and regulatory filings or engagements for these fiscal periods were as follows: 
+ 37 
+
+Year Ended 
+
+August 31, 2021 
+
+August 31, 2020 
+
+Audit Fees 
+
+25,000 
+
+19,535 
+
+Audit Related Fees 
+
+Nil 
+
+Nil 
+
+Tax Fees 
+
+Nil 
+
+Nil 
+
+All Other Fees 
+
+Nil 
+
+Nil 
+
+Total 
+
+25,000 
+
+19,535 
+
+Our board of directors pre-approves all services provided by our independent auditors. All of the above services and fees were reviewed and approved by the board of directors either before or after the respective services were rendered. 
+ Our board of directors has considered the nature and amount of fees billed by our independent auditors and believes that the provision of services for activities unrelated to the audit is compatible with maintaining our independent auditors' independence. 
+ PART IV 
+ Item 15. Exhibits, Financial Statement Schedules 
+
+(a) 
+
+Financial Statements 
+
+(1) 
+
+Financial statements for our company are listed in the index under Item 8 of this document 
+
+(2) 
+
+All financial statement schedules are omitted because they are not applicable, not material or the required information is shown in the financial statements or noted thereto. 
+
+(b) 
+
+Exhibits 
+
+Exhibit 
+
+Exhibit 
+
+Number 
+
+Description 
+
+(3) 
+
+Articles of Incorporation and By-laws 
+
+3.1 
+
+Articles of Incorporation (incorporated by reference from our Registration Statement on Form SB-2 filed on October 23, 2006). 
+
+3.2 
+
+By-laws (incorporated by reference from our Registration Statement on Form SB-2 filed on October 23, 2006). 
+
+3.3 
+
+Articles of Merger (incorporated by reference from our Current Report on Form 8-K filed on April 12, 2010). 
+
+3.4 
+
+Certificate of Change (incorporated by reference from our Current Report on Form 8-K filed on April 12, 2010). 
+
+3.5 
+
+Certificate of Change filed with the Nevada Secretary of State on November 28, 2010 (incorporated by reference from our Current Report on Form 8-K filed on January 24, 2012). 
+
+3.6 
+
+Certificate of Correction filed with the Nevada Secretary of State on November 29, 2012 (incorporated by reference from our Current Report on Form 8-K filed on January 24, 2012). 
+
+38 
+
+Exhibit 
+
+Exhibit 
+
+Number 
+
+Description 
+
+(4) 
+
+Instruments defining the rights of security holders, including indentures 
+
+4.1 
+
+Code of Ethics 
+
+(10) 
+
+Material Contracts 
+
+10.1 
+
+Mineral Lease Agreement between Royce L. Hackworth and Belva L. Tomany and Zebra Resources (now know as American Paramount Gold Corp.) dated April 16, 2010. (incorporated by reference from our Current Report on Form 8-K filed on April 19, 2010). 
+
+10.2 
+
+Consulting Agreement between our company and Wayne Parsons dated April 14, 2010. (incorporated by reference from our Current Report on Form 8-K filed on April 27, 2010). 
+
+10.3 
+
+Option Cancellation Agreement between our company and Wayne Parsons dated November 18, 2010 (incorporated by reference from our Annual Report on Form 10-K filed on November 29, 2010). 
+
+(31) 
+
+Section 302 Certifications 
+
+31.1 
+
+Section 302 Certification - Principal Executive Officer and Principal Financial Officer 
+
+(32) 
+
+Section 906 Certification 
+
+32.1 
+
+Section 906 Certification - Principal Executive Officer and Principal Financial Officer 
+
+(101) 
+
+Interactive Data File (Form 10-K for the Year Ended December 31, 2012) 
+
+101.INS 
+
+XBRL Instance Document 
+
+101.SCH 
+
+XBRL Taxonomy Extension Schema Document. 
+
+101.CAL 
+
+XBRL Taxonomy Extension Calculation Linkbase Document. 
+
+101.DEF 
+
+XBRL Taxonomy Extension Definition Linkbase Document. 
+
+101.LAB 
+
+XBRL Taxonomy Extension Label Linkbase Document. 
+
+101.PRE 
+
+XBRL Taxonomy Extension Presentation Linkbase Document. 
+
+Filed herewith. 
+
+Furnished herewith. Pursuant to Rule 406T of Regulation S-T, the Interactive Data Files on Exhibit 101 hereto are deemed not filed or part of any registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, are deemed not filed for purposes of Section 18 of the Securities and Exchange Act of 1934, and otherwise are not subject to liability under those sections. 
+
+39 
+ 
+ SIGNATURES 
+ In accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+INDIGENOUS ROOTS CORP. 
+
+(Registrant) 
+
+Dated: December 14, 2021 
+
+/s/ Larry Faulk 
+
+Larry Faulk 
+
+President, Chief Executive Officer, Chief Financial Officer, Secretary, Treasurer and Director 
+
+(Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer) 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+Dated: December 14, 2021 
+
+/s/ Larry Faulk 
+
+Larry Faulk 
+
+President, Chief Executive Officer, Chief Financial Officer, Secretary, Treasurer and Director 
+
+(Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer) 
+
+40 
+
+<EX-4.1>
+ 2
+ exhibit4-1.htm
+ EXHIBIT 4.1
+
+Indigenous Roots Corp.: Exhibit 4.1 - Filed by newsfilecorp.com 
+
+INDIGENOUS ROOTS CORP. (the "Corporation") 
+ CODE OF ETHICS AND BUSINESS CONDUCT FOR DIRECTORS, SENIOR OFFICERS AND EMPLOYEES OF THE CORPORATION (the "Code") 
+ This Code applies to the Chief Executive Officer, President, Chief Financial Officer, Principal Executive Officer, Principal Financial Officer, Principal Accounting Officer, Controller and persons performing similar functions (collectively, the "Senior Officers") along with all directors and employees within the Corporation (the Senior Officers, directors and employees are hereinafter collectively referred to as the "Employees"). This Code covers a wide range of business practices and procedures. It does not cover every issue that may arise, but it sets out basic principles to guide all Employees of the Corporation. All Employees should conduct themselves accordingly and seek to avoid the appearance of improper behaviour in any way relating to the Corporation. 
+ Any Employee who has any questions about the Code should consult with the Chief Executive Officer, the President, the Corporation's board of directors (the "Board") or the Corporation's audit committee (the "Audit Committee"). 
+ The Corporation has adopted the Code for the purpose of promoting: 
+ honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships; 
+ full, fair, accurate, timely and understandable disclosure in all reports and documents that the Corporation files with, or submits to, the Securities and Exchange Commission ("SEC") and in other public communications made by the Corporation that are within the Senior Officer's area of responsibility; 
+ compliance with applicable governmental laws, rules and regulations; 
+ the prompt internal reporting of violations of the Code; and 
+ accountability for adherence to the Code. 
+ HONEST AND ETHICAL CONDUCT 
+ Each Senior Officer and member of the Board owes a duty to the Corporation to act with integrity. Integrity requires, among other things, being honest and candid. Employees must adhere to a high standard of business ethics and are expected to make decisions and take actions based on the best interests of the Corporation, as a whole, and not based on personal relationships or benefits. Generally, a "conflict of interest" occurs when an Employee's personal interests is, or appears to be, inconsistent with, interferes with or is opposed to the best interests of the Corporation or gives the appearance of impropriety. 
+ 
+ - 2 - 
+ Business decisions and actions must be made in the best interests of the Corporation and should not be influenced by personal considerations or relationships. Relationships with the Corporation's stakeholders - for example suppliers, competitors and customers - should not in any way affect an Employee's responsibility and accountability to the Corporation. Conflicts of interest can arise when an Employee or a member of his or her family receive improper gifts, entertainment or benefits as a result of his or her position in the Corporation. 
+ Specifically, each Employee must: 
+
+1. 
+
+act with integrity, including being honest and candid while still maintaining the confidentiality of information when required or consistent with the Corporation's policies; 
+
+2. 
+
+avoid violations of the Code, including actual or apparent conflicts of interest with the Corporation in personal and professional relationships; 
+
+3. 
+
+disclose to the Board or the Audit Committee any material transaction or relationship that could reasonably be expected to give rise to a breach of the Code, including actual or apparent conflicts of interest with the Corporation; 
+
+4. 
+
+obtain approval from the Board or Audit Committee before making any decisions or taking any action that could reasonably be expected to involve a conflict of interest or the appearance of a conflict of interest; 
+
+5. 
+
+observe both the form and spirit of laws and governmental rules and regulations, accounting standards and Corporation policies; 
+
+6. 
+
+maintain a high standard of accuracy and completeness in the Corporation's financial records; 
+
+7. 
+
+ensure full, fair, timely, accurate and understandable disclosure in the Corporation's periodic reports; 
+
+8. 
+
+report any violations of the Code to the Board or Audit Committee; 
+
+9. 
+
+proactively promote ethical behaviour among peers in his or her work environment; and 
+
+10. 
+
+maintain the skills appropriate and necessary for the performance of his or her duties. 
+
+DISCLOSURE OF CORPORATION INFORMATION 
+ As a result of the Corporation's status as a public company, it is required to file periodic and other reports with the SEC. The Corporation takes its public disclosure responsibility seriously to ensure that these reports furnish the marketplace with full, fair, accurate, timely and understandable disclosure regarding the financial and business condition of the Corporation. All disclosures contained in reports and documents filed with or submitted to the SEC, or other government agencies, on behalf of the Corporation or contained in other public communications made by the Corporation must be complete and correct in all material respects and understandable to the intended recipient. 
+ 
+ - 3 - 
+ The Senior Officers, in relation to his or her area of responsibility, must be committed to providing timely, consistent and accurate information, in compliance with all legal and regulatory requirements. It is imperative that this disclosure be accomplished consistently during both good times and bad and that all parties in the marketplace have equal or similar access to this information. 
+ All of the Corporation's books, records, accounts and financial statements must be maintained in reasonable detail, must appropriately reflect the Corporation's transactions, and must conform both to applicable legal requirements and to the Corporation's system of internal controls. Unrecorded or "off the book" funds, assets or liabilities should not be maintained unless permitted by applicable law or regulation. Senior Officers involved in the preparation of the Corporation's financial statements must prepare those statements in accordance with generally accepted accounting principles, consistently applied, and any other applicable accounting standards and rules so that the financial statements materially, fairly and completely reflect the business transactions and financial statements and related condition of the Corporation. Further, it is important that financial statements and related disclosures be free of material errors. 
+ Specifically, each Senior Officer must: 
+
+1. 
+
+familiarize himself or herself with the disclosure requirements generally applicable to the Corporation; 
+
+2. 
+
+not knowingly misrepresent, or cause others to misrepresent, facts about the Corporation to others, including the Corporation's independent auditors, governmental regulators, self-regulating organizations and other governmental officials; 
+
+3. 
+
+to the extent that he or she participates in the creation of the Corporation's books and records, promote the accuracy, fairness and timeliness of those records; and 
+
+4. 
+
+in relation to his or her area of responsibility, properly review and critically analyse proposed disclosure for accuracy and completeness. 
+
+CONFIDENTIAL INFORMATION 
+ Employees must maintain the confidentiality of confidential information entrusted to them by the Corporation of its customers, suppliers, joint venture partners, or others with whom the Corporation is considering a business or other transaction except when disclosure is authorized by an executive officer or required or mandated by laws or regulations. Confidential information includes all non-public information that might be useful or helpful to competitors or harmful to the Corporation or its customers or suppliers, if disclosed. It also includes information that suppliers, customers and other parties have entrusted to the Corporation. The obligation to preserve confidential information continues even after employment ends. 
+ 
+ - 4 - 
+ Records containing personal data about employees or private information about customers and their employees are confidential. They are to be carefully safeguarded, kept current, relevant and accurate. They should be disclosed only to authorized personnel or as required by law. 
+ All inquiries regarding the Corporation from non-employees, such as financial analysts and journalists, should be directed to the Board or the Audit Committee. The Corporation's policy is to cooperate with every reasonable request of information from government investigators. At the same time, the Corporation is entitled to all the safeguards provided by law for the benefit of persons under investigation or accused of wrongdoing, including legal representation. If a representative of any government or government agency seeks an interview or requests access to data or documents for the purposes of an investigation, the Employee should refer the representative to the Board or the Audit Committee. Employees also should preserve all materials, including documents and e-mails that might relate to any pending or reasonably possible investigation. 
+ COMPLIANCE WITH LAWS 
+ The Employees must respect and obey all applicable foreign, federal, state and local laws, rules and regulations applicable to the business and operations of the Corporation. 
+ Employees who have access to, or knowledge of, material non-public information from or about the Corporation are prohibited from buying, selling or otherwise trading in the Corporation's stock or other securities. "Material non-public" information includes any information, positive or negative, that has not yet been made available or disclosed to the public and that might be of significance to an investor, as part of the total mix of information, in deciding whether to buy or sell stock or other securities. 
+ Employees also are prohibited from giving "tips" on material non-public information, that is directly or indirectly disclosing such information to any other person, including family members, other relatives and friends, so that they may trade in the Corporation's stock or other securities. 
+ Furthermore, if, during the course of an Employee's service with the Corporation, he or she acquires material non-public information about another company, such as one of our customers or suppliers, or you learn that the Corporation is planning a major transaction with another company (such as an acquisition), the Employee is restricted from trading in the securities of the other company. 
+ REPORTING ACTUAL AND POTENTIAL VIOLATIONS OF THE CODE AND ACCOUNTABILITY FOR COMPLIANCE WITH THE CODE 
+ The Corporation, through the Board or the Audit Committee, is responsible for applying this Code to specific situations in which questions may arise and has the authority to interpret this Code in any particular situation. This Code is not intended to provide a comprehensive guideline for Senior Officers in relation to their business activities with the Corporation. Any Employee may seek clarification on the application of this Code from the Board or the Audit Committee. 
+ 
+ - 5 - 
+ Each Employee must: 
+
+1. 
+
+notify the Corporation of any existing or potential violation of this Code, and failure to do so is itself a breach of the Code; and 
+
+2. 
+
+not retaliate, directly or indirectly, or encourage others to do so, against any Employee for reports, made in good faith, of any misconduct or violations of the Code solely because that Employee raised a legitimate ethical issue. 
+
+The Board or the Audit Committee will take all action it considers appropriate to investigate any breach of the Code reported to it. All Employees are required to cooperate fully with any such investigations and to provide truthful and accurate information. If the Board or the Audit Committee determines that a breach has occurred, it will take or authorize disciplinary or preventative action as it deems appropriate, after consultation with the Corporation's counsel if warranted, up to and including termination of employment. Where appropriate, the Corporation will not limit itself to disciplinary action but may pursue legal action against the offending Employee involved. In some cases, the Corporation may have a legal or ethical obligation to call violations to the attention of appropriate enforcement authorities. 
+ Compliance with the Code may be monitored by audits performed by the Board, Audit Committee, the Corporation's counsel and/or by the Corporation's outside auditors. All Employees are required to cooperate fully with any such audits and to provide truthful and accurate information. 
+ Any waiver of this Code for any Employee may be made only by the Board or the Audit Committee and will be promptly disclosed to stockholders and others, as required by applicable law. The Corporation must disclose changes to and waivers of the Code in accordance with applicable law. 
+
+</EX-4.1>
+
+<EX-31.1>
+ 3
+ exhibit31-1.htm
+ EXHIBIT 31.1
+
+Indigenous Roots Corp.: Exhibit 31.1 - Filed by newsfilecorp.com 
+
+EXHIBIT 31.1 
+ CERTIFICATION PURSUANT TO 18 U.S.C. ss 1350, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Larry Faulk, certify that: 
+
+1. 
+
+I have reviewed this Annual Report on Form 10-K of INDIGENOUS ROOTS CORP. ; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+
+Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+
+Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. 
+
+The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+a. 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+b. 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: December 14, 2021 
+
+/s/ Larry Faulk 
+
+Larry Faulk President, Chief Executive Officer, Chief Financial Officer, Secretary and Treasurer Director (Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 4
+ exhibit32-1.htm
+ EXHIBIT 32.1
+
+Indigenous Roots Corp.: Exhibit 32.1 - Filed by newsfilecorp.com 
+
+EXHIBIT 32.1 
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Larry Faulk, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+
+the Annual Report on Form 10-K of INDIGENOUS ROOTS CORP. for the year ended August 31, 2021 (the "Report") fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+
+the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of American Paramount Gold Corp. 
+
+Dated: December 14, 2021 
+
+/s/ Larry Faulk 
+
+Larry Faulk 
+
+President, Chief Executive Officer, Chief Financial Officer, Secretary and Treasurer and Director 
+
+(Principal Executive Officer, Principal Financial Officer and Principal 
+
+Accounting Officer) 
+
+A signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic version of this written statement required by Section 906, has been provided to American Paramount Gold Corp. and will be retained by American Paramount Gold Corp. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ ircc-20210831.xml
+ XBRL TAXONOMY INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ ircc-20210831.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ ircc-20210831_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ ircc-20210831_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ ircc-20210831_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ ircc-20210831_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

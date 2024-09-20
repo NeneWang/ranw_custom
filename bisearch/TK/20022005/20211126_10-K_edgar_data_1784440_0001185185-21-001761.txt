@@ -1,0 +1,2727 @@
+<Header>
+<FileStats>
+    <FileName>20211126_10-K_edgar_data_1784440_0001185185-21-001761.txt</FileName>
+    <GrossFileSize>1934693</GrossFileSize>
+    <NetFileSize>144201</NetFileSize>
+    <NonText_DocumentType_Chars>183441</NonText_DocumentType_Chars>
+    <HTML_Chars>597967</HTML_Chars>
+    <XBRL_Chars>502316</XBRL_Chars>
+    <XML_Chars>450155</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001185185-21-001761.hdr.sgml : 20211126
+<ACCEPTANCE-DATETIME>20211124202314
+ACCESSION NUMBER:		0001185185-21-001761
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		57
+CONFORMED PERIOD OF REPORT:	20210831
+FILED AS OF DATE:		20211126
+DATE AS OF CHANGE:		20211124
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nowtransit Inc
+		CENTRAL INDEX KEY:			0001784440
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-234487
+		FILM NUMBER:		211448878
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2825 EAST COTTONWOOD PARKWAY
+		STREET 2:		SUITE 500 - #5130
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+		BUSINESS PHONE:		801-382-7806
+
+	MAIL ADDRESS:	
+		STREET 1:		2825 EAST COTTONWOOD PARKWAY
+		STREET 2:		SUITE 500 - #5130
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84121
+
+</SEC-Header>
+</Header>
+
+ 0001185185-21-001761.txt : 20211126
+
+10-K
+ 1
+ nowtransit20210831_10k.htm
+ FORM 10-K
+
+nowtransit20210831_10k.htm 
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 10-K 
+
+Mark One 
+
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended August 31, 2021 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from ______ to _______ 
+
+Commission File No. 333-234487 
+
+NOWTRANSIT INC. 
+
+ (Exact name of registrant as specified in its charter) 
+
+Nevada 
+
+			 (State or Other Jurisdiction of 
+
+			 Incorporation or Organization) 
+
+7374 
+
+			 (Primary Standard Industrial 
+
+			 Classification Number) 
+
+98-1498782 
+
+			 (IRS Employer 
+
+			 Identification Number) 
+
+2825 East Cottonwood Parkway 
+
+ Suite 500 - #5130 
+
+ Salt Lake City, UT 84121 
+
+ (Address of principal executive offices) 
+
+Registrant s telephone number, including area code: (801) 810-6209 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+
+Trading Symbol(s) 
+
+Name of each exchange on which registered 
+
+None 
+
+None 
+
+None 
+
+Securities registered pursuant to Section 12(g) of the Act: Common stock, par value 0.0001 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15 (d) of the Act. Yes No 
+
+Indicate by check mark whether the registrant (1) filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definition of "large accelerated filer," "accelerated filer," "smaller reporting company," and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Accelerated Filer 
+
+Non-accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of the exchange act. 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+
+Indicate by checkmark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+Class 
+
+Outstanding as of November 24, 2021 
+
+Common Stock: 0.0001 par value 
+
+5,461,500 
+
+The aggregate market value of the registrant's common stock held by non-affiliates on February 26, 2021, the last business day of the registrant's most recently completed second quarter, was 53,230. 
+
+TABLE OF CONTENTS 
+
+PART I 
+
+ITEM 1 
+
+Business 
+
+1 
+
+ITEM 1A 
+
+Risk Factors 
+
+2 
+
+ITEM 2 
+
+Properties 
+
+9 
+
+ITEM 3 
+
+Legal Proceedings 
+
+9 
+
+ITEM 4 
+
+Mine Safety Disclosures 
+
+9 
+
+PART II 
+
+ITEM 5 
+
+Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+10 
+
+ITEM 6 
+
+Selected Financial Data 
+
+11 
+
+ITEM 7 
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+11 
+
+ITEM 7A 
+
+Quantitative and Qualitative Disclosures about Market Risk 
+
+13 
+
+ITEM 8 
+
+Financial Statements and Supplementary Data 
+
+13 
+
+ITEM 9 
+
+Changes In and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+24 
+
+ITEM 9A 
+
+Controls and Procedures 
+
+24 
+
+ITEM 9B 
+
+Other Information 
+
+25 
+
+ITEM 9C 
+
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+
+25 
+
+PART III 
+
+ITEM 10 
+
+Directors, Executive Officers and Corporate Governance 
+
+26 
+
+ITEM 11 
+
+Executive Compensation 
+
+26 
+
+ITEM 12 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+27 
+
+ITEM 13 
+
+Certain Relationships and Related Transactions, and Director Independence 
+
+27 
+
+ITEM 14 
+
+Principal Accountant Fees and Services 
+
+28 
+
+PART IV 
+
+ITEM 15 
+
+Exhibits 
+
+29 
+
+PART I 
+
+Item 1. Business 
+
+FORWARD-LOOKING STATEMENTS 
+
+This annual report contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including statements regarding our ability to locate and acquire an operating business and the resources and efforts we intend to dedicate to such an endeavor, our development of a viable business plan and commencement of operations, and our ability to locate sources of capital necessary to commence operations or otherwise meet our business needs and objectives. All statements other than statements of historical facts contained in this report, including statements that relate to our future financial performance, liquidity, business strategy and plans and objectives of management for future operations, are forward-looking statements. These forward-looking statements often can be identified by the use of terms such as "may," "will," "expect," "believe," "anticipate," "estimate," "approximate," should, intend, could, potential, is likely, plan, "continue," and similar expressions. We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our financial condition, results of operations, business strategy and financial needs. 
+
+The results anticipated by any or all of these forward-looking statements might not occur. Important factors, uncertainties and risks that may cause actual results to differ materially from these forward-looking statements include those described in Item 1A. Risk Factors. We undertake no obligation to publicly update or revise any forward-looking statements, whether as the result of new information, future events or otherwise. 
+
+General Information 
+
+Nowtransit Inc. was incorporated in the State of Nevada on July 8, 2019 and has a fiscal year end of August 31. We have not generated material revenues, have minimal assets and have incurred losses since inception. We were formed to engage in the online delivery business, but in connection with the Change of Control described in the following paragraph, the Company has terminated its plans in the online delivery business. Since the Change of Control, we commenced seeking new business opportunities in the United States. 
+
+Change of Control 
+
+On April 2, 2021, Justin Earl purchased from Ivan Homici 2,800,000 shares of common stock of Nowtransit Inc. (the Company ), for a total purchase price of 28,000 (the Change of Control ). The Change of Control was effected pursuant to a Stock Purchase Agreement dated April 2, 2021 by and among Mr. Earl as the purchaser, and Mr. Homici, the Company s majority shareholder and sole director and officer, as the seller. Following the Change of Control, Mr. Earl owns 2,800,000 shares of common stock, which constitutes approximately 51.3 of the common stock issued and outstanding. 
+
+On July 29, 2021, Mr. Homici resigned as the Company s director, President, Treasurer and Secretary and was replaced in each such role by Mr. Earl. 
+
+Business Overview 
+
+The Company currently has no operations and is seeking to acquire a new business in the United States, including potentially by means of a reverse merger with an operating entity. We have not generated revenues since we divested our operating subsidiaries and do not expect to do so in the short-term due to the early stage nature of our Company. 
+
+The evaluation and selection of a business opportunity is a complex and uncertain process, and we have not yet identified a target operating business for acquisition. Business opportunities that we believe are in the best interests of the Company and its shareholders may be scarce, or we may be unable to obtain the businesses we identify as viable for our objectives, including due to competitive forces in the marketplace beyond our control. There can be no assurance that we will be able to locate compatible business opportunities for the Company. See Item 1A - Risk Factors. 
+
+1
+
+Table of Contents 
+
+Competition and Market Conditions 
+
+We will face substantial competition in our efforts to identify and pursue a business venture. The primary source of competition is expected to be from other companies organized and funded for similar purposes, including small venture capital firms, blank check companies, and wealthy investors, many of which may have substantially greater financial and other resources than we do. In light of our limited financial and human resources, we are at a competitive disadvantage compared to many of our competitors in our efforts to obtain an operating business or assets necessary to commence our operations in a new field. Additionally, with the economic downturn caused by the coronavirus pandemic, many venture capital firms and similar firms and individuals have been seeking to acquire businesses at discounted rates, and we therefore currently face additional competition and resultant difficulty obtaining a business. We expect these conditions to persist at least until such time as the economy recovers. Further, even if we are successful in obtaining a business or assets for new operations, we expect there to be enhanced barriers to entry in the marketplace in which we decide to operate as a result of reduced demand for products and services, supply shortages and/or increased raw material costs caused by the pandemic and other economic forces that are beyond our control. 
+
+Regulation 
+
+As of the date of this Report, we voluntarily file certain reports with the Securities and Exchange Commission (the SEC under the Securities Exchange Act of 1934 (the Exchange Act ). 
+
+Depending on the direction management decides to take and a business or businesses we may acquire in the future, we may become subject to other laws or regulations that require us to make material expenditures on compliance including the increasing state level regulation of privacy. Any such requirements could require us to divert significant human and capital resources on compliance, which could have an adverse effect on our future operating results. 
+
+Employees 
+
+As of the date of this Report, we do not have employees other than Justin Earl, our sole officer. 
+
+Item 1A. Risk Factors 
+
+Investing in our common stock involves a high degree of risk. Investors should carefully consider the following Risk Factors before deciding whether to invest in the Company. Additional risks and uncertainties not presently known to us, or that we currently deem immaterial, may also impair our financial condition. If any of the events discussed in the Risk Factors below occur, our business, consolidated financial condition, results of operations or prospects could be materially and adversely affected. In such case, the value and marketability of our common stock could decline. 
+
+Risks Relating to Our Business and Financial Condition 
+
+Because we currently have no operations, investors therefore have no basis on which to evaluate the Company s future prospects. 
+
+We currently have no operations and will be reliant upon a merger with or acquisition of an operating business to commence operations and generate revenue. Because we have no operations and have not generated revenues since our inception in 2019, investors have no basis upon which to evaluate our ability to achieve our business objective of locating and completing a business combination with a target business. We have no current arrangements or understandings with any prospective target business concerning a business combination and may be unable to complete a business combination in a reasonable timeframe, on reasonable terms or at all. If we fail to complete a business combination as planned, we will never generate any operating revenues. 
+
+We may face difficulties or delays in our search for a business combination, and we may not have access to sufficient capital to consummate a business combination. 
+
+We may face difficulty identifying a viable business opportunity or negotiating or paying for any resulting business combination. Economic factors that are beyond our control, including the COVID-19 pandemic and consequent economic downturn, as well as increased competition for acquisitions of operating entities that we expect to encounter as a result thereof, may hinder our efforts to locate and/or obtain a business that is suitable for our business goals at a price we can afford and on terms that will enable us to sufficiently grow our business to generate value to our shareholders. We have limited capital, and we may not be able to take advantage of any available business opportunities on favorable terms or at all due to the limited availability of capital. There can be no assurance that we will have sufficient capital to provide us with the necessary funds to successfully develop and implement our plan of operation or acquire a business we deem to be appropriate or necessary to accomplish our objectives, in which case we may be forced to terminate our business plan and your investment in the Company could become worthless. 
+
+2
+
+Table of Contents 
+
+If we are not successful in acquiring a new business and generating material revenues, investors will likely lose their investment. 
+
+If we are not successful in developing a viable business plan and acquiring a new business through which to implement it, our investors entire investment in the Company could become worthless. Even if we are successful in combining with or acquiring the assets of an operating entity, we can provide no assurances that the Company will be able to generate significant revenue therefrom in the short-term or at all or that investors will derive a profit from their investment. If we are not successful, our investors will likely lose their entire investment. 
+
+If we cannot manage our growth effectively, we may not become profitable. 
+
+Businesses, including development stage companies such as ours and/or any operating business or businesses we may acquire, often grow rapidly and tend to have difficulty managing their growth. If we are able to acquire an operating business, we will likely need to expand our management team and other key personnel by recruiting and employing experienced executives and key employees and/or consultants capable of providing the necessary support. We cannot assure you that our management will be able to manage our growth effectively or successfully. Our failure to meet these challenges could cause us to lose money, and your investment could be lost. 
+
+Because we have limited capital, we may need to raise additional capital in the future by issuing debt or equity securities, the terms of which may dilute our current investors and/or reduce or limit their liquidation or other rights. 
+
+We may require additional capital to acquire a business. We may not be able to obtain additional capital when required. Future business development activities, as well as administrative expenses such as salaries, insurance, general overhead, legal and compliance expenses and accounting expenses will require a substantial amount of additional capital. 
+
+The terms of securities we issue in future capital raising transactions may be more favorable to new investors, and may include liquidation preferences, superior voting rights or the issuance of other derivative securities, which could have a further dilutive effect on or subordinate the rights of our current investors. For example, in October 2021 we raised 100,000 from the sale of 100,000 shares of Series A Convertible Preferred Stock (the Series A ), with each share of Series A convertible into three shares of common stock. Any additional capital raised through the sale of equity securities will likely dilute the ownership percentage of our shareholders. Additionally, any debt securities we issue would likely create a liquidation preference superior that of our current investors and, if convertible into shares of common stock, would also pose the risk of dilution. 
+
+We may be unable to obtain necessary financing if and when required. 
+
+Our ability to obtain financing, if and when necessary, may be impaired by such factors as the capital markets (both in general and in the particular industry or industries in which we may choose to operate), our limited operating history and lack of operations, the national and global economies and the condition of the market for microcap securities. Further, economic downturns such as the current global depression caused by the COVID-19 pandemic may increase our requirements for capital, particularly if such economic downturn persists for an extended period of time or after we have acquired an operating entity, and may limit or hinder our ability to obtain the funding we require. If the amount of capital we are able to raise from financing activities, together with any revenues we may generate from future operations, is not sufficient to satisfy our capital needs, we may be required to discontinue our development or implementation of a business plan, cancel our search for business opportunities, cease our operations, divest our assets at unattractive prices or obtain financing on unattractive terms. If any of the foregoing should happen, our shareholders could lose some or all of their investment. 
+
+Because we are still developing our business plan, we do not have any agreement for a business combination. 
+
+We have no current arrangement, agreement or understanding with respect to engaging in a business combination with any specific entity. We may not be successful in identifying and evaluating a suitable acquisition candidate or in consummating a business combination. We are neutral as to what industry or segment for any target company. We have not established specific metrics and criteria we will look for in a target company, and if and when we do we may face difficulty reaching a mutual agreement with any such entity, including in light of market trends and forces beyond our control. Given our early-stage status, there is considerable uncertainty and therefore inherent risk to investors that we will not succeed in developing and implementing a viable business plan. 
+
+3
+
+Table of Contents 
+
+The COVID-19 pandemic could materially adversely affect our financial condition, future plans and results of operations. 
+
+This COVID-19 pandemic has had a significant adverse effect on the economy in the United States and on most businesses. The Company is not able to predict the ultimate impact that COVID -19 will have on its business; however, if the pandemic and government action in response thereto impose limitations on potential acquisition targets or result in a prolonged economic recession or depression, the Company s development and implementation of its business plan and our ability to commence and grow our operations, as well as our ability to generate material revenue therefrom, will be hindered, which would have a material negative impact on the Company s financial condition and results of operations. Further, while vaccinations beginning in 2021 allowed for the partial reopening of the economy, the recent Delta variant of the virus, as well as reduced efficacy of vaccines over time and the possibility that a large number of people decline to get vaccinated or receive booster shots, creates inherent uncertainty as to the future of our business, the industry or industries we may enter and the economy in general in light of the pandemic. 
+
+Because we are dependent upon Justin Earl, our President and sole director to manage and oversee our Company, the loss of him or any difficulty hiring or retaining other key personnel could adversely affect our plan and results of operations. 
+
+We currently have a sole director and officer, Justin Earl, who manages the Company and is presently evaluating a viable plan for our future operations. We will rely solely on his judgment in connection with selecting a target company and the terms and structure of any resulting business combination. 
+
+Because Mr. Earl is also our principal shareholder, if he were unavailable we may be unable to cause the Company to elect a replacement director. In that event we would cease operations. Further, because Mr. Earl serves as President and sole director and also holds a controlling interest in the Company s common stock, our other shareholders will have limited ability to influence the Company s direction or management. 
+
+In addition, the officers and directors of an acquisition candidate may resign upon completion of a combination with their business. The departure of a target s key personnel could negatively impact the operations and prospects of our post-combination business. The role of a target s key personnel upon the completion of the transaction cannot be ascertained at this time. Although we contemplate that certain or all members of a target s management team may remain associated with the target following a change of control thereof, there can be no assurance that all of such target s management team will decide to remain in place. The loss of key personnel, either before or after a business combination and including management of either us or a combined entity could negatively impact the operations and profitability of our business. 
+
+Risks Related to a Potential Business Acquisition 
+
+We may encounter difficulty locating and consummating a business combination, including as a result of the competitive disadvantages we have. 
+
+We expect to face intense competition in our search for a revenue-producing business to combine with or acquire. Given the current economic climate, venture capital firms, larger companies, blank check companies such as special purpose acquisition companies and other investors are purchasing operating entities or the assets thereof in high volumes and at relatively discounted prices. These parties may have greater capital or human resources than we do and/or more experience in a particular industry within which we choose to search. Most of these competitors have a certain amount of liquid cash available to take advantage of favorable market conditions for a prospective business purchaser such as those caused by the COVID-19 pandemic. Any delay or inability to locate, negotiate and enter into a business combination as a result of the lack of capital resources or other disadvantages we have relative to our competitors could cause us to lose valuable business opportunities to our competitors, which would have a material adverse effect on our business. 
+
+We may expend significant time and capital on a prospective business combination that is not ultimately consummated. 
+
+The investigation of each specific target business and any subsequent negotiation and drafting of related agreements, SEC disclosure and other documents will require substantial amounts of management s time and attention and material additional costs in connection with outsourced services from accountants, attorneys and other professionals. We will likely expend significant time and resources searching for, conducting due diligence on, and negotiating transaction terms in connection with a proposed business combination that may not ultimately come to fruition. In such event, all of the time and capital resources expended by the Company in such a pursuit may be lost and unrecoverable by the Company or its shareholders. Unanticipated issues which may be beyond our control or that of the seller of the applicable business may arise that force us to terminate discussions with a target company, such as the target s failure or inability to provide adequate documentation to assist in our investigation, a party s failure to obtain required waivers or consents to consummate the transaction as required by the inability to obtain the required audits, applicable laws, charter documents and agreements, the appearance of a competitive bid from another prospective purchaser, or the seller s inability to maintain its operations for a sufficient time to allow the transaction to close. Such risks are inherent in any search for a new business and investors should be aware of them before investing in an enterprise such as ours. 
+
+4
+
+Table of Contents 
+
+Conflicts of interest may arise between us and our shareholders, directors, or management, which may have a negative impact on our ability to consummate a business combination or favorable terms or generate revenue. 
+
+Our President, Mr. Earl, is not required to commit his full time to our affairs, which may result in a conflict of interest in allocating his time between managing the Company and other businesses in which he is or may be involved. We do not intend to have any employees other than our sole officer prior to the consummation of a business combination. Mr. Earl is not obligated to contribute any specific number of hours to our affairs, and he may engage in other business endeavors while he provides consulting services to the Company. For example, Mr. Earl also serves as President of Strategic Junction, a separate entity which may divert some of his time and attention away from the Company. If any of his other business affairs require him to devote substantial amounts of time to such matters, it could materially limit his ability to devote his time and attention to our business which could have a negative impact on our ability to consummate a business combination or generate revenue. 
+
+It is possible that we obtain an operating company in which a director or officer of the Company has an ownership interest or of which he or she is an officer, director or employee. If we do obtain any business affiliated with an officer or director, such business combination may be on terms other than what would be arrived at in an arms-length transaction. If any conflict of interest arises, it could adversely affect a business combination or subsequent operations of the Company, in which case our shareholders may see diminished value relative to what would have been available through a transaction with an independent third party. 
+
+It is unlikely that our shareholders will be afforded any opportunity to evaluate or approve a business combination. 
+
+It is unlikely that our shareholders will be afforded the opportunity to evaluate and approve a proposed business combination. In most cases, business combinations do not require shareholder approval under applicable law, and our Articles of Incorporation and Bylaws do not afford our shareholders with the right to approve such a transaction. Further, Mr. Earl, our President and sole director, owns a majority of our outstanding common stock. Accordingly, our shareholders will be relying almost exclusively on the judgement of our board of directors Board and President and any persons on whom they may rely with respect to a potential business combination. In order to develop and implement our business plan, we may in the future hire lawyers, accountants, technical experts, appraisers, or other consultants to assist with determining the Company s direction and consummating any transactions contemplated thereby. We may rely on such persons in making difficult decisions in connection with the Company s future business and prospects. The selection of any such persons will be made by our Board, and any expenses incurred or decisions made based on any of the foregoing could prove to be adverse to the Company in hindsight, the result of which could be diminished value to our shareholders. 
+
+Because our search for a business combination is not presently limited to a particular industry, sector or any specific target businesses, prospective investors will be unable to evaluate the merits or risks of any particular target business operations until such time as they are identified and disclosed. 
+
+We are still determining the Company s business plan, and we may seek to complete a business combination with an operating entity in any number of industries or sectors. Because we have not yet entered into any letter of intent or agreement to acquire a particular business, prospective investors currently have no basis to evaluate the possible merits or risks of any particular target business s operations, results of operations, cash flows, liquidity, financial condition, prospects or other metrics or qualities they deem appropriate in considering to invest in the Company. Further, if we complete a business combination, we may be affected by numerous risks inherent in the operations of the business we acquire. For example, if we acquire a financially unstable business or an entity lacking an established operating history, we may be affected by the risks inherent in the business and operations of a new business or a development stage entity. Although our management intends to evaluate and weigh the merits and risks inherent in a particular target business and make a decision based on the Company and its shareholders interests, there can be no assurance that we will properly ascertain or assess all the significant risks inherent in a target business, that we will have adequate time to complete due diligence or that we will ultimately acquire a viable business and generate material revenue therefrom. Furthermore, some of these risks may be outside of our control and leave us with no ability to reduce the likelihood that those risks will adversely impact a target business or mitigate any harm to the Company caused thereby. Should we select a course of action, or fail to select a course of action, that ultimately exposes us to unknown or unidentified risks, our business will be harmed and you could lose some or all of your investment. 
+
+Past performance by our management and their affiliates may not be indicative of future performance of an investment in us. 
+
+While our President has prior experience as an executive and in advising businesses, his past performance, the performance of other entities or persons with which he is involved, or the performance of any other personnel we may retain in the future will not necessarily be an indication that we will be able to locate a suitable candidate for our initial business combination, or of the future operating results of the Company including with respect to any business combination we may consummate. You should not rely on the historical record of Mr. Earl or any other of our personnel or their affiliates performance as indicative of our future performance or that an investment in us will be profitable. In addition, an investment in the Company is not an investment in any entities affiliated with our management or other personnel. While management intends to endeavor to locate a viable business opportunity and generate shareholder value, there can be no assurance that we will succeed in this endeavor. 
+
+5
+
+Table of Contents 
+
+We may seek business combination opportunities in industries or sectors that are outside of our management s area of expertise. 
+
+We will consider a business combination outside of our management s area of expertise if a business combination candidate is presented to us and we determine that such candidate offers an attractive opportunity for the Company. Although management intends to endeavor to evaluate the risks inherent in any particular business combination candidate, we cannot assure you that we will adequately ascertain or assess all the significant risks, or that we will accurately determine the actual value of a prospective operating entity to acquire. In the event we elect to pursue an acquisition outside of the areas of our management s expertise, our management s ability to evaluate and make decisions on behalf of the Company may be limited, or we may make material expenditures on additional personnel or consultants to assist management in the Company s operations. Investors should be aware that the information contained herein regarding the areas of our management s expertise will not necessarily be relevant to an understanding of the business that we ultimately elect to acquire. As a result, our management may not be able to adequately ascertain or assess all the significant risks or strategic opportunities that may arise. Accordingly, any shareholders in the Company following a business combination could suffer a reduction in the value of their shares, and any resulting loss will likely not be recoverable. 
+
+We may attempt to complete a business combination with a private target company about which little information is available, and such target entity may not generate revenue as expected or otherwise be compatible with us as expected. 
+
+In pursuing our search for a business to acquire, we will likely seek to complete a business combination with a privately held company. Very little public information generally exists about private companies, and the only information available to us prior to making a decision may be from documents and information provided directly to us by the target company in connection with the transaction. Such documents or information or the conclusions we draw therefrom could prove to be inaccurate or misleading. As such, we may be required to make our decision on whether to pursue a potential business combination based on limited, incomplete or faulty information, which may result in our subsequent operations generating less revenue than expected, which could materially harm our financial condition and results of operations. 
+
+Our ability to assess the management of a prospective target business may be limited and, as a result, we may acquire a target business whose management does not have the skills, qualifications or abilities to enable a seamless transition, which could, in turn, negatively impact our results of operations. 
+
+When evaluating the desirability of a potential business combination, our ability to assess the target business s management may be limited due to a lack of time, resources or information. Our management s assessment of the capabilities of the target s management, therefore, may prove to be incorrect and such management may lack the skills, qualifications or abilities expected. Further, in most cases the target s management may be expected to want to manage us and replace our President. Should the target s management not possess the skills, qualifications or abilities necessary to manage a public company or assist with their former entity s merger or combination into ours, the operations and profitability of the post-acquisition business may be negatively impacted and our shareholders could suffer a reduction in the value of their shares. 
+
+Any business we acquire will likely lack diversity of operations or geographical reach, and in such case we will be subject to risks associated with dependence on a single industry or region. 
+
+Our search for a business will likely be focused on entities with a single or limited business activity and/or that operate in a limited geographic area. While larger companies have the ability to manage their risk by diversifying their operations among different industries and regions, smaller companies such as ours and the entities we anticipate reviewing for a potential business combination generally lack diversification, in terms of both the nature and geographic scope of their business. As a result, we will likely be impacted more acutely by risks affecting the industry or the region in which we operate than we would if our business were more diversified. In addition to general economic risks, we could be exposed to natural disasters, civil unrest, technological advances, and other uncontrollable developments that will threaten our viability if and to the extent our future operations are limited to a single industry or region. If we do not diversify our operations, our financial condition and results of operations will be at risk. 
+
+Changes in laws or regulations, or a failure to comply with the laws and regulations applicable to us, may adversely affect our business, ability to negotiate and complete a business combination, and results of operations. 
+
+We are subject to laws and regulations enacted by federal, state and local governments. Any business we acquire in the future may be subject to substantial legal or regulatory oversight and restrictions, which could hinder our growth and expend material amounts on compliance. Compliance with, and monitoring of, applicable laws and regulations may be difficult, time consuming and costly. Those laws and regulations and their interpretation and application by courts and administrative judges may also change from time to time, and any such changes could be unfavorable to us and could have a material adverse effect on our business and results of operations. In addition, a failure to comply with applicable laws or regulations, as interpreted and applied, could result in material defense or remedial costs and/or damages have a material adverse effect on our financial condition. 
+
+6
+
+Table of Contents 
+
+Risks Related to Our Common Stock 
+
+Due to factors beyond our control, our stock price may be volatile. 
+
+There is currently a limited market for our common stock, and there can be no guarantee that an active market for our common stock will develop, even if we are successful in consummating a business combination. As of November 24, 2021, there were only 18 record holders of our common stock, and trading is very limited and sporadic. Further, even if an active market for our common stock develops, it will likely be subject to significant price volatility when compared to more seasoned issuers. We expect that the price of our common stock will continue to be more volatile than more seasoned issuers for the foreseeable future. For example, the closing price of our common stock on OTC Markets was 3.22 on July 7, 2021, prior to that it was 0.84 on June 30, 2021 prior to that there had been no trades from August 24, 2020 to June 16, 2021 with a quoted price of 0.02 per share. Fluctuations in the price of our common stock can be based on various factors in addition to those otherwise described in this Report, including: 
+
+A prospective business combination and the terms and conditions thereof; 
+
+The operating performance of any business we acquire, including any failure to achieve material revenues therefrom; 
+
+The performance of our competitors in the marketplace, both pre- and post-combination; 
+
+The public s reaction to our press releases, SEC filings, website content and other public announcements and information; 
+
+Changes in earnings estimates of any business that we acquire or recommendations by any research analysts who may follow us or other companies in the industry of a business that we acquire; 
+
+Variations in general economic conditions, including as may be caused by uncontrollable events such as the COVID-19 pandemic and the resulting decline in the economy; 
+
+The public disclosure of the terms of any financing we disclose in the future; 
+
+The number of shares of our common stock that are publicly traded in the future; 
+
+Actions of our existing shareholders, including sales of common stock by our then directors and then executive officers or by significant investors; and 
+
+The employment or termination of key personnel. 
+
+Many of these factors are beyond our control and may decrease the market price of our common stock, regardless of whether we can consummate a business combination and of our current or subsequent operating performance and financial condition. In the past, following periods of volatility in the market price of a company s securities, securities class action litigation has often been instituted. A securities class action suit against us could result in substantial costs and divert our management s time and attention, which would otherwise be used to benefit our business. 
+
+Because trading in our common stock is so limited, investors who purchase our common stock may depress the market if they sell common stock. 
+
+Our common stock trades on the OTC Pink Market, the successor to the pink sheets. The OTC Pink Market generally is illiquid and most stocks traded there are of companies that are not required to file reports with the SEC under the Exchange Act. While we voluntarily file Forms 10-Q and 10-K with the SEC, we are a voluntary filer and not required to file reports with the SEC. Our common stock itself infrequently trades. For example, between August 2020 and May 2021 there were no trades in our common stock, and between August 24, 2020 and October 14, 2021 there were just five days in which trades occurred, with the maximum trade volume during that time being 9,000 shares on June 30, 2021. Accordingly, any sales may depress the trading price. 
+
+7
+
+Table of Contents 
+
+The market price of our common stock may decline if a substantial number of shares of our common stock are sold at once or in large blocks. 
+
+Presently the market for our common stock is limited. If an active market for our shares develops in the future, some or all of our shareholders may sell their shares of our common stock which may depress the market price. Further, Rule 144 will not be available since we are a shell company, unless an exemption from the definition applies. Any sale of a substantial number of these shares in the public market, or the perception that such a sale could occur, could cause the market price of our common stock to decline, which could reduce the value of the shares held by our other shareholders. 
+
+Future issuances of our common stock could dilute the interests of our existing shareholders, particularly in connection with an acquisition and any resulting financing. 
+
+We may issue additional shares of our common stock in the future. The issuance of a substantial amount of our common stock or securities convertible, exercisable or exchangeable for our common stock could substantially dilute the interests of our shareholders. In addition, the sale of a substantial amount of common stock in the public market, either in the initial issuance or in a subsequent resale by the target company s former equity holders in a business combination which received our common stock as consideration, or by investors who had previously acquired such common stock, could have an adverse effect on the market price of our common stock. 
+
+Because our common stock is subject to the penny stock rules, brokers cannot generally solicit the purchase of our common stock, which adversely affects its liquidity and market price. 
+
+The SEC has adopted regulations which generally define penny stock to be an equity security that has a market price of less than 5.00 per share, subject to specific exemptions. The market price of our common stock on the OTC Pink Market is presently less than 5.00 per share and therefore we are considered a penny stock company according to SEC rules. Further, we do not expect our stock price to rise above 5.00 in the foreseeable future. The penny stock designation requires any broker-dealer selling our securities to disclose certain information concerning the transaction, obtain a written agreement from the purchaser and determine that the purchaser is reasonably suitable to purchase the securities. These rules limit the ability of broker-dealers to solicit purchases of our common stock and therefore reduce the liquidity of the public market for our shares. 
+
+Moreover, as a result of apparent regulatory pressure from the SEC and the Financial Industry Regulatory Authority FINRA ), a growing number of broker-dealers decline to permit investors to purchase and sell or otherwise make it difficult to sell shares of penny stocks. The penny stock designation may have a depressive effect upon our common stock price. 
+
+Because of FINRA sales practice requirements which affect broker-dealers, the market price for our common stock will be adversely affected. 
+
+FINRA has adopted rules that require that in recommending an investment to a customer, a broker-dealer must have reasonable grounds for believing that the investment is suitable for that customer. Prior to recommending speculative low-priced securities to their non-institutional customers, broker-dealers must make reasonable efforts to obtain information about the customer s financial status, tax status, investment objectives and other information. Under interpretations of these rules, FINRA believes that there is a high probability that speculative low-priced securities will not be suitable for at least some customers. FINRA requirements make it more difficult for broker-dealers to recommend that their customers buy shares of our common stock, which may limit our shareholders ability to buy and sell our common stock and have an adverse effect on the market for our shares. Further, due to FINRA regulation, there are a limited number of broker dealers which will handle penny stocks, which impairs the market and reduces the market price. 
+
+Due to changes to Rule 15c2-11 under the Securities Exchange Act of 1934, our common stock may become subject to limitations or reductions on stock price, liquidity or volume. 
+
+On September 28, 2021, the SEC s amendments to Rule 15c2-11 under the Exchange Act became effective. This Rule applies to broker-dealers who quote securities listed on over-the-counter markets such as our common stock. The Rule as amended prohibits broker-dealers from publishing quotations on OTC markets for an issuer s securities unless they are based on current publicly available information about the issuer. The amended Rule will also limits the Rule s piggyback exception, which allows broker-dealers to publish quotations for a security in reliance on the quotations of a broker-dealer that initially performed the information review required by the Rule, to issuers with current publicly available information or issuers that are up-to-date in their Exchange Act reports. As of this date, we are uncertain as what actual effect the Rule may have on us. 
+
+8
+
+Table of Contents 
+
+Upon the effective date of the Rule amendments, the OTC Markets has passed a rule that permits shell companies to trade for only 18 months after September 28, 2021. As a result, we will need to acquire an operating business within the prescribed timeframe in order for our common stock to continue to be quoted on the OTC Pink Market. Further, we believe this deadline will increase competition for target businesses, may make it harder to complete acquisitions and may increase the costs. This competition may further limit our acquisition opportunities or raise the prices of acquisitions and make them less accretive, or possibly not accretive, to us. Failure to consummate future acquisitions could negatively affect our growth strategies and investors ability to sell our common stock. The deadline could also provide acquisition targets with additional leverage in negotiating with us, which may result in less favorable terms even if we do acquire a business to operate before the deadline. 
+
+The Rule changes could harm the liquidity and/or market price of our common stock by either preventing our shares from being quoted or driving up our costs of compliance. Because we are a voluntary filer under Section 15(d) of the Exchange Act and not a public reporting company, the practical impact of these changes is to require us to maintain a level of periodic disclosure we are not presently required to maintain, which would cause us to incur material additional expenses. Further, if we cannot or do not provide or maintain current public information about our company, our stockholders may face difficulties in selling their shares of our common stock at desired prices, quantities or times, or at all, as a result of the amendments to the Rule. 
+
+Because we may issue preferred stock without the approval of our shareholders and have other anti-takeover defenses, and the vast majority of our commons stock outstanding is held by our President and sole director, it may be more difficult for a third-party to acquire us and could depress our stock price . 
+
+Our Board may issue, without a vote of our shareholders, one or more series of preferred stock that have voting rights, liquidation preferences, dividend rights and other rights that are superior to those of our common stock. Any issuance of preferred stock could adversely affect the rights of holders of our common stock in that such preferred stock could have priority over the common stock with respect to voting, dividend or liquidation rights. Further, because we can issue preferred stock having voting rights per share that are greater than the equivalent of one share of our common stock, our Board could issue preferred stock to investors who support us and our management and give effective control of our business to our management. Even absent such an issuance of preferred stock, the majority of our common stock outstanding is held by Justin Earl, who controls the Company as its sole officer and director. Additionally, issuance of preferred stock could block an acquisition resulting in both a drop in our stock price and a decline in interest of our common stock. This could make it more difficult for shareholders to sell their common stock and/or cause the market price of our common stock shares to drop significantly, even if our business is performing well. 
+
+Item 2. Properties 
+
+Our principal place of business is 2825 East Cottonwood Parkway Suite 500 - #5130, Salt Lake City, UT 84121. It is a virtual office provided by a third-party with a month-to-month lease. 
+
+We believe that these facilities are adequate for our current needs. We do not own any real estate. 
+
+Item 3. Legal Proceedings 
+
+We are not currently a party in any legal proceeding or governmental regulatory proceeding nor are we currently aware of any pending or potential legal proceeding or governmental regulatory proceeding proposed to be initiated against us that would have a material adverse effect on us or our business. 
+
+Item 4. Mine Safety Disclosures 
+
+Not applicable. 
+
+9
+
+Table of Contents 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+Market Information 
+
+Our common stock is not listed on any securities exchange, and is quoted on the OTC Pink Market under the symbol NOTR. Because our common stock is not listed on a securities exchange and its quotations on the OTC Pink Market are limited and sporadic, there is currently no established public trading market for our common stock. 
+
+The following table reflects the high and low closing sales information for our common stock for each fiscal quarter during the fiscal years ended August 31, 2021 and 2020. This information was obtained from the OTC Pink Market and reflects inter-dealer prices without retail mark-up, mark-down or commission and may not necessarily represent actual transactions. 
+
+COMMON STOCK MARKET PRICE 
+
+HIGH 
+
+LOW 
+
+FISCAL YEAR ENDED AUGUST 31, 2021: 
+
+First Quarter 
+
+N/A 
+
+N/A 
+
+Second Quarter 
+
+N/A 
+
+N/A 
+
+Third Quarter 
+
+N/A 
+
+N/A 
+
+Fourth Quarter 
+
+3.22 
+
+0.85 
+
+COMMON STOCK MARKET PRICE 
+
+HIGH 
+
+LOW 
+
+FISCAL YEAR ENDED AUGUST 31, 2020: 
+
+First Quarter 
+
+N/A 
+
+N/A 
+
+Second Quarter 
+
+N/A 
+
+N/A 
+
+Third Quarter 
+
+N/A 
+
+N/A 
+
+Fourth Quarter 
+
+N/A 
+
+N/A 
+
+Market information not available for this time period. 
+
+Number of Holders 
+
+As of November 24, 2021, 5,461,500 shares of our common stock were issued and outstanding, which were held by 18 stockholders of record. 
+
+Stock Transfer Agent 
+
+Our stock transfer agent is Action Stock Transfer, 2469 E. Fort Union Blvd, Suite 214, Salt Lake City, UT 84121, (801) 274-1088 voice, (801) 274-1099 fax, jb@actionstocktransfer.com, www.actionstocktransfer.com . 
+
+Dividends 
+
+No cash dividends were paid on our shares of common stock during the years ended August 31, 2021 and 2020. We have not paid any cash dividends since our inception and do not foresee declaring any cash dividends on our common stock in the foreseeable future. 
+
+Securities Authorized For Issuance Under Equity Compensation Plans 
+
+We currently do not have any equity compensation plans. 
+
+Recent Sales of Unregistered Securities 
+
+None. 
+
+10
+
+Table of Contents 
+
+Item 6. Selected Financial Data 
+
+Consistent with the rules applicable to smaller reporting entities , we have omitted the information required by Item 6. 
+
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+Overview 
+
+The Company has no operations or revenue as of the date of this Report. We have terminated our plan to enter the online delivery business, and we are currently in the process of developing a business plan. Management intends to explore and identify viable business opportunities within the U.S. including seeking to acquire a business in a reverse merger. 
+
+Plan of Operation 
+
+The Company has no operations since inception other than the expenditures related to running the Company, and has no revenue from continuing operations as of the date of this Report. We have terminated our operations in the online delivery industry following the Change of Control, and are currently in the process of developing a business plan, including with respect to searching for, evaluating and obtaining a business opportunity in the U.S. 
+
+Management intends to explore and identify business opportunities within the U.S., including a potential acquisition of an operating entity through a reverse merger, asset purchase or similar transaction. Our President has experience in management and business consulting, although no assurances can be given that he can identify and implement a viable business strategy or that any such strategy will result in profits. Our ability to effectively identify, develop and implement a viable plan for our business may be hindered by risks and uncertainties which are beyond our control, including without limitation, the continued negative effects of the COVID-19 pandemic on the U.S. and global economies. For more information about the risk of COVID-19 on our business, see Item 1A - Risk Factors. 
+
+We do not currently engage in any business activities that provide revenue or cash flow. During the next 12 month period we anticipate incurring costs in connection with investigating, evaluating and negotiating potential business combinations, filing SEC reports, and consummating an acquisition of an operating business. 
+
+Given our limited capital resources, we may consider a business combination with an entity which has recently commenced operations, is a developing company or is otherwise in need of additional funds for the development of new products or services or expansion into new markets, or is an established business experiencing financial or operating difficulties and is in need of additional capital. Alternatively, a business combination may involve the acquisition of, or merger with, an entity which desires access to the U.S. capital markets. 
+
+As of the date of this Report, our management has not had any discussions with any representative of any other entity regarding a potential business combination. Any target business that is selected may be financially unstable or in the early stages of development. In such event, we expect to be subject to numerous risks inherent in the business and operations of a financially unstable or early stage entity. In addition, we may effect a business combination with an entity in an industry characterized by a high level of risk or in which our management has limited experience, and, although our management will endeavor to evaluate the risks inherent in a particular target business, there can be no assurance that we will properly ascertain or assess all significant risks. 
+
+Our management anticipates that we will likely only be able to effect one business combination due to our limited capital. This lack of diversification will likely pose a substantial risk in investing in the Company for the indefinite future, because it will not permit us to offset potential losses from one venture or operating territory against gains from another. The risks we face will likely be heightened to the extent we acquire a business operating in a single industry or geographic region. 
+
+We anticipate that the selection of a business combination will be a complex and risk-prone process. Because of general economic conditions, including unfavorable conditions caused by the COVID-19 pandemic, rapid technological advances being made in some industries and shortages of available capital, management believes that there are a number of firms seeking business opportunities at this time at discounted rates with which we will compete. We expect that any potentially available business combinations may appear in a variety of different industries or regions and at various stages of development, all of which will likely render the task of comparative investigation and analysis of such business opportunities extremely difficult and complicated. 
+
+11
+
+Table of Contents 
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+
+Management s discussion and analysis and results of operations are based upon our accompanying financial statements for the fiscal years ended August 31, 2021 and 2020, which have been prepared in conformity with U.S. generally accepted accounting principles, or U.S. GAAP, and which requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosure of contingent assets and liabilities. Note 3. Summary of Significant Accounting Policies, to the financial statements included in Part II, Item 8 of this Annual Report on Form 10-K, describes the significant accounting policies and methods used in the preparation of the Company s financial statements. We base our estimates on historical experience and on various other assumptions that we believe are reasonable under the circumstances. These estimates are the basis for our judgments about the carrying values of assets and liabilities, which in turn may impact our reported revenue and expenses. Our actual results could differ significantly from these estimates under different assumptions or conditions. 
+
+Results Of Operations 
+
+We are a start-up corporation with no operations and no revenues from our business operations. Our auditors have issued a going concern opinion. This means that our auditors believe there is substantial doubt that we can continue as an on-going business for the next 12 months. We do not anticipate that we will generate significant revenues until we have raised the funds necessary to engage in a reverse merger or other business combination or otherwise commence operations. There is no assurance we will ever commence material operations or generate revenue even if we raise all necessary funds. 
+
+FISCAL YEAR ENDED AUGUST 31, 2021 COMPARED TO AUGUST 31, 2020 
+
+Our net loss for the fiscal year ended August 31, 2021 was 25,610 compared to a net loss of 7,682 during the fiscal year ended August 31, 2020; the Company has not generated any revenue in either period. The increase was due to an increase in general administrative expenses including professional fees in connection with the preparation of SEC reports and our ongoing search for a business to acquire. Expenses incurred were general administrative expenses of 25,610 during fiscal year ended August 31, 2021 compared to 7,682 during the fiscal year ended August 31, 2020. 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+
+As of August 31, 2021, our total assets were 6,314 consisting of prepaid expenses and cash. As of August 31, 2020, our total assets were 20,629 consisting of cash. 
+
+Cash Flows from Operating Activities 
+
+We have not generated positive cash flows from operating activities since inception. For the fiscal year ended August 31, 2021, net cash flows used in operating activities were 29,439, consisting of our net loss of 25,610 and increases of 4,279 in prepaid expenses and 450 in accrued interest. Cash flows used in operating activities for the fiscal year ended August 31, 2020 were 7,682, consisting solely of our net loss. . 
+
+Cash Flows from Investing Activities 
+
+We have not engaged in any investing activities since our inception. 
+
+Cash Flows from Financing Activities 
+
+For the fiscal year ended August 31, 2021, net cash flows provided by financing activities was 10,845 consisting of 2,893 in related party advances, 1,200 in proceeds from a loan, and 7,050 in related party notes payable, partially offset by a principal payment of 298 on a loan. For the fiscal year ended August 31, 2020, net cash flows provided by financing activities was 28,311 consisting of a director loan of 7,051, issuance of common stock for net proceeds of 26,615, a third party loan of 760, and payment of deferred offering costs of 6,115. 
+
+12
+
+Table of Contents 
+
+Our existing working capital is expected to be adequate to fund our operations over the next 12 months. We have financed operations to date through the proceeds of loans from insiders and the private placement of equity. We expect we will need to raise additional capital to meet long-term operating requirements. Additional issuances of equity or convertible debt securities will result in dilution to our current shareholders. Further, such securities might have rights, preferences or privileges senior to our common stock. Additional financing may not be available upon acceptable terms, or at all. If adequate funds are not available or are not available on acceptable terms, we may not be able to take advantage of prospective new business endeavors or opportunities, which could significantly and materially restrict our business operations. 
+
+On November 3, 2021, the Company entered into a Stock Purchase Agreement with an accredited investor pursuant to which the Company sold to the purchaser 100,000 shares of the Company s Series A Convertible Preferred Stock (the Series A at a purchase price of 1.00 per share (the Offering ). The Company received 100,000 in gross proceeds from the Offering, before deducting legal fees and related offering expenses. Each share of the Series A is convertible into three shares of the Company s common stock. 
+
+OFF-BALANCE SHEET ARRANGEMENTS 
+
+We have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. 
+
+Going Concern 
+
+There is no historical financial information about us upon which to base an evaluation of our performance. We have no operations and have not generated any revenues. We cannot guarantee we will be successful in acquiring an operating business or commencing material business operations. Our business is subject to risks inherent in the search for and establishment of a new business enterprise, including limited capital resources and possible cost overruns due to price and cost increases in services and products. 
+
+There can be no assurance that future financing will be available to us on acceptable terms or at all. If financing is not available on satisfactory terms as and when needed, we may be unable to commence, develop or expand our operations. Equity financing could result in additional dilution to existing shareholders. 
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk 
+
+Not applicable to smaller reporting companies. 
+
+Item 8. Financial Statements and Supplementary Data 
+
+Report of Independent Registered Public Accounting Firm 
+
+14 
+
+Balance Sheets 
+
+16 
+
+Statements of Operations 
+
+17 
+
+Statements of Stockholders Deficit 
+
+18 
+
+Statements of Cash Flows 
+
+19 
+
+Notes to the Financial Statements 
+
+20 
+
+13
+
+Table of Contents 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+INDEPENDENT AUDITOR S REPORT 
+
+To the Board of Director and Stockholders of 
+
+ Nowtransit Inc. 
+
+ Salt Lake City, Utah 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets of NOWTRANSIT INC (the Company as of August 31, 2021 and 2020, and the related statements of operations, changes in stockholders equity, and cash flows for each of the years in the period ended August 31, 2021, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of August 31, 2021 and 2020, and the results of its operations and its cash flows for each of the two years ended August 31, 2021 in conformity with accounting principles generally accepted in the United States of America. 
+
+Consideration of the Company s Ability to Continue as a Going Concern 
+
+The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the financial statements, the Company is in the process of raising capital, has accumulated losses since inception, and has not generated revenue. This raises substantial doubt about its ability to continue as a going concern. Management s plans in regard to these matters also are described in Note 2. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board United States ( PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+14
+
+Table of Contents 
+
+To the Board of Director and Stockholders of 
+
+ Nowtransit Inc. 
+
+ Salt Lake City, Utah 
+
+Basis for Opinion (Continued) 
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Pleasant Hill, California 
+
+			 November 24, 2021 
+
+Spiegel Accountancy Corp. 
+
+			 Certified Public Accountants 
+
+We have served as the Company s auditor since 2019. 
+
+15
+
+Table of Contents 
+
+NOWTRANSIT INC 
+
+ BALANCE SHEETS 
+
+August 31, 
+
+August 31, 
+
+2021 
+
+2020 
+
+ASSETS 
+
+Current assets 
+
+Cash 
+
+2,035 
+
+20,629 
+
+Prepaid Expenses 
+
+4,279 
+
+- 
+
+Total Current Assets 
+
+6,314 
+
+20,629 
+
+Total Assets 
+
+6,314 
+
+20,629 
+
+LIABILITIES AND (DEFICIENCY IN) STOCKHOLDERS' EQUITY 
+
+Current liabilities 
+
+Due to related parties 
+
+2,893 
+
+7,051 
+
+Accrued interest related party 
+
+450 
+
+- 
+
+Loan payable 
+
+8,713 
+
+760 
+
+Note payable - related party 
+
+7,050 
+
+- 
+
+Total liabilities 
+
+19,106 
+
+7,811 
+
+Stockholders' equity (deficit) 
+
+Common stock, 0.0001 par value, 75,000,000 shares authorized, 5,461,500 shares issued and outstanding 
+
+546 
+
+546 
+
+Additional paid-in capital 
+
+20,854 
+
+20,854 
+
+Accumulated deficit 
+
+(34,192 
+
+(8,582 
+
+Total stockholders' equity (deficit) 
+
+(12,792 
+
+12,818 
+
+Total liabilities and (deficiency in) stockholders' equity (deficit) 
+
+6,314 
+
+20,629 
+
+See accompanying notes, which are an integral part of these financial statements. 
+
+16
+
+Table of Contents 
+
+NOWTRANSIT INC 
+
+ STATEMENTS OF OPERATIONS 
+
+For the 
+
+For the 
+
+Year Ended 
+
+Year Ended 
+
+August 31, 
+
+August 31, 
+
+2021 
+
+2020 
+
+Revenue 
+
+- 
+
+- 
+
+General and administrative 
+
+25,610 
+
+7,682 
+
+Total operating expenses 
+
+25,610 
+
+7,682 
+
+Net Loss from Operations 
+
+(25,610 
+
+(7,682 
+
+Provision for Income Taxes 
+
+- 
+
+- 
+
+Net income (loss) 
+
+(25,610 
+
+(7,682 
+
+Net income (loss) per share - basic and diluted 
+
+(0.00 
+
+(0.00 
+
+Weighted average shares outstanding - basic and diluted 
+
+5,461,500 
+
+3,793,683 
+
+See accompanying notes, which are an integral part of these financial statements. 
+
+17
+
+Table of Contents 
+
+NOWTRANSIT INC 
+
+ STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY (DEFICIT) 
+
+Total 
+
+Additional 
+
+Stockholder's 
+
+Common Stock 
+
+Paid-In 
+
+Accumulated 
+
+Equity 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+(Deficit) 
+
+Balance, August 31, 2019 
+
+2,800,000 
+
+280 
+
+2,520 
+
+(900 
+
+1,900 
+
+Issuance of common stock for cash 
+
+2,661,500 
+
+266 
+
+26,349 
+
+- 
+
+26,615 
+
+Accretion of deferred offering costs 
+
+- 
+
+- 
+
+(8,015 
+
+- 
+
+(8,015 
+
+Net loss 
+
+- 
+
+- 
+
+- 
+
+(7,682 
+
+(7,682 
+
+Balance, August 31, 2020 
+
+5,461,500 
+
+546 
+
+20,854 
+
+(8,582 
+
+12,818 
+
+Net loss 
+
+- 
+
+- 
+
+- 
+
+(25,610 
+
+(25,610 
+
+Balance, August 31, 2021 
+
+5,461,500 
+
+546 
+
+20,854 
+
+(34,192 
+
+(12,792 
+
+See accompanying notes, which are an integral part of these financial statements. 
+
+18
+
+Table of Contents 
+
+NOWTRANSIT INC 
+
+ STATEMENTS OF CASH FLOWS 
+
+For the 
+
+For the 
+
+Year Ended 
+
+Year Ended 
+
+August 31, 
+
+August 31, 
+
+2021 
+
+2020 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net income (loss) 
+
+(25,610 
+
+(7,682 
+
+Changes in assets and liabilities: 
+
+Prepaid expense 
+
+(4,279 
+
+- 
+
+Accrued interest related party 
+
+450 
+
+- 
+
+Net cash provided by (used in) operating activities 
+
+(29,439 
+
+(7,682 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Payment of deferred offering costs 
+
+- 
+
+(6,115 
+
+Principal payment on loan 
+
+(298 
+
+- 
+
+Proceeds from related parties 
+
+2,893 
+
+7,051 
+
+Proceeds from loan payable 
+
+1,200 
+
+760 
+
+Proceeds from note payable - related party 
+
+7,050 
+
+- 
+
+Proceeds from issuance of common stock 
+
+- 
+
+26,615 
+
+Net cash provided by financing activities 
+
+10,845 
+
+28,311 
+
+Net (decrease) increase in cash and cash equivalents 
+
+(18,594 
+
+20,629 
+
+Cash and cash equivalents at beginning of period 
+
+20,629 
+
+- 
+
+Cash and cash equivalents at end of period 
+
+2,035 
+
+20,629 
+
+SUPPLEMENTAL CASH FLOW INFORMATION: 
+
+Cash paid for interest 
+
+- 
+
+- 
+
+Cash paid for income taxes 
+
+- 
+
+- 
+
+SCHEDULE OF NON-CASH INVESTING AND FINANCING ACTIVITIES: 
+
+Reclassification of loan payable related party to loan payable 
+
+8,251 
+
+- 
+
+Accretion of deferred offering costs to additional paid-in capital 
+
+- 
+
+8,015 
+
+See accompanying notes, which are an integral part of these financial statements. 
+
+19
+
+Table of Contents 
+
+NOWTRANSIT INC 
+
+ NOTES TO THE FINANCIAL STATEMENTS 
+
+ For the years ended August 31, 2021 and 2020 
+
+NOTE 1: ORGANIZATION AND BASIS OF PRESENTATION 
+
+Nowtransit Inc. (the Company , us , we was incorporated in the State of Nevada on July 8, 2019. We have not generated material revenues, have minimal assets and have incurred losses since inception. We were formed to engage in the online delivery business, but in connection with the Change of Control described in the following paragraph, the Company has terminated its plans in the online delivery business. Since the Change of Control, we commenced seeking new business opportunities in the United States. 
+
+On April 2, 2021, Justin Earl purchased from Ivan Homici 2,800,000 shares of common stock of Nowtransit Inc. (the Company ), for a total purchase price of 28,000 (the Change of Control ). The Change of Control was affected pursuant to a Stock Purchase Agreement dated April 2, 2021 by and among Mr. Earl as the purchaser, and Mr. Homici, the Company s majority shareholder and sole director and officer, as the seller. Following the Change of Control, Mr. Earl owns 2,800,000 shares of common stock, which constitutes approximately 51.3 of the common stock issued and outstanding. 
+
+On July 29, 2021, Mr. Homici resigned as the Company s director, President, Treasurer and Secretary and was replaced in each such role by Mr. Earl. 
+
+NOTE 2: GOING CONCERN 
+
+The accompanying financial statements have been prepared in conformity with generally accepted accounting principles in the United States of America GAAP ), which contemplate continuation of the Company as a going concern. The Company has an accumulated deficit of 34,192 as of August 31, 2021, and 8,582 as of August 31, 2020. The Company had losses of 25,610 for the year ended August 31, 2021, and 7,682 for the year ended August 31, 2020, and has not completed its efforts to establish a stabilized source of revenues sufficient to cover operating costs over an extended period of time. Therefore, there is substantial doubt about the Company s ability to continue as a going concern. Management anticipates that the Company will be dependent, for the near future, on additional investment capital to fund operating expenses. The Company intends to position itself so that it will be able to raise additional funds through the capital markets. In light of management s efforts, there are no assurances that the Company will be successful in this or any of its endeavors or become financially viable and continue as a going concern. 
+
+The extent of the impact of the coronavirus ("COVID-19") outbreak on the financial performance of the Company will depend on future developments, including the duration and spread of the outbreak and related advisories and restrictions and the impact of COVID-19 on the overall economy, all of which are highly uncertain and cannot be predicted. If the overall economy is impacted for an extended period, the Company s future operating results may be materially adversely affected. 
+
+NOTE 3: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis of Presentation 
+
+The accompanying financial statements have been prepared in accordance with United States Generally Accepted Accounting Principles US GAAP ). The Company s year-end is August 31. 
+
+Use of Estimates 
+
+The preparation of financial statements in conformity with US GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date the financial statements and the reported amount of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+
+Deferred Offering Costs 
+
+Financial Accounting Standard Board Accounting FASB Standards Codification ASC number 340-10-S99-1, Other Assets and Deferred Costs, allows specific incremental costs directly related to securities offerings to be deferred and charged against the gross proceed of the offering. The Company defers applicable syndication expenses based on this criteria. The Company will write off all deferred offering costs if a securities offering is aborted. 
+
+During the years ending August 31, 2021 and 2020, the Company paid 0 and 6,115, respectively, in deferred offering costs and amortized 0 and 8,015, respectively. 
+
+20
+
+Table of Contents 
+
+Cash and Cash Equivalents 
+
+The Company considers all highly liquid debt instruments purchased with an original maturity date of three months or less to be cash equivalents. The Company has 2,035 and 20,629 in cash as of August 31, 2021 and 2020, respectively, and no cash equivalents. 
+
+Concentration of Credit Risks 
+
+The Company maintains funds in a financial institution that is a member of the Federal Deposit Insurance Corporation. As such, funds are insured based on Federal Reserve limits. At August 31, 2021 and 2020, the Company did not have cash deposits in excess of these insured limits. 
+
+Fair Value of Financial Instruments 
+
+FASB ASC Topic 820, "Fair Value Measurement," defines fair value as the exchange price that would be received for an asset or paid to transfer a liability in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. The standards apply to recurring and nonrecurring fair value measurements of financial and non-financial assets and liabilities. The Company determines the fair values of its assets and liabilities based on a fair value hierarchy that includes three levels of inputs that may be used to measure fair value. 
+
+The three levels are defined as follows: 
+
+Level 1: 
+
+defined as observable inputs such as quoted prices in active markets; 
+
+Level 2: 
+
+defined as inputs other than quoted prices in active markets that are either directly or indirectly observable; and 
+
+Level 3: 
+
+defined as unobservable inputs in which little or no market data exists, therefore requiring an entity to develop its own assumptions. 
+
+Due to the short-term nature, the carrying values of the Company s current assets and liabilities approximated fair value at August 31, 2021 and 2020. 
+
+Income Taxes 
+
+The Company is a C Corporation under the Internal Revenue Code and a similar section of the state code. 
+
+All income tax amounts reflect the use of the liability method under accounting for income taxes. Income taxes are provided for the tax effects of transactions reported in the financial statements and consist of taxes currently due plus deferred taxes arising primarily from differences between financial and tax reporting purposes. Current year expense represents the amount of income taxes paid, payable or refundable for the period. 
+
+Deferred income taxes, net of appropriate valuation allowances, are determined using the tax rates expected to be in effect when the taxes are actually paid. Valuation allowances are recorded against deferred tax assets when it is more likely than not that such assets will not be realized. When an uncertain tax position meets the more likely than not recognition threshold, the position is measured to determine the amount of benefit or expense to recognize in the financial statements. 
+
+The Company s income tax returns are subject to review and examination by federal, state and local governmental authorities. As of August 31, 2021, there is two years examination with federal, state and local governmental authorities. 
+
+Basic and Diluted Loss Per Share 
+
+The Company computes loss per share in accordance with FASB ASC 260 Earnings per Share. Basic loss per share is computed by dividing net income (loss) available to common shareholder by the weighted average number of outstanding shares of common stock during the period. Diluted loss per share gives effect to all dilutive potential shares of common stock outstanding during the period. Dilutive loss per share excludes all potential shares of common stock if their effect is anti-dilutive. As of August 31, 2021 and August 31, 2020 there were no potentially dilutive debt or equity instruments issued or outstanding. 
+
+Recent Accounting Pronouncements 
+
+We have reviewed all the recently-issued, but not yet effective, accounting pronouncements and we do not believe any of these pronouncements will have a material impact on the Company. 
+
+21
+
+Table of Contents 
+
+NOTE 4: LOAN PAYABLE 
+
+On May 6, 2020, the Company entered into a loan agreement with a third party for 760. The loan is without interest and payable upon demand. During the year ended August 31, 2021, the Company reclassified the amount of 8,251 from Due to Related Parties to Loan Payable. This amount represents a loan made to the Company by its former President, Ivan Homici; Mr. Homici is no longer considered a related party of the Company at August 31, 2021. Also during the year ended August 31, 2021, the Company applied the balance of 298 in a bank account to the amount owed to Mr. Homici. At August 31, 2021 and 2020, the amount classified as Loan Payable on the Company s balance sheet is 8,713 and 760, respectively. See Note 5. 
+
+NOTE 5: DUE TO RELATED PARTIES 
+
+From time to time, the Company has received loan from related parties. These advances are unsecured, non-interest bearing, and due upon demand. During the year ended August 31, 2020, the Company received a loan in the amount of 7,051 from Ivan Homici, who was then the Company s President and a director. During the year ended August 31, 2021, the Company received an additional 1,200 from Mr. Homici. At August 31, 2021, Mr. Homici is no longer a related party of the Company, and his loan to the Company in the amount of 8,251 was transferred from Due to Related Parties to Loan Payable. See Note 4. 
+
+During the year ended August 31, 2021, the Company received a loan in the amount of 2,893 from Justin Earl, its President and a director. At August 31, 2021 and 2020, the amount of loans due to Mr. Earl was 2,893 and 0, respectively. 
+
+NOTE 6: NOTE PAYABLE RELATED PARTIES 
+
+On August 31, 2021, the Company entered into a Promissory Note agreement (the OO Marketing Promissory Note with OO Marketing, a consulting firm owned by Justin Earl, the Company s President and director, in the principal amount of 7,050. The OO Marketing Promissory Note is unsecured, bears a one-time interest charge in the amount of 450, and is payable upon demand. During the year ended August 31, 2021, the Company recorded interest expense in the amount of 450 on the OO Marketing Promissory Note. At August 31, 2021, the amount due under the OO Marketing Promissory Note was principal of 7,050 and accrued interest of 450. 
+
+NOTE 7: COMMON STOCK 
+
+The Company has 75,000,000, 0.0001 par value shares of voting common stock authorized. 
+
+On July 24, 2019, the Company issued 2,800,000 shares of common stock to its then sole officer and director at 0.001 for 2,800. These shares were subsequently sold to Mr. Earl on April 2, 2021 (Note 1). 
+
+During January through May 2020, the Company issued 2,661,500 shares of common stock to independent investors at 0.01 for 26,615, which was partially offset by capitalized offering costs of 8,015. 
+
+As of August 31, 2021 and 2020, there were 5,461,500 shares of common stock issued and outstanding. 
+
+All shares of common stock have voting rights and are identical. All holders of shares of common stock shall at every meeting of the stockholders be entitled to one vote for each share of the capital stock held by such stockholder. 
+
+NOTE 8: COMMITMENTS AND CONTINGENCIES 
+
+In the normal course of business, the Company may become a party to litigation matters involving claims against it. At August 31, 2021, there are no current matters that would have a material effect on the Company s financial position or results of operations. 
+
+NOTE 9: INCOME TAXES 
+
+In assessing the realization of deferred tax assets, management considers whether it is more likely than not that a portion of the net deferred assets will not be realized. The ultimate realization of the net deferred tax assets is dependent upon the generation of future taxable income during the periods in which those temporary differences become deductible. Based on the available objective evidence, management believes it is more likely than not that the net deferred tax assets at August 31, 2021 and 2020 will not be realizable. 
+
+Accordingly, management has maintained a full valuation allowance against its net deferred tax assets at August 31, 2021 and 2020. The net change in the total valuation allowance for the periods ended August 31, 2021 and 2020 was an increase of 5,378 and 1,613, respectively. 
+
+22
+
+Table of Contents 
+
+At August 31, 2021 and 2020, we had federal and state net operating loss carryforwards of approximately 7,180 and 1,802, respectively. 
+
+The income tax benefit (provision) is comprised of the following: 
+
+Year ended 
+
+			 August 31, 2021 
+
+Year ended 
+
+			 August 31, 2020 
+
+Current: 
+
+Federal 
+
+State 
+
+A reconciliation of the United States statutory income tax rate to the effective income tax rate is as follows: 
+
+Year ended 
+
+			 August 31, 2021 
+
+Year ended 
+
+			 August 31, 2020 
+
+United States federal statutory rate 
+
+21.00 
+
+21.00 
+
+State taxes net of federal benefit 
+
+0.00 
+
+0.00 
+
+Valuation allowance 
+
+(21.00 
+
+(21.00 
+
+0.00 
+
+0.00 
+
+Deferred tax assets consisted of the following: 
+
+August 31, 2021 
+
+August 31, 2020 
+
+Net operating loss carryforward 
+
+7,180 
+
+1,802 
+
+Valuation allowance 
+
+(7,180 
+
+(1,802 
+
+Deferred tax assets after valuation allowance 
+
+NOTE 10: RELATED PARTY TRANSACTIONS 
+
+During the year ended August 31, 2021 and 2020, the Company s former director provided office space to the Company at no charge. 
+
+From time to time, the Company has received loans from related parties for working capital purposes. See notes 5 and 6. 
+
+NOTE 11: SUBSEQUENT EVENTS 
+
+The Company has evaluated events occurring subsequent to August 31, 2021 through the date these financial statements were issued, and noted the following items requiring disclosure: 
+
+On October 19, 2021, the Company filed a Certificate of Amendment to its Articles of Incorporation authorizing up to 5,000,000 shares of Preferred Stock, par value 0.001 per share, with such rights, preferences and limitations as may be set forth in resolutions adopted by the Board of Directors. On November 1, 2021, the Company filed a Certificate of Designation designating 1,000,000 shares of Preferred Stock as Series A Convertible Preferred Stock (the Series A ). Each share of the Series A is convertible into three shares of the Company s common stock. On November 3, 2021, the Company entered into a Stock Purchase Agreement with an accredited investor pursuant to which the Company sold to the purchaser 100,000 shares of the Series A at a purchase price of 1.00 per share (the Offering ). The Company received 100,000 in gross proceeds from the Offering, before deducting legal fees and related offering expenses. 
+
+23
+
+Table of Contents 
+
+Item 9. Changes In and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+None. 
+
+Item 9A. Controls and Procedures 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Our management is responsible for establishing and maintaining a system of disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act) that is designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer s management, including its principal executive officer or officers and principal financial officer or officers, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. 
+
+Management s Report on Disclosure Controls and Procedures 
+
+Management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)). The Company s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America. Our internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of our assets; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that our receipts and expenditures are being made only in accordance with authorizations of our management and directors; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on the financial statements. 
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. Under the supervision and with the participation of management, including our President who serves as principal executive officer and principal financial officer, the Company conducted an evaluation of the effectiveness of the Company s internal control over financial reporting as of August 31, 2021 using the criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013)( COSO ). 
+
+24
+
+Table of Contents 
+
+Our management assessed the effectiveness of our internal control over financial reporting based on the parameters set forth above and has concluded that as of August 31, 2021, our internal control over financial reporting was not effective to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. generally accepted accounting principles as a result of the material weaknesses described below. A material weakness is a deficiency, or combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company s annual or interim financial statements will not be prevented or detected on a timely basis. Specifically, in its assessment of the effectiveness of internal control over financial reporting as of August 31, 2021, the Company s management determined that there were control deficiencies resulting in the following material weaknesses. 
+
+1. 
+
+The Company does not have sufficient segregation of duties within accounting functions due to only having one officer and limited resources. 
+
+2. 
+
+The Company does not have an independent Board of Directors or an Audit Committee. While the Company is not legally obligated to have an audit committee, it is the management s view that such a committee, including a financial expert member, is an utmost important entity level control over the Company s financial statements. Currently the Board of Directors acts in the capacity of the Audit Committee, and does not include a member that is considered to be independent of management to provide the necessary oversight over management s activities. 
+
+3. 
+
+The Company does not have written documentation of our internal control policies and procedures. 
+
+4. 
+
+All of the Company s financial reporting is carried out by a financial consultant. 
+
+5. 
+
+We did not maintain appropriate cash controls As of August 31, 2021, the Company has not maintained sufficient internal controls over financial reporting for the cash process, including failure to segregate cash handling and accounting functions, and did not require dual signature on the Company s bank accounts. 
+
+6. 
+
+We did not implement appropriate information technology controls As at August 31, 2021, the Company retains copies of all financial data and material agreements; however there is no formal procedure or evidence of normal backup of the Company s data or off-site storage of data in the event of theft, misplacement, or loss due to unmitigated factors. 
+
+Accordingly, the Company s management concluded that these control deficiencies resulted in a reasonable possibility that a material misstatement of the annual or interim financial statements will not be prevented or detected on a timely basis by the company s internal controls. 
+
+As a result of the material weaknesses described above, management has concluded that the Company did not maintain effective internal control over financial reporting as of August 31, 2021 based on criteria established in Internal Control Integrated Framework issued by COSO. We plan to rectify these weaknesses by implementing an independent Board of Directors, establishing written policies and procedures for our internal control of financial reporting, and hiring additional accounting personnel at such time as we complete a reverse merger or similar business acquisition. 
+
+Changes in Internal Control over Financial Reporting 
+
+There has been no change in our internal control over financial reporting identified in connection with our evaluation we conducted of the effectiveness of our internal control over financial reporting as of August 31, 2021, that occurred during our fourth fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+This annual report does not include an attestation report of the Company s registered public accounting firm regarding internal control over financial reporting. Management s report was not subject to attestation by the Company s registered public accounting firm pursuant to temporary rules of the SEC that permit the Company to provide only management s report in this annual report. 
+
+Item 9B. Other Information. 
+
+None. 
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections. 
+
+Not applicable. 
+
+25
+
+Table of Contents 
+
+PART III 
+
+Item 10. Directors, Executive Officers, and Corporate Governance 
+
+Directors and Executive Officers 
+
+The name, address and position of our present officers and directors are set forth below: 
+
+Name and Address of Executive 
+
+			 Officer and/or Director 
+
+Age 
+
+Position 
+
+Justin Earl 
+
+			 2825 East Cottonwood Parkway 
+
+			 Suite 500 - #5130 
+
+			 Salt Lake City, UT 84121 
+
+47 
+
+President, Secretary, Treasurer and Director 
+
+Justin Earl has served as our President and director since April 2021. Prior to his appointment, Mr. Earl has served as President of Strategic Junction since November 2011 where he leads all company initiatives related to improving business continuity through risk management, network hardening, and redundant systems. Since November 2011, Mr. Earl has served as President of OO Marketing, a consulting firm. Prior to that role, Mr. Earl served as President of Strategic Network Solutions from January, 2005 until November, 2011 where he led all efforts to enhance the security posture for financial institutions through penetration testing, client education, and network hardening. Based upon his experience advising businesses, we believe that Mr. Earl is qualified to serve on our Board. 
+
+Election of Directors and Officers 
+
+Directors are elected to serve until the next annual meeting of stockholders and until their successors have been elected and qualified. Officers are appointed to serve until the meeting of the Board following the next annual meeting of stockholders and until their successors have been elected and qualified. 
+
+Audit Committee 
+
+We do not have any committees of the Board as we only have one director. Our Board acts as the Company s Audit Committee as required. 
+
+Director Independence 
+
+We use the definition of independence of The Nasdaq Stock Market to make the determination of director independence. Nasdaq Listing Rule 5605(a)(2) provides that an independent director is a person other than an officer or employee of the Company or any other individual having a relationship, which, in the opinion of the Company s Board, would interfere with the exercise of independent judgment in carrying out the responsibilities of a director. Under such definitions, our sole director cannot be considered an independent director. 
+
+Board Leadership Structure 
+
+We have chosen to combine the President and Board Chairman positions because one person is our sole officer and director. 
+
+Code of Ethics 
+
+Our Board has not adopted a Code of Ethics due to the Company s size and lack of employees other than our sole officer. As of the date of this Report, our sole director is also our President. 
+
+Item 11. Executive Compensation 
+
+Compensation of Executive Officers 
+
+The Company has not provided any compensation to its current or prior executive officers for the fiscal years ended August 31, 2021 and August 31, 2020. 
+
+26
+
+Table of Contents 
+
+Outstanding Equity Awards at Fiscal Year End 
+
+As of August 31, 2021, none of our named executive officers, which consists of our current President and Ivan Homici, our former President, held any unexercised options, stock awards that have not vested, or other equity incentive plan awards. 
+
+Director Compensation 
+
+To date, we have not paid our director any compensation for services on our Board. 
+
+Employment Agreements 
+
+There are no current employment agreements between the Company and Justin Earl, its sole officer, or other persons. 
+
+Equity Compensation Plan Information 
+
+There are no securities authorized for issuance under equity incentive plans, stock option plans, retirement, pension, or profit sharing plans for the benefit of our officers, directors or employees. 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+
+The following table shows the beneficial ownership of our common stock as of November 12, 2021 held by (i) each person known to us to be the beneficial owner of more than five percent (5 of our common stock; (ii) each director; (iii) each executive officer; and (iv) all directors and executive officers as a group. 
+
+Beneficial ownership is determined in accordance with the rules of the SEC, and generally includes voting power and/or investment power with respect to the securities held. 
+
+The following table provides for percentage ownership assuming 5,461,500 shares of our common stock are issued and outstanding as of August 31, 2021. Unless otherwise indicated, the address of each beneficial holder of our common stock is our corporate address, 2825 East Cottonwood Parkway, Suite 500 - #5130, Salt Lake City, UT 84121. 
+
+Name of Beneficial Owner 
+
+Shares of Common Stock Beneficially Owned (1) 
+
+of Shares of Common Stock Beneficially Owned 
+
+Justin Earl (2) 
+
+2,800,000 
+
+51.3 
+
+(1) Applicable percentages are based on 5,461,500 shares of common stock outstanding as of November 12, 2021. The number and percentage of shares beneficially owned is determined in accordance with Rule 13d-3 and 13d-5 of the Exchange Act, and the information is not necessarily indicative of beneficial ownership for any other purpose. Under SEC rules, a person is considered a beneficial owner of a security if that person has or shares power to vote or direct the voting of such security or the power to dispose of such security. A person is also considered to be a beneficial owner of any securities of which the person has a right to acquire beneficial ownership within 60 days. 
+
+ (2) Mr. Earl is our President and sole director. 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence 
+
+Related Party Transactions 
+
+During the period from July 8, 2019 (Inception) through August 31, 2019, Ivan Homici, the Company s then director, received 2,800,000 shares of Common Stock for a cash contribution of 2,800. 
+
+During the fiscal year ended August 31, 2021 and 2020, the Company s then director provided office space to the Company at no charge. 
+
+During the fiscal year ended August 31, 2020, the Company received 7,051 in loans from the Company s then director to pay for the Company s expenses. The director loan is unsecured, non-interest bearing and due on demand. 
+
+27
+
+Table of Contents 
+
+During the fiscal year ended August 31, 2021, the Company received an additional 1,200 in loans from its then director to pay for the Company s expenses. The director loan is unsecured, non-interest bearing and due on demand. 
+
+On April 2, 2021, Justin Earl purchased from Ivan Homici 2,800,000 shares of common stock of the Company for a total purchase price of 28,000 (the Change of Control ). The Change of Control was affected pursuant to a Stock Purchase Agreement dated April 2, 2021 by and among Mr. Earl as the purchaser, and Mr. Homici, the Company s majority shareholder and sole director and officer, as the seller. Following the Change of Control, Mr. Earl owns 2,800,000 shares of common stock, which constitutes approximately 51.3 of the common stock issued and outstanding. 
+
+Subsequent to the Change of Control, Mr. Earl, the Company s sole director and President, has paid various expenses for the Company in the aggregate amount of 2,893. As of August 31, 2021, the Company owes Mr. Earl 2,893 for these loans. 
+
+On August 31, 2021, the Company entered into a Promissory Note agreement with OO Marketing, an entity controlled by Justin Earl, in the principal amount of 7,050. This note is unsecured, bears a one-time interest charge in the amount of 450, and is payable upon demand. During the fiscal year ended August 31, 2021, the Company recorded interest expense in the amount of 450 on the OO Marketing Promissory Note. At August 31, 2021, the Company owes OO Marketing the amount of 7,500 for principal and interest due under this note. 
+
+Item 14. Principal Accountant Fees and Services 
+
+During fiscal year ended August 31, 2021, we incurred approximately 5,500 in fees to our Spiegel Accountancy Corp. Spiegel ), our principal independent accountants for professional services rendered in connection with the audit of our financial statements and for the reviews of our financial statements for the fiscal year ended August 31, 2021. 
+
+The following table shows the fees paid to Spiegel for the fiscal years ended August 31, 2021 and 2020. 
+
+Fiscal Year Ended 
+			 August 31, 2021 
+			 ) 
+
+Fiscal Year Ended 
+			 August 31, 2020 
+			 ) 
+
+Audit Fees (1) 
+
+6,750 
+
+4,750 
+
+Audit Related Fees (2) 
+
+0 
+
+0 
+
+Tax Fees 
+
+0 
+
+0 
+
+All Other Fees 
+
+0 
+
+0 
+
+Total 
+
+6,750 
+
+4,750 
+
+(1) 
+
+Audit fees consist of fees incurred in connection with the audit of our annual financial statements and the review of the interim financial statements included in our quarterly reports filed with the SEC. 
+
+(2) 
+
+Audit related fees these fees are audit related consulting relating to registration statements. 
+
+28
+
+Table of Contents 
+
+PART IV 
+
+Item 15. Exhibits 
+
+Exhibits: 
+
+Exhibit # 
+
+Exhibit Description 
+
+Incorporated By Reference 
+
+Filed or Furnished Herewith 
+
+Form 
+
+Date 
+
+Number 
+
+3.1(a) 
+
+Articles of Incorporation 
+
+S-1 
+
+11/4/2019 
+
+3.1 
+
+3.1(b) 
+
+Amendment to Articles of Incorporation 
+
+Filed 
+
+3.2 
+
+Bylaws 
+
+S-1 
+
+11/4/2019 
+
+3.2 
+
+3.3 
+
+Certificate of Designation of Series A Convertible Preferred Stock 
+
+Filed 
+
+31.1 
+
+Certification of Chief Executive Officer pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a). 
+
+Filed 
+
+31.2 
+
+Certification of Principal Financial Officer pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a). 
+
+Filed 
+
+32.1 
+
+Certifications pursuant to Securities Exchange Act of 1934 Rule 13a-14(b) or 15d-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes- Oxley Act of 2002. 
+
+Filed 
+
+101 
+
+Interactive data files pursuant to Rule 405 of Regulation S-T 
+
+Filed 
+
+29
+
+Table of Contents 
+
+SIGNATURES 
+
+In accordance with the requirements of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Nowtransit Inc. 
+
+Dated: November 24, 2021 
+			 
+			 By: 
+			 
+			 / s / Justin Earl 
+
+Justin Earl 
+
+			 Chief Executive Officer and Chief Financial Officer 
+
+			 (Principal Executive Officer and Principal Financial Officer) 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+Name 
+
+Title 
+
+Date 
+
+/s/ Justin Earl 
+
+Principal Executive Officer and Director 
+
+November 24, 2021 
+
+Justin Earl 
+
+30
+
+<EX-3.1B>
+ 2
+ ex_310441.htm
+ EXHIBIT 3.1(B)
+
+ex_310441.htm 
+
+Exhibit 3.1(b) 
+
+BARBARA K. CEGAVSKE 
+
+			 Secretary of State 
+
+KIMBERLEY PERONDI 
+
+			 Deputy Secretary for Commercial Recordings 
+
+STATE OF NEVADA 
+
+OFFICE OF THE 
+
+			 SECRETARY OF STATE 
+
+Commercial Recordings Division 
+
+			 202 N. Carson Street 
+
+			 Carson City, NV 89701 
+
+			 Telephone (775) 684-5708 
+
+			 Fax (775) 684-7138 
+
+			 North Las Vegas City Hall 
+
+			 2250 Las Vegas Blvd North, Suite 400 
+
+			 North Las Vegas, NV 89030 
+
+			 Telephone (702) 486-2880 
+
+			 Fax (702) 486-2888 
+
+Business Entity - Filing Acknowledgement 
+
+ 10/20/2021 
+
+Work Order Item Number: 
+
+W2021101901857-1659835 
+
+Filing Number: 
+
+20211834513 
+
+Filing Type: 
+
+Amendment After Issuance of Stock 
+
+Filing Date/Time: 
+
+10/19/2021 11:58 
+
+Filing Page(s): 
+
+3 
+
+Indexed Entity Information: 
+
+Entity ID: E0310712019-5 
+
+Entity Name: NOWTRANSIT INC 
+
+Entity Status: Active 
+
+Expiration Date: None 
+
+Commercial Registered Agent 
+
+INCORP SERVICES, INC. 
+
+3773 HOWARD HUGHES PKWY STE 500S, Las Vegas, NV 89169 - 6014, USA 
+
+The attached document(s) were filed with the Nevada Secretary of State, Commercial Recording Division. The filing date and time have been affixed to each document, indicating the date and time of filing. A filing number is also affixed and can be used to reference this document in the future. 
+
+Respectfully, 
+
+BARBARA K. CEGAVSKE 
+
+			 Secretary of State 
+
+Page 1 of 1 
+
+Commercial Recording Division 
+
+ 202 N. Carson Street 
+
+BARBARA K. CEGAVSKE 
+
+			 Secretary of State 
+
+			 202 North Carson Street 
+
+			 Carson City, Nevada 89701-4201 
+
+			 (775) 684-5708 
+
+			 Website: www.nvsos.gov 
+
+Filed in the Office of 
+
+Secretary of State 
+
+			 State Of Nevada 
+
+Business Number 
+
+			 E0310712019-5 
+
+Filing Number 
+
+			 20211834513 
+
+Filed On 
+
+			 10/19/2021 11:58:00 AM 
+
+Number of Pages 
+
+			 3 
+
+Profit Corporation: 
+
+			 Certificate of Amendment (PURSUANT TO NRS 78.380 78.385/78.390) 
+
+			 Certificate to Accompany Restated Articles or Amended and 
+
+			 Restated Articles (PURSUANT TO NRS 78.403) 
+
+			 Officer's Statement (PURSUANT TO NRS 80.030) 
+
+TYPE OR PRINT - USE DARK INK ONLY - DO NOT HIGHLIGHT 
+
+1. Entity information: 
+
+Name of entity as on file with the Nevada Secretary of State: 
+
+			 Nowtransit Inc 
+
+			 Entity or Nevada Business Identification Number (NVID): E0310712019-5 
+
+2. Restated or Amended and Restated Articles: (Select one) 
+
+			 (If amending and restating only, complete section 1, 2, 3, 5 and 6) 
+
+Certificate to Accompany Restated Articles or Amended and Restated Articles 
+
+			 Restated Articles - No amendments; articles are restated only and are signed by an officer of the corporation who has been authorized to execute the certificate by resolution of the board of directors adopted on: 
+
+			 The certificate correctly sets forth the text of the articles or certificate as amended to the date of the certificate. 
+
+			 Amended and Restated Articles 
+
+			 Restated or Amended and Restated Articles must be included with this filing type. 
+
+3. Type of Amendment Filing Being Completed: 
+
+			 (Select only one box) 
+
+			 (If amending, complete section 1, 3, 5 and 6.) 
+
+Certificate of Amendment to Articles of Incorporation (Pursuant to NRS 78.380 - Before Issuance of Stock) 
+
+			 The undersigned declare that they constitute at least two-thirds of the following: 
+
+			 (Check only one box) incorporators board of directors 
+
+			 The undersigned affirmatively declare that to the date of this certificate, no stock of the corporation has been issued 
+
+Certificate of Amendment to Articles of Incorporation (Pursuant to NRS 78.385 and 78.390 - After Issuance of Stock) 
+
+			 The vote by which the stockholders holding shares in the corporation entitling them to exercise at least a majority of the voting power, or such greater proportion of the voting power as may be required in the case of a vote by classes or series, or as may be required by the provisions of the articles of incorporation have voted in favor of the amendment is: 51.3 
+
+Officer's Statement (foreign qualified entities only) 
+
+			 Name in home state, if using a modified name in Nevada: 
+
+Jurisdiction of formation: 
+
+			 Changes to takes the following effect: 
+
+			 The entity name has been amended. Dissolution 
+
+			 The purpose of the entity has been amended. Merger 
+
+			 The authorized shares have been amended. Conversion 
+
+			 Other: (specify changes) 
+
+Officer's Statement must be submitted with either a certified copy of or a certificate evidencing the filing of any document, amendatory or otherwise, relating to the original articles in the place of the corporations creation. 
+
+This form must be accompanied by appropriate fees. 
+
+Page 1 of 2 
+
+			 Revised: 1/1/2019 
+
+BARBARA K. CEGAVSKE 
+
+			 Secretary of State 
+
+			 202 North Carson Street 
+
+			 Carson City, Nevada 89701-4201 
+
+			 (775) 684-5708 
+
+			 Website: www.nvsos.gov 
+
+Profit Corporation: 
+
+			 Certificate of Amendment (PURSUANT TO NRS 78.380 78.385/78.390) 
+
+			 Certificate to Accompany Restated Articles or Amended and 
+
+			 Restated Articles (PURSUANT TO NRS 78.403) 
+
+			 Officer's Statement (PURSUANT TO NRS 80.030) 
+
+4. Effective Date and Time: (Optional) 
+
+Date: Time: 
+
+			 (must not be later than 90 days after the certificate is filed) 
+
+5. Information Being Changed: (Domestic corporations only) 
+
+Changes to takes the following effect: 
+
+			 The entity name has been amended. 
+
+			 The registered agent has been changed. (attach Certificate of Acceptance from new registered agent) 
+
+			 The purpose of the entity has been amended. 
+
+			 The authorized shares have been amended. 
+
+			 The directors, managers or general partners have been amended. 
+
+			 IRS tax language has been added. 
+
+			 Articles have been added. 
+
+			 Articles have been deleted. 
+
+			 Other: 
+
+			 The articles have been amended as follows: (provide article numbers, if available) 
+
+			 Article 3 has been amended to read in its entirety as set forth below 
+
+			 (attach additional page(s) if necessary) 
+
+6. Signature: 
+
+			 (Required) 
+
+X 
+
+President 
+
+Signature of Officer or Authorized Signer 
+
+Title 
+
+X 
+
+Signature of Officer or Authorized Signer 
+
+Title 
+
+If any proposed amendment would alter or change any preference or any relative or other right given to any class or series of outstanding shares, then the amendment must be approved by the vote, in addition to the affirmative vote otherwise required, of the holders of shares representing a majority of the voting power of each class or series affected by the amendment regardless to limitations or restrictions on the voting power thereof. 
+
+Please include any required or optional information in space below: 
+
+			 (attach additional page(s) if necessary) 
+
+Article 3. Authorized Shares: the authorized capital stock of the Corporation shall consist of: (i) seventy five million (75,000,000) shares of common stock, par value 0.0001 per share, and (ii) five million (5,000,000) shares of preferred stock, par value 0.0001 per share. (continued on additional page) 
+
+This form must be accompanied by appropriate fees. 
+
+Page 2 of 2 
+
+			 Revised: 1/1/2019 
+
+Shares of preferred stock may be issued from time-to-time in one or more series, each of such series to have such terms as stated in the resolution or resolutions providing for the establishment of such series adopted by the board of directors of the Corporation as hereinafter provided. In connection with the establishment of any such series, the board of directors may determine and fix the designation of and the number of shares comprising such series, and such voting powers, full or limited, or no voting powers, and such other powers, designations, preferences and relative, participating, optional and other special rights, and the qualifications, limitations and restrictions thereof, if any, including, without limitation, dividend rights, conversion rights, redemption privileges and liquidation preferences, as shall be stated in such resolution or resolutions, all to the fullest extent permitted by Chapter 78 of the Nevada Revised Statutes. 
+
+SECRETARY OF STATE 
+
+NEVADA STATE BUSINESS LICENSE 
+
+NOWTRANSIT INC 
+
+Nevada Business Identification # NV20191498224 
+
+ Expiration Date: 07/31/2022 
+
+In accordance with Title 7 of Nevada Revised Statutes, pursuant to proper application duly filed and payment of appropriate prescribed fees, the above named is hereby granted a Nevada State Business License for business activities conducted within the State of Nevada. 
+
+Valid until the expiration date listed unless suspended, revoked or cancelled in accordance with the provisions in Nevada Revised Statutes. License is not transferable and is not in lieu of any local business license, permit or registration. 
+
+License must be cancelled on or before its expiration date if business activity ceases. Failure to do so will result in late fees or penalties which, by law, cannot be waived. 
+
+Certificate Number: B202110202085096 
+
+			 You may verify this certificate online at http://www.nvsos.gov 
+
+IN WITNESS WHEREOF, I have hereunto set my hand and affixed the Great Seal of State, at my office on 10/20/2021. 
+
+BARBARA K. CEGAVSKE 
+
+			 Secretary of State 
+
+</EX-3.1B>
+
+<EX-3.3>
+ 3
+ ex_310442.htm
+ EXHIBIT 3.3
+
+ex_310442.htm 
+
+Exhibit 3.3 
+
+BARBARA K. CEGAVSKE 
+
+			 Secretary of State 
+
+KIMBERLEY PERONDI 
+
+			 Deputy Secretary for Commercial Recordings 
+
+STATE OF NEVADA 
+
+OFFICE OF THE 
+
+			 SECRETARY OF STATE 
+
+Commercial Recordings Division 
+
+			 202 N. Carson Street 
+
+			 Carson City, NV 89701 
+
+			 Telephone (775) 684-5708 
+
+			 Fax (775) 684-7138 
+
+			 North Las Vegas City Hall 
+
+			 2250 Las Vegas Blvd North, Suite 400 
+
+			 North Las Vegas, NV 89030 
+
+			 Telephone (702) 486-2880 
+
+			 Fax (702) 486-2888 
+
+Business Entity - Filing Acknowledgement 
+
+ 11/01/2021 
+
+Work Order Item Number: 
+
+W2021110102426-1690297 
+
+Filing Number: 
+
+20211865905 
+
+Filing Type: 
+
+Certificate of Designation 
+
+Filing Date/Time: 
+
+11/1/2021 8:21:00 AM 
+
+Filing Page(s): 
+
+10 
+
+Indexed Entity Information: 
+
+Entity ID: E0310712019-5 
+
+Entity Name: NOWTRANSIT INC 
+
+Entity Status: Active 
+
+Expiration Date: None 
+
+Commercial Registered Agent 
+
+INCORP SERVICES, INC. 
+
+3773 HOWARD HUGHES PKWY STE 500S, Las Vegas, NV 89169 - 6014, USA 
+
+The attached document(s) were filed with the Nevada Secretary of State, Commercial Recording Division. The filing date and time have been affixed to each document, indicating the date and time of filing. A filing number is also affixed and can be used to reference this document in the future. 
+
+Respectfully, 
+
+BARBARA K. CEGAVSKE 
+
+			 Secretary of State 
+
+Page 1 of 1 
+
+Commercial Recording Division 
+
+ 202 N. Carson Street 
+
+BARBARA K. CEGAVSKE 
+
+			 Secretary of State 
+
+			 202 North Carson Street 
+
+			 Carson City, Nevada 89701-4201 
+
+			 (775) 684-5708 
+
+			 Website: www.nvsos.gov 
+
+Filed in the Office of 
+
+Secretary of State 
+
+			 State Of Nevada 
+
+Business Number 
+
+			 E0310712019-5 
+
+Filing Number 
+
+			 20211865905 
+
+Filed On 
+
+			 11/1/2021 8:21:00 AM 
+
+Number of Pages 
+
+			 10 
+
+Certificate, Amendment or Withdrawal of Designation 
+
+			 NRS 78.1955, 78.1955(6) 
+
+			 Certificate of Designation 
+
+			 Certificate of Amendment to Designation - Before Issuance of Class or Series 
+
+			 Certificate of Amendment to Designation - After Issuance of Class or Series 
+
+			 Certificate of Withdrawal of Certificate of Designation 
+
+TYPE OR PRINT - USE DARK INK ONLY - DO NOT HIGHLIGHT 
+
+1. Entity information: 
+
+Name of entity: 
+
+			 Nowtransit Inc 
+
+			 Entity or Nevada Business Identification Number (NVID): E0310712019-5 
+
+2. Effective date and time: 
+
+For Certificate of Designation or 
+
+			 Amendment to Designation Only 
+
+			 (Optional): 
+
+Date: 
+
+Time: 
+
+(must not be later than 90 days after the certificate is filed) 
+
+3. Class or series of stock: (Certificate of Designation only) 
+
+The class or series of stock being designated within this filing: 
+
+			 Series A Convertible Preferred Stock 
+
+4. Information for 
+
+			 amendment of class or series of stock: 
+
+The original class or series of stock being amended within this filing: 
+
+5. Amendment of class or series of stock: 
+
+Certificate of Amendment to Designation- Before Issuance of Class or Series 
+
+			 As of the date of this certificate no shares of the class or series of stock have been issued. 
+
+Certificate of Amendment to Designation- After Issuance of Class or Series 
+
+			 The amendment has been approved by the vote of stockholders holding shares in the corporation entitling them to exercise a majority of the voting power, or such greater proportion of the voting power as may be required by the articles of incorporation or the certificate of designation. 
+
+6. Resolution: 
+
+			 Certificate of Designation and Amendment to Designation only) 
+
+By resolution of the board of directors pursuant to a provision in the articles of incorporation this certificate establishes OR amends the following regarding the voting powers, designations, preferences, limitations, restrictions and relative rights of the following class or series of stock. 
+
+			 Nowtransit Inc., hereby creates Series A Convertible Preferred Stock with the following terms (see attached) 
+
+7. Withdrawal: 
+
+Designation being 
+
+			 Withdrawn: 
+
+Date of 
+
+			 Designation: 
+
+No shares of the class or series of stock being withdrawn are outstanding. 
+
+			 The resolution of the board of directors authorizing the withdrawal of the certificate of designation establishing the class or series of stock: 
+
+8. Signature: (Required) 
+
+X 
+
+Date: 10/28/2021 
+
+Signature of Officer 
+
+Attach additional page(s) if necessary 
+
+This form must be accompanied by appropriate fees. 
+
+Page 1 of 1 
+
+			 Revised: 1/1/2019 
+
+CERTIFICATE OF DESIGNATION 
+
+ OF PREFERENCES, RIGHTS AND LIMITATIONS OF 
+
+ SERIES A CONVERTIBLE PREFERRED STOCK 
+
+The undersigned, Justin Earl, the President of Nowtransit Inc. (the Corporation ), a corporation organized and existing under Chapter 78 of the Nevada Revised Statutes (the Nevada Corporations Law ), in accordance with the provisions of Sections NRS 78.195 and NRS 78.1955 of the Nevada Corporations Law, does hereby certify: 
+
+That pursuant to the authority expressly conferred upon the Board of Directors of the Corporation (the Board of Directors by the Corporation s Articles of Incorporation, as amended from time to time (the Articles of Incorporation ), the Board of Directors has adopted the following resolutions authorizing the creation and issuance of a series of preferred stock designated as the Series A Convertible Preferred Stock , none of which shares have been issued: 
+
+RESOLVED, that pursuant to Section NRS 78.195 of the Nevada Corporations Law, Series A Convertible Preferred Stock, par value 0.0001 per share, a new series of preferred stock of the Corporation, is authorized and established, and that the number of shares constituting such series shall be 1,000,000 shares; it is further 
+
+RESOLVED, that the designations, powers, preferences and rights of the Series A Convertible Preferred Stock, and the qualifications, limitations or restrictions thereof, shall be as follows: 
+
+Section 1. Designation and Authorized Shares . There shall hereby be created and established a series of preferred stock of the Corporation designated as Series A Convertible Preferred Stock (the Series A Preferred Stock ). The authorized number of shares of the Series A Preferred Stock shall be 1,000,000 shares (the Preferred Shares ). Each Preferred Share shall have a par value of 0.0001. Capitalized terms not defined herein shall have the meaning as set forth in Section 7 below. 
+
+Section 2. Conversion . 
+
+(a) Conversion Right . Subject to the provisions of Section 2(c) and Section 6, each Holder shall be entitled to convert each Preferred Share held by such Holder into three validly issued, fully paid and non-assessable shares of Common Stock. The Corporation shall not issue any fraction of a share of Common Stock upon any conversion. If the issuance would result in the issuance of a fraction of a share of Common Stock, the Corporation shall round such fraction of a share of Common Stock up to the nearest whole share. The Corporation shall pay any and all transfer, stamp, issuance and similar taxes, costs and expenses (including fees and expenses of the Corporation s transfer agent (the Transfer Agent )) that may be payable with respect to the issuance and delivery of Common Stock upon conversion of any Preferred Share. 
+
+(b) Mechanics of Conversion . To convert a Preferred Share into shares of Common Stock on any date after the issuance of such Preferred Share (a Conversion Date ), 
+
+1
+
+a Holder shall deliver (via, electronic mail or otherwise), for receipt on or prior to 11:59 p.m., New York time, on such date, a copy of an executed notice of conversion of the Preferred Shares subject to such conversion in the form attached hereto as Exhibit I (the Conversion Notice to the Corporation. Within two Trading Days following a conversion of any such Preferred Shares, such Holder shall surrender to a nationally recognized overnight delivery service for delivery to the Corporation the original certificates representing the Preferred Shares (the Preferred Share Certificates so converted (or an indemnification undertaking with respect to the Preferred Shares in the case of its loss, theft or destruction). On or before the first Trading Day following the date of receipt of a Conversion Notice, the Corporation shall transmit by electronic mail an acknowledgment of confirmation, in the form attached hereto as Exhibit II , of receipt of such Conversion Notice to such Holder and the Transfer Agent, which confirmation shall constitute an instruction to the Transfer Agent to process such Conversion Notice in accordance with the terms herein. On or before the two Trading Day following the date of receipt of a Conversion Notice (or such earlier date as required pursuant to the Securities Exchange Act of 1934, (the Exchange Act or other applicable law, rule or regulation for the settlement of a trade initiated on the applicable Conversion Date of such shares of Common Stock issuable pursuant to such Conversion Notice) (the Share Delivery Deadline ), the Corporation shall (1) provided that the Transfer Agent is participating in The Depository Trust Corporation s DTC Fast Automated Securities Transfer Program, credit such aggregate number of shares of Common Stock to which such Holder shall be entitled to such Holder s or its designee s balance account with DTC through its Deposit/Withdrawal at Custodian system, or (2) if the Transfer Agent is not participating in the DTC Fast Automated Securities Transfer Program, issue and deliver (via reputable overnight courier) to the address as specified in such Conversion Notice, a certificate, registered in the name of such Holder or its designee, for the number of shares of Common Stock to which such Holder shall be entitled. If the number of Preferred Shares represented by the Preferred Share Certificate(s) submitted for conversion is greater than the number of Preferred Shares being converted, then the Corporation shall, as soon as practicable and in no event later than two Trading Days after receipt of the Preferred Share Certificate(s) and at its own expense, issue and deliver to such Holder (or its designee) a new Preferred Share Certificate representing the number of Preferred Shares not converted. The Person or Persons entitled to receive the shares of Common Stock issuable upon a conversion of Preferred Shares shall be treated for all purposes as the record holder or holders of such shares of Common Stock on the Conversion Date. 
+
+(c) Maximum Conversion . Notwithstanding anything to the contrary set forth in this Certificate of Designation, at no time may all or a portion of the Preferred Shares be converted if the number of shares of Common Stock to be issued pursuant to such conversion would cause the Holder s beneficial ownership to exceed, when aggregated with all other shares of Common Stock beneficially owned (as determined in accordance with Section 13(d) of the Exchange Act and the rules thereunder) by such Holder at such time, the number of shares of Common Stock equal to more than 4.99 of all of the Common Stock issued and outstanding at such time (which provision may be waived by such Holder by written notice from such Holder to the Corporation, which notice shall be effective 61 calendar days after the date of such notice). Additionally, in no event shall any Preferred Shares be converted if after giving effect to the conversion, the Holder would beneficially own more than 9.99 of all of the Common Stock issued and outstanding at such time. For purposes of this Section 2(c), in determining the number 
+
+2
+
+of outstanding shares of Common Stock, a Holder may rely on the number of outstanding shares of Common Stock as reflected in (1) the Corporation s most recent Annual Report on Form 10-K, Quarterly Report on Form 10-Q, Current Report on Form 8-K or other public filing with the Securities and Exchange Commission, as the case may be, (2) a more recent public announcement by the Corporation or (3) any other notice by the Corporation setting forth the number of shares of Common Stock outstanding. The number of outstanding shares of Common Stock shall be determined after giving effect to the conversion or exercise of securities of the Corporation, including shares of Series A Preferred Stock, held by such Holder and its affiliates since the date as of which such number of outstanding shares of Common Stock was reported, which in any event are convertible or exercisable, as the case may be, into shares of the Corporation s Common Stock within 60 days of such calculation and which are not subject to a limitation on conversion or exercise analogous to the limitation contained herein. The provisions of this Section 2 shall be construed and implemented in a manner otherwise than in strict conformity with the terms of this Section 2(c) to correct this paragraph (or any portion hereof) which may be defective or inconsistent with the intended beneficial ownership limitations herein contained or to make changes or supplements necessary or desirable to properly give effect to such limitation. 
+
+Section 3. Voting . Except as may be required by the Nevada Corporations Law or other applicable law, the Holders shall not be entitled to vote on any matters submitted to the stockholders of the Corporation. 
+
+Section 4. Amendment . With the consent of any Holder of outstanding Series A Preferred Stock, the Board of Directors shall have the exclusive power to amend this Certificate of Designation and the designations, powers, preferences, rights, qualifications, limitations and restrictions of the Series A Preferred Stock provided hereunder. 
+
+Section 5. Other Provisions . 
+
+(a) Transfer of Preferred Shares . A Holder may transfer some or all of its Preferred Shares without the consent of the Corporation, subject to compliance with the Securities Act of 1933. If any Preferred Shares are to be transferred, the applicable Holder shall surrender the applicable Preferred Share certificate to the Corporation, whereupon the Corporation will forthwith issue and deliver upon the order of such Holder a new Preferred Share certificate, registered as such Holder may request, representing the outstanding number of Preferred Shares being transferred by such Holder and, if less than the entire outstanding number of Preferred Shares is being transferred, a new Preferred Share certificate to such Holder representing the outstanding number of Preferred Shares not being transferred. 
+
+(b) Lost, Stolen or Mutilated Preferred Share Certificate . Upon receipt by the Corporation of evidence reasonably satisfactory to the Corporation of the loss, theft, destruction or mutilation of a Preferred Share Certificate (as to which a written certification and the indemnification contemplated below shall suffice as such evidence), and, in the case of loss, theft or destruction, of any indemnification undertaking by the applicable Holder to the Corporation in customary and reasonable form and, in the case of mutilation, upon surrender and cancellation of such Preferred Share certificate, the Corporation shall execute and deliver to such Holder a new Preferred Share certificate representing the applicable outstanding number 
+
+3
+
+of Preferred Shares. 
+
+Section 6. Certain Adjustments . Stock Dividends and Stock Splits . If the Corporation, at any time while any Preferred Shares remain outstanding: (A) shall pay a stock dividend or otherwise make a distribution or distributions on shares of its Common Stock or any other equity or equity equivalent securities payable in shares of Common Stock (which, for avoidance of doubt, shall not include any shares of Common Stock issued by the Corporation pursuant to the conversion of the Series A Preferred Stock), (B) subdivide outstanding shares of Common Stock into a larger number of shares, (C) combine (including by way of reverse stock split) outstanding shares of Common Stock into a smaller number of shares, or (D) issue by reclassification of shares of the Common Stock any shares of capital stock of the Corporation, each Preferred Share shall be entitled to receive such consideration as if such number of Preferred Shares had been, immediately prior to such foregoing dividend, distribution, subdivision, combination or reclassification, the holder of the number of shares of Common Stock into which it could convert at such time, and the conversion ratio provided in Section 2(a) shall be proportionately adjusted following such event to give effect to this Section 6. Any adjustment made pursuant to this Section 6 shall become effective immediately after the record date for the determination of stockholders entitled to receive such dividend or distribution and shall become effective immediately after the effective date in the case of a subdivision, combination or re-classification. For the avoidance of doubt, if the Corporation effects a reverse stock split combining every three shares of Common Stock into one share of Common Stock, the effect of this Section 6 will be to adjust the conversion ratio provided in Section 2(a) from one-for-three to one-for-one. 
+
+Section 7. Certain Defined Terms . For purposes of this Certificate of Designation, the following terms shall have the following meanings: 
+
+(a) Common Stock shall mean the Corporation s common stock, 0.0001 par value per share. 
+
+(b) Holder or Holders means a holder of Series A Preferred Stock. 
+
+(c) Person means an individual, a limited liability corporation, a partnership, a joint venture, a corporation, a trust, an unincorporated organization, any other entity or a government or any department or agency thereof. 
+
+(d) Principal Market means The New York Stock Exchange, the NYSE American, the Nasdaq Global Select Market, the Nasdaq Global Market, the Nasdaq Capital Market, OTCPink, OTCQB, or OTCQX and any successor markets thereto. 
+
+(e) Trading Day means any day on which the Common Stock is eligible to be traded on the Principal Market or securities market on which the Common Stock is then traded, provided that Trading Day shall not include any day on which the Common Stock is scheduled to trade on such exchange or market for less than 4.5 hours or any day that the Common Stock is suspended from trading during the final hour of trading on such exchange or market (or if such exchange or market does not designate in advance the closing time of trading on such exchange 
+
+4
+
+or market, then during the hour ending at 4:00:00 p.m., New York time) unless such day is otherwise designated as a Trading Day in writing by the Holder. 
+
+5
+
+IN WITNESS WHEREOF, the undersigned has executed this Certificate of Designation this 19th day of October, 2021. 
+
+By:_ ____ 
+
+ Name: Justin Earl 
+
+ Title: President 
+
+[SIGNATURE PAGE TO CERTIFICATE OF DESIGNATION OF PREFERENCES, 
+
+ RIGHTS AND LIMITATIONS OF SERIES A CONVERTIBLE PREFERRED STOCK] 
+
+6
+
+EXHIBIT I 
+
+NOWTRANSIT INC. 
+
+ CONVERSION NOTICE 
+
+Reference is made to the Certificate of Designations, Preferences and Rights of the Series A Convertible Preferred Stock (the Certificate of Designation of Nowtransit Inc., a Nevada corporation (the Corporation ). In accordance with and pursuant to the Certificate of Designation, the undersigned hereby elects to convert the number of shares of Series A Convertible Preferred Stock, 0.0001 par value per share (the Preferred Shares ), of the Corporation, indicated below into shares of common stock, 0.0001 par value per share (the Common Stock ), of the Corporation, as of the date specified below. 
+
+Date of Conversion: _________ 
+
+Number of Preferred Shares to be converted: ______________ 
+
+Number of shares of Common Stock to be issued: ___________________ 
+
+Please issue the Common Stock into which the applicable Preferred Shares are being converted to Holder, or for its benefit, as follows: 
+
+Check here if requesting delivery as a certificate to the following name and to the following address: 
+
+Issue to: 
+
+Check here if requesting delivery by Deposit/Withdrawal at Custodian as follows: 
+
+DTC Participant: 
+
+DTC Number: 
+
+Account Number: 
+
+Date: _____________ __, 
+
+Name of Registered Holder 
+
+7
+
+By: 
+			Name: 
+			Title: 
+
+Tax ID:_____________________ 
+
+			 Facsimile:___________________ 
+
+E-mail Address: 
+
+8
+
+EXHIBIT II 
+
+ACKNOWLEDGMENT 
+
+The Corporation hereby acknowledges this Conversion Notice and hereby directs _________________ to issue the above indicated number of shares of Common Stock in accordance with the Transfer Agent Instructions dated _____________, 20__ from the Corporation and acknowledged and agreed to by ________________________. 
+
+Nowtransit Inc. 
+
+By: 
+Name: 
+Title: 
+
+</EX-3.3>
+
+<EX-31.1>
+ 4
+ ex_310422.htm
+ EXHIBIT 31.1
+
+ex_310422.htm 
+
+Exhibit 31.1 
+
+Certification of the Principal Executive Officer 
+
+I, Justin Earl, Chief Executive Officer, certify that: 
+
+1. 
+
+I have reviewed this Annual Report on Form 10-K of Nowtransit Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15 (f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal three months (the registrant s fourth fiscal three months in the case of the annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 24, 2021 
+			 
+			 By: 
+			 
+			 /s/ Justin Earl 
+
+Justin Earl 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ ex_310423.htm
+ EXHIBIT 31.2
+
+ex_310423.htm 
+
+Exhibit 31.2 
+
+Certification of the Principal Financial Officer 
+
+I, Justin Earl, Chief Financial Officer, certify that: 
+
+1. 
+
+I have reviewed this Annual Report on Form 10-K of Nowtransit Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15 (f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal three months (the registrant s fourth fiscal three months in the case of the annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 24, 2021 
+			 
+			 By: 
+			 
+			 /s/ Justin Earl 
+
+Justin Earl 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ ex_310424.htm
+ EXHIBIT 32.1
+
+ex_310424.htm 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Nowtransit Inc. (the Company on Form 10-K for the fiscal year ended August 31, 2021 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Justin Earl, Principal Executive Officer and Principal Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 that, to the best of my knowledge: 
+
+1. 
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: November 24, 2021 
+
+By: 
+
+/s/ Justin Earl 
+
+Justin Earl 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+(Principal Financial Officer) 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 7
+ notr-20210831.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ notr-20210831.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ notr-20210831_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ notr-20210831_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ notr-20210831_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ notr-20210831_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

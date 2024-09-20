@@ -1,0 +1,4082 @@
+<Header>
+<FileStats>
+    <FileName>20211008_10-K_edgar_data_1481028_0001213900-21-052059.txt</FileName>
+    <GrossFileSize>5069329</GrossFileSize>
+    <NetFileSize>175498</NetFileSize>
+    <NonText_DocumentType_Chars>908932</NonText_DocumentType_Chars>
+    <HTML_Chars>1238460</HTML_Chars>
+    <XBRL_Chars>1326702</XBRL_Chars>
+    <XML_Chars>1282699</XML_Chars>
+    <N_Exhibits>12</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-21-052059.hdr.sgml : 20211008
+<ACCEPTANCE-DATETIME>20211008161354
+ACCESSION NUMBER:		0001213900-21-052059
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		67
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20211008
+DATE AS OF CHANGE:		20211008
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUNHYDROGEN, INC.
+		CENTRAL INDEX KEY:			0001481028
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54437
+		FILM NUMBER:		211315449
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10 E. YANONALI, SUITE 36
+		CITY:			SANTA BARBARA
+		STATE:			CA
+		ZIP:			93101
+		BUSINESS PHONE:		805-966-6566
+
+	MAIL ADDRESS:	
+		STREET 1:		10 E. YANONALI, SUITE 36
+		CITY:			SANTA BARBARA
+		STATE:			CA
+		ZIP:			93101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Hypersolar, Inc.
+		DATE OF NAME CHANGE:	20100114
+
+</SEC-Header>
+</Header>
+
+ 0001213900-21-052059.txt : 20211008
+
+10-K
+ 1
+ f10k2021_sunhydrogen.htm
+ ANNUAL REPORT
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE
+COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 
+
+(Mark One) 
+
+ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+FOR THE FISCAL YEAR ENDED , 2021 
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+FOR THE TRANSITION PERIOD FROM __________ TO __________ 
+
+COMMISSION FILE NUMBER:
+
+(Name of registrant in
+its charter) 
+
+(State or other jurisdiction of 
+incorporation or organization) (I.R.S. Employer 
+Identification No.) 
+
+(Address of principal
+executive offices) (Zip Code) 
+
+Issuer s telephone
+Number: 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+ 
+ Trading Symbol(s) 
+ 
+ Name of each exchange on which registered 
+ 
+ None 
+ 
+ None 
+ 
+ None 
+
+Securities registered
+pursuant to section 12(g) of the Act: common stock, par value 0.001 per share 
+
+Indicate by check mark
+if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark
+if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate by check
+mark whether the registrant (1) has filed all reports required by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days. No 
+
+Indicate by check mark
+whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation
+S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit
+such files). No 
+
+Indicate by check mark
+whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an
+emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller
+reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer Accelerated Filer Smaller reporting company Emerging growth company 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark
+whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal
+control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting
+firm that prepared or issued its audit report. 
+
+Indicate by check mark
+whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+The aggregate market
+value of the common stock held by non-affiliates of the registrant, based upon the last sale price of the common stock of the Company
+as of the last business day of its most recently completed second fiscal quarter was approximately . 
+
+The number of shares of registrant s
+common stock outstanding, as of October 8, 2021 was . 
+
+DOCUMENTS
+INCORPORATED BY REFERENCE 
+
+None 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item 1. 
+ Business 
+ 1 
+ 
+ Item 1A. 
+ Risk Factors 
+ 6 
+ 
+ Item 2. 
+ Properties 
+ 11 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 11 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 11 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 12 
+ 
+ Item 6. 
+ [Reserved.] 
+ 13 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 13 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures about Market Risk. 
+ 16 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 16 
+ 
+ Item 9. 
+ Changes In and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 16 
+ 
+ Item 9A. 
+ Controls and Procedures 
+ 16 
+ 
+ Item 9B. 
+ Other Information. 
+ 17 
+ 
+ Item 9C. 
+ Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ 17 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 18 
+ 
+ Item 11. 
+ Executive Compensation 
+ 20 
+ 
+ Item 12 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 22 
+ 
+ Item 13. 
+ Certain Relationship and Related Transactions, and Director Independence 
+ 22 
+ 
+ Item 14. 
+ Principal Accountant Fees and Services 
+ 23 
+ 
+ Item 15. 
+ Exhibit and Financial Statement Schedules 
+ 24 
+
+SIGNATURES 
+ 26 
+
+i 
+
+PART I 
+
+Item 1. Business. 
+
+Unless
+otherwise stated or the context requires otherwise, references in this annual report on Form 10-K to SunHydrogen , the Company ,
+ we , us , or our refer to SunHydrogen, Inc. 
+
+Overview 
+
+At
+SunHydrogen, our goal is to replace fossil fuels with clean, renewable hydrogen. 
+
+Hydrogen
+is the most abundant chemical element in the universe. When hydrogen fuel is used to power transportation and industry, the only byproduct
+left behind is pure water, unlike hydrocarbon fuels such as oil, coal and natural gas that release carbon dioxide and other contaminants
+into the atmosphere when used. However, naturally occurring elemental hydrogen is rare so rare, in fact, that today over 95 of
+hydrogen still comes from methane, a fossil fuel (Source: Forbes, Estimating the Carbon Footprint of Hydrogen Production ). This
+hydrogen is procured through steam methane reforming (SMR), a capital-intensive process that emits carbon dioxide and other harmful pollutants. 
+
+The SunHydrogen solution offers an efficient and
+cost-effective way to produce truly green hydrogen using sunlight and any source of water. Our core technology is a self-contained, nanoparticle-based
+hydrogen generator that mimics photosynthesis to split water molecules, resulting in hydrogen. By optimizing the science of water electrolysis
+at the nano-level, we believe we have developed a low-cost method to potentially produce environmentally friendly renewable hydrogen. 
+
+We believe renewable hydrogen is the fuel of the
+future, and we believe our technology potentially offers solutions to the challenges that the hydrogen future presents, including cost
+of production and transportation. 
+
+Because our process only requires sunlight and
+water, our technology can be installed near the point of hydrogen use. This eliminates the need for pipelines and trucks that result in
+high carbon emissions and high capital investment. With a target cost of 2.50/kg., we aspire for our technology to be cost-competitive
+with brown hydrogen and below the cost of clean hydrogen competitors. We believe our solution has the potential to clear a path for green
+hydrogen to compete with natural gas hydrogen and gain mass market acceptance as a true replacement for fossil fuels. 
+
+Our technology is primarily developed at the University
+of Iowa, through a sponsored research agreement. A longtime development partner to SunHydrogen, The University of Iowa research team has
+worked over the past several years to both lead and optimize the scale-up of our nanoparticle technology. 
+
+In 2021, we made strides toward the commercialization
+of our nanoparticle technology and entered agreements with two new technology development partners; InRedox in Longmont, Colorado and
+SCHMID Group in Freudenstadt, Germany. 
+
+Under our agreement with InRedox, they support
+the design and production of essential materials for our nanoparticle technology. 
+
+Concurrently,
+SCHMID has worked to develop the process and equipment to manufacture and scale up our nanoparticle technology. 
+
+In 2021, we also successfully completed production
+of 100 demonstration units of our Gen 1 technology, and added a Chief Operating Officer, Woosuk Kim, a seasoned senior operations executive
+with global business management and financial market expertise spanning the U.S. and Wall Street, Europe, Asia and the Middle East. 
+
+1 
+
+We will continue working diligently with our existing
+technology partners to drive our technology to commercialization while we simultaneously prepare for mass production and seek out potential
+manufacturing partners for production facility, equipment design and engineering. 
+
+Market Opportunity 
+
+The global hydrogen market
+is large and growing rapidly. Current fossil fuels can t sustain future energy requirements environmentally or economically, and
+hydrogen fuel technologies are being adopted across all sectors as the world moves toward renewable alternatives. 
+
+Over 110 countries have set
+goals to achieve net-zero emissions by 2050, and as governments look to clean energy sources to help them meet their targets, hydrogen
+is emerging as a promising solution (Source: United Nations, The race to zero emissions, and why the world depends on it) . It is
+estimated that nearly 25 of global energy will come from clean hydrogen alone by 2050, which could bring in a projected 2.5 trillion
+in annual revenues (Source: Bank of America Securities, New Energy Behind Green Hydrogen). 
+
+In the US, California is leading
+the way in hydrogen strategies, with more fuel cell passenger vehicles on the road than any other state and one of the largest hydrogen
+refueling station networks in the world (Source: Sierra Nevada Ally, Hydrogen Fuel Cell Vehicles are Building Momentum in California) .
+Globally, over 320 green hydrogen production demonstration projects have been announced, and governments around the world have put forth
+ambitious strategies to utilize hydrogen and fuel cell technologies across all sectors of the economy including transportation, feedstock
+and industrial heat use (Source: International Energy Agency, Hydrogen Projects Database) . 
+
+By 2050, the hydrogen market
+is expected to increase tenfold compared to where it stands today (Source: The Hydrogen Council, Hydrogen, scaling up) . 
+
+Existing Market Growth 
+
+According
+to a Grand View Research study released in March 2021, the global hydrogen generation
+market size was valued at 120.7 billion in 2020 and is expected to expand at a compound annual growth rate (CAGR) of 5.7 from 2021 to
+2028. This places the market s projected value at 184 billion in 2028. 
+
+Among
+the factors driving the global hydrogen generation market size are regulations intended to reduce sulfur content and measures to reduce
+the carbon footprint. U.S. federal and state governments have adopted various programs, including the Tier 3 program, to reduce the sulfur
+content in gasoline, motor oil and diesel. 
+
+Growing
+demand for petroleum products from developing countries is also anticipated to drive the hydrogen generation market in the coming years.
+Hydrogen is used in various refining processes including hydrocracking and hydrodesulfurization to crack bigger molecules into lighter
+ones and produce more usable products. 
+
+We believe increasing demand for clean fuel energy will be
+affected by: 
+
+Stringent government regulation toward desulphurization of petroleum products 
+
+Deteriorating crude oil quality; and 
+
+Transportation and storage issues 
+
+Therefore, we believe our
+renewable hydrogen-producing technology possesses significant early market opportunity, especially as innovation and infrastructure continue
+to develop. 
+
+2 
+
+Utility Scale Hydrogen Electricity 
+
+According to a March 2013
+report from NREL, a national laboratory of the U.S. Department of Energy, hydrogen can be blended into existing natural gas pipeline networks,
+thus bypassing the high cost of dedicated hydrogen pipelines to use hydrogen at a large scale. If implemented with relatively low concentrations,
+less than 5 15 hydrogen by volume, this strategy of storing and delivering renewable hydrogen to markets appears to be viable
+without significantly increasing risks associated with utilization of the gas blend in end-use devices (such as household appliances),
+overall public safety, or the durability and integrity of the existing natural gas pipeline network (Source: NREL, Blending Hydrogen
+into Natural Gas Pipeline Networks: A review of Key Issues) . 
+
+Hydrogen Fuel Cell Vehicles 
+
+The auto manufacturing and
+vehicle industries are among the most recognized applications for hydrogen fuel technologies. According to a 2021 study by Information
+Trends, over 27,500 hydrogen fuel cell vehicles had been sold by year-end 2020 since their sales first began. Sales were held back due
+to the lack of a solid hydrogen refueling infrastructure, but the numbers are projected to rise quickly, and fuel cell vehicles are gaining
+momentum around the world. In the same study, Information Trends projected that close to 600,000 hydrogen fuel cell buses and minibuses
+will be in service by 2035 (Source: Information Trends, Global Market for Hydrogen Fuel Cell Buses). In California, executives
+from 25 multinational companies including Toyota, Hyundai, BMW, Chevron and other key players have called on Governor Gavin Newsom to
+heavily invest in hydrogen infrastructure in the state (Source: Ways2H, Executives Pen Letter to Newsom Calling for Major Investments
+in Hydrogen Infrastructure). Stories and projections like these suggest a promising future for fuel cell vehicles. 
+
+Our Technology 
+
+Technology for
+Making Renewable Hydrogen from Sunlight and Water 
+
+Powered by
+solar energy, billions of our microscopic nanoparticles split apart water at the molecular level, extracting hydrogen for use as a clean
+energy source and leaving behind only clean oxygen as a byproduct. This process is similar to what happens inside a plant cell during
+photosynthesis: Each Photoelectrochemically Active Heterostructures (or PAH) nanoparticle is a microscopic machine, composed of multiple
+layers enabling the solar electrolysis reaction to take place. 
+
+Water Splitting 
+
+In
+the process of splitting a water molecule, input energy is transferred into the chemical bonds. Essentially, manufactured hydrogen serves
+as a carrier or battery-like storage of the input energy. If the input energy is from fossil fuels, such as oil and gas, then carbon fossil
+fuel energy is simply transferred into hydrogen. If the input energy is renewable, such as solar or wind, then new and clean energy is
+stored in hydrogen. 
+
+While
+the concept of water splitting is very appealing, the following challenges must be addressed for renewable hydrogen to be commercially
+viable: 
+
+Energy Inefficiency 
+Since hydrogen is an energy carrier, the most energy it can store is 100 of the input energy. However, conventional systems approach
+to electrolysis lose much of the input energy in system components, wires and electrodes resulting in only a small portion of electricity
+making it into the hydrogen molecules. This translates to high production cost and is the fundamental problem with water splitting for
+hydrogen production. We intend to address this problem with our low-cost and energy efficient particle technology. 
+
+Need for Clean Water 
+ Conventional electrolysis requires highly purified clean water to prevent fouling of system components. This prevents current
+technology from using large quantities of available water from oceans, rivers, industrial waste and municipal waste as feedstock. Our
+technology is being designed to use any natural water or waste water for the unlimited production of renewable hydrogen. 
+
+3 
+
+Technology 
+
+Water electrolysis
+in its simplest form is the transfer of input electrons in the following chemical reactions: 
+
+Cathode (reduction): 2H 2 O + 2 e - H 2 + 2OH - 
+
+Anode (oxidation): 4OH - O 2 + 2H 2 O + 4 e - 
+
+From
+these equations, one can deduce that if every input electron e - is put to work and not lost, then a maximum amount
+of input electrons (i.e. energy) is transferred and stored in the hydrogen molecules (H 2 ). Additionally, if there were
+a very high number of cathode and anode reaction areas within a given volume of water, then a very high number of these reactions could
+happen simultaneously throughout the medium to split each water molecule into hydrogen wherever electrons are available. 
+
+SunHydrogen Panel 
+
+Since
+our particles are intended to mimic the natural temperature conditions of photosynthesis, they can be housed in very low-cost reactors.
+To facilitate the commercial use of our self-contained particle technology, we are developing a modular system that will enable the onsite
+daily production and storage of hydrogen for any time use in electricity generation. 
+
+We
+refer to our potential product as the SunHydrogen Panel which is comprised of the following components: 
+
+1. The Generator Housing
+ Our novel device design is the first of its kind to safely separate oxygen and hydrogen in the water splitting process without
+sacrificing efficiency. This device houses the water, and the solar particles/cells and is designed with inlets and outlets for water
+and gasses. Utilizing a novel ion-exchange membrane strategy for separating the oxygen side from the hydrogen side, ion transport is increased
+which is the key to safely increasing solar-to-hydrogen efficiency. Our design can be scaled up and manufactured for commercial use. 
+
+2. The NanoParticle or Solar Cell - Powered
+by solar energy, billions of our microscopic nanoparticle solar cells split apart water at the molecular level, extracting hydrogen for
+use as a clean energy source and leaving behind only clean oxygen as a byproduct. 
+
+3. Oxygen Evolution Catalyst
+- This proprietary catalyst developed at the University of Iowa lab is uniformly applied onto the solar cell or nanoparticle and efficiently
+oxidize water molecule to generate oxygen gas. The oxygen evolution catalyst must be robust to withstand the long operating hours of the
+hydrogen generation device to ensure long lifetime. It must be stable in alkaline, neutral and acidic environments. 
+
+4. Hydrogen Evolution
+Catalyst - Necessary for collecting electrons to reduce protons for generating hydrogen gas, we have successfully integrated a low-cost
+hydrogen catalyst into our generator system, successfully coating a triple junction solar cell with a catalyst comprised primarily of
+ruthenium, carbon and nitrogen that can function as well as platinum, the current catalyst used for hydrogen production. 
+
+5. Coating Technologies
+- Two major coating technologies were developed to protect the nanoparticles and solar cells from photocorrosion under water: A transparent
+conducive coating to protect our nanoparticles and solar cells from photo corrosion and efficiently transfer charges to catalysts for
+oxygen and hydrogen evolution reactions; and a polymer combination that protects the triple junction solar cells from any corrosive water
+environments for long lifetime of the hydrogen generation device. 
+
+In
+the process of optimizing our nanoparticles to be efficient and only during experimentation with earth abundant materials (an ongoing
+process), we experimented with commercially available triple junction silicon solar cells to perform tests with our generator housing
+and other components. Through this experimentation, our discovery led us to believe that we could bring a system (Gen 1) to market utilizing
+these readily available cells while our nanoparticles are still being optimized. While these solar cells also absorb sunlight and produce
+the necessary charge for splitting the water molecules into hydrogen and oxygen, their efficiency is low, thus we have made the strategic
+decision to focus on our NanoParticle strategy (Gen 2) and use the Gen 1 hydrogen generators for proof of concept and demonstration purposes
+only. We anticipate these hydrogen panels will be demonstrated in various parts of the world as further proof of concept of our technology
+and to promote our nanoparticle technology that will be more efficient and economical. 
+
+4 
+
+Our
+business and commercialization plan utilizes our second generation of hydrogen panels featuring the nanoparticle-based technology where
+billions of autonomous solar cells are electrodeposited onto porous alumina sheets and manufactured in a roll to roll process or wafer
+process and inserted into our proprietary panels. For this generation, we have received multiple patents and our target cost of hydrogen
+production is 2.50 per kilogram before pressurization. 
+
+We
+are working with several vendors to help commercialize and manufacture our renewable hydrogen panels that use sunlight and water to generate
+hydrogen. In February 2021, we entered into a cooperation agreement with Schmid Group of Freudenstadt, Germany to design and define a
+process platform that enables mass manufacturing of SunHydrogen s Gen 2 NanoParticle hydrogen panels. In April 2021, we entered
+into an agreement with InRedox of Longmont, Colorado to produce the material components needed for Gen 2 manufacturing development. Both
+Schmid and InRedox work alongside the research team at the University of Iowa, a longtime technology development partner to SunHydrogen
+under sponsored research agreement. 
+
+Intellectual Property 
+
+On November 14, 2011, we filed
+a provisional application with the U.S. Patent and Trademark Office to protect the intellectual property rights for Photoelectrochemically
+Active Heterostructures, methods for their manufacture, and methods and systems for producing desired products. A year later on
+November 14, 2012, we filed a non-provisional application claiming priority to the provisional application. On March 14, 2017, a first
+patent covering the structural design of Photoelectrochemically Active Heterostructures (PAH) was granted as United States Patent No.
+9,593,053B1. A divisional application claiming priority to the foregoing applications was filed, and on April 3, 2018, a second patent
+covering the method for manufacturing PAH was granted as United States Patent No. 9,593,053B2. These patents protect the Company s
+proprietary design and manufacturing method of a self-contained solar-to-hydrogen device made up of millions of solar-powered water-splitting
+nanoparticles, per square centimeter. These nanoparticles are coated with a separate patent-pending protective coating that prevents corrosion
+during extended periods of hydrogen production. The aim of these nanoparticles is high conversion efficiency and low cost. This patent
+expires on November 14, 2032. 
+
+An important aspect of the
+patented technology referred to in the preceding paragraph is the integrated structures of high-density arrays of nano-sized solar cells
+as part of hydrogen production nanoparticles. The technology enables manufacturing of ultra-thin sheets for solar-to-hydrogen production,
+requiring substantially less material as compared to conventional solar cells used in rooftop power applications. 
+
+On March 21, 2014, we jointly
+filed a provisional application with UCSB for the Multi-junction artificial photosynthetic cell with enhanced photovoltages. 
+Thereafter, we filed a non-provisional application on March 16, 2015 and a corresponding PCT Application on March 17, 2015. These applications
+cover our semiconductor designs to enhance the photovoltages of the nano-sized solar cells in the PAH structures. The semiconductor designs
+stacking multiple junctions inside the PAH structures would be an efficient and economic solution for the photovoltaic and the photoelectrochemical
+industries. Patents were granted in Australia in April of 2018, China and Europe in March of 2019, and in the U.S. as United States Patent
+No. 10,100,415 in October of 2018. A patent application is currently pending in India. This patent expires on March 17, 2025. 
+
+On September 26, 2016, we
+filed jointly with the University of Iowa a provisional application for Integrated Membrane Solar Fuel Production Assembly 
+to protect the intellectual property for our generator housing system that safely separates oxygen and hydrogen in the water-splitting
+process without sacrificing efficiency. This device houses the water, the solar particles/cells and is designed with inlets and outlets
+for water and gases. Utilizing a special membrane for separating the oxygen side from the hydrogen side, proton transport is increased
+which is the key to safely increasing solar-to-hydrogen efficiency. On September 26, 2017, we filed a PCT Application that was later nationalized
+in the U.S. on March 26, 2019. The U.S. patent application for this important invention is pending and prosecution is ongoing. 
+
+5 
+
+Strategic Partners 
+
+As
+of September 1, 2021, we have renewed our sponsored research agreement with the University of Iowa, As consideration under the research
+agreement, the University of Iowa will receive a maximum of 299,966 from the Company. The research agreement may be terminated by either
+party upon 60 days prior written notice or by either party upon notice of a material breach or default which is not cured within 90 days
+of receipt of written notice of such breach. This term of the research agreement runs through August 31, 2022 but may be extended upon
+mutual agreement of the parties. 
+
+In
+February 2021, we entered into a cooperation agreement with SCHMID Group of Freudenstadt, Germany. Due to delays associated with supply
+chain challenges brought on by the Covid-19 pandemic, the cooperation agreement has been extended to fully complete the work scope with
+no additional cost to the company. 
+
+In
+April 2021, we entered into an additional agreement with InRedox of Longmont, Colorado to support the design and production of essential
+materials for our nanoparticle technology. 
+
+Competition 
+
+Currently,
+most hydrogen is produced by steam reforming of natural gas or methane. This production technology dominates due to easy availability
+and low prices of natural gas. Partial oxidation of petroleum oil is second in production capacity after steam reforming of natural gas.
+The third largest production technology in terms of production capacity is steam gasification of coal. The current industry is heavily
+dominated by large players such as Air Products, Chemicals Inc. and Air Liquide. 
+
+Green
+or renewable hydrogen can be produced through electrolyzers if the electrolyzers are powered by solar or wind energy. Several companies
+of this nature have emerged in the past few years. ITM Power in England and Proton Onsite in Norway are two of the largest companies in
+this industry. If not powered by solar panels or wind power, they require external electricity most likely created by coal, gas or oil.
+We believe that our process when fully developed may potentially offer a competitive advantage as we anticipate it will be completely
+green and renewable and utilize no external power other than the sun. 
+
+Corporate Information 
+
+We
+were incorporated in the State of Nevada on February 18, 2009. Our executive offices are located at 10 E. Yanonali St., Suite 36, Santa
+Barbara, CA 93101. 
+
+Employees 
+
+As of September 27, 2021,
+we have 4 full-time employees and several consultants. We have not experienced any work stoppages and we consider relations with our employees
+and consultants to be good. Most of our research and development work is performed by the University of Iowa, through a sponsored research
+agreement, and in collaboration with our development partners SCHMID and InRedox. 
+
+Item 1A. Risk Factors. 
+
+Risks related to our
+business and industry 
+
+Our limited operating
+history does not afford investors a sufficient history on which to base an investment decision. 
+
+We
+were formed in February 2009 and are currently developing a new technology that has not yet gained market acceptance. There can be no
+assurance that we will ever operate profitably or that we will have adequate working capital to meet our obligations as they become due. 
+
+6 
+
+Investors
+must consider the risks and difficulties frequently encountered by early stage companies, particularly in rapidly evolving markets. Such
+risks include the following: 
+
+competition; 
+
+need for acceptance of products; 
+
+ability to continue to develop and extend brand identity; 
+
+ability to anticipate and adapt to a competitive market; 
+
+ability to effectively manage rapidly expanding operations; 
+
+amount and timing of operating costs and capital expenditures relating to expansion of our business, operations, and infrastructure; and 
+
+dependence upon key personnel. 
+
+We
+cannot be certain that our business strategy will be successful or that we will successfully address these risks. In the event that we
+do not successfully address these risks, our business, prospects, financial condition, and results of operations could be materially and
+adversely affected and we may have to curtail our business. 
+
+We have a history
+of losses and have never realized revenues to date. We expect to continue to incur losses and no assurance can be given that we will realize
+revenues. Accordingly, we may never achieve and sustain profitability. 
+
+As
+of June 30, 2021, we have an accumulated deficit of 172,976,952. For the year ended June 30, 2021 we incurred a net loss of 81,498,123.
+We expect to continue to incur net losses until we are able to realize revenues to fund our continuing operations. We may fail to achieve
+any or significant revenues from sales or achieve or sustain profitability. Accordingly, there can be no assurance of when, if ever,
+we will be profitable or be able to maintain profitability. 
+
+We
+have historically raised funds through various capital raising transactions. We will require additional funds in the future to fund our
+business plans, either through additional equity or debt financings or collaborative agreements or from other sources. We have no commitments
+to obtain such additional financing, and we may not be able to obtain any such additional financing on terms favorable to us, or at all.
+In the event we are unable to obtain additional financing, we may be unable to implement our business plan. Even with such financing,
+we have a history of operating losses and there can be no assurance that we will ever become profitable. 
+
+We may be unable
+to manage our growth or implement our expansion strategy. 
+
+We may not be able to develop
+our product or implement the other features of our business strategy at the rate or to the extent presently planned. Our projected growth
+will place a significant strain on our administrative, operational and financial resources. If we are unable to successfully manage our
+future growth, establish and continue to upgrade our operating and financial control systems, recruit and hire necessary personnel or
+effectively manage unexpected expansion difficulties, our financial condition and results of operations could be materially and adversely
+affected. 
+
+We may not be able
+to successfully develop and commercialize our technologies which would result in continued losses and may require us to curtail or cease
+operations. 
+
+In
+early-to-mid , we entered into agreements with development partners InRedox and SCHMID Group, who are working alongside the University
+of Iowa research team to take the lab-scale prototypes of our nanoparticle technology to larger, commercial-scale prototypes. However,
+we have not completed a large-scale commercial prototype of our technology and are uncertain at this time when completion of a commercial
+scale prototype will occur. Although the lab scale prototype demonstrates the viability of our technology, there can be no assurance that
+we will be able to commercialize our technology. 
+
+7 
+
+Our revenues will
+be dependent upon acceptance of our products by the market; the failure of which would cause us to curtail or cease operations. 
+
+We
+believe that virtually all of our revenues will come from the sale or license of our products. As a result, we will continue to incur
+substantial operating losses until such time as we are able to develop our product and generate revenues from the sale or license of our
+products. There can be no assurance that businesses and customers will adopt our technology and products, or that businesses and prospective
+customers will agree to pay for or license our products. Our technology and product, when fully developed, may not gain market acceptance
+due to various factors such as not enough cost savings between our method of producing hydrogen and other more conventional methods. In
+the event that we are not able to significantly increase the number of customers that purchase or license our products, or if we are unable
+to charge the necessary prices or license fees, our financial condition and results of operations will be materially and adversely affected. 
+
+We anticipate that
+we will face intense competition, and many of our competitors have substantially greater resources than we do. 
+
+We
+operate in a competitive environment that is characterized by price fluctuation and technological change. We anticipate that we will compete
+with major international and domestic companies. Some of our current and future potential competitors may have greater market recognition
+and customer bases, longer operating histories and substantially greater financial, technical, marketing, distribution, purchasing, manufacturing,
+personnel and other resources than we do. In addition, competitors may be developing similar technologies with a cost similar to, or lower
+than, our projected costs. As a result, they may be able to respond more quickly to changing customer demands or to devote greater resources
+to the development, promotion and sales of solar and solar-related products than we can. 
+
+Our
+business plan relies on sales of our products based on either a demand for truly renewable clean hydrogen or economically produced clean
+hydrogen. If we fail to compete successfully, our business would suffer and we may lose or be unable to gain market share. Neither the
+demand for our product nor our ability to manufacture at commercial scale have yet been proven. 
+
+Because our industry
+is highly competitive and has low barriers to entry, we may lose market share to larger companies that are better equipped to weather
+a deterioration in market conditions due to increased competition. 
+
+Our
+industry is highly competitive and fragmented, subject to rapid change and has low barriers to entry. We may, in the future, compete for
+potential customers with solar and heating companies and other providers of solar power equipment or electric power. Some of these competitors
+may have significantly greater financial, technical and marketing resources and greater name recognition than we have. 
+
+We
+believe that our ability to compete depends in part on a number of factors outside of our control, including: 
+
+the ability of our competitors to hire, retain and motivate qualified personnel; 
+
+the ownership by competitors of proprietary tools to customize systems to the needs of a particular customer; 
+
+the price at which others offer comparable services and equipment; 
+
+the extent of our competitors responsiveness to customer needs; and 
+
+installation technology. 
+
+Currently, competing methods
+of hydrogen production include steam reforming of natural gas or methane, which dominates due to its easy availability and low price;
+partial oxidation of petroleum oil; steam gasification of coal; and electrolyzers powered by solar or wind energy. There can be no assurance
+that we will be able to compete successfully against current and future competitors. If we are unable to compete effectively, or if competition
+results in a deterioration of market conditions, our business and results of operations would be adversely affected. 
+
+8 
+
+Our business depends
+on proprietary technology that we may not be able to protect and may infringe on the intellectual property rights of others. 
+
+Our success will depend, in
+part, on our technology s commercial viability and on the strength of our intellectual property rights. We currently hold patents
+in the US, China and Australia, but still have several patents pending in multiple countries. There is no guarantee the pending
+patents will be granted. In addition, any agreements we enter into with our employees, consultants, advisors, customers and strategic
+partners will contain restrictions on the disclosure and use of trade secrets, inventions and confidential information relating to our
+technology may not provide meaningful protection in the event of unauthorized use or disclosure. 
+
+Third
+parties may assert that our technology, or the products we, our customers or partners commercialize using our technology, infringes upon
+their proprietary rights. We have yet to complete an infringement analysis and, even if such an analysis were available at the current
+time, it is virtually impossible for us to be certain that no infringement exists, particularly in our case where our products have not
+yet been fully developed. 
+
+We
+may need to acquire licenses from third parties in order to avoid infringement. Any required license may not be available to us on acceptable
+terms, or at all. 
+
+We
+could incur substantial costs in defending ourselves in suits brought against us for alleged infringement of another party s intellectual
+property rights as well as in enforcing our rights against others, and if we are found to infringe, the manufacture, sale and use of our
+or our customers or partners products could be enjoined. Any claims against us, with or without merit, would likely be time-consuming,
+requiring our management team to dedicate substantial time to addressing the issues presented. Furthermore, the parties bringing claims
+may have greater resources than we do. 
+
+We do not maintain
+theft or casualty insurance and only maintain modest liability and property insurance coverage and therefore, we could incur losses as
+a result of an uninsured loss. 
+
+We
+do not maintain theft, casualty insurance, or property insurance coverage. We cannot assure that we will not incur uninsured liabilities
+and losses as a result of the conduct of our business. Any such uninsured or insured loss or liability could have a material adverse effect
+on our results of operations. 
+
+If we lose key
+employees and consultants or are unable to attract or retain qualified personnel, our business could suffer. 
+
+Our success is highly dependent
+on our ability to attract and retain qualified scientific, engineering and management personnel. We are highly dependent on our CEO, Timothy
+Young, and our development team at the University of Iowa. The loss of this valuable resource could have a material adverse effect
+on our operations. There can be no assurance that they will remain associated with us. Our management s efforts will be critical
+to us as we continue to develop our technology and as we attempt to transition from a development stage company to a company with commercialized
+products and services. If we were to lose Mr. Young or the services of the development team at the university or any other key employees
+or consultants, we may experience difficulties in competing effectively, developing our technology and implementing our business strategies. 
+
+The loss of strategic
+alliances used in the development of our products and technology could impede our ability to complete our product and result in a material
+adverse effect causing the business to suffer. 
+
+We
+pursue strategic alliances with other companies in areas where collaboration can produce technological and industry advancement. We
+have entered into a sponsored research agreement with the University of Iowa which is set to terminate August 31, 2022. If we are unable
+to extend the terms of this agreement, we could suffer delays in product development or other operational difficulties which could have
+a material adverse effect on our results of operations. 
+
+9 
+
+The COVID-19 pandemic may negatively affect
+our operations. 
+
+The
+COVID-19 pandemic is having widespread, rapidly evolving, and unpredictable impacts on global society, economies, financial markets, and
+business practices. The continuing impacts of COVID-19 are highly unpredictable and could be significant, and may have an adverse effect
+on our business, operations and our future financial performance. 
+
+The
+impact of the pandemic on our business, operations and future financial performance could include, but is not limited to, that: 
+
+We may experience delays in our product development; 
+
+The rapid and broad-based shift to a remote
+working environment creates inherent productivity, connectivity, and oversight challenges; and 
+
+Volatility in the equity markets could affect
+the value of our equity to shareholders and have an impact on our ability to raise capital. 
+
+Risks relating to
+our common stock 
+
+There is a limited
+trading market for our common stock. 
+
+Our common stock is not listed
+on any national securities exchange. Accordingly, investors may find it more difficult to buy and sell our shares than if our common stock
+was traded on an exchange. Although our common stock is quoted on the OTC Pink, it is an unorganized, inter-dealer, over-the-counter market
+which provides significantly less liquidity than the Nasdaq Capital Market or other national securities exchange. Further, there is limited
+trading in our common stock. These factors may have an adverse impact on the trading and price of our common stock. 
+
+Our common stock
+could be subject to extreme volatility. 
+
+The
+trading price of our common stock may be affected by a number of factors, including events described in the risk factors set forth in
+this report, as well as our operating results, financial condition and other events or factors. In addition to the uncertainties relating
+to future operating performance and the profitability of operations, factors such as variations in interim financial results or various,
+as yet unpredictable, factors, many of which are beyond our control, may have a negative effect on the market price of our common stock.
+In recent years, broad stock market indices, in general, and smaller capitalization companies, in particular, have experienced substantial
+price fluctuations. In a volatile market, we may experience wide fluctuations in the market price of our common stock and wide bid-ask
+spreads. These fluctuations may have a negative effect on the market price of our common stock. In addition, the securities market has,
+from time to time, experienced significant price and volume fluctuations that are not related to the operating performance of particular
+companies. These market fluctuations may also materially and adversely affect the market price of our common stock. 
+
+We anticipate that our issuance of common
+stock upon conversion of outstanding convertible notes will result in dilution to our stockholders. 
+
+As of June 30, 2021, we have
+outstanding 1,271,200 in convertible notes that are convertible into common stock at variable conversion prices (see Note 5 to the financial
+statements included in this report). We anticipate that our issuance of common stock upon conversion of outstanding convertible notes
+will result in dilution to holders of our common stock, which may have a negative effect on the price of our common stock. In addition,
+as of June 30, 2021, we have outstanding warrants to purchase 94,895,239 shares of common stock and options to purchase 182,853,174 shares
+of common stock, and our issuance of shares of common stock upon exercise of outstanding warrants or options may result in additional
+dilution to our stockholders. 
+
+10 
+
+We have never paid
+common stock dividends and have no plans to pay dividends in the future, as a result our common stock may be less valuable because a return
+on an investor s investment will only occur if our stock price appreciates. 
+
+Holders
+of shares of our common stock are entitled to receive such dividends as may be declared by our Board of Directors. To date, we have paid
+no cash dividends on our shares of common stock and we do not expect to pay cash dividends on our common stock in the foreseeable future.
+We intend to retain future earnings, if any, to provide funds for operations of our business. Therefore, any return investors in our common
+stock will be in the form of appreciation in the market value of our shares of common stock, which may not occur. 
+
+Our common stock
+is subject to the SEC s penny stock rules. 
+
+Unless
+our common stock is listed on a national securities exchange, including the Nasdaq Capital Market, or we have stockholders equity
+of 5,000,000 or less and our common stock has a market price per share of less than 5.00, transactions in our common stock will be subject
+to the SEC s penny stock rules. If our common stock remains subject to the penny stock rules promulgated
+under the Securities Exchange Act of 1934, broker-dealers may find it difficult to effectuate customer transactions and trading activity
+in our securities may be adversely affected. 
+
+In
+accordance with these rules, broker-dealers participating in transactions in low-priced securities must first deliver a risk disclosure
+document that describes the risks associated with such stocks, the broker-dealer s duties in selling the stock, the customer s
+rights and remedies and certain market and other information. Furthermore, the broker-dealer must make a suitability determination approving
+the customer for low-priced stock transactions based on the customer s financial situation, investment experience and objectives.
+Broker-dealers must also disclose these restrictions in writing to the customer, obtain specific written consent from the customer, and
+provide monthly account statements to the customer. The effect of these restrictions will probably decrease the willingness of broker-dealers
+to make a market in our common stock, decrease liquidity of our common stock and increase transaction costs for sales and purchases of
+our common stock as compared to other securities. Our management is aware of the abuses that have occurred historically in the penny stock
+market. 
+
+This
+may make it more difficult for investors to dispose of our common stock and cause a decline in the market value of our stock. 
+
+Our articles of incorporation allow for
+our board to create new series of preferred stock without further approval by our stockholders, which could adversely affect the rights
+of the holders of our common stock. 
+
+Our board of directors has
+the authority to fix and determine the relative rights and preferences of preferred stock. Our board of directors has the authority to
+issue up to 5,000,000 shares of our preferred stock without further stockholder approval. As a result, our board of directors could authorize
+the issuance of a series of preferred stock that would grant to holders of preferred stock the right to our assets upon liquidation, or
+the right to receive dividend payments before dividends are distributed to the holders of common stock. In addition, our board of directors
+could authorize the issuance of a series of preferred stock that has greater voting power than our common stock or that is convertible
+into our common stock, which could decrease the relative voting power of our common stock or result in dilution to our existing stockholders. 
+
+Additional stock offerings in the future
+may dilute then-existing shareholders percentage ownership of the Company. 
+
+Given our plans and expectations
+that we will need additional capital and personnel, we anticipate that we will need to issue additional shares of common stock or securities
+convertible or exercisable for shares of common stock, including convertible preferred stock, convertible notes, stock options or warrants.
+We anticipate that our issuance of additional common stock or securities convertible into or exercisable into common stock in the future
+will dilute the percentage ownership of then current stockholders. 
+
+Item 2. Properties. 
+
+Our
+principal office address is 10 E. Yanonali St., Suite 36, Santa Barbara, CA, 93101. We believe that our current premises are sufficient
+to handle our administrative activities for the near future as adequate lab space and equipment is attained through our agreement with
+the University of Iowa. 
+
+Item 3. Legal Proceedings. 
+
+We
+are not currently a party to, nor is any of our property currently the subject of, any material legal proceedings. 
+
+Item 4. Mine Safety Disclosures. 
+
+Not Applicable. 
+
+11 
+
+PART II 
+
+Item 5. Market for Registrant s Common
+Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Our
+common stock is quoted on the OTC Pink under the symbol HYSR 
+
+Common Stock 
+
+Our
+Articles of Incorporation, as amended, authorizes the issuance of 5,000,000,000 shares of common stock, 0.001 par value per share and
+5,000,000 shares of preferred stock, par value 0.001 per share. 
+
+All
+outstanding shares of common stock are of the same class and have equal rights and attributes. The holders of our common stock are
+entitled to one vote per share on all matters submitted to a vote of our stockholders. All stockholders are entitled to share equally
+in dividends, if any, as may be declared from time to time by the Board of Directors out of funds legally available. In the event of liquidation,
+the holders of our common stock are entitled to share ratably in all assets remaining after payment of all liabilities. The stockholders
+do not have cumulative or preemptive rights. 
+
+As of October 2, 2021, our
+common stock was held by approximately 75 stockholders of record. 
+
+Dividend Policy 
+
+We
+have never declared or paid any cash dividends on our common stock. We do not anticipate paying any cash dividends to stockholders in
+the foreseeable future. In addition, any future determination to pay cash dividends will be at the discretion of the Board of Directors
+and will be dependent upon our financial condition, results of operations, capital requirements, and such other factors as the Board of
+Directors deem relevant. There are no restrictions in our articles of incorporation or bylaws that restrict us from declaring dividends. 
+
+Equity Compensation
+Plan Information 
+
+On January 23, 2019, our Board
+adopted the Company s 2019 Equity Incentive Plan (the Plan ). The stated purpose of the Plan is to promote the success
+of the Company and to increase stockholder value by providing an additional means through the grant of awards to attract, motivate, retain
+and reward selected employees and other eligible persons. The maximum number of shares of the Company s common stock that can be
+issued under the Plan is 300,000,000. 
+
+The following table sets forth information
+about our equity compensation plans as of June 30, 2021. 
+
+Plan Category 
+ Number of securities to be issued upon exercise of outstanding options, warrants and rights 
+ Weighted- average exercise prices of outstanding options, warrants and rights 
+ Number of securities remaining available for future issuance under the equity compensation plans (excluding securities reflected in column (a)) 
+
+(a) 
+ (b) 
+
+Equity compensation plans approved by security holders 
+ - 
+ - 
+ - 
+ 
+ Equity compensation plans not approved by security holders 
+ 277,748,413 
+ .0463 
+ 117,146,826 
+ 
+ Total 
+ 277,748,413 
+ .0463 
+ 117,146,826 
+
+12 
+
+Recent Sales of Unregistered
+Securities 
+
+During
+the three months ended June 30, 2021, the Company issued 364,087,931 shares of common stock upon conversion of 257,100 in principal of
+convertible notes, plus accrued interest of 88,784. 
+
+In
+connection with the foregoing, the Company relied on an exemption from registration provided under Section 4(a)(2) of the Securities Act
+of 1933, as amended for transactions not involving a public offering. 
+
+Issuer Purchases of
+Equity Securities 
+
+None. 
+
+Item 6. [Reserved.] 
+
+Item 7. Management s Discussion and Analysis
+of Financial Conditions and Results of Operations. 
+
+Certain
+statements in Management s Discussion and Analysis of Financial Condition and Results of Operations below, and elsewhere
+in this annual report, are not related to historical results, and are forward-looking statements. 
+
+Forward-looking
+statements present our expectations or forecasts of future events. You can identify these statements by the fact that they do not relate
+strictly to historical or current facts. These statements involve known and unknown risks, uncertainties and other factors that may cause
+our actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity,
+performance or achievements expressed or implied by such forward-looking statements. Forward-looking statements frequently are accompanied
+by such words such as may, will, should, could, expects, plans, 
+ intends, anticipates, believes, estimates, predicts, potential 
+or continue, or the negative of such terms or other words and terms of similar meaning. Although we believe that the expectations
+reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance, achievements,
+or timeliness of such results. Moreover, neither we nor any other person assumes responsibility for the accuracy and completeness of such
+forward-looking statements. We disclaim any obligation to publicly update these statements, or disclose any difference between actual
+results and those reflected in these statements, except as may be required under applicable law 
+
+Subsequent
+written and oral forward looking statements attributable to us or to persons acting in our behalf are expressly qualified in their entirety
+by the cautionary statements and risk factors set forth below and elsewhere in this annual report, and in other reports filed by us with
+the SEC. 
+
+You should read the following
+description of our financial condition and results of operations in conjunction with the financial statements and accompanying notes included
+in this Annual Report beginning on page F-1. 
+
+Overview 
+
+At SunHydrogen,
+we are developing a breakthrough, low-cost technology to make renewable hydrogen using sunlight and any source of water, including seawater
+and wastewater. The only byproduct of hydrogen fuel is pure water, unlike hydrocarbon fuels such as oil, coal and natural gas that release
+carbon dioxide and other contaminants into the atmosphere when used. By optimizing the science of water electrolysis at the nano-level,
+our low-cost nanoparticles mimic photosynthesis to efficiently use sunlight to separate hydrogen from water, ultimately producing environmentally
+friendly renewable hydrogen. Using our low-cost method to produce renewable hydrogen, we intend to enable a world of distributed hydrogen
+production for renewable electricity and hydrogen fuel cell vehicles. 
+
+13 
+
+Results of Operations for the Year Ended June
+30, 2021 compared to the Year Ended June 30, 2020. 
+
+Operating Expenses 
+
+For the year ended June 30,
+2021 operating expenses were 5,806,480 compared to 1,681,427 for the year ended June 30, 2020. Operating expenses consist primarily
+of research and development expenses and general and administrative expenses incurred in connection with the operation of our business.
+The net increase of 4,125,053 in operating expenses was a result of an increase in research and development expenses, professional fees,
+and salaries. 
+
+Other Income/(Expenses) 
+
+Other income and (expenses)
+for the year ended June 30, 2021 was (75,691,643) compared to 55,847,911) for the year ended June 30, 2020. The net increase of 19,843,732
+in other income and (expenses) was the result of the net change in derivative liability, and interest expense. 
+
+Net Income (Loss) 
+
+For the year ended June 30,
+2021 our net loss was (81,498,123), compared to net loss of (57,529,338) for the year ended June 30, 2020. The
+majority of the increase in net loss of 23,968,785, was related primarily to the net change in derivative estimates each year. These
+estimates are based on multiple inputs, including the market price of our stock, interest rates, our stock price, volatility, variable
+conversion prices based on market prices defined in the respective agreements and probabilities of certain outcomes based on managements 
+estimates. These inputs are subject to significant changes from period to period, therefore, the estimated fair value of the derivative
+liabilities will fluctuate from period to period, and the fluctuation may be material. The Company has not generated any revenues. 
+
+Liquidity and Capital Resources 
+
+Liquidity is the ability of
+a company to generate funds to support its current and future operations, satisfy its obligations, and otherwise operate on an ongoing
+basis. Significant factors in the management of liquidity are funds generated by operations, levels of accounts receivable and accounts
+payable and capital expenditures. 
+
+As of June 30, 2021, we had
+a working capital deficit of 80,099,103, compared to a working capital deficit of 60,459,862 as of June 30, 2020. This increase in working
+capital deficit of 19,639,241 was primarily due to an increase in change in derivative liability. 
+
+During the year ended June
+30, 2021, we raised an aggregate of 62,223,350 in registered offerings of common stock and from the exercise of warrants, and 450,000
+in private placements of convertible notes. During the year ended June 30, 2020, we raised an aggregate of 856,500 in private placements
+of convertible notes. Our ability to continue as a going concern is dependent upon our ability to raise capital and potential future revenue
+generated from operations. 
+
+Cash flow used in operating
+activities was 5,379,489 for the year ended June 30, 2021, compared to 695,784 for the year ended June 30, 2020. The increase in cash
+used by operating activities was primarily due to an increase in research and development, and office salaries. The Company has had no
+revenues. 
+
+Cash used in investing activities for the year ended June 30, 2021
+and 2020 was 167,866 and 780, respectively. The increase in investing activities was as a result of the purchase of two vans and office
+computers for a total of 213,866, and received sales proceeds of 46,000 for the sale of one of the vans for a net aggregate of 167,866
+during the current period. 
+
+Cash provided by financing
+activities during the year ended June 30, 2021 was 61,358,900 compared to 856,500 for the year ended June 30, 2020. The increase in
+cash from financing activities was due to the funds raised through registered offerings and the exercise of warrants in 2021. 
+
+14 
+
+We have historically obtained
+funding from investors, through private placements and registered offerings of equity and debt securities. Management believes that the
+Company will be able to continue to raise funds through the sale of its securities to its existing shareholders and prospective new investors
+which will provide the additional cash needed to meet the Company s obligations as they become due, and will allow the Company to
+continue to develop its core business. There can be no assurance that we will be able to continue raising the required capital for our
+operations on terms and conditions that are acceptable to us, or at all. If we are unable to obtain sufficient funds, we may be forced
+to curtail and/or cease our operation. 
+
+Off-Balance Sheet Arrangements 
+
+We
+do not have any off-balance sheet arrangements that are reasonably likely to have a current or future effect on our financial condition,
+revenues or expenses, result of operations, liquidity or capital expenditures. 
+
+Critical Accounting
+Policies 
+
+Our
+discussion and analysis of our financial condition and results of operations are based upon our financial statements, which have been
+prepared in accordance with accounting principles generally accepted in the United States of America. The preparation of these financial
+statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses,
+and related disclosures of contingent assets and liabilities. On an ongoing basis, we evaluate our estimates, including those related
+to impairment of property, plant and equipment, intangible assets, deferred tax assets and fair value computation using the Binomial lattice
+valuation pricing model. We base our estimates on historical experience and on various other assumptions, such as the trading value of
+our common stock and estimated future undiscounted cash flows, that we believe to be reasonable under the circumstances, the results of
+which form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other
+sources. Actual results may differ from these estimates under different assumptions or conditions; however, we believe that our estimates,
+including those for the above-described items, are reasonable. 
+
+Use of Estimates 
+
+In
+accordance with accounting principles generally accepted in the United States, management utilizes estimates and assumptions that affect
+the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements
+as well as the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+These estimates and assumptions relate to recording, useful lives and impairment of tangible and intangible assets, derivatives, accruals,
+income taxes, stock-based compensation expense, binomial model inputs and other factors. Management believes it has exercised reasonable
+judgment in deriving these estimates. Consequently, a change in conditions could affect these estimates. 
+
+Fair Value of Financial
+Instruments 
+
+Fair value of financial instruments,
+requires disclosure of the fair value information, whether or not recognized in the balance sheet, where it is practicable to estimate
+that value. As of June 30, 2021, the amounts reported for cash, accrued interest and other expenses, notes payables, and derivative liability
+approximate the fair value because of their short maturities. 
+
+15 
+
+Recently Adopted Accounting
+Pronouncements 
+
+Management adopted recently
+issued accounting pronouncements during the year ended June 30, 2021, as disclosed in the Notes to the financial statements included in
+this report. 
+
+Item 7A. Quantitative and Qualitative Disclosure
+About Market Risk. 
+
+Not
+required for a smaller reporting company. 
+
+Item 8. Financial Statements. 
+
+All
+financial information required by this Item is attached hereto at the end of this report beginning on page F-1 and is hereby incorporated
+by reference. 
+
+Item 9. Changes in and Disagreements with Accountants
+on Accounting and Financial Disclosure. 
+
+None. 
+
+Item 9A. Controls and Procedures. 
+
+Evaluation of Disclosure
+Controls and Procedures . 
+
+Our
+management, with the participation of our CEO and our Acting CFO, evaluated the effectiveness of our disclosure controls and procedures
+(as defined in Rule 13a-15(e) and Rule 15d-15(e) of the Exchange Act) as of the end of the period covered by this report. Based on that
+evaluation, our CEO and our Acting CFO concluded that our disclosure controls and procedures as of the end of the period covered by this
+report were effective to ensure that information required to be disclosed is made known to management and others, as appropriate,
+to allow timely decision regarding required disclosure and that the information required to be disclosed by us in reports that we file
+or submit under the Securities Exchange Act of 1934 is (i) recorded, processed, summarized and reported within the time periods specified
+in the Commission s rules and forms and (ii) accumulated and communicated to our management, including our CEO and Acting CFO, or
+persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. A controls system cannot
+provide absolute assurance, however, that the objectives of the controls system are met, and no evaluation of controls can provide absolute
+assurance that all control issues and instances of fraud, if any, within a company have been detected. 
+
+Management s
+Annual Report on Internal Control over Financial Reporting. 
+
+We
+are responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange
+Act Rule 13a-15(f). The Company s internal control over financial reporting is a process designed to provide reasonable assurance
+to our management and board of directors regarding the reliability of financial reporting and the preparation of the financial statements
+for external purposes in accordance with accounting principles generally accepted in the United States of America. 
+
+Our
+internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that,
+in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the Company; (ii) provide reasonable
+assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with accounting principles
+generally accepted in the United States of America, and that receipts and expenditures of the Company are being made only in accordance
+with authorizations of management and directors of the Company; and (iii) provide reasonable assurance regarding prevention or timely
+detection of unauthorized acquisition, use, or disposition of the Company s assets that could have a material effect on the financial
+statements. 
+
+Our
+management conducted an evaluation of the effectiveness of our internal control over financial reporting as of June 30, 2021 based on
+the criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway
+Commission (2013). Based on this evaluation, management concluded that our internal control over financial reporting was effective as
+of June 30, 2021, based on those criteria. 
+
+16 
+
+A
+control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of
+the control system are met. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute
+assurance that all control issues and instances of fraud, if any, within the Company have been detected. 
+
+This
+annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial
+reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant to the rules
+of the Securities and Exchange Commission that permanently exempt smaller reporting companies 
+
+Changes in Internal
+Controls 
+
+There
+has been no change in our internal control over financial reporting that occurred during the three months ended June 30, 2021 that has
+materially affected, or is reasonably likely to materially affect our internal control over financial reporting. 
+
+Item 9B. Other Information. 
+
+None. 
+
+Item 9C. Disclosure Regarding Foreign Jurisdictions
+that Prevent Inspections. 
+
+Not applicable. 
+
+17 
+
+PART III 
+
+Item 10. Directors, Executive Officers and
+Corporate Governance. 
+
+The
+following table sets forth information about our executive officers and directors: 
+
+Name 
+ Age 
+ Position 
+ 
+ Timothy Young 
+ 56 
+ President, CEO, Acting CFO and Chairman of the Board of Directors 
+ 
+ Mark J. Richardson 
+ 68 
+ Director 
+ 
+ Woosuk Kim 
+ 56 
+ Chief Operating Officer and Director 
+
+Timothy Young 
+President, CEO, Acting CFO and Chairman of the Board of Directors 
+
+Tim
+Young is an accomplished executive with over fifteen years of management experience in media and Internet technology companies. Mr. Young
+was appointed President, CEO and Chairman of the Company in August 2009 . Mr. Young was appointed
+Acting CFO in 2010. 
+
+Mr.
+Young oversees the Company s research and development initiatives and fundraising efforts. 
+
+From
+September 2007 through August 2009, Mr. Young was the President of Rovion, Inc., an internet media startup company, where he increased
+revenues through a channel sales strategy that included companies such as Clear Channel, Disney, CBS, and Fox Television and bolstered
+the company s technical capabilities through strategic acquisitions. Prior to Rovion, Mr. Young was employed by Time Warner Inc.
+from October 1998 through July 2007, where he served as Vice President and Regional Vice President of various divisions including America
+Online and Time Warner Cable. 
+
+Mr.
+Young s track record of success and over fifteen plus years of management and leadership experience bringing new products to the
+market, qualifies him to be a board member of the Company. 
+
+Mark J. Richardson
+ Director 
+
+Mr.
+Richardson was appointed as a director in June 2018. Mr. Richardson has been a securities lawyer since he graduated from the University
+of Michigan Law School in 1978. He practiced as an associate and partner in large law firms until 1993, when he established his own practice
+under the name Richardson Associates. He has been the principal securities counsel on a variety of equity and debt placements for
+corporations, partnerships, and real estate companies. His practice includes public and private offerings, venture capital placements,
+debt restructuring, compliance with federal and state securities laws, representation of publicly traded companies, Nasdaq filings, corporate
+law, partnerships, joint ventures, mergers, asset acquisitions, and stock purchase agreements. As a partner in a major international law
+firm in the 1980 s, Mr. Richardson participated in the leveraged buyout and recapitalization of a well-known producer of animated
+programming for children, financed by Prudential Insurance and Bear Stearns, Inc. He was also instrumental in restructuring the public
+debentures of a real estate company without resorting to a bankruptcy proceeding. From 1986 to 1993 Mr. Richardson was a contributing
+author to State Limited Partnerships Laws California Practice Guide, Prentice Hall Law and Business. Prior to receiving his Juris
+Doctor degree cum laude from the University of Michigan Law School in 1978, Mr. Richardson received a Bachelor of Science degree summa
+cum laude in Resource Economics from the University of Michigan School of Natural Resources in 1975, where he earned the Bankstrom Prize
+for academic excellence and achieved Phi Beta Kappa honors. Mr. Richardson is an active member of the Los Angeles County and California
+State Bar Associations, including the Section on Corporations, Business and Finance and the Section on Real Estate. 
+
+The Board has determined that
+Mr. Richardson is qualified to serve as a director because of his extensive experience as a practicing attorney representing small companies. 
+
+18 
+
+Woosuk Kim Chief
+Operating Officer and Director 
+
+Woosuk Kim has served as our
+chief operating officer and director since April 1, 2021. From May 2011 to December 2019, Mr. Kim was senior vice president, head of M A
+group at SK Innovation in Seoul, South Korea, responsible for expanding core businesses and developing new business opportunities in the
+renewable energy sector through cross border acquisitions and joint venture transactions. From August 2009 to May 2011 Mr. Kim was vice
+president, corporate development at SK Telekom. From August 2006 to March 2008, Mr. Kim was chief financial officer at Axon Financial
+Services in New York. From July 1998 to August 2006, Mr. Kim was executive director at Morgan Stanley in New York, responsible for developing
+and operating multi-billion dollar asset-backed securities funding platforms, investor marketing, and the corporate treasury function
+for Discover Card. He received an MBA from Cornell University and a BA from the University of Chicago. Mr. Kim s financial industry
+knowledge and experience qualify him to serve on our board of directors. 
+
+Directors are elected at our
+annual meeting of shareholders and serve for one year until the next annual meeting of shareholders or until their successors are elected
+and qualified. 
+
+Family Relationships 
+
+There
+are no family relationships among our executive officers and directors. 
+
+Board Leadership Structure
+and Role in Risk Oversight 
+
+Although
+we have not adopted a formal policy on whether the Chairman and Chief Executive Officer positions should be separate or combined, we have
+traditionally determined that it is in the best interests of the Company and its shareholders to combine these roles. Currently, our Chief
+Executive Officer also serves as Chairman of the Board. Due to the small size and early stage of the Company, we believe it is currently
+most effective to have the Chairman and Chief Executive Officer positions combined. 
+
+Involvement in Certain
+Legal Proceedings 
+
+During
+the past ten years, none of our directors, executive officers, promoters, control persons, or nominees has been: 
+
+the subject of any bankruptcy
+petition filed by or against any business of which such person was a general partner or executive officer either at the time of the bankruptcy
+or within two years prior to that time; 
+
+convicted in a criminal proceeding or is subject to a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+
+subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction or any Federal or State authority, permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any type of business, securities or banking activities; 
+
+19 
+
+found by a court of competent jurisdiction (in a civil action), the Commission or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law. 
+
+the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of (a) any Federal or State securities or commodities law or regulation; (b) any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order; or (c) any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+
+the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member. 
+
+Committees of the
+Board 
+
+Due
+to the small size of the Company and its Board of Directors, we currently have no audit committee, compensation committee or nominations
+and governance committee of our board of directors. We do not have an audit committee financial expert. 
+
+Code of Ethics 
+
+We
+have adopted a Code of Ethics that applies to all of our directors, officers and employees. A copy of the Code of Ethics can be obtained
+without charge upon request to Timothy Young, CEO and President, 10 E. Yanonali, Suite 36, Santa Barbara, CA 93101 and is also being incorporated
+by reference herein. Any waiver of the provisions of the Code of Ethics for executive officers and directors may be made only by the Board
+of Directors. Any such waivers will be promptly disclosed to our shareholders. 
+
+Changes in Nominating
+Procedures 
+
+None. 
+
+Item 11. Executive Compensation 
+
+The
+table below sets forth the compensation earned by our named executive officers during the last two fiscal years. 
+
+Name Principal Position 
+ Year 
+ Salary ) 
+ Bonus ) 
+ Stock Awards ) 
+ Option Awards ) 
+ 
+ Non-Equity 
+ Incentive Plan 
+ Compensation ) 
+ Non-Qualified 
+ Deferred 
+ Compensation 
+ Earnings ) 
+ All Other 
+ Compensation ) 
+ Total ) 
+ 
+ Timothy Young, 
+ 2021 
+ 315,125 
+ 335,000 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ 650,125 
+ 
+ CEO and Acting CFO 
+ 2020 
+ 275,000 
+ - 
+ - 
+ 757,243 
+ (1 
+ - 
+ - 
+ - 
+ 1,012,243 
+ 
+ Woosuk Kim COO (2) 
+ 2021 
+ 68,750 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+ - 
+ 68,750 
+
+(1) Calculated at fair value in
+accordance with authoritative guidance provided by the Financial Accounting Standards Board, where the value of the stock compensation
+is based upon the grant date and recognized over the vesting period. On the grant date of January 23, 2019, one-third (1/3) of the options
+vested immediately and the remainder of the options will vest in increments of 1/24 monthly. Mr. Young was granted options to purchase
+150,000,000 shares of common stock at an exercise price of 0.0099, with a fair value of 757,243. As of June 30, 2021, 7,886,435 options
+were redeemed by the Company. 
+
+(2) Mr. Kim was appointed our chief operating officer on April
+7, 2021. 
+
+20 
+
+Employment Agreements 
+
+On January 21, 2021, the
+Company entered into an employment agreement with Timothy Young, the Company s president, chief executive officer, acting
+chief financial officer, and chairman. Under the employment agreement, Mr. Young will continue to serve in such positions and will
+receive an annual base salary of 354,000, effective as of January 1, 2021, which base salary will be reviewed annually by the
+Board. Mr. Young received a 150,000 signing bonus under the employment agreement and his bonus opportunities will include up to an
+additional 100 of base salary upon meeting certain objectives to be set by the Board for each calendar year, payable at the end of
+each calendar quarter as the objectives are satisfied. In addition, upon the Company being up-listed to the Nasdaq Capital Market or
+New York Stock Exchange, Mr. Young will receive a 250,000 bonus. Mr. Young will also receive a grant of one hundred million shares
+of restricted stock units, subject to a vesting schedule to be determined by the Board. If Mr. Young is terminated without
+ cause or he resigns voluntarily for good reason, as each term is defined in the agreement, he will be
+eligible to receive a lump sum of one year of his base salary and of his bonus and 100 of all outstanding unvested equity awards
+will vest immediately, with all outstanding unexercised stock options remaining exercisable for one year form the date of
+termination. 
+
+On April 1, 2021, the Company
+entered into an employment agreement with Woosuk Kim, pursuant to which Mr. Kim serves as our chief operating officer. Pursuant to the
+employment agreement, Mr. Kim received a signing bonus of 55,000 and will receive an annual base salary of 275,000, which will be reviewed
+and may be increased annually by the board of directors. He will also be eligible for an annual bonus of 75 of his annual base salary,
+upon meeting objectives set by the board of directors. In the event the Company uplists the Company s common stock to Nasdaq or
+the New York Stock Exchange, Mr. Kim will receive an additional bonus of 150,000. In the event the Company merges with or acquires another
+company and has an increased market capitalization after the close of the transaction, Mr. Kim will receive an additional bonus of 150,000.
+Mr. Kim will receive 50,000,000 restricted stock units of the Company, subject to a 24-month vesting schedule to be determined by the
+board of directors in its discretion. The employment agreement will terminate April 1, 2023, subject to the right of either party to terminate
+the employment agreement at any time upon written notice, provided that, in the event Mr. Kim is terminated prior to such date by the
+Company, without Cause (as defined in the employment agreement) or the company is sold, merged, or there is a Change of Control (as defined
+in the employment agreement), Mr. Kim will be entitled to certain severance payments and benefits including a payment equal to his annual
+base salary that would have accrued until April 1, 2023, a payment of his bonus amount that would have accrued until April 1, 2023, and
+immediate accelerated vesting of all outstanding unvested equity awards and any other stock awards. 
+
+Outstanding Equity
+Awards at Fiscal Year-End 
+
+The following table discloses
+information regarding outstanding equity awards granted or accrued as of June 30, 2021, for our named executive officers. 
+
+Outstanding Equity Awards 
+
+Option Awards 
+ Stock Awards 
+ 
+ Name 
+ Number of Securities Underlying Unexercised (#) Exercisable 
+ Number of Securities Underlying Unexercised Options (#) Unexercisable 
+ Option Exercise Price ) 
+ Option Expiration Date 
+ Number of Shares or Units of Stock that have not Vested (#) 
+ Market Value of Shares or Units of Stock that have not Vested ) 
+ 
+ Timothy Young 
+ 142,113,565 
+ - 
+ .0099 
+ 1/23/2026 
+ - 
+ - 
+ 
+ Woosuk Kim 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Director Compensation
+
+The
+following table sets forth compensation information regarding the Company s non-employee directors in fiscal 2021: 
+
+Name 
+ Fees
+earned 
+ or paid in cash 
+ Stock 
+
+Award ) 
+ Option 
+ Awards ) 
+ Non-equity 
+ incentive 
+ plan 
+ compensation 
+ Nonqualified 
+ deferred 
+ compensation 
+ earnings 
+ Non-Equity 
+ Incentive Plan 
+ Compensation 
+ ) 
+ Non-Qualified 
+ Deferred 
+ Compensation 
+
+ Earnings ) 
+ All Other 
+ Compensation ) 
+ Total ) 
+ 
+ Mark R. Richardson 
+ 42,500 
+ 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ 42,500 
+
+21 
+
+Item 12. Security
+Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The
+following table sets forth certain information, as of October 2, 2021, concerning the number of shares of our common stock owned by: (i)
+each of our directors; (ii) each of our named executive officers; and (iii) each person or group known by us to beneficially own more
+than 5 of our outstanding shares of common stock. 
+
+We
+believe that all persons named in the table have sole voting and investment power with respect to all shares of common stock beneficially
+owned by them. 
+
+A
+person is deemed to be the beneficial owner of securities that can be acquired by him within 60 days of October 2, 2021, upon the exercise
+or conversion of options, warrants or convertible securities. Each beneficial owner s percentage ownership is determined by assuming
+that options, warrants or convertible securities that are held by him, but not those held by any other person, and which are exercisable
+within 60 days of October 2, 2021 or have been exercised and converted. 
+
+Name and address 
+ Shares of 
+ Common Stock 
+ Percentage 
+ of Common 
+ Stock (1) 
+
+Directors and Officers (2) 
+
+Timothy A. Young 
+ 133,812,947 (3) 
+ 3.2 
+ 
+ Mark R. Richardson 
+ 3,081,552 (4) 
+
+Woosuk Kim 
+ 0 
+ -- 
+ 
+ All officers and directors as a group (3 persons) 
+ 136,894,499 
+ 3.3 
+ 
+ Thunderbolt Capital LLC 
+ 
+237,899,928 (5) 
+ 5.9 
+
+Less than 1 . 
+
+(1) Based upon 4,054,676,450.
+shares issued and outstanding as of October 2, 2021. 
+
+(2) The address for each of the
+officers and directors is c/o SunHydrogen, Inc. 10 E. Yanonali, Suite 36, Santa Barbara, CA 93101 
+
+(3) Includes 125,812,947 shares
+underlying options. 
+
+(4) Represents shares underlying
+options. 
+
+(5) Based on Schedule 13G filed
+with the SEC on June 8, 2021. The address of the stockholder is 62 E Serene Ave Unit 215, Las Vegas NV 89123 
+
+Item 13. Certain Relationships and Related
+Transactions, and Director Independence. 
+
+Certain Relationships
+and Related Transactions 
+
+Since
+June 30, 2019, except as set forth below, there have been and there are no currently proposed transaction, in which we are or were a participant
+and the amount involved exceeds 120,000 or one percent of the average of our total assets at year-end for the last two completed fiscal
+years, and in which any director, executive officer, holder of more than 10 of any class of our voting securities, had or will have a
+direct or indirect material interest. 
+
+On
+September 10, 2020, the Company entered into rescission agreements with Timothy Young, the Company s chief executive officer and
+director, and Mark Richardson, the Company s director. Under the rescission agreements, the cashless option exercises of Mr. Young
+and Mr. Richardson that were completed on June 24, 2020, were rescinded and unwound in full. Under Mr. Young s option exercise,
+Mr. Young had exercised 50,000,000 options cashless at an exercise price of 0.0099 per share and was issued 39,239,130 shares of common
+stock. Under Mr. Richardson s option exercise, Mr. Young had exercised 8,055,542 options cashless at an exercise price of 0.0099
+per share and was issued 6,321,849 shares of common stock. 
+
+22 
+
+On
+March 4, 2021, the Company entered into redemption agreements with Timothy Young, the Company s chief executive officer, Mark Richardson,
+a director of the Company, and with a consultant of the Company. Pursuant to the redemption agreements, the Company redeemed an aggregate
+of 13,146,826 options to purchase shares of common stock of the Company (including 7,886,435 options held by Mr. Young with an exercise
+price of 0.0099, 2,628,812 options held by Mr. Richardson with an exercise price of 0.0099, and 2,631,579 options held by a consultant
+with an exercise price of 0.01 for a redemption price of 0.0951 per option (with respect to the options held by Mr. Young and Mr. Richardson)
+or 0.095 per option (with respect to the options held by a consultant). 
+
+On July 20, 2021, the Company
+entered into redemption agreements with Timothy Young, the Company s chief executive officer, Mark Richardson, a director of the
+Company, and with a consultant of the Company. Pursuant to the redemption agreements, the Company redeemed an aggregate of 24,887,263
+options to purchase shares of common stock of the Company (including 16,300,618 options held by Mr. Young with an exercise price of 0.0099,
+4,289,636 options held by Mr. Richardson with an exercise price of 0.0099, and 4,297,009 options held by the consultant with an exercise
+price of 0.01) for a redemption price of 0.05828 per option (with respect to the options held by Mr. Young and Mr. Richardson) or 0.05818
+per option (with respect to the options held by the consultant). 
+
+As of June 30, 2021, the Company
+owed 211,750 to Timothy Young in accrued salary. 
+
+Director Independence 
+
+The Board has determined that
+Mr. Richardson is an independent director within the meaning of NASDAQ Rule 5605(a)(2). 
+
+Item 14. Principal Accountant Fees and Services. 
+
+Audit Fees 
+
+The
+aggregate fees billable to us by our principal accounting firm during 2021 and 2020 for the audit of our annual financial statements
+and review of financial statements included in the our Form 10-Qs or services that are normally provided by the accountant in connection
+with statutory and regulatory filings or engagements for those fiscal years, were approximately
+ 34,800 and 12,000, respectively. 
+
+Audit-Related Fees 
+
+We
+incurred fees of 0 and 0 for the years ended June 30, 2021 and 2020, respectively, to our principal accountant for assurance and related
+services that are reasonably related to the performance of the audit or review of our financial statements and are not reported under
+ Audit Fees above. 
+
+Tax Fees 
+
+We
+did not incur fees for services rendered to us for tax compliance, tax advice, or tax planning by our principal accountant for the fiscal
+years ended June 30, 2021 and 2020. 
+
+All Other Fees 
+
+Our
+current policy is to not engage M K CPAS, PLLC to provide, among other things, bookkeeping services, appraisal or valuation services,
+or international audit services. The policy provides that we engage M K CPAS, PLLC to provide audit, and other assurance services,
+such as review of SEC reports or filings. 
+
+23 
+
+Item 15. Exhibits and Financial Statement Schedules. 
+
+(1) Financial statements. 
+
+The SunHydrogen, Inc. financial statements are
+included in Item 8. Financial Statements and Supplementary Data. 
+
+(2) Financial statement schedules: None. 
+
+(3) Exhibits 
+
+Exhibit 
+ 
+ Description 
+
+3.1 
+ 
+ Articles of Incorporation of filed with the Nevada Secretary of State on February 18, 2009 (incorporated by reference to S-1 filed on February 5, 2010). 
+
+3.2 
+ 
+ Articles of Amendment of Articles of Incorporation filed with the Nevada Secretary of State on September 11, 2009 (incorporated by reference to S-1 filed February 5, 2010). 
+
+3.3 
+ 
+ Articles of Amendment of Articles of Incorporation of filed with the Nevada Secretary of State on November 21, 2013 (incorporated by reference 8-K filed on November 21, 2013). 
+
+3.4 
+ 
+ Articles of Amendment of Articles of Incorporation filed with the Nevada Secretary of State on September 13, 2018. (incorporated by reference to 10-K filed on September 25, 2018). 
+
+3.5 
+ 
+ Certificate of Designation of Series B Preferred Stock (incorporated by reference to the Company s Form 8-K filed November 26, 2019) 
+
+3.6 
+ 
+ Certificate of Amendment to Articles of Incorporation (incorporated by reference to 8-K filed January 3, 2020) 
+
+3.7 
+ 
+ Articles of Merger (incorporated by reference to 8-K filed June 15, 2020) 
+
+3.8 
+ 
+ Bylaws (incorporated by reference to S-1 February 5, 2010) 
+
+3.9 
+ 
+ Amendment to Bylaws (incorporated by reference to 8-K filed March 12, 2021) 
+
+4.1 
+ 
+ Description of Registrant s Securities 
+
+10.1 
+ 
+ 2019 Equity Incentive Plan (incorporated by reference to Form S-8 on December 19, 2018) 
+
+10.2 
+ 
+ Convertible Promissory Note dated February 3, 2017 (incorporated by reference to Form 10-Q filed on May 15, 2018f) 
+
+10.3 
+ 
+ Convertible Promissory Note dated November 10, 2017 (incorporated by reference to Form 10-Q on May 15, 2018) 
+
+10.4 
+ 
+ Convertible Promissory Note dated June27, 2018 (incorporated by reference to Form 8-K filed on June 29, 2018) 
+
+10.5 
+ 
+ Convertible Promissory Note issued August 10, 2018 (incorporated by reference to Form 8-K filed on August 14, 2018) 
+
+10.6 
+ 
+ Engagement Letter between the Company and H.C. Wainwright Co., LLC (incorporated by reference to 8-K filed December 3, 2020) 
+
+10.7 
+ 
+ Form of Placement Agent Warrant (incorporated by reference to 8-K filed December 3, 2020) 
+
+24 
+
+10.8 
+ 
+ Amendment dated December 28, 2020, to Engagement Agreement between the Company and H.C. Wainwright Co., LLC (incorporated by reference to 8-K filed December 29, 2020) 
+
+10.9 
+ 
+ Purchase Agreement between the Company and GHS Investments, LLC (incorporated by reference to 8-K filed February 5, 2021) 
+
+10.10 
+ 
+ Form of Warrant (incorporated by reference to 8-K filed February 26, 2021) 
+
+10.11 
+ 
+ Form of Placement Agent Warrant (incorporated by reference to 8-K filed February 26, 2021) 
+
+10.12 
+ 
+ Cooperation Agreement between the Company and Gebr. SCHMID GmbH (incorporated by reference to 8-K filed February 22, 2021) 
+
+10.13 
+ 
+ Employment Agreement between the Company and Timothy Young (incorporated by reference to 8-K filed March 1, 2021) 
+
+10.14 
+ 
+ Employment Agreement between the Company and Woosuk Kim (incorporated by reference to 8-K filed April 7, 2021) 
+
+10.15 
+ 
+ Extension Agreement between the Company and Gebr. SCHMID GmbH 
+
+10.16 
+ 
+ Contract, dated September 1, 2021, between the Company and The University of Iowa, Iowa City 
+
+10.17 
+ 
+ Research Agreement, dated October 1, 2021, between the Company and Regents of the University of Michigan 
+
+14.1 
+ 
+ Code of Ethics (incorporated by reference to 10-K filed on September 28, 2012). 
+
+16.1 
+ 
+ Letter from Liggett Webb, P.A. (incorporated by reference to 8-K filed January 7, 2020) 
+
+23.1 
+ 
+ Consent of M K CPAS, LLC 
+
+31.1 
+ 
+ Certification by Chief Executive Officer and Acting Chief Financial Officer pursuant to Sarbanes-Oxley Section 302 
+
+32.1 
+ 
+ Certification by Chief Executive Officer and Acting Chief Financial Officer pursuant to 18 U.S.C. Section 1350 
+
+101 
+ 
+ Inline XBRL Document Set for the consolidated financial statements and accompanying notes in Part II, Item 8, Financial Statements and Supplementary Data of this Annual Report on Form 10-K. 
+
+104 
+ 
+ Inline XBRL for the cover page of this Annual Report on Form 10-K, included in the Exhibit 101 Inline XBRL Document Set. 
+
+Filed herewith. 
+
+Furnished herewith. 
+
+Indicates management contract or compensatory plan or arrangement. 
+
+25 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+SUNHYDROGEN, INC. 
+
+Date: October 8, 2021 
+ By: 
+ /s/ Timothy Young 
+
+Timothy Young 
+ Chief Executive Officer, Acting Chief 
+ Financial Officer, and Chairman 
+ (principal executive, financial and 
+ accounting officer) 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and
+on the dates indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Timothy Young 
+ 
+ Chief Executive Officer, President 
+ 
+ October 8, 2021 
+ 
+ Timothy Young 
+
+(Principal Executive Officer) Acting Chief Financial Officer 
+ (Principal Financial and Accounting Officer), and Chairman 
+
+/s/ Mark R. Richardson 
+ 
+ Director 
+ 
+ October 8, 2021 
+ 
+ Mark R. Richardson 
+
+/ s/ Woosuk Kim 
+ 
+ Director 
+ 
+ October 8, 2021 
+ 
+ Woosuk Kim 
+
+26 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+To the Board of Directors and Stockholders 
+
+SunHydrogen, Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets
+of SunHydrogen, Inc. (the Company) as of June 30, 2021 and 2020, and the related statements of operations, shareholders deficit,
+and cash flows for the years then ended, and the related notes (collectively referred to as the "financial statements"). In
+our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of June 30, 2021
+and 2020, and the results of its operations and its cash flows for the years then ended in conformity with accounting principles generally
+accepted in the United States of America. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB . 
+
+We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audits also included evaluating the accounting principles used and the significant estimates made
+by management, as well as evaluating the overall presentation of the financial statements. We believe our audits provide a reasonable
+basis for our opinion. 
+
+Critical Audit Matter 
+
+The critical audit matter communicated below is
+a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the
+audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially
+challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the
+financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions
+on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+Capital Stock and Other Equity Accounts
+
+As discussed in Note 4, the Company issues stock
+options and warrants as stock-based compensation to employees and non-employees. 
+
+Auditing management s calculation of the
+fair value of the options and warrants issued can be a significant judgment given the fact that the Company uses management estimates
+on various inputs to the calculations. 
+
+To test
+the valuation of the warrants and options, we evaluated management s significant judgments and estimates. Significant judgements
+and estimates related to the valuation of the warrants and options include fair valuing of warrants and options which involve significant
+estimates of volatility, grant terms, risk-free rates and the use of historical trading data. We evaluated management s conclusions
+regarding their fair values and reviewed support for the significant inputs used in the valuation model, as well as assessing the model
+for reasonableness. In addition, we evaluated the Company s disclosure in relation to this matter included in Notes 4 to the financial
+statements 
+
+/s/ M K CPAS, PLLC 
+
+We have served as the Company s auditor since 2020 
+
+Houston, TX 
+
+October 8, 2021 
+
+F- 1 
+
+SUNHYDROGEN, INC. 
+
+BALANCE SHEETS 
+
+June 30, 
+2021 
+
+June 30, 
+2020 
+
+ASSETS 
+
+CURRENT ASSETS 
+
+Cash and cash equivalent 
+
+Prepaid expenses 
+
+- 
+
+TOTAL CURRENT ASSETS 
+
+PROPERTY EQUIPMENT 
+
+Computers and peripherals 
+
+Vehicle 
+
+- 
+
+Less: accumulated depreciation 
+
+() 
+
+() 
+
+NET PROPERTY AND EQUIPMENT 
+
+OTHER ASSETS 
+
+Domain, net of amortization of and , respectively 
+
+Trademark, net of amortization of and , respectively 
+
+Patents, net of amortization of and , respectively 
+
+TOTAL OTHER ASSETS 
+
+TOTAL ASSETS 
+
+LIABILITIES AND SHAREHOLDERS DEFICIT 
+
+CURRENT LIABILITIES 
+
+Accounts payable and other payable 
+
+Accrued expenses 
+
+- 
+
+Accrued expenses, related party 
+
+Accrued interest on convertible notes 
+
+Derivative liability 
+
+Convertible promissory notes, net of debt discount of and , respectively 
+
+TOTAL CURRENT LIABILITIES 
+
+LONG TERM LIABILITIES 
+
+Convertible promissory notes, net of debt discount of and , respectively 
+
+TOTAL LONG TERM LIABILITIES 
+
+TOTAL LIABILITIES 
+
+COMMITMENTS AND CONTINGENCIES (SEE NOTE 9) 
+
+- 
+
+- 
+
+SHAREHOLDERS DEFICIT 
+
+Preferred Stock, par value; authorized preferred shares, no shares issued or outstanding 
+
+- 
+
+- 
+
+Common Stock, par value; authorized common shares and shares issued and outstanding, respectively 
+
+Additional Paid in Capital 
+
+Accumulated deficit 
+
+() 
+
+() 
+
+TOTAL SHAREHOLDERS DEFICIT 
+
+() 
+
+() 
+
+TOTAL LIABILITIES AND SHAREHOLDERS DEFICIT 
+
+The accompanying notes are an integral part of these audited financial
+statements 
+
+F- 2 
+
+SUNHYDROGEN, INC. 
+
+STATEMENTS OF OPERATIONS 
+
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Year Ended 
+
+June 30, 
+2021 
+
+June 30, 
+2020 
+
+REVENUE 
+
+- 
+
+- 
+
+OPERATING EXPENSES 
+
+General and administrative expenses 
+
+Research and development cost 
+
+Depreciation and amortization 
+
+TOTAL OPERATING EXPENSES 
+
+LOSS FROM OPERATIONS BEFORE OTHER INCOME (EXPENSES) 
+
+() 
+
+() 
+
+OTHER INCOME/(EXPENSES) 
+
+Other income/(expenses) 
+
+() 
+ 
+ Gain on sale of asset 
+
+- 
+
+Gain (Loss) on change in derivative liability 
+
+() 
+
+() 
+ 
+ Interest expense 
+
+() 
+
+() 
+
+TOTAL OTHER INCOME (EXPENSES) 
+
+() 
+
+() 
+
+NET INCOME (LOSS) 
+
+() 
+
+COMMON STOCK WARRANTS DEEMED DIVIDENDS 
+
+() 
+
+- 
+
+NET LOSS ATTRIBUTABLE TO COMMON SHAREHOLDERS 
+
+() 
+
+() 
+
+BASIC AND DILUTED LOSS PER SHARE 
+
+() 
+
+() 
+
+WEIGHTED-AVERAGE COMMON SHARES OUTSTANDING 
+
+BASIC AND DILUTED 
+
+The accompanying notes are an integral part of these audited financial
+statements 
+
+F- 3 
+
+SUNHYDROGEN, INC. 
+
+STATEMENTS OF SHAREHOLDERS DEFICIT 
+
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+YEAR ENDED JUNE 30, 2020 
+
+Additional 
+
+Preferred stock 
+ Common stock 
+ Paid-in 
+ Accumulated 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Total 
+ 
+ Balance at June 30, 2019 
+ -
+ 
+ -
+
+Issuance of common stock for conversion of debt and accrued interest 
+ - 
+ -
+
+-
+
+Issuance of common stock for services 
+ - 
+ -
+
+-
+
+Stock based compensation expense 
+ - 
+ -
+ 
+ - 
+ -
+
+-
+
+Net Loss 
+ - 
+ -
+ 
+ - 
+ -
+ 
+ -
+
+Balance at June 30, 2020 
+ -
+ 
+ -
+
+YEAR ENDED JUNE 30, 2021 
+
+Additional 
+
+Preferred stock 
+ Common stock 
+ Paid-in 
+ Accumulated 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Total 
+ 
+ Balance at June 30, 2020 
+ -
+ 
+ -
+
+Issuance of common stock for cash purchase agreements 
+ - 
+ - 
+
+-
+
+Issuance of common stock for cash purchase of warrants 
+ - 
+ -
+
+-
+
+Issuance of common stock for conversion of debt and accrued interest 
+ - 
+ -
+
+-
+
+Issuance of common stock for services 
+ - 
+ -
+
+-
+
+Issuance of common stock warrants deemed dividends 
+ - 
+ -
+ 
+ - 
+ -
+
+-
+
+Stock based compensation expense 
+ - 
+ -
+ 
+ - 
+ -
+
+-
+
+Buyback of options by Company 
+ - 
+ -
+ 
+ - 
+ -
+
+-
+
+Net Loss 
+ - 
+ -
+ 
+ - 
+ -
+ 
+ -
+
+Balance at June 30, 2021 
+ -
+ 
+ -
+
+The accompanying notes are an integral part of these audited financial
+statements 
+
+F- 4 
+
+SUNHYDROGEN, INC. 
+
+STATEMENTS OF CASH FLOWS 
+
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Years Ended 
+
+June 30, 
+2021 
+
+June 30, 
+2020 
+
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net Income (loss) 
+
+() 
+
+() 
+ 
+ Adjustment to reconcile net income (loss) to net cash (used in) provided by operating activities 
+
+Depreciation amortization expense 
+
+Stock based compensation expense 
+
+Stock issued for services 
+
+Net Loss on change in derivative liability 
+
+Amortization of debt discount recorded as interest expense 
+
+Gain on sale of van 
+
+() 
+
+Net loss on write-off of patent cost 
+
+- 
+
+Change in assets and liabilities : 
+
+Prepaid expense 
+
+Accounts payable 
+
+Accrued expenses 
+
+Accrued interest on convertible notes 
+
+NET CASH USED IN OPERATING ACTIVITIES 
+
+() 
+
+() 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Proceeds from sale of van 
+
+- 
+
+Purchase of tangible assets 
+
+() 
+
+() 
+
+NET CASH (USED IN) PROVIDED BY INVESTING ACTIVITIES: 
+
+() 
+
+() 
+
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+
+Buyback of stock options from related parties 
+
+() 
+
+- 
+
+Net proceeds from common stock purchase agreements 
+
+- 
+
+Cash Payoff of convertible notes 
+
+() 
+
+- 
+
+Proceeds from convertible debt 
+
+NET CASH PROVIDED BY FINANCING ACTIVITIES 
+
+NET INCREASE (DECREASE) IN CASH 
+
+CASH, BEGINNING OF YEAR 
+
+CASH, END OF YEAR 
+
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION 
+
+Interest paid 
+
+Taxes paid 
+
+- 
+
+- 
+
+SUPPLEMENTAL DISCLOSURES OF NON CASH TRANSACTIONS 
+
+Fair value of common stock upon conversion of convertible notes , accrued interest and other fees 
+
+Fair value of common stock issued for services 
+
+Fair value of convertible notes at issuance 
+
+Issurance of common stock purchase warrants deemed dividends 
+
+- 
+
+The accompanying notes are an integral part of these audited financial
+statements 
+
+F- 5 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE 30, 2021 AND 2020 
+
+, compared to an operating loss of approximately in the
+prior year ended June 30, 2020. The increase in operating loss consisted primarily of the non-cash change in derivative liability fair
+value. 
+
+million of proceeds for the purchase of common stock and warrants of the
+Company. The proceeds were used for general and administration expenses, and the cost of research and development. The research and development
+transaction is further discussed in Note 8 Commitments and Contingencies. 
+
+million as of June 30, 2021 will enable it to meet its obligations for twelve months from the date these financial statements
+are available to be issued. 
+
+. The Company has not experienced any losses in such accounts and believes it is not exposed to any significant
+credit risk in these accounts. 
+
+F- 6 
+
+SUNHYDROGEN,
+INC. 
+
+NOTES
+TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE
+30, 2021 AND 2020 
+
+2. SUMMARY
+OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+
+years 
+
+Less accumulated amortization 
+
+Domain-net 
+
+Trademark-gross 
+ years 
+
+Less accumulated amortization 
+
+Domain-net 
+
+Patents-gross 
+ years 
+
+Write-off of patent cost 
+ 
+ -
+
+Less accumulated amortization 
+
+Patents-net 
+
+and for the years ended June 30, 2021 and 2020, respectively. 
+
+Years 
+ 
+ Vehicle 
+ Years 
+
+. On April 19, 2021, the Company sold a vehicle
+for cash of , with a book value of , and recognized a gain of . 
+
+and , respectively. 
+
+outstanding stock options, outstanding
+warrants, and convertible debt of , which is convertible into shares of common stock. The stock options, warrants and convertible
+debt were not included in the calculation of net earnings per share, because their impact was antidilutive. 
+
+F- 7 
+
+SUNHYDROGEN,
+INC. 
+
+NOTES
+TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE
+30, 2021 AND 2020 
+
+2. SUMMARY
+OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+
+outstanding stock options, and convertible
+debt of , which is convertible into shares of common stock. The stock options and convertible debt were not included in the
+calculation of net earnings per share, because their impact was antidilutive. 
+
+() 
+
+Basic weighted average number of common shares outstanding (Denominator) 
+
+Diluted weighted average number of common shares outstanding (Denominator) 
+
+shares set aside and reserved
+for issuance pursuant to the Plan. The purpose of the Plan is to promote the success of the Corporation and to increase stockholder value
+by providing an additional means through the grant of awards to attract, motivate, retain and reward selected employees and other eligible
+persons. The awards are performance-based compensation that are granted under the Plan as incentive stock options (ISO) or nonqualified
+stock options. The per share exercise price for each option shall not be less than of the fair market value of a share of common
+stock on the date of grant of the option. The Company periodically issues stock options and warrants to employees and non-employees in
+non-capital raising transactions for services and for financing cost. The Company accounts for stock option grants issued and vesting
+to employees and non-employees in accordance with the authoritative guidance of the Financial Accounting Standards Board whereas the
+value of the stock compensation is based upon the measurement date as determined at either a) the date at which a performance commitment
+is reached, or b) at the date at which the necessary performance to earn the equity instruments is complete. Non-employee stock-based
+compensation charges generally are amortized over the vesting period on a straight-line basis. In certain circumstances where there are
+no future performance requirements by the non-employee, option grants are immediately vested, and the total stock-based compensation
+charge is recorded in the period of the measurement date. The Company granted options to purchase shares of common stock
+options on January 23, 2019. During the year ended June 30, 2021, the Company redeemed stock options. 
+
+stock options issued, and
+a reserve of . 
+
+F- 8 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE 30, 2021 AND 2020 
+
+2. SUMMARY
+OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+
+- 
+
+- 
+
+Derivative liability measured at fair value at 6/30/20 
+
+- 
+
+- 
+
+Fair value of derivative liabilities at issuance 
+
+Gain on change in derivative liability 
+
+Balance as of June 30, 2020 
+
+Fair value of derivative liabilities issued 
+
+Loss on change in derivative liability 
+
+Balance as of June 30, 2021 
+
+and for the
+years ended June 30, 2021 and 2020, respectively. 
+
+F- 9 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE 30, 2021 AND 2020 
+
+2. SUMMARY
+OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+
+F- 10 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE 30, 2021 AND 2020 
+
+shares of common stock under purchase agreements for cash at prices ranging
+from - per share for aggregate net proceeds of . 
+
+shares of common stock upon exercise of warrants at an exercise price of
+ per share for gross proceeds of . 
+
+shares of common stock upon conversion of convertible notes in the amount
+of of principal, plus accrued interest of and other fees of based upon conversion prices ranging from 
+- per share. All note conversions were performed per the terms of their respective agreements and therefore no gain or loss
+on the conversion was recorded. 
+
+shares of common stock for services rendered at fair value prices of 
+- per share in the aggregate amount of . 
+
+shares of common stock upon conversion of convertible notes in the amount
+of in principal, plus accrued interest of and other fees of based upon conversion prices ranging from 
+- . 
+
+shares of common stock for services rendered at fair value prices of 
+- per share in the aggregate amount of . 
+
+shares of common stock. Each option expires on the date specified in the option agreement, which date is
+not later than the fifth (5 th anniversary from the grant date of the options. 
+
+shares of common stock. 
+
+F- 11 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE 30, 2021 AND 2020 
+
+4. OPTIONS
+ (Continued) 
+
+Granted 
+ -
+
+Exercised 
+ -
+ 
+ -
+ 
+ -
+ 
+ -
+
+Forfeited 
+ -
+ 
+ -
+
+-
+
+Buyback of options 
+
+-
+ 
+ -
+
+Outstanding, end of period 
+
+Exercisable at the end of period 
+
+of the Company s stock options for a total redemption
+price of . 
+
+- 
+
+Stock volatility factor 
+ - 
+
+Weighted average expected option life 
+ years 
+ years 
+ 
+ Expected dividend yield 
+
+and , respectively. 
+
+million shares of common stock with an exercise price of per share pursuant to a securities purchase
+agreement. The warrants were exercisable upon issuance. During the year ended June 30, 2021, the warrants were exercised for aggregate
+gross proceeds of . As of June 30, 2021, all of the December 3, 2020 warrants were exercised. 
+
+million warrants issued on December 3, 2020, were exercised for aggregate gross proceeds of million,
+and as consideration for the exercise the investor was issued additional warrants to purchase million shares of common stock at
+an exercise price of . The million warrants were deemed to be a dividend and were estimated at fair value of 
+using the Black-Scholes valuation model. During the year ended June 30, 2021, the warrants were exercised for aggregate gross proceeds
+of . As of June 30, 2021, all of the December 2020 warrants were exercised. 
+
+shares of common stock under securities purchase agreements at exercise prices ranging
+from - per share. The warrants were estimated at fair value on the date of issuance as calculated using the Black-Scholes
+valuation model. The estimated fair value of the warrants was , which was recognized in the financial statements as of June
+30, 2021. The warrants can be exercised over a (3) period. As of June 30, 2021, all of the warrants were exercisable. 
+
+F- 12 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE 30, 2021 AND 2020 
+
+4. OPTIONS
+ (Continued) 
+
+Exercised 
+
+Forfeited/Expired 
+ -
+ 
+ -
+
+Outstanding, end of year 
+
+Exercisable at the end of year 
+
+are summarized as follows: 
+
+Less current portion 
+
+Total long-term liabilities 
+
+2023 
+
+2024 
+
+2025 
+
+in convertible promissory notes had a remaining debt discount of , leaving a net balance of . 
+
+convertible promissory note on January 28, 2016 (the Jan 2016 Note in the aggregate principal amount
+of up to . Upon execution of the convertible promissory note, the Company received a tranche of . The Company received
+additional tranches in the amount of for an aggregate sum of . The Jan 2016 Note matures twelve (12) months from the
+effective date of the note. On If the Company failed to deliver shares in accordance with the timeframe of three (3) business days of the receipt of a
+notice of conversion, the lender, at any time prior to selling all of those shares, had the right to rescind any portion, in whole or
+in part of that particular conversion attributable to the unsold shares and have the rescinded conversion amount returned to the principal
+sum with the rescinded conversion shares returned to the Company. In no event shall the lender be entitled to convert any portion of
+the Jan 2016 Note such that would result in beneficial ownership by the lender and its affiliates of more than of the outstanding
+shares of common stock of the Company. In addition, for each conversion, in the event that shares are not delivered by the fourth business
+day (inclusive of the day of conversion), a penalty of per day would be assessed for each day after the third business day (inclusive
+of the day of the conversion) until the shares are delivered. During the year ended June 30, 2021, the Company issued common
+shares upon conversion of principal in the amount of , plus interest of , and paid off the balance of Note in the amount
+of 64,450 for cash. The balance of the Jan 2016 Note as of June 30, 2021 was . 
+
+F- 13 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE 30, 2021 AND 2020 
+
+5. CONVERTIBLE
+PROMISSORY NOTES (Continued) 
+
+convertible
+promissory note on February 3, 2017 (the Feb 2017 Note in the aggregate principal amount of up to . Upon execution
+of the convertible promissory note, the Company received a tranche of . The Company received additional tranches in the amount
+of for an aggregate sum of . The Feb 2017 Note had a maturity date of February 3, 2018, the investor extended the Feb
+2017 Note for an additional sixty (60) months from the effective date of the note, which matures on February 3, 2022. During the year ended
+on June 30, 2021, the Company issued shares of common stock upon conversion of principal in the amount of , plus
+accrued interest of . The balance of the Feb 2017 Note as of June 30, 2021 was . 
+
+convertible promissory note on November 9, 2017 (the Nov 2017 Note in the aggregate principal amount
+of up to . Upon execution of the convertible promissory note, the Company received a tranche of . The Company received
+additional tranches in the amount of for an aggregate sum of . The Nov 2017 Note matures twelve (12) months from the
+effective dates of each respective tranche. The Nov 2017 Note matures on November 9, 2018, with an automatic extension of sixty (60)
+months from the effective date of each tranche. If the Company fails to deliver shares in accordance with the timeframe of three (3) business days of the receipt of a
+notice of conversion, the lender, at any time prior to selling all of those shares, may rescind any portion, in whole or in part of that
+particular conversion attributable to the unsold shares and have the rescinded conversion amount returned to the principal sum with the
+rescinded conversion shares returned to the Company. In no event shall the lender be entitled to convert any portion of the Nov 2017
+Note such that would result in beneficial ownership by the lender and its affiliates of more than of the outstanding shares of
+common stock of the Company. In addition, for each conversion, in the event that shares are not delivered by the fourth business day
+(inclusive of the day of conversion), a penalty of per day shall be assessed for each day after the third business day (inclusive
+of the day of the conversion) until the shares are delivered. During the year ended June 30, 2021, the Company issued shares
+of common stock upon conversion of principal in the amount of , plus accrued interest of . The balance of the Nov 2017
+Note as of June 30, 2021 was . 
+
+convertible promissory note on June 27, 2018 (the Jun 2018 Note in the aggregate principal amount
+of up to . Upon execution of the convertible promissory note, the Company received a tranche of . On October 9, 2018 and
+June 24, 2021, the Company received another tranche of and respectively, for a total aggregate of as of June
+30, 2021. If the Company fails to deliver shares
+in accordance with the timeframe of three (3) business days of the receipt of a notice of conversion, the lender, at any time prior to
+selling all of those shares, may rescind any portion, in whole or in part of that particular conversion attributable to the unsold shares
+and have the rescinded conversion amount returned to the principal sum with the rescinded conversion shares returned to the Company.
+In no event shall the lender be entitled to convert any portion of the Jun 2018 Note such that would result in beneficial ownership by
+the lender and its affiliates of more than of the outstanding shares of common stock of the Company. In addition, for each conversion,
+in the event, that shares are not delivered by the fourth business day (inclusive of the day of conversion), a penalty of per
+day shall be assessed for each day after the third business day (inclusive of the day of the conversion) until the shares are delivered.
+The Company recorded amortization of debt discount, which was recognized as interest expense in the amount of during the year
+ended June 30, 2021. The balance of the Jun 2018 Note as of June 30, 2021 was . 
+
+F- 14 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE 30, 2021 AND 2020 
+
+5. CONVERTIBLE
+PROMISSORY NOTES (Continued) 
+
+convertible promissory note on August 10, 2018 (the Aug 2018 Note in the aggregate principal amount
+of up to . The Aug 2018 Note may be converted into shares of the Company s common
+stock at a conversion price of the lesser of a) per share or b) sixty-one (61 percent of the lowest trading price per common
+stock recorded on any trade day after the effective date. The conversion feature of the Aug 2018 Note was considered a derivative in
+accordance with current accounting guidelines because of the reset conversion features of the Note. The balance of the Aug 2018 Note
+as of June 30, 2021 was . 
+
+convertible promissory note (the Jan 2020 Note to an investor (the Jan
+2020 Note in the principal amount of . The Company received funds of , less other fees of . The conversion feature of the Jan 2020 Note was considered a derivative in accordance with current
+accounting guidelines because of the reset conversion features of the Jan 2020 Note. During the year ended June 30, 2021, the Company
+issued shares of common stock upon conversion of principal in the amount of , plus accrued interest of , and
+other fees of . The Company recorded amortization of debt discount, which was recognized as interest expense in the amount of 
+during the year ended June 30, 2021. The Jan 2020 Note was fully converted as of June 30, 2021. 
+
+. The Company received funds of , less other fees of . The conversion feature of the Feb 2020 Note was considered a derivative in accordance with current
+accounting guidelines because of the reset conversion features of the Feb 2020 Note. During the year ended June 30, 2021, the Company
+issued shares of common stock upon conversion of principal in the amount of , plus accrued interest of , and other
+fees of . The Company recorded amortization of debt discount, which was recognized as interest expense in the amount of during
+the year ended June 30, 2021. The Feb 2020 Note was fully converted as of June 30, 2021. 
+
+. The Company received funds of , less other fees of . The conversion feature of the Mar 2020 Note was considered a derivative in accordance with current accounting guidelines
+because of the reset conversion features of the Mar 2020 Note. During the year ended June 30, 2021, the Company issued shares
+of common stock upon conversion of principal in the amount of , plus accrued interest of , and other fees of . The Company
+recorded amortization of debt discount, which was recognized as interest expense in the amount of during the year ended June
+30, 2021. The Mar 2020 Note was fully converted as of June 30, 2021. 
+
+. The Company received funds of , less other fees of . The
+conversion feature of the April 2020 Note was considered a derivative in accordance with current accounting guidelines because of the
+reset conversion features of the April 2020 Note. The Company recorded amortization of debt discount, which was recognized as interest
+expense in the amount of during the year ended June 30, 2021. During the year ended June 30, 2021, the Company issued 
+shares of common stock upon conversion of principal in the amount of , plus accrued interest of , and other fees of .
+The April 2020 Note was fully converted as of June 30, 2021. 
+
+F- 15 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE 30, 2021 AND 2020 
+
+5. 
+ CONVERTIBLE PROMISSORY NOTES (Continued) 
+
+unsecured convertible note (the Apr 2020 Note in the aggregate principal amount of , of which the Company received
+ upon execution, and an additional tranche of , for an aggregate of . The Apr 2020 Note matures twelve (12) months
+from the effective dates of each respective tranche. The Apr 2020 Note matured on April 15, 2021, and the investor extended the Apr 2020
+Note for an additional sixty (60) months from the effective date of the note, which matures on April 15, 2025. If the Company fails to deliver shares in accordance
+with the timeframe of four (4) business days of the receipt of a notice of conversion, the lender, at any time prior to selling all of
+those shares, may rescind any portion, in whole or in part of that particular conversion attributable to the unsold shares and have the
+rescinded conversion amount returned to the principal sum with the rescinded conversion shares returned to the Company. In no event shall
+the lender be entitled to convert any portion of the Apr 2020 Note such that would result in beneficial ownership by the lender and its
+affiliates of more than of the outstanding shares of common stock of the Company. In addition, for each conversion, in the event
+that shares are not delivered by the fourth business day (inclusive of the day of conversion), a penalty of per day shall be assessed
+for each day after the fourth business day (inclusive of the day of the conversion) until the shares are delivered. The conversion feature
+of the April 2020 Note was considered a derivative in accordance with current accounting guidelines because of the reset conversion features
+of the Apr 2020 Note. The Company recorded amortization of debt discount, which was recognized as interest expense in the amount of 
+during the year ended June 30, 2021. The balance of the Apr 2020 Note as of June 30, 2021 was . 
+
+. The Company received funds of , less other fees of . The May 2020 Note had a maturity date of .
+ The conversion
+feature of the May 2020 Note was considered a derivative in accordance with current accounting guidelines because of the reset conversion
+features of the May 2020 Note. The Company recorded amortization of debt discount, which was recognized as interest expense in the amount
+of during the year ended June 30, 2021. During the year ended June 30, 2021, the Company issued shares of common stock
+upon conversion of principal in the amount of , plus accrued interest of , and other fees of . The May 2020 Note was
+fully converted as of June 30, 2021. 
+
+. The Company received funds of , less other fees of . The
+conversion feature of the Jun 2020 Note was considered a derivative in accordance with current accounting guidelines because of the reset
+conversion features of the Jun 2020 Note. The Company recorded amortization of debt discount, which was recognized as interest expense
+in the amount of . During the year ended June 30, 2021 the Company issued shares of common stock upon conversion of
+principal in the amount of , plus accrued interest of , and other fees of .The Jun 2020 Note was fully converted as
+of June 30, 2021. 
+
+F- 16 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE 30, 2021 AND 2020 
+
+6. DERIVATIVE
+LIABILITES (Continued) 
+
+, based upon the Binomial lattice formula. We recorded
+the full value of the derivative as a liability at issuance with an offset to valuation discount, which will be amortized over the life
+of the Notes. 
+
+in the statement of operations due to the change in fair value of the remaining notes and warrants
+issued, for the year ended June 30, 2021. At June 30, 2021, the fair value of the derivative liability was . 
+
+- 
+
+Stock volatility factor 
+
+- 
+
+Weighted average expected option life 
+
+months - year 
+
+Expected dividend yield 
+
+, which expires in future years. No tax benefit
+has been reported in the June 30, 2021 and 2020 financial statements, since the potential tax benefit is offset by a valuation allowance
+of the same amount. 
+
+Non-deductible expenses 
+
+() 
+ 
+ Depreciation and amortization 
+
+() 
+
+Related party accrual 
+
+- 
+
+() 
+ 
+ Gain on abandoned asset 
+
+Valuation Allowance 
+
+-( 
+
+Income tax expense 
+
+- 
+
+- 
+
+F- 17 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE 30, 2021 AND 2020 
+
+7. 
+ DEFERRED
+ TAX BENEFIT (Continued) 
+
+Research and development 
+
+Related party accrual 
+
+Deferred tax liabilities: 
+
+Depreciation and amortization 
+
+Less Valuation Allowance 
+
+Income tax expense 
+ -
+ 
+ -
+
+deposit, with the balance of the payments and the stock issuances due
+upon completion of a deliverable. 
+
+F- 18 
+
+SUNHYDROGEN, INC. 
+
+NOTES TO FINANCIAL STATEMENTS - AUDITED 
+
+JUNE 30, 2021 AND 2020 
+
+, which is recorded in accrued expenses, related
+party. The Company began accruing the salary in 2011 and used the funds for operating expenses. The CEO will be paid during the next fiscal
+year. 
+
+stock options for a total redemption price of . 
+
+shares of common stock to a related party for services rendered at fair value prices of - per share
+in the aggregate amount of . 
+
+shares of common stock to a related party for services rendered at fair value prices of - per
+share in the aggregate amount of . 
+
+stock options for a total redemption price of . 
+
+shares of common stock upon conversion of principal in the amount of , plus
+accrued interest of . 
+
+from the Company. The research agreement may be terminated by either party upon sixty (60) day prior
+written notice or a material breach or default, which is not cured within 90 days of receipt of a written notice of such breach. This
+agreement was signed by the Company on September 13, 2021. 
+
+, from the Company. The research agreement may be terminated by either party upon ninety (90) day prior
+written notice or a material breach or default, which is not cured within 90 days of receipt of a written notice of such breach. This
+agreement was signed by the Company on September 23, 2021. 
+
+F-19 
+
+<EX-4.1>
+ 2
+ f10k2021ex4-1_sunhydro.htm
+ DESCRIPTION OF REGISTRANT'S SECURITIES
+
+Exhibit 4.1 
+
+DESCRIPTION OF THE REGISTRANT S SECURITIES 
+
+ REGISTERED PURSUANT TO SECTION 12 OF THE 
+
+ SECURITIES EXCHANGE ACT OF 1934 
+
+SunHydrogen, Inc. (the Company has one class of securities registered under Section 12 of the Securities Exchange Act of 1934, as amended, which is the Company s
+common stock, 0.001 par value per share. 
+
+Description of Common Stock 
+
+The authorized capital
+stock of the Company consists of 5,000,000,000 shares of common stock at a par value of 0.001 per share, and 5,000,000 shares of blank
+check preferred stock, par value 0.001. 
+
+Holders of the Company s common stock are entitled to one vote for each share on all matters submitted to a stockholder vote. Holders
+of common stock do not have cumulative voting rights. Therefore (subject to the rights of the holders of any outstanding preferred
+stock), holders of a majority of the shares of common stock voting for the election of directors can elect all of the directors to our
+Board of Directors. Holders of the Company s common stock representing a majority of the voting power of the Company s
+capital stock issued, outstanding and entitled to vote, represented in person or by proxy, are necessary to constitute a quorum at any
+meeting of stockholders. A vote by the holders of a majority of the voting power of the stockholders is required to effectuate certain
+fundamental corporate changes such as a merger or an amendment to the Company s articles of incorporation. 
+
+Holders of the Company s common stock are
+entitled to share in all dividends that the Board of Directors, in its discretion, declares from legally available funds. In the
+event of a liquidation, dissolution or winding up, each outstanding share entitles its holder to participate pro rata in all assets that
+remain after payment of liabilities and after providing for each class of stock, if any, having preference over the common stock. The
+Company s common stock has no pre-emptive rights, no conversion rights, and there are no redemption provisions applicable to the
+Company s common stock. 
+
+</EX-4.1>
+
+<EX-10.15>
+ 3
+ f10k2021ex10-15_sunhydro.htm
+ EXTENSION AGREEMENT BETWEEN THE COMPANY AND GEBR. SCHMID GMBH
+
+Exhibit 10.15 
+
+Extension Agreement 
+
+between 
+
+SunHydrogen, Inc 
+
+1 OE Yanonali Street Suite 36 
+ Santa Barbara, CA 93101 
+
+- SUNHYDROGEN - 
+
+and 
+
+Gebr. SCHMID GmbH 
+ Robert-Bosch-Strar.ie 32-36 
+
+72250 Freudenstadt 
+ Germany 
+
+- SCHMID - 
+
+Recitals: 
+
+SCHMID has developed several tool and
+process platforms for industrial processing of flat and continuous substrates for the electronic, PV, medical and commodity industries.
+Besides having decades of experience in providing tools to the industry in the field of specialized immersion and single side chemical
+treatment such as anodizing, chemical deburring, etching, cleaning and chemical bath deposition, electro and electroless plat ing, thin
+film deposition in ambient and low pressure environment, one of the major strengths of the company is to industrialize processes from
+lab to mass manufacturing. 
+
+SUNHYDROGEN has developed a breakthrough
+nanoparticle technology to make green hydrogen using sunlight and any source of water. SUNHYDROGEN seeks to identify and develop manufacturing
+processes to scale-up second generation Gen2 nanoparticle technology to transition from lab-scale to commercial scale. 
+
+SUNHYDROGEN and SCHMID have entered
+into a Cooperation Agreement with an effective date March 1, 2021 Cooperation Agreement with a duration of 6 months.
+SUNDHYDROGEN and SCHMID intend to extend the Cooperation Agreement until De cember 31, 2021. 
+
+Page 1 of 2 
+
+1. Extention 
+
+In order
+to satisfy its respective obligations in accordance with the Cooperation Agreement, SUNHYDROGEN and SCHMID hereby agree to extend the
+Cooperation Agreement until December 31, 2021 Extension Period ). 
+
+2. Miscellaneous 
+
+All provisions of the Cooperation Agreement
+will remain in full force and effect unless amended in this Extension Agreement. If there is a conflict between this Extension Agreement
+and the Cooperation Agreement, this Extension Agreement will prevail. 
+
+Freudenstadt,
+ September 28, 2021 
+ 
+ Santa
+ Barbara, September 28, 2021 
+
+Gebr.
+ SCHMID GmbH 
+ 
+ SunHydrogen
+ Inc. 
+
+/s/
+ Christian Schmid 
+
+Name:
+ Christian Schmid 
+ 
+ Name:
+ Tim Young 
+
+Title: CEO 
+ 
+ Title:
+ CEO 
+
+Page 2 of 2 
+
+</EX-10.15>
+
+<EX-10.16>
+ 4
+ f10k2021ex10-16_sunhydro.htm
+ CONTRACT, DATED SEPTEMBER 1, 2021, BETWEEN THE COMPANY AND THE UNIVERSITY OF IOWA, IOWA CITY
+
+Exhibit 10.16 
+
+CONTRACT # K311000-C 
+
+THIS AGREEMENT
+effective this 1st of September 2021, by and between SunHydrogen, Inc (hereafter referred to as Sponsor and
+The University of Iowa, Iowa City, Iowa, a non-profit educational institution (hereinafter referred to as University ). 
+
+WITNESSETH: 
+
+WHEREAS, the research
+program contemplated by this Agreement is of mutual interest and benefit to University and to Sponsor, will further the instructional
+and research objectives of University in a manner consistent with its status as a non- profit, tax-exempt, educational institution, and
+may derive benefits for both Sponsor and University through inventions, improvements, and/or discoveries; 
+
+NOW, THEREFORE,
+in consideration of the premises and mutual covenants herein contained, the parties hereto agree to the following: 
+
+ARTICLE 1 - Definitions 
+
+As used herein, the
+following terms shall have the following meanings: 
+
+1.1 Project 
+shall mean the description of the project as described in Exhibit A hereof, under the direction of Syed Mubeen as Principal Investigator. 
+
+1.2 Contract Period is Sep 1, 2021, through
+Aug 31, 2022. 
+
+1.3 University Intellectual
+Property shall mean individually and collectively all inventions, improvements and/or discoveries which are conceived and/or made
+(i) by one or more employees of University, or (ii) jointly by one or more employees of University and by one or more employees/consultants
+of Sponsor, in performance of the Project. 
+
+ARTICLE 2 - Research Work 
+
+2.1 University shall commence
+performance of the Project promptly after the effective date of this Agreement, and shall use all reasonable efforts, care, and diligence
+to perform such Project in accordance with the terms and conditions of this Agreement. Anything in this Agreement to the contrary notwithstanding,
+Sponsor and University may at any time amend the Project by mutual written agreement. 
+
+2.2 In the event that the
+Principal Investigator becomes unable or unwilling to continue the Project, and a mutually acceptable substitute is not available, University
+and/or Sponsor shall have the option to terminate said Project pursuant to Article 10.1. 
+
+2.3 The University does not
+comply with Good Laboratory Practices (GLPs) as defined by the U.S. Food and Drug Administration in 21 C.F.R. 58. 
+
+- 1 - 
+
+ARTICLE 3 - Reports and Conferences 
+
+3.1 Written program reports
+shall be provided by University to Sponsor every six (6) months, and a final report shall be submitted by University within forty-five
+(45) days of the conclusion of the Contract Period, or the earlier termination of this Agreement. 
+
+3.2 During the term of this
+Agreement, representatives of University will meet with representatives of Sponsor at times and places mutually agreed upon to discuss
+the progress and results, as well as ongoing plans, or changes therein, of the Project to be performed hereunder. 
+
+ARTICLE 4 - Costs, Billings,
+and Other Support 
+
+4.1 It
+ is agreed to and understood by the parties hereto that, subject to Article 2, total costs
+ to Sponsor hereunder shall not exceed the sum of Three Hundred Fifty Thousand Dollars
+ 350,000 ). Payment shall be made by Sponsor according to the following schedule:
+ Four (4) Quarterly Payments of 87,500 
+
+4.2 Invoices shall be submitted
+to the Sponsor representative listed in Article 17 for submission of invoices. Payments to University shall include Sponsor name, Principal
+Investigator name, project title and shall be submitted to the University representative listed in Article 17 for payment remittance. 
+
+4.3 University shall retain
+title to any equipment purchased with funds provided by Sponsor under this Agreement. 
+
+4.4 Anything herein to the
+contrary notwithstanding, in the event of early termination of this Agreement by Sponsor pursuant to Article 10.1 hereof, Sponsor shall
+pay all costs accrued by University as of the date of termination, including non-cancelable obligations, which shall include all non-cancelable
+contracts and fellowships or postdoctoral associate appointments called for in Appendix A, incurred prior to the effective date of termination.
+After termination, any obligation of Sponsor for fellowships or postdoctoral associates shall end no later than the end of University s
+academic year following termination. 
+
+ARTICLE 5 - Publicity 
+
+5.1 Sponsor shall not use the name of University, nor of any member of University s
+Project staff, in any publicity, advertising, or news release or in any way imply endorsement of the University without the prior written
+approval of an authorized representative of University. University shall not use the name of Sponsor, nor any employee of Sponsor, in
+any publicity without the prior written approval of Sponsor. University may disclose, without Sponsor s approval, the terms of this
+Agreement that are a matter of public record under the Iowa Open Records Law, Iowa Code Chapter 22. 
+
+ARTICLE 6 - Publications 
+
+6.1 Sponsor recognizes that under University policy, the results of University research
+must be publishable and agrees that researchers engaged in the Project shall be permitted to present research results at symposia, national
+or regional professional meetings, and to publish in journals, theses or dissertations, or otherwise of their own choosing, methods and
+results of the Project, provided, however, that Sponsor shall have been furnished copies of any proposed publication or presentation at
+least one (1) month in advance of the submission of such proposed publication or presentation to a journal, editor, or other third party.
+Sponsor shall have thirty (30) days, after receipt of said copies, to object to such proposed presentation or proposed publication because
+there is patentable subject matter or proprietary information of Sponsor that needs protection. In the event that Sponsor makes such objection,
+said researcher(s) shall refrain from making such publication or presentation for a maximum of six (6) months from date of receipt of
+such objection in order for University to file patent application(s) with the United States Patent and Trademark Office and/or foreign
+patent office(s) directed to the patentable subject matter contained in the proposed publication or presentation. Sponsor does not possess
+a right to delay publication if the publication or presentation contains only findings and conclusions of basic science or results that
+would not affect the ability of Sponsor to obtain a patent. 
+
+- 2 - 
+
+ARTICLE 7 - Proprietary Information 
+
+7.1 It is the responsibility
+of Sponsor to mark or otherwise identify in writing prior to submission any information considered confidential that it deems necessary
+to share with University Confidential Information ). Oral disclosures of Confidential Information shall be identified as
+confidential at the time of disclosure and confirmed in writing within ten (10) business days of the disclosure. University shall have
+the right to accept or reject Sponsor s Confidential Information. If such information is accepted it will be withheld by University
+from publication, and in all other respects shall be maintained by University as confidential and proprietary to Sponsor for a period
+of five (5) years after
+termination of this Agreement. University shall have no such obligation with respect to any portion of such Confidential Information which: 
+
+a) is or later becomes generally
+available to the public by use, publication or the like, through no fault of University; 
+
+b) is obtained on a non-confidential
+basis from a third party who disclosed the same to University; 
+
+c) University already possesses,
+as evidenced by its written records, predating receipt thereof from Sponsor; or 
+
+d) is required to be disclosed by law, regulation
+or court order. 
+
+7.2 All documentation concerning
+University Intellectual Property submitted to Sponsor in accordance with Article 8.4 shall be treated as confidential in order to preserve
+any patent rights. 
+
+ARTICLE 8 - Intellectual Property 
+
+8.1 All rights, title and
+interest to University Intellectual Property under the Project, except as provided in Article 8.3, shall belong to University and shall
+be subject to the terms and conditions of this Agreement. 
+
+8.2 Rights to inventions, improvements, and/or
+ discoveries, whether patentable or copyrightable or not, relating to the Project made solely by employees /consultants
+of Sponsor shall belong to Sponsor. Such inventions, improvements, and/or discoveries shall not be subject to the terms and conditions
+of this Agreement. 
+
+8.3 Rights to inventions,
+improvements, and/or discoveries conceived and/or made during the Contract Period, whether patentable or copyrightable or not, relating
+to the Project, which are made jointly by employees of University and employees/consultants of Sponsor, shall be the joint property of
+University and Sponsor and shall be subject to the terms and conditions of this Agreement. 
+
+8.4 University will promptly
+notify Sponsor of any University Intellectual Property conceived and/or made during the Contract Period under the Project. If Sponsor
+directs that a patent application or application for other intellectual property protection be filed, University shall promptly prepare,
+file, and prosecute such U.S. and foreign application in University s name, and Sponsor s name if jointly invented. Sponsor shall
+bear all costs incurred in connection with such preparation, filing, prosecution, and maintenance of U.S. and foreign
+application(s) directed to said University Intellectual Property. Sponsor shall cooperate with University to assure that such application(s)
+will cover, to the best of Sponsor s knowledge, all items of commercial interest and importance. While University shall be responsible
+for making decisions regarding scope and content of application(s) to be filed and prosecution thereof, Sponsor shall be given an opportunity
+to review and provide input thereto. University shall keep Sponsor advised as to all developments with respect to such application(s)
+and shall promptly supply to Sponsor copies of all papers received and filed in connection with the prosecution thereof in sufficient
+time for Sponsor to comment thereon. 
+
+8.5 If Sponsor elects not
+to exercise its option granted in Article 9.1 or decides to discontinue the financial support of the prosecution and maintenance of the
+patent protection, all right, title and interest in such patent, patent application, and University Intellectual Property shall automatically
+revert to University. University shall then be free to file or continue prosecution or maintain any such application(s), and to maintain
+any protection issuing thereon in the U.S. and in any foreign country at University s sole expense. 
+
+- 3 - 
+
+ARTICLE 9 - Grant of Rights 
+
+9.1 Subject to Article 8.3,
+University grants Sponsor the first option to elect an exclusive license to University Intellectual Property developed under this Agreement,
+and a right to sub-license any and all University Intellectual Property developed under this Agreement on terms and conditions to be mutually
+agreed upon. If Sponsor elects to exercise this option, Sponsor shall notify University
+in writing of its decision within one (1) year from the date of termination of this Agreement. 
+
+9.2 No grant described in
+this Article shall be construed to limit University s right to utilize University Intellectual Property for research, instruction
+or academic publication purposes. 
+
+ARTICLE 10 - Term and Termination 
+
+10.1 This Agreement shall
+become effective upon the date first hereinabove written and shall continue in effect for the full duration of the Contract Period unless
+sooner terminated in accordance with the provisions of this Article. The parties hereto may, however, extend the term of this Agreement
+for additional periods as desired under mutually agreeable terms and conditions which the parties reduce to writing and sign. Either party
+may terminate this Agreement upon sixty (60) days prior written notice to the other. 
+
+10.2 In the event that either
+party hereto shall commit any material breach or default in any of the terms or conditions of this Agreement, and also shall fail to remedy
+such default or breach within ninety (90) days after receipt of written notice thereof from the other party hereto, the party giving notice
+may, at its option and in addition to any other remedies which it may have at law or in equity, terminate this Agreement by sending notice
+of termination in writing to the other party to such effect, and such termination shall be effective as of the date of the receipt of
+such notice. 
+
+10.3 Termination of this Agreement
+by either party for any reason shall not affect the rights and obligations of the parties accrued prior to the effective date of termination
+of this Agreement. No termination of this Agreement, however effectuated, shall release the parties hereto from their rights and obligations
+under Articles 3.1, 4, 5, 6, 7, 8, 9 and 11. 
+
+ARTICLE 11 - Independent Contractor 
+
+11.1 In the performance of all services hereunder University shall
+be deemed to be and shall be an independent contractor and, as such, University shall not be entitled to any benefits applicable to employees
+of Sponsor. 
+
+11.2 Neither party is authorized or empowered to act as agent for the other for any
+purpose and shall not on behalf of the other enter into any contract, warranty, or representation as to any matter. Neither shall be bound
+to the acts or conduct of the other. 
+
+ARTICLE 12 Insurance 
+
+12.1 Each party shall be liable
+for any and all claims for wrongful death, personal injury or property damage attributable to the negligent acts or omissions of that
+party and the officers, employees, and agents thereof. 
+
+- 4 - 
+
+12.2 University shall be responsible
+and agrees to pay for any and all claims for wrongful death, personal injury or property damage directly resulting from the negligence
+of University, its officers, employees and agents, and arising from activities under this Agreement to the full extent permitted by Chapter
+669, Code of Iowa, which is the exclusive remedy for processing tort claims against the State of Iowa. 
+
+ARTICLE 13 - Governing Law 
+
+13.1 This Agreement shall be governed and construed in accordance with the substantive
+laws of the State of Iowa, excluding its conflict of laws provisions. 
+
+ARTICLE 14 - Assignment 
+
+14.1 This Agreement shall
+not be assigned by either party without the prior written consent of the parties hereto. 
+
+14.2 This Agreement is assignable
+to any division of Sponsor, any majority stockholder of Sponsor, and/or any subsidiary of Sponsor, provided that such assignee assumes
+all of the rights, obligations and liabilities of Sponsor hereunder. 
+
+ARTICLE 15 - Agreement Modification 
+
+15.1 Any agreement to change the terms of this Agreement in any way shall be valid
+only if the change is made in writing and approved by mutual agreement of authorized representatives of the parties hereto. 
+
+ARTICLE 16 - Warranties 
+
+16.1 NO WARRANTIES, EITHER EXPRESSED OR IMPLIED, ARE MADE PART OF THIS AGREEMENT. 
+
+ARTICLE 17 Export
+Control 
+
+17.1 The disclosing party agrees to share any export control determinations when products,
+services, and/or technical data under this Agreement are subject to export controls under U.S. Government export laws and regulations;
+however, each party will be solely responsible for compliance with U.S. Government export laws and regulations. 
+
+ARTICLE 18 - Notices 
+
+18.1 Notices, invoices, and
+communications, hereunder shall be given by registered or certified mail, or express delivery service, postage or delivery charge prepaid,
+and addressed to the party to receive such notice, invoice, or communication at the address given below, or such other address as may
+hereafter be designated by notice in writing. Notice shall be deemed made on the date of receipt. 
+
+- 5 - 
+
+If to Sponsor: 
+
+Woosuk Kim, COO SunHydrogen, Inc 
+
+ Phone: 
+
+ E-mail:tyoung@sunhydrogen.com 
+
+For Submission of Invoices: 
+
+SunHydrogen, Inc. 
+
+ 32 E. Micheltorena, Suite A 
+
+ Santa Barbara, CA 93101 
+
+ Phone: 
+
+ Fax: 805-617-3601 
+
+ E-mail: tyoung@sunhydrogen.com 
+
+If to University: The University of Iowa 
+
+Division of Sponsored Programs Attention: 
+
+ 2 Gilmore Hall 
+
+ Iowa City, Iowa 52242 Phone: 
+
+ E-mail: 
+
+For Payment Remittance: 
+
+The University of Iowa Grant Accounting Office 2410 UCC,
+201 S Clinton St 
+
+ Iowa City, Iowa 52242-1316 
+
+ Phone: 319-335-3801 
+
+ Fax: 319-335-0674 
+
+IN WITNESS WHEREOF,
+the parties, duly authorized, have executed this Agreement in duplicate as of the day and year first written above. 
+
+SUNHYDROGEN, INC. (SPONSOR) 
+ 
+ THE UNIVERSITY OF IOWA 
+
+By: 
+ Woosuk Kim 
+ 
+ By: 
+ Wendy Beaver 
+
+Title: 
+ COO 
+ 
+ Title: 
+ Executive Director of Sponsored Programs 
+
+Date: 
+
+Date: 
+
+Rev. 03/30/2012 
+
+-6- 
+
+</EX-10.16>
+
+<EX-10.17>
+ 5
+ f10k2021ex10-17_sunhydro.htm
+ RESEARCH AGREEMENT, DATED OCTOBER 1, 2021, BETWEEN THE COMPANY AND REGENTS OF THE UNIVERSITY OF MICHIGAN
+
+Exhibit 10.17 
+
+RESEARCH AGREEMENT 
+
+THIS AGREEMENT , effective on the 1st day of October 2021, is
+between SunHydrogen, Inc., a for-profit corporation Sponsor and the REGENTS OF THE UNIVERSITY OF MICHIGAN, a non-profit
+educational institution of the State of Michigan University ). 
+
+WHEREAS , the research program contemplated by this Agreement
+is of mutual interest and benefit to University and to Sponsor, will further the instructional and research objectives of University in
+a manner consistent with its status as a non-profit, tax-exempt, educational institution, and may derive benefits for both Sponsor and
+University through inventions, improvements, or discoveries; and 
+
+WHEREAS , Sponsor understands and accepts that research by its
+nature is to explore, examine, and test ideas, hypothesis and/or theories and the outcome of a research effort is inherently uncertain. 
+
+NOW, THEREFORE , in consideration of the above assumptions and
+the promises and mutual covenants below, the parties agree to the following: 
+
+ARTICLE 1 - DEFINITIONS 
+
+1.1 Project means the research project described in ORSP
+ 22-PAF00982 under the direction of Nirala Singh as Principal Investigator entitled Manufacturing
+Science to Increase Efficiency of Photoelectrosynthetically Active Heterostructures for H2 Production. 
+
+1.2 Contract Period is from October 1, 2021, through September
+30, 2022, unless earlier terminated pursuant to this Agreement. 
+
+1.3 Intellectual Property means Joint Intellectual Property,
+Sponsor Intellectual Property, and University Intellectual Property. 
+
+1.4 Joint Intellectual Property means individually and
+collectively all inventions, improvements or discoveries which are made jointly as defined in U.S. Patent law by one or more employees
+of Sponsor and one or more employees of University in performance of the Project during Contract Period. 
+
+1.5 Sponsor Intellectual Property means any and all inventions,
+improvements or discoveries which are conceived or made solely as defined by U.S. Patent law by one or more employees of Sponsor. 
+
+1.6 University Intellectual Property means any and all
+inventions, improvements or discoveries which are conceived or made solely as defined by U.S. Patent law by one or more employees of University
+in performance of the Project during Contract Period. 
+
+Page 1 of 8 
+
+1.7 Commercial Sales refer to the first Sale, rental,
+or lease by Sponsor or Sponsor s Sublicensee of Licensed Product or Licensed Process. 
+
+1.8 Patent Rights means University s legal rights
+under the patent laws of the United States or relevant foreign countries for all of the University s interest in University Intellectual
+Property and/or Joint Intellectual Property. 
+
+1.9 Sale means sale, rental, or lease, however characterized,
+and Sold means the past tense of SALE. 
+
+1.91 Sublicensee(s) means any person or entity in writing
+sublicensed, or granted an option for a sublicense, by Sponsor or another Sublicensee under this Agreement. 
+
+1.92 Licensed Process(es) means any process or method
+that, but for this Agreement, comprises an infringement of (including contributory or inducement), or is covered by, an issued, unexpired
+claim or a pending claim contained in the Patent Rights or employs a Licensed Product. 
+
+1.93 Licensed Product(s) means any product that: (a)
+but for this Agreement comprises an infringement of (including contributory or inducement), or is covered by, an issued, unexpired claim
+or a pending claim contained in the Patent Rights in the country in which any such product or product part is made, used, imported, offered
+for Sale or Sold; or (b) is manufactured by using a Licensed Process or is employed to practice a Licensed Process. 
+
+ARTICLE 2 - RESEARCH WORK 
+
+2.1 University and Sponsor will use reasonable efforts to perform the
+Project substantially in accordance with the terms and conditions of this Agreement. 
+
+2.2 In the event that the Principal Investigator becomes unable or
+unwilling to continue Project, and a mutually acceptable substitute is not available, University or Sponsor has the option to terminate
+the Project. 
+
+ARTICLE 3 - REPORTS AND CONFERENCES 
+
+3.1 University will periodically provide written program reports to
+Sponsor. The University will submit a final report at the conclusion of the Contract Period. 
+
+3.2 During the Contract Period, representatives of the University may
+meet with representatives of Sponsor at times and places mutually agreed upon to discuss the progress and results as well as ongoing plans,
+or changes in the Project. 
+
+Page 2 of 8 
+
+ARTICLE 4 - COSTS, BILLINGS, AND OTHER SUPPORT 
+
+4.1 Total costs to Sponsor will not exceed Two Hundred Ninety Six Thousand,
+Four Hundred Forty Eight Dollars 296,448) which shall be paid by Sponsor in equal quarterly installments during the Contract Period.
+Payment will be made by Sponsor within 30 days of receipt of an invoice. Notice of any dispute regarding the charges in an invoice must
+be provided in accordance with Article 16 and include a description of the item(s) in dispute and a reasonably detailed explanation of
+the reason for the dispute. Sponsor will be billed monthly for actual charges incurred by the University. Any dispute regarding the charges
+in the final invoice must be made within 90 days after receipt. 
+
+4.2 University will retain title to any equipment purchased with funds
+provided by Sponsor under this Agreement. 
+
+4.3 In the event of early termination of the Project by Sponsor, Sponsor
+will pay all costs accrued by University as of the date of termination, including non-cancelable obligations, such as non-cancelable contracts
+and fellowships or postdoctoral associate appointments called for in Project. Any obligation of Sponsor for fellowships or postdoctoral
+associates end no later than the end of University s academic year during which termination occurs. 
+
+ARTICLE 5 - PUBLICITY 
+
+Sponsor will not use the name of University, nor of any member of University s
+Project staff, in any advertising, news release or other promotional activity without the prior written approval of an authorized representative
+of University, which approval shall not be unreasonably withheld. University will not use the name of Sponsor, nor any employee of Sponsor,
+in any advertising or other promotional activity without the prior written approval of Sponsor. Both parties retain any right to disclose
+the existence of this Agreement, the identity of the parties, or the nature and scope of the Project. University understands that Sponsor
+is subject to the reporting requirements of the Securities and Exchange Act of 1934, as amended (the Exchange Act and shall
+not be prohibited from making any required disclosure with respect to this Agreement in compliance with the Exchange Act and the regulations
+promulgated thereunder, including the filing of this Agreement with the Securities and Exchange Commission. 
+
+ARTICLE 6 - PUBLICATIONS 
+
+6.1 Subject to the following terms, the University has the right to
+publish, publicly present, or otherwise make available to the public the results, analysis, and methods relating to the University Project
+(a Disclosure of Results ). The University will notify Sponsor at least twenty (20) days in advance of the earlier of either
+(a) the submission to a third party, such as a journal, of a proposed publication or public presentation that would include a Disclosure
+of Results or (b) other public Disclosure of the Results, and furnish a description of the content therein. 
+
+6.2 If the content would contain either (a) patentable subject matter
+that is Intellectual Property of any party under Article 7 or (b) Confidential Information disclosed pursuant to Article 15, then Sponsor
+has the right to object in writing to the Disclosure of the Results within twenty (20) days after the University furnishes such description.
+If Sponsor makes a timely objection under clause 6.2(a) and concurrently makes a direction under Section 7.2 below, then University will
+refrain from the Disclosure of the Results until the University files patent application in accordance with Section 7.2 or sixty days
+from the date of the objection, whichever is earlier. If Sponsor makes a timely objection under clause 6.2(b), then University will comply
+with Sponsor s reasonable request to delete or modify information that is Confidential Information, giving due recognition to University s
+missions and interests in publishing the result of University projects. 
+
+Page 3 of 8 
+
+ARTICLE 7 - INTELLECTUAL PROPERTY 
+
+7.1 All rights and title to University Intellectual Property are owned
+by University. All rights and title to Joint Intellectual Property are jointly owned by Sponsor and University. All rights and title to
+Sponsor Intellectual Property are owned by Sponsor. 
+
+7.2 Each party will notify the other party if it becomes aware of any
+potentially patentable University Intellectual Property or Joint Intellectual Property, and provide a description thereof. If Sponsor
+so directs University within thirty (30) days after such notification, then (a) University will promptly prepare, file, and prosecute
+a U.S. and any appropriate foreign application(s) covering the University Intellectual Property or Joint Intellectual Property Patents and (b) Sponsor will promptly reimburse University for all reasonable fees and costs relating to such activities. 
+
+7.3 University has the right to control all aspects of filing, prosecuting,
+and maintaining the Patents. University will furnish to Sponsor copies of all papers received from or filed with governmental patent offices
+in connection with the prosecution of Patents in sufficient time for Sponsor to comment upon them. Sponsor will hold such information
+confidential and to use the information provided by University only for the purpose of advancing University s rights in the Patents.
+Sponsor will cooperate with University to assure that such Patents will cover, to the best of Sponsor s knowledge, all items of commercial
+interest and importance, which will include keeping University apprised of Sponsor s relevant products in commerce and development. 
+
+7.4 Sponsor may elect to discontinue or refrain from reimbursing University
+for fees and costs relating to any given patent or application within the Patents. If Sponsor discontinues, refrains, or fails to promptly
+reimburse University for all fees and costs relating to a given patent or application, then University may elect to continue the prosecution
+and/or maintenance of such patent or application at University s sole expense and all Sponsor s ownership and option rights
+in the applicable patents or patent applications shall be and are hereby terminated and transferred to the University, without the need
+for additional documentation. 
+
+Page 4 of 8 
+
+ARTICLE 8 - GRANT OF RIGHTS 
+
+8.1 University does and shall hereby grant Sponsor a royalty-free,
+non-exclusive, non-sublicensable license to use University Intellectual Property for internal research and development purposes. 
+
+8.2 A) Provided that Sponsor has fulfilled its obligations under Section
+7.2 above, University does and shall hereby grant to Sponsor a world-wide, exclusive, freely sub-licensable license to the Patent Rights
+to make, have made, import, use, market, offer for Sale and sell Licensed Products and to practice Licensed Processes. In exchange for
+this grant, Sponsor agrees to pay University a nonrefundable technology fee as follows: 
+
+i) Upfront technology fee in the amount of 15,000 within thirty (30)
+days of receipt of an invoice. 
+
+ ii) 100,000 upon first commercial use resulting in Commercial Sales. 
+
+8.2 (B) If Sponsor stops supporting the legal and official fees for
+a particular licensed patent, design or application thereof within the University Foreground IP, and the University assumes the financial
+and other responsibilities for that patent, design or application, then Sponsor s license under 8.2(A) is and shall be terminated. If
+Sponsor fails to make payment pursuant to section 8.2(A) the grant in Section 8.2(A) shall be and is hereby terminated without the need
+for additional documentation. 
+
+8.3 In the event that Sponsor acquires an exclusive license or right
+under this Agreement, 
+
+ University specifically reserves the right for it and its affiliates
+to practice and have practiced the University Intellectual Property or Joint Intellectual Property, for research, public service, internal
+(including clinical) and/or educational purposes, and the right to grant the same limited rights to other non-profit research institutions. 
+
+8.4 The licenses granted in this Agreement are subject to any rights
+required to be granted under prior research or sponsorship agreements, or retained by the U.S. government, for example in accordance with
+Chapter 18 of Title 35 of U.S.C. 200-212 and the regulations thereunder (37 CFR Part 401), when applicable. Sponsor agrees to comply in
+all respects, and shall provide University with all reasonably requested information and cooperation for University to comply with applicable
+provisions of the same and any requirements of any agreements between University and any agency of the U.S. government that provided funding
+for the subject matter covered by the University Intellectual Property or Joint Intellectual Property. 
+
+ARTICLE 9 - TERM AND TERMINATION 
+
+9.1 This Agreement is effective upon the date first written above and
+continues in effect for the full duration of the Contract Period. The parties may extend the term of this Agreement for additional periods
+under mutually agreeable terms and conditions which the parties reduce to writing and sign. Either party may terminate this agreement
+upon ninety days prior written notice to the other. 
+
+9.2 If either party breaches or defaults on any of the terms or conditions
+of this Agreement, and fails to remedy the default or breach within ninety days after receipt of written notice of it from the other party,
+the party giving notice may, at its option and in addition to any other remedies which it may have at law or in equity, terminate this
+Agreement by sending notice of termination in writing to the other party. The termination shall be effective as of the date of the receipt
+of the notice or 3 days after sending, whichever occurs first. 
+
+9.3 No termination of this Agreement, however effectuated, shall release
+the parties from their rights and obligations accrued prior to the effective date of termination. 
+
+Page 5 of 8 
+
+ARTICLE 10 - INDEPENDENT CONTRACTOR 
+
+10.1 Under this Agreement the University s relation to Sponsor
+is solely that of an independent contractor and neither party s employees are entitled to any benefits applicable to employees of
+the other; 
+
+10.2 Neither party is authorized or empowered to act as agent for the
+other for any purpose and may not on behalf of the other enter into any contract, warranty or representation on any matter. Neither shall
+be bound by the acts or conduct of the other. 
+
+ARTICLE 11 - INSURANCE AND INDEMNIFICATION 
+
+11.1 University warrants and represents that University has adequate
+liability insurance applicable to officers, employees, and agents while acting within the scope of their employment by University. University
+liability insurance policies do not extend protection to any other person. 
+
+11.2 Each party assumes all risks of personal injury and property damage
+attributable to the negligent acts or omissions of its own officers, employees, and agents. 
+
+11.3 Sponsor understands that the University is an educational institution
+created under Article 8, Section 5 of the State of Michigan Constitution of 1963. The University, as a state institution, has strict limitations
+imposed upon its use of assets and consequently the University does not and cannot pay for any claims against Sponsor brought by third
+parties related to this Agreement. 
+
+ARTICLE 12 - GOVERNING LAW 
+
+This Agreement shall be governed and construed in accordance with the
+laws of the State of Michigan without regard for principles of choice of law. Any claims, demands, or actions arising from this Agreement
+shall be brought in the state of Michigan. Sponsor, its successors and assigns, consent to the jurisdiction of a court with applicable
+subject matter jurisdiction sitting in the state of Michigan with respect to any claims arising under this agreement. 
+
+ARTICLE 13 - ASSIGNMENT 
+
+13.1 Except as provided in Section 13.2, this Agreement may not be
+assigned by either party without the prior written consent of the other. 
+
+13.2 This Agreement is assignable to any division of Sponsor, any majority
+stockholder of Sponsor, or any legally controlled subsidiary of Sponsor. 
+
+ARTICLE 14 - AGREEMENT MODIFICATION 
+
+Any agreement to change the terms of this Agreement in any way shall
+be valid only if the change is made in writing and signed by authorized representatives of the parties hereto. 
+
+Page 6 of 8 
+
+ARTICLE 15 - CONFIDENTIALITY 
+
+15.1 University agrees to use confidential or proprietary information
+and data acquired from Sponsor and identified as confidential or proprietary at the time of disclosure Confidential Information only in performing the services of this Agreement and not to disclose to any third party any Confidential Information during and for a
+period of five (5) years from the date of disclosure provided that if Confidential Information is disclosed orally or in other non-tangible
+form, Sponsor will supply the University in writing a general description of the Confidential Information and confirmation of its confidential
+or proprietary status within twenty (20) working days of disclosure. 
+
+15.2 The obligation to protect Confidential Information shall not apply
+to any information that: (1) is already in the possession of, or is independently developed by, University; (2) becomes publicly available
+other than through breach of this provision; (3) is received by University from a third party with authorization to make the disclosure;
+(4) is released with Sponsor s written consent; or (5) is required to be released by legal process or other legal authority provided that,
+to the extent permitted by law, University shall notify Sponsor in writing of such disclosure and University shall take reasonable and
+lawful steps to facilitate any legal process initiated by Sponsor in connection with any protective order or remedy sought by Sponsor
+in connection with such order. 
+
+ARTICLE 16 - NOTICES 
+
+Any notice to either party must be in writing, signed by the party
+giving it, and served to the addresses below (or to such other addressee as may be later designated by written notice) by personal delivery,
+recognized overnight courier service with package tracking, or by the United States mail, first-class, certified or registered, postage
+prepaid, return receipt requested. All notices are effective when received or within three days of sending, whichever occurs first. 
+
+If to Sponsor: 
+
+Attn: Woosuk Kim 
+
+10 E. Yanonali St, suite 36 
+
+Santa Barbara, CA 
+ 
+ 93101 
+
+wkim@sunhydrogen.com ________________________ 
+
+If to University: 
+ 
+ University of Michigan 
+
+Office of Research and Sponsored Projects 
+
+3003 S. State St., 
+
+Ann Arbor, MI 48109-1274 
+
+Attn: Kate Chie 
+
+Page 7 of 8 
+
+ARTICLE 17 SEVERABILITY 
+
+The terms of this Agreement are severable. If any term or provision
+is declared by a court of competent jurisdiction to be illegal, void or unenforceable, the remainder of the provisions shall continue
+to be valid and enforceable. 
+
+ARTICLE 18 WAIVER 
+
+Unless a specific time limitation is specified, no delay or omission
+by either party to exercise any right or remedy under this Agreement shall be construed to be either acquiescence or the waiver of the
+ability to exercise any right or remedy in the future. 
+
+ARTICLE 19 NO THIRD PARTY RIGHTS 
+
+Nothing in this Agreement shall be construed as creating or giving
+rise to any rights in third parties or persons other than the named parties to this Agreement. 
+
+ARTICLE 20 EXECUTION 
+
+This Agreement may be signed in several originals, which together constitute
+a single Agreement. The parties agree that a signature on any one of the originals and delivered by facsimile or email are valid, binding
+and enforceable. The parties acknowledge and agree that this Agreement has been mutually discussed, negotiated, drafted by the parties
+and no provision may be interpreted adversely to a party as a presumed drafter. 
+
+ARTICLE 21 SURVIVEABILILTY 
+
+Provisions surviving termination or expiration of this Agreement are
+those which on their face affect rights and obligations after termination or expiration, including provisions concerning indemnification,
+confidentiality, warranty and choice of law and venue. 
+
+AGREED TO: 
+
+THE REGENTS OF THE UNIVERSITY 
+ 
+ SunHydrogen, Inc. 
+ 
+ OF MICHIGAN 
+
+By 
+ /s/ Woosuk Kim 
+ 
+ By 
+ /s/ Peter J. Gerard 
+
+Typed Name Woosuk Kim 
+ 
+ Typed Name Peter J. Gerard 
+
+Title Chief Operating Officer 
+ 
+ Title Asst. Director--Sponsored Programs 
+
+Page 8 of 8 
+
+</EX-10.17>
+
+<EX-23.1>
+ 6
+ f10k2021ex23-1_sunhydro.htm
+ CONSENT OF M&K CPAS, LLC
+
+Exhibit 23.1 
+
+CONSENT OF INDEPENDENT
+REGISTERED PUBLIC ACCOUNTING FIRM 
+
+We consent to the incorporation by reference in
+the Registration Statement on Form S-3 (File No. 333-252523) and Form S-8 (File No. 333-228900) of our report dated October
+8, 2021, relating to the financial statements of SunHydrogen, Inc. (the Company for the year ended June 30, 2021, which
+appears in this Form 10-K. 
+
+/s/ M K CPAS, PLLC 
+
+Houston, Texas 
+
+ October 8, 2021 
+
+</EX-23.1>
+
+<EX-31.1>
+ 7
+ f10k2021ex31-1_sunhydro.htm
+ CERTIFICATION BY CHIEF EXECUTIVE OFFICER AND ACTING CHIEF FINANCIAL OFFICER PURSUANT TO SARBANES-OXLEY SECTION 302
+
+EXHIBIT 31.1 
+
+CERTIFICATION 
+
+ PURSUANT TO SECTION 302 OF THE 
+
+ SARBANES-OXLEY ACT OF 2002 
+
+I, Timothy Young, certify that: 
+
+1. I have reviewed this annual report on Form 10-K
+of SunHydrogen, Inc. for the fiscal year ended June 30, 2021; 
+
+2. Based on my knowledge, this report does not contain
+any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements,
+and other financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer(s)
+and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d 15(f)) for the
+registrant and have: 
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to
+be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented
+in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and 
+
+d) Disclosed in this report any change in the registrant s internal control over financial reporting
+that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over
+financial reporting; and 
+
+5. The registrant s other certifying officer(s)
+and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors
+and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report
+financial information; and 
+
+b) Any fraud, whether or not material, that involves management or other employees who have a significant
+role in the registrant s internal control over financial reporting. 
+
+Date: October 8, 2021 
+
+By: 
+ /s/ Timothy Young 
+
+Timothy Young 
+
+Chief Executive Officer Acting Chief Financial Officer 
+ (Principal Executive Officer and Principal Financial Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 8
+ f10k2021ex32-1_sunhydro.htm
+ CERTIFICATION BY CHIEF EXECUTIVE OFFICER AND ACTING CHIEF FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350
+
+EXHIBIT 32.1 
+
+CERTIFICATION PURSUANT TO 18 USC, SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 
+
+ OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual
+Report of SunHydrogen, Inc. (the Company on Form 10-K for the fiscal year ended June 30, 2021, as filed with the Securities
+and Exchange Commission on the date hereof (the Report ), I, Timothy Young, Chief Executive Officer Acting Chief Financial
+Officer of the Company, certify, pursuant to 18 U.S.C. Sec. 1350, as adopted pursuant to Sec. 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements
+of Sections 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) Information contained in the Report fairly presents,
+in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: October 8, 2021 
+ /s/ Timothy Young 
+
+By: Timothy Young 
+
+Its: Chief Executive Officer Acting Chief Financial Officer 
+
+(Principal Executive Officer and Principal Financial Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 10
+ hysr-20210630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 11
+ hysr-20210630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 12
+ hysr-20210630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 13
+ hysr-20210630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 14
+ hysr-20210630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

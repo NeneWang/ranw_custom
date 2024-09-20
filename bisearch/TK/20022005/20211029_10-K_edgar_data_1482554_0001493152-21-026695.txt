@@ -1,0 +1,4633 @@
+<Header>
+<FileStats>
+    <FileName>20211029_10-K_edgar_data_1482554_0001493152-21-026695.txt</FileName>
+    <GrossFileSize>5187721</GrossFileSize>
+    <NetFileSize>159694</NetFileSize>
+    <NonText_DocumentType_Chars>398876</NonText_DocumentType_Chars>
+    <HTML_Chars>1646593</HTML_Chars>
+    <XBRL_Chars>1618129</XBRL_Chars>
+    <XML_Chars>1222338</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-21-026695.hdr.sgml : 20211029
+<ACCEPTANCE-DATETIME>20211029124154
+ACCESSION NUMBER:		0001493152-21-026695
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		94
+CONFORMED PERIOD OF REPORT:	20210731
+FILED AS OF DATE:		20211029
+DATE AS OF CHANGE:		20211029
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hartford Great Health Corp.
+		CENTRAL INDEX KEY:			0001482554
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				205422795
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-54439
+		FILM NUMBER:		211361930
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8832 GLENDON WAY
+		CITY:			ROSEMEAD
+		STATE:			CA
+		ZIP:			91770
+		BUSINESS PHONE:		626-656-6192
+
+	MAIL ADDRESS:	
+		STREET 1:		8832 GLENDON WAY
+		CITY:			ROSEMEAD
+		STATE:			CA
+		ZIP:			91770
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Photoamigo, Inc.
+		DATE OF NAME CHANGE:	20100128
+
+</SEC-Header>
+</Header>
+
+ 0001493152-21-026695.txt : 20211029
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 
+
+FORM
+10-K 
+
+ANNUAL
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+ the fiscal year ended July 31, 2021 
+
+TRANSITION
+ REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+ the transition period from _____ to _____ 
+
+Commission
+file number 000-54439 
+
+Hartford
+Great Health Corp. 
+
+ (Exact
+name of registrant as specified in its charter) 
+
+Nevada 
+ 
+ 51-0675116 
+ 
+ (State
+ or other jurisdiction of 
+ 
+ (I.R.S.
+ Employer 
+ 
+ incorporation
+ or organization) 
+ 
+ Identification
+ No.) 
+
+8832
+ Glendon Way, Rosemead, California 
+ 
+ 91770 
+ 
+ (Address
+ of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+(626)
+321-1915 
+
+ Registrant s
+telephone number, including area code) 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+ Yes
+ No 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+ Yes
+ No 
+
+Indicate
+by check mark whether the issuer (1) filed all reports required to be filed by Sections 13 or 15(d) of the Securities Exchange Act of
+1934 during the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days. Yes No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). Yes No 
+
+Indicate
+by checkmark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated
+by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+
+January
+31, 2021, the last business day of the Registrant s most recently completed second fiscal quarter, the aggregate market value of
+the voting common stock held by non-affiliates of the Registrant (without admitting that any person whose shares are not included in
+such calculation is an affiliate) was 6,653,600. 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting
+company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company 
+in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ Accelerated
+ filer 
+ 
+ Non-accelerated
+ filer 
+ Smaller
+ reporting company 
+ 
+ Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+ 
+ Common
+ stock, par value 0.001 par value 
+ 
+ HFUS 
+ 
+ OTC
+ Markets Group 
+
+Securities
+registered pursuant to Section 12(g) of the Act: Common Stock, Par value 0.001 
+
+State
+the number of shares outstanding of each of the issuer s classes of common equity, as of the latest practicable date: 100,108,000
+shares of common stock outstanding as of October 29, 2021. 
+
+TABLE
+ OF CONTENTS 
+
+PART
+ I 
+
+ITEM
+ 1: 
+ BUSINESS 
+ 4 
+ 
+ ITEM
+ 1A: 
+ RISK
+ FACTORS 
+ 6 
+ 
+ ITEM
+ 1B: 
+ UNRESOLVED
+ STAFF COMMENTS 
+ 6 
+ 
+ ITEM
+ 2: 
+ PROPERTIES 
+ 6 
+ 
+ ITEM
+ 3: 
+ LEGAL
+ PROCEEDINGS 
+ 6 
+ 
+ ITEM
+ 4: 
+ MINE
+ SAFETY DISCLOSURES 
+ 6 
+
+PART
+ II 
+
+ITEM
+ 5: 
+ MARKET
+ FOR COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND PURCHASES OF EQUITY SECURITIES 
+ 7 
+ 
+ ITEM
+ 6: 
+ SELECTED
+ FINANCIAL DATA 
+ 8 
+ 
+ ITEM
+ 7: 
+ MANAGEMENT S
+ DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION 
+ 9 
+ 
+ ITEM
+ 7A. 
+ QUANTATIVE
+ AND QUALATATIVE DISCLOSURES ABOUT MARKET RISK 
+ 16 
+ 
+ ITEM
+ 8: 
+ FINANCIAL
+ STATEMENTS 
+ 17 
+ 
+ ITEM
+ 9. 
+ CHANGES
+ IN AND DISAGREEMENTS WITH ACCOUNTANS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 36 
+ 
+ ITEM
+ 9A. 
+ CONTROLS
+ AND PROCEDURES 
+ 36 
+ 
+ ITEM
+ 9B: 
+ OTHER
+ INFORMATION 
+ 37 
+
+PART
+ III 
+
+ITEM
+ 10: 
+ DIRECTORS,
+ EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE 
+ 37 
+ 
+ ITEM
+ 11: 
+ EXECUTIVE
+ COMPENSATION 
+ 39 
+ 
+ ITEM
+ 12: 
+ SECURITY
+ OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 40 
+ 
+ ITEM
+ 13: 
+ CERTAIN
+ RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ 40 
+ 
+ ITEM
+ 14: 
+ PRINCIPAL
+ ACCOUNTING FEES AND SERVICES 
+ 41 
+
+PART
+ IV 
+
+ITEM
+ 15: 
+ EXHIBITS 
+ 41 
+
+SIGNATURES 
+ 42 
+
+ADDITIONAL
+INFORMATION 
+
+Descriptions
+of agreements or other documents contained in this report are intended as summaries and are not necessarily complete. Please refer to
+the agreements or other documents filed or incorporated herein by reference as exhibits. Please see the exhibit index at the end of this
+report for a complete list of those exhibits. 
+
+2 
+
+SPECIAL
+NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This
+report contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+These statements are subject to risks and uncertainties and are based on the beliefs and assumptions of management and information currently
+available to management. The use of words such as believes , expects , anticipates , intends ,
+ plans , estimates , should , likely or similar expressions, indicates a forward-looking
+statement. 
+
+The
+identification in this report of factors that may affect future performance and the accuracy of forward-looking statements is meant to
+be illustrative and by no means exhaustive. All forward-looking statements should be evaluated with the understanding of their inherent
+uncertainty. 
+
+Factors
+that could cause actual results to differ materially from those expressed or implied by forward-looking statements include, but are not
+limited to: 
+
+The
+ worldwide economic situation; 
+
+Any
+ change in interest rates or inflation; 
+
+The
+ willingness and ability of third parties to honor their contractual commitments; 
+
+The
+ Company s ability to raise additional capital, as it may be affected by current conditions in the stock market and competition
+ for risk capital; 
+
+The
+ Company s capital costs, as they may be affected by delays or cost overruns; 
+
+The
+ Company s costs of production; 
+
+Environmental
+ and other regulations, as the same presently exist or may later be amended; 
+
+The
+ Company s ability to identify, finance and integrate any future acquisitions; and 
+
+The
+ volatility of the Company s stock price. 
+
+3 
+
+PART
+I 
+
+ITEM
+1. BUSINESS. 
+
+General 
+
+Hartford
+Great Health Corp. the Company , Hartford we , us or our was incorporated
+in the State of Nevada on April 2, 2008 Inception) under the name PhotoAmigo, Inc. It changed its name to Hartford Great Health
+Corp. on August 20, 2018, and since then we have been engaged in activities to formulate and implement our business plan as set forth
+below. 
+
+Overview 
+
+Up
+until August 2018, we provided social networking and photo sharing from the website PhotoAmigo.com. We also maintained the domain names
+PhotoAmigo.net, fotoamigo.com and fotoamigo.net. These domain names all redirect incoming traffic to our main website, PhotoAmigo.com. 
+
+In
+August 2018, the Company changed its future plans of operations. Through its wholly owned subsidiary - Hangzhou Hartford Comprehensive
+Health Management, Ltd HZHF) and HZHF s 60 percent owned subsidiary - Hangzhou Longjing Qiao Fu Vacation Hotel Co., Ltd. HZLJ ), and through Shanghai Hartford Comprehensive Health Management, Ltd. HFSH and its 90 percent owned
+subsidiary - Shanghai Qiao Garden International Travel Agency Qiao Garden Int l Travel ), the Company engages in
+hospitality industry in China. Qiao Garden Int l Travel was disposed on December 31, 2020, see note 4 Acquisitions, Joint Ventures
+and Deconsolidation. 
+
+The
+Company started to engage in early childhood education industry at Hartford International Education Technology Co., Ltd HF Int l
+Education ), a 75.5 ownership subsidiary of HFSH in March 2019. On July 24, 2019 and March 23, 2020, HF Int l Education
+established two 100 owned subsidiaries, Pudong Haojin Childhood Education Ltd. PDHJ and Shanghai Hongkou HaiDeFuDe Childcare
+Co., Ltd.( HDFD ), respectively, to operate the early childhood education service under the brand name of HaiDeFuDe 
+in Shanghai, China. On July 20, 2020, HF Int l Education entered an agreement with two individuals to acquire the whole ownership
+of Shanghai Gelinke Childcare Education Center Gelinke ). 
+
+In
+March 2021, HF Int l Education entered agreements with a third party, Hartford Health Management (Shanghai), Co. Ltd. HFHM ).
+HFHM purchased seven education intellectual property copy rights and ten HaiDeFuDe registered trademarks from HF
+Int l Education for a total amount of RMB1.2M and RMB1.0M, respectively. As a part of the purchase agreement, HFHM will be paid
+the 90 of gross tuition income from the three childcare centers. During the board meeting, SH Jingyu and another noncontrolling shareholders
+also sold a total of 14.5 equity at zero value to HFSH. As a result, HFSH holds 90 of HF Int l Education and a total of 10 equity
+is held by two other noncontrolling shareholders. 
+
+The
+following business plan is based on research and discussions between the board and third party suppliers and experts. Only preliminary
+activities relating to the following objectives have been undertaken and therefore, there is no assurance that any of the proposed activities
+set forth below will be started by the Company or if started will be successful. 
+
+Strategy 
+
+The
+initial plan focuses on the development of the Sino-U.S. health industry in the following four areas: 
+
+A.
+International Anti-Aging Membership Program, 
+
+ B.
+Artificial Intelligence and Medical Equipment Sales, 
+
+ C.
+Mobile Lifestyle Health Wellness Management Platform, 
+
+ D.
+Integrated Health Management of Metabolic Diseases. 
+
+4 
+
+The
+Company has also expanded its strategy into the hospitality industry, focusing on hotels, restaurants, and travel arrangements. The Company
+plans to integrate hospitality with health management through its membership-based program by arranging travel accommodations for Chinese
+citizen members to the United States to obtain stem cell beauty treatments. 
+
+The
+initial plan in early 2019 that focused on the development of the Sino-U.S. health industry in the areas of International Anti-Aging
+membership based program; Artificial Intelligence and Medical Equipment Sales; Mobile Lifestyle Management Platform; and Integrated management
+of metabolic diseases have been put on hold due to economic uncertainties caused by the increasing tension between the US and China international
+relation. 
+
+Near
+the end of 2019, the Company has found another opportunity to expand its market reach in the Chinese childhood education industry. The
+Company plans to formulate a proprietary early childhood education center management model beginning with the opening of several early
+childhood education centers in the greater Shanghai area with the goal of demonstrating the management model in action in order to attract
+interest from potential franchisees. Currently, there are three early child education and development center in operation despite the
+economic slowdown during the pandemic. The recent Three-child policy announced on May 1, 2021, by Chinese government further
+increases the market opportunities in early childhood education industry. On July 24, 2021, the Chinese government announced a Double-Reduction 
+education policy to be taken effective on August 31, 2021. This new education policy has since impacted the Company s early childhood
+education business. In the short future, the Company is optimistic on the increasing demand for childcare and childhood education; therefore,
+the Company will remain focus mainly on childcare and childhood educational development industry. 
+
+There
+can be no assurance following consummation of any of the business ventures will develop into a going concern or, if the business is already
+operating, that it will continue to operate successfully. Many of the potential business opportunities available to the Company may involve
+new and untested products, processes or market strategies which may not ultimately prove successful. 
+
+The
+Company s independent auditors have issued a report raising substantial doubt about the Company s ability to continue as
+a going concern. At present, the Company has limited operations and the continuation of the Company as a going concern is dependent upon
+financial support from its stockholders, its ability to obtain necessary equity financing to continue operations and/or to successfully
+locate and negotiate with a business entity for the combination of that target company with the Company. There is no assurance that the
+Company will ever be profitable. 
+
+Competition 
+
+We
+believe there are only limited barriers to entry in our business. With regards to the education industry, the Company carefully selected
+to invest in a business with established expertise and knowledge of the early childhood education industry in China. The Company recognizes
+that there are numerous childcare centers throughout China; however, these centers lack standard curriculums for educating children and
+many fall into the designation of daycares rather than education centers. As such, the Company s interests with regards to early
+childhood education mainly relate to creating a nationwide standardized curriculum to be implemented throughout all of China which is
+an idea that faces little competition as it has remained unexplored by other childcare businesses. To successfully compete in our industries,
+we will need to: 
+
+Ensure
+ that investments in our projects are affordable; 
+
+That
+ our investment strategy is simple to understand; and 
+
+That
+ we provide outstanding customer service and rigid integrity in our business dealings. 
+
+However,
+there can be no assurance that even if we do these things, we will be able to compete effectively with the other companies in our industry.
+We believe that we have the required management expertise in sourcing properties with good development potential and affordable price.
+We are committed to work and communicate with our investors and sales consultants to identify their goals and needs which will make it
+easier to continually provide them with the best products and services. 
+
+5 
+
+Employees 
+
+As
+of October 29, 2021, we have 65 employees. 
+
+ITEM
+1A. RISK FACTORS 
+
+As
+a smaller reporting company as defined by Item 8 of Regulation S-K, the Company is not required to provide information
+required by this Item. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+ITEM
+2. PROPERTIES 
+
+Hartford
+Great Health Corp. uses the offices of its Chief Executive Officer, at 8832 Glendon Way, Rosemead, CA 91770, for its minimal office facility
+needs for no consideration. 
+
+Each
+newly acquired or formed entity maintains its own leased office building and property. We lease spaces in Shanghai and Hangzhou, China
+under leases that expire at various times between 2023 and 2051 with various term extensions available. 
+
+We
+lease all of our facilities and do not own any real property. 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+On
+April 13, 2020, HFSH and HF Int l Education received Notices of Lease Termination from the sub-lessor. HFSH and HF International
+Education then filed a civil case against the sub-lessor for return the over-charged rent expense because of fictitious office size,
+approximately 483,000 (RMB3.3 million). The sublease agreement was terminated on June 1, 2020. HF International Education entered a
+new lease agreement with the original landlord on June 1, 2020. On July 7, 2021, the district court announced the ruling and awarded
+HFSH a total amount of RMB870,336 to be returned by the sub-lessor, Shanghai Longjin Management and awarded HF International Education
+a total amount of RMB268,450 to be returned by the same sub-lessor. However, the rental deposits in the amount of RMB313,286 paid to
+the sub-lessor are non-refundable. No further appeal on these rental dispute cases will be granted. These final ruling proceedings are
+pending execution by the district court. 
+
+We
+were not subject to any other legal proceedings during the twelve months ended July 31, 2021, and are not currently subject to any legal
+proceedings, and to the best of our knowledge, no such proceeding is threatened, the results of which would have a material impact on
+our results of operation or financial condition. Nor, to the best of our knowledge, are any of our officers or directors involved in
+any legal proceedings in which we are an adverse party. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not
+applicable to our Company. 
+
+6 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR COMMON EQUITY. RELATED STOCKHOLDER MATTERS AND PURCHASES OF EQUITY SECURITIES 
+
+Market
+Information 
+
+There
+has only been limited trading for the Company s Common Stock since it was quoted on OTC Markets. There is no assurance that an
+active trading market will ever develop or, if such a market does develop, that it will continue. The Securities and Exchange Commission
+has adopted Rule 15g-9 which establishes the definition of a penny stock, for purposes relevant to the Company, as any
+equity security that has a market price of less than 5.00 per share or with an exercise price of less than 5.00 per share, subject
+to certain exceptions. For any transaction involving a penny stock, unless exempt, the rules require: (i) that a broker or dealer approve
+a person s account for transactions in penny stocks and (ii) the broker or dealer receive from the investor a written agreement
+to the transaction, setting forth the identity and quantity of the penny stock to be purchased. In order to approve a person s
+account for transactions in penny stocks, the broker or dealer must (i) obtain financial information and investment experience and objectives
+of the person and (ii) make a reasonable determination that the transactions in penny stocks are suitable for that person and that person
+has sufficient knowledge and experience in financial matters to be capable of evaluating the risks of transactions in penny stocks. The
+broker or dealer must also deliver, prior to any transaction in a penny stock, a disclosure schedule prepared by the Commission relating
+to the penny stock market, which, in highlight form, (i) sets forth the basis on which the broker or dealer made the suitability determination
+and (ii) that the broker or dealer received a signed, written agreement from the investor prior to the transaction. Disclosure also has
+to be made about the risks of investing in penny stocks in both public offerings and in secondary trading, and about commissions payable
+to both the broker-dealer and the registered representative, current quotations for the securities and the rights and remedies available
+to an investor in cases of fraud in penny stock transactions. Finally, monthly statements have to be sent disclosing recent price information
+for the penny stock held in the account and information on the limited market in penny stocks. 
+
+Because
+of these regulations, broker-dealers may encounter difficulties in their attempt to buy or sell shares of our common stock, which may
+affect the ability of our shareholders to sell their shares in the secondary market and have the effect of reducing the level of trading
+activity in the secondary market. These additional sales practice and disclosure requirements could impede the sale of our common stock
+in the market place. In addition, the liquidity for our common stock may be decreased, with a corresponding decrease in the price of
+our common stock. Our shares are likely to be subject to such penny stock rules for the foreseeable future. 
+
+On
+October 29, 2021, the closing price of our common stock reported on the OTC Markets was 0.16 per share. The following table sets forth,
+for each of the quarterly periods indicated, the high and low sales prices of our common stock, as reported on the OTC Markets. 
+
+Fiscal
+ 2020 
+ Low 
+ High 
+ 
+ First
+ Quarter 
+ 1 
+ 1.45 
+ 
+ Second
+ Quarter 
+ 0.2 
+ 1.25 
+ 
+ Third
+ Quarter 
+ 0.12 
+ 0.2 
+ 
+ Fourth
+ Quarter 
+ 0.13 
+ 0.35 
+
+Fiscal
+ 2021 
+ Low 
+ High 
+ 
+ First
+ Quarter 
+ 0.16 
+ 0.95 
+
+Holders 
+
+As
+of October 29, 2021, a total of 100,108,000 shares of our common stock were outstanding and there were approximately 51 holders of record. 
+
+7 
+
+Penny
+Stock Rules 
+
+Due
+to the price of our common stock, as well as the fact that we are not listed on Nasdaq or a national securities exchange, our stock is
+characterized as penny stocks under applicable securities regulations. Our stock will therefore be subject to rules adopted
+by the Securities and Exchange Commission SEC regulating broker-dealer practices in connection with transactions in penny
+stocks. The broker or dealer proposing to affect a transaction in a penny stock must furnish his customer a document containing information
+prescribed by the SEC and obtain from the customer an executed acknowledgment of receipt of that document. The broker or dealer must
+also provide the customer with pricing information regarding the security prior to the transaction and with the written confirmation
+of the transaction. The broker or dealer must also disclose the aggregate amount of any compensation received or receivable by him in
+connection with such transaction prior to consummating the transaction and with the written confirmation of the trade. The broker or
+dealer must also send an account statement to each customer for which he has executed a transaction in a penny stock each month in which
+such security is held for the customer s account. The existence of these rules may have an effect on the price of our stock, and
+the willingness of certain brokers to effect transactions in our stock. 
+
+Transfer
+Agent 
+
+We
+have appointed EQ by Equiniti, as the transfer agent for our common stock. The principal office of EQ is located at 1110 Centre Pointe
+Curve #101, Mendota Heights, MN 55120 and its telephone number is (612) 209-9006. 
+
+Dividend
+Policy 
+
+We
+have never declared or paid dividends on our common stock. Payment of future dividends, if any, will be at the discretion of our Board
+of Directors after taking into account various factors, including the terms of any credit arrangements, our financial condition, operating
+results, current and anticipated cash needs and plans for expansion. At the present time, we intend to retain any earning in our business,
+and therefore do not anticipate paying dividends in the foreseeable future. 
+
+Recent
+Sales of Unregistered Securities; Use of Proceeds from Unregistered Securities 
+
+On
+December 11, 2018, the Company sold 96,090,000 shares of its common stock (the Shares to 15 individuals. The selling price
+was 0.02 per share for an aggregate of 1,921,800. All 15 investors executed subscription agreements and all proceeds have been collected.
+Twelve of the 15 investors are Chinese citizens and purchased the shares in China. Due to the strict monitoring of China s foreign
+exchange investment policy, funds are not able to be transferred directly to HFUS. As a result, amount of 657,000 were collected in
+RMB from the Chinese investors. The Shares were sold in a private placement pursuant to an exemption from registration in accordance
+with Section 4(2) and/or Regulation S under the Securities Act of 1933, as amended. The Shares are all restricted shares and accordingly
+all stock certificates evidencing the Shares have been affixed with the appropriate legend restricting sales and transfers. The proceeds
+from the sales of securities have been used in operating activities and acquisition of new entities. 
+
+On
+July 3, 2020, the Company signed a subscription agreement to one of the existing investors selling 1,000,000 shares of common stock (the
+ Shares priced at 0.02 per share. The shares were issued on November 24, 2020. 
+
+ITEM
+6. SELECTED FINANCIAL DATA 
+
+As
+a smaller reporting company as defined by Item 8 of Regulation S-K, the Company is not required to provide information
+required by this Item. 
+
+8 
+
+ITEM
+7. MANAGEMENTS S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION 
+
+The
+following discussion and analysis were prepared to supplement information contained in the accompanying financial statements and is intended
+to explain certain items regarding the financial condition as of July 31, 2021, and the results of operations for the years ended July
+31, 2021, and 2020. It should be read in conjunction with the audited financial statements and notes thereto contained in this report. 
+
+Overview
+of the Business 
+
+Hartford
+Great Health Corp. was originally incorporated in the State of Nevada on April 2, 2008, under the name PhotoAmigo, Inc. It changed its
+name to Hartford Great Health Corp. on August 22, 2018, and since then we have been engaged in activities to formulate and implement
+our business plan as set forth below. 
+
+Ability
+to continue as a going concern . 
+
+The
+independent registered public accounting firms reports on our financial statements as of July 31, 2021 and 2020, includes a going
+concern explanatory paragraph that describes substantial doubt about the Company s ability to continue as a going concern.
+Management s plans in regard to the factors prompting the explanatory paragraph are discussed in the financial statements, including
+footnotes thereto. 
+
+Plan
+of Operation 
+
+As
+of July 31, 2021, the company has issued a total of 100,108,000 shares of common stock. On December 11, 2018, 96,090,000 shares of common
+stock were issued at the price of 0.02 per share to raise an additional 1,921,800 in capital. On November 24, 2020, the Company issued
+additional 1,000,000 shares of common stock to a significant shareholder of the Company at 0.02 per share. 
+
+On
+December 28, 2018, the Company acquired Hangzhou Hartford Comprehensive Health Management, Ltd HZHF ). On March 22, 2019,
+the Company acquired 60 percent of Hangzhou Longjing Qiao Fu Vacation Hotel Co., Ltd. HZLJ ). On March 20, 2019, the Company
+acquired Shanghai Hartford Comprehensive Health Management, Ltd. HFSH with 90 percent of Shanghai Qiao Garden International
+Travel Agency Qiao Garden Int l Travel ), which was disposed on December 31, 2020, and formed a joint venture entity,
+Hartford International Education Technology Co., Ltd HF Int l Education ). 
+
+The
+subsidiary of HFUS in Shanghai (HFSH) advances operating funds from two related party entities, SH Qiao Hong and SH Oversea Chinese Culture
+Media Ltd. The main purpose of the funding is to invest in Hartford International Education Technology (Shanghai) Co., Ltd. (HF Int l
+Education). Upon signing of supplemental agreement, HFUS currently holds 75.5 ownership of HF Int l Education and maintains control
+over HF Int l Education. On July 24, 2019, HF Int l Education established a 100 owned subsidiary, Pudong Haojin Childhood
+Education Ltd. PDHJ ). On October 28, 2019, PDHJ had its childhood education center opened. On March 23, 2020, HF Int l
+Education established Shanghai Hongkou HaiDeFuDe Childcare Co., Ltd.( HDFD and was approved the business license to conduct
+childcare operations in Shanghai, China. On July 20, 2020, HF Int l Education entered an agreement with two individuals to acquire
+the whole ownership of Shanghai Gelinke Childcare Education Center Gelinke ). During the board meeting, SH Jingyu and another
+noncontrolling shareholders also sold a total of 14.5 equity at zero value to HFSH. As a result, HFSH holds 90 of HF Int l Education
+and a total of 10 equity is held by two individual noncontrolling shareholders. 
+
+HF
+Int l Education has developed an enhanced model of childcare franchise management program and registered a new brand name, HaiDeFuDe .
+HF Int l Education has recruited a team of knowledgeable childcare teachers to develop series of independent textbooks designed
+to targeted age of young children and register for the copyrights for these textbooks in September of 2020. Since then, HF Int l
+Education has begun marketing and promoting the enhanced model of franchise operation and management packaged program, under HaiDeFuDe 
+brand, to an initial of 50 franchisees throughout different regions of China. To achieve that, HF Int l Education has incorporated
+existing market resources throughout other major cities and provinces in China. The promotion of HF Int l Education franchise operation
+and management model is expected to attract other childcare education centers to join the HaiDeFuDe brand, and HF Int l
+Education expects to generate revenue from franchise and management fees. 
+
+9 
+
+Due
+to continued market uncertainties during the pandemic, the board of HFSH adopted a new management approach to ease cash flow and reduce
+operation loss. In March 2021, HF Int l Education entered agreements with a third party, Hartford Health Management (Shanghai),
+Co. Ltd. HFHM ). HFHM purchased seven education intellectual property copy rights and ten HaiDeFuDe 
+registered trademarks from HF Int l Education for a total amount of RMB1.2M and RMB1.0M, respectively. In June 2021, HF Int l
+Education and its three subsidiaries entered license agreements with HFHM for the rights to use the intellectual Properties (the IPs HFHM owns. The IPs cover in the license agreements are four sets of curriculum structure designed and fifteen trademarks including HaiDeFuDe 
+registered trademarks purchased from HF Int l Education. As a return, on a monthly basis, HF Int l Education and its subsidiaries
+pays 90 of its tuition revenue generated to HFHM as license usage fee. 
+
+After
+further ease of restrictions from the pandemic, the Company will re-run special franchise promotion. There will be a great reduction
+in franchise fees for the first twenty childcare center that join HaiDeFuDe brand. In doing so, the Company expect to generate
+a revised revenue of RMB16,000,000 from 50 franchisees by the end of 2022. 
+
+Liquidity
+and Capital Resources 
+
+As
+of July 31, 2021, we had negative working capital of 6,927,145 comprised of current assets of 990,088 and current liabilities of 7,917,233.
+This represents a decrease of 3,567,522 in the working capital balance from the July 31, 2020 negative amount of 3,359,623. During
+the year-ended July 31, 2021, our working capital deficit increased primarily because we recognized 2,508,959 current operating
+lease liabilities by adopting ASU No. 2016-02, and additional advances from related parties for business operating. 
+
+We
+believe that our funding requirements for the next twelve months will be in excess of 1,600,000. We are currently seeking for further
+funding through related parties loan and finance. 
+
+On
+December 11, 2018, the Company sold 96,090,000 shares of its common stock (the Shares to 15 individuals. The selling price
+was 0.02 per share for an aggregate of 1,921,800. All 15 investors executed subscription agreements. As of April 30, 2019, all proceeds
+have collected. Twelve of the 15 investors are Chinese citizens and purchased the shares in China. Due to the strict monitoring of China s
+foreign exchange investment policy, funds are not able to be transferred directly to HFUS. As a result, amount of 657,000 were collected
+in RMB from the Chinese investors. The Shares were sold in a private placement pursuant to an exemption from registration in accordance
+with Section 4(2) and/or Regulation S under the Securities Act of 1933, as amended. The Shares are all restricted shares and accordingly
+all stock certificates evidencing the Shares have been affixed with the appropriate legend restricting sales and transfers. 
+
+On
+November 24, 2020, the Company issued additional 1,000,000 shares of common stock to a significant shareholder of the Company at 0.02
+per share. 
+
+We
+will seek additional financing in the form of debt or equity. There is no assurance that we will be able to obtain any needed financing
+on favorable terms, or at all, or that we will find qualified purchasers for the sale of our stock. Any sales of our securities would
+dilute the ownership of our existing investors. 
+
+Cash
+Flows Year Ended July 31, 2021 Compared to Year Ended July 31, 2020 
+
+Operating
+Activities 
+
+During
+the year ended July 31, 2021, 2,381,575 used in operating activities compared to 1,400,028 used in the operations during the year ended
+July 31, 2020. 
+
+During
+the year ended July 31, 2021, we recorded losses including noncontrolling interests of 2,842,339, incurred non-cash depreciation of
+ 85,103, Loss absorbed from subsidiary restructure 403,131, gain on disposal of subsidiary of 104,317, including noncontrolling interest,
+goodwill impairment loss of 70,514, prepaid and other current receivables increased by 87,977, inventory increased by 299,588,
+other assets decreased by 10,435, contract liabilities increased by 373,413, other current payable increased by 312,902, related
+party payables net with receivables decreased by 185,693, other liabilities increased by 27,108 and operating lease liabilities net
+with operating lease assets increased by 17,779 as a result from the adoption of new lease guidance ASU No. 2016-02. 
+
+During
+the year ended July 31, 2020, we recorded losses including noncontrolling interests of 3,655,069, incurred non-cash depreciation of
+ 69,941, Loss on disposal of property and equipment of 6,659, impairment loss of 1,628,306 (see note 10 Other assets and note 11 Goodwill), prepaid and other current receivables decreased by 10,041, other assets increased by 145,728, contract liabilities increased
+by 74,978, other current payables increased by 112,365, and related party payables, net increased by 66,954, operating
+lease assets and liabilities increased by 406,572 as a result from the adoption of new lease guidance ASU No. 2016-02. 
+
+10 
+
+Investing
+activities 
+
+Cash
+used in investing activities was 185,682 for the year ended July 31, 2021 as compared to 52,270 cash provided by investing activities
+for the corresponding period in 2020. 
+
+During
+the year ended July 31, 2021, HF Int l Education acquired a new entity, Gelinke with cash net inflow of 12,721, HFSH disposed
+its 90 percent owned subsidiary - Qiao Garden Int l Travel with cash net outflow of 30,116, and Property and equipment purchases
+of 168,287. 
+
+During
+the year ended July 31, 2020, 323,078 loan receivable and interest have been paid back from third party borrowers. HF Int l Education s
+subsidiary, Pudong Haojin Childhood Education Ltd. PDHJ was opened to provide childcare education services. Property
+and equipment, amount of 270,808, have been added to this new entity. 
+
+Financing
+activities 
+
+Cash
+provided by financing activities was 2,549,984 for the year ended July 31, 2021 as compared to 1,117,796 for the year ended July 31,
+2020. The cash flows provided by financing activities for the year ended July 31, 2021 was primarily attributable to 2,407,033 funding
+support from related parties, 145,000 notes payable from one related party, 20,000 proceeds from stock issuance, offset by 22,049
+finance lease principal payment. 
+
+The
+cash flows provided by financing activities for the year ended July 31, 2020 was primarily attributable to 953,236 funding support from
+related party-Shanghai Oversea Chinese Culture Media Ltd., 184,438 contribution received from noncontrolling interest shareholders to
+the joint venture entity - HF Int l, offset by 19,878 finance lease principal payment. 
+
+Equity
+and Capital Resources 
+
+We
+have incurred losses since inception of our business and, as of July 31, 2021, we had an accumulated deficit of 5,821,519 compared to
+ 3,568,185 at the previous year end. To date, we have funded our operations through short-term debt and equity financing. 
+
+We
+expect our expenses might increase during the foreseeable future as a result of increased operational expenses and the development of
+our business. As our Chinese subsidiaries start operations and marketing plans, the three childcare education centers have begun to generate
+limited revenues during the pandemic. However, the generated revenue is not expected to be sufficient to cover our marketing needs until
+the end of 2022 due to the uncertainties affected by the pandemic. Consequently, we are dependent on the proceeds from future debt or
+equity investments to sustain our operations and implement our business plan. If we are unable to raise sufficient capital, we will be
+required to delay or forego some portion of our business plan, which would have a material adverse effect on our anticipated results
+from operations and financial condition. There is no assurance that we will be able to obtain necessary amounts of additional capital
+or that our estimates of our capital requirements will prove to be accurate. 
+
+Future
+Capital Expenditures 
+
+On
+January 2019, HFSH entered an agreement to acquire 100 percent equity interest of Shanghai Luo Sheng International Trade Ltd. SH
+Luosheng ). As of July 31, 2021, the agreement has not yet taken effective as no consideration has been paid toward those acquisitions.
+The agreement will be executed when the Company is financially ready to move forward, and the purchase price will be calculated based
+on the net assets of each entity on execute dates. There was no penalty levied or to be levied due to delayed execution or inexecution
+of this agreement. 
+
+Off-Balance
+Sheet Arrangements 
+
+As
+of and subsequent to July 31, 2021, we have no off-balance sheet arrangements. 
+
+Contractual
+Commitments 
+
+As
+of July 31, 2021, we have no other material contractual commitments except the office building and property leases which are included
+Note 13 Leases. (see note 16. Commitments and contingencies) 
+
+11 
+
+Results
+of Operations- Year Ended July 31, 2021 Compared to Year Ended July 31, 2020 
+
+Revenue
+and Cost of revenue: We recognized 553,459 and 98,307 revenue in the year ended July 31, 2021 and 2020, respectively. Cost
+of revenue increased to 308,413 for the year ended July 31, 2021, compared to 86,243 during the comparable period of 2020. The revenue
+during both years was mainly generated from two industry segments: hospitality housing in HZLJ and childhood education care services
+in HF Int l Education. 
+
+Operating
+Expenses: Operating expenses decreased to 3,261,411 for the year ended July 31, 2021, compared to 3,511,021 during the comparable
+period of 2020. During the year ended July 31, 2021, the decrease of 249,610 was resulted from the decrease of impairment loss by 1,557,792,
+offset by the increase of the selling, general and administrative expenses by 1,293,020 and the increase of depreciation and amortization
+expenses by 15,162. The increase of selling, general and administrative expenses was mainly resulted from the expenses incurred in the
+new operating subsidiaries in China for childcare education business development, including lease cost. The company s major business
+plans were halted during COVID-19 pandemic. Management determined that 1,006,343 goodwill and 621,963 deferred cost of finance lease
+which were generated from acquisitions were fully impaired as of July 31, 2020. Management further determined that 70,514 goodwill generated
+from Gelinke acquisition was fully impaired as of July 31, 2021. 
+
+Other
+Income (Expense): Other income, net increased to 174,826 for the year ended July 31, 2021, compared to 155,312 of other expense
+for the corresponding period of 2020. Other income for the year ended July 31, 2021 was mainly resulted from 108,366 lease payable write-off
+as a result of the legal settlement (see note 16. Commitments and contingencies), 104,317 gain on disposal of subsidiary, 334,537 income
+realized from the trademark and copy rights transfer to a related party, offset by 403,131 loss from HF Int l Education s
+ownership restructure in 2021 (see note 4 Acquisitions, Joint Ventures and Deconsolidation). Other expense for the year ended July 31,
+2020, was mainly resulted from 141,984 donation made to Shanghai JiaoTong University Oversea Early Childcare Organization. 
+
+Net
+Loss Attributable to Noncontrolling Interest: For the year ended July 31, 2021, we recorded a net loss attributable to Noncontrolling
+interest of 589,005 compared to 1,003,700 for the corresponding period of 2020. The decrease was mainly resulted from HF Int l
+Education s ownership restructure, noncontrolling interest has been reduced from 24.5 to 10 in 2021. The loss was allocated based
+on the ownership percentage of noncontrolling interest, which was mainly acquired through the acquisitions and Joint Ventures. 
+
+Net
+Loss Attributable to Hartford Great Health Corp: We recorded a net loss of 2,253,334 or (0.02) per share for the year ended
+July 31, 2021, compared to a net loss of 2,651,369 or (0.03) per share for the year ended July 31, 2020, a decrease in losses of 398,035
+due to the factors discussed above. 
+
+12 
+
+CRITICAL
+ACCOUNTING POLICIES 
+
+Use
+of Estimates: The preparation of financial statements in conformity with US GAAP requires the Company s management to make
+estimates and assumptions that affect the amounts of assets and liabilities, the identification and disclosure of impaired assets and
+contingent liabilities at the date of the financial statements, and the reported amounts of expenses during the reporting period. Actual
+results could differ from those estimates. 
+
+Foreign
+Currency: The accounts of the Company s foreign subsidiaries are translated in accordance with FASB ASC 830. Foreign currency
+transaction gains and losses are recognized in other expense, net, at the time they occur. Net foreign currency exchange gains or losses
+resulting from the translation of assets and liabilities of foreign subsidiaries whose functional currency is not the U.S. dollar are
+recorded as a part of accumulated other comprehensive loss in stockholders equity. The Company does not undertake hedging transactions
+to cover its foreign currency exposure. 
+
+Comprehensive
+Income (loss): For the year ended July 31, 2021 and 2020, the Company included its foreign currency translation gain or loss as part
+of its comprehensive income (loss). 
+
+Fair
+value measurement : Fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability
+(an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants
+on the measurement date. Valuation techniques used to measure fair value must maximize the use of observable inputs and minimize the
+use of unobservable inputs. Accounting Standard Codification ASC 820, Fair Value Measurements and Disclosures ASC
+820 ), describes a fair value hierarchy based on three levels of inputs, of which the first two are considered observable and the
+last unobservable, that may be used to measure fair value, which are the following: 
+
+Level
+1 - Quoted prices in active markets for identical assets or liabilities or funds. 
+
+ Level
+2 - Inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices for similar assets or liabilities;
+quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for
+substantially the full term of the assets or liabilities. 
+
+ Level
+3 - Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or
+liabilities. 
+
+The
+Company s financial instruments consist of cash and cash equivalents, accounts receivable, related party receivable, prepaid and
+other current receivable, accounts payable, related party payable and other current payable. The carrying amounts of afore-mentioned
+accounts approximate fair value because of their short-term nature. 
+
+Cash
+and Cash Equivalents: The Company maintains cash with banks in the USA and China. Should any bank holding cash become insolvent,
+or if the Company is otherwise unable to withdraw funds, the Company would lose the cash with that bank; however, the Company has not
+experienced any losses in such accounts and believes it is not exposed to any significant risks on its cash in bank accounts. In China,
+a depositor has up to RMB500,000 insured by the People s Bank of China Financial Stability Bureau FSD ). In the United
+States, the standard insurance amount is USD250,000 per depositor in a bank insured by the Federal Deposit Insurance Corporation FDIC ).
+Financial instruments that potentially subject the Company to significant concentrations of credit risk are cash and cash equivalents
+and accounts receivable. As of July 31, 2021 and 2020, respectively, none of the Company s cash and cash equivalents held by financial
+institutions was uninsured. With respect to accounts receivable, the Company generally does not require collateral and does not have
+an allowance for doubtful accounts. 
+
+Receivables:
+ The Company evaluates the collectability of its receivables based on a number of factors. In circumstances where the Company becomes
+aware of a specific customer s or borrower s inability to meet its financial obligations to the Company, a specific reserve
+for bad debts is estimated and recorded, which reduces the recognized receivable to the estimated amount the Company believes will ultimately
+be collected. As of July 31, 2021 and 2020, all balances are collectable based on management s assessment. 
+
+Property
+and equipment, net: Property and equipment, net, are stated at cost. Depreciation and amortization are computed using the straight-line
+method over the estimated useful lives of the assets. The estimated useful lives of property and equipment are as follows: 
+
+Years 
+ 
+ Leasehold
+ improvements 
+ Lesser
+ of lease term or estimated useful life 
+ 
+ ROU
+ assets-Finance lease 
+ Lease
+ term 
+ 
+ Furniture
+ and fixtures 
+ 3-5 
+ 
+ Office
+ equipment and vehicles 
+ 3-5 
+ 
+ Computer
+ software 
+ 3-5 
+
+Expenditures
+for repairs and maintenance are charged to expense as incurred. 
+
+13 
+
+Goodwill
+and Long-lived Assets: Goodwill, which represents the excess of the purchase price over the fair value of identifiable net assets
+acquired, is not amortized, in accordance with Accounting Standards Codification (ASC) 350, Intangibles Goodwill and Other. ASC
+350 requires that goodwill be tested for impairment at the reporting unit level on an annual basis and between annual tests, if an event
+occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying value. These
+events or circumstances could include a significant change in the business climate, legal factors, operating performance indicators,
+competition, or sale or disposition of a significant portion of a reporting unit. 
+
+The
+Company has the option to assess goodwill for possible impairment by performing a qualitative analysis to determine whether the existence
+of events or circumstances leads to a determination that it is more likely than not that the fair value of a reporting unit is less than
+its carrying amount. A quantitative assessment is performed if the qualitative assessment results in a more-likely-than-not determination
+or if a qualitative assessment is not performed. The quantitative assessment considers whether the carrying amount of a reporting unit
+exceeds its fair value, in which case an impairment charge is recorded to the extent that the reporting unit s carrying value exceeds
+its fair value. The Company s goodwill was mainly generated from the acquisitions during the year ended July 31, 2019. We currently
+have two reporting units - Hospitality and Early Childhood Education. Given the impact of COVID-19 pandemic and the unfavorable operation
+results, an interim goodwill impairment assessment was performed as of January 31, 2020. Based on the assessment result, management determined
+that the goodwill generated from 2019 acquisitions was fully impaired as of January 31, 2020. The goodwill balance as of July 31, 2021
+was generated from Gelinke acquisition in 2021. 
+
+Business
+Combinations: If an acquired set of activities and assets is capable of being operated as a business consisting of inputs and processes
+from the viewpoint of a market participant, the assets acquired and liabilities assumed are a business. Business combinations are accounted
+for using the acquisition method of accounting, which requires an acquirer to recognize the assets acquired and the liabilities assumed
+at the acquisition date measured at their fair values as of that date. Fair value determinations are based on discounted cash flow analyses
+or other valuation techniques. In determining the fair value of the assets acquired and liabilities assumed in a material acquisition,
+the Company may utilize appraisals from third party valuation firms to determine fair values of some or all of the assets acquired and
+liabilities assumed, or may complete some or all of the valuations internally. In either case, the Company takes full responsibility
+for the determination of the fair value of the assets acquired and liabilities assumed. The value of goodwill reflects the excess of
+the fair value of the consideration conveyed to the seller over the fair value of the net assets received. Acquisition-related costs
+that the Company incurs to affect a business combination are expensed in the periods in which the costs are incurred. 
+
+Noncontrolling
+interest: The Company adopted ASC 810, Noncontrolling Interests in Consolidated Financial Statements an Amendment of Accounting
+Research Bulletin No. 51, as of January 1, 2009. ASC 810 establishes accounting and reporting standards for ownership interests in subsidiaries
+held by parties other than the parent, the amount of consolidated net income attributable to the parent and to the noncontrolling interest,
+changes in a parent s ownership interest and the valuation of retained noncontrolling equity investments when a subsidiary is deconsolidated.
+ASC 810 also establishes reporting requirements that provide sufficient disclosures that clearly identify and distinguish between the
+interest of the parent and the interests of the noncontrolling owner. 
+
+Advertising
+costs: Advertising costs are expensed as incurred. During the year ended July 31, 2021 and 2020, amount of 65,406 and 12,582 advertising
+expenses were incurred, respectively. 
+
+Income
+Taxes: The Company accounts for income taxes using the asset and liability method in accordance with ASC 740, Accounting for Income
+Taxes. The asset and liability method provides that deferred tax assets and liabilities are recognized for the expected future tax consequences
+of temporary differences between the financial reporting and tax bases of assets and liabilities, and for operating loss and tax credit
+carry forwards. Deferred tax assets and liabilities are measured using the currently enacted tax rates and laws that will be in effect
+when the differences are expected to reverse. The Company records a valuation allowance to reduce deferred tax assets to the amount that
+is believed more likely than not to be realized. 
+
+On
+December 22, 2017, the President of the United States signed into law the Tax Reform Act. The Tax Reform Act permanently reduces the
+U.S. corporate income tax rate from a maximum of 35 to a flat 21 rate, effective January 1, 2018. In addition, the 2017 Tax Act also
+creates a new requirement that certain income (i.e., Global Intangible Low-Taxed Income GILTI )) earned by controlled foreign
+corporations CFCs must be included in the gross income of the CFCs U.S. shareholder income. The tax law in PRC
+applies an income tax rate of 25 to all enterprises. The Company s subsidiary does not receive any preferential tax treatment
+from local government. The Company has been in loss position for years and zero balances of tax provisions, deferred tax assets and liabilities
+as of the reporting periods ended. The tax reforms have no significant impacts on the Company. 
+
+Revenue
+Recognition: The Company adopted ASC Topic 606 Revenue from Contracts with Customers Topic 606) on August 1, 2019, applying
+the modified retrospective method to all contracts that were not completed as of August 1, 2019. The Company is building up its core
+business upon the completion of multiple acquisitions in March 2019 and impact of COVID-19 pandemic, limited operations occurred
+during the years ended July 31, 2021and 2020. The revenue during the year ended July 31, 2021 and 2020 was mainly generated from HZLJ
+and HF Int l Education. 
+
+14 
+
+Revenue
+is recognized when control of promised goods or services is transferred to our customers in an amount of consideration to which we expect
+to be entitled to in exchange for those goods or services. We follow the five steps approach for revenue recognition under Topic 606:
+(i) identify the contract(s) with a customer, (ii) identify the performance obligations in the contract, (iii) determine the transaction
+price, (iv) allocate the transaction price to the performance obligations in the contract, and (v) recognize revenue when (or as) we
+satisfy a performance obligation. Billings to customers for which services are not rendered are considered deferred revenue. ASC 606
+has no material impacts on the Company s financial positions. The Company s revenue is recognized when it satisfies a single
+performance obligation by transferring control of its products or providing services to a customer. The Company s general payment
+terms are short-term in duration. The Company does not have significant financing components or payment terms. 
+
+a. 
+ Early
+ childhood education services: HF Int l Education generates revenue from childhood education classes provided to its customers.
+ The educational services consist of parent-child and bilingual childcare classes. Each contract of educational classes is accounted
+ for as a single performance obligation which is satisfied proportionately over the service period. Tuition fee is generally collected
+ in advance and is initially recorded as deferred revenue and transferred to contract liabilities after trial period. Refunds are
+ provided to parents if they decide within the trial period that they no longer want to take the class. After the trial period, if
+ a parent withdraws from a class, usually only that unearned portion of the fee is available to be returned. For the year ended July
+ 31, 2021 and 2020, 435,150 and 29,582, respectively, of revenue were derived from early childhood education classes provided. 
+
+b. 
+ Hospitality
+ services: HZLJ generates revenue primarily from the room rentals, sale of food and beverage and other miscellaneous hospitality services.
+ The Company recognizes room rental and services daily as services are provided. Under ASC 606, the pattern and timing of recognition
+ of income from hotel facility is consistent with the prior accounting model. 
+
+Income
+(Loss) Per Share: Basic earnings per share include no dilution and are computed by dividing net income (or loss) by the weighted-
+average number of shares outstanding during the period. Diluted earnings per share reflect the potential dilution of securities that
+could share in the earnings of the Company, assuming the issuance of an equivalent number of common shares pursuant to options, warrants,
+or convertible debt arrangements. Diluted earnings per share are not shown for periods in which the Company incurs a loss because it
+would be anti-dilutive. Similarly, potential common stock equivalents are not included in the calculation if the effect would be anti-dilutive.
+No potentially dilutive debt or equity securities were issued or outstanding during the year ended July 31, 2021 or 2020. 
+
+Recent
+Accounting Pronouncements. 
+
+Recently
+adopted accounting pronouncements 
+
+In
+January 2017, the FASB issued ASU No. 2017-04, Intangibles and Other (Topic 350): Simplifying the Test for Goodwill Impairment ,
+which eliminates the requirement to calculate the implied fair value of goodwill, but rather requires an entity to record an impairment
+charge based on the excess of a reporting unit s carrying value over its fair value. This amendment is effective for annual or
+interim goodwill impairment tests in fiscal years beginning after December 15, 2019. Early adoption is permitted. The Company early adopted
+ASU No. 2017-04 on January 31, 2020. Management determined the goodwill generated from HZLJ and HFSH acquisition was fully impaired as
+of January 31, 2020. 
+
+15 
+
+In
+February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842) . ASU No. 2016-02 requires the recognition of lease assets
+and lease liabilities on the balance sheet for leases classified as operating leases under previous guidance. The accounting for finance
+leases (capital leases) was substantially unchanged. The original guidance required application on a modified retrospective basis with
+adjustments to the earliest comparative period presented. In August 2018, the FASB issued ASU No. 2018-11, Targeted Improvements
+to ASC 842, which included an option to not restate comparative periods in transition and elect to use the effective date of ASU
+No. 2016-02 as the date of initial application, which the Company elected. As a result, the consolidated balance sheet prior to August
+1, 2019 was not restated, and continues to be reported under previous guidance that did not require the recognition of operating lease
+liabilities and corresponding lease assets on the consolidated balance sheet. The cumulative effect of the changes made to our Condensed
+Consolidated Balance Sheet at August 1, 2019 for the adoption of the new lease standard was as follows: 
+
+Balance
+ at 
+ 
+ Balance
+ at 
+
+July
+ 31, 2019 
+ Adjustments 
+ August
+ 1, 2019 
+ 
+ Assets: 
+
+Prepaid
+ and Other current receivables 
+ 386,700 
+ (74,197 
+ 312,503 
+ 
+ ROU
+ assets-Operating lease 
+ 
+ 4,185,827 
+ 4,185,827 
+
+Liabilities: 
+
+Current
+ Operating Lease liabilities 
+ 
+ 651,424 
+ 651,424 
+ 
+ Operating
+ lease liabilities 
+ 
+ 3,481,229 
+ 3,481,229 
+
+The
+adoption of ASU No. 2016-02 had an immaterial impact on the Company s consolidated statement of operation and consolidated statement
+of cash flows for the year ended July 31, 2020. In addition, the Company elected the package of practical expedients permitted under
+the transition guidance within the new standard, which allowed the Company to carry forward the historical lease classification, not
+reassess prior conclusions related to expired or existing contracts that are or that contain leases, and not reassess the accounting
+for initial direct costs. Operating leases with a term of 12 months or less will not be recorded on the Consolidated Balance Sheet. Additional
+information and disclosures required by ASU No. 2016-02 are contained in Note 13 Leases. 
+
+Recently
+issued accounting pronouncements not yet adopted 
+
+In
+June 2016, the FASB issued ASU 2016-13, Financial Instruments Credit Losses . The standard, including subsequently
+issued amendments (ASU 2018-19, ASU 2019-04, ASU 2019-05, ASU 2019-10 and ASU 2019-11), requires a financial asset measured at amortized
+cost basis, such as accounts receivable and certain other financial assets, to be presented at the net amount expected to be collected
+based on relevant information about past events, including historical experience, current conditions, and reasonable and supportable
+forecasts that affect the collectability of the reported amount. In November 2019, the FASB issued ASU No. 2019-10 to postpone the effective
+date of ASU No. 2016-13 for public business entities eligible to be smaller reporting companies defined by the SEC to fiscal years beginning
+after December 15, 2022, including interim periods within those fiscal years. The Company is evaluating the impact of this guidance on
+its consolidated financial statements. 
+
+In
+December 2019, the FASB issued ASU 2019-12, Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes which is intended to
+simplify various aspects related to accounting for income taxes. The standard is effective for fiscal years, and interim periods within
+those years, beginning after December 15, 2020, with early adoption permitted. The Company is currently evaluating the effects of the
+standard on our consolidated financial statements and related disclosures. 
+
+Item
+7A. Quantitative and Qualitative Disclosures About Market Risk 
+
+As
+a smaller reporting Company as defined by Item 8 of Regulation S-K, the Company is not required to provide information
+required by this Item. 
+
+16 
+
+ITEM
+8. FINANCIAL STATEMENTS 
+
+Report
+of Independent Registered Public Accounting Firm 
+
+To
+the Board of Directors and shareholders of Hartford Great Health Corp. 
+
+Opinions
+on the Financial Statements and Internal Control over Financial Reporting 
+
+We
+have audited the accompanying consolidated balance sheets of Hartford Great Health Corp. and subsidiaries (the Company as of July 31, 2021 and 2020, and the related consolidated statements of operations and comprehensive loss, chan ges
+in stockholders equity (deficit) and cash flows for each of the two years in the period ended July 31, 2021, and the related
+notes (collectively referred to as the financial statements ). In our opinion, the consolidated financial statements present
+fairly, in all material respects, the financial position of the Company as of July 31, 2021 and 2020, and the results of its operations
+and its cash flows for each of the two years in the period ended July 31, 2021, in conformity with accounting principles generally accepted
+in the United States of America. 
+
+Going
+Concern Uncertainty 
+
+The
+accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As discussed
+in Note 2 to the consolidated financial statements, the Company has suffered recurring losses from operations and accumulated deficit
+that raise substantial doubt about its ability to continue as a going concern. Management s plans in regard to these matters are
+also described in Note 2. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis
+for Opinions 
+
+These
+consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion
+on these consolidated financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required
+to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations
+of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud.
+ The Company is not required to have, nor were we engaged to perform, an audit of its internal control
+over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting
+but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting.
+Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether
+due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles
+used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements.
+We believe that our audits provide a reasonable basis for our opinion. 
+
+/s/
+Simon Edward, LLP 
+
+ City
+of Industry, California 
+
+ October
+29, 2021 
+
+We
+have served as the Company s auditor since 2019. 
+
+17 
+
+HARTFORD GREAT HEALTH CORP. 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+July
+ 31, 2021 
+ July
+ 31, 2020 
+ 
+ ASSETS 
+
+Current
+ Assets 
+
+Cash
+ and cash equivalents 
+ 27,612 
+ 36,604 
+ 
+ Restricted
+ cash 
+ 26,566 
+ - 
+ 
+ Prepaid
+ and Other current receivables 
+ 286,232 
+ 173,819 
+ 
+ Related
+ party receivable 
+ 325,864 
+ 753,076 
+ 
+ Inventory 
+ 323,814 
+ - 
+ 
+ Total
+ Current Assets 
+ 990,088 
+ 963,499 
+ 
+ Non-current
+ Assets 
+
+Restricted
+ cash, noncurrent 
+ - 
+ 28,673 
+ 
+ Property
+ and equipment, net 
+ 593,517 
+ 467,881 
+ 
+ ROU
+ assets-operating lease 
+ 3,837,186 
+ 4,499,693 
+ 
+ Other
+ assets 
+ 321,807 
+ 329,235 
+ 
+ Total
+ Non-current Assets 
+ 4,752,510 
+ 5,325,482 
+ 
+ TOTAL
+ ASSETS 
+ 5,742,598 
+ 6,288,981 
+
+LIABILITIES
+ AND STOCKHOLDERS EQUITY 
+
+Current
+ Liabilities 
+
+Related
+ party loan and payables 
+ 4,391,325 
+ 2,966,651 
+ 
+ Contract
+ liabilities 
+ 545,346 
+ 75,861 
+ 
+ Current
+ operating Lease liabilities 
+ 2,508,959 
+ 991,506 
+ 
+ Other
+ current payable 
+ 471,603 
+ 289,104 
+ 
+ Total
+ Current Liabilities 
+ 7,917,233 
+ 4,323,122 
+ 
+ Long-term
+ loan from related party 
+ 657,572 
+ - 
+ 
+ Lease
+ liabilities, noncurrent 
+ 2,154,243 
+ 4,253,050 
+ 
+ TOTAL
+ LIABILITIES 
+ 10,729,048 
+ 8,576,172 
+ 
+ Commitments
+ and contingencies (Note 16) 
+ - 
+ - 
+ 
+ Stockholders 
+ Equity (Deficit) 
+
+Preferred
+ stock - 0.001 par value, 5,000,000 shares authorized, no shares issued and outstanding 
+ - 
+ - 
+ 
+ Common
+ stock - 0.001 par value, 300,000,000 shares authorized, 100,108,000 and 99,108,000 shares outstanding as of July 31, 2021 and 2020,
+ respectively 
+ 100,108 
+ 99,108 
+ 
+ Additional
+ paid-in capital 
+ 2,173,521 
+ 2,154,521 
+ 
+ Accumulated
+ deficit 
+ (5,821,519 
+ (3,568,185 
+ 
+ Accumulated
+ other comprehensive loss 
+ (233,487 
+ (55,146 
+ 
+ Noncontrolling
+ interest 
+ (1,205,073 
+ (917,489 
+ 
+ Total
+ Stockholders Deficit 
+ (4,986,450 
+ (2,287,191 
+ 
+ TOTAL
+ LIABILITIES AND STOCKHOLDERS DEFICIT 
+ 5,742,598 
+ 6,288,981 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+18 
+
+HARTFORD
+GREAT HEALTH CORP. 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS 
+
+Years
+ ended 
+
+July
+ 31, 
+
+2021 
+ 2020 
+ 
+ Tuition
+ revenue 
+ 435,150 
+ 29,583 
+ 
+ Service
+ revenue 
+ 118,309 
+ 68,724 
+ 
+ Total
+ revenue 
+ 553,459 
+ 98,307 
+ 
+ Cost
+ of tuition revenue 
+ 269,984 
+ 26,283 
+ 
+ Cost
+ of service revenue 
+ 38,429 
+ 59,960 
+ 
+ Total
+ Cost of revenues 
+ 308,413 
+ 86,243 
+ 
+ Gross
+ Profit 
+ 245,046 
+ 12,064 
+ 
+ Operating
+ expenses 
+
+Depreciation
+ and amortization 
+ 85,103 
+ 69,941 
+ 
+ Selling,
+ general and administrative 
+ 3,105,794 
+ 1,812,774 
+ 
+ Goodwill
+ impairment 
+ 70,514 
+ 1,628,306 
+ 
+ Total
+ Operating Expenses 
+ 3,261,411 
+ 3,511,021 
+ 
+ Operating
+ Loss 
+ (3,016,365 
+ (3,498,957 
+ 
+ Other
+ Income (Expense) 
+
+Interest
+ (expense) income, net 
+ (30,886 
+ 13,119 
+ 
+ Gain
+ on disposal of subsidiary 
+ 104,317 
+ - 
+ 
+ Other
+ income (expense), net 
+ 101,395 
+ (168,431 
+ 
+ Other
+ income (expense), net 
+ 174,826 
+ (155,312 
+ 
+ Loss
+ before income taxes 
+ (2,841,539 
+ (3,654,269 
+ 
+ Income
+ Tax Expense 
+ 800 
+ 800 
+ 
+ Net
+ Loss 
+ (2,842,339 
+ (3,655,069 
+ 
+ Less:
+ net loss attributable to noncontrolling Interest 
+ (589,005 
+ (1,003,700 
+ 
+ Net
+ Loss Attributable to Hartford Great Health Corp 
+ (2,253,334 
+ (2,651,369 
+
+Net loss per common
+ share: 
+
+Basic
+ and Diluted 
+ (0.02 
+ (0.03 
+ 
+ Weighted average
+ shares outstanding: 
+
+Basic
+ and diluted 
+ 99,790,192 
+ 99,108,000 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+19 
+
+HARTFORD
+GREAT HEALTH CORP. 
+
+ CONSOLIDATED
+STATEMENTS OF COMPREHENSIVE LOSS 
+
+Years
+ ended 
+
+July
+ 31, 
+
+2021 
+ 2020 
+ 
+ Net
+ Loss 
+ (2,253,334 
+ (2,651,369 
+ 
+ Other
+ Comprehensive income (loss), net of income tax 
+
+Foreign
+ currency translation adjustments 
+ (217,953 
+ (67,633 
+ 
+ Total
+ other comprehensive loss 
+ (217,953 
+ (67,633 
+ 
+ Less 
+ total other comprehensive loss attributable to noncontrolling interest 
+ (39,612 
+ (18,879 
+ 
+ Total
+ Other Comprehensive Loss Attributable to Hartford Great Health Corp 
+ (178,341 
+ (48,754 
+ 
+ Total
+ Comprehensive Loss 
+ (2,431,675 
+ (2,700,123 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+20 
+
+HARTFORD
+GREAT HEALTH CORP. 
+
+ CONSOLIDATED
+STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY (DEFICIT) 
+
+ for
+the years ended July 31, 2021 and 2020 
+
+Common
+ Stock 
+ Additional 
+ Paid
+ - in 
+ Accumulated 
+ Comprehensive 
+ Accumulated 
+ Other 
+ Noncontrolling 
+ 
+ Total 
+ Stockholders 
+ Equity 
+
+Shares 
+ Amount 
+ 
+ Capital 
+ 
+ (Deficit) 
+ 
+ loss 
+ 
+ Interest 
+ (Deficit) 
+ 
+ Balance,
+ July 31, 2019 
+ 99,108,000 
+ 99,108 
+ 2,154,521 
+ (916,816 
+ (6,392 
+ (81,141 
+ 1,249,280 
+ 
+ Net
+ (loss) 
+ - 
+ - 
+ - 
+ (2,651,369 
+ - 
+ (1,003,700 
+ (3,655,069 
+ 
+ Contribution
+ from noncontrolling interest 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 186,231 
+ 186,231 
+ 
+ Foreign
+ currency translation adjustment 
+ - 
+ - 
+ - 
+ - 
+ (48,754 
+ (18,879 
+ (67,633 
+ 
+ Balance,
+ July 31, 2020 
+ 99,108,000 
+ 99,108 
+ 2,154,521 
+ (3,568,185 
+ (55,146 
+ (917,489 
+ (2,287,191 
+ 
+ Net
+ (loss) 
+ - 
+ - 
+ - 
+ (2,253,334 
+ - 
+ (589,005 
+ 2,842,339 
+ 
+ Issuance
+ of common stock 
+ 1,000,000 
+ 1,000 
+ 19,000 
+ - 
+ - 
+ - 
+ 20,000 
+ 
+ Restructure
+ of subsidiary 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 403,131 
+ 403,131 
+ 
+ Disposal
+ of subsidiary 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (62,098 
+ (62,098 
+ 
+ Foreign
+ currency translation adjustment 
+ - 
+ - 
+ - 
+ - 
+ (178,341 
+ (39,612 
+ (217,953 
+ 
+ Balance,
+ July 31, 2021 
+ 100,108,000 
+ 100,108 
+ 2,173,521 
+ (5,821,519 
+ (233,487 
+ (1,205,073 
+ (4,986,450 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+21 
+
+HARTFORD
+GREAT HEALTH CORP. 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+Years
+ ended 
+
+July
+ 31, 
+
+2021
+ 
+ 2020 
+
+(Restated) 
+ 
+ Cash
+ flows from operating activities: 
+
+Net
+ loss including noncontrolling interests 
+ (2,842,339 
+ (3,655,069 
+ 
+ Adjustments
+ to reconcile net loss including noncontrolling interests to net cash provided by (used in) operating activities: 
+
+Depreciation
+ and amortization 
+ 85,103 
+ 69,941 
+ 
+ Disposal
+ of subsidiary, including noncontrolling interest 
+ (104,317 
+ - 
+ 
+ Debts
+ forgiveness per court ruling 
+ (162,806 
+ - 
+ 
+ Loss
+ absorbed from restructure of subsidiary 
+ 403,131 
+ - 
+ 
+ Loss
+ on disposal of property and equipment 
+ 760 
+ 6,659 
+ 
+ Impairment
+ loss 
+ 70,514 
+ 1,628,306 
+ 
+ Changes
+ in operating assets and liabilities: 
+
+Prepaid
+ and Other current receivables 
+ (87,978 
+ 10,041 
+ 
+ Inventory 
+ (299,588 
+ - 
+ 
+ Other
+ assets 
+ 10,435 
+ (145,728 
+ 
+ Related
+ party receivables and payables 
+ (185,693 
+ 66,954 
+ 
+ Contract
+ liabilities 
+ 373,413 
+ 74,978 
+ 
+ Other
+ current payable 
+ 312,902 
+ 112,365 
+ 
+ Operating
+ lease assets and liabilities 
+ 17,779 
+ 406,572 
+ 
+ Other
+ liabilities 
+ 27,108 
+ 24,953 
+ 
+ Net
+ cash (used in) operating activities 
+ (2,381,575 
+ (1,400,028 
+ 
+ Cash
+ flows from investing activities: 
+
+Cash
+ proceeds from Acquisitions 
+ 27,927 
+ - 
+ 
+ Cash
+ used in Acquisitions 
+ (15,206 
+ - 
+ 
+ Disposal
+ of subsidiary 
+ (30,116 
+ - 
+ 
+ Repayment
+ of Loan receivable 
+ - 
+ 323,078 
+ 
+ Purchases
+ of property and equipment 
+ (168,287 
+ (270,808 
+ 
+ Net
+ cash (used in) provided by investing activities 
+ (185,682 
+ 52,270 
+ 
+ Cash
+ flows from financing activities: 
+
+Contribution
+ from noncontrolling interest 
+ - 
+ 184,438 
+ 
+ Proceeds
+ from issuance of common stock 
+ 20,000 
+ - 
+ 
+ Proceeds
+ of related party notes payable 
+ 145,000 
+ - 
+ 
+ Principal
+ payments on finance lease 
+ (22,049 
+ (19,878 
+ 
+ Advances
+ from related parties 
+ 2,407,033 
+ 953,236 
+ 
+ Net
+ cash provided by financing activities 
+ 2,549,984 
+ 1,117,796 
+ 
+ Effect
+ of exchange rate changes on cash 
+ 6,174 
+ (3,485 
+ 
+ Net
+ change in Cash, cash equivalents and restricted cash 
+ (11,099 
+ (233,447 
+ 
+ Cash,
+ cash equivalents and restricted cash at beginning of period 
+ 65,277 
+ 298,724 
+ 
+ Cash,
+ cash equivalents and restricted cash at end of period 
+ 54,178 
+ 65,277 
+ 
+ Supplemental
+ Cash Flow Information 
+
+Interest
+ paid 
+ - 
+ - 
+ 
+ Income
+ taxes paid 
+ 800 
+ 800 
+ 
+ Non-cash
+ investing and financing activities: 
+
+Payable
+ to acquiree 
+ 10,462 
+ - 
+ 
+ Investment
+ return through three-party settlement 
+ 765,131 
+ - 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+22 
+
+HARTFORD
+GREAT HEALTH CORP. 
+
+ Notes
+to Financial Statements 
+
+ For
+the Years Ended July 31, 2021 and 2020 
+
+NOTE
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+This
+summary of significant accounting policies is presented to assist in understanding the Company s financial statements. The financial
+statements and notes are the responsibility of the Company s management. These accounting policies conform to accounting principles
+generally accepted in the United States of America US GAAP and have been consistently applied in the preparation of the
+financial statements. 
+
+Organization 
+
+Hartford
+Great Health Corp. was originally incorporated in the State of Nevada on April 2, 2008 under the name PhotoAmigo, Inc. It changed its
+name to Hartford Great Health Corp. on August 22, 2018 and since then we have been engaged in activities to formulate and implement our
+business plans. 
+
+Through
+its wholly owned subsidiary - Hangzhou Hartford Comprehensive Health Management, Ltd HZHF) and HZHF s 60 percent owned
+subsidiary - Hangzhou Longjing Qiao Fu Vacation Hotel Co., Ltd. HZLJ ), and through Shanghai Hartford Comprehensive Health
+Management, Ltd. HFSH and its 90 percent owned subsidiary - Shanghai Qiao Garden International Travel Agency Qiao
+Garden Int l Travel ), the Company engages in hospitality industry in China. Qiao Garden Int l Travel was disposed
+on December 31, 2020, see note 4 Acquisitions, Joint Ventures and Deconsolidation. 
+
+The
+Company started to engage in early childhood education industry at Hartford International Education Technology Co., Ltd HF Int l
+Education ). On July 24, 2019 and March 23, 2020, HF Int l Education established two 100 owned subsidiaries, Pudong Haojin
+Childhood Education Ltd. PDHJ and Shanghai Hongkou HaiDeFuDe Childcare Co., Ltd.( HDFD ), respectively, to
+operate the early childhood education service under the brand name of HaiDeFuDe in Shanghai, China. On July 20, 2020, HF
+Int l Education entered an agreement with two individuals to acquire the whole ownership of Shanghai Gelinke Childcare Education
+Center Gelinke ). 
+
+Basis
+of Presentation 
+
+The
+consolidated financial statements include the accounts of Hartford Great Health Corp, its wholly-owned subsidiaries and subsidiaries
+in which it has a controlling interest. The Company reports noncontrolling interests of the consolidated entities as a component of equity
+separate from the Company s equity. All material inter-company transactions between and among the Company and its consolidated
+subsidiaries have been eliminated in the consolidation. The Company s net income (loss) excludes income (loss) attributable to
+the noncontrolling interests. 
+
+Use
+of Estimates 
+
+The
+preparation of financial statements in conformity with US GAAP requires the Company s management to make estimates and assumptions
+that affect the amounts of assets and liabilities, the identification and disclosure of impaired assets and contingent liabilities at
+the date of the financial statements, and the reported amounts of expenses during the reporting period. Actual results could differ from
+those estimates. 
+
+Foreign
+Currency 
+
+The
+accounts of the Company s foreign subsidiaries are translated in accordance with FASB ASC 830. Foreign currency transaction gains
+and losses are recognized in other expense, net, at the time they occur. Net foreign currency exchange gains or losses resulting from
+the translation of assets and liabilities of foreign subsidiaries whose functional currency is not U.S. dollar are recorded as a part
+of accumulated other comprehensive loss in stockholders equity. The Company does not undertake hedging transactions to cover its
+foreign currency exposure. 
+
+Comprehensive
+Income (loss) 
+
+For
+the year ended July 31, 2021 and 2020, the Company included its foreign currency translation gain or loss as part of its comprehensive
+income (loss). 
+
+Fair
+value measurement 
+
+Fair
+value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal
+or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date.
+Valuation techniques used to measure fair value must maximize the use of observable inputs and minimize the use of unobservable inputs.
+Accounting Standard Codification ASC 820, Fair Value Measurements and Disclosures ASC 820 ), describes
+a fair value hierarchy based on three levels of inputs, of which the first two are considered observable and the last unobservable, that
+may be used to measure fair value, which are the following: 
+
+Level
+1 - Quoted prices in active markets for identical assets or liabilities or funds. 
+
+ Level
+2 - Inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices for similar assets or liabilities;
+quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for
+substantially the full term of the assets or liabilities. 
+
+ Level
+3 - Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of the assets or
+liabilities. 
+
+The
+Company s financial instruments consist of cash and cash equivalents, related party receivables, prepaid and other current receivables,
+related party payables and other current liabilities. The carrying amounts of afore-mentioned accounts approximate fair value because
+of their short-term nature. 
+
+23 
+
+Cash
+and Cash Equivalents 
+
+The
+Company maintains cash with banks in the United States and China. Should any bank holding cash become insolvent, or if the Company is
+otherwise unable to withdraw funds, the Company would lose the cash with that bank; however, the Company has not experienced any losses
+in such accounts and believes it is not exposed to any significant risks on its cash in bank accounts. In China, a depositor has up to
+RMB500,000 insured by the People s Bank of China Financial Stability Bureau FSD ). In the United States, the standard
+insurance amount is USD250,000 per depositor in a bank insured by the Federal Deposit Insurance Corporation FDIC ). Financial
+instruments that potentially subject the Company to significant concentrations of credit risk are cash and cash equivalents and accounts
+receivable. As of July 31, 2021 and 2020, nil of the Company s cash and cash equivalents held by financial institutions were uninsured.
+With respect to accounts receivable, the Company generally does not require collateral and does not have an allowance for doubtful accounts. 
+
+Receivables 
+
+The
+Company evaluates the collectability of its receivables based on a number of factors. In circumstances where the Company becomes aware
+of a specific customer s or borrower s inability to meet its financial obligations to the Company, a specific reserve for
+bad debts is estimated and recorded, which reduces the recognized receivable to the estimated amount the Company believes will ultimately
+be collected. As of July 31, 2021 and 2020, all balances are collectable based on management s assessment. 
+
+Property
+and equipment, net 
+
+Property
+and equipment, net, are stated at cost. Depreciation and amortization are computed using the straight-line method over the estimated
+useful lives of the assets. The estimated useful lives of property and equipment are as follows: 
+
+Years 
+ 
+ Leasehold
+ improvements 
+ Lesser
+ of lease term or estimated useful life 
+ 
+ ROU
+ assets-Finance lease 
+ Lease
+ term 
+ 
+ Furniture
+ and fixtures 
+ 3-5 
+ 
+ Office
+ equipment and vehicles 
+ 3-5 
+ 
+ Computer
+ software 
+ 3-5 
+
+Expenditures
+for repairs and maintenance are charged to expense as incurred. 
+
+Goodwill
+and Long-lived Assets 
+
+Goodwill,
+which represents the excess of the purchase price over the fair value of identifiable net assets acquired, is not amortized, in accordance
+with Accounting Standards Codification (ASC) 350, Intangibles Goodwill and Other. ASC 350 requires that goodwill be tested for
+impairment at the reporting unit level on an annual basis and between annual tests, if an event occurs or circumstances change that would
+more likely than not reduce the fair value of a reporting unit below its carrying value. These events or circumstances could include
+a significant change in the business climate, legal factors, operating performance indicators, competition, or sale or disposition of
+a significant portion of a reporting unit. 
+
+The
+Company has the option to assess goodwill for possible impairment by performing a qualitative analysis to determine whether the existence
+of events or circumstances leads to a determination that it is more likely than not that the fair value of a reporting unit is less than
+its carrying amount. A quantitative assessment is performed if the qualitative assessment results in a more-likely-than-not determination
+or if a qualitative assessment is not performed. The quantitative assessment considers whether the carrying amount of a reporting unit
+exceeds its fair value, in which case an impairment charge is recorded to the extent that the reporting unit s carrying value exceeds
+its fair value. The Company s goodwill was generated from the business acquisitions during the fiscal years ended July 31, 2021
+and 2019. We currently have two reporting units - Hospitality and Early Childhood Education. Given the impact of COVID-19 pandemic and
+the unfavorable operation results, goodwill impairment assessment was performed at interim time and annually. Based on the assessment
+results, management determined that 1,006,343 goodwill and 621,963 deferred lease cost were fully impaired as of July 31, 2020. The
+goodwill generated from Gelinke acquisition in 2021 was fully impaired as of July 31, 2021. 
+
+Reclassifications 
+
+Certain
+amounts on the prior-year consolidated balance sheet, consolidated statement of operations and cash flows were reclassified to conform
+to current-year presentation, with no effect on ending stockholders equity. 
+
+24 
+
+Business
+Combinations 
+
+If
+an acquired set of activities and assets is capable of being operated as a business consisting of inputs and processes from the viewpoint
+of a market participant, the assets acquired and liabilities assumed are a business. Business combinations are accounted for using the
+acquisition method of accounting, which requires an acquirer to recognize the assets acquired and the liabilities assumed at the acquisition
+date measured at their fair values as of that date. Fair value determinations are based on discounted cash flow analyses or other valuation
+techniques. In determining the fair value of the assets acquired and liabilities assumed in a material acquisition, the Company may utilize
+appraisals from third party valuation firms to determine fair values of some or all of the assets acquired and liabilities assumed, or
+may complete some or all of the valuations internally. In either case, the Company takes full responsibility for the determination of
+the fair value of the assets acquired and liabilities assumed. The value of goodwill reflects the excess of the fair value of the consideration
+conveyed to the seller over the fair value of the net assets received. Acquisition-related costs that the Company incurs to affect a
+business combination are expensed in the periods in which the costs are incurred. 
+
+Noncontrolling
+interest 
+
+ASC
+810 establishes accounting and reporting standards for ownership interests in subsidiaries held by parties other than the parent, the
+amount of consolidated net income attributable to the parent and to the noncontrolling interest, changes in a parent s ownership
+interest and the valuation of retained noncontrolling equity investments when a subsidiary is deconsolidated. ASC 810 also establishes
+reporting requirements that provide sufficient disclosures that clearly identify and distinguish between the interest of the parent and
+the interests of the noncontrolling owner. 
+
+Advertising
+costs 
+
+Advertising
+costs are expensed as incurred. During the year ended July 31, 2021 and 2020, amount of 65,406 and 12,582 advertising expenses were
+incurred, respectively. 
+
+Income
+Taxes 
+
+The
+Company accounts for income taxes using the asset and liability method in accordance with ASC 740, Accounting for Income Taxes. The asset
+and liability method provides that deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary
+differences between the financial reporting and tax bases of assets and liabilities, and for operating loss and tax credit carry forwards.
+Deferred tax assets and liabilities are measured using the currently enacted tax rates and laws that will be in effect when the differences
+are expected to reverse. The Company records a valuation allowance to reduce deferred tax assets to the amount that is believed more
+likely than not to be realized. 
+
+The
+2017 Tax Reform Act permanently reduces the U.S. corporate income tax rate to a flat 21 rate. In addition, the 2017 Tax Reform Act also
+creates a new requirement that certain income (i.e., Global Intangible Low-Taxed Income GILTI )) earned by controlled foreign
+corporations CFCs must be included in the gross income of the CFCs U.S. shareholder income. The tax law in PRC
+applies an income tax rate of 25 to all enterprises. The Company s subsidiary does not receive any preferential tax treatment
+from local government. The Company has been in loss position for years and zero balances of tax provisions, deferred tax assets and liabilities
+as of the reporting periods ended. 
+
+Revenue
+Recognition 
+
+The
+Company adopted ASC Topic 606 Revenue from Contracts with Customers Topic 606) on August 1, 2019, applying the modified retrospective
+method to all contracts that were not completed as of August 1, 2019. The Company is building up its core business upon the completion
+of multiple acquisitions in March 2019 and impact of COVID-19 pandemic, limited operations occurred during the years ended July
+31, 2021and 2020. The revenue for the year ended July 31, 2021 and 2020 were mainly generated from HZLJ, PDHJ and Gelinke. 
+
+25 
+
+Revenue
+is recognized when control of promised goods or services is transferred to our customers in an amount of consideration to which we expect
+to be entitled to in exchange for those goods or services. We follow the five steps approach for revenue recognition under Topic 606:
+(i) identify the contract(s) with a customer, (ii) identify the performance obligations in the contract, (iii) determine the transaction
+price, (iv) allocate the transaction price to the performance obligations in the contract, and (v) recognize revenue when (or as) we
+satisfy a performance obligation. Billings to customers for which services are not rendered are considered deferred revenue. ASC 606
+has no material impacts on the Company s financial positions. The Company s revenue is recognized when it satisfies a single
+performance obligation by transferring control of its products or providing services to a customer. The Company s general payment
+terms are short-term in duration. The Company does not have significant financing components or payment terms. The Company recorded 545,346
+and 75,861 unsatisfied performance obligations and contract liabilities as of July 31, 2021 and 2020, respectively. 
+
+a. 
+ Early
+ childhood education services: HF Int l Education generates revenue from childhood education classes provided to its customers.
+ The educational services consist of parent-child and bilingual childcare classes. Each contract of educational classes is accounted
+ for as a single performance obligation which is satisfied proportionately over the service period. Tuition fee is generally collected
+ in advance and is initially recorded as deferred revenue and transferred to contract liabilities after trial period. Refunds are
+ provided to parents if they decide within the trial period that they no longer want to take the class. After the trial period, if
+ a parent withdraws from a class, usually only that unearned portion of the fee is available to be returned. For the year ended July
+ 31, 2021 and 2020, 435,150 and 29,582, respectively, of revenue were derived from early childhood education classes provided. 
+
+b. 
+ Hospitality
+ services: HZLJ generates revenue primarily from the room rentals, sale of food and beverage and other miscellaneous hospitality services.
+ The Company recognizes room rental and services daily as services are provided. Under ASC 606, the pattern and timing of recognition
+ of income from hotel facility is consistent with the prior accounting model. 
+
+Income
+(Loss) Per Share 
+
+Basic
+earnings per share include no dilution and are computed by dividing net income (or loss) by the weighted- average number of shares outstanding
+during the period. Diluted earnings per share reflect the potential dilution of securities that could share in the earnings of the Company,
+assuming the issuance of an equivalent number of common shares pursuant to options, warrants, or convertible debt arrangements. Diluted
+earnings per share are not shown for periods in which the Company incurs a loss because it would be anti-dilutive. Similarly, potential
+common stock equivalents are not included in the calculation if the effect would be anti-dilutive. No potentially dilutive debt or equity
+securities were issued or outstanding during the year ended July 31, 2021 or 2020. 
+
+Recent
+Accounting Pronouncements. 
+
+Recently
+adopted accounting pronouncements 
+
+In
+January 2017, the FASB issued ASU No. 2017-04, Intangibles and Other (Topic 350): Simplifying the Test for Goodwill Impairment ,
+which eliminates the requirement to calculate the implied fair value of goodwill, but rather requires an entity to record an impairment
+charge based on the excess of a reporting unit s carrying value over its fair value. This amendment is effective for annual or
+interim goodwill impairment tests in fiscal years beginning after December 15, 2019. Early adoption is permitted. The Company early adopted
+ASU No. 2017-04 on January 31, 2020. Management determined the goodwill generated from HZLJ and HFSH acquisition was fully impaired as
+of January 31, 2020, and the goodwill generated from Gelinke acquisition was impaired as of July 31, 2021 
+
+26 
+
+The
+Company adopted ASC 842 lease accounting policy on August 1, 2019 and elected not to restate comparative periods in transition and use
+the effective date of ASU No. 2016-02 as the date of initial application of ASC 842. As a result, the consolidated balance sheet prior
+to August 1, 2019 was not restated, and continues to be reported under previous lease guidance that did not require the recognition of
+operating lease liabilities and corresponding lease assets on the consolidated balance sheet. The cumulative effect of the changes made
+to our Condensed Consolidated Balance Sheet at August 1, 2019 for the adoption of the new lease standard was as follows: 
+
+Balance
+ at 
+ 
+ Balance
+ at 
+
+July
+ 31, 2019 
+ Adjustments 
+ August
+ 1, 2019 
+ 
+ Assets: 
+
+Prepaid
+ and Other current receivables 
+ 386,700 
+ (74,197 
+ 312,503 
+ 
+ ROU
+ assets-Operating lease 
+ 
+ 4,185,827 
+ 4,185,827 
+
+Liabilities: 
+
+Current
+ Operating Lease liabilities 
+ 
+ 651,424 
+ 651,424 
+ 
+ Operating
+ lease liabilities 
+ 
+ 3,481,229 
+ 3,481,229 
+
+The
+adoption of ASU No. 2016-02 had an immaterial impact on the Company s consolidated statement of operation and consolidated statement
+of cash flows for the year ended July 31, 2020. In addition, the Company elected the package of practical expedients permitted under
+the transition guidance within the new standard, which allowed the Company to carry forward the historical lease classification, not
+reassess prior conclusions related to expired or existing contracts that are or that contain leases, and not reassess the accounting
+for initial direct costs. Operating leases with a term of 12 months or less will not be recorded on the Consolidated Balance Sheet. Additional
+information and disclosures required by ASU No. 2016-02 are contained in Note 13 Leases. 
+
+Recently
+issued accounting pronouncements not yet adopted 
+
+In
+June 2016, the FASB issued ASU 2016-13, Financial Instruments Credit Losses . The standard, including subsequently
+issued amendments (ASU 2018-19, ASU 2019-04, ASU 2019-05, ASU 2019-10 and ASU 2019-11), requires a financial asset measured at amortized
+cost basis, such as accounts receivable and certain other financial assets, to be presented at the net amount expected to be collected
+based on relevant information about past events, including historical experience, current conditions, and reasonable and supportable
+forecasts that affect the collectability of the reported amount. In November 2019, the FASB issued ASU No. 2019-10 to postpone the effective
+date of ASU No. 2016-13 for public business entities eligible to be smaller reporting companies defined by the SEC to fiscal years beginning
+after December 15, 2022, including interim periods within those fiscal years. The Company is evaluating the impact of this guidance on
+its consolidated financial statements. 
+
+In
+December 2019, the FASB issued ASU 2019-12, Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes which is intended to
+simplify various aspects related to accounting for income taxes. The standard is effective for fiscal years, and interim periods within
+those years, beginning after December 15, 2020, with early adoption permitted. The Company is currently evaluating the effects of the
+standard on our consolidated financial statements and related disclosures. 
+
+27 
+
+NOTE
+2. GOING CONCERN 
+
+The
+accompanying financial statements were prepared on a going concern basis, which contemplates the realization of assets and the satisfaction
+of obligations in the normal course of business. However, Hartford Great Health Corp. has incurred losses since inception, resulting
+in an accumulated deficit of 5,821,519 as of July 31, 2021. These conditions raise substantial doubt about the ability of Hartford
+Great Health Corp. to continue as a going concern. 
+
+In
+view of these matters, continuation as a going concern is dependent upon several factors, including the availability of debt or equity
+funding upon terms and conditions acceptable to Hartford Great Health Corp., and ultimately achieving profitable operations. Management
+believes that Hartford Great Health Corp. s business plan provides it with an opportunity to continue as a going concern. However,
+management cannot provide assurance that Hartford Great Health Corp. will meet its objectives and be able to continue in operation. 
+
+The
+financial statements do not include any adjustments to reflect the possible future effects on the recoverability and classification of
+assets or the amounts and classification of liabilities that may result from the possible inability of Hartford Great Health Corp. to
+continue as a going concern. 
+
+NOTE
+3. STOCKHOLDERS EQUITY 
+
+Preferred
+Stock 
+
+The
+Company is authorized to issue 5,000,000 shares of preferred stock with a par value of 0.001 per share. No shares of preferred stock
+have been issued or outstanding since Inception (April 2, 2008). 
+
+Common
+Stock 
+
+The
+Company is authorized to issue 300,000,000 shares of common stock with a par value of 0.001 per share. On December 11, 2018, 96,090,000
+shares of common stock were issued at the price of 0.02 per share to raise 1,921,800 capital in cash. On November 24, 2020, the Company
+issued additional 1,000,000 shares of common stock to a significant shareholder of the Company at 0.02 per share. As of July 31, 2021
+and 2020, the company had a total of 100,108,000 and 99,108,000 shares of common stock issued and outstanding, respectively. 
+
+NOTE
+4. ACQUISITIONS, JOINT VENTURES AND DECONSOLIDATION 
+
+Joint
+Venture HF Int l Education 
+
+On
+March 22, 2019, HFSH entered into a joint venture agreement (the JV agreement with Shanghai Jingyu Education Tech Ltd. SH Jingyu and one individual investor, to form a new entity - HF Int l Education to provide childcare education
+services. HFSH initially owned 65.0 ownership HF Int l Education, and reduced to 61.0 during the year ended on July 31, 2020
+because of equity transactions between noncontrolling shareholders. On June 19, 2020, the board of HF Int l Education decided to
+increase registered capital to RMB10 million from RMB5 million, and three out of four noncontrolling shareholders gave up the subscription
+rights. As a result, HFSH held 75.5 of HF Int l Education and a total of 24.5 equity was held by noncontrolling shareholders.
+Pursuant to the board meeting held on June 1, 2021, the noncontrolling shareholders sold a total 14.5 equity at zero consideration to
+HFSH. As a result, HFSH holds 90.0 of HF Int l Education and 403,131 noncontrolling loss was absorbed by HFSH as a result of
+the ownership restructure at HF Int l Education. 
+
+Continuous
+operation losses caused by the market uncertainties including pandemic and government regulations, HF Int l Education entered agreements
+to sell the copyrights of seven education textbooks and ten HaiDeFuDe registered trademarks owned for RMB1.2 million and
+RMB1.0 million, respectively, to Hartford Health Management (Shanghai) Co., Ltd HFHM in March 2021 with approval
+of the board of directors. The CEO of HFHM is a shareholder of the Company who owns more than 5 of the Company s common stocks. 
+
+Operation
+result of HF Int l Education are included in the Company s consolidated financial statements commencing on the formation
+date. The Company classifies the ownership interest held by other four parties as Noncontrolling interest on the consolidated
+balance sheet. 
+
+Acquisition
+of Gelinke 
+
+On
+July 20, 2020, HF Int l Education entered an agreement with two individuals to acquire the whole ownership of Gelinke, who engages
+at early childhood education services in Changning District, Shanghai. The results of operations of the acquired entities are included
+in the Company s consolidated financial statements commencing on the acquisition date. The Company has recorded an allocation of
+purchase price to Gelinke s tangible and identifiable intangible assets acquired and liabilities assumed based on their fair value
+at the acquisition date. The Company accounted the acquisition transaction in accordance with FASB ASC 805, Business Combinations, under
+acquisition accounting method. The related transaction costs were immaterial and included in General and administrative expenses in the
+accompanying consolidated statements of operations. The acquisition was completed on August 31, 2021. The calculation of purchase price
+and purchase price allocation is as follows: 
+
+Assets
+ Acquired and Liabilities Assumed 
+ 
+ Cash
+ and cash equivalents 
+ 1,809 
+ 
+ Restricted
+ Cash 
+ 25,009 
+ 
+ Prepaid
+ and Other current receivables 
+ 4,696 
+ 
+ Property
+ and Equipment, net 
+ 4,294 
+ 
+ Unearned
+ revenue 
+ (78,696 
+ 
+ Goodwill 
+ 67,712 
+ 
+ Total
+ consideration 
+ 24,824 
+
+10,462
+(RMB70,000) payable to the acquiree plus 14,362 (RMB100,000) cash payment totaled 24,824 consideration for the acquisition. 
+
+Goodwill
+is mainly attributable to synergies expected from the acquisition of license, list of customers and teacher workforce. Due to unfavorable
+operation result of Gelinke during the year ended July 31, 2021, management determined that 67,712 goodwill generated from Gelinke Acquisition
+was fully impaired. 
+
+28 
+
+Other
+Acquisitions 
+
+In
+January and February 2019, HFSH entered agreements to acquire 85 percent ownership of Shanghai Senior Health Consulting Ltd. SH
+Senior and 55 percent ownership of Shanghai Pasadena Ltd. SH Pasadena ). On December 31, 2020, HFSH withdrew from
+the two acquisition agreements. No penalty results from the withdrawn. 
+
+In
+January 2019, HFSH entered agreements to acquire 100 percent equity interest of Shanghai Luo Sheng International Trade Ltd. SH
+Luosheng ), As of July 31, 2021, the agreement has not yet taken effect as no consideration has been paid toward this acquisition.
+The agreement will be executed when the Company is financially ready to move forward, and the purchase price will be calculated based
+on the net assets of each entity on executing dates. There was no penalty levied or to be levied due to delayed execution or inexecution. 
+
+On
+May and June 2019, the Company entered an agreement and a supplemental agreement to acquire 60 percent equity interest of Shanghai Ren
+Lai Ren Wang Restaurant Co., Ltd. SH RLRW ). The acquisition agreement has not yet taken effect as no consideration has
+been paid towards the acquisition. On June 12, 2020, the company withdraw from the acquisition and transferred the agreement to an individual
+with zero price. 
+
+Disposal
+of subsidiary 
+
+On
+December 31, 2020, HFSH disposed its 90 percent owned subsidiary - Qiao Garden Int l Travel to an individual (the Disposal ).
+The individual is a relative of the CEO, Qiao Garden Int l Travel became a related party after deconsolidation. The operation results,
+assets and liabilities, and cash flows of Qiao Garden Int l Travel were deconsolidated from the Company s consolidated financial
+statements effective on December 31, 2020. The Disposal of Qiao Garden was consummated through a three-party settlement among HFSH, SH
+Qiaohong and Qiao Garden Int l Travel (the Three-Party Settlement ): the original investment RMB 4.5 million plus
+RMB 0.5 million investment income were agreed to returned from Qiao Garden Int l Travel as a result of the Disposal and settled
+with a payable due to SH Qiaohong at SHHF, who was a debtor of Qiao Garden Int l Travel, see Note 14, Related Party Transactions. 
+
+Net
+assets (liabilities) disposed of: 
+
+Net
+ assets (liabilities) disposed of: 
+
+Cash
+ and cash equivalents 
+ 172 
+ 
+ Restricted
+ cash 
+ 29,944 
+ 
+ Related
+ party receivable 
+ 782,224 
+ 
+ Related
+ party payable 
+ (98,615 
+ 
+ Other
+ current payable 
+ (3,876 
+ 
+ Noncontrolling
+ interest 
+ (60,812 
+ 
+ Net
+ assets of the subsidiary, excluding noncontrolling interest 
+ 649,037 
+ 
+ Consideration 
+ 753,354 
+ 
+ Gain
+ on disposal of the subsidiary 
+ (104,317 
+ 
+ Gain
+ on disposal of noncontrolling interest 
+ (60,812 
+ 
+ Gain
+ on disposal of the subsidiary, excluding noncontrolling interest 
+ (43,505 
+
+Net
+inflow / (outflow) of cash and cash equivalents in respect of the disposal subsidiary: 
+
+Cash
+ and cash equivalents 
+ (172 
+ 
+ Restricted
+ cash 
+ (29,944 
+ 
+ Cash
+ and cash equivalents deconsolidated 
+ (30,116 
+
+NOTE
+5. RESTRICTED CASH 
+
+The
+Company early adopted ASU 2016-18, Statement of Cash Flows (Topic 230): Restricted Cash, and includes restricted cash with cash and cash
+equivalents when reconciling the beginning of year and end of year total amounts shown on the statements of cash flows. The restricted
+cash are collaterals required by the local government in China for the early education license Gelinke held and the travel license Qiao
+Garden Int l Travel held as of July 31, 2021 and 2020, respectively. 
+
+The
+following table provides a reconciliation of cash, cash equivalents and restricted cash reported within the balance sheets that sum to
+the total of the same such amounts shown in the statements of cash flows. 
+
+July
+ 31, 2021 
+ July
+ 31, 2020 
+ 
+ Cash
+ and cash equivalents 
+ 27,612 
+ 36,604 
+ 
+ Restricted
+ cash, current/noncurrent 
+ 26,566 
+ 28,673 
+ 
+ Total
+ cash, cash equivalents and restricted cash shown in the statement of cash flows 
+ 54,178 
+ 65,277 
+
+29 
+
+NOTE
+6. LOAN RECEIVABLE 
+
+The
+Company loaned 99,870 to a third party, Longsheng Aquatic Products Co., Ltd. The loan bears 6 annum interest rate with three-month
+term started on February 14, 2019. On May 12, 2019, the loan had been extended for another year, expires on May 13, 2020. Nil and 5,260
+of interest income were recognized during the year ended July 31, 2021 and 2020, respectively. The loaned amount and interest have been
+fully paid back on June 11, 2020. 
+
+The
+Company loaned another 200,000 to HK HongTai on March 4, 2019. The loan bears annual interest rate of six percent with six months term
+expiring on September 3, 2019. Subsequently on August 30, 2019, the loan has been extended to September 3, 2020. Nil and 10,202 of interest
+income were recognized during the years ended July 31, 2021 and 2020, respectively. The loan principal and interest accrued have been
+fully paid back on June 11, 2020. 
+
+NOTE
+7. PREPAID AND OTHER CURRENT RECEIVABLES 
+
+Prepaid
+and other current receivable amounts of 286,232 and 173,819 as of July 31, 2021 and 2020, respectively, mainly consist of advances
+for purchase and renovation project, employee operating advances and others. 
+
+NOTE
+8. INVENTORY 
+
+Inventory
+mainly consists of books, the early childhood education materials. Inventory is stated at the lower of cost or net realizable value.
+As of July 31, 2021 and 2020, inventory balance was 323,814 and nil, respectively. 
+
+NOTE
+9. PROPERTY AND EQUIPMENT, NET 
+
+Property
+and equipment, net consists of the following at July 31, 2021 and 2020: 
+
+July
+ 31, 
+ July
+ 31, 
+
+2021 
+ 2020 
+ 
+ Leasehold
+ improvements 
+ 214,184 
+ 181,378 
+ 
+ Finance
+ lease assets 
+ 290,714 
+ 269,304 
+ 
+ Furniture
+ and fixtures 
+ 289,000 
+ 202,241 
+ 
+ Office
+ equipment and vehicles 
+ 161,529 
+ 112,759 
+ 
+ Construction
+ in progress 
+ 67,044 
+ 19,326 
+
+1,022,471 
+ 785,008 
+ 
+ Less:
+ accumulated depreciation and amortization 
+ (428,954 
+ (317,127 
+
+593,517 
+ 467,881 
+
+Depreciation
+expense for the years ended July 31, 2021 and 202, was 85,103 and 48,643, respectively. 
+
+NOTE
+10. OTHER ASSETS 
+
+Other
+assets consist of the following at July 31, 2021 and 2020: 
+
+July
+ 31, 2021 
+ July
+ 31, 2020 
+ 
+ Other
+ miscellaneous assets 
+ 32,308 
+ 40,265 
+ 
+ Rental
+ deposits 
+ 289,499 
+ 288,970 
+ 
+ Deferred
+ cost of finance lease 
+ - 
+ - 
+
+321,807 
+ 329,235 
+
+The
+cost of obtaining the finance lease of the land use rights and hotel building at HZLJ, in the amount of 879,800 (RMB 6 million) was
+recognized as Other Assets and subject for amortization over the remaining lease term, 41 years commenced on October 2010. The amortization
+is computed using the straight-line method over the remaining lease term. Amortization expense of deferred cost of finance lease for
+the year ended July 31, 2021 and 2020 were Nil and 21,298, respectively. Given the impact of COVID-19 pandemic and the unfavorable operation
+results, management determined that the deferred cost of finance lease was fully impaired as of July 31, 2020 and 621,963 impairment
+cost was recorded for the year ended July 31, 2020. 
+
+30 
+
+NOTE
+11. GOODWILL 
+
+Our
+goodwill was mainly contributed by the acquisitions during the fiscal year of 2021 and 2019. Under the circumstance of the COVID-19 pandemic
+and slowly economic recoveries at the cities of Shanghai and Hangzhou, the Company s business plans have been halted for an indefinite
+period of time. Based on the management s assessment, management determined that goodwill was fully impaired as of January 31,
+2021 and 2020. The following is a roll-forward of goodwill for the years ended July 31, 2021 and 2020: 
+
+Hangzhou
+ Longjing Qiao Fu Vacation Hotel 
+ HFSH
+ and Shanghai Qiao Garden Int l Travel Agency 
+ HF
+ Int l Education -Gelinke 
+ Total 
+ 
+ Balance
+ at July 31, 2019 
+ 466,847 
+ 573,170 
+ - 
+ 1,040,017 
+ 
+ Impairment 
+ (451,732 
+ (554,611 
+ - 
+ (1,006,343 
+ 
+ Foreign
+ Exchange 
+ (15,115 
+ (18,559 
+ - 
+ (33,674 
+ 
+ Balance
+ at July 31, 2020 
+ - 
+ - 
+ - 
+ - 
+ 
+ Acquisitions 
+ - 
+ - 
+ 67,712 
+ 67,712 
+ 
+ Impairment 
+ - 
+ - 
+ (70,514 
+ (70,514 
+ 
+ Foreign
+ Exchange 
+ - 
+ - 
+ 2,802 
+ 2,802 
+ 
+ Balance
+ at July 31, 2021 
+ - 
+ - 
+ - 
+ - 
+
+NOTE
+12. OTHER CURRENT PAYABLES 
+
+The
+following is a breakdown of the accounts and other payables as of July 31, 2021 and 2020: 
+
+July
+ 31, 2021 
+ July
+ 31, 2020 
+ 
+ Payable
+ to acquirees 
+ 151,317 
+ 130,138 
+ 
+ Accrued
+ payroll 
+ 11,064 
+ 48,534 
+ 
+ Payable
+ to publisher 
+ 139,287 
+ - 
+ 
+ Other
+ payables 
+ 169,935 
+ 110,432 
+
+471,603 
+ 289,104 
+
+Payable
+to acquiree is the unpaid consideration for the acquisitions described in Note 4 Acquisitions and Joint Venture. 
+
+NOTE
+13. LEASES 
+
+At
+the inception of a contract, the Company assesses whether the contract is, or contains, a lease. Leases are classified as either finance
+leases or operating leases based on criteria in Accounting Standards Codification ASC 842. Operating leases are included
+in ROU assets-Operating lease, Current Operating Lease liabilities and Operating lease liabilities, finance leases are included in Property
+and Equipment and Other Liabilities in the condensed Consolidated Balance Sheet. 
+
+Right-of-use ROU assets and liabilities are recognized at the lease commencement date based on the present value of lease payments
+over the lease term. As the lease did not provide an implicit rate, the Company uses its incremental borrowing rate based on the information
+available at the lease commencement date in China market. ROU assets also include any lease payments made and exclude lease incentives.
+Lease terms may include options to extend or terminate the lease when it is reasonably certain that the Company will exercise that option.
+Lease expense for operating leases, consisting of lease payments, is recognized on a straight-line basis over the lease term. Lease expense
+for finance leases consists of the amortization of the ROU asset on a straight-line basis over the asset s estimated useful life
+and interest expense is calculated using the amortized cost basis. 
+
+As
+of July 31, 2021, the Company has multiple operating leases for office spaces and a finance lease of land and hotel building. Our operating
+leases have remaining lease terms ranging from one year to five years, with various term extensions available. Our finance lease has
+remaining lease term of thirty years. The Company has elected not to recognize ROU assets and lease liabilities for short-term operating
+leases that have a term of twelve months or less. 
+
+In
+ June 2018 and January 2019, HFSH and HF Int l Education entered
+two lease agreements with Shanghai Longjin Corporate Management Co., Ltd (the Sublessor to lease office spaces (the Subleases ).
+HFSH and HF Int l Education received Notices of Lease Termination from the Sublessor for late payments on April 13, 2020 and filed
+a civil lawsuit against the Sublessor on July 10, 2020 (see Note 16). And the original lease agreement entered between the Sublessor
+and the landlord of the office building (the Landlord was terminated by the Landlord on June 1, 2020 due to payment default.
+The two sublease agreements entered with the Sublessor was terminated on June 1, 2020 and approximately 921,000 ROU and 891,000 lease
+liability associated with the two Subleases as of May 31, 2020 were eliminated and 29,000 other expenses was recognized as a result.
+HF Int l Education entered a new lease agreement with the Landlord on June 1, 2020 for the same office spaces with a five-year
+term. On July 13, 2021, HF Int l Education entered a sublease agreement with sub-lessee (a third party) for some office space with
+two-year term, amount of 5,003 was recognized as sublease income, included under other income, for the year ended July 31, 2021. 
+
+31 
+
+On
+September 1, 2020, Gelinke entered a five-year new lease agreement at the original office location upon the completion of the acquisition.
+Approximately 1.2 million ROU and lease liability, respectively, were recognized with the new lease at lease commencement date. Subsequently
+on August 15, 2021, an early termination agreement was entered to terminate this lease on August 30, 2021. As a result, approximately
+ 1 million ROU and lease liability, respectively, associated with this lease as of July 31, 2021 were eliminated and 40,005 gain was
+recognized. 
+
+HZHF
+terminated its original office lease on January 6, 2021. Approximately 287,000 ROU and 258,000 lease liability associated with the
+original lease agreement were eliminated. On January 9, 2021, HFHZ entered into a two-year new lease with smaller space at the same location.
+Approximately 49,000 ROU and lease liability, respectively, were recognized with the new lease at lease commencement date. 
+
+The
+finance lease was obtained through HZLJ acquisition on March 22, 2019. On October 1, 2010, HZLJ took over the lease of the land and hotel
+building for 41 years. Finance lease right-of-use assets represent the Company s right to use an underlying asset for the lease
+term and lease liabilities represent the Company s obligation to make lease payments arising from the lease. 
+
+Lease-related
+assets and liabilities at July 31, 2021 and 2020 were as follows: 
+
+July
+ 31, 
+ July
+ 31, 
+
+2021 
+ 2020 
+ 
+ Assets 
+
+Finance
+ lease right-of-use assets, cost 
+ 290,714 
+ 269,304 
+ 
+ Less:
+ accumulated amortization 
+ (80,547 
+ (64,589 
+ 
+ Finance
+ lease right-of-use assets, net 
+ 210,167 
+ 204,715 
+ 
+ ROU
+ assets-Operating lease 
+ 3,837,186 
+ 4,499,693 
+ 
+ Total
+ Lease ROU assets 
+ 4,047,353 
+ 4,704,408 
+ 
+ Liabilities 
+
+Current
+ Operating Lease liabilities 
+ 2,508,959 
+ 991,506 
+ 
+ Operating
+ lease liabilities, noncurrent 
+ 1,785,528 
+ 3,916,259 
+ 
+ Finance
+ lease liabilities, noncurrent 
+ 368,715 
+ 336,791 
+ 
+ Total
+ Lease liabilities 
+ 4,663,202 
+ 5,244,556 
+
+The
+components of lease cost for the year ended July 31, 2021 and 2020: 
+
+Years
+ ended July 31, 
+
+2021 
+ 2020 
+ 
+ Operating
+ lease cost 
+ 1,346,787 
+ 1,052,961 
+ 
+ Finance
+ leases: 
+
+Amortization
+ of ROU assets 
+ 6,967 
+ 6,568 
+ 
+ Interest
+ on finance lease liabilities 
+ 27,108 
+ 25,195 
+ 
+ Finance
+ lease cost 
+ 34,075 
+ 31,763 
+ 
+ Total
+ lease cost 
+ 1,380,862 
+ 1,084,724 
+
+Supplemental
+cash flow information for leases for the years ended July 31, 2021 and 2020: 
+
+Years
+ ended July 31, 
+
+2021 
+ 2020 
+ 
+ Operating
+ cash flows paid for operating leases 
+ 1,238,198 
+ 592,514 
+ 
+ Financing
+ cash flows paid for finance leases 
+ 22,049 
+ 19,878 
+
+The
+weighted-average remaining lease term and weighted-average discount rate for operating and finance leases at July 31, 2021 was as follows: 
+
+Operating
+ Leases 
+ Finance
+ Leases 
+ 
+ Weighted-average
+ remaining lease term (years) 
+ 4.0 
+ 30.0 
+ 
+ Weighted-average
+ discount rate 
+ 8 
+ 8 
+
+The
+following table reconciles the undiscounted future minimum lease payments for operating and finance leases executed at July 31, 2021: 
+
+Operating
+ Leases 
+ Finance
+ Leases 
+ 
+ 2022 
+ 1,468,611 
+ 23,214 
+ 
+ 2023 
+ 1,143,799 
+ 23,988 
+ 
+ 2024 
+ 1,196,012 
+ 24,762 
+ 
+ 2025 
+ 1,107,760 
+ 25,536 
+ 
+ 2026 
+ 88,028 
+ 26,310 
+ 
+ 2027
+ and thereafter 
+ - 
+ 955,660 
+ 
+ Total
+ lease payments 
+ 5,004,210 
+ 1,079,470 
+ 
+ Less
+ interest 
+ (709,723 
+ (710,755 
+ 
+ Present
+ value of future lease payments 
+ 4,294,487 
+ 368,715 
+ 
+ Current
+ Lease liabilities 
+ 2,508,959 
+ - 
+ 
+ Noncurrent
+ Lease liabilities 
+ 1,785,528 
+ 368,715 
+
+32 
+
+NOTE
+14. RELATED PARTY TRANSACTIONS 
+
+Related
+Party Receivables 
+
+As
+of July 31, 2021 and 2020, amounts of 0 and 703,776, respectively, are due from Shanghai Qiaohong Real Estate Co., Ltd. SH
+Qiaohong ), the noncontrolling interest of HZLJ. The balance was acquired through HFSH acquisition. HFSH lent the amount to SH
+Qiaohong for two years on June 21, 2018 bearing annual interest of six percent. On August 1, 2020, the loan has been extended to July
+31, 2022. The balance was settled through a Three-way settlement agreement on December 31, 2020, see following Three-Party Settlement
+Agreement paragraph for detail. For the years ended July 31, 2021 and 2020, 18,662 and 37,676 of interest income were recognized,
+respectively. 
+
+295,916
+advances to HFHM were made pursuant to the license agreements entered by HF Int l Education and its three subsidiaries in
+June 2021. See Note 16 for details. The remaining related party receivable of 29,948 and 49,300 as of July 31, 2021 and 2020, respectively,
+represents the operating advances made to the affiliates which are managed by the same management team. These advances do not bear interest
+and are considered due on demand. 
+
+Related
+Party Payables 
+
+As
+of July 31, 2021 and 2020, amounts of 616,159 and 674,830, are payable to SH Qiaohong, respectively. Majority of the balance at July
+31, 2020 was assumed through HFSH acquisition, from its 90 percent owned entity, Qiao Garden Int l Travel. This payable balance
+does not bear interest and due on demand. This balance was settled through a Three-way settlement agreement on December 31, 2020, see
+following Three-Party Settlement Agreement paragraph for detail. The balance at July 31, 2021 was mainly funding support
+from SH Qiaohong for operation. The funding support bears no interest and due on demand. 
+
+As
+of July 31, 2021 and 2020, amount of 619,051 and 594,965, respectively, is payable to Shanghai Qiao Garden Property Management Group Qiao Garden Group ), an entity managed by the same management team. The balance was assumed through HZLJ acquisition. This
+payable balance does not bear interest and is considered due on demand. 
+
+HFSH
+had payable balances to Shanghai Oversea Chinese Culture Media Ltd. SH Oversea ), an entity managed by the same management
+team, in the amounts of 2,926,782 and 1,012,650 as of July 31, 2021 and 2020, respectively. The payable is funding support from SH
+Oversea for operation, bears no interest and due on demand. 
+
+From
+September 2020 to July 2021, the Company borrowed several notes in a total amount of 145,000, in form of a short-term loan at 5 per
+annum from a related party, Hartford Hotel Investment Inc., an entity managed by the same management team. 3,856 of interest expense
+was recorded during the year ended July 31, 2021. The unpaid principal and interest will be due on demand. 
+
+As
+of July 31, 2021 and 2020, the Company has 657,572 and 592,106, respectively, short-term payable to Shanghai DuBian Assets Management
+Ltd. Dubian ), which is owned by the Company s ex-CEO s relative. The payable balance was assumed from the
+acquisition transaction. On April 30, 2019, both parties entered a long-term agreement to convert the payable to a long-term debt, with
+expiration date on April 30, 2021, bearing approximately 2.5 percent of annual interest. On April 30, 2021, both parties entered a second
+long-term agreement to extend another two years, with expiration date on April 30, 2023, bearing approximately 4 percent of annual interest.
+ 18,072 and 14,445 of interest expense were recognized during the year ended July 31, 2021 and 2020, respectively. The unpaid principal
+and interest will be due on the maturity date. This loan payable is not exposed to market risk due to the stable and fixed interest rates
+in accordance with the loan agreements. As of July 31, 2021 and 2020, the estimated fair value of long term loan payable was approximately
+ 655,940 and 591,521, respectively. 
+
+The
+remaining related party payable of 80,477 and 92,100 as of July 31, 2021 and 2020, respectively, represents the unpaid portion of operating
+advances made to the Company by affiliates which are managed by the same management team. These advances do not bear interest and are
+considered due on demand. 
+
+Three-Party
+Settlement Agreement 
+
+On
+December 31, 2020, a Three-Party Settlement agreement among HFSH, SH Qiaohong and Qiao Garden Int l Travel was entered. Pursuant
+to the agreement, around 721,000 (RMB 5,031,699) payable due to SH Qiaohong under HFSH was settled with the receivable due from the
+same related party under Qiao Garden Int l Travel through withdrawal of 90 ownership of Qiao Garden Int l Travel HFSH owned.
+Total RMB5.0 million including the original investment RMB4.5 million was withdrawn from Qiao Garden Int l Travel, and 104,317
+(RMB697,000) gain on disposal was recognized at disposal date. 
+
+Other
+Related Party Transactions 
+
+Office
+space at Rosemead, CA is provided to Hartford Great Health Corp. at no cost by the sole executive officer. No provision for these costs
+has been included in these financial statements as the amounts are not material. 
+
+On
+September 30, 2019, HF Int l Education entered two debt agreements with the related parties, SH Qiao Hong and SH Oversea. Each
+debt agreement provides a line of credit up to RMB9.0 million with two-year term, bearing 3.0 annum interest rate. The unpaid principal
+and interest will be due on the maturity dates. As of July 31, 2021, no balance was withdrawn from the two line of credits by HF Int l
+Education. 
+
+33 
+
+NOTE
+15. NONCONTROLLING INTERESTS 
+
+Noncontrolling
+interests consisted of the following as of July 31, 2021 and 2020: 
+
+Name
+ of Entity 
+ 
+ of Non- 
+ Controlling 
+ Interests 
+ July
+ 31, 
+ 2020 
+ Net
+ loss 
+ Restructure 
+ of 
+ subsidiary 
+ Disposal 
+ of 
+ subsidiary 
+ Foreign 
+ currency 
+ translation 
+ adjustment 
+ July
+ 31, 
+ 2021 
+ 
+ HZLJ 
+ 40.0 
+ (889,068 
+ (42,285 
+ - 
+ - 
+ (31,645 
+ (962,998 
+ 
+ HF
+ Int l Education 
+ 10.0 
+ (88,692 
+ (548,547 
+ 403,131 
+ - 
+ (7,967 
+ (242,075 
+ 
+ Qiao
+ Garden Intl Travel 
+ - 
+ 60,271 
+ 1,827 
+ - 
+ (62,098 
+ - 
+ - 
+ 
+ Total 
+ 
+ (917,489 
+ (589,005 
+ 403,131 
+ (62,098 
+ (39,612 
+ (1,205,073 
+
+Name
+ of Entity 
+ 
+ of Non- 
+ Controlling 
+ Interests 
+ July
+ 31, 
+ 2019 
+ Net
+ loss 
+ Disposal
+ of 
+ Noncontrolling 
+ interest 
+ Investment 
+ from 
+ Noncontrolling 
+ Interest 
+ Foreign 
+ currency 
+ translation 
+ adjustment 
+ July
+ 31, 
+ 2020 
+ 
+ HZLJ 
+ 40.0 
+ (250,794 
+ (619,980 
+ - 
+ - 
+ (18,294 
+ (889,068 
+ 
+ HF
+ Int l Education 
+ 39.0 
+ 104,923 
+ (365,250 
+ (12,771 
+ 186,231 
+ (1,825 
+ (88,692 
+ 
+ Qiao
+ Garden Intl Travel 
+ 10.0 
+ 64,730 
+ (5,699 
+ - 
+ - 
+ 1,240 
+ 60,271 
+ 
+ Total 
+ 
+ (81,141 
+ (990,929 
+ (12,771 
+ 186,231 
+ (18,879 
+ (917,489 
+
+90 
+equity of SHHZJ, a limited partnership and 10 shareholder of HF Int l Education, is held by Mr. Song, ex-CEO of the Company on
+behalf of an unrelated individual. However, HF Int l Education does not have the obligation to absorb losses of SHHZJ or a right
+to receive benefits from SHHZJ that could potentially be significant to SHHZJ, thus, SHHZJ is not considered a VIE of HF Int l
+Education. In June 2021, SHHZJ and one individual shareholder transferred a total 14.5 noncontrolling interest of HF Int l Education
+to SHHF at zero cost, see note 4 Acquisitions, joint ventures and deconsolidation . 
+
+NOTE
+16. COMMITMENTS AND CONTINGENCIES 
+
+There
+has been below material contractual obligations and other commitments except the lease commitments disclosed in Note 13 Leases. 
+
+Lawsuits
+related to lease agreements 
+
+In
+ June 2018 and January 2019, HFSH and HF Int l Education entered
+two lease agreements with Shanghai Longjin Corporate Management Co., Ltd (the Sublessor to lease some office spaces. On
+April 13, 2020, HFSH and HF Int l Education received Notices of Lease Termination from the Tenant for late payments. HFSH and HF
+Int l Education then filed a civil case against the Sublessor for over-charged rent fees because of fictitious office size and
+requested refund in the total amount approximately 481,000 (RMB3.3 million) till July 10, 2020. The Sublessor was further in default
+under the lease agreements due to its lease agreement with the landlord of the office properties (the Landlord was terminated
+on June 1, 2020 by the Landlord. HF Int l Education entered a new lease agreement with the Landlord on June 1, 2020 for the same
+office spaces in a five-year term. 
+
+On
+July 7, 2021, the district court verdict the final ruling and awarded HFSH and HF Int l Education total amounts of RMB870,336 and
+RMB268,450 to be returned by the Sublessor. However, the rental deposits of RMB313,286 paid to the Sublessor are non-refundable. No further
+appeal on these rental dispute cases will be granted. These final ruling proceedings are pending execution by the district court. Associated
+with this Sublessor under the two lease agreements, the Company previously accrued 165,698 rental payable net with deposit. As a result
+of the final ruling, the total 165,698 rental payable, net with deposit, accrued at HFSH and HF Int l Education was written off
+and recognized as other income during the year ended July 31, 2021. 
+
+License
+agreements 
+
+In
+June 2021, HF Int l Education and its three subsidiaries: PDHJ, HDFD and Gelinke entered license agreements with HFHM for the rights
+to use the intellectual Properties (the IPs HFHM owns. The IPs cover in the license agreements are four set of curriculum
+structure designed and fifteen trademarks including HaiDeFuDe registered trademarks purchased from HF Int l Education.
+As a return, on a monthly basis, HF Int l Education and its subsidiaries pays 90 of its tuition revenue generated to HFHM as license
+usage fee. For the year ended July 31, 2021, the Company incurred 161,783 license to HFHM and advanced 295,916 to HFHM for the future
+license fees as of July 31, 2021. 
+
+NOTE
+17. INCOME TAXES 
+
+We
+recorded income tax expense of 800 for both of the years ended July 31, 2021 and 2020, due to the loss position for the years since
+inception. 
+
+Hartford
+Great Health Corp. s deferred tax assets, valuation allowance, and change in valuation allowance are as follows: 
+
+Period
+ Ending 
+ Net
+ NOL carry-forward 
+ NOL 
+ expires 
+ Estimated
+ tax benefit from NOL and other tax benefits (21 
+ Valuation
+ allowance 
+ Change
+ in valuation allowance 
+ Net 
+ deferred 
+ tax
+ asset 
+ 
+ 31-Jul-20 
+ 3,568,185 
+ 2040 
+ 1,070,456 
+ (1,070,456 
+ (795,411 
+ - 
+ 
+ 31-Jul-21 
+ 6,634,644 
+ 2041 
+ 1,990,393 
+ (1,990,393 
+ (919,938 
+ - 
+
+34 
+
+Income
+taxes at the statutory rate are reconciled to reported income tax expense (benefit) as follows: 
+
+2021 
+ 2020 
+ 
+ Federal
+ income tax rate 
+ 21.0 
+ 21.0 
+ 
+ State
+ income tax rate 
+ 8.8 
+ 8.8 
+ 
+ Foreign
+ tax difference 
+ (4.1 
+ (4.6 
+ 
+ Non-taxable
+ item adjustment 
+ (3.2 
+ - 
+ 
+ GILTI 
+ - 
+ - 
+ 
+ Valuation
+ allowance 
+ (22.5 
+ (25.2 
+ 
+ Others 
+ - 
+ - 
+ 
+ Effective
+ tax rate 
+ 0.0 
+ 0.0 
+
+At
+this time, the Company is unable to determine if it will be able to benefit from its deferred tax asset. There are limitations on the
+utilization of net operating loss carry-forwards, including a requirement that losses be offset against future taxable income, if any.
+In addition, there are limitations imposed by certain transactions which are deemed to be ownership changes. Accordingly, a full valuation
+allowance has been established for the entire deferred tax asset. Other temporary differences and estimated permanent differences are
+considered immaterial. Open tax years subject to examination by the IRS range from August 1, 2016 to the present. The Company has no
+uncertain tax positions. 
+
+The
+Company has been in loss position for years since inception and zero balances of deferred tax assets and liabilities as of the reporting
+periods ended. There was no GILTI tax for the Company for the years ended July 31, 2021 and 2020 due to the operation losses incurred. 
+
+NOTE
+18. SEGMENT INFORMATION 
+
+The
+Company currently operates in following industry segments: hospitality (hotel and travel agency) and early childhood education industry
+in China. 
+
+Segment
+information on assets as of July 31, 2021 and revenue generated during the year ended July 31, 2021, as follows: 
+
+Hospitality 
+ Education 
+ Corporate 
+ and 
+ unallocated 
+ Total 
+ 
+ Revenue 
+ 118,309 
+ 435,150 
+ - 
+ 553,459 
+ 
+ Operating
+ loss 
+ (275,417 
+ (2,588,174 
+ (152,774 
+ (3,016,365 
+ 
+ Loss
+ before tax 
+ 81,520 
+ (2,764,798 
+ (158,261 
+ (2,841,539 
+ 
+ Net
+ Loss Attributable to Hartford Great Health Corp 
+ 121,966 
+ (2,216,239 
+ (159,061 
+ (2,253,334 
+ 
+ Total
+ assets (excluding Intercompany balances) 
+ 388,688 
+ 5,441,654 
+ (87,744 
+ 5,742,598 
+
+Segment
+information on assets as of July 31, 2020 and revenue generated during the year ended July 31, 2020, as follows: 
+
+Hospitality 
+ Education 
+ Corporate
+ and unallocated 
+ Total 
+ 
+ Revenue 
+ 68,724 
+ 29,583 
+ - 
+ 98,307 
+ 
+ Operating
+ loss 
+ (2,231,236 
+ (1,088,494 
+ (179,227 
+ (3,498,957 
+ 
+ Loss
+ before tax 
+ (2,260,026 
+ (1,230,479 
+ (163,764 
+ (3,654,269 
+ 
+ Net
+ Loss Attributable to Hartford Great Health Corp 
+ (1,744,600 
+ (742,205 
+ (164,564 
+ (2,651,369 
+ 
+ Total
+ assets (excluding Intercompany balances) 
+ 1,379,590 
+ 4,855,413 
+ 53,978 
+ 6,288,981 
+
+NOTE
+19. RESTATEMENTS 
+
+On
+February 18, 2021, the Company has concluded that the Company s previously reported consolidated statements of cash flows for the
+year ended July 31, 2020 (a Restated Period incorrectly presented some funding support from related parties under operating
+activities, upon reflection and further analysis, which would be more accurate to be accounted for financing activities. 
+
+Restated
+Consolidated Statement of Cash Flow (adjusted line items): 
+
+For the year
+ ended July 31, 2020 
+
+As previously
+ reported 
+ As restated 
+ Change 
+ 
+ Cash flows from operating activities: 
+
+Related party receivables and payables 
+ 1,020,190 
+ 66,954 
+ 953,236 
+ 
+ Net cash (used in) operating activities 
+ (446,792 
+ (1,400,028 
+ 953,236 
+
+Cash flows from financing activities: 
+
+Advances from related parties 
+ - 
+ 953,236 
+ (953,236 
+ 
+ Net cash provided by financing activities 
+ 164,560 
+ 1,117,796 
+ (953,236 
+
+NOTE
+20. SUBSEQUENT EVENTS 
+
+In
+accordance with ASC 855 , Subsequent Events , the Company has evaluated subsequent events through the date of issuance
+of these financial statements and has noted the following subsequent events to be disclosed. 
+
+On
+August 19, 2021, the Company borrowed a note in a total amount of 60,000, in form of a short-term loan at 5 per annum from a related
+party. 
+
+On
+September 13, 2021, Mr. Lianyue Song, resigned all his positions as the Company President, Chief Executive Officer and Chairman of the
+Board of Directors. On September 13, 2021, the Board appointed Ms. Rose Hong Wang to serve as the Company s President, Chief Executive
+Officer and as Chairman of the Board of Directors. 
+
+Due
+to the high rent for an old building environment, the Company decided to close the location of Gelinke s in August 2021.
+The office lease was terminated on August 30, 2021. Gelinke s operation will resume when a more favorable location nearby is found. 
+
+35 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+Not
+Applicable. 
+
+Item
+9A. Controls and Procedures. 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+An
+evaluation was performed under the supervision of our management, including our Chief Executive Officer and Chief Financial Officer (principal
+financial officer), of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e)
+and 15d-15(e) of the Exchange Act) as of the end of the period covered by this Annual Report. Based on that evaluation, our management,
+including our Chief Executive Officer and Chief Financial Officer, concluded that, as of July 31, 2021, our disclosure controls and procedures
+were not effective to ensure that information we are required to disclose in reports that we file or submit under the Exchange Act is
+recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms due to material weaknesses
+in our internal controls described below. 
+
+Management s
+Annual Report on Internal Control Over Financial Reporting. 
+
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Exchange
+Act Rule 13a-15(f). Our internal control system is intended to provide reasonable assurance to our management and board of directors
+regarding the preparation and fair presentation of published financial statements and that we have controls and procedures designed to
+ensure that the information required to be disclosed by us in our reports that we will be required to file under the Exchange Act is
+accumulated and communicated to our management as appropriate to allow timely and informed decisions regarding financial disclosure. 
+
+Our
+management assessed the effectiveness of our internal control over financial reporting as of July 31, 2021. Based on this assessment,
+management believes that as of July 31, 2021, our internal control over financial reporting was not effective based on those criteria. 
+
+Management s
+assessment identified several material weaknesses in our internal control over financial reporting. These material weaknesses include
+the following: 
+
+Lack of proper authorization and approval procedures on significant business transactions. 
+
+Lack of competence accounting personnel at entity level and proper segregation of duties implemented. 
+
+Inherent
+Limitations Over Internal Controls 
+
+Our
+management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls and procedures
+or our internal controls will prevent all errors and all fraud. A control system, no matter how well conceived and operated, can provide
+only reasonable, not absolute, assurance that the objectives of the control system are met. Our control systems are designed to provide
+such reasonable assurance of achieving their objectives. Further, the design of a control system must reflect the fact that there are
+resource constraints and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in
+all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any,
+within our Company have been detected. These inherent limitations include, but are not limited to, the realities that judgments in decision-making
+can be faulty and that breakdowns can occur because of simple error or mistake. Additionally, controls can be circumvented by the individual
+acts of some persons, by collusion of two or more people, or by management override of the control. The design of any system of controls
+also is based in part upon certain assumptions about the likelihood of future events and there can be no assurance that any design will
+succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes
+in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of the inherent limitations in a
+cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+
+36 
+
+Changes
+in Internal Control Over Financial Reporting. 
+
+We
+have made no change in our internal control over financial reporting during the last fiscal year that has materially affected, or is
+reasonably likely to materially affect, our internal control over financial reporting. 
+
+Attestation
+Report of the Registered Public Accounting Firm. 
+
+This
+annual report does not include an attestation report of our independent registered public accounting firm regarding internal control
+over financial reporting. Management s report was not subject to attestation by our independent registered public accounting firm
+pursuant to temporary rules of the SEC that permit us to provide only management s report in this annual report on Form 10-K. 
+
+ITEM
+9B. OTHER INFORMATION 
+
+None. 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+Directors
+and Executive Officers 
+
+The
+following individual presently serves as our officers and directors: 
+
+Board 
+ 
+ Name
+ and 
+
+Position 
+ 
+ Municipality
+ of Residence 
+ Age 
+ Positions
+ With the Company 
+ Held
+ Since 
+ 
+ Rose
+ Hong Wang Los Angeles, CA 
+ 49 
+ President,
+ Chief Executive Officer and Director 
+ 2021 
+ 
+ Sheng-Yih
+ Chang Los Angeles, CA 
+ 50 
+ Chief
+ Financial Officer, Secretary and Director 
+ 2018 
+ 
+ Yuan
+ Lu Shanghai, CHINA 
+ 35 
+ Director 
+ 2019 
+ 
+ Xin
+ Dong Los Angeles, CA 
+ 38 
+ Director 
+ 2018 
+
+Each
+of the directors will serve until the next annual meeting of stockholders of the Company and until such director s successor is
+elected and qualified or until such director s earlier death, resignation or removal. The following is information concerning the
+business backgrounds of each member of the board of directors: 
+
+Rose
+Hong Wang. From March 2018 to the present Ms. Wang has been Chief Financial Officer and Director of Hartford Hotel Investment
+Inc., Rosemead, CA, USA. In addition, since June 2010 to the present she has been Vice President and Director of Shanghai Qiao Garden
+Group Overseas Branch, CA, USA. From September 2006 to May 2010 she was the Assistant General Manager of Qiao Garden Group Investment
+Inc., CA, USA, In December 1998 Ms. Wang immigrated to the USA. From December 1996 to September 1998, she was the Assistant General Manager
+of Shanghai Watanabe Asset Management Co., Ltd., China. From September 1993 thru July 1995, she Studied Language and Literature at Shanghai
+International Studies University, China. In July 1990, Ms. Wang received her Bachelor s Degree with Music Major from Xinjiang Normal
+University, China. 
+
+37 
+
+Sheng
+Yih Chang. Mr. Chang has served as the General Manager at Hartford Hotel, a commercial hotel in Rosemead California since March
+2018. Mr. Chang served as a Product Manager at Jowett Group, a textile manufacturing company in the USA, from November 2015 through September
+2017, as an Operational Manager and General Manager at A-Concepts Designs, a houseware supplier company in the USA, from January 2004
+through October 2015, as a General Manager at Long Arch International, a carving crafts supplier in the USA, from December 2000 through
+December 2003, as a Sales Manager at EZ Wholesale, a general merchandise wholesaler in the USA, from July 1998 through November 2000,
+and as a technician at Richcom Computer Corporation, a computer service provider in China, from July 1996 through November 1997. Mr.
+Chang studied electrical engineering at the University of British Columbia and holds a Bachelor of Science in Electrical Engineering
+from California State University, Northridge. 
+
+Yuan
+Lu . Ms. Lu graduated in 2008 with a Bachelor s Degree from Anhui University of Technology in China majoring in International
+Trade and Economics. In 2013, Ms. Lu earned a Master s Degree in International Language Arts from Shanghai University of Finance
+and Economics in China. From 2008-2009, Ms. Lu was an Assistant Teacher at New Channel International Educated Group, Ltd. From 2009-2010,
+Ms. Lu was a Customs Broker and Procurement Buyer at Shanghai Pan-Resources Imp Exp Co., Ltd. From 2010 through the present, Ms.
+Lu has served as the Assistant CEO at Shanghai Overseas Chinese Culture Media Co., Ltd. 
+
+Xin
+Dong. Mr. Dong has served as the Executive Director and General Manager of Shanghai Huitong Health Management Company, a senior
+care and traditional health management company, in China since September 2017. From July 2016 through August 2017, Mr. Dong acted as
+the Vice President and General Manager of Shanghai Huicai Financial Information Service Co., Ltd., a financial service and small loan
+company, in China. Mr. Dong has also served as the General Manager of Shenzhen Maoli International Trading Co., Ltd., an international
+trading company in Shenzhen, China, from April 2012 through June 2016, and as a Project Manager and Market Representative at Nanjing
+Hongyuan Electronic Technology Company, an electronics manufacturing company, from July 2007 through March 2012. Mr. Dong holds a Masters
+in International Finance and Trade from Shanghai Jiaotong University and a degree in Computer Science from Jiangsu University. 
+
+Term
+of office 
+
+All
+officers and directors listed above will remain in office until the next annual meeting of our stockholders, and until their successors
+have been duly elected and qualified or until removed from office in accordance with our bylaws. There are no agreements with respect
+to the election of Directors. We have not compensated our Directors for service on our Board of Directors, any committee thereof, or
+reimbursed for expenses incurred for attendance at meetings of our Board of Directors and/or any committee of our Board of Directors.
+Officers are appointed annually by our Board of Directors and each Executive Officer serves at the discretion of our Board of Directors.
+We do not have any standing committees. Our Board of Directors may in the future determine to pay Directors fees and reimburse
+Directors for expenses related to their activities. 
+
+None
+of our Officers and/or Directors have filed any bankruptcy petition, been convicted of or been the subject of any criminal proceedings
+or the subject of any order, judgment or decree involving the violation of any state or federal securities laws within the past five
+(5) years. 
+
+Director
+Independence 
+
+The
+Board consists of four members, of which Yuan Lu and Xin Dong meet the independence requirements of the Nasdaq Stock Market as currently
+in effect. 
+
+38 
+
+Committees
+and Terms 
+
+The
+Board of Directors (the Board has not established any committees. The Company will notify its shareholders for an annual
+shareholder meeting and that they may present proposals for inclusion in the Company s proxy statement to be mailed in connection
+with any such annual meeting; such proposals must be received by the Company at least 90 days prior to the meeting. No other specific
+policy has been adopted in regard to the inclusion of shareholder nominations to the Board of Directors. 
+
+Code
+of Ethics 
+
+To
+date, we have not adopted a Code of Ethics applicable to our principal executive officer and principal financial officer because the
+Company has no meaningful operations within the United States of America. The Company does not believe that a formal written code of
+ethics is necessary at this time. We expect that the Company will adopt a code of ethics if and when the Company successfully completes
+a business combination that results in the acquisition of an on-going business and thereby commences operations within the United States. 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+Beginning
+January 1, 2019, a monthly payroll salary of 3,000 has been offered to Sheng-Yih Chang, the Company s CFO. No other officer or
+director has received annual compensation. There has been no compensation awarded to, earned by, or paid to the named executive officer
+or director other than the CFO s wage. There is no compensation to the executive officers planned for the next year. Such compensations
+will be brought to discussion in next board meeting. 
+
+Employment
+Agreements 
+
+As
+of July 31, 2021, all employees and officers in China have entered into employment agreements with the Company s subsidiaries.
+However, the Company has not entered into employment agreements with any of its executive officers in the US as of July 31, 2021. 
+
+Anticipated
+Officer and Director Remuneration 
+
+Except
+for the monthly wage paid to the CFO, the Company has not to date paid any other compensation owed to any officer or director as of date
+hereto. The Company intends to begin to pay annual salaries to all its officers and will pay an annual stipend to its directors when,
+and if, it completes a primary public offering for the sale of securities and/or the Company reaches profitability, experiences positive
+cash flow and/or obtains additional funding. At such time, the Company anticipates offering cash and non-cash compensation to officers
+and directors. In addition, although not presently offered, the Company anticipates that its officers and directors will be provided
+with a group health, vision and dental insurance program at subsidizes rates, or at the sole expense of the Company, as may be determined
+on a case-by-case basis by the Company in its sole discretion. 
+
+Stock
+Option Plan 
+
+We
+do not have a stock option plan and we have not issued any warrants, options or other rights to acquire our securities. However, we may
+adopt an incentive and non-statutory stock option plan in the future. 
+
+Employee
+Pension, Profit Sharing or other Retirement Plans 
+
+We
+do not have a defined benefit, pension plan, profit sharing or other retirement plan, although we may adopt one or more of such plans
+in the future. 
+
+Section
+16(a) Beneficial Ownership Reporting Compliance 
+
+We
+are not registered under the Securities Exchange Act of 1934, as amended, and are not subject to the reporting requirements of Section
+16(a). 
+
+39 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+As
+of October 29, 2021, there are a total of 100,108,000 shares of our common stock outstanding, our only class of voting securities currently
+outstanding. The following table describes the ownership of our voting securities by: (i) each of our officers and directors; (ii) all
+of our officers and directors as a group; and (iii) each shareholder known to us to own beneficially more than 5 of our common stock.
+All ownership is direct, unless otherwise stated. 
+
+Name
+ of Beneficial Owner 
+ Address
+ of Beneficial Owner 
+ Shares Beneficially Owned
+ Number 
+ Percentage ) 
+ 
+ YUAN
+ LU 
+ RM
+ 3806 218 WUSONG RD, HONGKOU DISTRICT SHANGHAI, CHINA 
+ 32,440,000 
+ 32.4 
+ 
+ ROSE
+ HONG WANG 
+ 729
+ CARRIAGE HOUSE DRIVE, ARCADIA, CA 91006 
+ 11,000,000 
+ 11.0 
+ 
+ XIN
+ DONG 
+ 8832
+ GLENDON WAY, ROSEMEAD, CA 91770 
+ 2,400,000 
+ 2.4 
+ 
+ SHENG-YIH
+ CHANG 
+ 8832
+ GLENDON WAY, ROSEMEAD, CA 91770 
+ 1,000,000 
+ 1.0 
+
+Total
+ Officers and Directors (4) 
+ 46,840,000 
+ 46.8 
+
+Each
+shareholder known to us to own beneficially more than 5 of our common stock: 
+
+Name
+ of Beneficial Owner 
+ Address
+ of Beneficial Owner 
+ Shares
+ Beneficially Owned
+ Number 
+ Percentage
+ ) 
+ 
+ LIANYUE
+ SONG 
+ 8832
+ GLENDON WAY, ROSEMEAD, CA 91770 
+ 20,000,000.00 
+ 20.0 
+ 
+ DANFENG
+ GU 
+ RM
+ 218 WUSONG ROAD, HONGKOU DISTRICT, SHANGHAI, CHINA 
+ 8,300,000.00 
+ 8.3 
+ 
+ JIAMIN
+ ZHU 
+ 1F
+ QIAO GARDEN 73 WUHUA RD, HONGKOU DISTRICT, SHANGHAI, CHINA 
+ 8,000,000.00 
+ 8.0 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+US
+office space is provided to Hartford Great Health Corp. at no additional cost by the sole executive officer. No provision for these costs
+has been included in these financial statements as the amounts are not material. 
+
+40 
+
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+The
+following table sets forth fees billed by our principal accounting firms of Simon Edward, LLP and Haynie Company in the last
+two years ended July 31, 2021: 
+
+2021 
+ 2020 
+ 
+ Audit
+ Fees 
+ 26,000 
+ 18,000 
+ 
+ Audit
+ Related Fees 
+ 13,500 
+ 13,500 
+ 
+ Tax
+ Fees 
+ - 
+ - 
+ 
+ All
+ other fees 
+ 2,000 
+ - 
+ 
+ Total
+ Fees 
+ 41,500 
+ 31,500 
+
+It
+is the policy of our Board of Directors to engage the principal accounting firm selected to conduct the financial audit for our company
+and to confirm, prior to such engagement, that such principal accounting firm is independent of our company. All services of the principal
+accounting firm reflected above were approved by the Board of Directors. 
+
+PART
+IV 
+
+ITEM
+15. EXHIBITS AND FINANCIAL STATEMENTS SCHEDULES 
+
+The
+following documents are filed as part of this Annual Report: 
+
+1. 
+ Consolidated
+ Financial Statements 
+
+Our
+consolidated financial statements are listed under Part II, Item 8, of this Annual Report. 
+
+2. 
+ Financial
+ Statement Schedules 
+
+All
+financial statement schedules have been omitted because they are not required or are not applicable, or the required information is shown
+in our Consolidated Financial Statements or the notes thereto. 
+
+3. 
+ Exhibits 
+
+The
+following exhibits are filed with or incorporated by referenced in this report: 
+
+21.1 
+Subsidiaries of the Company 
+
+31.1 
+Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 for Rose Hong Wang. 
+
+31.2 
+Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 for Sheng-Yih Chang 
+
+32 
+Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 for Rose Hong Wang and Sheng-Yih Chang 
+
+101.INS 
+ 
+ XBRL
+ Instance Document 
+ 
+ 101.SCH 
+ 
+ XBRL
+ Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ 
+ XBRL
+ Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ XBRL
+ Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ XBRL
+ Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ XBRL
+ Taxonomy Extension Presentation Linkbase Document 
+
+Filed herewith 
+
+41 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+HARTFORD
+ GREAT HEALTH CORP. 
+
+Date:
+ October 29, 2021 
+ By: 
+ /s/
+ ROSE HONG WANG 
+
+Rose
+ Hong Wang 
+ Chief
+ Executive Officer 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934 this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated. 
+
+Name 
+ 
+ Title 
+ 
+ Date 
+
+/s/
+ Rose Hong Wang 
+ 
+ Chief
+ Executive Officer, President, Dir. 
+ 
+ October
+ 29, 2021 
+ 
+ Rose
+ Hong Wang 
+ 
+ (Principal
+ Executive Officer) 
+
+/s/
+ Sheng-Yih Chang 
+ 
+ Chief
+ Financial Officer 
+ 
+ October
+ 29, 2021 
+ 
+ Sheng-Yih
+ Chang 
+ 
+ (Principal
+ Accounting Officer) 
+
+/s/
+ Yuan Lu 
+ 
+ Director 
+ 
+ October
+ 29, 2021 
+ 
+ Yuan
+ Lu 
+
+/s/
+ Xin Dong 
+ 
+ Director 
+ 
+ October
+ 29, 2021 
+ 
+ Xin
+ Dong 
+
+42 
+
+<EX-21.1>
+ 2
+ ex21-1.htm
+
+Exhibit
+21.1 
+
+SUBSIDIARIES
+OF THE COMPANY 
+
+The
+following is a list of subsidiaries of the Company as of July 31, 2021, omitting subsidiaries which, considered in the aggregate, would
+not constitute a significant subsidiary. 
+
+Subsidiaries
+
+State
+ or Other Jurisdiction 
+ of
+ Incorporation or 
+ Organization 
+
+Hartford
+ Great Health Management (Shanghai) Ltd. HFSH 
+ 
+ Shanghai,
+ China 
+ 
+ Hartford
+ International Education Technology (Shanghai) Co. Ltd. HF Int l Education 
+ 
+ Shanghai,
+ China 
+ 
+ Hangzhou
+ Hartford Comprehensive Health Management, Ltd. HZHF 
+ 
+ Hangzhou,
+ China 
+ 
+ Hangzhou
+ Longjing Qiao Fu Vacation Hotel Co., Ltd HZLJ 
+ 
+ Hangzhou,
+ China 
+ 
+ Pudong
+ Haojin Childhood Education Ltd. PDHJ 
+ 
+ Shanghai,
+ China 
+ 
+ Shanghai
+ Hongkou HaiDeFuDe Childcare Co., Ltd.( HDFD 
+ 
+ Shanghai,
+ China 
+ 
+ Shanghai
+ Gelinke Childcare Education Center Gelinke 
+ 
+ Shanghai,
+ China 
+
+</EX-21.1>
+
+<EX-31.1>
+ 3
+ ex31-1.htm
+
+Exhibit
+31.1 
+
+Certification
+of Chief Executive Officer 
+
+ Pursuant
+to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+ and
+Rules 13a-14 and 15d-14 under the Securities Exchange Act of 1934 
+
+I,
+Rose Hong Wang, certify that: 
+
+1.
+I have reviewed this Annual Report on Form 10-K of Hartford Great Health Corp.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15(d)-15(f)) for the registrant and have: 
+
+(a) 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed
+ such internal control over financing reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+(d) 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons
+performing the equivalent functions): 
+
+(a) 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+(b) 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Date:
+October 29, 2021 
+
+/s/
+ ROSE HONG WANG 
+
+Rose
+ Hong Wang 
+
+Chief
+ Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ ex31-2.htm
+
+Exhibit
+31.2 
+
+Certification
+of Chief Financial Officer 
+
+ Pursuant
+to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+ and
+Rules 13a-14 and 15d-14 under the Securities Exchange Act of 1934 
+
+I,
+Sheng-Yih Chang, certify that: 
+
+1.
+I have reviewed this Annual Report on Form 10-K of Hartford Great Health Corp.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15(d)-15(f)) for the registrant and have: 
+
+(a) 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed
+ such internal control over financing reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+(d) 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons
+performing the equivalent functions): 
+
+(a) 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+(b) 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Date:
+October 29, 2021 
+
+/s/
+ Sheng-Yih Chang 
+
+Sheng-Yih
+ Chang 
+
+Chief
+ Financial Officer 
+
+</EX-31.2>
+
+<EX-32>
+ 5
+ ex32.htm
+
+Exhibit
+32 
+
+Certification
+of Periodic Financial Report by the Chief Executive Officer and 
+
+ Chief
+Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+Solely
+for the purposes of complying with 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, we, the
+undersigned Chief Executive Officer and Chief Financial Officer of Hartford Great Health Corp. (the Company ), hereby certify,
+based on our knowledge, that the Annual Report on Form 10-K of the Company for the year ended July 31, 2021 (the Report fully complies with the requirements of Section 13(a) of the Securities Exchange Act of 1934 and that the information contained in the
+Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date:
+ October 29, 2021 
+ /s/
+ ROSE HONG WANG 
+
+Rose
+ Hong Wang 
+
+Chief
+ Executive Officer 
+
+Date:
+ October 29, 2021 
+ /s/
+ SHENG-YIH CHANG 
+
+Sheng-Yih
+ Chang 
+
+Chief
+ Financial Officer 
+
+</EX-32>
+
+<EX-101.INS>
+ 7
+ hfus-20210731.xml
+ INLINE XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ hfus-20210731.xsd
+ INLINE XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ hfus-20210731_cal.xml
+ INLINE XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ hfus-20210731_def.xml
+ INLINE XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ hfus-20210731_lab.xml
+ INLINE XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ hfus-20210731_pre.xml
+ INLINE XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

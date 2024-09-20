@@ -1,0 +1,3125 @@
+<Header>
+<FileStats>
+    <FileName>20211013_10-K_edgar_data_1616736_0001515971-21-000099.txt</FileName>
+    <GrossFileSize>4738857</GrossFileSize>
+    <NetFileSize>138366</NetFileSize>
+    <NonText_DocumentType_Chars>2058083</NonText_DocumentType_Chars>
+    <HTML_Chars>689251</HTML_Chars>
+    <XBRL_Chars>1060729</XBRL_Chars>
+    <XML_Chars>732128</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001515971-21-000099.hdr.sgml : 20211013
+<ACCEPTANCE-DATETIME>20211013171437
+ACCESSION NUMBER:		0001515971-21-000099
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		56
+CONFORMED PERIOD OF REPORT:	20201231
+FILED AS OF DATE:		20211013
+DATE AS OF CHANGE:		20211013
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Alpha Investment Inc.
+		CENTRAL INDEX KEY:			0001616736
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		IRS NUMBER:				900998139
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-198772
+		FILM NUMBER:		211321880
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 EAST CAMPUS VIEW BLVD
+		STREET 2:		SUITE 200
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43235
+		BUSINESS PHONE:		(305) 704-3294
+
+	MAIL ADDRESS:	
+		STREET 1:		200 EAST CAMPUS VIEW BLVD
+		STREET 2:		SUITE 200
+		CITY:			COLUMBUS
+		STATE:			OH
+		ZIP:			43235
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Gogo Baby, Inc.
+		DATE OF NAME CHANGE:	20140814
+
+</SEC-Header>
+</Header>
+
+ 0001515971-21-000099.txt : 20211013
+
+10-K
+ 1
+ alpc10k123120.htm
+ 10-K
+
+Alpha Investment Inc. 
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ WASHINGTON, D.C. 20549 
+
+FORM 10-K 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended December 31, 2020 
+
+Commission file number 333-198772 
+
+(Exact Name of Registrant as Specified in Its
+Charter) 
+
+Delaware 
+ 90-0998139 
+ 
+ (State or Other Jurisdiction of Incorporation or Organization) 
+ (I.R.S. Employer Identification No.) 
+
+200 East Campus View Blvd., Suite 200 
+
+ Columbus, OH 43235 
+
+ (305) 704-3294 
+
+ (Address of Principal Executive Offices, Zip
+Code Telephone Number) 
+
+Securities registered pursuant to Section 12(b)
+of the Act: 
+
+ None 
+
+Securities registered pursuant to section 12(g)
+of the Act: 
+
+ Common Stock, 0.0001 par value 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+ No 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act Yes 
+ No 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirements for the past 90 days. Yes 
+ No 
+
+Indicate by check mark whether the registrant has submitted electronically,
+if any, every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during
+the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes 
+ No o 
+
+Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant s
+knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment
+to this Form 10-K. 
+
+Indicate by check mark whether the registrant is a large accelerated filer,
+an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large
+accelerated filer, accelerated filer, 
+ smaller reporting company and emerging growth
+company in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+ 
+ Non-accelerated filer 
+ 
+ Smaller reporting company 
+
+(Do not check if a smaller reporting company) 
+ 
+ Emerging growth company 
+
+If an
+emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+ No 
+
+1 
+
+As of June 30, 2020, the end of the registrant s most recently
+completed 2 nd quarter, no market value has been computed because no active trading market had been established. 
+
+As of October 12, 2021,
+the registrant had 9,724,401 shares of common stock outstanding. 
+
+ALPHA INVESTMENT INC 
+
+ TABLE OF CONTENTS 
+
+Page No. 
+
+Part I 
+
+Item 1. 
+ Business 
+ 3 
+ 
+ Item 1A. 
+ Risk Factors 
+ 8 
+ 
+ Item 2. 
+ Properties 
+ 8 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 8 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 8 
+
+Part II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 9 
+ 
+ Item 6. 
+ Selected Financial Data 
+ 9 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 9 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 11 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 12 
+ 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 13 
+ 
+ Item 9A. 
+ Controls and Procedures 
+ 13 
+ 
+ Item 9B. 
+ Other Information 
+ 14 
+
+Part III 
+
+Item 10. 
+ Directors and Executive Officers 
+ 15 
+ 
+ Item 11. 
+ Executive Compensation 
+ 16 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 18 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions 
+ 18 
+ 
+ Item 14. 
+ Principal Accounting Fees and Services 
+ 19 
+
+Part IV 
+
+Item 15. 
+ Exhibits 
+ 20 
+
+Signatures 
+ 
+ 21 
+
+2 
+
+Part I 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING INFORMATION 
+
+Certain statements in this Annual Report on Form 10-K
+(the annual report contain or may contain forward-looking statements that are subject to known and unknown risks,
+uncertainties and other factors which may cause actual results, performance or achievements to be materially different from any future
+results, performance or achievements expressed or implied by such forward-looking statements. These forward-looking statements were based
+on various factors and were derived utilizing numerous assumptions and other factors that could cause our actual results to differ materially
+from those in the forward-looking statements. These factors include, but are not limited to, our ability to consummate a merger or business
+combination, economic, political and market conditions and fluctuations, government and industry regulation, interest rate risk, U.S.
+and global competition, and other factors. Most of these factors are difficult to predict accurately and are generally beyond our control.
+You should consider the areas of risk described in connection with any forward-looking statements that may be made herein. Readers are
+cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this annual report. Readers
+should carefully review this annual report in its entirety, including but not limited to our consolidated financial statements and the
+notes thereto. Except for our ongoing obligations to disclose material information under the Federal securities laws, we undertake no
+obligation to release publicly any revisions to any forward-looking statements, to report events or to report the occurrence of unanticipated
+events. For any forward-looking statements contained in any document, we claim the protection of the safe harbor for forward-looking statements
+contained in the Private Securities Litigation Reform Act of 1995. 
+
+Unless the context otherwise requires, references
+in this annual report to Alpha Investment , ALPC , the Company , we , 
+ our and us refers to Alpha Investment Inc. and its subsidiaries. 
+
+Unless otherwise specifically indicated, all Share
+and per Share information in this annual report gives pro forma effect to the capital restructuring which will be implemented prior to
+closing of the Offering as described in - Capital Restructuring in Item 1 below. 
+
+Item 1. Business 
+
+Overview 
+
+We intend to provide capital directly to borrowers
+seeking financing for commercial real estate properties either for refinancing or acquisitions. These loans will encompass originating
+performing commercial first mortgage loans, subordinate financings, and other commercial real estate-related debt. Notwithstanding the
+foregoing, we intend to operate our business so that we do not become subject to the Investment Company Act of 1940, as amended. Accordingly,
+we do not plan to primarily engage in the business of investing, reinvesting or trading in securities and we do not plan to acquire investment
+securities (such as commercial mortgage-backed securities) having a value exceeding 40 of the value of the Company s total assets. 
+
+We expect to offer financing across a broad-spectrum
+of asset backed and commercial real asset type collateral of any property type such as office, retail, industrial, multi-family, and hospitality.
+The Company will coordinate its lending initiatives with outside commercial real estate loan brokers, which have access to commercial
+real estate owners seeking financing or refinancing opportunities, and with loan origination firms that have borrowers seeking loans.
+We believe that this will enable ALPC to broaden its access to new borrowers and to develop and implement financing solutions for these
+other lenders, mortgage bankers, borrowers, and owners. In the event the Company uses third party loan origination services and underwriters,
+the Company will cover these costs in accordance with industry standard practices. In addition, the Company from time to time will also
+engage in participating equity financing within strategic opportunistic projects and businesses that could bring added value to stockholders. 
+
+The Company expects to require substantial capital
+to fully fund and implement its operations. The Company plans to raise such capital through private or public offerings of equity, debt
+or other securities or through joint venture partnerships. There can be no assurance that the Company can successfully raise such capital
+or consummate any offering or joint venture partnerships on favorable terms or otherwise. If such efforts are not successful, then we
+may be unable to honor funding commitments or be forced to curtail our operations or consider other strategic alternatives. 
+
+Investment Strategy 
+
+To identify attractive lending opportunities, the
+Company expects to continue to deploy its capital through the origination of commercial mortgage loans, subordinate financings and other
+commercial real-estate related debt investments at attractive risk-adjusted yields. The Company targets lending opportunities that are
+secured by commercial real estate. The Company s underwriting includes a focus on stressed in-place cash flows, debt yields, debt
+service coverage ratios, loan-to-value ratios, property quality and market and sub-market dynamics. 
+
+3 
+
+Alameda Partners Joint Venture 
+
+On March 11, 2019, the Company, through Alpha Mortgage
+Notes I, LLC, a special purpose vehicle (the SPV ), entered into an operating agreement for the SPV (the SPV
+Operating Agreement with Alameda Partners LLC, a Utah limited liability company Alameda Partners ). Pursuant
+to the SPV Operating Agreement, Alameda Partners contributed 1,000,000 for a ten percent (10 ownership interest in the SPV and became
+the SPV s manager. The capital is being used to implement the Company s strategy of acquiring performing commercial real estate
+loans. The members of Alameda Partners have significant long-term experience in the commercial real estate industry as property developers,
+owners, and managers and currently hold title to over 50 million in commercial real estate assets. 
+
+Legacy Sand Joint Venture 
+
+On July 30, 3020, Alpha entered into a joint venture
+transaction with Parsons Energy Group, LLC Parsons with respect to leasehold mining rights then held by Parsons
+on approximately 1,200 acres located in Independence, Wisconsin, containing an estimated 1110 Million Tons of Tier 1 Northern White Fracking
+Sand. In connection therewith, the mining rights were assigned by Parsons to Legacy Sand Group, LLC, a newly-organized Florida limited
+liability company Legacy Sand ), which was formed to exploit the fracking rights. Contemporaneously therewith, Alpha
+acquired a nineteen percent (19 limited liability company membership interest in Legacy Sands (the Interest ), in
+exchange for the issuance to Parsons of 3,382 shares of Alpha s Series 2020 Preferred Stock (the Series 2020 Preferred
+Shares ). 
+
+However, despite using its best efforts, pending Legacy
+Sand commencing operations and generating revenues, the Company was not been able to sufficiently establish the valuation of the Interest
+and the Series 2020 Preferred Shares to the satisfaction of its independent registered public accounting firm, in order to allow the Interest
+to be reflected as an asset on the Company s balance sheet included in its periodic reports filed with the SEC under the Securities
+Act of 1934, as amended. 
+
+Accordingly, on July 21, 2021, the Company and Parsons
+entered into an Unwinding Agreement (the Unwinding Agreement ), pursuant to which the joint venture was unwound. Under
+the Unwinding Agreement, Parsons returned the Series 2020 Preferred Shares to the Company for cancellation and the Company assigned the
+Interest in Legacy Sand back to Parsons and exchanged mutual releases. As a result of the unwinding of the Legacy Sand joint venture,
+Alpha has had to restate its financial statements for the three and six months ended June 30, 2020 and the three and nine months ended
+September 30, 2020, included in its previously filed Quarterly Reports on Form 10-Q for those periods. 
+
+Capital Restructuring 
+
+In order to provide the Company with an improved
+capital structure effective June 30, 2021, the Company implemented a capital restructuring pursuant to which: 
+
+Omega, our principal stockholder exchanged 32,535,000 shares of our
+common stock it held for 100,000 shares of newly designated Series AA Preferred Stock; and 
+
+Holders of an additional 1,965,000 shares of our common stock contributed
+such shares to the capital of the Company. 
+
+Each share of Series AA Preferred Stock is convertible
+at the option of the holder into ten (10) shares of the Company s common stock for an aggregate of 1,000,000 shares of common stock,
+subject to adjustment for stock splits, stock dividends and similar transactions. The Series AA Preferred Stock has a liquidation preference
+of 1.00 per share and is entitled to share ratably in dividends declared on the Company s common stock on an as converted 
+basis. 
+
+Each share of Series AA Preferred Stock is entitled
+to 450 votes on each matter presented to stockholders (subject to adjustment for stock splits, stock dividends and similar transactions).
+Shares of Series AA Preferred Stock vote together shares of our common stock as a single class, except as required by Delaware law. Accordingly,
+Omega, as the holder of the Series AA Preferred Stock will effectively maintain control over the Company s affairs following implementation
+of the capital restructuring and the consummation of this Offering. 
+
+Unless otherwise specifically indicted, all Share
+and per Share information in this annual report gives pro forma effect to implementation of the capital restructuring 
+
+4 
+
+Potential Effects of the COVID-19 Pandemic on our
+Business 
+
+Commercial mortgage lending may be subject to volatility
+during the COVID-19 pandemic and may be adversely affected by a number of factors, including, but not limited to, national, regional and
+local economic conditions; local real estate conditions; changes or continued weakness in specific industry segments; construction quality,
+age and design; demographic factors; retroactive changes to building or similar codes; pandemics; natural disasters and other acts of
+god. In addition, decreases in property values reduce the value of the collateral and the potential proceeds available to a borrower to
+repay the underlying loans or loans, as the case may be, which could also cause us to suffer losses. Market volatility has been particularly
+heightened due to the COVID-19 global pandemic. COVID-19 has disrupted economic activities and could have a continued significant adverse
+effect on economic and market conditions including limited lending from financial institutions, depressed asset values, and limited market
+liquidity. At the present time, we are unable to estimate the potential adverse effect which the pandemic may have on our business, operations
+and financial condition. 
+
+Corporate History 
+
+We were incorporated in the State of Delaware
+on February 22, 2013, to develop, create, manufacture and market toys for small children which would be designed to attach to car seats
+and amuse and entertain children during a drive, without distracting the attention of the driver. The Company, however, encountered significant
+constraints in raising sufficient capital to fully implement its business plan. 
+
+On March 17, 2017, Omega purchased 35,550,000
+outstanding shares of the Company s common stock (the Control Share Sale from Malcolm Hargrave (35,000,000
+shares), DTH International Corporation (500,000 shares) and Lisa Foster (50,000 shares) for aggregate consideration of 295,000. The Control
+Share Sale was consummated in a private transaction pursuant to a common stock purchase agreement entered between Omega and Mr. Hargrave,
+acting individually and on behalf of the other selling stockholders. Upon completion of the Control Share Sale, a Change in
+Control of the Company took place and in connection therewith, Mr. Hargrave resigned as our sole director and officer and Omega,
+as the new majority stockholder of the Company, elected Timothy R. Fussell, Ph.D. as President, Chairman of the Board and a director (Dr.
+Fussell stepped down from those positions in April 2020) and Todd C. Buxton, Omega s then Chief Executive Officer, as Chief Executive
+Officer, Vice Chairman of the Board and a director. 
+
+In addition to the foregoing, new management elected
+to shift the Company s business focus to real estate lending, which they believed offered better opportunities for shareholder growth.
+In connection therewith, on March 30, 2017, we filed a Certificate of Amendment to our Certificate of Incorporation with the Delaware
+Secretary of State changing our name from Gogo Baby, Inc. to Alpha Investment Inc. to better
+reflect our new business plan. The name change and a corresponding change in the Company s OTC markets trading symbol from
+GGBY to ALPC received approval from FINRA and became effective as of April 19, 2017. 
+
+Plan of Operations 
+
+Our core objective will be to achieve advantageous
+yields and consistent interest income on short to long term loans Loans covering all four lending categories such
+as prime, alt-A, bridge and hard money loans by: 
+
+furnishing capital to make Loans primarily to borrowers such as commercial real estate developers and speculators, business owners, landlords and owners of core assets when traditional financing is unavailable to such borrowers for acquisitions, refinancing of commercial property loans; and 
+
+making Loans directly to borrowers in the commercial real estate markets. 
+
+We plan to administer various financing programs with
+an emphasis on Loans secured by commercial real estate, such as office buildings, multi-family residences, shopping centers, industrial,
+and hotels. Loans may consist of senior debt loans, mezzanine or subordinated loans, preferred equity and other equity participation financing
+structures. 
+
+We intend to follow a conservative lending 
+profile for our Loans. Our strategy is to seek low leveraged first lien senior debt mortgage loans and high debt service structured
+financing programs, as opposed to riskier, less secure, mezzanine or equity positions. 
+
+5 
+
+Business Objectives and Strategy 
+
+Our core business objective is to achieve advantageous
+and consistent rates of return from short to long term Loans to borrowers when traditional financing is unavailable to such borrowers
+for acquisitions, refinancing of commercial property loans and other asset backed transactions. We plan to focus on various alternative
+commercial real estate financings with an emphasis on Loans secured by commercial real estate and also seek to invest in financing of
+core real estate assets that include office buildings, multi-family residences, shopping centers, and hospitality, plus ground up entitled
+land developments. The Loans may consist of senior debt loans, mezzanine or subordinated loans, preferred equity and other equity participation
+financing structures. We intend to follow a conservative lending profile for the Loans we fund, which means low loan to
+value and high debt service cover ratios. Our strategy is to seek Loans that are first lien, senior debt mortgage loans and specialty
+financing programs, as opposed to riskier, yet much more profitable, and less secure mezzanine or equity positions. 
+
+Use of Loan Servicers 
+
+In carrying out our business strategy, we will
+likely utilize third-party firms that specialize in Loan origination and servicing Servicers ). We intend to
+perform due diligence on each Servicer which we, directly or indirectly, plan to use in the origination and servicing of Loans, in order
+to evaluate the firm s experience and expertise in originating and servicing Loans that satisfy our lending and investment criteria. 
+
+Use of Other Third-Party Service Providers 
+
+We will utilize other third parties to provide
+various ancillary services to us, such as real estate evaluation and land feasibility appraisal services, closing-legal and escrow title
+services. 
+
+Sale of Participations; Co-Investments and Participations 
+
+In the discretion of management, we may sell participation
+rights in the Loans we originate to other entities. 
+
+We may from time to time co-invest and or syndicate
+participation interest in loans as the administrative agent or buying a participation interest. We plan to only employ this strategy with
+seasoned well-established organizations in the commercial real estate CRE lending industry such as private trusts,
+real estate financing institutions, mutual funds, pension funds, investment houses, or hedge fund of funds. We believe that this
+will afford the Company with an additional opportunity to participate in well-structured transactions with organizations with proven track
+records involving originating, underwriting, and servicing. 
+
+The Commercial Real Estate Lending Product 
+
+Operationally, management believes the market for
+commercial mortgage loans will offer opportunities for the deployment of capital we raise. The CRE markets have suffered greatly
+in recent years beginning with the 2008 U.S. financial market crisis, which resulted in a steep and prolonged recession. However, as the
+lending markets have steadily recovered along with market leaders such as large banks Wells Fargo, JP Morgan Chase, Bank of America and
+Capital One, we believe the CRE lending landscape has now stabilized in select Centralized Business Districts known as CBD s 
+and afford extremely attractive opportunities for deploying capital. Thus, we will focus on positioning the Company to seize this opportunity
+within this market. We believe that our proposed business model is comparable to that currently being used by some of the top-level
+commercial real estate lender industry professionals. However, to compete and succeed within this industry, we plan to develop a proprietary
+pricing and lending model for the commercial real estate finance debt and equity markets. If we are able to do so, as to which no
+assurance can be given, we believe that we will have a strategic advantage to compete in the market. 
+
+Key Operational Highlights 
+CRE Loans 
+
+The overall U.S. core property commercial real estate lending market is vast and accordingly, we believe there are significant business opportunities that will afford the Company continued growth. 
+
+We expect that our lending model will allow for smaller increments of loans designed for quicker closings to permit investors to monitor development of the ongoing balance sheet and enable us to more rapidly achieve milestones. 
+
+We plan to retain or use seasoned commercial real estate independent specialists to coordinate our loan underwriting model centered on mitigating loan-loss risks and to perform all other related and required third party due diligence. 
+
+Since the securitization industry has standardized the underwriting criteria, we anticipate that it will allow for each third-party service provider we use to integrate and exchange information effectively and efficiently. 
+
+We believe that we will have low cost and prudent leverage available to us to fund Loans. 
+
+Our strategy has been developed with the input of experienced industry veterans. 
+
+6 
+
+The Commercial Real Estate Market Forecast 
+
+Capital Markets : Notwithstanding the effects of the COVID-19 pandemic and the attendant economic slowdown and market uncertainty, CBRE estimates that the capital markets will offer continued liquidity and low interest rates in 2021, which will lead to increased investment volume for the year, concentrated to a certain extent during the second half of the year, albeit with a shift in investor focus in certain sectors of the real estate industry. CBRE further believes that amid the uncertain global economic situation, U.S. commercial real estate will remain a haven for investment in 2021, when compared to foreign markets. 
+
+Office/Occupier : The demand for office space during 2020 has significantly decreased as a result of the effects of the COVID-19 pandemic, with its shift to many employees working remotely. In addition to decreased demand, there have been comparable declines in rent growth and increases in vacancies during the latter part of 2020.. These trends were already being driven by the growth in flexible workplaces offered by providers such as WeWork, although expansion in this market segment has slowed as well. Notwithstanding the foregoing, CBRE estimates improvement in the office/occupier real estate market during 2021, and we. As well believe that there will still be significant opportunities in the office/occupier segment of the commercial real estate market. 
+
+Industrial and Logistics : We believe that the continued growth in e-commerce, which has been further fueled by the COVID-19 pandemic, will result in significant growth in the industrial logistics I L market, as a result of providers increased demand for additional logistics space. According to CBRE, the I L market has been one of the bright spots during 2020 and will continue to be strong, although growth in this market segment may slow during 2021 as the COVID-19 pandemic recedes and consumers return to more traditional forms of retail shopping. 
+
+Retail : 2020 results, particularly in brick and mortar retail stores, have seen significant adverse impacts as a result of the COVID-19 pandemic. Such adverse effects include the periodic shutdowns of non-essential businesses, increased retail vacancies as a result of the bankruptcy filing by and liquidation of a number of well-known retail chains and the overall impact of the significant increase in unemployment. However, the slowdown has opened opportunities to repurpose retail locations both in and outside of shopping malls. According to CBRE, many retail assets are expected to be converted to mixed use, creating communities and thriving town centers. In addition, CBRE believes that as the COVID-19 pandemic recedes during 2021, consumers will return to more traditional forms of retail shopping thereby generating growth in this market segment. 
+
+Multifamily : According to CBRE, multifamily is positioned for continued favorable performance given current economic conditions but may experience some cooling due to new supply outpacing demand and the overall economic slowdown resulting from the COVID-19 pandemic. CBRE believes that the best opportunities during 2021 will be in suburban markets, where urban dwellers are seeking to relocate as a result of having experienced COVID-19 stay-at-home orders in large urban centers. In addition, we believe that smaller metros and metro leaders with smaller multifamily market penetration, including Austin, Atlanta, Phoenix and Boston, will offer attractive investment opportunities. CBRE also reports that the trends affecting the multifamily housing market will also generate opportunities in other residential rental segments of the real estate industry, such as build-to-rent. 
+
+Hotel : Perhaps no market segment has been as adversely affected by the COVID-19 pandemic, as the hospitality industry. The significant decrease in travel has resulted and is expected to continue to result in numerous closures at all segments of the industry in both major and secondary markets, as well as decreased occupancy rates in hotels that remain open and operating. CBRE believes that the recovery in this market segment to start during 2021, although a full recovery is expected to take several years. In addition, to the start of the recovery during 2021, we believe that the shutdown of many hotels affords opportunities to repurpose many locations for other uses. 
+
+Non-Traditional : According to CBRE, investment
+ in non-traditional commercial real estate property types such as self-storage, data centers, medical office, life sciences, senior housing
+ and student housing has seen significant growth over the last decade, with these market segments now accounting for an ever increasing
+ share of overall real estate investment. CBRE believes that notwithstanding this trend will continue into 2021, notwithstanding softness
+ in other market segments as a result of the effects of the COVID -19 pandemic. According to CBRE, reasons for this trend include: 
+
+alternative assets offering higher cap rates; 
+
+structural changes that have occurred over the last decade and are continuing to occur in business,
+ technology demographics and society as a whole; 
+
+the expanded product offerings and portfolio diversification that these non-traditional sectors afford
+ investors; and 
+
+increased transparency and availability of information with respect to the performance of investments
+ in alternative market segments. 
+
+7 
+
+Loan Production Strategy 
+
+We have access to a database of top commercial real
+estate mortgage bankers nationwide through organizations such as Strategic Alliance Mortgage, LLC SAM ), which is
+a company comprised of the top independently owned commercial real estate mortgage banking firms located throughout the United States.
+Through SAM, firms utilizes their shared national knowledge to execute superior capital market solutions for developers, commercial real
+estate investors, investment management firms, asset management firms, real estate investment trusts and private real estate equity firms
+with the goal of utilizing their production networks. We have focused on firms that have experienced loan origination back office staff
+to ensure our CRE Loan services will be appropriately and professionally marketed. Also, management has a proprietary database of 50 to
+100 mortgage bankers to market their CRE Loan products to and generate Loan production internally for consistent deal flow. In addition,
+we believe that as our operations expand, we always have the opportunity to establish and retain an in-house sales team. 
+
+Competition 
+
+A number of much larger proven commercial real estate
+lenders such as JP Morgan Chase, Bank of America, Goldman, Apollo Commercial Real Estate, and RAIT currently have established operations
+with large balance sheets and back office staff. However, we are a non-banking institution and are not regulated like the larger banks
+or typical CMBS lenders in that we are not pigeon-holed into securitizing our assets. Rather, we elect to use these
+industry standards and underwriting characteristics to originate loans, to consequently
+mitigate liquidly-risk (i.e. recapitalization) with the ability to hold these loans on the un-tainted balance sheet in order to garner
+stable income to yield strong growth and market share. However, as most of these lenders have far longer operating histories and significantly
+larger financial resources than we do, there can be no assurance given that we can effectively compete. 
+
+Employees 
+
+We currently have no employees other than our
+executive officers. As noted above, we intend to rely on third parties retained by us for services in areas such as loan origination and
+production, credit analysis, underwriting, due diligence, and loan servicing. As our operations grow, we may elect to bring certain, if
+not all of these services in house. 
+
+Item 1A. Risk Factors 
+
+Not applicable to a smaller reporting company 
+as defined in Rule 12b-2 of the Securities Exchange Act of 1934, as amended (the Exchange Act ). 
+
+Item 2. Properties 
+
+Our principal executive offices are located at 200
+East Campus View Blvd. Suite 200 Columbus, OH 43235. 
+
+Item 3. Legal Proceedings 
+
+We are not currently involved in any legal
+proceedings nor do we have any knowledge of any threatened litigation. 
+
+Item 4. Mine
+Safety Disclosures 
+
+Not applicable to a smaller reporting company 
+as defined in Rule 12b-2 of the Exchange Act. 
+
+8 
+
+Part II 
+
+Item 5. Market for Common Equity
+and Related Stockholder Matters 
+
+Market Information 
+
+Our Shares are quoted on the OTCPink tier of the over-the-counter
+market operated by OTC Markets Group, under the symbol ALPC . However, the market for our Shares has been extremely
+limited and there have only been minimal and sporadic public quotations for our Shares and there have been no recent closing quotations
+for our Shares. There can be no assurance given that a liquid public market for our Shares will develop and if developed,
+be sustained. 
+
+Holders 
+
+As of October 12 ,
+2021, we had 9,724,401 shares of common stock issued and outstanding and 42 shareholders of record of our common stock. 
+
+Dividends 
+
+The payment by us of dividends, if any, in
+the future rests within the discretion of our board of directors and will depend, among other things, upon our earnings, capital
+requirements and financial condition, as well as other relevant factors. We have not paid any dividends since our inception
+and we do not intend to pay any cash dividends in the foreseeable future, but intend to retain all earnings, if any, for use in
+our business. 
+
+Securities Authorized for Issuance under Equity
+Compensation Plans 
+
+Plan category 
+
+Number of securities to 
+ be issued upon exercise of 
+ outstanding options, 
+ warrants and rights 
+
+Weighted-average 
+ exercise price of 
+ outstanding options, 
+ warrants and rights 
+
+Number of securities remaining 
+ available for future issuance
+ under 
+ equity compensation plans 
+ (excluding securities reflected
+ in 
+ column (a)) 
+
+Equity compensation plans approved by security holders 
+ 
+ 5,000,000 
+ 
+ 0.004 
+ 
+ 1,375,000 
+ 
+ Equity compensation plans not approved by security holders 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ Total 
+ 
+ 5,000,000 
+ 
+ 0.004 
+ 
+ 1,375,000 
+
+Item 6. Selected Financial
+Data 
+
+Not applicable to a smaller reporting
+company as defined in Rule 12b-2 of the Exchange Act. 
+
+Item 7. Management s Discussion and Analysis
+of Financial Condition and Results of Operations 
+
+This Management s Discussion and Analysis
+of Financial Condition and Results of Operations is intended to provide a reader of our financial statements with a narrative from
+the perspective of our management on our financial condition, results of operations, liquidity, and certain other factors that
+may affect our future results. The following discussion and analysis should be read in conjunction with our audited consolidated
+financial statements and the accompanying notes thereto included in Item 8. Financial Statements and Supplementary Data. 
+In addition to historical financial information, the following discussion and analysis contains forward-looking statements that
+involve risks, uncertainties and assumptions. See Forward-Looking Statements. Our results and the timing
+of selected events may differ materially from those anticipated in these forward-looking statements as a result of many factors. 
+
+9 
+
+Results of Operations 
+
+General 
+
+We have recognized net losses from related
+parties of approximately (12,002) for the year ended December 31, 2020, compared to income of 90,115 for the year ended December 31,
+2019, resulting from the amortization of loan origination fees received in the form of a notes receivable and cash, offset by the
+amortization of loan costs incurred. As of December 31, 2020, the Company had an accumulated deficit of approximately
+ 5,130,000. 
+
+The following table provides selected balance
+sheet data as of December 31, 2020. 
+
+Consolidated Balance Sheet Data: 
+ 12/31/2020 
+ 
+ Cash 
+ 
+ 11,624 
+ 
+ Restricted cash 
+ 
+ - 
+ 
+ Loans Receivable related parties, net of discounts 
+ 
+ 737,389 
+ 
+ Loans Receivable, net of discounts 
+ 
+ 486,924 
+ 
+ Total assets 
+ 
+ 1,353,312 
+ 
+ Current liabilities 
+ 
+ 691,467 
+ 
+ Total liabilities 
+ 
+ 712,394 
+ 
+ Temporary equity 
+ 
+ 386,722 
+ 
+ Stockholders' equity 
+ 
+ 254,196 
+
+Year
+ended December 31, 2020 as compared to year ended December 31, 2019 
+
+For the year ended December 31, 2020, we
+generated approximately 16,688 in net investment income, compared to net investment income of 90,000 in 2019. Net investment
+income in 2020 resulted from interest income of 46,000, the amortization of loan origination fees of 96,000, offset by the
+amortization of loan costs of 103,000. Net investment income in 2019 resulted from interest income of 91,000, the
+amortization of loan origination fees of 127,000, offset by the amortization of loan costs of 28,000. We incurred 1,081,095
+in operating expenses during the 2020 period, compared to 1,480,921 in 2019, reflecting our decreased level of operations. In 2020,
+the Company recognized approximately 44,000 of interest, primarily from the Partners South note payable. Interest expense for year
+ended December 31, 2020 was 12,983, approximately 9,000 resulting from the redemption of common stock presented in temporary
+equity and the release of escrow, and 3,000 relate to the related party note issued in October 2000. Interest expense for year
+ended December 31, 2019, was 623,000 resulted from the Jersey Walk Mortgage which was derecognized upon the rescission of the
+Jersey Walk acquisition in June 2019, and a gain on deconsolidation of 316,744 was recognized. 
+
+Liquidity and Capital Resources 
+
+During the year ended December 31, 2019, we
+sold an interest in a subsidiary for 1,000,000, sold common stock for approximately 946,000, and Omega, the principal stockholder
+of the Company, made additional capital contributions to the Company of approximately 275,000. 
+
+During the year ended December 31, 2020, Omega,
+the principal stockholder of the Company, made additional capital contributions to the Company of approximately 437,000 and the
+Company received a Payroll Protection loan in the amount of 20,800. 
+
+Related Party Transactions 
+
+Loans receivable 
+
+The Company has extended lines of credit and
+loans to related parties. See Note 3 to condensed financial statements. 
+
+Management fee and other expenses 
+
+During the year ended December 31, 2019, Omega
+Commercial Finance Corp was paid 150,000 in management fees pursuant to a corporate governance management agreement executed on
+June 1, 2017. Omega is to provide services related to facilitating the introduction of potential investors for compensation of
+no less than 150,000 per year, not to exceed 300,000 per year. The agreement remains in effect until cancelled by Omega. During
+the year ended December 31, 2020, Omega Commercial Finance Corp, the Company s principle stockholder, and Omega Streets Capital,
+an affiliate entity, was paid a combined 295,750 in management and consulting fees pursuant to a corporate governance management
+agreement executed on June 1, 2017. Omega is to provide services related to facilitating the introduction of potential investors
+for compensation of no less than 150,000 per year, not to exceed 300,000 per year. The fee paid in 2020 is for services
+that were rendered throughout 2020. 
+
+10 
+
+Critical Accounting Policies 
+
+Use of Estimates 
+
+The preparation of financial statements in
+conformity with accounting principles generally accepted in the United States of America requires management to make certain estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenues and expenses during the reporting periods presented.
+The Company is required to make judgments and estimates about the effect of matters that are inherently uncertain. The Company
+regularly evaluates estimates and assumptions related to the valuation of the allowance for loan losses, loss contingencies, useful
+life and recoverability of long-lived assets, deferred income tax asset valuations and loss contingencies. The Company bases its
+estimates and assumptions on current facts, historical experience and various other factors that it believes to be reasonable under
+the circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities
+and the accrual of costs and expenses that are not readily apparent from other sources. Although, we believe our judgments and
+estimates are appropriate, actual future results may be different; if different assumptions or conditions were to prevail, the
+results could be materially different from our reported results. 
+
+Loans Receivable, net and Allowance for
+Losses 
+
+The Company records its investments in loans
+receivable at cost less unamortized costs of issuance and deferred origination fees. Origination fees collected at the time of
+investment are recorded against the loans receivable and amortized into net interest income over the lives of the related loans.
+Issuance costs incurred are capitalized along with the initial investment and amortized against net interest income over the lives
+of the related loans. 
+
+When a loan receivable is placed on non-accrual
+status, the related interest receivable is reversed against interest income of the current period. If a non-accrual loan is returned
+to accrual status, the accrued interest existing at the date the residential loan is placed on non-accrual status and interest
+during the non-accrual period are recorded as interest income as of the date the loan no longer meets the non-accrual criteria. 
+
+The Company maintains
+an allowance for loan losses on its investments in real estate loans receivable for estimated credit impairment. Management s
+estimate of losses is based on a number of factors including the types and dollar amounts of loans in the portfolio, adverse situations
+that may affect the borrower s ability to repay, prevailing economic conditions and the underlying collateral securing the
+loan. Additions to the allowance are provided through a charge to earnings and are based on an assessment of certain
+factors, which may indicate estimated losses on the loans. Actual losses on loans are recorded first as a reduction
+to the allowance for loan losses. Generally, subsequent recoveries of amounts previously charged off are recognized
+as income. 
+
+Estimating allowances
+for loan losses requires significant judgment about the underlying collateral, including liquidation value, condition of the collateral,
+competency and cooperation of the related borrower and specific legal issues that affect loan collections or taking possession
+of the property on an individual loan receivable basis. 
+
+Off-Balance Sheet Arrangements 
+
+There are no off-balance sheet arrangements
+that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition,
+revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors. 
+
+Item
+7A. Quantitative and Qualitative Disclosures about Market Risk 
+
+Not applicable to a smaller reporting
+company as defined in Rule 12b-2 of the Exchange Act. 
+
+11 
+
+Item 8. Financial Statements 
+
+Index 
+
+Reports of Independent Registered Accounting Firm 
+ F-1, F-2, F-3 
+ 
+ Consolidated Balance Sheets as of December 31, 2020 and 2019 
+ F-4 
+ 
+ Consolidated Statements of Operations for the Years Ended December 31, 2020 and 2019 
+ F-5 
+ 
+ Consolidated Statement of Changes in Stockholders Equity for the Years Ended December 31, 2020 and 2019 
+ F-6 
+ 
+ Consolidated Statements of Cash Flows for the Years Ended December 31, 2020 and 2019 
+ F-7 
+ 
+ Notes to Consolidated Financial Statements 
+ F-8 
+
+12 
+
+F- 1 
+
+F- 2 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+ To the Board of Directors and 
+Stockholders of Alpha Investment Inc. 
+
+ Opinion on the Financial Statements 
+
+ We have audited the accompanying consolidated
+balance sheet of Alpha Investment Inc. (the Company) as of December 31, 2019 , and the related consolidated statements of operations,
+stockholders deficit and cash flows for the year ended December 31, 2019, and the related notes (collectively referred to
+as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial
+position of the Company as of December 31, 2019 and the results of its operations and its cash flows for the year ended December
+31, 2019, in conformity with accounting principles generally accepted in the United States of America. 
+
+ Explanatory Paragraph- Going Concern 
+
+ The accompanying financial statements have been
+prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the financial statements, the Company
+has suffered recurring losses. As of and for the year ended December 31, 2019, the Company had a net loss of 1,697,245, had net
+cash used provided by operating activities of negative 2,041,111, accumulated deficit of 4,019,729 and working capital of 2,463,559.
+These factors raise substantial doubt about its ability to continue as a going concern. Management s plans in regard to these
+matters are also described in Note 2. The financial statements do not include any adjustments that might result from the outcome
+of this uncertainty. 
+
+ Basis for Opinion 
+
+ These financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based
+on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB)
+and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable
+rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+ We conducted our audit in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether
+the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have,
+nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit, we are required
+to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the
+effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+ Our audit included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as
+well as evaluating the overall presentation of the financial statements. We believe that our audit provides a reasonable basis
+for our opinion. 
+
+/s/ Assurance Dimensions 
+ 
+ We have served as the Company s auditor since 2019. 
+ 
+ Margate, Florida 
+ 
+ March 18, 2020 
+
+ASSURANCE DIMENSIONS CERTIFIED
+PUBLIC ACCOUNTANTS ASSOCIATES 
+
+ TAMPA BAY : 4920 W Cypress Street,
+Suite 102 | Tampa, FL 33607 | Office: 813.443.5048 | Fax: 813.443.5053 
+
+ JACKSONVILLE : 4720 Salisbury Road,
+Suite 223 | Jacksonville, FL 32256 | Office: 888.410.2323 | Fax: 813.443.5053 
+
+ ORLANDO: 1800 Pembroke
+Drive, Suite 300 | Orlando, FL 32810 | Office: 888.410.2323 | Fax: 813.443.5053 
+
+ SOUTH FLORIDA : 2000 Banks Road,
+Suite 218 | Margate, FL 33063 | Office: 754.800.3400 | Fax: 813.443.5053 
+
+ www.assurancedimensions.com 
+
+F- 3 
+
+Alpha Investment Inc. 
+
+ Consolidated Balance Sheets 
+
+December 31, 
+ December 31, 
+
+2020 
+ 2019 
+ 
+ ASSETS 
+
+Current Assets: 
+
+Cash 
+ 11,624 
+ 91,693 
+ 
+ Restricted cash held in escrow 
+ 
+ 2,509,186 
+ 
+ Total Current Assets 
+ 11,624 
+ 2,600,879 
+
+Other Assets: 
+
+Loans receivable - related parties, net of discounts and allowance 
+ 737,389 
+ 883,554 
+ 
+ Loans receivable, net of discounts 
+ 486,924 
+ 480,809 
+ 
+ Interest receivable 
+ 116,743 
+ 64,208 
+ 
+ Total Other Assets 
+ 1,341,056 
+ 1,428,571 
+
+Property and Equipment, net: 
+
+Furniture and Equipment, net 
+ 632 
+ 1,005 
+ 
+ Total Property and Equipment, net 
+ 632 
+ 1,005 
+
+TOTAL ASSETS 
+ 1,353,312 
+ 4,030,455 
+
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+Current Liabilities: 
+
+Accounts payable 
+ 142,796 
+ 37,320 
+ 
+ Accrued management fees - related party 
+ 150,000 
+
+Distribution payable 
+ 220,000 
+ 100,000 
+ 
+ Notes payable - related party 
+ 178,671 
+
+Total Current Liabilities 
+ 691,467 
+ 137,320 
+
+Payroll Protection Plan Loan 
+ 20,927 
+
+Total Liabilities 
+ 712,394 
+ 137,320 
+
+Redeemable Common Stock; 0.0001 par value), 100,000,000 shares authorized, 166,667 shares issued and outstanding as of December 31, 2019 
+ 
+ 2,500,000 
+ 
+ Series 2018 Convertible Preferred Stock 0.0001 par value), net of discounts of 175,701 and 187,545, respectively, 100,000 shares authorized; 36,667 shares issued and outstanding (liquidation value: 500,000) 
+ 386,722 
+ 363,034 
+
+386,722 
+ 2,863,034 
+ 
+ Stockholders' Equity: 
+
+Preferred stock 0.0001 par value), 20,000,000 shares 
+
+Series A Convertible Preferred stock 15.00 par value), 100,000 shares authorized; 1,167 shares issued and outstanding as of December 31, 2020 and 2019 
+ 17,505 
+ 17,505 
+ 
+ Common stock, 0.0001 par value), 100,000,000 shares authorized; 40,290,400 shares issued and outstanding as of December 31, 2020 and 2019 
+ 4,030 
+ 4,030 
+ 
+ Additional paid-in capital 
+ 5,547,717 
+ 5,110,717 
+ 
+ Accumulated deficit 
+ (5,150,676 
+ (4,019,729 
+ 
+ Total Equity 
+ 418,576 
+ 1,112,523 
+ 
+ Non-controlling interest in variable interest entities 
+ (164,380 
+ (82,422 
+ 
+ Total Stockholders' Equity 
+ 254,196 
+ 1,030,101 
+ 
+ TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY 
+ 1,353,312 
+ 4,030,455 
+
+The accompanying notes are an integral part of
+these consolidated financial statements. 
+
+F- 4 
+
+Alpha Investment Inc. 
+
+ Consolidated Statements of Operations 
+
+Year 
+ Year 
+
+Ended 
+ Ended 
+
+December 31, 
+ December 31, 
+
+2020 
+ 2019 
+ 
+ Income: 
+
+Net investment income (losses)
+ - related parties 
+ 16,688 
+ 90,115 
+ 
+ Total Income 
+ 16,688 
+ 90,115 
+
+General and Administrative Expenses: 
+
+Management fee - related party 
+ 150,000 
+ 369,680 
+ 
+ Administrative expenses 
+ 630,480 
+ 625,551 
+ 
+ Professional fees 
+ 292,441 
+ 485,690 
+ 
+ Total General and Administrative Expenses 
+ 1,072,921 
+ 1,480,921 
+ 
+ Loss from Operations 
+ (1,056,233 
+ (1,390,806 
+
+Other Expense: 
+
+Gain on deconsolidation 
+ 
+ 316,774 
+ 
+ Interest expense, net 
+ (12,983 
+ (623,213 
+ 
+ Total Other Expense 
+ (12,983 
+ (306,439 
+
+Net Loss 
+ (1,069,216 
+ (1,697,245 
+
+Amortization of discounts on Series 2018 preferred stock and redeemable common stock 
+ (23,689 
+ (23,689 
+
+Net Income Attributable to Non-controlling Interests 
+ (38,042 
+ (17,578 
+
+Net Loss Attributable to Common Stockholders 
+ (1,130,947 
+ (1,738,512 
+
+Basic and Diluted Loss Per Share 
+ (0.03 
+ (0.04 
+
+Basic and Diluted Weighted Average Number of Common Shares Outstanding 
+ 40,290,400 
+ 40,442,441 
+
+The accompanying notes are an integral part of
+these consolidated financial statements. 
+
+F- 5 
+
+Alpha Investment Inc. 
+
+ Consolidated Statement of Shareholders'
+Equity 
+
+ For the Years Ended December 31, 2020 and
+2019 
+
+Series A 
+ 
+ Non- 
+
+Common Stock 
+ Preferred Stock 
+ Paid-in 
+ controlling 
+ Accumulated 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Interest 
+ Deficit 
+ Total 
+ 
+ Balance, December 31, 2018 
+ 40,239,333 
+ 4,024 
+ 1,167 
+ 17,505 
+ 2,980,118 
+ 
+ (2,281,217 
+ 720,430 
+ 
+ Stockholder contribution 
+
+274,600 
+
+274,600 
+ 
+ Sale of common stock 
+ 51,067 
+ 6 
+
+855,999 
+
+856,005 
+ 
+ Sale of minority interest in subsidiary 
+
+1,000,000 
+
+1,000,000 
+ 
+ Distributions due to non-controlling interest 
+
+(100,000 
+ 
+ (100,000 
+ 
+ Amortization of discount on redeemable preferred stock 
+
+(23,689 
+ (23,689 
+ 
+ Net loss 
+
+17,578 
+ (1,714,823 
+ (1,697,245 
+ 
+ Balance, December 31, 2019 
+ 40,290,400 
+ 4,030 
+ 1,167 
+ 17,505 
+ 5,110,717 
+ (82,422 
+ (4,019,729 
+ 1,030,101 
+ 
+ Stockholder contribution 
+
+437,000 
+
+437,000 
+ 
+ Distributions due to non-controlling interest 
+
+(120,000 
+ 
+ (120,000 
+ 
+ Amortization of discount on redeemable preferred stock 
+
+(23,689 
+ (23,689 
+ 
+ Net loss 
+
+38,042 
+ (1,107,258 
+ (1,069,216 
+ 
+ Balance, December 31, 2020 
+ 40,290,400 
+ 4,030 
+ 1,167 
+ 17,505 
+ 5,547,717 
+ (164,380 
+ (5,150,676 
+ 254,196 
+
+The accompanying notes are an integral part of
+these consolidated financial statements. 
+
+F- 6 
+
+Alpha Investment Inc. 
+
+ Consolidated Statements of Cash Flows 
+
+Year 
+ Year 
+
+Ended 
+ Ended 
+
+December 31, 
+ December 31, 
+
+2020 
+ 2019 
+ 
+ Cash Flows from Operating Activities: 
+
+Net loss 
+ (1,069,216 
+ (1,697,245 
+ 
+ Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Depreciation Expense 
+ 373 
+ 496 
+ 
+ Accretion of origination fee income 
+ 140,050 
+ (86,517 
+ 
+ Amortization of deferred loan costs 
+ 
+ 143,981 
+ 
+ Gain on deconsolidation 
+ 
+ (316,774 
+ 
+ Bad debt expense 
+ 
+ 25,000 
+ 
+ Changes in operating assets and liabilities: 
+
+Increase in interest receivable 
+ (52,535 
+ (45,041 
+ 
+ Increase in prepaid expenses 
+
+Increase in accrued management fees - related party 
+ 150,000 
+
+Decrease in accounts payable 
+ 105,475 
+ (65,011 
+ 
+ Increase in notes payable - related party 
+ 178,671 
+
+Net cash used in operating activities 
+ (547,182 
+ (2,041,111 
+
+Cash Flows from Investing Activities: 
+
+Net cash from investing activities 
+
+Cash Flows from Financing Activities: 
+
+Redemption of common stock 
+ (2,500,000 
+
+Proceeds from payroll protection loan 
+ 20,927 
+
+Proceeds from stockholder contribution 
+ 437,000 
+ 274,600 
+ 
+ Proceeds from the sale of common stock 
+ 
+ 856,005 
+ 
+ Proceeds from the sale of interest in subsidiary 
+ 
+ 1,000,000 
+ 
+ Cancellation of the sale of common stock 
+ 
+ (90,000 
+ 
+ Proceeds from the sale of preferred stock 
+
+Net cash provided by financing activities 
+ (2,042,073 
+ 2,040,605 
+
+Net increase (decrease) in cash 
+ (2,589,255 
+ (506 
+ 
+ Cash and restricted cash at beginning of year 
+ 2,600,879 
+ 2,511,385 
+ 
+ Cash and restricted cash at end of year 
+ 11,624 
+ 2,510,879 
+
+Supplemental Disclosure of Cash Flow Information: 
+
+Cash paid during year for: 
+
+Interest 
+
+Income Taxes 
+
+Schedule of Non-Cash Investing and Financing Activities: 
+
+Distribution due to non-controlling interest 
+ 120,000 
+ 100,000 
+ 
+ Amortization of discount on redeemable preferred stock 
+ 23,689 
+
+The accompanying notes are an integral part of
+these consolidated financial statements. 
+
+F- 7 
+
+Alpha Investment Inc. 
+
+ Notes to the Consolidated Financial Statements 
+
+ Years Ended December 31, 2020 and 2019 
+
+NOTE 1 ORGANIZATION AND DESCRIPTION OF BUSINESS 
+
+Corporate History 
+
+Alpha Investment Inc, formerly GoGo Baby, Inc.
+(the Company was incorporated on February 22, 2013 under the laws of the State of Delaware to develop, create, manufacture
+and market, toys for small children which would be designed to attach to car seats and amuse and entertain children during a drive,
+without distracting the attention of the driver. The Company, however, encountered significant constraints in raising sufficient
+capital to fully implement its business plan. 
+
+TO better reflecting management s shifted
+focus of the Company s business to real estate and other commercial lending, on March 30, 2017, the Company filed a Certificate
+of Amendment to its Certificate of Incorporation with the Delaware Secretary of State changing its name from Gogo Baby,
+Inc. to Alpha Investment Inc. . The name change and a corresponding change in the Company s OTC
+markets trading symbol from GGBY to ALPC received approval from FINRA and became effective as of April 19, 2017. 
+
+On January 31, 2019, the Company, through Jersey
+Walk Phase I, LLC, entered into a Sale of Membership Interest Agreement (the Purchase Agreement with CMT Developers
+LLC CMT ). Pursuant to the Purchase Agreement, the Company acquired 100 of CMT s membership interests,
+in exchange for the issuance to CMT of 3,000,000 shares of common stock. During the due diligence on the refinancing of the
+property, the Company learned that certain of the representations and warranties of CMT in the Purchase Agreement with respect
+to the property were incorrect in various material respects. Based on the foregoing, effective June 7, 2019, the Company rescinded
+the Purchase Agreement in accordance with its terms and the 3,000,000 shares of common stock were returned to the Company. As of
+June 7, 2019, the Company deconsolidated CMT, recognizing a gain on deconsolidation of 316,774. The assets, liabilities and equity
+related to CMT, resulting in the gain on deconsolidation are summarized as follows: 
+
+Note Payable 
+ 15,500,000 
+ 
+ Accrued Interest 
+ 232,500 
+ 
+ Deferred Income 
+ 576,774 
+ 
+ Common Stock Returned 
+ 29,222,500 
+ 
+ Real Estate 
+ (44,800,000 
+ 
+ Prepaid Expenses 
+ (105,000 
+ 
+ Construction Loan Advances 
+ (310,000 
+ 
+ Gain on Deconsolidation 
+ 316,774 
+
+On March 11, 2019, the Company, through a newly
+formed LLC or Special Purpose Vehicle SPV called Alpha Mortgage Notes I, LLC executed an operating agreement with
+Alameda Partners LLC. Alameda Partners is a Utah Limited Liability Company which made a capital contribution of 1,000,000, which
+was paid to the Company, for 10 ownership of the SPV, and will be the managing member. The capital shall be used to implement
+the strategy of acquiring commercial real estate performing notes and support other related growth initiatives and assets acquisitions
+for the Company of which is positioning for its up-listing to the NYSE. The Members of Alameda Partners LLC have decades of experiences
+in the commercial real estate industry as property developers, owners, and managers and currently holds over 50-million
+in commercial real estate assets. They have been appointed as the Managing Members of the SPV, while ALPC controls and holds 90 
+ownership. In exchange for its 90 interest in the SPV, the Company is required to contribute 4,015,667 shares of common
+stock for the purchase of performing notes for the SPV. The special purpose vehicle was organized to acquire the membership interests,
+develop, own, hold, sell, lease, transfer, exchange, re-lend, manage and operate the underlying assets and conduct activities related
+thereto the ownership of commercial real estate mortgage notes and REO s. The initial 1,000,000 was recorded as additional
+paid in capital on the accompanying consolidated balance sheet. Alameda Partners is entitled to monthly distributions in cash and
+stock equal to 10,000. For the years ended December 31, 2020, the Company has recorded 220,000 of distributions as reductions
+to non-controlling interest, which has been accrued and included in Distributions Payable on the accompanying consolidated balance
+sheet as of December 31, 2020. As of December 31, 2020, Alpha Mortgage Notes I, LLC has not completed any transactions. 
+
+On June 2,
+2020, the Company acquired a 19 membership interest in Legacy Sand Group, LLC Legacy ), which owns real property and mining
+rights comprised of approximately 1,200 acres that encompass an asset of 110 million tons of Tier 1 Northern White Fracking Sand in Wisconsin.
+As consideration for the acquisition, the Company issued 3,382 shares of 2020 Convertible Preferred Stock, which is convertible into
+3,804,750 shares of the Company s common stock. The Company recorded its interest in Legacy at the estimated fair value of the
+preferred stock of 33,323,000. 
+
+F- 8 
+
+However, despite using its best efforts,
+pending Legacy Sand commencing operations and generating revenues, the Company was not been able to sufficiently establish the valuation
+of the Interest and the Series 2020 Preferred Shares to the satisfaction of its independent registered public accounting firm, in order
+to allow the Interest to be reflected as an asset on the Company s balance sheet included in its periodic reports filed with the
+SEC under the Securities Act of 1934, as amended. 
+
+Accordingly, on July 29, 2021, the
+Company and Parsons entered into an Unwinding Agreement (the Unwinding Agreement ), pursuant to which the joint venture
+was unwound. Under the Unwinding Agreement, Parsons returned the Series 2020 Preferred Shares to the Company for cancellation and the
+Company assigned the Interest in Legacy Sand back to Parsons and exchanged mutual releases. 
+
+NOTE 2 GOING CONCERN 
+
+Future issuances of the Company s
+equity or debt securities will be required in order for the Company to continue to finance its operations and continue as a
+going concern. The Company s present revenues are insufficient to meet operating expenses. The financial statement of
+the Company have been prepared assuming that the Company will continue as a going concern, which contemplates, among other
+things, the realization of assets and the satisfaction of liabilities in the normal course of business. The Company used
+ 547,182 and 2,041,111 in cash in operations, and incurred net losses of 1,069,216 and 1,697,245 during the years ended
+December 31, 2020 and 2019, respectively. The Company has an accumulated deficit of 5,130,212 as of December 31, 2020 and
+requires capital for its contemplated operational and marketing activities to take place. The Company's ability to raise
+additional capital through the future issuances of common stock is unknown. Securing additional financing, the successful
+development of the Company's contemplated plan of operations, and its transition, ultimately, to the attainment of profitable
+operations are necessary for the Company to continue operations. The ability to successfully resolve these factors raise
+substantial doubt about the Company's ability to continue as a going concern. The consolidated financial statements of the
+Company do not include any adjustments that may result from the outcome of these aforementioned uncertainties. 
+
+NOTE 3 - SUMMARY OF SIGNIFICANT
+ACCOUNTING POLICIES 
+
+Principles of Consolidation 
+
+The consolidated financial statements include the accounts of the
+Company, Alpha Mortgage Notes I, LLC, which is controlled by the Company through its 90 ownership interest, and Paris Med CP-LLC Paris Med ), variable interest entity for which the Company is deemed to be the primary beneficiary, (collectively,
+the Company ). All significant intercompany balances and transactions have been eliminated in consolidation. 
+
+Use of Estimates 
+
+The preparation of financial statements in
+conformity with accounting principles generally accepted in the United States of America requires management to make certain estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenues and expenses during the reporting periods presented.
+The Company is required to make judgments and estimates about the effect of matters that are inherently uncertain. The Company
+regularly evaluates estimates and assumptions related to the useful life and recoverability of long-lived assets, deferred income
+tax asset valuations and loss contingences. The Company bases its estimates and assumptions on current facts, historical experience
+and various other factors that it believes to be reasonable under the circumstances, the results of which form the basis for making
+judgments about the carrying value of assets and liabilities and the accrual of costs and expenses that are not readily apparent
+from other sources. Although, we believe our judgments and estimates are appropriate, actual future results may be different; if
+different assumptions or conditions were to prevail, the results could be materially different from our reported results. 
+
+Cash and Cash Equivalents 
+
+Cash equivalents include short-term, highly
+liquid investments with maturities of three months or less at the time of acquisition. 
+
+Restricted Cash Held in Escrow 
+
+As of December 31, 2019, the Company had approximately
+ 2,509,000 of restricted cash held in escrow from the sale of commons stock to an investor that has the right to require the Company
+to repurchase common stock for 2,500,000 through September 2020. In February 2020, the holder exercised its option. . As of December
+31, 2020, restricted cash held in escrow was nil. See Note 9 
+
+Loans Receivable, net and Allowance for Losses 
+
+The Company records its investments in loans
+receivable at the lower of cost or fair value, Costs are the gross loan receivables less unamortized costs of issuance and deferred
+origination fees. Origination fees collected at the time of investment are recorded against the loans receivable and amortized
+into net interest income over the lives of the related loans. Issuance costs incurred are capitalized along with the initial investment
+and amortized against net interest income over the lives of the related loans. 
+
+F- 9 
+
+When a loan receivable is placed on non-accrual
+status, the related interest receivable is charged to bad debt of the current period. If a non-accrual loan is returned to accrual
+status, the accrued interest existing at the date the residential loan is placed on non-accrual status and interest during the
+non-accrual period are recorded as interest income as of the date the loan no longer meets the non-accrual criteria. 
+
+The Company maintains
+an allowance for loan losses on its investments in real estate loans receivable for estimated credit impairment. Management s
+estimate of losses is based on a number of factors including the types and dollar amounts of loans in the portfolio, adverse situations
+that may affect the borrower s ability to repay, prevailing economic conditions and the underlying collateral securing the
+loan. Additions to the allowance are provided through a charge to earnings and are based on an assessment of certain
+factors, which may indicate estimated losses on the loans. Actual losses on loans are recorded first as a reduction
+to the allowance for loan losses. Generally, subsequent recoveries of amounts previously charged off are recognized
+as income. 
+
+Estimating allowances for loan losses requires
+significant judgment about the underlying collateral, including liquidation value, condition of the collateral, competency and
+cooperation of the related borrower and specific legal issues that affect loan collections or taking possession of the property on
+an individual loan receivable basis. Management has established an allowance of 250,000 as of December 31, 2020,
+and determined that no allowance for loan losses was necessary as of December 31, 2019. 
+
+Property and Equipment 
+
+Property and equipment are stated at cost.
+Equipment and fixtures are depreciated using the straight-line method over the estimated asset lives, 5 years. 
+
+Income Taxes 
+
+The Company accounts for its income taxes in
+accordance with FASB Accounting Standards Codification ASC No. 740, Income Taxes . Under this method,
+deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial
+statement carrying amounts of existing assets and liabilities and their respective tax balances. Deferred tax assets and liabilities
+are measured using enacted or substantially enacted tax rates expected to apply to the taxable income in the years in which those
+differences are expected to be recovered or settled. Deferred tax assets are reduced by a valuation allowance when, in the opinion
+of management, it is more likely than not that some portion or all of the deferred tax assets will not be realized. The effect
+on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the date of
+enactment or substantive enactment. 
+
+Accounting for Uncertainty in Income Taxes 
+
+The Company applies the provisions of ASC Topic
+740-10-25, Income Taxes Overall Recognition ASC Topic 740-10-25 with respect to the accounting
+for uncertainty of income tax positions. ASC Topic 740-10-25 clarifies the accounting for uncertainty in income taxes recognized
+in a company s consolidated financial statements and prescribes a recognition threshold and measurement attribute for the
+financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return. ASC Topic 740-10-25
+also provides guidance on derecognition, classification, interest and penalties, accounting in interim periods, disclosure and
+transition. As December 31, 2020, tax years since 2013 remain open for IRS audit. The Company has received no notice of audit from
+the Internal Revenue Service for any of the open tax years. 
+
+Revenue Recognition and Investment Income 
+
+Origination fees collected at the time of investment
+are recorded against the loans receivable and amortized into net interest income over the lives of the related loans. Issuance
+costs incurred are capitalized along with the initial investment and amortized against net interest income over the lives of the
+related loans. The Company records interest income in accordance with ASC subtopic 835-30 Imputation of Interest , using
+the effective interest method. The following is a summary of the components of the Company s net investment income for the
+years ended December 31, 2020 and 2019: 
+
+2020 
+ 2019 
+ 
+ Interest Income 
+ 45,306 
+ 32,651 
+ 
+ Accretion of Loan Origination Fees 
+ 74,523 
+ 143,981 
+ 
+ Amortization of Loan Issuance Costs 
+ (103,141 
+ (86,517 
+ 
+ Net Investment Income 
+ 16,688 
+ 90,115 
+
+When a loan is placed on non-accrual status,
+the related interest receivable is charged to bad debt of the current period. If a non-accrual loan is returned to accrual status,
+the accrued interest existing at the date the residential loan is placed on non-accrual status and interest during the non-accrual
+period are recorded as interest income as of the date the loan no longer meets the non-accrual criteria. 
+
+F- 10 
+
+The Company suspends recognizing interest
+income when it is probable that the Company will be unable to collect all payments according to the contractual terms of the underlying
+agreements. Management considers all information available in assessing collectability. Collectability is measured on a receivable-by-receivable
+basis by either the present value of estimated future cash flows discounted at the effective rate, the observable market price
+for the receivable or the fair value of the collateral if the receivable is collateral dependent. Large groups of smaller balance
+homogeneous receivables, such as pre-settlement funding transactions, are collectively assessed for collectability. Receivables,
+including those arising from the sale of loan origination services, is charged off when in the Company's judgment, the receivable
+or portion of the receivable is considered uncollectible. 
+
+Payments received on past due receivables and
+finance receivables the Company has suspended recognizing interest income on are applied first to principal and then to accrued
+interest. Interest income on past due receivables and finance receivables, if received, is recorded using the cash basis method
+of accounting. Additionally, the Company generally does not resume recognition of interest income once it has been suspended. 
+
+Variable Interest Entity 
+
+The Company holds a 10 interest in Paris Med,
+of which the remaining 90 interest is held by the Company s parent company. Through December 31, 2020, the Company
+has provided 100 of the funding to Paris Med, which has provided a construction loan to a third party. This loan receivable
+is the sole asset of Paris Med. The Company determined that Paris Med was a variable interest entity based on various qualitative
+and quantitative factors including but not limited to: 1) financing of Paris Med s sole asset was received by the Company,
+which is disproportionate to the Company s ownership interest and 2) the Company and Omega, a related party, organized the
+entity for the purpose of facilitating the Company s activities. As of December 31, 2020 and 2019, the Company is considered
+the primary beneficiary because it has provided substantially all of its financial support and is the only party at risk. As
+of December 31, 2020, Paris Med has total assets of 558,000, consisting solely of advances made pursuant to its third-party construction
+loan agreement, and had no liabilities. 100 of the funding for the sole asset was provided by the Company and such amounts are
+eliminated in consolidation. See Note 3. For the years ended December 31, 2020 and 2019, Paris Med had no activity
+other than accruing interest on outstanding principal. The Company will evaluate its investments in Paris Med each reporting
+period to determine if it is still the primary beneficiary, and if no longer considered the primary beneficiary, deconsolidate
+Paris Med in the period in which circumstances change or events occur causing a change in its assessment. The Company has
+not attributed any of its net loss or equity to non-controlling interest because Paris Med s sole asset is amounts owed to
+the Company, which is eliminated in consolidation, and there was no material income earned or losses incurred to date by Paris
+Med. 
+
+Fair Value 
+
+The carrying amounts reported in the balance
+sheet for cash, accounts payable and notes payable approximate their estimated fair market value based on the short-term maturity
+of this instrument. The carrying value of the Company s loans receivable approximate fair value because their terms approximate
+market rates. 
+
+Net Loss Per Share 
+
+Basic loss per share is computed by dividing
+the net loss available to common stockholders by the weighted average number of common shares outstanding for the year. Dilutive
+loss per share reflects the potential dilution of securities that could share in the losses of the Company. 166,667 shares underlying
+convertible preferred stock and 350,000 shares of common stock underlying common stock warrants were excluded from the computation
+of diluted loss per share for year ended December 31, 2020 and 2019, because their impact was anti-dilutive. 
+
+Concentration of Credit Risk 
+
+Financial instruments that potentially subject
+the Company to significant concentrations of credit risk consist primarily of cash and cash equivalents and loans receivable. The
+Company maintains its cash in bank and financial institution deposits that at times may exceed federally insured limits. Management has established an allowance of 250,000 as of December 31,
+2020, and determined that no allowance for loan losses was necessary as of December 31, 2019. 
+
+Recently Issued Accounting Pronouncements 
+
+Recent accounting pronouncements that the Company
+has adopted or that will be required to adopt in the future are summarized below. 
+
+In January 2016, the FASB issued ASU No. 2016-01, Financial
+Instruments - Overall (Subtopic 825- 10), Recognition and Measurement of Financial Assets and Financial Liabilities . The
+provisions of the update require equity investments to be measured at fair value with changes in fair value recognized in net income.
+However, an entity may choose to measure equity investments that do not have readily determinable fair values at cost minus impairment.
+The update also simplifies the impairment assessment of equity investments without readily determinable fair values by requiring
+a qualitative assessment to identify impairment. It also eliminates the requirement to disclose the fair value of financial instruments
+measured at amortized cost for entities that are not public business entities, and eliminates the requirement for public business
+entities to disclose the methods and significant assumptions used to estimate the fair value for financial instruments measured
+at amortized cost on the balance sheet. ASU No. 2016-01 requires public business entities to use the exit price notion when measuring
+the fair value of financial instruments for disclosure purposes. It also requires an entity to present separately in other 
+
+F- 11 
+
+comprehensive
+income the portion of the total change in the fair value of a liability resulting from a change in the instrument-specific credit
+risk when the entity has elected to measure the liability at fair value in accordance with the fair value option for financial
+instruments. The update requires separate presentation of financial assets and financial liabilities by category and form on the
+balance sheet or the accompanying notes to the financial statements. In addition, the update clarifies that an entity should evaluate
+the need for a valuation allowance on a deferred tax asset related to available-for-sale securities
+in combination with the entity s other deferred tax assets. The adoption of this ASU did not have a material impact on the Company s financial statements. 
+
+In February 2016, the FASB issued ASU 2016-02, Leases
+(Topic 842), Conforming Amendments Related to Leases . This ASU amends the codification regarding leases in order to increase
+transparency and comparability. The ASU requires companies to recognize lease assets and liabilities on the statement of condition
+and disclose key information about leasing arrangements. A lessee would recognize a liability to make lease payments and a right-of-use
+asset representing its right to use the leased asset for the lease term. The new lease guidance was effective for fiscal years
+beginning after December 15, 2018, and did not have a material effect on the Company s financial statements. 
+
+In June 2016, the FASB issued ASU 2016-13, Financial
+Instruments Credit Losses (Topic 326), Measurement of Credit Losses on Financial Instruments . The amendments introduce
+an impairment model that is based on expected credit losses ECL ), rather than incurred losses, to estimate credit
+losses on certain types of financial instruments (ex. loans and held to maturity securities), including certain off-balance sheet
+financial instruments (ex. commitments to extend credit and standby letters of credit that are not unconditionally cancelable).
+The ECL should consider historical information, current information, and reasonable and supportable forecasts, including estimates
+of prepayments, over the contractual term. An entity must use judgment in determining the relevant information and estimation methods
+that are appropriate in its circumstances. Financial instruments with similar risk characteristics may be grouped together when
+estimating the ECL. The ASU also amends the current available for sale security impairment model for debt securities whereby credit
+losses relating to available for sale debt securities should be recorded through an allowance for credit losses. The amendments will be applied through a modified retrospective approach,
+resulting in a cumulative-effect adjustment to retained earnings as of the beginning of the first reporting period in which the
+guidance is effective. The Company is currently planning for the implementation of this accounting standard. It is too early to
+assess the impact this guidance will have on the Company s financial statements. 
+
+In August 2016, the FASB issued ASU No. 2016-15, Statement
+of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments . The amendments in this ASU clarify the
+proper classification for certain cash receipts and cash payments, including clarification on debt prepayment or debt extinguishment
+costs, settlement of zero-coupon debt instruments, contingent consideration payments made after a business combination, proceeds
+from the settlement of insurance claims, and proceeds from the settlement of corporate-owned life insurance policies, including
+bank-owned life insurance policies, among others. The
+Company adoption of this amendment did not have a material impact on the Company s Financial Statements. 
+
+The Company has implemented all new accounting
+pronouncements that are in effect and that may impact its financial statements and does not believe that there are any other new
+accounting pronouncements that have been issued that might have a material impact on its financial position or results of operations. 
+
+NOTE 4 LOANS RECEIVABLE, NET 
+
+Loans Receivable - Related
+Parties 
+
+Loan Agreement with Partners South Holdings
+LLC (Revolving Line of Credit) 
+
+On August
+28, 2017, the Company entered into a loan agreement with Partners South Holdings LLC Borrower ), which is owned by Timothy
+R. Fussell, former President, Chairman of the Board and a director of the Company, for a revolving line of credit in the maximum principal
+sum of 3,600,000 for the purpose of financing real property construction costs and working capital needs. On January 28, 2020, this
+loan was amended to reduce the loan amount to 657,500. The loan is secured in full by a first position lien on any and all Real Property
+in which the Borrower has any interest in for such purposes. The maturity date of the loan is August 31, 2022 at which time the entire
+principal balance of the loan plus accrued interest thereon is due and payable. The annual fixed interest rate on the loan is 3.5 and
+all interest receivables are due at maturity. As of December 31, 2020, the amount of 477,500 had been advanced on the loan. The origination
+fees of 180,000 due to the Company have been added to the balance due on the loan and recorded as a discount against the loan to be
+amortized into income through the maturity date. During the years ended December 31, 2020 and 2019, the Company recognized 36,217 and
+ 36,217, respectively of the origination fees, which are carried at 167,578 and 117,277 as of December 31, 2020 and 2019, respectively.
+The Comp any also incurred loan issuance costs of 420,000, which were recorded as deferred issuance costs to amortized as a reduction
+of interest income through the maturity date. During the years ended December 31, 2020 and 2019, the Company recognized 103,141 and
+ 103,141, respectively of the deferred issuance costs, which are carried at 101,196 and 204,338 as of December 31, 2020 and 2019, respectively.
+As of December 31, 2020 and 2019, the gross loan receivable balance is 598,156. 
+
+F- 12 
+
+Loan Agreement with Partners South Properties
+Corporation (Revolving Line of Credit) 
+
+On August
+28, 2017, the Company entered into a loan agreement with Partners South Properties Corporation Borrower ), which is owned
+by Timothy R. Fussell, President, Chairman of the Board and a director of the Company, for a revolving line of credit in the maximum
+principal sum of 5,000,000 for the purpose of financing real property construction costs and working capital needs. On November 2, 2019,
+this loan was amended to reduce the loan amount to 250,000. The loan is secured in full by a first position lien on any and all Real
+Property in which the Borrower has any interest in for such purposes. The maturity date of the loan is August 31, 2022 at which time
+the entire principal balance of the loan plus accrued interest thereon is due and payable. The annual fixed interest rate on the loan
+is 3.5 and all interest receivables are due at maturity. As of December 31, 2020, and 2019, the gross loan receivable balance is 250,000.
+The Company has established a full reserve against this until loan until such time as the loan is repaid. 
+
+Non-Binding Memorandum with Diamond Ventures
+Funds Management LLC 
+
+The Company and Diamond Ventures Funds Management
+LLC DVFM have executed a non-binding Memorandum of Understanding MOU in connection with ongoing
+discussions regarding a Share Exchange Acquisition of Membership interest into DVFM that will facilitate up to a 40 acquisition
+of DVFM. The terms of the exchange are not public at this time. Upon the signing of the MOU 25,000 was advanced to the Borrower
+as part of the Business Line of Credit to be established as part of the MOU. In December 2019, the Company determined that the
+amount was not going to be collected and recorded as a bad debt expense of 25,000 during the year ended December 31, 2019. 
+
+The following is a summary of loans receivable
+- related parties as of December 31, 2020 and 2019: 
+
+2020 
+ 2019 
+ 
+ Principal Amount Outstanding 
+ 907,500 
+ 907,500 
+ 
+ Unamortized Issuance Costs 
+ 101,196 
+ 204,338 
+ 
+ Unaccreted origination fees 
+ (21,307 
+ (228,284 
+ 
+ Allowance 
+ (250,000 
+ - 
+ 
+ Net Carrying Value 
+ 737,389 
+ 883,554 
+
+Loans Receivable 
+
+Paris Med 
+
+On May 2, 2018, the Company and Paris Med entered
+into agreements, pursuant to which Paris Med agreed to provide project financing in the amount of 158,216,541, to an unrelated
+third party consisting of three notes as follows: 
+
+1) 
+ Construction financing in the amount of 90,204,328, maturing in 10 years on June 30, 2028, including the construction period, and accruing interest at an annual rate of 5.5 during the construction period, and 4.5 upon conversion to a permanent loan. All interest receivables are due at maturity. As of December 31, 2019, Paris Med has made 558,000 of advances pursuant to the construction loan. The Company received loan origination fees, in the amount of 92,400, which is presented net of the underlying loan advances on the accompanying consolidated balance sheets and amortized into income over the terms of the underlying loans. During the years ended December 31, 2020 and 2019, the Company amortized 9,160 and 9,160, respectively, of the discount. As of December 31, 2020 and 2019, respectively, the loan is carried at 486,924 and 480,809, net of unamortized discount of 71,076 and 77,191. 
+
+2) 
+ Equipment financing note in the amount of 24,715,986, payable monthly, accruing interest at an annual rate of 5.75 , and having terms approximating the lives of the underlying equipment. As of December 31, 2020 and 2019, no amounts have been advanced pursuant to the equipment financing note. 
+
+3) 
+ Operations financing, business line of credit in the amount of 23,932,625, accruing interest at an annual rate of 5.75 , maturing in 10 years. As of December 31, 2020 and 2019, no amounts have been advanced pursuant to the line of credit. 
+
+4) 
+ The notes are secured by the assignment of leases and fixed assets related to the project. 
+
+Jersey Walk 
+
+On September 26, 2018, the Company, through
+a newly formed, wholly-owned limited liability company, acquired 100 of Jersey Walk Phase I, LLC Jersey Walk ),
+with all income going to the Company and has entered into a construction loan agreement with an unrelated party, CMT Developers,
+LLC CMT ), pursuant to which, CMT executed a promissory note in the favor of Jersey Walk in the amount of 73,496,002.
+This amount was to be advanced to CMT as required for the completion of the construction and development of two multi-family residences
+in Lakewood, New Jersey. All amounts advanced under the construction loan agreement were secured by the construction project
+and due by September 30, 2028. The acquisition of Jersey Walk was rescinded on June 6, 2019, as of which date, 310,000 had
+been advanced by Jersey Walk to CMT pursuant to the construction loan agreement. Pursuant to the construction loan agreement,
+Jersey Walk is to receive a loan origination fee equal to 1.85 of the loan amount, or 1,259,192, of which 624,596 was received
+during the year ended December 31, 2019, and recorded as deferred loan origination fees to be amortized into income over the term
+of the loan. 
+
+F- 13 
+
+As a result of the rescission of the Jersey Walk acquisition, and deconsolidation of the subsidiary, deferred income
+of 576,774 and construction loan advances of 310,000 were derecognized and included in the gain on
+deconsolidation for the year ended December 31, 2019, which totaled 316,774. The Company has retained no investment, and has
+no continuing involvement, in CMT. 
+
+The following is a summary of loans receivable
+as of December 31, 2020 and 2019: 
+
+2020 
+ 2019 
+ 
+ Principal Amount Outstanding 
+ 558,000 
+ 558,000 
+ 
+ Unaccreted Discounts 
+ (71,076 
+ (77,171 
+ 
+ Net Carrying Value 
+ 486,924 
+ 480,809 
+
+NOTE 5 - PROVISION FOR INCOME TAXES 
+
+Realization of deferred tax assets is dependent upon
+sufficient future taxable income during the period that deductible temporary differences and carry-forwards are expected to be available
+to reduce taxable income. As the achievement of required future taxable income is uncertain, the Company recorded a valuation allowance.
+As of December 31, 2020 the Company had a net operating loss carry-forward of approximately 2,753,651. Net operating loss carry-forwards
+incurred before 2018 generally expire twenty years from the date the loss was incurred, beginning in 2023, and losses incurred after
+2018 are subject to annual limitations. 
+
+The Company is subject to United States federal
+and state income taxes at an approximate blended state and federal rate of 29 . The reconciliation of the provision for income
+taxes at the United States federal statutory rate compared to the Company s income tax expense as reported is as follows: 
+
+December
+ 31, 
+ 2020 
+ December
+ 31, 
+ 2019 
+ 
+ Statutory rates (federal and state) 
+ 29 
+ 29 
+ 
+ Permanent differences 
+ 0 
+ (11 
+ 
+ Valuation allowance change and change in tax rate 
+ (29 
+ (18 
+
+0 
+ 0 
+
+Deferred income taxes reflect the net tax effects of temporary differences
+between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes.
+Deferred income taxes arise from temporary differences in the recognition of income and expenses for financial reporting and tax
+purposes. The significant components of deferred income tax assets and liabilities at December 31, 2020 and 2019 are as follows: 
+
+December
+ 31, 2020 
+ December
+ 31, 2019 
+ 
+ Net operating loss carryforward 
+ 798,559 
+ 482,081 
+ 
+ Valuation allowance 
+ (798,559 
+ (482,081 
+ 
+ Net Deferred income tax asset 
+ - 
+ - 
+
+The Company has recognized a valuation allowance
+for the deferred income tax asset since the Company cannot be assured that it is more likely than not that such benefit will be
+utilized in future years. The valuation allowance is reviewed annually. The Company s valuation allowance increased by 316,478 
+and 305,064 during the years ended December 31, 2020 and 2019, respectively. When circumstances change and which cause a change
+in management s judgment about the realizability of deferred income tax assets, the impact of the change on the valuation
+allowance is generally reflected in current income. 
+
+Current law limits the amount of loss available
+to be offset against future taxable income when a substantial change in ownership occurs. Therefore, the amount available to offset
+future taxable income may be limited. 
+
+NOTE 6 - COMMITMENTS AND CONTINGENCIES 
+
+Alpha Mortgage Notes, LLC 
+
+In exchange for its 90 interest in the Alpha
+Mortgage Notes, LLC, SPV the Company is required to contribute 4,015,667 shares of common stock to be used by the
+SPV for the purchase of performing notes for the SPV. The SPV is required to make monthly distributions to its 10 member of 10,000
+up until the time a purchase of the performing notes are made, and upon the acquisition of the six mortgages specified in the SPV's
+operating agreement, monthly payments of 150,000 per month from gross interest income received for 30 months; and 20 of any other
+future note purchases. The 10 partner will also receive an amount equal to 1 of the principal amounts received on each loan.
+During the years ended December 31, 2020 and 2019, the Company accrued distributions of 120,000 and 100,000, respectively. As
+of December 31, 2020 and 2019, respectively, 220,000 and 100,000 of minimum distributions were owed to the 10 partner. 
+
+F- 14 
+
+Litigation 
+
+The Company is not presently involved in any litigation. 
+
+Advisory Agreement 
+
+In June 2019, the Company entered into an advisory
+agreement, pursuant to which it agreed to compensate a third-party advisor a percentage of future capital raises facilitated by
+the advisor. Compensation includes non-refundable cash, cash compensation based on a percentage of capital raised. The advisor
+may elect to receive certain percentage-based fees in the form of equity. Upon the closing of a transaction, the advisor will receive
+five-year warrants to purchase a number of shares of common stock equal to 8 of the number of shares issue in the transaction
+at a strike price of the transaction value as defined the agreement. As of the date of this report, no amounts have been earned
+and no equity instruments have been issued as transaction-based fees pursuant to this agreement. During the year ended December
+31, 2020, the Company paid advisory fees of 35,000 to the third party advisor for services related to identifying potential investors,
+which is included in professional fees in the accompanying consolidated statement of operations. 
+
+NOTE 7 RELATED PARTY TRANSACTIONS 
+
+Loans receivable 
+
+The Company has extended lines of credit and
+loans to related parties. See Note 3. 
+
+Management Fee 
+
+The Company pays its
+parent company, Omega Commercial Finance Corp Omega management fees pursuant to a corporate governance management
+agreement executed on June 1, 2017. Omega is to provide services related to facilitating the introduction of potential investors
+for compensation of no less than 150,000 per year, not to exceed 300,000 per year. The agreement remains in effect until cancelled
+by Omega. During the year ended December 31, 2019, Omega Commercial Finance Corp, the Company s principle stockholder, and
+Omega Streets Capital, an affiliate entity, was paid a combined 369,680 in management and consulting fees pursuant to a corporate
+governance management agreement executed on June 1, 2017. The fee paid in 2019 is for services that were rendered throughout
+2019. During the year ended December 31, 2020, the company accrued management fees of 150,000, which remain unpaid as of December
+31, 2020. 
+
+Note Payable 
+
+On October 14, 2020,
+the Company issue a promissory note in the amount of 175,000 to Partners South, Holdings, LLC. The note bears interest at an annual
+rate of 10 and matured on December 15, 2020. 
+
+NOTE 8 STOCKHOLDERS EQUITY 
+
+Incentive Plan 
+
+The Company s
+Incentive Plan provides for equity incentives to be granted to its employees, executive officers or directors or to key advisers
+or consultants. Equity incentives may be in the form of stock options with an exercise price not less than the fair market value
+of the underlying Shares as determined pursuant to the Incentive Plan, restricted stock awards, other stock-based awards, or any
+combination of the foregoing. The Incentive Plan is administered by the board of directors, and 5,000,000 Shares are reserved for
+issuance pursuant to the exercise of awards under the Incentive Plan. The number of shares so reserved automatically
+adjusts upward on January 1 of each year, so that the number of shares covered by the Incentive Plan is equal to 15 of our
+issued and outstanding common stock. No shares were
+issued under the plan during the years ended December 31, 2020 and 2019. As of December 31, 2020 and 2019, there were 3,625,000
+shares issued under the plan and 1,375,000 available for issuance under the plan. 
+
+F- 15 
+
+Temporary Equity 
+
+On September 20, 2017, 166,667 shares of common
+stock were issued at a value of 15.00 per share to one company in exchange for cash of 2,500,000. Pursuant to the subscription
+agreement, and amendments, the investor has the right to require the Company to repurchase the shares for 2.5 million at any time
+through September 2020, which was initially December 2017. Accordingly, the amounts received are presented as a temporary equity
+as of December 31, 2019 and 2018. In December 2017, the Company negotiated and amended its agreement with the investor to extend
+this right through May 15, 2018. As part of this extension, the investor was granted warrants to purchase 170,000 shares of common
+stock for an exercise price of 15.00 per share over a five-year term. Because the shares are classified as a temporary equity,
+and the investors rights to require repurchase of the shares initially expired in 2017 the Company recorded the fair value of these
+warrants were recorded as a discount against the proceeds to be amortized as interest expense through February 2018, the initial
+extension date. In March 2018, the Company entered into a third amendment to the subscription agreement, extending the option period
+to May 15, 2018. The option was further extended in May and June 2018. As consideration for the extensions, the Company s
+parent company, Omega Commercial Finance Corporation, agreed to issue to the investor, 65,000 shares of its Series Z preferred
+stock, and the Company agreed to reimburse the investor for 21,894 of legal fees incurred related to the extension. The
+Company estimated the fair value of the Series Z preferred stock based on recent sales for cash, and recorded additional discounts
+of 184,394, including the accrued legal fees, against the common stock to be amortized into interest expense through the extended
+expiration of the option in May 2018. In October 2018, the option period was further extended to November 19, 2018. As
+consideration for the extension, the Company agreed to allow the investor to direct the investment of the restricted cash into
+one more investment types, such stock, money market accounts or similar investments. The investor was also granted the right
+to withdrawal any restricted cash in excess of 2.5 million. In November 2018, the option was further extended to January
+12, 2019. In March 2019, the option period was extended to June 2019. In June 2019, the option period was extended to September
+27, 2019. In September 2019, the option period was extended to February 2020. In January 2020, the option period was extended to
+September 2020. During the year ended December 31, 2018, the Company amortized the remaining 1,109,113 of the discount. As of
+December 31, 20 2019, the cash was held in an escrow account and the shares are carried at 2,500,000. During the year ended December
+31, 2020, the investor exercised its right to require the Company to repurchase the shares for 2.5 million and 2.5 million was
+released from escrow and returned to the investor in exchange for the common stock. 
+
+On November 27, 2017,
+16,667 shares of 2018 Convertible Preferred stock were issued at a value of 15.00 per share to one entity in exchange for cash
+of 250,000. The shares have 350,000 warrants attached, each warrant entitling the holder to one additional share with an exercise
+date of up to 5 years from the issuance date of the shares. The preferred stock is mandatorily redeemable 10 years after issuance.
+The Company allocated 236,897 the proceeds from the sale of the preferred stock to the warrants, which was recorded as a discount
+against the preferred stock and is to be amortized as a deemed dividend through the 10-year redemption date. The balance of the
+preferred stock reflected in temporary equity as of December 31, 2020 and 2019, respectively, was 86,722 and 63,034, net of unamortized
+discount of 163,854 and 187,544. 
+
+During the year ended December 31, 2018, the Company issued 20,000
+shares of Series 2018 Convertible Preferred Stock to its chief executive officer as compensation for services provided. The
+Company estimated the fair value of the shares, based on recent sales for cash, of 300,000, as compensation expense for the year
+ended December 31, 2019. 
+
+Common Stock 
+
+During
+the year ended December 31, 2019, the Company sold 57,067 shares for gross proceeds of 946,005. In July 2019, the Company agreed
+to amend one of the subscription agreements and cancelled the sale 6,000 shares for cash consideration of 90,000. As of December
+31, 2020, 2,000 share of common stock have yet to be issued due to administrative delays. 
+
+Preferred Stock 
+
+During the year ended December 31, 2019, the
+Company sold 1,000 shares of Series A Convertible Preferred Stock for cash consideration of 15,000. 
+
+F- 16 
+
+Capital Contributions 
+
+During the years ended
+December 31, 2020 and 2019, Omega Commercial Finance Corp, The Company s parent company, made capital contributions to the
+Company totaling 437,000 and 274,600, respectively. 
+
+Common Stock Warrants 
+
+As of
+December 31, 2020, there are warrants outstanding to purchase 520,000 shares for an exercise price of 15.00 over five years. There
+was been no warrant activity during the years ended December 31, 2020 and 2019. 
+
+The following is a summary
+of warrants outstanding as of December 31, 2020: 
+
+Exercise Price 
+ # of Shares 
+ Expiration 
+ 
+ 0.15 
+ 350,000 
+ September 19, 2022 
+ 
+ 0.15 
+ 170,000 
+ December 14, 2022 
+
+520,000 
+
+Sale
+of Minority Interest in Subsidiary 
+
+During the year ended December
+31, 2019, the Company sold a 10 interest in a newly formed subsidiary for 1,000,000. See Note 1. 
+
+NOTE 9 SUBSEQUENT EVENTS 
+
+Parsons Energy Group, LLC 
+
+On July 30, 2020, Alpha entered into a joint venture transaction with Parsons Energy Group, LLC Parsons with respect to
+leasehold mining rights then held by Parsons on approximately 1,200 acres located in Independence, Wisconsin, containing an estimated
+1,110 Million Tons of Tier 1 Northern White Fracking Sand. In connection therewith, the mining rights were assigned by Parsons to Legacy
+Sand Group, LLC, a newly-organized Florida limited liability company Legacy Sand ), which was formed to exploit the fracking
+rights. Contemporaneously therewith, Alpha acquired a nineteen percent (19 limited liability company membership interest in Legacy Sands
+(the Interest ), in exchange for the issuance to Parsons of 3,382 shares of Alpha s Series 2020 Preferred Stock (the
+ Series 2020 Preferred Shares ). 
+
+Accordingly,
+on July 29, 2021, the Company and Parsons entered into an Unwinding Agreement (the Unwinding Agreement ), pursuant to which
+the joint venture was unwound. Under the Unwinding Agreement, Parsons returned the Series 2020 Preferred Shares to the Company for cancellation
+and the Company assigned the Interest in Legacy Sand back to Parsons and exchanged mutual releases. 
+
+Legacy Sand 
+
+However, despite using its best efforts, pending Legacy Sand commencing operations and generating
+revenues, the Company was not been able to sufficiently establish the valuation of the Interest and the Series 2020 Preferred Shares to
+the satisfaction of its independent registered public accounting firm, in order to allow the Interest to be reflected as an asset on the
+Company s balance sheet included in its periodic reports filed with the SEC under the Securities Act of 1934, as amended. 
+
+Series AA Convertible Preferred Issuance 
+
+As of June 30, 2021, Alpha issued 100,000 Series AA Convertible Preferred Shares to Omega Commercial Finance Corporation which represents
+100 of the issued and outstanding Series AA Convertible Preferred Shares. Each share of Series AA Preferred Stock shall entitle the
+holder thereof to four hundred fifty (450) votes on all matters submitted to a vote of the stockholders of the Company. Each share of Series
+AA Preferred Stock shall be convertible, at the option of the holder thereof, at any time and from time to time, into ten (10) fully
+paid and non-assessable shares of Common Stock (the Conversion Amount ). 
+
+Common Stock Shares Retired to Treasury 
+
+As of June 30, 2021 Omega Commercial Finance Corporation and holder of
+Common Shares of Alpha retired 31,070,000 of its Common Shares to treasury. Alpha s current issued and outstanding common stock
+is 9,724,401. 
+
+F- 17 
+
+Item 9. Changes
+in and Disagreements with Accountants on Accounting and Financial Disclosure 
+
+None. 
+
+Item 9A. Controls and Procedures 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+As of December 31, 2020, our Chief Executive Officer
+(our principal executive and financial officer) conducted an evaluation of the effectiveness of the design and operation of our disclosure
+controls and procedures; as is defined in Rule 13a-15(e) of Exchange Act. We recognize that there are material weaknesses related to our
+internal controls. Therefore, our Chief Executive Officer has concluded that our disclosure controls and procedures were not effective,
+as of the end of the period covered by this Annual Report on Form 10-K. This includes ensuring that information required to be disclosed
+was recorded, processed, summarized, and reported within the time periods specified in the SEC s rules and forms. Furthermore, to
+provide reasonable assurance that information required to be disclosed is accumulated and communicated as appropriate to allow timely
+decisions regarding required disclosure. 
+
+Management s
+Report on Internal Control over Financial Reporting 
+
+Our Chief Executive Officer (our principal executive
+and financial officer) is responsible for establishing and maintaining adequate internal control over financial reporting as defined in
+Rules 13a-15(f) and 15d-15(f) of the Exchange Act. We have designed our internal controls to provide reasonable assurance that our financial
+statements are prepared in accordance with generally accepted accounting principles in the United States (U.S. GAAP), and include those
+policies and procedures that: 
+
+pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and disposition of our
+assets; 
+
+provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance
+with generally accepted accounting principles, and that receipts and expenditures are being made only in accordance with authorization
+of our management and directors; and 
+
+provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that
+could have a material effect on the financial statements. 
+
+Our Chief Executive Officer (our principal executive
+and financial officer) conducted an evaluation of the effectiveness of our internal controls over financial reporting as of December 31,
+2020. In making this evaluation, the Chief Executive Officer used the criteria set forth by the Committee of Sponsoring Organizations
+of the Treadway Commission COSO in its 2013 Internal Control Integrated Framework. 
+
+Based on
+this evaluation, our Chief Executive Officer has concluded that our internal controls over financial reporting were not effective as
+of the end of the period covered in this Annual Report on Form 10-K. The Chief Executive Officer has concluded that the financial statements
+included in this report fairly present in all material respects our financial position and results of operations. 
+
+This Annual Report does not include an attestation
+report of the Company s registered public accounting firm regarding internal control over financial reporting. The Chief Executive
+Officer s report was not subject to attestation by the Company s registered public accounting firm pursuant to rules of the
+SEC that permit the Company to provide only management s report in this annual report. 
+
+13 
+
+Material Weakness in Internal Control Over Financial Reporting 
+
+A material weakness is a control deficiency or a combination of control
+deficiencies that result in more than a remote likelihood that a material misstatement of the annual or interim financial statements will
+not be prevented or detected. Our Chief Executive Officer has concluded that, as of December 31, 2020, we did not maintain effective controls
+over the preparation, review, presentation and disclosure of our financial statements. Specifically, we noted the following. 
+
+the Company did not maintain effective
+controls to identify and maintain segregation of duties to support the identification, authorization, approval, accounting for, and the
+disclosure of related-party transactions and significant unusual transactions. Specifically, one individual, the CEO, initiates related-party
+transactions and non-routine transactions. This CEO also reviews, evaluates, and approves these same transactions. 
+
+the Company does not have accounting
+policies and procedures to specify the correct treatment for estimating the allowance for doubtful accounts and bad debt expense of loans
+receivable. Specifically, a supporting analysis is not prepared for estimating the allowance for loan losses and bad debt expense. 
+
+the Company s board of directors
+does not demonstrate independence from management in exercising oversight of the development and performance of internal control over
+financial reporting. Specifically, there is no functioning audit committee or outside directors on the board of directors to exercise
+independent oversight over internal control over financial reporting. 
+
+Plan for Remediation of Material Weakness 
+
+We anticipate, contingent on cash funds available, that actions will be
+taken to strengthen the Company s internal control over financial reporting and will, over time, address the related material weakness.
+However, because many of the controls in the Company s system of internal controls rely extensively on manual review and approval,
+the successful operation of these controls may be required for several quarters prior to management being able to conclude that the material
+weakness has been remediated. 
+
+Limitations on the Effectiveness of Controls 
+
+The effectiveness of any system of internal control over financial reporting,
+including ours, is subject to inherent limitations, including the exercise of judgment in designing, implementing, operating and evaluating
+the controls and procedures, and the inability to eliminate misconduct completely. Accordingly, any system of internal control over financial
+reporting, including ours, no matter how well designed and operated, can only provide reasonable, not absolute assurances. In addition,
+projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of
+changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. We intend to continue to monitor
+and upgrade our internal controls as necessary or appropriate for our business, but cannot assure you that such improvements will be sufficient
+to provide us with effective internal control over financial reporting. 
+
+Changes in Internal Control over Financial Reporting 
+
+There have been no other changes in our internal control over financial
+reporting that occurred during our fiscal year ended December 31, 2020 that have materially affected, or are reasonably likely to materially
+affect, our internal controls over financial reporting. 
+
+Item 9B.
+Other Information 
+
+None. 
+
+14 
+
+PART III 
+
+Item 10. Directors
+and Executive Officers 
+
+The following table sets forth the name, age and position
+of each person who is a director or executive officer as of the date of this annual report. 
+
+Name 
+ Age 
+ Positions and Offices to be Held 
+
+Todd C. Buxton 
+ 51 
+ Chief Executive Officer, Vice Chairman and director 
+
+Todd C. Buxton has served as the Company s
+Chief Executive Officer and Vice Chairman since April 2017 and as Omega s Chief Executive Officer from April 2015 to March 2017.
+Mr. Buxton carries out initiatives to significantly improve the company's strategic operational execution and integration of new and
+existing subsidiaries with a goal to accelerate profitability, shareholder value and growth for the company. This includes planning the
+overall strategic business direction and facilitating creative development business models for Omega specifically within the capacity
+of the Omega's M A contractual negotiations and internal business contract facilitation for sales transactions, mergers and acquisitions,
+and capital markets growth strategies. Prior to serving as Omega s Chief Executive Officer, from 2010 through 2015, Mr. Buxton
+served in the same capacity for Bentley-Addison Capital Finance, which directly brokered and advised companies as an intermediary for
+commercial real estate financing opportunities. Mr. Buxton has a strong foundation in the commercial real estate construction management
+industry and real estate developer/contracting business as well as the information technology field going back to 1992. In January 2011,
+Mr. Buxton filed a petition for relief under Chapter 7 of the United States Bankruptcy Code in the Southern District of Ohio. In March
+2014, Mr. Buxton filed a motion to dismiss the case prior to discharge, which was granted in May 2014. 
+
+The Company intends to retain a Chief Financial Officer
+and expand its board of directors to include a majority of independent directors in the proximate future. 
+
+Terms of Office 
+
+Our directors are appointed for a one-year
+term to hold office until the next annual meeting of our stockholders and until a successor is appointed and qualified, or until
+their removal, resignation, or death. Executive officers serve at the pleasure of the board of directors. 
+
+Director Independence 
+
+At present, our sole director is not independent 
+as defined under Rule 10A-3(b)(1) under the Exchange Act. 
+
+Board Committees 
+
+Our board of directors does not currently have an
+audit committee, a compensation committee, or a corporate governance committee. As we expand our board in the future to add
+ independent directors, we intend to establish such committees, all the members of which will be independent 
+directors. 
+
+Code of Ethics 
+
+We have adopted a Code of Ethics that applies
+to employees, including our principal executive officer, principal financial officer, or persons performing similar functions. 
+
+Board of Directors Role in Risk Oversight 
+
+Members of the board of directors have periodic
+meetings with management and the Company s independent auditors to perform risk oversight with respect to the Company s
+internal control processes. The Company believes that the board s role in risk oversight does not materially affect the leadership
+structure of the Company . 
+
+15 
+
+Item 11. Executive Compensation 
+
+Summary Compensation Table 
+
+The table below summarizes all compensation awarded to, earned by
+or paid to our executive officers for 2020, 2019, and 2018. 
+
+SUMMARY COMPENSATION TABLE 
+
+Name and principal position 
+ Year 
+ Salary ) 
+ Bonus ) 
+ Stock Awards (#) 
+ Option Awards (#) 
+ Non-Equity Incentive Plan Compensation ) 
+ Nonqualified Deferred Compensation Earnings ) 
+ All Other Compensation ) 
+ Total ) 
+
+Todd C. Buxton, CEO 
+ 2020 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+2019 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ Timothy R. Fussell, 
+ 2020 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ President (1) 
+ 2019 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+(1) Dr. Fussell resigned as an officer and director of the Company in August 2020. 
+
+Employment Agreements 
+
+The Company is presently not party to an employment agreement with its
+executive officer. 
+
+Outstanding Equity Awards at Fiscal Year-End Table 
+
+The table below summarizes all unexercised
+options, stock that has not vested, and equity incentive plan awards outstanding as of December 31, 2020 for our executive officers. 
+
+OUTSTANDING EQUITY AWARDS AT FISCAL YEAR-END 
+
+OPTION AWARDS 
+ STOCK AWARDS 
+ 
+ Name 
+ Number of Securities Underlying Unexercised Options (#) Exercisable 
+ Number of Securities Underlying Unexercised Options (#) Unexercisable 
+ Equity Incentive Plan Awards: Number of Securities Underlying Unexercised Unearned Options (#) 
+ Option Exercise Price ) 
+ Option Expiration Date 
+ Number of Shares or Shares of Stock That Have Not Vested (#) 
+ Market Value of Shares or Shares of Stock That Have Not Vested ) 
+ Equity Incentive Plan Awards: Number of Unearned Shares, Shares or Other Rights That Have Not Vested (#) 
+ Equity Incentive Plan Awards: Market or Payout Value of Unearned Shares, Shares or Other Rights That Have Not Vested (#) 
+
+Todd C. Buxton, CEO 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ Timothy R. Fussell, President (1) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+(1) Dr. Fussell resigned as an officer and director of the Company in August 2020. 
+
+16 
+
+Compensation of Directors Table 
+
+The table below summarizes all compensation paid for our last completed
+fiscal year to each of our directors. 
+
+DIRECTOR COMPENSATION 
+
+Name 
+ Fees Earned or Paid in Cash ) 
+ Stock Awards ) 
+ Option Awards ) 
+ Non-Equity Incentive Plan Compensation ) 
+ Non-Qualified Deferred Compensation Earnings ) 
+ All Other Compensation ) 
+ Total ) 
+
+Todd C. Buxton 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ Timothy R. Fussell (1) 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+(1) Dr. Fussell resigned as an officer and director of the Company in August 2020. 
+
+Narrative Disclosure to the Director Compensation Table 
+
+We currently do not compensate our directors
+for their services as such. When we expand our board to include independent directors we intend to implement
+a plan and compensate them with a combination of cash and stock option awards, depending on our financial resources at that time. 
+
+Incentive Plan 
+
+Our Incentive Plan provides for equity incentives
+to be granted to our employees, executive officers or directors or to key advisers or consultants. Equity incentives
+may be in the form of stock options with an exercise price not less than the fair market value of the underlying Shares as determined
+pursuant to the Incentive Plan, restricted stock awards, other stock-based awards, or any combination of the foregoing. The
+Incentive Plan is administered by the board of directors. 5,000,000 Shares are reserved for issuance pursuant to the
+exercise of awards under the Incentive Plan. The number of shares so reserved automatically adjusts upward on January
+1 of each year, so that the number of shares covered by the Incentive Plan is equal to 15 of our issued and outstanding common
+stock. As of the date of this report, we have granted restricted stock awards of 3,625,000 Shares to six consultants and 1,375,000
+shares are available for issuance. 
+
+17 
+
+Item 12. Security Ownership
+of Certain Beneficial Owners and Management 
+
+The following table sets forth, as of the date
+of this annual report, the beneficial ownership of our common stock by each director and executive officer, by each person known
+by us to beneficially own 5 or more of our common stock and by directors and executive officers as a group. Unless
+otherwise stated, the address of the persons set forth in the table is c/o the Company, 200 East Campus View Blvd., Suite 200,
+Columbus, OH 43235. 
+
+Names and addresses 
+ 
+ Number of shares of 
+ common
+ stock 
+ beneficially owned (#) 
+
+Percentage
+ of Voting Power (1) 
+
+Directors and executive officers: 
+
+Todd C. Buxton 
+ 
+ 0 
+ (2) 
+ 
+ 0.0 
+
+All executive officers and directors as a group (one person) 
+ 
+ 0 
+ (2) 
+ 
+ 0.0 
+
+Other 5 percent beneficial owners: 
+
+Omega Commercial Finance Corp. 
+
+(2) 
+ 84.8 
+
+. Under the rules of the SEC,
+a person (or group of persons) is deemed to be a beneficial owner of a security if he or she, directly or indirectly,
+has or shares the power to vote or to direct the voting of such security, or the power to dispose of or to direct the disposition of such
+security. Accordingly, more than one person may be deemed to be a beneficial owner of the same security. 
+
+(1) Based on 9,724,401 Shares, each having one vote per Share and 100,000 shares of Series AA Preferred Stock each having
+450 votes per share outstanding as of the date of this annual report. 
+
+(2) Omega holds 1,390,000 Shares of record and beneficially owns 1,000,000 Shares
+issuable upon conversion of 100,000 shares of Series AA Preferred Stock held by it of record. The persons deemed voting or dispositive
+control over the Shares held by Omega are Jon S. Cummings IV, Chairman of Board, director and the majority shareholder of Omega, Mark
+Feanny, MD, a director of Omega and Clarence Williams, a director of Omega. 
+
+Item
+13. Certain Relationships and Related Transactions 
+
+Related Party Transactions 
+
+During the years ended December 31, 2020 and
+2019 Omega, the principal stockholder of the Company, made additional capital contributions to the Company of 437,000 and 274,600,
+respectively. 
+
+On August
+28, 2017, the Company entered into two loan agreements with companies owned by Timothy R. Fussell, our then President, Chairman of the
+Board and a director of the Company. The first agreement, with Partners South Holdings LLC PSHL ), provides
+for a revolving line of credit in the maximum principal sum of 3,600,000 for the purpose of financing real property construction costs
+and working capital needs. The line of credit is secured by a pledge of all the limited liability company membership interests
+of PSHL. The maturity date of the line of credit is August 31, 2022 at which time the entire then outstanding principal balance
+plus accrued interest thereon is due and payable. The fixed interest rate on the loan is 3.5 to be paid quarterly on the first
+day of each calendar. As of September 30, 2019, no amounts had been advanced under this line of credit. Origination fees of 180,000
+due to the Company have been added to the outstanding balance due on the line of credit. As of September 30, 2020, the loan receivable
+balance was 657,500. 
+
+The second
+agreement, with Partners South Properties Corporation PSPC ), provides for a revolving line of credit in the maximum
+principal sum of 5,000,000 for the purpose of financing real property construction costs and working capital needs. The line of
+credit is secured by a pledge of all the capital stock of PSPC. The maturity date of the line of credit is August 31, 2022 at which time
+the entire then outstanding principal balance plus accrued interest thereon is due and payable. The fixed interest rate on the
+line of credit is 3.5 to be paid quarterly on the first day of each calendar quarter. As of September 30, 2020, the loan receivable
+balance was 250,000. 
+
+18 
+
+The lines of credit were subsequently amended
+to provide that no additional advances would be made under the credit facilities beyond the outstanding loan receivable balances
+as of September 30, 2020. 
+
+The Company believes that the terms of the
+lines of credit with PSHL and PSPC are comparable to the terms of lines of credit which ALPC would offer to non-affiliated third-party
+borrowers. 
+
+Review, Approval and Ratification of Related
+Party Transactions 
+
+The Company does not have a policy that expressly
+prohibits its directors, officers, principal stockholders or their respective affiliates from engaging for their own account in
+business activities of the types conducted by the Company. The Company s code of business conduct and ethics contains a conflict
+of interest policy that prohibits its directors and executive officers, or whoever provides services to the Company, from engaging
+in any transaction that involves an actual conflict of interest with the Company, provided , however , that
+once the Company adds independent directors to its board, any such conflict may by a majority vote of independent directors. 
+
+Item
+14. Principal Accounting Fees and Services 
+
+The total fees charged to the Company by Turner,
+Stone Company, L.L.P ., for audit services, including quarterly reviews, were 11,000
+ for audit-related services were Nil, for tax services were Nil and for other services were Nil during the year ended December
+31, 2020. 
+
+The total fees charged to the Company by Assurance
+Dimensions, for audit services, including quarterly reviews, were 36,000 for audit-related services were Nil, for tax services
+were Nil and for other services were Nil during the year ended December 31, 2019. 
+
+The SEC requires that before our independent
+registered public accounting firm is engaged by us to render any auditing or permitted non-audit related service, the engagement
+be either: (i) approved by our Audit Committee or (ii) entered into pursuant to pre-approval policies and procedures established
+by the Audit Committee, provided that the policies and procedures are detailed as to the particular service, the 
+Audit Committee is informed of each service, and such policies and procedures do not include delegation of the Audit Committee s
+responsibilities to management. 
+
+We do not have an audit committee. Our
+Board pre-approves all services provided by our independent registered public accounting firm. All of the above services and fees
+paid during 2020 and 2019 were pre-approved by our Board. 
+
+19 
+
+PART IV 
+
+Item 15. Exhibits 
+
+Exhibit 
+
+Number 
+ 
+ Description 
+
+3.1 
+ 
+ Certificate
+ of Incorporation, as amended (1) 
+ 
+ 3.2 
+ 
+ Certificate
+ of Designation of Series A Convertible Preferred Stock (2) 
+ 
+ 3.3 
+ 
+ Certificate
+ of Designation of Series 2018 Convertible Preferred Stock (2) 
+ 
+ 3.4 
+ 
+ Certificate
+ of Designation of Series 2020 Convertible Preferred Stock (2) 
+ 
+ 3.5 
+ 
+ Form of
+ Amended and Restated Certificate of Designation of Series 2020 Convertible Preferred Stock (2) 
+ 
+ 3.6 
+ 
+ Form of
+ Certificate of Designation of Series AA Convertible Preferred Stock (2) 
+ 
+ 3.7 
+ 
+ By-Laws 
+ (1) 
+ 
+ 10.1 
+ 
+ 2017
+ Incentive Stock Plan (3) 
+ 
+ 10.2 
+ 
+ Subscription
+ Agreement with Dr. Assia Benhacene (4) 
+ 
+ 10.3 
+ 
+ Subscription
+ Agreement with Hoosier Real Estate Investors, LLC (5) 
+ 
+ 10.4 
+ 
+ Loan
+ Agreement with Partners South Holdings, LLC (3) 
+ 
+ 10.5 
+ 
+ Loan
+ Agreement with Partners South Properties Corporation (3) 
+ 
+ 10.6 
+ 
+ Code
+ of Ethics (3) 
+ 
+ 10.7 
+ 
+ Subscription
+ Agreement with Inn Properties, LLC (3) 
+ 
+ 10.8 
+ 
+ Corporate
+ Governance Management Agreement with Omega Commercial Finance Corporation (3) 
+ 
+ 10.9 
+ 
+ Purchase
+ Agreement with Parsons Energy Group LLC (6) 
+ 
+ 10.10 
+ 
+ First
+ Amendment to Purchase Agreement with Parsons Energy Group LLC (6) 
+ 
+ 10.11 
+ 
+ Unwinding
+ Agreement with Parsons Energy Group LLC (7) 
+ 
+ 31.1 
+ 
+ Sec. 302 Certification
+ of CEO (8) 
+ 
+ 31.2 
+ 
+ Sec. 302 Certification
+ of CFO (8) 
+ 
+ 32.1 
+ 
+ Sec. 906 Certification
+ of CEO (8) 
+ 
+ 32.2 
+ 
+ Sec. 906 Certification
+ of CFO (8) 
+
+(1) 
+ Filed as exhibit to registrant s Registration Statement on Form S-1 (File No. 333-198772) and incorporated herein by reference, as amended by an amendment thereto, filed as an exhibit to registrant s Current Report on Form 8-K dated April 19, 2017 and incorporated herein by reference. 
+
+(2) 
+ Filed as exhibit to registrant s Registration Statement on Form S-1 (File No. 333-236371) and incorporated herein by reference Previously filed. 
+
+(3) 
+ Filed as an exhibit to the registrant s Registration Statement on Form S-1 (File No. 333-221183) and incorporated herein by reference. 
+
+(4) 
+ Filed as an exhibit to the registrant s Current Report on Form 8-K dated September 5, 2017 and incorporated herein by reference. 
+
+(5) 
+ Filed as an exhibit to the registrant s Current Report on Form 8-K dated September 25, 2017 and incorporated herein by reference. 
+
+(6) 
+ Filed as an exhibit to the registrant s Current Report on Form 8-K dated July 22, 2020 and incorporated herein by reference. 
+
+(7) 
+ Filed as an exhibit to the registrant s Current Report on Form 8-K dated July 30, 2021 and incorporated herein by reference. 
+
+(8) 
+ Filed herewith. 
+ 
+ Management compensation
+plan or arrangement. 
+
+20 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13(a) or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized. 
+
+ALPHA INVESTMENT INC. 
+
+By 
+ /s/ TODD C. BUXTON 
+ 
+ October 13, 2021 
+
+TODD C. BUXTON 
+
+Chief Executive Officer, Acting Chief Financial Officer 
+
+In accordance with the Exchange Act, this report has been signed
+below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+/s/ Todd C. Buxton 
+ 
+ Chief Executive Officer, Acting Chief Financial Officer and Director 
+ 
+ October
+ 13, 2021 
+ 
+ TODD C. BUXTON 
+ 
+ Title (Principal Executive, financial and Accounting Officer 
+ 
+ Date 
+
+21 
+
+<EX-31>
+ 2
+ exhibit311.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1 
+
+Exhibit 31.1 
+
+CERTIFICATION 
+
+I, Todd C. Buxton, certify that: 
+
+1. I have reviewed this report on Form 10-K. 
+
+2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are responsible
+for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. Designed such disclosure controls and procedures or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including
+its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report
+is being prepared; 
+
+b. Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles; 
+
+c. Evaluated the effectiveness of the registrant s disclosure controls
+and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the
+end of the period covered by this report based on such evaluation; and 
+
+d. Disclosed in this report any change in the registrant s internal control
+over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal
+quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s
+internal control over financial reporting. 
+
+5. The registrant s other certifying officer(s) and I have disclosed,
+based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee
+of registrant s board of directors (or persons performing the equivalent functions): 
+
+a. All significant deficiencies and material weaknesses in the design or operation
+of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record,
+process, summarize and report financial information; and 
+
+b. Any fraud, whether or not material, that involves management or other employees
+who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 13, 2021 
+
+/s/ Todd C. Buxton 
+
+ Todd C. Buxton 
+
+ Chief Executive Officer 
+
+</EX-31>
+
+<EX-31>
+ 3
+ exhibit312.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2 
+
+Exhibit 31.2 
+
+CERTIFICATION 
+
+I, Todd C. Buxton, certify that: 
+
+1. I have reviewed this report on Form 10-K of Alpha Investment Inc. ; 
+
+2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are responsible
+for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. Designed such disclosure controls and procedures or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including
+its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report
+is being prepared; 
+
+b. Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles; 
+
+c. Evaluated the effectiveness of the registrant s disclosure controls
+and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the
+end of the period covered by this report based on such evaluation; and 
+
+d. Disclosed in this report any change in the registrant s internal control
+over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal
+quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s
+internal control over financial reporting. 
+
+5. The registrant s other certifying officer(s) and I have disclosed,
+based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee
+of registrant s board of directors (or persons performing the equivalent functions): 
+
+a. All significant deficiencies and material weaknesses in the design or operation
+of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record,
+process, summarize and report financial information; and 
+
+b. Any fraud, whether or not material, that involves management or other employees
+who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 13, 2021 
+
+/s/ Todd C. Buxton 
+
+ Todd C. Buxton 
+
+ Acting Chief Financial Officer 
+
+</EX-31>
+
+<EX-32>
+ 4
+ exhibit321.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1 
+
+Exhibit 32.1 
+
+CERTIFICATION 
+
+Pursuant to 18 U.S.C. 1350 
+
+ (Section 906 of the Sarbanes-Oxley Act of 2002) 
+
+In connection with the Annual
+Report on Form 10-K of Alpha Investment Inc. (the Company for the year ended December 31, 2020,
+as filed with the Securities and Exchange Commission on the date hereof (the Report ), Todd C. Buxton, as Chief Executive
+Officer of the Company, hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act
+of 2002, that: 
+
+1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act
+of 1934; and 
+
+2. The information contained in the Report fairly presents, in all material respects, the financial condition
+and results of operations of the Company. 
+
+Date:
+ October 13, 2021 
+ 
+ By: /s/ Todd C. Buxton 
+
+Todd C. Buxton 
+
+Chief Executive Officer 
+
+This certification accompanies
+each Report pursuant to 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by the Sarbanes-Oxley
+Act of 2002, be deemed filed by the Company for purposes of 18 of the Securities Exchange Act of 1934, as amended. 
+
+A signed original of this written
+statement required by Section 906 has been provided to the Company and will be retained by the Company and furnished to the Securities
+and Exchange Commission or its staff upon request. 
+
+</EX-32>
+
+<EX-32>
+ 5
+ exhibit322.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2 
+
+Exhibit 32.2 
+
+CERTIFICATION 
+
+Pursuant to 18 U.S.C. 1350 
+
+ (Section 906 of the Sarbanes-Oxley Act of 2002) 
+
+In connection with the Annual
+Report on Form 10-K of Alpha Investment Inc. (the Company for the year ended December 31, 2020, as
+filed with the Securities and Exchange Commission on the date hereof (the Report ), Todd C. Buxton, as Acting Chief Financial
+Officer of the Company, hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act
+of 2002, that: 
+
+1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act
+of 1934; and 
+
+2. The information contained in the Report fairly presents, in all material respects, the financial condition
+and results of operations of the Company. 
+
+Date:
+ October 13, 2021 
+ 
+ By: /s/ Todd C. Buxton 
+
+Todd C. Buxton 
+
+Acting Chief Financial Officer 
+
+This certification accompanies
+each Report pursuant to 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by the Sarbanes-Oxley
+Act of 2002, be deemed filed by the Company for purposes of 18 of the Securities Exchange Act of 1934, as amended. 
+
+A signed original of this written
+statement required by Section 906 has been provided to the Company and will be retained by the Company and furnished to the Securities
+and Exchange Commission or its staff upon request. 
+
+</EX-32>
+
+<EX-101.INS>
+ 10
+ alpc-20201231.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 11
+ alpc-20201231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 12
+ alpc-20201231_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 13
+ alpc-20201231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 14
+ alpc-20201231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 15
+ alpc-20201231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

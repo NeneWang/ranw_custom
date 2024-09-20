@@ -1,0 +1,3226 @@
+<Header>
+<FileStats>
+    <FileName>20211223_10-K_edgar_data_1418372_0001104659-21-153144.txt</FileName>
+    <GrossFileSize>3819675</GrossFileSize>
+    <NetFileSize>133435</NetFileSize>
+    <NonText_DocumentType_Chars>257193</NonText_DocumentType_Chars>
+    <HTML_Chars>1211467</HTML_Chars>
+    <XBRL_Chars>1254486</XBRL_Chars>
+    <XML_Chars>870734</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-21-153144.hdr.sgml : 20211223
+<ACCEPTANCE-DATETIME>20211223162409
+ACCESSION NUMBER:		0001104659-21-153144
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		63
+CONFORMED PERIOD OF REPORT:	20201231
+FILED AS OF DATE:		20211223
+DATE AS OF CHANGE:		20211223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Salamander Innisbrook, LLC
+		CENTRAL INDEX KEY:			0001418372
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AMUSEMENT & RECREATION SERVICES [7900]
+		IRS NUMBER:				260442888
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-147447
+		FILM NUMBER:		211517451
+
+	BUSINESS ADDRESS:	
+		STREET 1:		36750 US HIGHWAY 19 NORTH
+		CITY:			PALM HARBOR
+		STATE:			FL
+		ZIP:			34684
+		BUSINESS PHONE:		727-942-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		36750 US HIGHWAY 19 NORTH
+		CITY:			PALM HARBOR
+		STATE:			FL
+		ZIP:			34684
+
+</SEC-Header>
+</Header>
+
+ 0001104659-21-153144.txt : 20211223
+
+10-K
+ 1
+ tm2135575d1_10k.htm
+ FORM 10-K
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 10-K 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ For the fiscal years ended December 31, 2020 and 2019 
+
+Commission File No. 333-147447 
+
+SALAMANDER INNISBROOK, LLC 
+
+State of Organization: Florida 
+ 
+ IRS Employer Identification No. 26-0442888 
+
+36750 US Highway 19 North, Palm Harbor, FL 34684 
+
+Telephone Number: (727) 942-2000 
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b)
+OF THE ACT: 
+
+None 
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(g)
+OF THE ACT: 
+
+248 Condominium Rental Pool Units 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act. 
+
+Yes 
+No 
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or 15(d) of the Act 
+
+Yes 
+No 
+
+Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such
+shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past
+90 days. 
+
+Yes 
+No 
+
+Indicate by check mark whether the registrant has submitted electronically
+and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of
+Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+
+Yes 
+No 
+
+Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of Registrant s knowledge, in
+definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendments to this
+Form 10-K. 
+
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated
+filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act. (Check
+one): 
+
+Large accelerated filer Accelerated
+filer Non-accelerated file r 
+S maller Reporting Company 
+
+Emerging Growth Company 
+
+Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Act). 
+
+Yes 
+No 
+
+No established market exists for the Registrant s membership
+interests, so there is no market value for such membership interests. There are no membership interests held by non-affiliates as of December
+23,2021. 
+
+Issuer has no common stock subject to this report. 
+
+SALAMANDER INNISBROOK, LLC 
+
+ ANNUAL REPORT ON FORM 10-K 
+
+ FOR THE YEARS ENDED DECEMBER 31, 2020 and 2019 
+
+TABLE OF CONTENTS 
+
+PART I 
+
+ITEM 1. 
+ BUSINESS 
+ 4 
+
+ITEM 1A. 
+ RISK FACTORS 
+ 5 
+
+ITEM 1B. 
+ UNRESOLVED STAFF COMMENTS 
+ 6 
+
+ITEM 2. 
+ PROPERTIES 
+ 6 
+
+ITEM 3. 
+ LEGAL PROCEEDINGS 
+ 6 
+
+ITEM 4. 
+ MINE SAFETY DISCLOSURES 
+ 6 
+
+PART II 
+
+ITEM 5. 
+ MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 7 
+
+ITEM 6. 
+ SELECTED FINANCIAL DATA 
+ 7 
+
+ITEM 7. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 7 
+
+ITEM 7A. 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 10 
+
+ITEM 8. 
+ CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ 10 
+
+ITEM 9. 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 11 
+
+ITEM 9A. 
+ CONTROLS AND PROCEDURES 
+ 11 
+
+ITEM 9B. 
+ OTHER INFORMATION 
+ 12 
+
+PART III 
+
+ITEM 10. 
+ DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 13 
+
+ITEM 11. 
+ EXECUTIVE COMPENSATION 
+ 14 
+
+ITEM 12. 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 14 
+
+ITEM 13. 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+ 14 
+
+ITEM 14. 
+ PRINCIPAL ACCOUNTING FEES AND SERVICES 
+ 15 
+
+PART IV 
+
+ITEM 15. 
+ EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+ 16 
+
+SIGNATURES 
+ 42 
+
+2 
+
+Cautionary Note Regarding Forward-Looking Statements 
+
+The
+following report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and
+Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements are statements that predict or describe future
+events or trends and that do not relate solely to historical matters. All of our projections in this annual report are forward-looking
+statements. You can generally identify forward-looking statements as statements containing the words appears, believe, 
+ expect, hope, may, will, anticipate, intend, estimate, 
+ project, assume or other similar expressions. Certain factors that might cause such a difference include the
+following: changes in general economic conditions; including changes that may influence group conference and guests vacation plans;
+changes in travel patterns; changes in consumer tastes in destinations or accommodations for group conferences and vacations; changes
+in Rental Pool participation by the current condominium owners; our ability to continue to operate the Innisbrook Resort and Golf Club,
+or the Resort under our management contracts; and the resale of condominiums to owners who elect neither to participate
+in the Rental Pool nor to become members of the Resort. You should not place undue reliance on our forward-looking statements because
+the matters they describe are subject to known (and unknown) risks, uncertainties and other unpredictable factors, many of which are beyond
+our control. Our forward-looking statements are based on the limited information currently available to us and speak only as of the date
+on which this report was filed with the Securities Exchange Commission. Our continued internet posting or subsequent distribution of this
+dated report does not imply continued affirmation of the forward-looking statements included in it. We undertake no obligation, and we
+expressly disclaim any obligation, to issue any updates to our forward-looking statements, even if subsequent events cause our expectations
+to change regarding the matters discussed in those statements. Future events are inherently uncertain. Moreover, it is particularly difficult
+to predict business activity levels at the Resort with any certainty. Accordingly, our projections in this annual report are subject to
+particularly high uncertainty. 
+
+Our
+projections should not be regarded as legal promises, representations or warranties of any kind whatsoever. Over time, our actual results,
+performance or achievements will likely differ from the anticipated results, performance or achievements that are expressed or implied
+by our forward-looking statements, and such differences might be significant and harmful to your interests. 
+
+3 
+
+PART I 
+
+ITEM 1. BUSINESS 
+
+Background 
+
+Salamander
+Innisbrook, LLC (the Company was organized on June 14, 2007 by Salamander Farms, LLC under the laws of the state of Florida
+for the purpose of owning and operating Innisbrook Resort and Golf Club (the Resort ). The Company, and its wholly owned
+subsidiaries, Salamander Innisbrook Securities, LLC and Salamander Innisbrook Condominium, LLC, are hereinafter referred to as we ,
+ us , our . On July 16, 2007, we purchased the Resort, three condominiums, which became Salamander Innisbrook
+Condominiums, LLC, and all of the equity interests in Golf Host Securities, Inc. from Golf Trust of America, Inc. and its subsidiaries
+and affiliates. The Resort is a full service 72-hole destination golf and conference facility located near Tampa, Florida. The Resort
+features 1,216 condominium rooms, all of which are owned by third parties or affiliates. Approximately 290 condominium owners (representing
+302 hotel rooms) participate in a rental pool (the Rental Pool we operate. 
+
+Rental Pool Condominiums 
+
+Condominium
+ownership is a realty subdivision in which the individual lots are deemed apartment units. Instead of owning a plot of ground,
+the condominium owners own the space where their condominium units are located. This leaves substantial properties in interest which are
+not individually owned, such as the underlying land, driveways, parking lots, building foundations, exterior walls and roofs, garden areas
+and utility lines. These areas are termed common property or common elements. Each condominium owner has an undivided fractional interest
+in the common property. 
+
+The condominium
+owners at the Resort have established an Association of Condominium Owners (the Association ), to administer and maintain
+this common property and to conduct the business of the condominium owners. In particular, the Association is responsible for maintaining
+insurance on the real property, upkeep of the structures, maintenance of the grounds, electricity for the common areas, water/sewer and
+security services. The Association assesses fees to defray these expenses and to establish necessary reserves. An assessment, if not timely
+paid, may result in a lien being placed upon the unit of a delinquent condominium owner. Each condominium owner must pay ad valorem property
+taxes, contents insurance, interior maintenance and other matters independent of the other unit owners. These expenses are incurred by
+each owner of condominium units whether or not the unit participates in the Rental Pool at the Resort. With respect to governing the affairs
+of the Association, the participating condominium owners are accorded one vote per condominium unit owned. State statutes also impact
+the way in which the Association s affairs are administered. 
+
+Markets and Marketing 
+
+The
+Resort is located in Palm Harbor, Florida and is a destination golf resort that appeals to group convention business and leisure travelers
+within all market segments. The Resort caters to corporate meeting planners and sports enthusiasts within a variety of industries, the
+majority of which are located in central and eastern United States. The Resort markets through most of the typical channels utilizing
+e-commerce, print media, third party representation firms, travel agents and wholesalers. 
+
+The
+Resort provides condominium accommodations, four dining locations, room service, over 65,000 square feet of banquet and catering space,
+72 holes of golf, golf instruction, a full-service spa and fitness center, tennis center and recreational entertainment to members, business
+meeting attendees, group meeting guests, leisure guests and their families. The Resort offers room-only rates, golf packages, and family
+vacation packages. Larger golf or conference groups typically involve contractual agreements. Accordingly, we do not believe that the
+loss of a single conference or even a few conferences of average size would have a significant adverse impact on our business taken as
+a whole. 
+
+The
+Resort s accommodations are condominium units that are owned by third parties or us. These units are sold by registered securities
+brokers, including Golf Host Securities, Inc., which is one of our subsidiaries. 
+
+Seasonality 
+
+The
+Florida resort industry is seasonal in nature and historically the Resort s business levels are stronger in the winter and
+spring months as guests come from the northeast and other colder regions to enjoy the warm weather. In contrast, there is a decline
+in business levels during the summer months as the hot summer weather makes Florida less appealing for group golf outings and vacation
+destination golfers. The Resort uses seasonal pricing (peak, shoulder and off-peak) to maximize revenues. The Resort may also
+experience reduced bookings as a result of hurricane-related concerns. 
+
+4 
+
+PGA TOUR Event 
+
+In March 2020,
+approximately one week from the beginning of the 2020 PGA Valspar Tournament, Copperhead Charities and the PGA Tour notified us that the
+tournament would be cancelled for 2020 due to the impacts of the novel coronavirus COVID-19 pandemic. No cancellation
+fees were paid by Copperhead Charities but we were reimbursed for our out-of-pocket expenses. In April 2021, an agreement was signed to
+continue the Tournament through 2025. 
+
+Intellectual
+Property 
+
+The
+Resort has registered service marks and domain names that are necessary for the Resort to effectively conduct business. Service marks
+include Innisbrook #955489, registered March 13, 1973, and the Innisbrook shield logo #955488 registered March 13, 1973.
+The operations of the Resort are not considered to be dependent upon the availability of raw materials, nor any adverse effects that may
+result from the duration of patents, licenses, franchises or concessions. 
+
+Competition 
+
+Conveniently
+located near the Florida Gulf Coast and Tampa International Airport, the Resort is located within 900 acres of a dramatically landscaped
+setting. The Resort competes using a unique price/value strategy through its offering of spacious accommodations, high levels of customer
+service, award-winning golf, and one of the largest conference facilities in the southeastern United States. The Resort s major
+competitors are other similar golf and conference-oriented resorts in the southeastern United States. 
+
+Research
+and Development 
+
+We have no research
+and development expenses. 
+
+Environmental
+Matters 
+
+Operation
+of the golf courses at the Resort involves the use and storage of various hazardous materials such as herbicides, pesticides, fertilizers,
+motor oils and gasoline. Under various federal, state and local laws, ordinances and regulations, an owner or operator of real property
+may become liable for the costs of removal or remediation of certain hazardous substances released on or in its property. These laws often
+impose liability without regard to whether the owner or operator knew of, or was responsible for, the release of hazardous substances.
+As of December 31, 2020, we are not aware of any violations of these laws, ordinances and regulations. 
+
+Government
+Regulation 
+
+The
+Resort is subject to the Americans with Disabilities Act ADA of 1990. The ADA has separate compliance requirements for
+ public accommodations and commercial facilities , but generally requires public facilities such as clubhouses
+and recreation areas to be accessible to people with disabilities. Noncompliance could result in imposition of fines or an award of damages
+to private litigants. We are responsible for compliance costs incurred at the Resort. The condominiums in the Rental Pool are residential
+properties and are not subject to ADA. 
+
+Employees 
+
+At
+December 31, 2019, we had 518 employees; 322 full-time and 196 part-time. At December 31, 2020, we had 335 employees; 217 full-time and
+118 part-time. We also periodically engage casual laborers as needed. 
+
+Code of
+Ethics 
+
+See Part III, Item
+10 for discussion of our Code of Business Conduct. 
+
+ITEM 1A.
+RISK FACTORS 
+
+Not required for
+Smaller Reporting Company. 
+
+5 
+
+ITEM 1B.
+UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+ITEM 2. PROPERTIES 
+
+The
+Resort is situated on approximately 900 acres of land located in the northern portion of Pinellas County, Florida, near the Gulf of Mexico.
+It is approximately 9 miles north of Clearwater and approximately 20 miles west of Tampa. There are 938 condominium units, 36 of which
+are strictly residential, with the balance eligible for Rental Pool participation. Of the 902 remaining eligible units, 248, on average,
+participate in the Rental Pool on a year-to-year basis. See additional discussion in Item 1 under the caption Rental Pool Condominiums. 
+These condominium units are leased by us from the condominium owners and used as hotel accommodations for the Resort. We also own three
+condominium units, all of which participate in the Rental Pool in the same fashion as all other Rental Pool participants. Approximately
+20 of the units have lockout master bedroom units, which allow the rental of the condominium unit as two hotel rooms. As a result of
+the potential use of lockout master bedroom units, the total number of rooms at the resort is 1,217 and the average of 248 units participating
+in the Rental Pool at any one time is equivalent to approximately 302 hotel rooms. The Resort complex includes 72 holes of golf, practice
+ranges, three clubhouses with retail, golf, and food and beverage outlets, three conference and exhibit buildings, a full-service spa
+and fitness center, six swimming pools including a themed water attraction, a recreation facility, a tennis facility and numerous administrative
+and support structures. These amenities are owned by the Company and have undergone substantial renovation and improvements since we purchased
+the Resort in 2007. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+We are currently involved in certain litigation arising from a full-service
+construction contract we entered (as agent for and on behalf of the Rental Pool participants) with AMH Construction, Inc. AMH in the amount of 3,420,670. The renovation was performed as a Turn-Key project with each Participating Owner paying their
+respective share of the total costs. We, and the Lessors' Advisory Committee of the Rental Pool LAC ), jointly supervised
+the renovation. On January 23, 2019, we terminated the contract with AMH for breach of contract, including AMH's failure to complete the
+renovation work in accordance with the contract schedule. On April 18, 2019, we served a demand letter to AMH asserting damages of 4,423,070
+for the additional costs incurred by the Participating Owners and return of deposits made for work that was not performed. On August 30,
+2019, we filed a lawsuit in Pinellas County, Florida against AMH seeking damages for breach of contract in the amount of 4,423,070 plus
+attorney fees and other costs of approximately 364,400 in 2019. On October 31, 2019, AMH filed a response to our suit including a counterclaim
+in the amount of 890,751, a claim that we deny. AMH alleges in its counterclaim that it was not compensated for work performed. In March
+2020, Pinellas County suspended all hearings until further notice due to the COVID-19 pandemic. Due to the early stages of litigation,
+possible outcomes and impacts to our consolidated financial statements are not yet reasonably determinable; accordingly, our consolidated
+financial statements do not give effect to any gain or loss that may result from the resolution of these matters. 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+
+None. 
+
+6 
+
+PART II 
+
+ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER
+MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+We are a single-member limited liability company and do not have any
+stock. Our membership interests are not publicly traded. 
+
+There are 902 deeded condominium units allowing Rental Pool participation
+by their owners, of which three are owned by us. 
+
+The condominium units that are leased to us for Rental Pool participation,
+are deemed to be securities. These units are hereinafter referred to as Rental Pool Securities. These securities are deemed securities
+pursuant to the Securities Act of 1933, as amended, but there is no market for such securities other than sales through the normal real
+estate market. 
+
+Because the Rental Pool Securities are real estate related, no dividends
+have been paid or will be paid to their owners. However, the Rental Pool lease agreements provide that the Rental Pool participants are
+entitled to a contractual distribution paid quarterly in exchange for our right to use their condominium units in the Rental Pool. 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+
+Not required for Smaller Reporting Company. 
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS 
+
+Critical Accounting Policies and Estimates 
+
+The
+following accounting policies are considered critical to the preparation of our consolidated financial statements. These and other accounting
+policies require that estimates be made based on assumptions and judgment, which can affect the reporting of revenues, expenses, assets,
+liabilities and disclosure of contingencies in our consolidated financial statements. These estimates and assumptions are based on historical
+experience and various other factors that are believed to be reasonable under the circumstances. However, actual results may differ from
+changes in these estimates and assumptions. 
+
+Revenue Recognition 
+
+Revenues are derived from a variety of sources including, but not limited
+to, hotel, food and beverage operations, retail sales and golf course operations. With the exception of initiation fees and membership
+dues, all revenues net of any sales and other taxes collected are recognized as products are delivered or services are performed. Revenues
+from performance obligations satisfied over time include membership dues, annual fees and initiation fees. The membership initiation fees
+at the Resort are nonrefundable and are initially recorded when received as deferred revenue and amortized over the estimated average
+life of a membership which, based on historical information, is deemed to be ten years for full golf members and five years for resort
+and executive memberships. Membership dues and annual fees are recognized over the applicable membership period (three months to one year
+depending on type of membership). 
+
+Intangible Assets 
+
+We evaluate our
+indefinite lived intangible assets for impairment annually or at an interim date if a significant event occurs or circumstances indicate
+that the assets may not be recoverable. Factors we consider important, and which could indicate impairment, include the following: (i)
+significant underperformance relative to historical or projected future operating results; (ii) significant changes in the manner of our
+use of the acquired assets or the strategy for our overall business; and (iii) significant negative industry or economic trends. 
+
+Our intangible
+assets consist of: (i) a water contract; and (ii) our trademark and trade name. The valuation of the water contract is based on the projected
+annual savings associated with having this contract. The valuation of the trademark and trade name is derived from the residual revenue
+streams from Resort revenues that is attributed to the Innisbrook trade name. We attribute an indefinite life to both of these intangibles. 
+
+7 
+
+During
+the years of 2020 and 2019, we evaluated our intangible assets, and determined that the carrying balances of such assets were recoverable. 
+
+Impairment of Other Long-Lived Assets 
+
+We review our other long-lived assets for impairment if a significant
+event occurs or circumstances arise that indicate the assets may not be recoverable by comparing the carrying values of the assets with
+their estimated future undiscounted cash flows. In reviewing impairment of our long-lived assets, we review the recent operating and pricing
+trends with the financial performance of the Resort in the aggregate for material variances from our expectations of the Resort s
+revenues. At December 31, 2020 and 2019, we believe the carrying values of our other long-lived assets are recoverable. 
+
+Loss Contingencies 
+
+We estimate loss contingencies in accordance with FASB ASC 450-20 Loss
+Contingencies, which states that a loss contingency shall be accrued by a charge to operations if both of the following conditions are
+met: (a) information available before the consolidated financial statements are issued or are available to be issued indicates that it
+is probable that a liability had been incurred at the date of the consolidated financial statements and (b) the amount of loss can be
+reasonably estimated. 
+
+Results of Operations 
+
+Year
+ ended December 31, 
+
+2020 
+ 
+ 2019 
+ 
+ Inc/(dec) 
+ 
+ Chg 
+ 
+ Resort
+ revenues: 
+
+Room
+ revenues 
+ 3,760,898 
+ 16.8 
+ 7,455,777 
+ 19.5 
+ (3,694,879 
+ -49.6 
+ 
+ Other
+ revenues 
+ 18,609,427 
+ 83.2 
+ 30,787,972 
+ 80.5 
+ (12,178,545 
+ -39.6 
+ 
+ Total
+ revenues 
+ 22,370,325 
+ 100.0 
+ 38,243,749 
+ 100.0 
+ (15,873,424 
+ -41.5 
+
+Costs
+ and expenses: 
+
+Operating
+ costs and expenses 
+ 9,768,855 
+ 43.7 
+ 16,974,467 
+ 44.4 
+ (7,205,612 
+ -42.4 
+ 
+ General
+ and administrative 
+ 13,343,514 
+ 59.6 
+ 19,456,628 
+ 50.9 
+ (6,113,114 
+ -31.4 
+ 
+ Condo
+ owner s renovation contractor default litigation 
+ - 
+ 0.0 
+ 364,421 
+ 1.0 
+ (364,421 
+ 100.0 
+ 
+ Depreciation
+ and amortization 
+ 2,506,621 
+ 11.2 
+ 2,194,000 
+ 5.7 
+ 312,621 
+ 14.2 
+ 
+ Total
+ costs and expenses 
+ 25,618,990 
+ 114.5 
+ 38,989,516 
+ 102.0 
+ (13,370,526 
+ -34.3 
+ 
+ Operating
+ loss 
+ (3,248,665 
+ -14.5 
+ (745,767 
+ -2.0 
+ (2,502,898 
+ 335.6 
+ 
+ Interest
+ expense 
+ (437,667 
+ -2.0 
+ (672,402 
+ -1.8 
+ 234,735 
+ -34.9 
+ 
+ Net
+ loss 
+ (3,686,332 
+ -16.5 
+ (1,418,169 
+ -3.7 
+ (2,268,163 
+ 159.9 
+
+During 2020 overall resort revenues decreased by 15,873,424 or 41.5 
+compared with the prior year. The decrease in revenues was primarily driven by the COVID-19 pandemic, including the temporary closure
+of the Resort from March 24, 2020 to May 21, 2020. The decrease in room revenues of 49.6 resulted in decreased food and beverage revenues,
+included in other resort revenues, of approximately 39.6 compared with the prior year. Total costs and expenses declined year-over-year
+by 13,370,526 or 34.3 which is attributable to the decrease in revenues across the same period. 
+
+In spite of this pandemic, our revenues and
+results of operations have improved considerably in 2021 and we believe that this trend will continue throughout 2021 and beyond. However,
+it is difficult to estimate the length or severity of this outbreak and if the pandemic continues, it could have an adverse impact on
+our consolidated results of operations and financial position. 
+
+Legal Entity Structure 
+
+Salamander Innisbrook, LLC is a single-member limited liability company
+with Salamander Farms, LLC as the sole member. 
+
+8 
+
+Income Tax Status 
+
+With
+the exception of an entity owned by Salamander Innisbrook Securities, LLC for which income taxes have been minimal the Company and its
+subsidiaries are single-member limited liability companies and therefore the results of our operations flow through to our member for
+inclusion in its income tax returns. Accordingly, no provision or liability for federal or state income taxes has been included in our
+consolidated financial statements presented in this report. 
+
+We
+have adopted the provisions of FASB ASC 740-10, Accounting for Uncertainty in Income Taxes . Under this topic, we are required to
+evaluate each of our tax positions to determine if they are more likely than not to be sustained if the taxing authority examines the
+respective position. A tax position includes an entity s tax status, as a pass-through entity, and the decision not to file a tax
+return. We have evaluated each of our tax positions and have determined that no provision or liability for income taxes is necessary. 
+
+We evaluate
+the validity of our conclusions regarding uncertain income tax positions on an annual basis to determine if facts or circumstances have
+arisen that might cause us to change our judgment regarding the likelihood of a tax position s sustainability under examination.
+Our member files income tax returns in the U.S. federal jurisdiction and the State of Virginia. 
+
+Liquidity and Capital Resources 
+
+Cash used in operating
+activities approximated 3,355,000 in 2020 compared to cash generated by such activities of approximately 1,910,000 in 2019, an overall
+decline of approximately 5,265,000. The significant change resulted primarily from an increase in our net loss of approximately 2,268,000,
+coupled with reductions in accounts payable and accrued liabilities of approximately 2,044,000. 
+
+We used cash of
+approximately 1,202,000 and 2,478,000 for investing activities in 2020 and 2019, respectively. The decline of approximately 1,276,000
+resulted primarily because we incurred deferred contract costs of approximately 1,843,000 in 2019 as compared to 883,000 of such costs
+incurred in 2020. These costs arose from the payment of cost overruns arising from renovation of condominiums used in the Rental Pool.
+
+We generated cash
+from financing activities of approximately 4,817,000 and 154,000 in 2020 and 2019, respectively. The increase of approximately 4,646,000
+resulted primarily from proceeds of approximately 3,394,000 we received under a Paycheck Protection Program loan. This Paycheck Protection
+Program loan was forgiven by the Small Business Association on June 28, 2021. In addition, we paid approximately 533,000 under certain
+finance lease obligations that did not recur in 2020 and our actual cash repayments under our other note payable were approximately 580,000
+less in 2020 because our lender allowed us to offset scheduled payments under such note with restricted cash of 500,000 held in escrow. 
+
+Our results of operations have improved considerably in 2021 as various
+restrictions resulting from the COVID 19 pandemic have been relaxed. However, the COVID 19 pandemic remains a rapidly evolving situation.
+The extent of the impact of COVID 19 on our business and financial results will depend on future developments, including the duration
+and spread of the outbreak within the markets in which we operate, government actions and programs, and the related impact on consumer
+confidence and spending, all of which are highly uncertain. 
+
+Irrespective of the above, we believe that our cash on hand and additional
+cash generated from operations will be adequate to meet our obligations (both capital and operating) for the next twelve months, and that
+if any short-term cash needs are necessary that our member will continue to provide capital to fund some needs. 
+
+At December 31, 2020, we are obligated under a note payable that requires
+balloon and other payments of approximately 11,900,000 through April 2022. We do not currently have the cash to pay the balloon payment
+on such indebtedness due in April 2022 but believe we will be able to refinance it prior to its maturity. In addition, we have violated
+certain covenants included in the loan agreement however the lender has waived their rights with respect to such acceleration and we believe
+they will continue to provide forbearance with such violations. 
+
+Environmental Matters 
+
+None. 
+
+Off Balance Sheet Arrangements 
+
+We do not have any unconsolidated subsidiaries. 
+
+We do not have any relationships with unconsolidated entities or
+unconsolidated financial partnerships of the type often referenced as structured finance or special purpose entities, i.e.,
+unconsolidated entities established for the purpose of facilitating off balance sheet arrangements or other contractually narrow or
+limited purposes. Further, we have not guaranteed any obligations of unconsolidated entities nor do we have any commitment or intent
+to provide additional funding to any such entities. Accordingly, we believe we are not materially exposed to any market, credit,
+liquidity or financing risk that could arise if we had engaged in such relationships. 
+
+9 
+
+Contractual Commitments 
+
+The following is a summary of our contractual obligations as of December
+31, 2020: 
+
+Contractual Obligations 
+ Total 
+ 2021 
+ 2022 
+ 2023 
+ 
+ Operating lease obligation (1) 
+ 828,479 
+ 358,103 
+ 374,219 
+ 96,157 
+ 
+ Interest payments on outstanding lease obligation (3) 
+ 43,303 
+ 29,355 
+ 13,240 
+ 708 
+
+Total 
+ 871,782 
+ 387,458 
+ 387,459 
+ 96,865 
+
+Long term debt obligation (1) 
+ 11,819,355 
+ 919,479 
+ 10,899,876 
+
+Paycheck Protection Program Loan (2) 
+ 3,394,500 
+
+Interest payments on outstanding debt obligation (3) 
+ 822,565 
+ 506,121 
+ 316,444 
+
+Total 
+ 16,036,420 
+ 1,425,600 
+ 11,216,320 
+
+(1) Amounts include principal payments only 
+
+(2) We applied for forgiveness for the Paycheck Protection Program Loan and were granted full forgiveness from the Small Business Administration as of June 28, 2021 
+
+(3) Projected interest payments are based on the outstanding principal amounts and interest rates at December 31, 2020 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Market risks arise from changes in interest rates, foreign currency
+exchange rates and other market changes that affect market sensitive instruments. The carrying value of variable rate debt financing reflected
+in our consolidated balance sheets at December 31, 2020 and 2019, approximates fair value as the changes in their associated interest
+rates reflect the current market and credit risk is similar to when the loans were originally obtained. 
+
+We are obligated under a note payable with interest of the One Month
+LIBOR rate plus two and a quarter percent (2.25 per annum adjusted monthly on the first day of each LIBOR interest period. The loan
+is collateralized by our real and personal property and guarantees of certain affiliates. As of December 31, 2020 and 2019, this notes
+payable consisted of the following: 
+
+Mortgage
+ Loan 
+ Principal
+ as of 
+December 31, 
+2020 
+ Interest
+ Rate as of 
+December 31, 2020 
+ Principal
+ as of 
+December 31, 
+2019 
+ Interest
+ Rate as of 
+December 31, 2019 
+ Maturity
+ Date 
+
+Branch
+ Banking and Trust Company (BB T) 
+ 11,819,355 
+ 2.4375 
+ 12,492,878 
+ 4.0625 
+ April
+ 5, 2022 
+
+Less
+ unamortized debt issuance costs 
+ (87,244 
+ 
+ (156,320 
+
+Total
+ Notes Payable less unamortized issuance costs 
+ 11,732,111 
+ 
+ 12,336,558 
+
+We also were obligated under a Paycheck Protection Loan of 3,394,500
+at December 31, 2020, however such loan was forgiven by the Small Business Administration in 2021. 
+
+ITEM 8. CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+See Consolidated Financial Statements and Supplementary Data starting
+on page 20. 
+
+10 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure Controls and Procedures 
+
+We maintain disclosure controls and procedures (as defined in Rule 15d
+-15 under the Securities Exchange Act of 1934, as amended) that are designed to provide reasonable assurance that information required
+to be reported in our SEC filings is recorded, processed, summarized and reported within the periods specified in the rules and forms
+of the SEC and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief
+Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. At December 31, 2020 and 2019, under the direction
+of our Chief Executive Officer and Chief Financial Officer, we evaluated the effectiveness of the design and operation of our disclosure
+controls and procedures. Based on such evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that, at December
+31, 2020 and 2019, our disclosure controls and procedures were not effective because of the material weaknesses in our internal control
+over financial reporting as discussed below. 
+
+Notwithstanding such material weaknesses, which are described below
+in Management s Report on Internal Control over Financial Reporting, we have concluded that the consolidated financial statements
+included in this Form 10-K present fairly, in all material respects, our consolidated financial position, results of operations and cash
+flows for the periods presented in conformity with GAAP. 
+
+Management s Report on Internal Controls Over Financial Reporting 
+
+We are responsible for establishing and maintaining adequate internal
+control over financial reporting, as such term is defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act. Our internal control
+system was designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated
+financial statements for external purposes, in accordance with generally accepted accounting principles. Because of inherent limitations,
+a system of internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of
+effectiveness to future periods are subject to the risk that controls may become inadequate due to change in conditions, or that the degree
+of compliance with the policies or procedures may deteriorate. 
+
+Under the supervision and with the participation of our management,
+including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our internal controls
+over financial reporting as of December 31, 2020 and 2019, based on the framework stated by the Committee of Sponsoring Organizations
+of the Treadway Commission in Internal Control-Integrated Framework (2013). Based on the assessment, management concluded that, as of
+December 31, 2020 and 2019, the Company s internal control over financial reporting was not effective as a result of the material
+weaknesses described below. 
+
+We restated the opening balance of our Member s equity as of
+January 1, 2019. This restatement resulted because our disclosure controls were not adequate to recognize that the results of operations
+and financial position of certain entities previously reflected as affiliates should have been included in our consolidated financial
+statements. 
+
+This annual report does not include an attestation report of our registered
+certified public accounting firm regarding internal control over financial reporting. 
+
+11 
+
+Remediation Efforts to Address Material Weaknesses 
+
+We are committed to maintaining a strong internal control environment.
+In response to the identified material weaknesses, management, with the oversight of the Audit Committee of the Board of Directors, has
+taken actions toward the remediation of the respective material weaknesses in internal control over financial reporting as outlined below. 
+
+In 2019 and 2020, we terminated the employment of those
+individuals who lacked the appropriate level of knowledge and experience with generally accepted accounting principles, and hired a
+new Director of Finance. Additionally, we hired an outside consultant who is trained and experienced in internal controls, reporting
+and accounting for SEC reporting companies in our industry. And finally, the oversight of internal controls and financial reporting
+has been transitioned to our parent s corporate accounting department. 
+
+We will continue to make improvements to our internal controls and
+monitoring procedures as necessary to ensure consistent application of generally accepted accounting principles and to allow for more
+effective monitoring of compliance. We believe the steps taken above will remediate the material weakness described above as of the date
+of this report. 
+
+Changes in Internal Control over Financial Reporting 
+
+In 2019 and 2020, we terminated the employment of those individuals
+who lacked the appropriate level of knowledge and experience with generally accepted accounting principles, and hired a new Director of
+Finance. Additionally, we hired an outside consultant who is trained and experienced in internal controls, reporting and accounting for
+SEC reporting companies in our industry. And finally, the oversight of internal controls and financial reporting has been transitioned
+to our parent s corporate accounting department. 
+
+We will continue to make improvements to our internal controls and
+monitoring procedures as necessary to ensure consistent application of generally accepted accounting principles and allow for more effective
+monitoring of compliance. Management believes the steps taken above has remediated the material weakness described above as of the date
+of this report. 
+
+ITEM 9B. OTHER INFORMATION 
+
+None. 
+
+12 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+Set forth below is information about our executive officers: 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Prem Devadas 
+ 
+ 64 
+ 
+ Manager 
+ 
+ Dale Pelletier 
+ 
+ 61 
+ 
+ CFO, Salamander Hospitality LLC 
+
+Biographical Information 
+
+Prem Devadas, Manager , is a thirty plus year veteran of the
+hospitality industry. After ten years with The Potomac Hotel Group in Washington, DC, he left the Regional Director of Operations position
+to manage the lodging portfolio for CCA Industries whose holdings include The Jefferson Hotel in Richmond, VA, The Hermitage Hotel in
+Nashville, TN and Kiawah Island Resort near Charleston, SC. As Managing Director, he re-positioned the Jefferson Hotel and the Hermitage
+Hotel through extensive renovations and achieved Mobil 5-Star and AAA Five-Diamond awards for the respective properties. At Kiawah Island
+he directed the development and successful opening of the Sanctuary at Kiawah Island, the new 255 room ultra-luxury hotel opened in August
+2004. 
+
+Dale Pelletier, Chief Financial Officer , is a thirty plus year
+veteran of the hospitality industry. Mr. Pelletier oversees the company s financial, accounting, tax, information systems, treasury,
+planning and reporting activities. His extensive experience with over seventy hotels includes full service, limited service, all suites,
+resorts and condominium hotels both at the property and corporate levels. He also served as Chief Financial Officer for MEI Hotels, a
+hotel development, ownership, management and investment group. He was responsible for all financial activities for the company s
+managed and asset managed hotels, construction and development projects and three private equity funds. Prior to MEI, Mr. Pelletier was
+Chief Financial Officer for the US operations of City Hotels, an international hotel and airline company listed on the Brussels stock
+exchange, with hotels in the US and Europe. 
+
+Directors and Officers Insurance 
+
+The Company maintains directors and officers liability
+insurance that insures our Salamander officers, managers and committee members from claims arising out of an alleged wrongful act by such
+persons while acting as executive officers, managers or committee members of our company, and it insures our company to the extent that
+we have indemnified our officers, managers and committee members for such loss. 
+
+Indemnification 
+
+Our organizational documents provide that we shall indemnify our officers,
+committee members and managers against certain liabilities to the fullest extent permitted under applicable law. Our organizational documents
+also provide that our officers, committee members and managers shall be exculpated from monetary damages to us to the fullest extent permitted
+under applicable law. 
+
+Code of Ethics 
+
+Our Code of Business Conduct applies to all of our officers and other
+employees. Our Code of Business Conduct was filed as Exhibit 14.1 to our Annual Report on Form 10-K filed with the SEC on April 4, 2011 . You may also obtain a free copy of our Code of Ethics by writing to our attention at 36750 US Highway 19 North, Palm Harbor,
+FL 34684. 
+
+13 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+Summary Compensation Table 
+
+The following tables set forth the remuneration paid, distributed or
+accrued by us during the years ended December 31, 2020 and 2019 to our executive officers. 
+
+Name and Principal Position 
+ 
+ Salary and Commission 
+ Bonus 
+ Other Annual Compensation 
+ All Other Compensation 
+ 
+ Prem Devadas, Manager 
+ 2020 
+
+Dale Pelletier, Chief Financial Officer 
+ 2020 
+
+Prem Devadas, Manager (1) 
+ 2019 
+
+Dale Pelletier, Chief Financial Officer (1) 
+ 2019 
+
+(1) Messrs. Devadas and Pelletier are not compensated directly by us for services as our executive officers; rather they receive compensation
+from an affiliate of our member, to whom we pay management fees. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+AND RELATED STOCKHOLDER MATTERS 
+
+We are wholly owned by Salamander Farms, LLC which has sole voting
+and dispositive power over our interests. 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR
+INDEPENDENCE 
+
+(a) Transactions with Management and Others 
+
+None. 
+
+(b) Certain Business Relationships 
+
+Under the Master Lease Agreement (the Agreement 
+or MLA with the Rental Pool participants, the Resort pays Participants a quarterly distribution equal to 40 of the Adjusted
+Gross Revenues on the first 10 million, 45 between 10 million and 11 million, and 50 above 11 million. Adjusted Gross Revenues are
+defined as Gross Revenues less agent s commissions, audit fees, and occupancy fees and when the unit is used for Rental Pool Comps
+or as a model, linen replacements and credit card fees. Each participant receives a fixed occupancy fee, based upon apartment size for
+each day the unit is occupied. After allocation of occupancy fees and the payment of general Rental Pool expenses, the balance is allocated
+proportionally to the participants, based on the Participation Factor as defined in the Agreement. Additionally, occupancy fees are paid
+by the Resort to participants as rental fees for complimentary rooms unrelated to the Rental Pool operations. Associate room fees are
+also paid by the Resort to Participants for total room revenues earned from the rental of condominiums by our employees. During the years
+ended December 31, 2020 and 2019, amounts available to Participants under the Agreement approximated 1,451,000 and 2,702,000, respectively,
+and during such years we paid Participants approximately 1,210,000 and 2,839,000, respectively. 
+
+On August 20, 2018, the Second Addendum to the Master Lease
+Agreement became effective. The addendum defined the Turn-Key renovation, the customization of certain units that did not require a full
+renovation, and provided for an incentive payment plan Incentive to be paid to Participants. The Incentive provides for
+a quarterly payment to each Participant, beginning on January 1, 2019 and ending on December 31, 2023, so long as their units continue
+to participate in the Rental Pool. Incentive payments due as of December 31, 2020 and December 31, 2019 totaled 60,090 and 40,790, respectively,
+which amounts are included in the Rental Pool liability on the respective consolidated balance sheets. 
+
+On July 2, 2019, the Third Addendum to the MLA became
+effective. The addendum provided Participants with two options for funding of the cost overruns created by the default of AMH. The
+first option provided that we would fund the cost overruns in exchange for the Participating Owner s dedication of their unit
+to the Rental Pool as evidenced by a Memorandum of Lease recorded against the title of such participant s unit in the land
+records of Pinellas County. The second option provided an additional incentive payment equal to the cost overrun amount in the form
+of quarterly payments, adjusted annually, resulting in a reimbursement of 10 of the total amount in 2019, 15 in 2020, 20 in 2021,
+25 in 2022, and the remainder in 2023. Participants choosing option 1 represented 192 units (233 doors) and Participants choosing
+option 2 represented 13 units (15 doors). For option 1, we paid Participants 3,146,363 in 2019, which amount is being amortized
+over the five-year term of the Participants lease dedication beginning January 1, 2019 and ending on December 31, 2023. 
+
+14 
+
+Pursuant to the terms of the Agreement, the Rental Pool Lease
+Operation reimbursed us approximately 153,000 and 142,000 in December 31, 2020 and 2019, respectively for maintenance and housekeeping
+labor, use of the telephone lines, and other supplies. 
+
+All three condominiums that we own participated in the Rental
+Pool under the Agreement in the same manner as all other Rental Pool participants in 2020 and 2019. 
+
+At December 31, 2020 and 2019, accounts receivable, net includes
+ 132,075 and 172,703, respectively, due from Innisbrook Condominium Association, a third party collectively owned by the condominium
+owners at Innisbrook. These receivables were recovered in 2021 and 2020, respectively. 
+
+We incurred management fees to an affiliate of approximately
+ 662,000 and 1,129,000 in December 31, 2020 and 2019, respectively. 
+
+We had amounts due to the Innisbrook Rental Pool Lease Operation
+for the quarterly distribution of 325,081 and 528,001 at December 31, 2020 and 2019, respectively. These amounts, which include the
+incentives of 60,090 and 40, 790, respectively discussed above, were paid in 2021 and 2020, respectively. 
+
+At December 31, 2020 and 2019, we owed an affiliate approximately
+ 1,780,000 and 1,764,000, respectively. The differences between these amounts and the balances of the due to affiliates in our consolidated
+balance sheets arise from various affiliate receivables; none of which are significant. The affiliate receivables and payables are unsecured,
+non-interest bearing and due on demand. 
+
+(c) Indebtedness of Management 
+
+None. 
+
+(d) Transactions with Promoters 
+
+Not applicable. 
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+The following fees were incurred from Cherry Bekaert LLP for services
+provided in the years ended December 31, 2020 and 2019. 
+
+Audit Fees were 75,000 for each of the fiscal years ended December
+31, 2020 and 2019, respectively, for professional services rendered for the audit of our annual consolidated financial statements and
+services that are normally provided by the auditors in connection with statutory filings or engagements for those fiscal years. 
+
+Audit-Related Fees: None. 
+
+Tax Fees: None. 
+
+All other fees: None. 
+
+15 
+
+PART IV 
+
+ITEM 15. EXHIBITS, CONSOLIDATED FINANCIAL STATEMENT SCHEDULES 
+
+Consolidated Financial Statements and Schedules 
+
+The consolidated financial statements and exhibits filed as part of
+this annual report on Form 10-K are listed on pages 20 and 34, and are incorporated herein by reference. 
+
+16 
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+Page 
+
+Consolidated Financial Statements of Salamander Innisbrook, LLC 
+
+Report of Independent Registered Public Accounting Firm 
+ 18 
+
+Consolidated Balance Sheets as of December 31, 2020 and 2019 
+ 20 
+
+Consolidated Statements of Operations and Changes in Member s Equity for the years ended December 31, 2020 and 2019 
+ 21 
+
+Consolidated Statements of Cash Flows for the years ended December 31, 2020 and 2019 
+ 22 
+
+Notes to Consolidated Financial Statements 
+ 23 
+
+Supplemental Schedules of the Rental Pool Lease Operation Historical Summary 
+ 32 
+
+Financial Statements of the Rental Pool Lease Operation 
+
+Report of Independent Registered Public Accounting Firm 
+ 33 
+
+Balance Sheets Distribution Fund as of December 31, 2020 and 2019 
+ 34 
+
+Balance Sheets Maintenance Escrow Fund as of December 31, 2020 and 2019 
+ 35 
+
+Statements of Operations Distribution Fund for the years ended December 31, 2020 and 2019 
+ 36 
+
+Statements of Changes in Participants 
+Fund Balances Distribution Fund for the years ended December 31, 2020 and 2019 
+ 37 
+ 
+ Statements of Changes in Participants Fund Balances Maintenance Escrow Fund for the years ended December 31, 2020 and 2019 
+ 38 
+
+Notes to Financial Statements 
+ 39 
+
+17 
+
+Report
+of Independent Registered Public Accounting Firm 
+
+To
+the Sole Member and Manager 
+
+ Salamander
+Innisbrook, LLC 
+
+ Palm Harbor, Florida 
+
+Opinion
+on the Consolidated Financial Statements 
+
+We have
+audited the accompanying consolidated balance sheets of Salamander Innisbrook, LLC the Company as of December 31, 2020
+and 2019, and the related consolidated statements of operations and changes in member s equity, and cash flows for each of the years
+then ended, and the related notes (collectively referred to as the consolidated financial statements ). In our opinion, the
+consolidated financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2020
+and 2019, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally
+accepted in the United States of America. 
+
+Emphasis
+of Matter 
+
+As discussed
+in Note 2 to the consolidated financial statements, the previously issued 2018 financial statements did not include two companies previously
+reported as affiliates that should have been consolidated as wholly-owned subsidiaries of the Company. Accordingly, various accounts as
+of January 1, 2019 have been restated to include the previously unconsolidated entities. Our opinion is not modified with respect to this
+matter. 
+
+Basis for
+Opinion 
+
+These
+consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion
+on the Company s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public
+Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company
+in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission
+and the PCAOB. 
+
+We conducted
+our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due
+to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles
+used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements.
+We believe our audits provide a reasonable basis for our opinion. We conducted our audits in accordance with the standards of the PCAOB.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements
+are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform,
+an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal
+control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal
+control over financial reporting. Accordingly, we express no such opinion. 
+
+cbh.com 
+
+18 
+
+Critical
+Audit Matters 
+
+The critical
+audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were
+communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to
+the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication
+of critical audit matters does not alter, in any way, our opinion on the consolidated financial statements, taken as a whole, and we are
+not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or
+disclosures to which they relate. 
+
+Going Concern 
+
+Description
+of Matter 
+
+As described
+further in Note 2 to the consolidated financial statements, the Company has been negatively impacted by the outbreak of a novel coronavirus COVID-19 ), which resulted in a significant net loss during the year ended December 31, 2020 and negative cash flows from
+operations. While it is unknown what the extent of the financial impact of COVID-19 will be, the Company has seen overall improvements
+in operations and financial position in 2021. Additionally, the Company s debt obligation matures in April 2022 which requires principal
+payments of approximately 10,900,000 in 2020, including a significant balloon payment at maturity. Currently management s forecasts
+and related assumptions illustrate their ability to sufficiently fund operations for at least one year from the financial statement issuance
+date. Additionally, the Company expects to refinance the debt with their current lender and will rely on the member s support, if
+needed, to satisfy debt obligation (if necessary). 
+
+Management
+made judgments to conclude it is probable that the Company s plans will be effectively implemented and will provide the necessary
+cash flows and member s support (if necessary) to fund the Company s obligations as they become due. The judgments with the
+highest degree of impact and subjectivity in reaching this conclusion included the revenue growth and gross margin assumptions underlying
+its forecast operating cash flows, its ability to reduce capital expenditures and other operating expenditures, and its ability to refinance
+their debt obligation prior to maturity or access member funding, if necessary. As a result, a high degree of auditor judgment and increased
+audit effort was required in performing audit procedures to evaluate the reasonableness of management s estimates. 
+
+How We Addressed
+the Matter in Our Audit 
+
+Our audit procedures
+included the following: 
+
+Obtained communication from lender to support the Company s expectation of a debt refinance prior
+to the debt s maturity in April 2022. 
+
+Verified management s understanding that the guarantor of the Company s debt is wholly owned
+by one individual, and we have assessed they have the ability to act on the guarantee if a refinance does not occur. 
+
+/s/ Cherry Bekaert
+LLP 
+
+We
+have served as the Company s auditor since 2021. 
+
+Tampa, Florida 
+
+ December 23, 2021 
+
+19 
+
+SALAMANDER INNISBROOK, LLC 
+
+ CONSOLIDATED BALANCE SHEETS 
+
+ As of December 31, 2020 and 2019 
+
+2020 
+ 2019 
+ 
+ Assets 
+
+Current assets: 
+
+Cash 
+ 2,010,377 
+ 1,767,102 
+ 
+ Accounts receivable, net 
+ 1,050,078 
+ 1,449,298 
+ 
+ Inventories and supplies 
+ 858,378 
+ 842,695 
+ 
+ Prepaid expenses and other current assets 
+ 1,050,693 
+ 869,595 
+ 
+ Total current assets 
+ 4,969,526 
+ 4,928,690 
+
+Property, buildings and equipment, net 
+ 33,317,687 
+ 34,711,326 
+ 
+ Operating lease right-of-use assets 
+ 828,479 
+ 1,171,161 
+ 
+ Intangibles 
+ 4,330,001 
+ 4,330,001 
+ 
+ Deferred contract costs, net 
+ 2,616,766 
+ 2,528,197 
+ 
+ Restricted cash 
+ 2,031,044 
+ 2,014,444 
+ 
+ Deposits and other assets 
+ 295,100 
+ 303,444 
+ 
+ Total assets 
+ 48,388,603 
+ 49,987,263 
+
+Liabilities and Member's Equity 
+
+Current liabilities: 
+
+Accounts payable 
+ 1,947,591 
+ 3,405,197 
+ 
+ Accrued liabilities 
+ 1,313,924 
+ 2,497,366 
+ 
+ Rental Pool liability 
+ 325,081 
+ 528,001 
+ 
+ Current portion deferred revenues 
+ 3,592,590 
+ 3,304,097 
+ 
+ Due to affiliates 
+ 1,767,024 
+ 1,707,932 
+ 
+ Current portion - operating leases 
+ 358,103 
+ 342,682 
+ 
+ Current portion - note payable 
+ 919,479 
+ 613,331 
+ 
+ Total current liabilities 
+ 10,223,792 
+ 12,398,606 
+
+Deferred revenues, net of current portion 
+ 1,086,508 
+ 1,045,429 
+ 
+ Operating leases, net of current portion 
+ 470,376 
+ 828,479 
+ 
+ Paycheck Protection Program Loan 
+ 3,394,500 
+ - 
+ 
+ Note payable, net of current portion and unamortized deferred
+ financing costs 
+ 10,812,632 
+ 11,723,227 
+
+Total liabilities 
+ 25,987,808 
+ 25,995,741 
+
+Commitments and Contingencies (Notes 4, 5 and 7) 
+ - 
+ - 
+
+Member's equity 
+ 22,400,795 
+ 23,991,522 
+ 
+ Total liabilities and member s equity 
+ 48,388,603 
+ 49,987,263 
+
+See notes to consolidated financial statements. 
+
+20 
+
+SALAMANDER INNISBROOK, LLC 
+
+ CONSOLIDATED STATEMENTS OF OPERATIONS AND CHANGES
+IN MEMBER S EQUITY 
+
+ For the Years Ended December 31, 2020 and 2019 
+
+2020 
+ 2019 
+ 
+ Revenues: 
+
+Room revenues 
+ 3,760,898 
+ 7,455,777 
+ 
+ Other revenues 
+ 18,609,427 
+ 30,787,972 
+ 
+ Total revenues 
+ 22,370,325 
+ 38,243,749 
+
+Costs and expenses: 
+
+Operating costs and expenses 
+ 9,768,855 
+ 16,974,467 
+ 
+ General and administrative 
+ 13,343,514 
+ 19,456,628 
+ 
+ Condo owners' renovation contractor default litigation 
+ - 
+ 364,421 
+ 
+ Depreciation and amortization expense 
+ 2,506,621 
+ 2,194,000 
+ 
+ Total costs and expenses 
+ 25,618,990 
+ 38,989,516 
+
+Operating loss 
+ (3,248,665 
+ (745,767 
+
+Interest expense 
+ (437,667 
+ (672,402 
+
+Net loss 
+ (3,686,332 
+ (1,418,169 
+
+Member's equity, beginning of year, as previously reported 
+ - 
+ 21,941,853 
+ 
+ Restatement 
+ - 
+ 1,509,230 
+ 
+ Member's equity, beginning of year, as restated 
+ 23,991,522 
+ 23,451,083 
+ 
+ Member contributions 
+ 2,095,604 
+ 1,958,609 
+ 
+ Member's equity, end of year 
+ 22,400,795 
+ 23,991,522 
+
+See notes to consolidated financial statements. 
+
+21 
+
+SALAMANDER INNISBROOK, LLC 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+ For the Years Ended December 31, 2020 and 2019 
+
+2020 
+ 2019 
+ 
+ Cash flows from operating activities: 
+
+Net loss 
+ (3,686,332 
+ (1,418,169 
+ 
+ Adjustments to reconcile net loss to net cash flows from operating activities: 
+
+Provision for bad debts 
+ 28,860 
+ 45,500 
+ 
+ Depreciation and amortization 
+ 2,506,621 
+ 2,194,000 
+ 
+ Amortization of deferred financing costs 
+ 69,074 
+ 65,773 
+ 
+ Amortization of lease right-of-use assets 
+ 342,682 
+ - 
+ 
+ Changes in operating assets and liabilities: 
+
+Accounts receivable 
+ 370,360 
+ 495,990 
+ 
+ Inventories and supplies 
+ (15,683 
+ 82,466 
+ 
+ Prepaid
+ expenses and other current assets 
+ (181,098 
+ (11,817 
+ 
+ Accounts payable 
+ (1,457,606 
+ 241,764 
+ 
+ Accrued liabilities and Rental Pool liability 
+ (1,386,362 
+ (1,041,344 
+ 
+ Deferred revenues 
+ 329,571 
+ 144,879 
+ 
+ Deposits and other assets 
+ 8,344 
+ (28,556 
+ 
+ Due to/from affiliates, net 
+ 59,092 
+ 1,139,433 
+ 
+ Operating lease liabilities 
+ (342,682 
+ - 
+ 
+ Net cash flows from operating activities 
+ (3,355,159 
+ 1,909,919 
+
+Cash flows from investing activities: 
+
+Deferred contract costs 
+ (883,169 
+ (1,842,867 
+ 
+ Purchases of property and equipment 
+ (318,381 
+ (634,882 
+ 
+ Net cash used in investing activities 
+ (1,201,550 
+ (2,477,749 
+
+Cash flows from financing activities: 
+
+Repayments of other note payable 
+ (673,521 
+ (1,255,245 
+ 
+ Proceeds from Paycheck Protection Program Loan 
+ 3,394,500 
+ - 
+ 
+ Payment of deferred financing costs 
+ - 
+ (16,254 
+ 
+ Repayment of finance lease obligations 
+ - 
+ (533,488 
+ 
+ Member contributions 
+ 2,095,604 
+ 1,958,609 
+ 
+ Net cash flows from financing activities 
+ 4,816,583 
+ 153,622 
+
+Net change in cash and restricted cash 
+ 259,874 
+ (414,208 
+
+Cash and restricted cash, beginning of year 
+ 3,781,547 
+ 4,195,754 
+ 
+ Cash and restricted cash, end of year 
+ 4,041,422 
+ 3,781,547 
+
+Supplemental disclosure of cash flow information: 
+
+Cash paid for interest 
+ 365,227 
+ 679,975 
+
+Non-cash investing and financing activities: 
+
+Adoption of new operating lease standard 
+ - 
+ 1,171,161 
+
+See notes to consolidated financial statements. 
+
+22 
+
+SALAMANDER INNISBROOK, LLC 
+
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+ December 31, 2020 and 2019 
+
+1. Nature of Business 
+
+Salamander Innisbrook, LLC (the Company ), own and operates
+the Innisbrook Resort and Golf Club (the Resort ). The Company is owned by a sole member who does not have any personal liability
+for any of the Company s obligations except as expressly provided by law and/or contractual obligation. The Company owns three condominiums
+under Salamander Innisbrook Condominiums, LLC and all of the equity interests in Golf Host Securities, Inc. 
+
+The Company controls and operates the Rental Pool Lease Operation (the
+ Rental Pool ), a securitized pool of condominiums owned by participating condominium owners (the Participating Owners and rented as hotel rooms to guests of the Resort (an average of 248 units or 302 hotel rooms participate at any given time). Pursuant
+to the Innisbrook Rental Pool Master Lease Agreement, dated January 1, 2014 (the Master Lease or MLA ), quarterly
+distributions of a percentage of room revenues are required to be made to the condominium owners participating in the Rental Pool. Other
+resort facilities include four 18-hole golf courses, four restaurants, three convention facilities, a health spa, fitness center, tennis
+and recreation facilities, themed water park and six swimming pools. 
+
+2. Summary of Significant Accounting Policies 
+
+Principles of Consolidation The accompanying consolidated
+financial statements include the accounts and balances of the Company and its wholly owned subsidiaries, Salamander Innisbrook Securities,
+LLC and Salamander Innisbrook Condominium, LLC (hereinafter collectively referred to as we , us , or our ).
+All significant intercompany balances and transactions have been eliminated in consolidation. 
+
+Restatement - Subsequent to the filing of the December 31,
+2018 annual report, we determined two companies, Salamander Innisbrook Condominium, LLC and Salamander Innisbrook Securities, LLC, previously
+reported as affiliates should have been consolidated as wholly owned subsidiaries of Salamander Innisbrook, LLC. We have further
+determined that the impact is not material to the previously reported financial statements taken as a whole and therefore we have adjusted
+the opening balance of the following accounts: 
+
+As Previously 
+ Reported 
+ As Restated 
+
+2018 
+ 2018 
+ 
+ Assets 
+
+Cash 
+ 1,261,818 
+ 1,670,796 
+ 
+ Inventories and supplies 
+ 924,361 
+ 925,161 
+ 
+ Prepaid expenses and other current assets 
+ 853,075 
+ 857,778 
+ 
+ Property, buildings and equipment, net 
+ 34,382,542 
+ 36,016,700 
+ 
+ Restricted cash 
+ 2,516,248 
+ 2,524,958 
+ 
+ Deposits and other assets 
+ 274,425 
+ 274,888 
+
+Liabilities and Member's Equity 
+
+Accounts payable 
+ 3,162,948 
+ 3,163,433 
+ 
+ Accrued liabilities 
+ 2,431,907 
+ 2,458,831 
+ 
+ Due to affiliates 
+ 47,325 
+ 568,499 
+ 
+ Current portion - note payable 
+ 822,835 
+ 874,134 
+ 
+ Note payable, net of current portion and unamortized deferred financing costs 
+ 12,719,450 
+ 12,668,150 
+
+Member's equity 
+ 21,941,853 
+ 23,451,083 
+
+23 
+
+Statements of Cash Flows - For purposes
+of the statements of cash flows, we consider all liquid investments purchased with an original maturity of three months or less to be
+cash equivalents. 
+
+In November 2016, the Financial Accounting Standards Board FASB issued Accounting Standards Update ASU No. 2016-18, Statement of Cash Flows which requires that amounts
+generally described as restricted cash and restricted cash equivalents be included with cash and cash equivalents when reconciling the
+beginning-of-period and end-of-period total amounts shown on the statement of cash flows. As a result, changes in restricted cash are
+required to be classified as either operating activities, investing activities, or financing activities depending on the nature of the
+activities that gave rise to the restrictions. Restricted cash consists primarily of funds held in a reserve account as required under
+a note payable agreement executed March 28, 2017 with Branch Banking and Trust Company BB T (Note 10). We adopted
+this standard on January 1, 2018. As a result, restricted cash reserves are included with cash on our consolidated statements of cash
+flows. 
+
+The following tables provide additional detail, by consolidated financial
+statement line item, of the ASU 2016-18 impacts in the accompanying statements of cash flows for the years ended December 31, 2020 and
+2019. 
+
+2020 
+ 2019 
+ 
+ Cash 
+ 2,010,377 
+ 1,767,102 
+ 
+ Restricted cash 
+ 2,031,044 
+ 2,014,444 
+ 
+ Total cash and restricted cash, shown in statements of cash flows 
+ 4,041,421 
+ 3,781,546 
+
+Revenues, Deferred Revenue and Accounts Receivable - Revenues
+are derived from a variety of sources including, but not limited to, hotel, food and beverage operations, retail sales, golf course operations
+and commissions on real estate transactions. With the exception of initiation fees and membership dues, all revenues net of any sales
+and other taxes collected are recognized as products are delivered or services are performed. 
+
+A performance obligation is a promise in a contract to transfer a distinct
+good or service to the customer and is the unit of account under the new revenue recognition standard. The transaction price is allocated
+to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. The majority of
+our revenue is transactional and the contracts performance obligation is generally satisfied at the time of the transaction. 
+
+Revenues from performance obligations satisfied over time include membership
+dues, annual fees and initiation fees. The membership initiation fees at the Resort are nonrefundable and are initially recorded when
+received as deferred revenue and amortized over the average life of a membership which, based on historical information, is deemed to
+be ten years for full golf members and five years for resort and executive memberships. Membership dues and annual fees are recognized
+over the applicable membership period (three months to one year depending on type of membership). 
+
+Accounts receivable represent amounts due from our memberships, resort
+guests and companies or individuals that held conferences or group stays at the Resort, net of the allowance for doubtful accounts. We
+perform periodic credit evaluations of our customers and members and generally do not require collateral because we believe we have procedures
+in place to minimize the possibility of significant losses occurring. Companies with a recent prior direct billing positive history with
+the Resort are granted credit for billing. If companies have not been to the Resort within the past two years, an updated credit evaluation
+is conducted. Terms are negotiable by group contract, but invoices are typically due 30 days from the receipt of invoice. 
+
+We review accounts receivable monthly to determine if any receivables
+are uncollectible. Any receivable considered to be doubtful of collection is included in the allowance for doubtful accounts. The balances
+in the allowance for doubtful accounts were 32,772 and 5,455 as of December 31, 2020 and 2019, respectively. After all attempts to collect
+the receivable have failed, the receivable is written off against the allowance. 
+
+24 
+
+In addition, gift card purchases and advanced event deposits are collected
+and deferred and recognized as income as the service is performed at a future date. Deferred revenue includes unrecognized initiation
+fee liabilities, unearned member dues, gift card liability and advanced events deposits. Deferred revenue was as follows as of December
+31: 
+
+2020 
+ 2019 
+ 
+ Deferred Revenues - current portion 
+ 3,592,589 
+ 3,304,097 
+ 
+ Deferred Revenues, net of current portion 
+ 1,086,508 
+ 1,045,429 
+
+4,679,097 
+ 4,349,526 
+
+Practical Expedients and Exemption - There are several practical
+expedients and exemptions allowed under ASC 606 that impact timing of revenue recognition and our disclosures. Below is the practical
+expedient we applied in the adoption and application of ASC 606: 
+
+The Company treats similar contracts as part of a portfolio of contracts, primarily initiation fee contracts. The contracts for have the same provision terms, and management has the expectation the result will not be materially different from the consideration of each individual contract. 
+
+Use of Estimates - The preparation of consolidated financial
+statements in conformity with U.S. GAAP requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities
+and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues
+and expenses during the reporting period. Estimates that are critical to the accompanying consolidated financial statements include our
+beliefs that all of our long-lived assets, are recoverable, that our estimates of the average lives of memberships from which we base
+our revenue recognition are reasonable and that no significant loss will result from the resolution of the litigation discussed in Note
+5. Estimates and assumptions are reviewed periodically and the effects of revisions are reflected in the periods they are determined to
+be necessary. It is at least reasonably possible that our estimates could change in the near term with respect to these matters. 
+
+Concentrations of Credit Risk - Financial instruments that potentially
+subject us to concentrations of credit risk consist principally of cash and accounts receivable. Cash consists of bank deposits which
+may, at times, exceed federally insured limits. No losses have been experienced in such accounts. 
+
+We used the following methods and assumptions in estimating the fair
+values of our financial instruments: 
+
+Accounts receivable and accounts payable: Due to their short-term nature, the carrying amounts reported on the accompanying consolidated
+balance sheets for these accounts approximate their fair values. 
+
+Deferred revenues: The carrying amounts of these accounts approximate their fair values because they approximate their net present
+values considering relevant risk factors. 
+
+Debt: The carrying values of variable rate debt financing reflected
+in the balance sheets at December 31, 2020 and December 31, 2019 approximates their fair values as the changes in their associated interest
+rates reflect the current market and credit risk is similar to when the loans were originally obtained. 
+
+Liquidity Our consolidated financial statements are
+prepared using accounting principles generally accepted in the United States of America applicable to a going concern, which contemplate
+the realization of assets and liquidation of liabilities in the normal course of business. We suffered a significant net loss in 2020
+primarily as a result of the COVID- 19 pandemic which forced us to temporarily close the Resort in 2020 and resulted in numerous cancellations.
+While this pandemic remains a rapidly evolving situation, our results of operations and financial position have improved considerably
+in 2021 as various restrictions resulting from the pandemic have been relaxed, and we are hopeful that such trend will continue throughout
+the remainder of 2021 and beyond. However, the extent of the impact of COVID 19 on our business and financial results will depend
+on future developments, including the duration and spread of the outbreak within the markets in which we operate, government actions and
+programs, and the related impact on consumer confidence and spending, all of which are highly uncertain. 
+
+Irrespective of the above, we believe that our cash on hand and additional
+cash generated from operations will be adequate to meet our operating and capital obligations for the next twelve months, and that if
+any short-term cash needs are necessary that our member will continue to provide capital to fund some needs. 
+
+25 
+
+We also have certain debt outstanding that requires principal
+payments of approximately 10,900,000 in 2022, including a significant balloon payment in April of such year (see Note 10). We do
+not currently have the cash to pay such indebtedness but believe we will be able to refinance it prior to its maturity. Because of
+this and because we believe that our lender will continue
+to provide forbearance with respect to certain debt covenant violations, the accompanying consolidated financial statements do not
+include any adjustments relating to the recoverability and classification of recorded asset amounts or the amounts and
+classification of liabilities that might be necessary should we be unable to continue as a going concern. 
+
+Inventories and Supplies - Inventories and supplies are recorded
+at the lower of cost, on a first-in, first-out basis, or market. 
+
+Property, Buildings and Equipment, net Property, buildings
+and equipment are stated at cost less accumulated depreciation and amortization. We capitalize any asset purchase of 1,000 or more with
+an estimated useful life of at least three years. Depreciation and amortization are recorded using the straight-line basis over the shorter
+of the estimated useful lives of the assets, or if applicable, the lease terms. Estimated useful lives are generally as follows: 
+
+Category 
+ Average Lives 
+(in Years) 
+ 
+ Buildings 
+ 40 
+ 
+ Land improvements 
+ 20 
+ 
+ Machinery and equipment 
+ 3 to 7 
+ 
+ Assets recorded under finance leases 
+ 3 to 4 
+
+Costs of maintenance and repairs of property and equipment used in
+operations are charged to expense as incurred, while renewals and betterments are capitalized. When property and equipment are replaced,
+retired or otherwise disposed of, the costs are deducted from the asset and accumulated depreciation accounts. Gains or losses on sales
+or retirements of equipment are recorded in operating income. 
+
+Impairment of Long-Lived Assets - We regularly review
+long-lived assets for impairment by comparing the carrying values of the assets with their estimated future undiscounted cash flows. If
+it is determined that an impairment loss has occurred, the loss is recognized during that period. Any impairment loss would be calculated
+as the difference between asset carrying values and fair value as determined by prices of similar items and other valuation techniques,
+giving consideration to recent operating performance and pricing trends. There were no impairment losses for the years ended December
+31, 2020 and 2019. 
+
+Intangibles - Our indefinite life intangibles consist of our
+trade name valued at 2,300,000 and a water contract valued at 2,030,001. We evaluate intangible assets for impairment annually (or earlier
+if a significant event occurs that may indicate that the assets may not be recoverable). Factors we consider important, which could indicate
+impairment, include the following: (1) significant under-performance relative to historical or projected future operating results;
+(2) significant changes in the manner of the use of the acquired assets or the strategy for our overall business; and (3) significant
+negative industry or economic trends. During the fourth quarter of 2020 and 2019, respectively, we completed our annual intangible impairment
+assessment, and determined that no impairment of intangible assets existed at December 31, 2020 and 2019. 
+
+Deferred Financing Costs 
+ Deferred financing costs, which arose from costs incurred to originate the financing discussed at Note 10,
+are being amortized to interest expense over the term of the related indebtedness. The unamortized portions of these costs are reflected
+as reductions of such debt. 
+
+Deferred contract costs, net Deferred contract costs,
+which arose from the costs of obtaining long term commitments on rental pool agreements that we would not have incurred if the pool participants
+did not commit to five-year contracts, are being amortized over the contract lives using the straight-line method. 
+
+Loss Contingencies - We estimate loss contingencies in accordance
+with FASB ASC 450-20, Loss Contingencies , which states that a loss contingency shall be accrued by a charge to income if both of
+the following conditions are met: (a) information available before the consolidated financial statements are issued or are available to
+be issued indicates that it is probable that a liability had been incurred at the date of the consolidated financial statements and (b)
+the amount of loss can be reasonably estimated. 
+
+26 
+
+Advertising - Advertising costs, which are expensed as
+incurred, were 452,640 and 572,789 for the years ended December 31, 2020 and 2019, respectively. 
+
+Leases - Leases are classified as finance leases or operating
+leases dependent on whether the lease transfers substantially all of the benefits and risks of ownership of property. Assets and liabilities
+are recorded at amounts equal to the present value of the minimum lease payments at the beginning of the lease term. Interest expense
+relating to the lease liabilities is recorded to affect constant rates of interest over the terms of the leases. Refer to Recently
+Adopted Accounting Pronouncements for further discussion on leases. 
+
+Income Taxes With the exception of an entity owned by Salamander
+Innisbrook Securities, LLC for which income taxes have been minimal the Company, and its subsidiaries are single-member limited liability
+companies, and therefore, no provision or liability for federal or state income taxes has been included in the accompanying consolidated
+financial statements. The results of our consolidated operations are included in the income tax return of our member. 
+
+We have adopted the provisions of FASB ASC 740-10, Accounting for
+Uncertainty in Income Taxes . Under ASC 740-10, we are required to evaluate each of our tax positions to determine if they are more
+likely than not to be sustained if the taxing authority examines the respective position. A tax position includes an entity s
+tax status as a pass-through entity, and the decision not to file a tax return. We have evaluated each of our tax positions and
+have determined that no provision or liability for income taxes is necessary. 
+
+We evaluate the validity of our conclusions regarding uncertain income
+tax positions on an annual basis to determine if facts or circumstances have arisen that might cause us to change our judgment regarding
+the likelihood of a tax position s sustainability under examination. Our member files income tax returns in the U.S.
+federal jurisdiction and the State of Virginia. At December 31, 2020, we do not believe that any uncertain tax positions exist. 
+
+3. Property, Buildings and Equipment 
+
+Property, buildings, and equipment consist of the following as of December
+31, 2020 and 2019: 
+
+2020 
+ 2019 
+ 
+ Land and land improvements 
+ 21,364,598 
+ 21,334,382 
+ 
+ Buildings 
+ 28,081,650 
+ 27,888,242 
+ 
+ Furniture, fixtures and equipment 
+ 12,775,180 
+ 12,709,569 
+ 
+ Construction in progress 
+ 73,758 
+ 44,690 
+
+62,295,186 
+ 61,976,883 
+ 
+ Less accumulated depreciation and amortization 
+ (28,977,499 
+ (27,265,557 
+
+33,317,687 
+ 34,711,326 
+
+Depreciation and amortization expense was 1,712,020 and 1,940,256
+for the years ended December 31, 2020 and 2019, respectively. During the years ended December 31, 2020 and 2019, we wrote off fixed assets
+of 0 and 972,168, respectively. Amortization expense and related accumulated amortization for assets previously held under finance leases
+(see Note 4) was 53,099 and 2,037,753 respectively, as of and for the year ended December 31, 2020 and 375,830 and 1,984,654 as of
+and for the year ended December 31, 2019, respectively. 
+
+4. Leases 
+
+Operating Leases 
+
+On August 1, 2015, we entered into a master lease agreement with Agricredit-Acceptance,
+LLC which provided two leases for golf carts and utility vehicles (with payments commencing in December 2015). The term of each lease
+was 48 months and the monthly lease payments were approximately 21,200 and 11,100 respectively. 
+
+On December 20, 2018, we entered into a master lease agreement with
+DLL Finance, LCC for vehicles by Club Car, LLC. The agreement provides for three leases of golf cars and utility vehicles, with payments
+beginning on April 1, 2019. The term of each lease is 48 months and the monthly lease payments total approximately 32,300. 
+
+27 
+
+As of
+December 31, 2020, the remaining lease term in years approximated 2.25 and the discount rate was 4.41 . Operating
+lease liabilities are recorded based on the present value of the future lease payments over the lease terms. Future minimum lease payments
+under operating leases for the years ended December 31 are as follows: 
+
+Years Ending December 31, 
+
+2021 
+ 387,459 
+ 
+ 2022 
+ 387,459 
+ 
+ 2023 
+ 96,865 
+ 
+ Total future minimum lease payments 
+ 871,783 
+
+Less imputed interest 
+ (43,304 
+
+Total present value of future minimum lease payments 
+ 828,479 
+
+Operating
+lease expense approximated 387,000 for each of the years ended December 31, 2020 and 2019, respectively. 
+
+Recently Adopted Accounting Pronouncements In February 2016,
+the Financial Accounting Standards Board (the FASB ), issued Accounting Standards Update ASU ), No. 2016-02, Leases ,
+which requires an entity to record on its balance sheet previously unrecorded operating leases based on the present value of remaining
+lease payments. We adopted this standard on its effective date of January 1, 2019 under the modified retrospective method and using the
+optional transition method to apply the new lease accounting standard prospectively as of January 1, 2019, rather than as of the earliest
+period presented. Therefore, the adoption of the new lease accounting standard did not change our previous reported consolidated financial
+statements. In addition, we elected the package of practical expedients permitted under the transition guidance within the new standard.
+This allowed us to carry forward the historical lease classification and not reassess whether a contract is or contains a lease, or determination
+of initial direct costs. Adoption of this standard resulted in the recording of an operating lease right-of-use ROU assets
+and corresponding operating lease liability of approximately 1,424,000, respectively. The adoption did not have a material impact on
+our consolidated financial statements. 
+
+Finance Lease 
+
+During
+the fourth quarter of 2014, the Company entered into a master lease agreement with PNC Equipment Finance, LLC for the lease of golf course
+equipment. The term of each lease was 60 months, with interest rates ranging from 2 to 4.45 , and the monthly lease payments varied in
+amount. The leases contained bargain purchase options that allowed us to purchase the leased equipment for a minimal amount upon the expiration
+of the lease term. Equipment acquired under capital leases was pledged as collateral to secure the performance of the future minimum lease
+payments. 
+
+In April 2019, we exercised our option to purchase the equipment. As
+such, at December 31, 2019, we had no remaining obligation under these leases. 
+
+5. Contingency 
+
+We are currently involved in certain litigation arising from an
+Agri-credit construction contract we entered (as agent for and on behalf of the Rental Pool participants) with AMH Construction,
+Inc. AMH in the amount of 3,420,670. The renovation was performed as a Turn-Key project with each
+Participating Owner paying their respective share of the total costs. We, and the Lessors' Advisory Committee of the Rental Pool LAC ), jointly supervised the renovation. On January 23, 2019, we terminated the contract with AMH for breach of
+contract, including AMH's failure to complete the renovation work in accordance with the contract schedule. On April 18, 2019, we
+served a demand letter to AMH asserting damages of 4,423,070 for the additional costs incurred by the Participating Owners and
+return of deposits made for work that was not performed. On August 30, 2019, we filed a lawsuit in Pinellas County, Florida against
+AMH seeking damages for breach of contract in the amount of 4,423,070 plus attorney fees and other costs of approximately 364,400
+in 2019. On October 31, 2019, AMH filed a response to our suit including a counterclaim in the amount of 890,751. AMH alleges in
+its counterclaim that it was not compensated for work performed. In March 2020, Pinellas County suspended all hearings until further
+notice due to the COVID-19 pandemic. Due to the early stages of litigation, possible outcomes and impacts to our consolidated
+financial statements are not yet reasonably determinable; accordingly, our consolidated financial statements do not give effect to
+any gain or loss that may result from the resolution of these matters. 
+
+28 
+
+6. Retirement Plan 
+
+We sponsor a defined contribution retirement plan, which provides retirement
+benefits for all eligible employees. Employees must fulfill a 90-day service requirement to be eligible to participate in this plan. We
+match one half of the first 6 of the contributions of each employee. We made matching contributions of approximately 133,000 and 265,000
+for the years ended December 31, 2020 and 2019, respectively. 
+
+7. Rental Pool Operations 
+
+In December 2013, we entered a Master Lease Agreement Agreement with the Rental Pool s Lessors Advisory Committee LAC ). The Agreement commenced on January 1, 2014 for a period of
+ten years, replacing all lease agreements previously in existence. Under the Agreement, the Resort pays the Participant a quarterly distribution
+equal to 40 of the Adjusted Gross Revenues on the first 10 million, 45 between 10 million and 11 million, and 50 above 11 million.
+The Participants are also entitled to 35 nights in-season and complimentary gift certificates for golf and food beverage. Their
+guests will be entitled to the same privileges as the Participants when occupying the participant s units. During the years ended
+December 31, 2020 and 2019, amounts available to Participants under the Agreement approximated 1,451,000 and 2,702,000 respectively
+and during such years we paid Participants approximately 1,210,000 and 2,839,000, respectively. 
+
+On August 20, 2018, the Second Addendum to the Master Lease
+Agreement became effective. The addendum defined the Turn-Key renovation, the customization of certain units that did not require a
+full renovation, and provided for an incentive payment plan Incentive to be paid by us to the Participants. The
+Incentive provides for a quarterly payment to each participant, beginning on January 1, 2019 and ending on December 31, 2023, so
+long as the unit continues to participate in the Rental Pool. Incentive payments due as of December 31, 2020 and December 31, 2019
+totaled 60,090 and 40,790 respectively, and are included in the Rental Pool liability on the consolidated balance sheets. 
+
+On July 2, 2019, the Third Addendum to the MLA became effective. The
+addendum provided with two options for funding of the cost overruns created by the default of AMH. The first option provided that we would
+fund the cost overruns in exchange for the Participating Owner s dedication of their unit to the Rental Pool as evidenced by a Memorandum
+of Lease recorded against the title of such participant s unit in the land records of Pinellas County. The second option provided
+an additional incentive payment equal to the cost overrun amount in the form of quarterly payments, adjusted annually, resulting in a
+reimbursement of 10 of the total amount in 2019, 15 in 2020, 20 in 2021, 25 in 2022, and the remainder in 2023. Participants choosing
+option 1 represented 192 units (233 doors) and Participants choosing option 2 represented 13 units (15 doors). For option 1, we paid Participants
+ 3,146,363 in 2019, which amount is being amortized over the five-year term of the participants lease dedication beginning January
+1, 2019 and ending on December 31, 2023. Amortization expense of this asset (the net amounts are reflected as Deferred Contract Costs
+in the accompanying consolidated balance sheets) in 2020 and 2019 totaled 794,600 and 253,745, respectively and is included in depreciation
+and amortization expense. 
+
+Below
+is a table outlining future amortization of deferred contract costs for the years ending December 31, 
+
+2021 
+ 872,255 
+ 
+ 2022 
+ 872,255 
+ 
+ 2023 
+ 872,256 
+ 
+ Total deferred construction costs 
+ 2,616,766 
+
+29 
+
+8. Related Party Transactions 
+
+We incurred management fees to Salamander Hospitality, LLC, an entity
+related to us by virtue of common ownership, of 661,708 and 1,129,000 in 2020 and 2019, respectively. These fees are included in general
+and administrative expenses in the accompanying consolidated statements of operations. 
+
+At December 31, 2020 and 2019, accounts receivable, net includes 132,075
+and 172,703, respectively, due from Innisbrook Condominium Association, a third party collectively owned by the condominium owners at
+Innisbrook. These receivables were recovered in 2021 and 2020, respectively. 
+
+At December 31, 2020 and 2019, we owed our affiliate approximately
+ 1,780,000 and 1,764,000, respectively. The differences between these amounts and the balances of the due to affiliates in our consolidated
+balance sheets arise from various affiliate receivables; none of which are significant., The affiliate receivables and payables are unsecured,
+non-interest bearing and are due on demand. 
+
+The Innisbrook Rental Pool Lease Operation paid us approximately 153,000
+and 142,000 as reimbursement for maintenance and housekeeping labor, use of the telephone lines and other supplies during the years ended
+December 31, 2020 and 2019, respectively. These reimbursements are reflected as reductions of general and administrative expenses in the
+accompanying consolidated statements of operations. 
+
+We had amounts due to the Innisbrook Rental Pool Lease Operation for
+the quarterly distribution of 325,081 and 528,001 at December 31, 2020 and 2019, respectively. These amounts were paid in 2021 and 2020,
+respectively. 
+
+All three of the condominiums that we own participated in the Rental
+Pool under the Agreement in 2020 and 2019, in the same manner as all other Rental Pool participants. 
+
+9. Paycheck Protection Program Loan 
+
+In April 2020, we received a Paycheck Protection Program loan PPP
+loan of 3,394,500. At December 31, 2020, the loan had an interest rate of 1 and a term of 5 years, however under the program,
+the loan, and related accrued interest, was eligible to be forgiven by the Small Business Administration SBA for costs
+we incurred for payroll, rent, utilities, and other allowable expenses in 2020. In 2020, we used the full amount received from the PPP
+loan for eligible expenses and in 2021 received notice that the entire PPP loan had been forgiven by the Small Business Administration.
+As such, the balance of the loan will be reflected in other income in our 2021 consolidated statement of operations. 
+
+10. Note Payable 
+
+On March 28, 2017, we obtained a loan in the amount of fifteen million
+dollars 15,000,000) from Branch Banking and Trust Company BB T ). The loan is being repaid over a five-year period
+in monthly installments of principal plus interest based on a 15-year amortization schedule commencing on May 5, 2017, with the remaining
+unpaid balance due in full on April 5, 2022. Interest on this loan is being charged at the One Month LIBOR Rate plus two and one quarter
+percent 2.25 per annum adjusted monthly on the first day of each LIBOR interest period (2.44 as of December 31, 2020). The loan is collateralized
+by our real and personal property, the assignment and/or subordination of leases and our management agreement with an affiliate and guarantees
+by certain affiliates. 
+
+The loan agreement contains customary financial
+covenants, including a covenant to maintain a debt service coverage ratio of at least 1.10 to 1.0, measured annually at the end of each
+fiscal year and a covenant to maintain a tangible net worth of not less than 15,000,000 at all times. Violations of any such covenants
+and provisions would allow BB T to accelerate the repayment of the indebtedness. At December 31, 2020, we were in violation of certain
+covenants, however BB T has waived their rights with respect to such acceleration. 
+
+As part of our loan agreement, we deposited 1,500,000 into a cash
+reserve account in March 2017. On February 28, 2018, we deposited an additional 1,000,000 into such account as required. The loan amendment
+that occurred in April 2019 included the release of 500,000 from the cash reserve account which was used to pay down the note. The remaining
+reserve account is restricted and may not be used to service the loan. 
+
+30 
+
+At December
+31, 2019, the loan had a balance of 12,336,558, which amount was net of unamortized deferred financing costs of 156,320. Future scheduled
+maturities under the note are as follows as of December 31, 2020: 
+
+Years ending December 31, 
+
+2021 
+ 919,479 
+ 
+ 2022 
+ 10,899,876 
+
+11,819,355 
+ 
+ Less current portion 
+ (919,479 
+ 
+ Less unamortized deferred financing costs 
+ (87,244 
+
+10,812,632 
+
+11. Other Subsequent Events 
+
+In June 2021, we received 2,000,000 under a second round PPP loan. The
+loan accrues interest at 1 and all or a portion of the loan and accrued interest will be eligible for forgiveness by the SBA if we expend
+such amount for payroll, rent, utilities, and other allowable expenses during the covered period, as defined. If the loan is
+not forgiven, it would have a term of five years with interest payments commencing in October 2022. 
+
+31 
+
+SUPPLEMENTAL SCHEDULES OF RENTAL POOL LEASE
+OPERATION 
+
+HISTORICAL SUMMARY 
+
+The following financial statements of the Innisbrook Rental Pool Lease
+Operation (the Rental Pool are for the years ended December 31, 2020 and 2019. 
+
+The operation of the Rental Pool is tied closely to the Resort operations.
+The Rental Pool Master Lease Agreement provides for a quarterly distribution of a percentage of the room revenues to participating condominium
+owners Participants ), as defined in the agreements (see Note 1 of the Rental Pool Lease Operation financial statements).
+Because the Rental Pool participants share in a percentage of the room revenues, the condominium units allowing Rental Pool participation
+are deemed to be securities. However, there is no market for such securities other than through sales of the normal real estate market.
+Since the security is related to real estate, no dividends have been paid or will be paid. 
+
+32 
+
+Report of Independent
+Registered Public Accounting Firm 
+
+To
+the Sole Member and Manager 
+Salamander Innisbrook, LLC and 
+
+ the
+Lessors of the Innisbrook Rental Pool Lease Obligation 
+
+ Palm
+Harbor, Florida 
+
+Opinion
+on the Financial Statements 
+
+We have
+audited the accompanying balance sheets of the Distribution Fund and the Maintenance Fund of the Innisbrook Rental Pool Lease Operation
+(the Rental Pool (funds created for participants who have entered into a rental pool agreement as explained in Note 1)
+as of December 31, 2020 and 2019, and the related statements of operations and changes in participants fund balances of the Distribution
+Fund and statements of changes in participants fund balances of the Maintenance Escrow Fund for years then ended, and the related
+notes (collectively referred to as the financial statements ). In our opinion, the financial statements present fairly, in
+all material respects, the financial position of the Rental Pool as of December 31, 2020 and 2019, and the results of its operations and
+changes in participants fund balances for years then ended, in conformity with accounting principles generally accepted in the
+United States of America. 
+
+Basis for
+Opinion 
+
+These
+financial statements are the responsibility of the Rental Pool s management. Our responsibility is to express an opinion on the
+Rental Pool s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting
+Oversight Board (United States) PCAOB and are required to be independent with respect to the Rental Pool in accordance
+with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted
+our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Rental Pool is
+not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Rental Pool s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe our audits provide
+a reasonable basis for our opinion. 
+
+Critical
+Audit Matters 
+
+The critical
+audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. We determined there are no critical audit matters. 
+
+/s/ Cherry Bekaert
+LLP 
+
+We have served
+as the Rental Pool s auditor since 2021. 
+
+Tampa,
+Florida 
+
+ December
+23, 2021 
+
+ cbh.com 
+
+33 
+
+INNISBROOK RENTAL POOL LEASE OPERATION 
+ 
+ BALANCE SHEETS - DISTRIBUTION FUND 
+ 
+ December 31, 2020 and 2019 
+
+2020 
+ 2019 
+ 
+ ASSETS 
+ 
+ RECEIVABLE FROM SALAMANDER INNSIBROOK, LLC 
+
+FOR DISTRIBUTION 
+ 325,073 
+ 493,559 
+ 
+ INTEREST RECEIVABLE FROM MAINTENANCE 
+
+ESCROW FUND 
+ 8 
+ 1,154 
+
+325,081 
+ 494,713 
+
+LIABILITIES AND PARTICIPANTS' FUND BALANCES 
+
+DUE TO PARTICIPANTS FOR DISTRIBUTION 
+ 325,081 
+ 494,713 
+
+325,081 
+ 494,713 
+
+See notes to financial statements. 
+
+34 
+
+INNISBROOK RENTAL POOL LEASE OPERATION 
+ 
+ BALANCE SHEETS - MAINTENANCE ESCROW FUND 
+ 
+ December 31, 2020 and 2019 
+
+2020 
+ 2019 
+ 
+ ASSETS 
+ 
+ CASH 
+ 292,071 
+ 150,281 
+ 
+ INVESTMENTS 
+ - 
+ 200,000 
+ 
+ INTEREST RECEIVABLE 
+ - 
+ 254 
+
+292,071 
+ 350,535 
+
+LIABILITIES AND PARTICIPANTS' FUND BALANCES 
+
+ACCOUNTS PAYABLE 
+ - 
+ 28,652 
+ 
+ INTEREST PAYABLE TO DISTRIBUTION FUND 
+ 8 
+ 1,154 
+ 
+ TOTAL LIABILITIES 
+ 8 
+ 29,806 
+
+CARPET CARE RESERVE 
+ 11,830 
+ 1,738 
+ 
+ PARTICIPANTS' FUND BALANCES 
+ 280,233 
+ 318,991 
+
+292,071 
+ 350,535 
+
+See notes to financial statements. 
+
+35 
+
+INNISBROOK RENTAL POOL LEASE OPERATION 
+ 
+ STATEMENTS OF OPERATIONS - DISTRIBUTION FUND 
+ 
+ For the Years Ended December 31, 2020 and 2019 
+
+2020 
+ 2019 
+ 
+ GROSS REVENUES 
+ 3,691,134 
+ 7,321,557 
+
+DEDUCTIONS: 
+
+Agents' commissions 
+ 193,818 
+ 326,629 
+ 
+ Credit card fees 
+ 104,187 
+ 198,893 
+ 
+ Audit fees 
+ 89,004 
+ 79,100 
+ 
+ Linen replacements 
+ 49,583 
+ 53,635 
+ 
+ Rental pool complimentary fees 
+ 12,956 
+ 24,714 
+
+449,548 
+ 682,971 
+
+ADJUSTED GROSS REVENUES 
+ 3,241,586 
+ 6,638,586 
+
+AMOUNT RETAINED BY LESSEE 
+ (1,944,952 
+ (3,983,152 
+
+GROSS INCOME DISTRIBUTION 
+ 1,296,634 
+ 2,655,434 
+
+ADJUSTMENTS TO GROSS INCOME DISTRIBUTION: 
+
+General pooled expense 
+ (7,370 
+ (3,940 
+ 
+ Miscellaneous pool adjustments 
+ (651 
+ (677 
+ 
+ Corporate complimentary 
+
+occupancy fees 
+ 2,180 
+ 4,508 
+ 
+ Occupancy fees 
+ (412,903 
+ (820,078 
+ 
+ Advisory Committee expenses 
+ (90,996 
+ (140,239 
+
+NET INCOME DISTRIBUTION 
+ 786,894 
+ 1,695,008 
+
+ADJUSTMENTS TO NET INCOME DISTRIBUTION: 
+
+Occupancy fees 
+ 412,903 
+ 820,078 
+ 
+ Hospitality suite fees 
+ 542 
+ 3,183 
+ 
+ Associate room fees 
+ 9,730 
+ 19,960 
+ 
+ Incentives 
+ 241,260 
+ 163,356 
+
+AVAILABLE FOR DISTRIBUTION TO PARTICIPANTS 
+ 1,451,329 
+ 2,701,585 
+
+See notes to financial statements 
+
+36 
+
+INNISBROOK RENTAL POOL LEASE OPERATION 
+
+ STATEMENTS OF CHANGES IN PARTICIPANTS FUND
+BALANCES DISTRIBUTION FUND 
+
+ For the Years Ended December 31, 2020 and 2019 
+
+2020 
+ 2019 
+ 
+ BALANCE, beginning of year 
+ - 
+ - 
+
+ADDITIONS: 
+
+Amounts available for distribution 
+ 1,451,329 
+ 2,701,585 
+ 
+ Interest received or receivable from Maintenance Escrow
+ Fund 
+ 441 
+ 12,725 
+ 
+ REDUCTIONS: 
+
+Amounts accrued or paid to
+ participants 
+ (1,451,770 
+ (2,714,310 
+ 
+ BALANCE, end of year 
+ - 
+ - 
+
+See notes to financial statements. 
+
+37 
+
+INNISBROOK RENTAL POOL LEASE OPERATION 
+
+ STATEMENTS OF CHANGES IN PARTICIPANTS FUND
+BALANCES MAINTENANCE ESCROW FUND 
+
+ For the Years Ended December 31, 2020 and 2019 
+
+2020 
+ 2019 
+ 
+ BALANCE, beginning
+ of year 
+ 318,991 
+ 2,691,156 
+
+ADDITIONS: 
+
+Charges
+ to participants to establish or restore escrow balances 
+ 241,308 
+ 466,432 
+ 
+ Member accounts miscellaneous 
+ 4,998 
+ - 
+ 
+ REDUCTIONS: 
+
+Carpet Carpet Care Reserve 
+ (12,335 
+ - 
+ 
+ Maintenance charges 
+ (261,904 
+ (2,528,496 
+ 
+ Member accounts miscellaneous 
+ - 
+ (12,704 
+ 
+ Refunds to participants as prescribed
+ by the master lease agreements 
+ (10,825 
+ (297,397 
+ 
+ BALANCE,
+ end of year 
+ 280,233 
+ 318,991 
+
+See notes to financial statements 
+
+38 
+
+INNISBROOK RENTAL POOL LEASE OPERATION 
+
+ SUPPLEMENTAL NOTES TO FINANCIAL STATEMENTS 
+
+ December 31, 2020 and 2019 
+
+1. Nature of the Rental Pool Lease Operation and Agreements 
+
+Overview - The Innisbrook Rental Pool Lease Operation
+(the Rental Pool consists of condominiums located on the premises of the Innisbrook Resort and Golf Club (the Company ,
+ Resort or Innisbrook ), which are leased by their owners (the Participants to Innisbrook for
+the purpose of making such units available for resort accommodations. Salamander Innisbrook, LLC, as owner and operator of the Resort,
+administers the Rental Pool. 
+
+The Rental Pool operation is highly dependent upon the operations of
+the Resort, and likewise, the Resort is also dependent upon the continued participation of condominium owners in the Rental Pool. Additionally,
+the Rental Pool and Resort are both impacted by the general economic conditions related to the destination resort industry. 
+
+Rental Pool Agreements - The Rental Pool operates under
+the provisions of a Master Lease Agreement (the MLA or Agreement approved by Company management and the Lessors
+Advisory Committee LAC ). The Agreement commenced on January 1, 2014 for a period of ten years, replacing all lease agreements
+previously in existence. 
+
+Under the Agreement, the Resort pays the Participant a quarterly distribution
+equal to 40 of the Adjusted Gross Revenues on the first 10 million, 45 between 10 million and 11 million, and 50 above 11 million.
+Adjusted Gross Revenues are defined as Gross Revenues less agent s commissions, audit fees, occupancy fees or when the unit is used
+for Rental Pool Comps or as a model, linen replacements and credit card fees. Each participant receives a fixed occupancy fee, based upon
+apartment size, for each day the unit is occupied. After allocation of occupancy fees and the payment of general Rental Pool expenses,
+the balance is allocated proportionally to the Participants, based on the Participation Factor as defined in the Agreement. Additionally,
+occupancy fees are paid by the Resort to Participants as rental fees for complimentary rooms unrelated to the Rental Pool operations.
+Associate room fees are also paid by the Resort to Participants for total room revenues earned from the rental of condominiums by Company
+employees. 
+
+Under the terms of the Agreement, each owner may elect to participate
+in the Rental Pool for the following year by signing and executing an Annual Lease Agreement (the ALA ). 
+
+On August 20, 2018, the Second Addendum to the Master Lease Agreement
+became effective. The addendum defined the Turn-Key renovation, the Customization of certain units that did not require a full renovation,
+and provided for an Incentive to be paid by the Company to the participants. The Incentive provides for a quarterly payment to each participant,
+beginning on January 1, 2019 and ending on December 31, 2023, so long as the unit continues to participate in the Rental Pool. 
+
+On June 13, 2019, the Third Addendum to the Master Lease Agreement
+became effective. The addendum provided with two options for funding of the cost overruns created by the default of the AMH contractor.
+The first option provided for the Company to fund the cost overruns in exchange for the participant s dedication of the unit to
+the Rental Pool as evidenced by a Memorandum of Lease recorded against the title of such participant s unit in the land records
+of Pinellas County. The second option provided an additional incentive equal to the cost overrun amount in the form of quarterly payments,
+adjusted annually, resulting in a reimbursement of 10 of the total amount in 2019, 15 in 2020, 20 in 2021, 25 in 2022, and the remainder
+in 2023. The additional incentive is included in Incentive s adjustment to net income distribution on the statement of operations
+for the distribution fund. 
+
+Nature of Accounts and Fund Balances - The Rental Pool
+consists of the Distribution Fund and the Maintenance Escrow Fund. The Distribution Fund s balance sheet primarily reflects amounts
+receivable from the Company for the Rental Pool distribution payable to Participants and amounts due to the Maintenance Escrow Fund. The
+operations of the Distribution Fund reflect the calculation of pooled earnings, management fees and adjustments, as defined. 
+
+The Maintenance Escrow Fund, which is managed by the LAC reflects the
+accounting for certain escrowed assets of the Participants and, therefore, has no operations. It consists primarily of amounts escrowed
+on behalf of Participants or amounts due from the Distribution Fund to meet minimum escrow requirements, fund the carpet care reserve,
+maintain the interior of the units, and fund renovations of the units. The Innisbrook Rental Pool Trust was established on February 1,
+2002 to create a Trust, which holds certain assets maintained in such escrow accounts. 
+
+39 
+
+Maintenance Escrow Fund Accounts - The MLA provides
+that 90 of the Occupancy Fees earned by each Participant are deposited in the Participant s Maintenance Escrow Fund account.
+Beginning in 2011, by mutual agreement between the LAC and the Resort, until it is determined that the fund requires replenishment,
+both the occupancy fee (Paragraph 7.3 of the MLA) and the carpet care reserve (Paragraph 1.6 of the MLA) deposit amounts will be 0 .
+This account provides funds for payment of amounts that are due from Participants under the Agreement for maintenance and
+refurbishment services. Should a Participant s balance fall below that necessary to provide adequate funds for maintenance and
+replacements, the Participant is required to restore the escrow balance to a defined minimum level. The MLA provides for specific
+fund balances to be maintained, by unit type, size and age of refurbishment, as defined in the Agreement. Under the MLA, a
+percentage of the occupancy fees are deposited into the carpet care reserve in the Maintenance Escrow Fund, which bears the expenses
+of carpet cleaning for all Participants. This percentage is estimated to provide the amount necessary to fund carpet cleaning
+expenses and may be adjusted annually. The amounts expended for carpet care were approximately 17,000 and 2,600 for the years
+ended December 31, 2020 and 2019, respectively. 
+
+The LAC invests the maintenance escrow funds on behalf of the Participants
+and in compliance with restrictions in the Agreements. The LAC consists of nine Participants elected to advise the Resort owner in Rental
+Pool matters and negotiate amendments to the lease agreement. Income earned on these investments is allocated proportionately to Participants 
+Maintenance Escrow Fund accounts and paid quarterly. 
+
+2. Summary of Significant Accounting
+Policies 
+
+Basis of Accounting - The accounting records of the funds
+are maintained on the accrual basis of accounting. 
+
+Cash - Cash consists of bank deposits which may, at times,
+exceed federally insured limits. No losses have been experienced in such accounts. 
+
+Certificates of Deposit - The LAC invests amounts maintained
+in the maintenance escrow fund primarily in certificates of deposit held with a financial institution. As of December 31, 2019, the certificates
+had an interest rate of 2.30 and had six-month maturities. As of December 31, 2019, accrued interest earned was 254, which amount is
+included in the accompanying financial statements of the maintenance escrow fund. At December 31, 2019, the cost of these investments
+approximates fair value. 
+
+Revenue - All room revenue net of any sales and other
+taxes collected are recognized as services are performed. 
+
+Accounts Receivable - Receivables are presented net of
+any allowances for uncollectible amounts. All receivable balances reflected in the accompanying financial statements as of December 31,
+2020 and 2019, were collected in 2021 and 2020, respectively. As such, an allowance for doubtful accounts is not considered necessary
+as of December 31, 2020 and 2019. 
+
+Use of Estimates - The preparation of financial statements
+in conformity with accounting principles generally accepted in the United States of America requires management to make estimates, judgments
+and assumptions which affect the reported amounts of assets and liabilities, and disclosure of contingent liabilities at the date of the
+financial statements and the reported revenues and expenses during the reporting period may be affected by the estimates and assumptions
+management is required to make. Actual results could differ from those estimates. 
+
+Income Taxes - No federal or state taxes have been reflected
+in the accompanying financial statements as the tax effect of fund activities accrue to the Participants. The Innisbrook Rental
+Pool Trust files an annual tax return, which remains subject to examination by taxing authorities for years on or after 2016. The
+Rental Pool and related Trust have adopted the Financial Accounting Standards Board Accounting Standards Codification Topic 740-10, Accounting
+for Uncertainty in Income Taxes . This topic requires the Rental Pool and the related Trust to evaluate each of their tax positions
+and the information reported in the Trust s tax return to determine if such information and positions are more likely than not to
+be sustained under examination by a taxing authority. A tax position includes an entity s tax status, which includes considerations
+as to the qualifications of the Trust and the decision that all fund activities pass through to the participants of the Rental Pool. 
+
+The Rental Pool and trustees of the Trust have evaluated their tax
+positions and have determined that no provision or liability for income taxes is necessary. Conclusions regarding uncertain tax positions
+are evaluated on an annual basis to determine if facts or circumstances have arisen that might cause a change in judgment regarding the
+likelihood of a tax position s sustainability under examination. At December 31, 2020, the Innisbrook Rental Pool Trust believes
+that no uncertain tax positions exist. 
+
+40 
+
+NOTE 3 - RELATED PARTY
+TRANSACTIONS 
+
+Pursuant to the terms of the Master Lease Agreement, the Rental Pool
+paid the Company approximately 153,000 and 142,000 as reimbursement for maintenance and housekeeping labor, use of telephone lines,
+and other supplies during the years ended December 31, 2020 and 2019, respectively. At December 31, 2020 and 2019, accounts payable included
+in the accompanying balance sheets of the Maintenance Escrow Fund include approximately 0 and 15,520, respectively, payable to the Company
+for such items. 
+
+Salamander Innisbrook Condominium, LLC, a wholly owned subsidiary of
+Salamander Innisbrook, LLC, owns three condominiums. All three condominiums participate in the Rental Pool under the MLA in the same manner
+as other Rental Pool participants. 
+
+41 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+SALAMANDER INNISBROOK, LLC 
+
+Date : December 23, 2021 
+ By: 
+ /s/ Prem Devadas 
+
+Prem Devadas 
+
+Manager (Chief Executive Officer) 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+Signatures 
+ 
+ Title(s) 
+ 
+ Date 
+
+/s/ Prem Devadas 
+ 
+ Manager (Chief Executive Officer) 
+ 
+ December 23, 2021 
+
+/s/ Dale Pelletier 
+ 
+ Chief Financial Officer (Principal Financial Officer 
+ 
+ December 23, 2021 
+
+and Principal Accounting Officer) 
+
+42 
+
+EXHIBIT INDEX 
+
+Exhibit No. 
+ 
+ Description 
+ 
+ 10.1 
+ 
+ Loan Agreement Dated as March 28, 2017 among Salamander Innisbrook, LLC and Salamander Innisbrook Condominium, LLC and Branch Banking and Trust Co. 
+ 
+ 31.1 
+ 
+ Certification of the Registrant s Chief Executive Officer pursuant to Section 302 of Sarbanes-Oxley Act of 2002 
+ 
+ 31.2 
+ 
+ Certification of the Registrant s Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.1 
+ 
+ Principal Executive Officer Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.2 
+ 
+ Chief Financial Officer Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ Exhibit 101. 
+ 
+ Interactive data files formatted in XBRL (eXensible Business Reporting Language): (i) the Balance Sheets, (ii)the Statement of Operations, (iii) the Statements of Cash Flows, and (iv) the Notes to the Financial Statements. 
+ 
+ 101.INS 
+ 
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ XBRL Taxonomy Extension Scheme Document 
+ 
+ 101.CAL 
+ 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+
+43 
+
+<EX-10.1>
+ 2
+ tm2135575d1_ex10-1.htm
+ EXHIBIT 10.1
+
+Exhibit 10.1 
+
+PROMISSORY
+NOTE 
+
+15,000,000.00 March
+28, 2017 
+
+FOR
+VALUE RECEIVED, SALAMANDER INNISBROOK, LLC, a Florida limited liability company, and SALAMANDER INNISBROOK CONDOMINIUM, LLC, a Florida
+limited liability company (each individually referred to herein as the Borrower and collectively as the Borrowers ),
+hereby jointly and severally promise to pay to the order of BRANCH BANKING AND TRUST COMPANY, a North Carolina banking corporation (the
+ Bank ), at the office of Branch Banking and Trust Company, located in St. Petersburg, Florida (or at such other place
+or places as the Bank may designate) on the Maturity Date (as defined in the Loan Agreement), in lawful money of the United States of
+America, in immediately available funds, the principal amount of FIFTEEN MILLION AND NO/100 DOLLARS 15,000,000.00) or, if less than
+such principal amount shall be outstanding, the aggregate unpaid principal amount of the Loan made by the Bank to the Borrowers pursuant
+to the Loan Agreement dated of even date herewith, among the Borrowers and the Bank (as amended or modified from time to time the Loan
+Agreement ), or such earlier date as may be required pursuant to the terms of the Loan Agreement, and to pay interest from the
+date hereof on the unpaid principal amount hereof, in like money, at said office. Principal and interest shall be paid on the dates and
+in the amounts and at the rates provided in the Loan Agreement. 
+
+Capitalized
+terms appearing within but not otherwise defined shall have the meaning ascribed to them in the Loan Agreement. All or any portion of
+the principal amount of the Loan may be prepaid as provided in the Loan Agreement. 
+
+Documentary
+stamp tax in the amount of 52,500 and intangibles tax will be paid in connection with the recording of the Mortgage in the official records
+of Pinellas County, Florida, securing this Promissory Note. 
+
+This
+Promissory Note is the Note in the aggregate principal amount of 15,000,000 referred to in the Loan Agreement and is issued pursuant
+to and entitled to the benefits and security of the Loan Agreement to which reference is hereby made for a more complete statement of
+the terms and conditions upon which the loan evidenced hereby were or are made and are to be repaid. 
+
+Upon
+the occurrence of any one or more of the Events of Default under the Loan Agreement, or in any other document or instrument delivered
+in connection therewith, which Event of Default is not cured within any applicable grace period, all amounts then remaining unpaid on
+this Promissory Note may be declared to be immediately due and payable as provided in the Loan Agreement. 
+
+If
+payment of all sums due hereunder is accelerated under the terms of the Loan Agreement or under the terms of the other Loan Documents
+executed in connection therewith, the then remaining principal amount and accrued but unpaid interest shall bear interest which shall
+be payable on demand at the Default Rate, or, if lower, the maximum rate permitted under applicable law, until such principal and interest
+have been paid in full. Further, in the event of such acceleration, this Promissory Note, and all other indebtedness of the Borrowers
+to the Bank shall become immediately due and payable, without presentation, demand, protest or notice of any kind, all of which are hereby
+waived by the Borrowers. Each Borrower hereby waives all exemptions and homestead laws. 
+
+The
+undersigned promise to pay to the Bank a late fee on any payment past due for ten or more days in the amount of five percent (5 of the
+amount of payment past due. Where any payment is past due for ten or more days, subsequent payments shall first be applied to past due
+balances. This provision for late charges shall not be deemed to extend the time for payment beyond any grace period or
+ cure period provided for in the Loan Agreement. 
+
+All
+sums received by the Bank for application to the Promissory Note may be applied by the Bank to late charges, expenses, costs, interest,
+principal and other amounts owing to the Bank in connection with the Promissory Note in the order selected by the Bank in its sole discretion. 
+
+In
+the event the indebtedness evidenced or secured hereby is collected by or through an attorney at law, the holder shall be entitled to
+collect reasonable and documented attorneys' fees. In the event suit or action is commenced hereunder, the holder shall be entitled to
+collect all collection costs, including reasonable and documented attorneys' fees, to be fixed by the court, both in the trial court and
+upon any appeal. Demand, presentment, protest, notice of protest and notice of dishonor are hereby waived by all parties bound hereon. 
+
+THIS
+PROMISSORY NOTE SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF FLORIDA. 
+
+WAIVER
+OF TRIAL BY JURY . UNLESS EXPRESSLY PROHIBITED BY APPLICABLE LAW, EACH BORROWER HEREBY
+WAIVES THE RIGHT TO TRIAL BY JURY OF ANY MATTERS OR CLAIMS ARISING OUT OF THIS PROMISSORY NOTE OR ANY LOAN DOCUMENT EXECUTED IN
+CONNECTION HEREWITH OR OUT OF THE CONDUCT OF THE RELATIONSHIP BETWEEN THE BORROWERS AND THE BANK. THIS PROVISION IS A MATERIAL
+INDUCEMENT FOR THE BANK TO MAKE THE LOAN EVIDENCED BY THIS NOTE. FURTHER, EACH BORROWER HEREBY CERTIFIES THAT NO REPRESENTATIVE OR
+AGENT OF THE BANK, NOR BANK S COUNSEL, HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT THE BANK WOULD NOT SEEK TO ENFORCE THIS
+WAIVER OR RIGHT TO JURY TRIAL PROVISION IN THE EVENT OF LITIGATION. NO REPRESENTATIVE OR AGENT OF THE BANK, NOR BANK S
+COUNSEL, HAS THE AUTHORITY TO WAIVE, CONDITION OR MODIFY THIS PROVISION. 
+
+</EX-10.1>
+
+<EX-31.1>
+ 3
+ tm2135575d1_ex31-1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1 
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+
+ SALAMANDER INNISBROOK, LLC 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+ (CHAPTER 98, TITLE 15 U.S.C. SS. 7241) 
+
+I, Prem Devadas, certify that: 
+
+1. I have reviewed this Annual
+Report on Form 10-K of Salamander Innisbrook, LLC; 
+
+2. Based on my knowledge, this
+report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made,
+in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the
+financial statements, and other financial information included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other
+certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) for the registrant and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f)
+and 15d-15(f)) and we have: 
+
+a) designed such disclosure
+controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared; 
+
+b) designed such internal control
+over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+c) evaluated the effectiveness
+of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) disclosed in this report
+any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent
+fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other
+certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s Executive Committee: 
+
+a) all significant deficiencies
+and material weaknesses in the design or operation of internal controls which are reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not
+material, that involves management or other employees who have a significant role in the registrant s internal controls over financial
+reporting. 
+
+Date: December 23, 2021 
+
+/s/ Prem Devadas 
+
+Manager (Chief Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ tm2135575d1_ex31-2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2 
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+
+ SALAMANDER INNISBROOK, LLC 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+ (CHAPTER 98, TITLE 15 U.S.C. SS. 7241 
+
+I, Dale Pelletier certify that: 
+
+1. I have reviewed this Annual
+Report on Form 10-K of Salamander Innisbrook, LLC; 
+
+2. Based on my knowledge, this
+report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made,
+in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the
+financial statements, and other financial information included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other
+certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) for the registrant and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f)
+and 15d-15(f)) and we have: 
+
+a) designed such disclosure
+controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared; 
+
+b) designed such internal control
+over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+
+c) evaluated the effectiveness
+of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) disclosed in this report
+any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent
+fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other
+certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s Executive Committee: 
+
+a) all significant deficiencies
+and material weaknesses in the design or operation of internal controls which are reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not
+material, that involves management or other employees who have a significant role in the registrant s internal controls over financial
+reporting. 
+
+Date: December 23, 2021 
+
+/s/ Dale Pelletier 
+
+Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ tm2135575d1_ex32-1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Pursuant to 18 U.S.C. 
+1350, as adopted pursuant to Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned hereby certifies that
+the Annual Report on Form 10-K for the year ended December 31, 2020 and 2019 of Salamander Innisbrook, LLC (the
+ Company fully complies with the requirements of Section 13(a) or Section 15(d) of the Securities Exchange
+Act of 1934 and that the information contained in such Report fairly presents, in all material respects, the financial condition and
+results of operations of the Company. 
+
+Date: December 23, 2021 
+
+/s/ Prem Devadas 
+
+Manager (Chief Executive Officer) 
+
+A signed original of this written statement required
+by Section 906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within
+the electronic version of this written statement required by Section 906, has been provided to Salamander Innisbrook, LLC and will
+be retained by Salamander Innisbrook, LLC and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ tm2135575d1_ex32-2.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Pursuant to 18 U.S.C. 
+1350, as adopted pursuant to Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned hereby certifies that
+the Annual Report on Form 10-K for the period ended December 31, 2020 and 2019 of Salamander Innisbrook, LLC (the
+ Company fully complies with the requirements of Section 13(a) or Section 15(d) of the Securities Exchange
+Act of 1934 and that the information contained in such Report fairly presents, in all material respects, the financial condition and
+results of operations of the Company. 
+
+Date: December 23, 2021 
+
+/s/ Dale Pelletier 
+
+Chief Financial Officer 
+
+A signed original of this written statement required by Section 906,
+or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the electronic
+version of this written statement required by Section 906, has been provided to Salamander Innisbrook, LLC and will be retained by
+Salamander Innisbrook, LLC and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 9
+ sali-20201231.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 10
+ sali-20201231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 11
+ sali-20201231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 12
+ sali-20201231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 13
+ sali-20201231_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 14
+ sali-20201231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

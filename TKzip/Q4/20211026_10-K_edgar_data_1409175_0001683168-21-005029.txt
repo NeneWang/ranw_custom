@@ -1,0 +1,3083 @@
+<Header>
+<FileStats>
+    <FileName>20211026_10-K_edgar_data_1409175_0001683168-21-005029.txt</FileName>
+    <GrossFileSize>493291</GrossFileSize>
+    <NetFileSize>127323</NetFileSize>
+    <NonText_DocumentType_Chars>47346</NonText_DocumentType_Chars>
+    <HTML_Chars>278774</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-21-005029.hdr.sgml : 20211026
+<ACCEPTANCE-DATETIME>20211026130920
+ACCESSION NUMBER:		0001683168-21-005029
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20210731
+FILED AS OF DATE:		20211026
+DATE AS OF CHANGE:		20211026
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WECONNECT Tech International, Inc.
+		CENTRAL INDEX KEY:			0001409175
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				392060052
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-52879
+		FILM NUMBER:		211347482
+
+	BUSINESS ADDRESS:	
+		STREET 1:		25, JALAN PUTERI 7/15
+		STREET 2:		BANDAR PUTERI
+		CITY:			PUCHONG, SELANGOR
+		STATE:			N8
+		ZIP:			47100
+		BUSINESS PHONE:		6019-373-8718
+
+	MAIL ADDRESS:	
+		STREET 1:		25, JALAN PUTERI 7/15
+		STREET 2:		BANDAR PUTERI
+		CITY:			PUCHONG, SELANGOR
+		STATE:			N8
+		ZIP:			47100
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Contact Minerals Corp.
+		DATE OF NAME CHANGE:	20070808
+
+</SEC-Header>
+</Header>
+
+ 0001683168-21-005029.txt : 20211026
+
+10-K
+ 1
+ wect_10k-073121.htm
+ ANNUAL REPORT
+
+Table of Contents 
+
+ UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+
+ WASHINGTON, D.C. 20549 
+
+FORM 10-K 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended July 31, 2021 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from ____________ to
+____________ 
+
+Commission file number: 000-52879 
+
+WECONNECT TECH
+INTERNATIONAL, INC. 
+
+ (Exact name of registrant as specified in its charter) 
+
+NEVADA 
+ 
+ 39-2060052 
+ 
+ (State or other jurisdiction of 
+ 
+ (I.R.S. Employer 
+ 
+ incorporation or organization) 
+ 
+ Identification No.) 
+
+25, Jln Puteri 7/15, Bandar Puteri, 47100 Puchong, 
+Selangor, Malaysia. 
+ 
+ N/A 
+ 
+ (Address of principal executive offices) 
+ 
+ (Zip Code) 
+
+Registrant s telephone number, including
+area code: + 60 17 380 2755 
+
+Securities registered pursuant to Section 12(b)
+of the Act: None 
+
+Securities registered pursuant to Section 12(g)
+of the Act: 
+
+Title of each class 
+ Trading Symbol(s) 
+ Name of exchange on which registered 
+ 
+ Common stock, US .001 par value 
+ WECT 
+ N/a 
+
+Indicate by check mark if
+the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+No 
+
+Indicate by check mark if
+the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes 
+No 
+
+Indicate by check mark whether
+the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes 
+No 
+
+Indicate by check mark whether
+the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to
+submit such files). Yes No 
+
+Indicate by check mark if
+disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best
+of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. 
+
+Indicate by check mark whether
+the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging
+growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting
+company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ Accelerated filer 
+ 
+ Non-accelerated filer (Do not check if a smaller reporting company) 
+ Smaller reporting company 
+ 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. Yes No 
+
+Indicate by check mark whether
+the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No
+
+Approximate aggregate market
+value of the voting stock held by non-affiliates of the registrant as of April 30, 2020, computed by reference to the price at which our
+common shares was sold on that date: US 0. 
+
+Indicate the number of shares
+outstanding of each of the registrant s classes of common stock, as of the latest practicable date. 
+
+Common Stock 
+ 
+ Outstanding at October 21, 2021 
+ 
+ Common Stock, US .001 par value per share 
+ 
+ 593,610,070 shares 
+
+DOCUMENTS INCORPORATED BY REFERENCE: None 
+
+TABLE OF CONTENTS 
+
+Page 
+ 
+ Part I 
+
+Item 1 
+ Business 
+ 1 
+ 
+ Item 1A 
+ Risk Factors 
+ 4 
+ 
+ Item 1B 
+ Unresolved Staff Comments 
+ 4 
+ 
+ Item 2 
+ Properties 
+ 4 
+ 
+ Item 3 
+ Legal Proceedings 
+ 4 
+ 
+ Item 4 
+ Mine Safety Disclosures 
+ 5 
+
+Part II 
+
+Item 5 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 6 
+ 
+ Item 6 
+ Selected Financial Data 
+ 7 
+ 
+ Item 7 
+ Management s Discussion and Analysis of Financial Condition and Results of Operation 
+ 7 
+ 
+ Item 7A 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 13 
+ 
+ Item 8 
+ Financial Statements and Supplementary Data 
+ 13 
+ 
+ Item 9 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 14 
+ 
+ Item 9A 
+ Controls and Procedures 
+ 14 
+ 
+ Item 9B 
+ Other Information 
+ 14 
+
+Part III 
+
+Item 10 
+ Directors and Executive Officers and Corporate Governance 
+ 15 
+ 
+ Item 11 
+ Executive Compensation 
+ 17 
+ 
+ Item 12 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 21 
+ 
+ Item 13 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 22 
+ 
+ Item 14 
+ Principal Accounting Fees and Services 
+ 23 
+
+Part IV 
+
+Item 15 
+ Exhibits, Financial Statement Schedules 
+ 24 
+ 
+ Item 16 
+ Form 10-K Summary 
+ 24 
+
+Signatures 
+ 
+ 25 
+
+i 
+
+CAUTIONARY NOTE CONCERNING FORWARD-LOOKING STATEMENTS 
+
+This Annual Report on Form
+10-K includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and
+Section 21E of the Securities Exchange Act of 1934, as amended that are not historical facts, and involve risks and uncertainties that
+could cause actual results to differ materially from those expected and projected. All statements, other than statements of historical
+facts, included in this Form 10-K including, without limitation, statements in the Market Overview and Management s
+Discussion and Analysis of Financial Condition and Results of Operations regarding the Company s market projections, financial
+position, business strategy and the plans and objectives of management for future operations, events or developments which the Company
+expects or anticipates will or may occur in the future, including such things as future capital expenditures (including the amount and
+nature thereof); expansion and growth of the Company's business and operations; and other such matters are forward-looking statements.
+These statements are based on certain assumptions and analyses made by the Company in light of its experience and its perception of historical
+trends, current conditions and expected future developments, as well as other factors it believes are appropriate under the circumstances.
+However, whether actual results or developments will conform with the Company's expectations and predictions is subject to a number of
+risks and uncertainties, including general economic, market and business conditions; the business opportunities (or lack thereof) that
+may be presented to and pursued by the Company; changes in laws or regulation; and other factors, most of which are beyond the control
+of the Company. 
+
+These forward-looking statements
+can be identified by the use of predictive, future-tense or forward-looking terminology, such as believes, anticipates, 
+ expects, estimates, plans, may, will, or similar terms. These statements appear
+in a number of places in this filing and include statements regarding the intent, belief or current expectations of the Company, and its
+directors or its officers with respect to, among other things: (i) trends affecting the Company's financial condition or results of operations
+for its limited history; (ii) the Company's business and growth strategies; and, (iii) the Company's financing plans. Investors are cautioned
+that any such forward-looking statements are not guarantees of future performance and involve significant risks and uncertainties, and
+that actual results may differ materially from those projected in the forward-looking statements as a result of various factors. Such
+factors that could adversely affect actual results and performance include, but are not limited to, the Company's limited operating history,
+potential fluctuations in quarterly operating results and expenses, government regulation, technological change and competition. For information
+identifying important factors that could cause actual results to differ materially from those anticipated in the forward-looking statements,
+please refer to the Risk Factors section of the Company s Current Report on Form 8-K filed with the U.S. Securities and Exchange
+Commission (the SEC on June 11, 2018. 
+
+Consequently, all of the forward-looking
+statements made in this Form 10-K are qualified by these cautionary statements and there can be no assurance that the actual results or
+developments anticipated by the Company will be realized or, even if substantially realized, that they will have the expected consequence
+to or effects on the Company or its business or operations. The Company assumes no obligations to update any such forward-looking statements. 
+
+ii 
+
+PART I 
+
+ITEM 1. BUSINESS 
+
+OVERVIEW 
+
+We were an IT-solutions provider
+that provided a multi-dimensional e-commerce platform to facilitate shopping, business, trade and integrates online office transactions
+in a single application. Prior to June 2019, we developed and operated a mobile platform designed to consolidate users cash and
+connect merchants to consumers by offering a cashless form of transaction, in-app shopping and a user rewards system. On June 2019, we
+ceased the operation of the platform but continue to maintain our IT solution business operations. During the fiscal years ended July
+31, 2020, and 2019, we generated comprehensive losses of 1,064,620 and 1,493,284, respectively. 
+
+Since we ceased operations
+of our platform June 2019, we unsuccessfully attempted to diversify into the energy, oil gas sector to strengthen our financial
+position. Our current principal business is to achieve long-term growth potential through a combination with a business rather than immediate,
+short-term earnings. Based on proposed business activities, we are a blank check company. We intend to comply with the periodic
+reporting requirements of the Exchange Act for so long as it is subject to those requirements. 
+
+As of the date of this Annual
+Report, we have not entered into any binding agreement with any party regarding acquisition opportunities for us. We hope to continue
+to engage in discussions with other operating businesses affiliated with our executive officers regarding potential acquisition opportunities.
+There is no assurance that any nonbinding term sheet will result into a definitive purchase transaction nor can we assure you that we
+will be able to successfully acquire such company or any company in the near future. 
+
+The analysis of new business
+opportunities will be undertaken by or under the supervision of the Company s officers. We have unrestricted flexibility in seeking,
+analyzing and participating in potential business opportunities. In its efforts to analyze potential acquisition targets, we will consider
+the following kinds of factors: 
+
+Potential for growth, indicated by new technology, anticipated market expansion or new products; 
+
+Competitive position as compared to other firms of similar size and experience within the industry segment as well as within the industry as a whole; 
+
+Strength and diversity of management, either in place or scheduled for recruitment; 
+
+Capital requirements and anticipated availability of required funds from the Registrant, from operations, through the sale of additional securities, through joint ventures or similar arrangements or from other sources; 
+
+The extent to which the business opportunity can be advanced; 
+
+The accessibility of required management expertise, personnel, raw materials, services, professional assistance and other required items; and 
+
+Other relevant factors. 
+
+In applying the foregoing
+criteria, no one of which will be controlling, management will attempt to analyze all factors and circumstances and make a determination
+based upon reasonable investigative measures and available data. Potentially available acquisition opportunities may occur in many different
+industries, and at various stages of development, all of which will make the task of comparative investigation and analysis of such business
+opportunities extremely difficult and complex. We may not discover or adequately evaluate adverse facts about the business to be acquired.
+In evaluating a prospective business combination, we will conduct as extensive a due diligence review of potential targets as possible
+given the lack of information that may be available regarding private companies, our limited personnel and financial resources. 
+
+1 
+
+We expect that our due diligence
+will encompass, among other things, meetings with the target business s incumbent management and inspection of its facilities, as
+necessary, as well as a review of financial and other information, which is made available to us. This due diligence review will be conducted
+either by our management or by unaffiliated third parties we may engage. Our lack of funds and the lack of full-time management will likely
+make it impracticable to conduct a complete and exhaustive investigation and analysis of a target business before we consummate a business
+combination. Management decisions, therefore, will likely be made without detailed feasibility studies, independent analysis, market surveys
+and the like which, if we had more funds available to us, would be desirable. We will be particularly dependent in making decisions upon
+information provided by the promoters, owners, sponsors or others associated with the target business seeking our participation. 
+
+The time and costs required
+to select and evaluate a target business and to structure and complete a business combination cannot presently be ascertained with any
+degree of certainty. Any costs incurred with respect to the indemnification and evaluation of a prospective business combination that
+is not ultimately completed will result in a loss to us. 
+
+Additionally, we are in a
+highly competitive market for a small number of business opportunities, which could reduce the likelihood of consummating a successful
+business combination. We are, and will continue to be, an insignificant participant in the business of seeking mergers with, joint ventures
+with and acquisitions of small private and public entities. A large number of established and well-financed entities, including small
+public companies and venture capital firms, are active in mergers and acquisitions of companies that may be desirable target candidates
+for us. Nearly all these entities have significantly greater financial resources, technical expertise and managerial capabilities than
+we do; consequently, we will be at a competitive disadvantage in identifying possible business opportunities and successfully completing
+a business combination. These competitive factors may reduce the likelihood of our identifying and consummating a successful business
+combination. 
+
+HISTORY 
+
+We were incorporated under
+the laws of the State of Nevada on April 25, 2007. Prior to our acquisition of MIG Mobile Tech Berhad MMT ), a corporation
+organized under the laws of Malaysia, we were an exploration stage company engaged in the acquisition and exploration of mineral properties.
+We were also a shell company with no meaningful assets or operations other than our efforts to identify and merge with an
+operating company. We operated under the name Contact Minerals Corp. and our securities traded under the symbol CNTM. 
+Effective November 6, 2017, we changed our name to WECONNECT Tech International, Inc. and our symbol to WECT. 
+Effective June 8, 2018, we consummated the acquisition of 49,831,007 shares of MMT (the MMT Shares ), constituting approximately
+99.662 of the issued and outstanding securities of MMT. As a result of our acquisition of the MMT Shares, we ventured into the IT solution
+business with a focus on users located in Malaysia. On June 2019, MMT ceased the operation of the platform and currently only maintains
+its IT solution business operations. 
+
+Effective August 29, 2017,
+the Company and Kerry McCullagh, the Company s former Chief Executive Officer, Chief Financial Officer, President, Secretary and
+Treasurer (the Seller entered into a stock purchase agreement (the Stock Purchase Agreement with Shiong
+Han Wee and Kwueh Lin Wong (collectively, the Purchasers ). Under the terms of the Stock Purchase Agreement, the Purchasers
+agreed to purchase 7,000,000 shares from the Seller (the Seller Shares and 78,770,000 shares from the Company (the Issued
+Shares for an aggregate purchase price of 350,000. The sale of the Seller Shares and the Issued Shares consummated September
+11, 2017. 
+
+Upon the consummation of the
+sale, Kerry McCullagh, Alex Langer and William McCullagh, our former executive officers and directors, resigned from all of their positions
+with the Company. Their resignations were not due to any dispute or disagreement with the Company on any matter relating to the Company's
+operations, policies or practices. 
+
+2 
+
+The following individuals
+were appointed to serve in the positions set forth next to their names below: 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Shiong Han Wee 
+ 
+ 44 
+ 
+ Director, Chief Executive Officer 
+ 
+ Kwueh Lin Wong 
+ 
+ 44 
+ 
+ Director, Chief Financial Officer and Secretary 
+
+Chee Kuen Chim and Pui Hold Ho were each appointed
+to serve as a Director of the Company effective September 22, 2017. Mr. Chim resigned from his positions with the Company effective May
+11, 2018, and Mun Wai Wong was appointed to fill the vacancy caused by such resignation on June 1, 2018. 
+
+Effective June 1, 2018, Kwueh
+Lin Wong resigned from his position as the Chief Financial Officer of the Company and Chow Wing Loke was appointed to fill the vacancy
+caused by Mr. Wong s resignation. 
+
+Effective June 8, 2018, we
+consummated the acquisition of 49,831,007 shares of MMT (the MMT Shares ), constituting approximately 99.662 of the issued
+and outstanding securities of MMT. As consideration, we agreed to issue to the MMT shareholders 498,310,070 shares of our common stock,
+at a value of US 0.05 per share, for an aggregate value of US 24,915,503.50. As a result of our acquisition of the MMT Shares, we entered
+into the payment solution business with a focus on users located in Malaysia. 
+
+MMT was established in 2015
+and commenced operations in Malaysia on October 2015. MMT had developed and operated a mobile platform designed to consolidate users 
+cash and connect merchants to consumers by offering a cashless form of transaction, in-app shopping and a user rewards system. On June
+2019, MMT ceased the operation of the platform. Our current principal business is to achieve long-term growth potential through a combination
+with a business rather than immediate, short-term earnings. 
+
+Effective July
+16, 2020, Mr. Chow Wing Loke resigned from his position as our chief financial officer. Mr Shiong Han Wee was appointed as the interim
+chief financial officer effective July 16, 2020 to fill the vacancy created by such resignation. 
+
+On June 20, 2021, the Corporation
+and Ng Chee Chun, an individual Purchaser entered into that certain Share Sale Agreement pursuant to which the Corporation
+sold to the Purchaser all shares of MMT held by the Corporation in consideration of Malaysia Ringgit One Thousand. The sale consummated
+and was registered with the Malaysian Government pursuant to Section 51 of the Companies Act 2016 on August 24, 2021. As a result, MMT
+is no longer a subsidiary of the Corporation. 
+
+On September 27, 2021, the
+Corporation, certain sellers of shares of our common stock, including our sole executive officer and director Shiong Han Wee (collectively,
+the Sellers ), and Moto America, Inc.(the Buyer entered into a Sale and Purchase Agreement dated September
+24, 2021, pursuant to which the Buyer agreed to purchase from the Sellers an aggregate of 436,482,690 shares of common stock of the Company
+(the Common Shares and 10,000,000 shares of Series A Preferred Convertible Stock (the Preferred Shares ).
+The Preferred Stock will be issued to Shiong Han Wee as payment in full of all amounts owed by the Company to Mr. Wee. The sale of the
+Common Shares and the Preferred Shares is expected to consummate in the near future. The securities were sold pursuant to the exemption
+provided by Section 4(a)(2) of the Securities Act of 1933, as amended, and Regulation D promulgated thereunder. 
+
+In connection with the sale
+of such securities, all of the executive officers and directors of the Corporation will resign from their positions with the Corporation
+and the following individuals will be appointed to serve in the capacities set forth next to their names as described below: 
+
+Name 
+ Position 
+ 
+ Vance Harrison 
+ Chief Executive Officer, President and Director 
+ 
+ Terina Liddiard 
+ Chief Financial Officer, Secretary and Director 
+ 
+ Taylor Brody 
+ Chief Marketing Officer and Director 
+
+3 
+
+The resignations were not due to any disagreement
+with the Company on any matter related to the Company s operations, policies or practices. All executive officers and directors
+will also forgive and waive all liabilities due to them from us in connection with such change in control. 
+
+Major
+Customers 
+
+During the twelve months
+ended July 31, 2021, the Company did not generate any revenue and has no trade receivables. 
+
+Major
+Vendors 
+
+During the twelve months
+ended July 31, 2021, no vendors accounted for 10 or more of our total operating costs. 
+
+ITEM 1A. Risk Factors . 
+
+We are a smaller reporting
+company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+
+ITEM 1B. Unresolved
+Staff Comments . 
+
+We are a smaller reporting
+company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+
+ITEM 2. Properties . 
+
+We maintain our corporate
+office at 25, Jalan Puteri 7/15, Bandar Puteri, 47100 Puchong, Selangor, Malaysia. Our space is provided to us by our corporate Secretary
+free of charge. 
+
+ITEM 3. Legal Proceedings . 
+
+On November 12, 2018, MIG Mobile Tech Berhad,
+a subsidiary of the Company, filed a claim against Digiland Private Limited Digiland for breach of contract and misrepresentation
+arising from, among other things, Digiland s failure to perform under its supplier contract with the Company. In its suit, MIG Mobile
+Tech Berhad is seeking a return of funds previously paid to Digiland in the amount of S 800,000 Singaporean Dollars (approximately US
+ 584,000) together with a claim for damages to be assessed by the Singapore Court. Within the same suit, Digiland has filed a counterclaim
+against MIG Mobile Tech Berhad for the balance of the payment due to it under contract in the sum of S 800,000, together with a claim
+for damages to be assessed by the Singapore Court. 
+
+Prior to the filing of the its claims against
+Digiland, the Company recognized the amount of 596,912 in receivable, deposits and prepayments. The amount is being recognized as deposit
+because the development of the application-based software has not been materialized to-date. Subsequent to the filing of its claims, the
+Company has recognized a full impairment in the amount of 596,612. 
+
+As the COVID-19 pandemic had seriously affected
+the economy and business environment worldwide, in view of the uncertainty on the recovery of the refund of deposit paid to Digiland and
+the costs of prolonging the legal proceedings in light of the Company s limited resources, the Company discontinued its proceedings
+on April 17, 2020. 
+
+4 
+
+On November 5, 2020, the Singapore Court awarded
+a judgment in favor of Digiland, and as a result MIG Mobile Tech Berhad was ordered to pay: 
+
+a) 
+The Judgment Sum of S 800,000 
+
+ b) 
+Interest on the Judgment Sum at 5.33 per annum from 29th November 2018 to the date of payment; and 
+
+ c) 
+Legal costs of the action to be taxed if not agreed. 
+
+Interest on the Judgment Sum calculated up to
+February 16, 2021 is S 94,507.38. Digiland further claimed legal cost together with disbursement in the sum of S 79,616.88. The total
+liabilities are estimated to be at S 974,124.26 and was accrued in the financial statement for the period ended July 31, 2020 and 2021. 
+
+On June 20, 2021, the Corporation
+and Ng Chee Chun, an individual Purchaser entered into that certain Share Sale Agreement pursuant to which the Corporation
+sold to the Purchaser all shares of MMT held by the Corporation in consideration of Malaysia Ringgit One Thousand. The sale consummated
+and was registered with the Malaysian Government pursuant to Section 51 of the Companies Act 2016 on August 24, 2021. As a result, MMT
+is no longer a subsidiary of the Corporation, and the liabilities associated with the foregoing judgment will no longer be accrued on
+our financial statements on a going forward basis. 
+
+ITEM 4. MINE SAFETY DISCLOSURES . 
+
+Not applicable. 
+
+5 
+
+PART II 
+
+ITEM
+5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities . 
+
+(a) Market Information 
+
+Shares of our common stock
+are quoted on the OTC Pink under the symbol WECT . As of October 20, 2021, the last closing price of our securities was 0.061,
+with little to no quoting activity. There is no established public trading market for our securities and a regular trading market may
+not develop, or if developed, may not be sustained. 
+
+The following table sets forth,
+for the fiscal quarters indicated, the high and low bid information for our common stock, as reported on the OTC Pink. The following quotations
+reflect inter-dealer prices, without retail mark-up, mark-down or commission and may not represent actual transactions. 
+
+Quarterly period 
+ 
+ High 
+
+Low 
+
+Fiscal year ended July 31, 2021 
+
+First Quarter 
+
+0.043 
+
+0.033 
+
+Second Quarter 
+
+0.004 
+
+0.010 
+
+Third Quarter 
+
+0.003 
+
+0.011 
+
+Fourth Quarter 
+
+0.250 
+
+0.011 
+
+Fiscal year ended July 31, 2020 
+
+First Quarter 
+
+0.240 
+
+0.075 
+
+Second Quarter 
+
+0.100 
+
+0.005 
+
+Third Quarter 
+
+0.050 
+
+0.050 
+
+Fourth Quarter 
+
+0.050 
+
+0.043 
+
+(b) Approximate Number of Holders of Common Stock 
+
+As of October 21, 2021, there
+were approximately 363 shareholders of record of our common stock. Such number does not include any shareholders holding shares in nominee
+or street name . 
+
+(c) Dividends 
+
+Holders of our common stock
+are entitled to receive such dividends as may be declared by our board of directors. We paid no dividends during the periods reported
+herein, nor do we anticipate paying any dividends in the foreseeable future. 
+
+(d) Equity Compensation Plan Information 
+
+There are no options, warrants or convertible securities
+outstanding. 
+
+6 
+
+(e) Recent Sales of Unregistered Securities 
+
+The information set forth
+below describes our issuance of securities without registration under the Securities Act of 1933, as amended, during the year ended July
+31, 2021, that were not previously disclosed in a Quarterly Report on Form 10-Q or in a Current Report on Form 10-K: None. 
+
+ITEM 6. Selected
+Financial Data . 
+
+We are a smaller reporting
+company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+
+ITEM 7. Management's
+Discussion and Analysis of Financial Condition and Results of Operations . 
+
+Unless otherwise noted,
+all currency figures quoted as U.S. dollars , dollars or US refer to the legal currency of the
+United States. References to MYR or RM are to the Malaysian Ringgit, the legal currency of Malaysia. Throughout
+this report, assets and liabilities of the Company s subsidiaries are translated into U.S. dollars using the exchange rate on the
+balance sheet date. Revenue and expenses are translated at average rates prevailing during the period. The gains and losses resulting
+from translation of financial statements of foreign subsidiaries are recorded as a separate component of accumulated other comprehensive
+income within the statement of stockholders equity. 
+
+Overview 
+
+We were an IT-solutions provider
+that provided a multi-dimensional e-commerce platform to facilitate shopping, business, trade and integrates online office transactions
+in a single application. Prior to June 2019, we developed and operated a mobile platform designed to consolidate users cash and
+connect merchants to consumers by offering a cashless form of transaction, in-app shopping and a user rewards system. On June 2019, we
+ceased the operation of the platform but continue to maintain our IT solution business operations through our wholly owned subsidiary,
+MIG Mobile Tech (MMT). During the fiscal years ended July 31, 2020, and 2019, we generated comprehensive losses of 1,064,620 and 1,493,284,
+respectively. 
+
+Since we ceased operations
+of our platform June 2019, we unsuccessfully attempted to diversify into the energy, oil gas sector to strengthen our financial
+position. Our current principal business is to achieve long-term growth potential through a combination with a business rather than immediate,
+short-term earnings. Based on proposed business activities, we are a blank check company. We intend to comply with the periodic
+reporting requirements of the Exchange Act for so long as it is subject to those requirements. 
+
+On June 20, 2021, the Corporation
+and Ng Chee Chun, an individual Purchaser entered into that certain Share Sale Agreement pursuant to which the Corporation
+sold to the Purchaser all shares of MMT held by the Corporation in consideration of Malaysia Ringgit One Thousand. The sale consummated
+and was registered with the Malaysian Government pursuant to Section 51 of the Companies Act 2016 on August 24, 2021. As a result, MMT
+is no longer a subsidiary of the Corporation. 
+
+On September 27, 2021, the
+Corporation, certain sellers of shares of our common stock, including our sole executive officer and director Shiong Han Wee (collectively,
+the Sellers ), and Moto America, Inc.(the Buyer entered into a Sale and Purchase Agreement dated September
+24, 2021, pursuant to which the Buyer agreed to purchase from the Sellers an aggregate of 436,482,690 shares of common stock of the Company
+(the Common Shares and 10,000,000 shares of Series A Preferred Convertible Stock (the Preferred Shares ).
+The Preferred Stock will be issued to Shiong Han Wee as payment in full of all amounts owed by the Company to Mr. Wee. The sale of the
+Common Shares and the Preferred Shares is expected to consummate in the near future. The securities were sold pursuant to the exemption
+provided by Section 4(a)(2) of the Securities Act of 1933, as amended, and Regulation D promulgated thereunder. 
+
+7 
+
+In connection with the sale
+of such securities, all of the executive officers and directors of the Corporation will resign from their positions with the Corporation
+and the following individuals will be appointed to serve in the capacities set forth next to their names as described below: 
+
+Name 
+ Position 
+ 
+ Vance Harrison 
+ Chief Executive Officer, President and Director 
+ 
+ Terina Liddiard 
+ Chief Financial Officer, Secretary and Director 
+ 
+ Taylor Brody 
+ Chief Marketing Officer and Director 
+
+All executive officers and directors will also forgive
+or waive all liabilities due to them from us in connection with such change in control. 
+
+As of the date of this Annual
+Report, we have not entered into any binding agreement with any party regarding acquisition opportunities for us. We hope to continue
+to engage in discussions with other operating businesses affiliated with our executive officers regarding potential acquisition opportunities.
+There is no assurance that any nonbinding term sheet will result into a definitive purchase transaction nor can we assure you that we
+will be able to successfully acquire such company or any company in the near future. 
+
+Financial Condition; Going Concern 
+
+We have had limited operations
+and have been issued a going concern opinion by our auditor, based upon our reliance on the sale of our common stock and
+loans from a related party, as the sole source of funds for our future operations. We have no assurance that future financing will be
+available to us on acceptable terms, or at all. If financing is not available on satisfactory terms, we may be unable to continue, develop
+or expand our operations. Equity financing could result in additional dilution to existing shareholders. If we are unable to raise additional
+capital to maintain our operations in the future, we may be unable to carry out our full business plan or we may be forced to cease operations. 
+
+Our financial statements
+have been prepared on a going concern basis which assumes the Company will be able to realize its assets and discharge its liabilities
+in the normal course of business for the foreseeable future. As of July 31, 2021, the Company had working capital deficit of (2,321,872)
+and has incurred losses since its inception resulting in an accumulated deficit of (7,667,225). Further losses are anticipated in the
+development of the business, raising substantial doubt about the Company s ability to continue as a going concern. The financial
+statements do not include any adjustment that might result from the outcome of this uncertainty. 
+
+The ability to continue as
+a going concern is dependent upon the Company generating profitable operations in the future and/or to obtain the necessary financing
+to meet its obligations and repay its liabilities arising from normal business operations when they come due. Management intends to finance
+operating costs over the next twelve months with loans from directors and/or private placements of common stock. 
+
+Results of Operations. 
+
+Comparison of the years
+ended July 31, 2021 and 2020 
+
+The following table sets
+forth certain operational data for the years ended July 31, 2021, and 2020: 
+
+For the Years Ended July 31, 
+
+2021 
+ 2020 
+ 
+ Revenue 
+ 
+ 65,690 
+ 
+ Cost of revenue 
+
+Gross Margin 
+ 
+ 65,690 
+
+Other Income 
+ (1,523 
+ 10,794 
+
+General and administrative expense 
+ (27,199 
+ (1,179,650 
+ 
+ Loss before tax 
+ (28,722 
+ (1,103,166 
+
+Taxation 
+
+Loss after tax 
+ (28,722 
+ (1,103,166 
+
+Translation adjustment 
+ (19,451 
+ 38,546 
+
+Net Loss 
+ (48,173 
+ (1,064,620 
+
+8 
+
+Net Revenue . We generated
+revenues of Nil and 65,690 during the fiscal year ended July 31, 2021 and 2020, respectively. Our revenues are generally derived from
+the provision of IT service fees. The zero net revenues in FY 2021 is attributable to the cessation of all operations. 
+
+During the twelve months
+ended July 31, 2020, the following customers accounted for 10 or more of our total net revenues: 
+
+Year ended July 31, 2020 
+ July 31, 2020 
+
+Revenues 
+ Percentage of revenues 
+ Accounts receivable 
+ 
+ East Cloud Sdn Bhd 
+ 16,470 
+ 25 
+
+Creative Property Management Sdn Bhd 
+ 6,390 
+ 10 
+
+MIG Network Consultancy Sdn Bhd 
+ 15,042 
+ 23 
+
+TOTAL 
+ 37,902 
+ 58 
+
+East Cloud Sdn Bhd, Creative Property Management
+Sdn Bhd and MIG Network Consultancy Sdn Bhd are affiliated with our executive officers and directors, Shiong Han Wee and Kwueh
+Lin Wong. 
+
+Gross Margin . We generated
+a gross margin of Nil and 65,690 for the fiscal years ended July 31, 2021, and 2020, respectively. The zero gross margin was attributable
+to the cessation of all operations. 
+
+Operating Expenses .
+During the fiscal year ended July 31, 2021, and 2020, we incurred operating and administrative expenses of 27,199 and 1,179,650 respectively.
+The decrease in operating and administrative expenses is attributable to the provision of contingent liability and the shutdown cost
+incurred in the fiscal year 2020. 
+
+During the twelve months
+ended July 31, 2021 and 2020, no vendors accounted for 10 or more of our total operating costs. 
+
+Income Tax Expense .
+There is no income tax expense recorded for the fiscal year ended July 31, 2021 and 2020. 
+
+Net Loss . We recorded
+a net loss of 48,173 and 1,064,620 for the fiscal years ended July 31, 2021, and 2020, respectively. The decrease in net loss is due
+to the provision of contingent liability and the shutdown cost incurred in the fiscal year 2020. 
+
+Liquidity and Capital Resources 
+
+As of July 31, 2021, we had
+current assets of 542 and current liabilities of 2,322,414. Our current assets consisted of 542 of cash and cash equivalent. Our current
+liabilities consisted 85,956 of trade payables, 967,189 of other payables and accruals, 1,248,070 of amount due to related parties
+and 21,199 of tax provision. 
+
+As of July 31, 2020, we had
+current assets of 544 and current liabilities of 2,274,336. Our current assets consisted of 544 of cash and cash equivalent. Our current
+liabilities consisted 83,458 of trade payables, 933,410 of other payables and accruals, 1,236,274 of amount due to related parties
+and 21,194 of tax provision. 
+
+9 
+
+Stockholders equity
+decreased from a deficit of 2,282,935 as of July 31, 2020, to a deficit of 2,331,108. 
+
+Net Cash Used In Operating
+Activities 
+
+Net cash used in operating
+activities was (2) for the year ended July 31, 2021, and consisted primarily of net loss of 28,722, a decrease in foreign translation
+reserve of (19,451), a decrease in amount due to directors of 11,796, an increase in other payables and accrued liabilities of 33,877,
+amount due to related parties of 11,796 and account payables of 2,498 . 
+
+Net cash used in operating
+activities was (2,925) for the year ended July 31, 2020, and consisted primarily of net loss of 1,103,166, an increase in plant and
+equipment written off of 68,247, an increase in foreign translation reserve of 7,092, a decrease in trade receivables of 11,696, a
+decrease in other receivables, deposits and prepayments, a decrease in amount due to directors of 52,869, an increase in other payables
+and accrued liabilities of 734,308, offset against a decrease in depreciation of plant and equipment of 16,687, amount due to related
+parties of 200,110 and account payables of 9,258 . 
+
+Net Cash Used In Investing
+Activities 
+
+There is no net cash used
+in investing activities for fiscal year ended July 31, 2021. 
+
+Net cash used in investing
+activities for the fiscal year ended July 31, 2020 was 126, consisting of proceeds from the disposal of property and equipment. 
+
+Net Cash Generated From
+Financing Activities 
+
+There is no net cash generated
+from financing activities for the fiscal years ended July 31, 2021, and 2020. 
+
+We have never paid dividends
+on our Common Stock. Our present policy is to apply cash to investments in product development, acquisitions or expansion; consequently,
+we do not expect to pay dividends on Common Stock in the foreseeable future. 
+
+The success of our business
+plan is dependent upon the availability of additional capital resources on terms satisfactory to management as we are not generating
+sufficient revenues from our business operations. Our sources of capital in the past have included the sale of equity securities, which
+include common stock sold in private transactions and public offerings, capital leases and long-term debt. There can be no assurance
+that we can raise such additional capital resources on satisfactory terms. At this moment, we do not have enough cash and other sources
+of liquidity to support operations for the next 12 months. We anticipate continuing to rely on equity sales of our common shares and
+shareholder loans in order to continue to fund our business operations. Issuances of additional shares will result in dilution to our
+existing shareholders. There is no assurance that we will achieve any additional sales of our equity securities or arrange for debt or
+other financing to fund our plan of operations. 
+
+Off-Balance Sheet Arrangements 
+
+We have no outstanding off-balance
+sheet guarantees, interest rate swap transactions or foreign currency contracts. We do not engage in trading activities involving non-exchange
+traded contracts. 
+
+10 
+
+Critical Accounting Policies and Estimates 
+
+The preparation of financial
+statements in conformity with accounting principles generally accepted in the United States requires our management to make assumptions,
+estimates and judgments that affect the amounts reported, including the notes thereto, and related disclosures of commitments and contingencies,
+if any. We have identified certain accounting policies that are significant to the preparation of our financial statements. These accounting
+policies are important for an understanding of our financial condition and results of operations. Critical accounting policies are those
+that are most important to the presentation of our financial condition and results of operations and require management's subjective or
+complex judgment, often as a result of the need to make estimates about the effect of matters that are inherently uncertain and may change
+in subsequent periods. Certain accounting estimates are particularly sensitive because of their significance to financial statements and
+because of the possibility that future events affecting the estimate may differ significantly from management's current judgments. 
+
+Use of estimates 
+
+The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts
+of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+
+Revenue recognition 
+
+Revenue is recognized when a customer obtains
+control of promised goods or services and is recognized in an amount that reflects the consideration that an entity expects to receive
+in exchange for those goods or services. In addition, the standard requires disclosure of the nature, amount, timing, and uncertainty
+of revenue and cash flows arising from contracts with customers. The amount of revenue that is recorded reflects the consideration that
+the Company expects to receive in exchange for those goods. The Company applies the following five-step model in order to determine this
+amount: (i) identification of the promised goods in the contract; (ii) determination of whether the promised goods are performance obligations,
+including whether they are distinct in the context of the contract; (iii) measurement of the transaction price, including the constraint
+on variable consideration; (iv) allocation of the transaction price to the performance obligations; and (v) recognition of revenue when
+(or as) the Company satisfies each performance obligation. 
+
+Fair value Measurements 
+
+Fair value is the price that would be received
+from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Fair
+value is estimated by applying the following hierarchy, which prioritize the inputs used to measure fair value into three levels and bases
+the categorization with the hierarchy upon the lowest level of input that is available and significant to the fair value measurement. 
+
+The fair value hierarchy consists of three broad
+levels, which gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (Level 1) and
+the lowest priority to unobservable inputs (Level 3). 
+
+The three levels of the fair value hierarchy under
+ASC 820 are described below: 
+
+Level 1 - 
+ Unadjusted quoted prices in active markets that are accessible at the measurement date for identical, unrestricted assets or liabilities. 
+
+Level 2 - 
+ Inputs, other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly, including quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets or liabilities in markets that are not active; inputs other than quoted prices that are observable for the asset or liability (e.g. interest rates); and inputs that are derived principally from or corroborated by observable market data by correlation or other means. 
+
+Level 3 - 
+ Inputs that are both significant to the fair value measurement and unobservable. 
+
+11 
+
+The Company s cash and cash equivalents
+and short-term investments are classified within Level 1 of the fair value hierarchy because they are valued using quoted market prices.
+The carrying amounts of accounts payable, advances payable and short-term loans approximate their fair value due to short term maturities. 
+
+Foreign currencies translation 
+
+Transactions denominated in currencies other than
+the functional currency are translated into the functional currency at the exchange rates prevailing at the dates of the transaction.
+Monetary assets and liabilities denominated in currencies other than the functional currency are translated into the functional currency
+using the applicable exchange rates at the balance sheet dates. The resulting exchange differences are recorded in the statement of operations. 
+
+The functional currency of the Company is the
+United States Dollars US and the accompanying financial statements have been expressed in US . In addition, the subsidiary
+maintains its books and record in a local currency, Malaysian Ringgit MYR or RM ), which is functional currency
+as being the primary currency of the economic environment in which the entity operates. 
+
+In general, for consolidation purposes, assets
+and liabilities of its subsidiaries whose functional currency is not US are translated into US , in accordance with ASC Topic 830-30,
+ Translation of Financial Statement , using the exchange rate on the balance sheet date. Revenues and expenses are translated
+at average rates prevailing during the period. The gains and losses resulting from translation of financial statements of foreign subsidiary
+are recorded as a separate component of other comprehensive income. The Company has not to, the date of these financial statements, entered
+into derivative instruments to offset the impact of foreign currency fluctuations. 
+
+Translation of amounts from the local currency
+of the Company into US 1 has been made at the following exchange rates for the respective years: 
+
+For the Years Ended July
+ 31, 
+
+2021 
+
+2020 
+
+Year-end MYR: US 1 exchange rate 
+
+4.2225 
+
+4.2657 
+
+Yearly average MYR: US 1 exchange rate 
+
+4.1205 
+
+4.2197 
+
+Recent accounting pronouncements 
+
+In February 2016, the FASB issued ASU 2016-02,
+ Leases (Topic 842) . ASU 2016-02 requires lessees to recognize lease assets and lease liabilities on the balance sheet and
+requires expanded disclosures about leasing arrangements. ASU 2016-02 is effective for fiscal years beginning after December 15, 2018
+and interim periods in fiscal years beginning after December 15, 2018, with early adoption permitted. The Company has adopted this
+accounting standard update. 
+
+On June 20, 2018, the Financial Accounting Standards
+Board (FASB) issued Accounting Standards Update (ASU) 2018-07, Compensation Stock Compensation (Topic 718): Improvements
+to Nonemployee Share-Based Payment Accounting . ASU 2018-07 is intended to reduce cost and complexity and to improve financial reporting
+for share-based payments to nonemployees (for example, service providers, external legal counsel, suppliers, etc.). Under the new standard,
+companies will no longer be required to value non-employee awards differently from employee awards. Meaning that companies will value
+all equity classified awards at their grant-date under ASC718 and forgo revaluing the award after this date. The guidance is effective
+for interim and annual periods beginning after December 15, 2018. 
+
+12 
+
+In November 2019, the FASB issued ASU 2019-10,
+Financial Instruments Credit Losses (Topic 326), Derivative and Hedging (Topic 815, and Leases (Topic 841). This new guidance will
+be effective for annual reporting periods beginning after December 15, 2019, including interim periods within those annual reporting periods.
+While the Company is continuing to assess the potential impacts of ASU 2019-10, it does not expect ASU 2019-10 to have a material effect
+on its financial statements. 
+
+The Company has implemented all new accounting
+pronouncements that are in effect. These pronouncements did not have any material impact on the financial statements unless otherwise
+disclosed, and the Company does not believe that there are any other new accounting pronouncements that have been issued that might have
+a material impact on its financial position or results of operations. 
+
+ITEM 7A. Quantitative and Qualitative Disclosures About
+Market Risk. 
+
+We are a smaller reporting
+company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+
+ITEM 8. Financial
+Statements and Supplementary Data. 
+
+WECONNECT TECH INTERNATIONAL,
+INC. 
+
+ Table of Contents 
+
+Page 
+ 
+ Report of Independent Registered Public Accounting Firm 
+ F-1 
+
+Consolidated Balance Sheets as of July 31, 2020 and 2019 
+ F-2 
+
+Consolidated Statements of Operations for the years ended July 31, 2020 and 2019 
+ F-3 
+
+Consolidated Statements of Shareholders Equity for the years ended July 31, 2020 and 2019 
+ F-4 
+
+Consolidated Statements of Cash Flows for years ended July 31, 2020 and 2019 
+ F-5 
+
+Notes to the Consolidated Financial Statements 
+ F-6 - F-13 
+
+13 
+
+Report of Independent Registered Public Accounting
+Firm 
+
+ To the shareholders and
+the board of directors of WeConnect Tech International, Inc. 
+
+Opinion on the Financial Statements 
+
+ We have audited the accompanying balance sheets
+of WeConnect Tech International Inc (the Company as of July 31, 2021, the related consolidated statements
+of operations, changes in shareholders' equity and cash flows , for each of the two years in the period ended July 31, 2021, and
+the related notes collectively referred to as the financial statements 
+
+In our opinion, the financial statements present
+fairly, in all material respects, the financial position of the Company as of July 31, 2021, and the results of its operations and its
+cash flows for the year ended July 31, 2021, in conformity with U.S. generally accepted accounting principles. 
+
+Going Concern 
+
+ The accompanying financial statements have been
+prepared assuming the company will continue as a going concern as disclosed in Note 5 to the financial statement, the Company has continuously
+incurred a net operating loss of 28,722 for the year ended July 31, 2021, and an accumulated deficit of 7,667,225 at July 31, 2021.
+The continuation of the Company as a going concern through July 31, 2021, is dependent upon improving the profitability and the continuing
+financial support from its stockholders. Management believes the existing shareholders or external financing will provide the additional
+cash to meet the Company s obligations as they become due. 
+
+These factors raise substantial doubt about the
+company ability to continue as a going concern. These financial statements do not include any adjustments that might result from the outcome
+of the uncertainty. 
+
+Basis for Opinion 
+
+ These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We
+are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. We conducted our audits in accordance with the standards of the PCAOB.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free
+of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement
+of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included
+examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating
+the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial
+statements. We believe that our audits provide a reasonable basis for our opinion. . The company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal
+control over financial reporting. Accordingly, we express no such opinion 
+
+Critical Audit Matters 
+
+ Critical audit matters communicated below are
+matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the
+audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially
+challenging, subjective, or complex judgments. We determined that there are no critical audit matter. 
+
+OLAYINKA OYEBOLA CO. 
+
+ (Chartered Accountants) 
+
+We have served as the Company's auditor since April 2021. 
+
+ October 25 th , 2021. 
+
+Lagos Nigeria 
+
+F- 1 
+
+WECONNECT TECH INTERNATIONAL,
+INC. 
+
+ CONSOLIDATED BALANCE SHEETS 
+
+July 31, 2021 
+ July 31, 2020 
+
+ASSETS 
+
+Current Assets: 
+
+Cash 
+ 542 
+ 544 
+ 
+ Total Current Assets 
+ 542 
+ 544 
+
+Property and Equipment, net 
+
+Total Assets 
+ 542 
+ 544 
+
+LIABILITIES AND SHAREHOLDERS EQUITY 
+
+Current Liabilities: 
+
+Accounts Payable 
+ 85,956 
+ 83,458 
+ 
+ Other Payable and Accrued Liabilities 
+ 967,189 
+ 933,410 
+ 
+ Amount due to Related Party 
+ 1,248,070 
+ 1,236,274 
+ 
+ Current tax liabilities 
+ 21,199 
+ 21,194 
+ 
+ Total Current Liabilities 
+ 2,322,414 
+ 2,274,336 
+
+Deferred tax 
+ 9,236 
+ 9,143 
+ 
+ Total Liabilities 
+ 2,331,650 
+ 2,283,479 
+
+Shareholders Equity: 
+
+Common Stock 593,610,070 shares issued and outstanding as of July 31, 2020 and 2019 respectively 
+ 593,610 
+ 593,610 
+ 
+ Additional paid-up share capital 
+ 4,958,781 
+ 4,958,781 
+ 
+ Accumulated loss 
+ (7,667,225 
+ (7,638,503 
+ 
+ Other comprehensive loss 
+ (216,274 
+ (196,823 
+ 
+ Total Owners Equity 
+ (2,331,108 
+ (2,282,935 
+ 
+ Total Liabilities and Owners Equity 
+ 542 
+ 544 
+
+The accompanying
+notes are an integral part of these consolidated financial statements. 
+
+F- 2 
+
+WECONNECT TECH INTERNATIONAL, INC. 
+
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+For the Years Ended July 31, 
+
+2021 
+ 2020 
+ 
+ Revenue 
+ 
+ 65,690 
+ 
+ Cost of Revenue 
+
+Gross Margin 
+ 
+ 65,690 
+
+Other Income / (Expense) 
+ (1,523 
+ 10,794 
+
+General and Administrative Expense 
+ (27,199 
+ (1,179,650 
+ 
+ Loss before tax 
+ (28,722 
+ (1,103,166 
+
+Taxation 
+
+Net Loss 
+ (28,722 
+ (1,103,166 
+ 
+ Other Comprehensive Loss: 
+
+Translation adjustment 
+ 19,451 
+ 38,546 
+
+(48,173 
+ (1,064,620 
+
+Comprehensive Loss 
+ (48,173 
+ (1,064,620 
+
+Income per share 
+ 0.00 
+ 0.00 
+ 
+ Weighted average shares outstanding 
+ 593,610,070 
+ 593,610,070 
+
+The accompanying
+notes are an integral part of these consolidated financial statements. 
+
+F- 3 
+
+WECONNECT TECH INTERNATIONAL, INC. 
+
+ CONSOLIDATED
+STATEMENT OF SHAREHOLDERS EQUITY 
+
+ July 31,
+2021, and 2020 
+
+Common Stock 
+ Additional Paid in 
+ Other Comprehensive 
+ Retained 
+
+Shares 
+ Amount 
+ Capital 
+ Loss 
+ Earnings 
+ Total 
+ 
+ Balance, August 1, 2019 
+ 593,610,070 
+ 593,610 
+ 4,958,781 
+ (235,369 
+ (6,535,337 
+ (1,218,315 
+ 
+ Net Loss for the year 
+
+(1,103,166 
+ (1,103,166 
+ 
+ Translation Adjustment 
+
+38,546 
+ 
+ 38,546 
+ 
+ Balance, July 31, 2020 
+ 593,610,070 
+ 593,610 
+ 4,958,781 
+ (196,823 
+ (7,638,503 
+ (2,282,935 
+ 
+ Net loss for the year 
+
+(28,722 
+ (28,722 
+ 
+ Translation Adjustment 
+
+(19,451 
+ 
+ (19,451 
+ 
+ Balance, July 31, 2021 
+ 593,610,070 
+ 593,610 
+ 4,958,781 
+ (216,274 
+ (7,667,225 
+ (2,331,108 
+
+The accompanying
+notes are an integral part of these consolidated financial statements. 
+
+F- 4 
+
+WECONNECT TECH INTERNATIONAL, INC. 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+For the Years Ended July 31, 
+
+2021 
+ 2020 
+ 
+ Cash Flows from Operating Activities: 
+
+Net Loss 
+ (28,722 
+ (1,103,166 
+ 
+ Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation 
+ 
+ 16,687 
+ 
+ Impairment of deposit 
+
+Inventory written off 
+
+Plant Equipment written off 
+ 
+ 68,247 
+ 
+ Gain on Disposal of Asset 
+ 
+ (26 
+ 
+ Foreign translation reserve 
+ (19,451 
+ 7,092 
+ 
+ Operation loss 
+ (48,173 
+ (1,011,166 
+ 
+ Changes in operating assets and liabilities 
+
+Account receivables 
+ 
+ 11,696 
+ 
+ Other receivables, deposit, and prepayments 
+ 
+ 52,869 
+ 
+ Amount due to directors 
+
+Due to related party 
+ 11,796 
+ 200,110 
+ 
+ Account payable 
+ 2,498 
+ 9,258 
+ 
+ Other payables and accrued liabilities 
+ 33,877 
+ 734,308 
+ 
+ Net cash provided by operations 
+ (2 
+ (2,925 
+
+Cash Flows from Investing Activities: 
+
+Purchase of property and equipment 
+
+Proceed from disposal of property and equipment 
+ 
+ 126 
+ 
+ Funds placed in escrow 
+
+Net cash used in investing activities 
+ 
+ 126 
+
+Cash Flows from Financing Activities: 
+
+Proceeds from issuance of share capital 
+
+Payment on loan payable 
+
+Net cash provided by financing activities 
+
+Foreign currency translation adjustment 
+
+Net increase (decrease) in cash 
+ (2 
+ (2,799 
+ 
+ Cash at Beginning of Year 
+ 544 
+ 3,343 
+ 
+ Cash at End of Year 
+ 542 
+ 544 
+
+Supplemental Disclosure of non-cash activity: 
+
+Interest paid 
+
+Taxes paid 
+
+The accompanying
+notes are an integral part of these consolidated financial statements. 
+
+F- 5 
+
+WECONNECT TECH INTERNATIONAL, INC. 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+ JULY 31,
+2021 
+
+NOTE 1 - ORGANIZATION AND
+BASIS OF PRESENTATION 
+
+WECONNECT Tech International Inc. was incorporated
+under the laws of the State of Nevada on April 25, 2007. For purposes of financial statements presentation, WECONNECT Tech International
+Inc. and its subsidiary are herein referred to as the Company or We . 
+
+Our business office was located at 25, Jalan Puteri
+7/15, Bandar Puteri, 47100 Puchong, Selangor, Malaysia. 
+
+On June 8, 2018, we acquired approximately 99.662 
+equity interest of MIG Mobile Tech Bhd, a public limited company incorporated in Malaysia. MIG Mobile Tech Bhd is mainly engaged in e-commerce,
+online to offline marketplace and payment eco-system. This transaction was accounted for as a transaction among entities under common
+control and the assets, liabilities, revenues, and expenses of MIG Mobile Tech Bhd were carried over to and combined with the Company
+at historical cost, and as if the transfer occurred at the beginning of the period. We have conducted our business through MIG Mobile
+Tech Bhd since then. 
+
+Details of the Company s subsidiary: 
+
+No 
+ 
+ Company 
+Name 
+ 
+ Place and date of 
+Incorporation 
+ 
+ Particulars of 
+issued capital 
+ 
+ Principal 
+activities 
+
+1 
+ 
+ MIG Mobile Tech Bhd 
+ 
+ Malaysia 
+Oct 1, 2015 
+ 
+ 50,000,000 
+ordinary shares 
+ 
+ E-commerce, online to offline Marketplace and payment eco-system 
+
+NOTE
+2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis of presentation 
+
+ The Company s consolidated financial statements
+have been prepared in accordance with accounting principles generally accepted in the United States of America U.S. GAAP ). 
+
+Use of estimates 
+
+ The preparation of financial statements in conformity
+with generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts
+of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+
+Concentrations of Credit Risk 
+
+ We maintain our cash in bank deposit accounts,
+the balances of which at times may exceed federally insured limits. We continually monitor our banking relationships and consequently
+have not experienced any losses in our accounts. We believe we are not exposed to any significant credit risk on cash. 
+
+Cash equivalents 
+
+ The Company considers all highly liquid investments
+with a maturity of three months or less when purchased to be cash equivalents. There were no cash equivalents for the years ended July
+31, 2020 or 2019. 
+
+F- 6 
+
+Inventories 
+
+ Inventories are valued at the lower of cost or
+net realizable value. In general cost is determined by applying either the first in first out (FIFO) or percentages mark-up to the selling
+price valuations for the inventory item. Net realizable value is the estimated selling price in the ordinary course of business, less
+selling expenses. Allowances is made for obsolete, slow moving and defective inventories. All of the Company s inventories consists
+of merchandise held for sale. 
+
+Net income (loss) per common share 
+
+ Net income (loss) per common share is computed
+pursuant to section 260-10-45 of the FASB Accounting Standards Codification. Basic net income (loss) per common share is computed
+by dividing net income (loss) by the weighted average number of shares of common stock outstanding during the period. Diluted net income
+(loss) per common share is computed by dividing net income (loss) by the weighted average number of shares of common stock and potentially
+outstanding shares of common stock during the period. The weighted average number of common shares outstanding and potentially outstanding
+common shares assumes that the Company incorporated as of the beginning of the first period presented. There are no potentially dilutive
+shares of common stock. 
+
+Revenue recognition 
+
+ Revenue is recognized when a customer obtains
+control of promised goods or services and is recognized in an amount that reflects the consideration that an entity expects to receive
+in exchange for those goods or services. In addition, the standard requires disclosure of the nature, amount, timing, and uncertainty
+of revenue and cash flows arising from contracts with customers. The amount of revenue that is recorded reflects the consideration that
+the Company expects to receive in exchange for those goods. The Company applies the following five-step model in order to determine this
+amount: (i) identification of the promised goods in the contract; (ii) determination of whether the promised goods are performance
+obligations, including whether they are distinct in the context of the contract; (iii) measurement of the transaction price, including
+the constraint on variable consideration; (iv) allocation of the transaction price to the performance obligations; and (v) recognition
+of revenue when (or as) the Company satisfies each performance obligation. 
+
+Comprehensive Income 
+
+ ASC Topic 220, Comprehensive Income 
+establishes standards for reporting and display of comprehensive income, its components and accumulated balances. Comprehensive income
+as defined includes all changes in equity during a period from non-owner sources. Accumulated other comprehensive income, as presented
+in the accompanying statements of stockholders equity consists of changes in unrealized gains and losses on foreign currency translation
+and cumulative net change in the fair value of available-for-sale investments held at the balance sheet date. This comprehensive income
+is not included in the computation of income tax expense or benefit. 
+
+Accounts receivable 
+
+ Accounts receivable, which generally have thirty-day
+terms are recognized and carried at original invoice amount, less an allowance for uncollectible amounts, if applicable. 
+
+The Company maintains an allowance for doubtful
+accounts at a level considered adequate to provide for potential uncollectible receivables. The level of this allowance is evaluated by
+management based on collection experience and other factors affecting the accounts such as customer relationship and market factors. 
+
+Taxes 
+
+ Potential benefits of income tax losses are not
+recognized in the accounts until realization is more likely than not. The Company computes tax asset benefits for net operating losses
+carried forward. The potential benefits of net operating losses have not been recognized in these financial statements because the Company
+cannot be assured it is more likely than not it will utilize the net operating losses carried forward in future year. 
+
+The company conducts major businesses in Malaysia
+and is subject to tax in their own jurisdiction. As a result of its business activities, the company will file separate tax returns that
+are subject to examination by the foreign tax authorities. 
+
+F- 7 
+
+Fair
+Value Measurements 
+
+ Fair value
+is the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants
+at the measurement date. Fair value is estimated by applying the following hierarchy, which prioritize the inputs used to measure
+fair value into three levels and bases the categorization with the hierarchy upon the lowest level of input that is available and significant
+to the fair value measurement. 
+
+The fair
+value hierarchy consists of three broad levels, which gives the highest priority to unadjusted quoted prices in active markets for identical
+assets or liabilities (Level 1) and the lowest priority to unobservable inputs (Level 3). 
+
+The three
+levels of the fair value hierarchy under ASC 820 are described below: 
+
+Level 1
+- Unadjusted quoted prices in active markets that are accessible at the measurement date for identical, unrestricted assets or liabilities. 
+
+Level 2
+- Inputs, other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly,
+including quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets or liabilities
+in markets that are not active; inputs other than quoted prices that are observable for the asset or liability (e.g. interest rates);
+and inputs that are derived principally from or corroborated by observable market data by correlation or other means. 
+
+Level 3
+- Inputs that are both significant to the fair value measurement and unobservable. 
+
+The Company s
+cash and cash equivalents and short-term investments are classified within Level 1 of the fair value hierarchy because they are valued
+using quoted market prices. The carrying amounts of accounts payable, advances payable and short-term loans approximate their fair
+value due to short term maturities. 
+
+Recently issued accounting pronouncements 
+
+ In February 2016, the FASB issued ASU 2016-02,
+ Leases (Topic 842) . ASU 2016-02 requires lessees to recognize lease assets and lease liabilities on the balance sheet and
+requires expanded disclosures about leasing arrangements. ASU 2016-02 is effective for fiscal years beginning after December 15, 2018
+and interim periods in fiscal years beginning after December 15, 2018, with early adoption permitted. The Company has adopted this
+accounting standard update. 
+
+On June 20, 2018, the Financial Accounting Standards
+Board (FASB) issued Accounting Standards Update (ASU) 2018-07, Compensation Stock Compensation (Topic 718): Improvements
+to Nonemployee Share-Based Payment Accounting . ASU 2018-07 is intended to reduce cost and complexity and to improve financial reporting
+for share-based payments to nonemployees (for example, service providers, external legal counsel, suppliers, etc.). Under the new standard,
+companies will no longer be required to value non-employee awards differently from employee awards. Meaning that companies will value
+all equity classified awards at their grant-date under ASC718 and forgo revaluing the award after this date. The guidance is effective
+for interim and annual periods beginning after December 15, 2018. 
+
+In November 2019, the FASB issued ASU 2019-10,
+Financial Instruments Credit Losses (Topic 326), Derivative and Hedging (Topic 815, and Leases (Topic 841). This new guidance will
+be effective for annual reporting periods beginning after December 15, 2019, including interim periods within those annual reporting periods.
+While the Company is continuing to assess the potential impacts of ASU 2019-10, it does not expect ASU 2019-10 to have a material effect
+on its financial statements. 
+
+F- 8 
+
+The Company has implemented all new accounting
+pronouncements that are in effect. These pronouncements did not have any material impact on the financial statements unless otherwise
+disclosed, and the Company does not believe that there are any other new accounting pronouncements that have been issued that might have
+a material impact on its financial position or results of operations. 
+
+Foreign currency translation 
+
+ Transactions denominated in currencies other than
+the functional currency are translated into the functional currency at the exchange rates prevailing at the dates of the transaction.
+Monetary assets and liabilities denominated in currencies other than the functional currency are translated into the functional currency
+using the applicable exchange rates at the balance sheet dates. The resulting exchange differences are recorded in the statement of operations. 
+
+The functional currency of the Company is the
+United States Dollars US and the accompanying financial statements have been expressed in US . In addition, the subsidiary
+maintains its books and record in a local currency, Malaysian Ringgit MYR or RM ), which is functional currency
+as being the primary currency of the economic environment in which the entity operates. 
+
+In general, for consolidation purposes, assets
+and liabilities of its subsidiaries whose functional currency is not US are translated into US , in accordance with ASC Topic 830-30,
+ Translation of Financial Statement , using the exchange rate on the balance sheet date. Revenues and expenses are translated
+at average rates prevailing during the period. The gains and losses resulting from translation of financial statements of foreign subsidiary
+are recorded as a separate component of other comprehensive income. The Company has not to, the date of these financial statements, entered
+into derivative instruments to offset the impact of foreign currency fluctuations. 
+
+Translation of amounts from the local currency
+of the Company into US 1 has been made at the following exchange rates for the respective years: 
+
+For the Years Ended July 31, 
+
+2021 
+ 2020 
+ 
+ Year-end MYR: US 1 exchange rate 
+ 4.2225 
+ 4.2657 
+
+Yearly average MYR: US 1 exchange rate 
+ 4.1205 
+ 4.2197 
+
+NOTE 3 PROPERTY AND
+EQUIPMENT 
+
+Property and Equipment are first recorded at cost.
+Depreciation is computed using the straight-line method over the estimated useful lives of the various classes of assets. 
+
+Long lived assets, including property and equipment,
+to be held and used by the Company are reviewed for impairment whenever events or changes in circumstances indicate that the carrying
+value of the assets may not be recoverable. Impairment losses are recognized if expected future cash flows of the related assets are less
+than their carrying values. Measurement of an impairment loss is based on the fair value of the asset. Long-lived assets to be disposed
+of are reported at the lower of carrying amount or fair value less cost to sell. 
+
+Maintenance and repair expenses, as incurred,
+are charged to expense. Betterments and renewals are capitalized in plant and equipment accounts. Cost and accumulated depreciation applicable
+to items replaced or retired are eliminated from the related accounts with any gain or loss on the disposition included as income. 
+
+F- 9 
+
+Property and equipment stated at cost, less accumulated
+depreciation consisted of the following: 
+
+July 31, 2021 
+ July 31, 2020 
+ 
+ Computer Hardware 
+ 34,064 
+ 34,064 
+ 
+ Computer Software 
+ 14,340 
+ 14,340 
+ 
+ Furniture and Fittings 
+ 22,557 
+ 22,557 
+ 
+ Office Equipment 
+ 13,178 
+ 13,178 
+ 
+ Telecommunication 
+ 5,335 
+ 5,335 
+ 
+ Renovation 
+ 54,317 
+ 54,317 
+ 
+ Signboard 
+ 1,503 
+ 1,503 
+ 
+ Security and alarm system 
+ 2,150 
+ 2,150 
+
+147,444 
+ 147,444 
+ 
+ Asset Written Off 
+ (68,247 
+ (68,247 
+ 
+ Disposal 
+ (126 
+ (126 
+ 
+ Less: accumulated depreciation 
+ (79,071 
+ (79,071 
+ 
+ Property and equipment, net 
+
+Depreciation expense 
+
+ Depreciation expense for the years ended July
+31, 2021 and 2020 was 0 and 0, respectively. 
+
+On May 31 2020, due to the closing down of the
+operating office of the subsidiary in Malaysia, Management carried out an impairment test on its fixed asset and realized its fixed asset
+has no recoverable value hence, write off. 
+
+NOTE 4 RELATED PARTY TRANSACTIONS 
+
+The Company, in the regular conduct of business,
+has entered transaction with related parties in the form of cash or expenses paid on behalf of the related party and rendering of services.
+All advances are unsecured, due on demand and non-interest bearing. 
+
+The table below show the breakdown of revenue
+generated from related party during the period: 
+
+Related Party 
+ July 31, 2019 
+ July 31, 2020 
+ July 31, 2021 
+ 
+ East Cloud Sdn Bhd 
+ 18,190 
+ 16,470 
+
+Creative Property Management 
+ 2,708 
+ 6,390 
+
+MIG 020 Berhad 
+ 19.360 
+
+MIG Network and Consultancy Sdn Bhd 
+ 16,053 
+ 15,042 
+
+Wpay International Bhd 
+ 8,948 
+
+MIG F B Sdn Bhd 
+
+65,259 
+ 37,902 
+
+F- 10 
+
+East Cloud Sdn Bhd, Creative
+Property Management Sdn Bhd, MIG O2O Berhad and MIG Network Consultancy Sdn Bhd are owned by our executive officers and directors,
+Shiong Han Wee and Kwueh Lin Wong. Messrs. Wee and Wong also serve as directors of these companies. 
+
+As of July 31, 2021 and
+2020, the Company was indebted to MIG Network Consultancy Sdn Bhd, our related company, in the amount of 1,248,070 and 1,236,274,
+respectively, for advances and expenses incurred on behalf of the Company. The amounts are included in due to related parties and are
+non-interest bearing, unsecured, and due on demand. 
+
+As of July 31, 2021 and
+2020 we recognized a total of Nil and 18,026 respectively for manpower charge back to MIG O2O Berhad, our related company, which have
+been included in the statements of operations and comprehensive (loss) income. 
+
+During the years ended July
+31, 2021 and 2020, we recognized the following transactions with MIG Network Consultancy Sdn Bhd, our related company. 
+
+2021 
+ 2020 
+ 
+ Rental paid to 
+ 
+ 16,906 
+ 
+ Legal fees paid to 
+ 
+ 6,700 
+ 
+ Payroll outsourcing paid to 
+ 
+ 729 
+
+NOTE 5 GOING CONCERN 
+
+The accompanying financial statements have been
+prepared using the going concern basis of accounting, which contemplates the realization of assets and the satisfaction of liabilities
+in the normal course of business. 
+
+As of July 31, 2020, the Company suffered an accumulated
+deficit of 7,667,225 and continuously incurred a net operating loss of 28,722 for year ended July 31, 2021. The continuation of the
+Company as a going concern through July 31, 2021 is dependent upon improving the profitability and the continuing financial support from
+its stockholders. Management believes the existing shareholders or external financing will provide the additional cash to meet the Company s
+obligations as they become due. 
+
+These and other factors raise substantial doubt
+about the Company s ability to continue as a going concern. These financial statements do not include any adjustments to reflect
+the possible future effects on the recoverability and classification of assets or the amounts and classification of liabilities that
+may result in the Company not being able to continue as a going concern. 
+
+NOTE 6 CONTINGENT
+LIABILITY 
+
+On November 12, 2018, MIG Mobile Tech Berhad,
+a subsidiary of the Company, filed a claim against Digiland Private Limited Digiland for breach of contract and misrepresentation
+arising from, among other things, Digiland s failure to perform under its supplier contract with the Company. In its suit, MIG Mobile
+Tech Berhad is seeking a return of funds previously paid to Digiland in the amount of S 800,000 Singaporean Dollars (approximately US
+ 584,000) together with a claim for damages to be assessed by the Singapore Court. Within the same suit, Digiland has filed a counterclaim
+against MIG Mobile Tech Berhad for the balance of the payment due to it under contract in the sum of S 800,000, together with a claim
+for damages to be assessed by the Singapore Court. 
+
+F- 11 
+
+Prior to the filing of the its claims against
+Digiland, the Company recognized the amount of 596,912 in receivable, deposits and prepayments. The amount is being recognized as deposit
+because the development of the application-based software has not been materialized to-date. Subsequent to the filing of its claims, the
+Company has recognized a full impairment in the amount of 596,612. 
+
+As the COVID-19 pandemic had seriously affected
+the economy and business environment worldwide, in view of the uncertainty on the recovery of the refund of deposit paid to Digiland and
+the costs of prolonging the legal proceedings in light of the Company s limited resources, the Company discontinued its proceedings
+on April 17, 2020. 
+
+On November 5, 2020, the Singapore Court awarded
+a judgment in favor of Digiland, and as a result, MIG Mobile Tech Berhad was ordered to pay: 
+
+a) 
+ The Judgment Sum of S 800,000 
+
+b) 
+ Interest on the Judgment Sum at 5.33 per annum from 29th November 2018 to the date of payment; and 
+
+c) 
+ Legal costs of the action to be taxed if not agreed. 
+
+Interest on the Judgment Sum calculated up to
+February 16, 2021 is S 94,507.38. Digiland further claimed legal cost together with disbursement in the sum of S 79,616.88. The total
+liabilities is estimated to be at S 974,124.26 and was accrued in the financial statement for the period ended July 31, 2020. No further
+liabilities were accrued in the financial statement for the period ended July 31, 2021. 
+
+On June 20, 2021, we and Ng Chee Chun, an individual Purchaser entered into that certain Share Sale Agreement pursuant to which the Corporation sold to the Purchaser all shares
+of MIG Mobile Tech Bhd held by the Corporation in consideration of Malaysia Ringgit One Thousand. The sale consummated and was registered
+with the Malaysian Government pursuant to Section 51 of the Companies Act 2016 on August 24, 2021. As a result, MIG Mobile Tech Bhd is
+no longer a subsidiary of the Corporation, and the liabilities associated with the foregoing judgment will no longer be accrued on our
+financial statements on a going forward basis. 
+
+NOTE 7 COMMITMENTS
+AND CONTINGENCIES. 
+
+When a loss contingency is not both probable and
+estimable, the Company does not establish an accrued liability. However, if the loss (or an additional loss in excess of the accrual)
+is at least a reasonable possibility and material, then the Company discloses an estimate of the possible loss or range of loss, if such
+estimate can be made or discloses that an estimate cannot be made. 
+
+The assessments whether a loss is probable or
+a reasonable possibility, and whether the loss or a range of loss is estimable, often involve a series of complex judgments about future
+events. Management is often unable to estimate a range of reasonably possible loss, particularly where (i) the damages sought are
+substantial or indeterminate, (ii) the proceedings are in the early stages, or (iii) the matters involve novel or unsettled
+legal theories or a large number of parties. In such cases, there is considerable uncertainty regarding the timing or ultimate resolution
+of such matters, therefore, no contingencies were provided as at July 31, 2021. 
+
+NOTE 8 - SUBSEQUENT EVENTS 
+
+On June 20, 2021, the Corporation
+and Ng Chee Chun, an individual Purchaser entered into that certain Share Sale Agreement pursuant to which the Corporation
+sold to the Purchaser all shares of MMT held by the Corporation in consideration of Malaysia Ringgit One Thousand. The sale consummated
+and was registered with the Malaysian Government pursuant to Section 51 of the Companies Act 2016 on August 24, 2021. As a result, MMT
+is no longer a subsidiary of the Corporation in the next fiscal year ended July 31, 2022. 
+
+F- 12 
+
+On September 27, 2021, the Corporation, certain
+sellers of shares of our common stock, including our sole executive officer and director Shiong Han Wee (collectively, the Sellers ),
+and Moto America, Inc.(the Buyer entered into a Sale and Purchase Agreement dated September 24, 2021, pursuant to which
+the Buyer agreed to purchase from the Sellers an aggregate of 436,482,690 shares of common stock of the Company (the Common Shares and 10,000,000 shares of Series A Preferred Convertible Stock (the Preferred Shares ). The Preferred Stock will be issued
+to Shiong Han Wee as payment in full of all amounts owed by the Company to Mr. Wee. The securities were sold pursuant to the exemption
+provided by Section 4(a)(2) of the Securities Act of 1933, as amended, and Regulation D promulgated thereunder. 
+
+Upon closing of the Sale
+and Purchase Agreement, all of the executive officers and directors of the Corporation will resign from their positions with the Corporation
+and the following individuals will be appointed to serve in the capacities set forth next to their names as described below: 
+
+Name 
+ Position 
+ 
+ Vance Harrison 
+ Chief Executive Officer, President and Director 
+ 
+ Terina Liddiard 
+ Chief Financial Officer, Secretary and Director 
+ 
+ Taylor Brody 
+ Chief Marketing Officer and Director 
+
+All executive officers and directors will also forgive
+and waive all liabilities due to them from us in connection with such change in control. 
+
+F- 13 
+
+ITEM 9. Changes in and
+Disagreements with Accountants on Accounting and Financial Disclosure. 
+
+None. 
+
+ITEM 9A. Controls and
+Procedures. 
+
+Disclosure Controls and Procedures 
+
+As of the end of the period
+covered by this report, our management conducted an evaluation, under the supervision and with the participation of our Chief Executive
+Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures, as such
+term is defined in Rule 13a-15(e) of the Securities Exchange Act of 1934 (the Exchange Act). Based upon that evaluation, our Chief Executive
+Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of the end of the period covered
+by this report in ensuring that information required to be disclosed was recorded, processed, summarized and reported within the time
+periods specified in the SEC s rules and forms, and to provide reasonable assurance that information required to be disclosed by
+the Company in such reports is accumulated and communicated to the Company s management, including its Chief Executive Officer and
+Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. 
+
+Management s Report on Internal Control
+over Financial Reporting 
+
+Our management is responsible
+for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rule 13a-15(f) of the
+Exchange Act. Under the supervision and with the participation of our Chief Executive Officer, and Chief Financial Officer, our management
+conducted an evaluation of the effectiveness of our internal control over financial reporting based upon the framework in Internal
+Control Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on that
+evaluation, our management concluded that our internal control over financial reporting was effective as of July 31, 2021. 
+
+This annual report does not
+include an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management s
+report was not subject to attestation by our registered public accounting firm pursuant to rules of the Securities and Exchange Commission
+that permit the Company to provide only management s report in this annual report. 
+
+Changes in Internal Control over Financial
+Reporting 
+
+During the fourth quarter
+of fiscal 2021, there were no changes in the internal control over financial reporting that materially affected, or are reasonably likely
+to materially affect, our internal control over financial reporting. 
+
+Inherent Limitations of Disclosure Controls
+and Procedures and Internal Control over Financial Reporting 
+
+It should be noted that any
+system of controls, however well designed and operated, can provide only reasonable, and not absolute, assurance that the objectives of
+the system will be met. In addition, the design of any control system is based in part upon certain assumptions about the likelihood of
+future events. 
+
+ITEM 9B. Other Information. 
+
+None. 
+
+14 
+
+PART III 
+
+ITEM 10. Directors,
+Executive Officers and Corporate Governance. 
+
+Set forth below are the
+present directors, director nominees and executive officers of the Company. There are no other persons who have been nominated or chosen
+to become directors nor are there any other persons who have been chosen to become executive officers. There are no arrangements or understandings
+between any of the directors, officers and other persons pursuant to which such person was selected as a director or an officer. Directors
+are elected to serve until the next annual meeting of stockholders and until their successors have been elected and have qualified. Officers
+are appointed to serve until the meeting of the board of directors following the next annual meeting of stockholders and until their successors
+have been elected and qualified. 
+
+Name 
+ 
+ Age 
+ 
+ Positions 
+ 
+ Shiong Han Wee 
+ 
+ 45 
+ 
+ Chief Executive Officer, Chief Financial Officer, Director 
+ 
+ Kwueh Lin Wong 
+ 
+ 45 
+ 
+ Secretary and Director 
+ 
+ Pui Hold Ho 
+ 
+ 40 
+ 
+ Director 
+ 
+ Mun Wai Wong 
+ 
+ 65 
+ 
+ Director 
+
+Set forth below is a brief
+description of the background and business experience of our executive officers and directors: 
+
+Shiong Han Wee ,
+age 45, has served as our Chief Executive Officer and director since August 29, 2017. He has over 15 years of experience as a business
+consultant and coacher to the Malaysia business community. Since 2011, Mr. Wee has served as the founder, Chief Executive Officer and
+director of the MIG Group, which are engaged in a diversified range of businesses such as real estate, mobile technology, food and beverage
+and education. From 2007 to 2009, Mr. Wee served as a director of Future Focus Academic Sdn. Bhd., an education company. Mr. Wee received
+his undergraduate degree in Business Management from the University of Bolton in the United Kingdom in 2002 and his A Levels 
+designation from the SEGI College in Kuala Lumpur, Malaysia in 1998. 
+
+Mr. Wee is the 2015 recipient
+of the Malaysia Young Entrepreneur Award. He also received the Singapore Prominent Brand Award in 2015 in connection with his work with
+MIG Network International Pte. Ltd (Singapore). Mr. Wee brings to our Board his business experience in the internet and mobile industries. 
+
+Kwueh Lin Wong ,
+age 45, has served as our Secretary and director since August 29, 2017. From August 29, 2017, to June 1, 2018, Mr. Wong also served as
+our Chief Financial Officer. Mr. Wong has over 10 years of experience as an IT consultant and business consultant. Since 2011, Mr. Wong
+has served as the founder and director of the MIG Group, which are engaged in a diversified range of businesses such as real estate, mobile
+technology, food and beverage and education. From 2008 to 2014, Mr. Wong was a consultant for Pusat Tiusyen Makmur Maju, an education
+company. From 2007 to 2009, he served as a director of Future Focus Academic Sdn. Bhd., an education company. From 2004 to 2007, he served
+as the Marketing Manager of All IT Marketing Sdn. Bhd. Mr. Wong received his Degree in Engineering from Computer Multimedia University
+in Selangor, Malaysia in 2005. He received an Advanced Diploma in Computer Engineering in 2000 and a Diploma in Computer Engineering in
+1998 from Informatics College in Kuala Lumpur, Malaysia. Mr. Wong brings to our Board his deep experience in computer engineering and
+internet and mobile industries. 
+
+Pui Hold Ho ,
+age 40, was appointed to our board of directors on September 22, 2017. He is an accountant by profession, a fellow member of the Association
+of Chartered Certified Accountants (ACCA), United Kingdom, a member of the Malaysian Institute of Accountants (MIA) and also a member
+of Asean Chartered Professional Accountants (ACPA). Mr. Ho has years of professional experience in auditing, banking and corporate finance.
+He started his career in 2004 by joining a Singapore advisory firm as IPO consultant where he participated in a few successful listings
+of companies in SGX. He then joined Ernst Young as Senior Audit Associate until 2009 before he left to join AmBank (M) Berhad 
+Corporate Institutional Banking. In the bank, he was responsible in client credit evaluation and marketing of the Bank s products
+mainly in debt capital market, offshore loan syndication, corporate finance advisory treasury products. To further advance his career,
+he took up the chief financial officer position in a foreign company listed on Bursa Malaysia Securities Berhad until 2013. He now sits
+on the board of the following companies listed on Main Market of Bursa Malaysia Securities Berhad: HB Global Limited, a food processing
+company specializing in the production of Ready-to-Serve foods; Malaysia Pacific Corporation Berhad, a property development and investment
+corporation; Milux Corporation Berhad, a manufacturer of gas appliances, water heaters and gas regulators and distributors of gas and
+electrical home appliances; Multi-Usage Holdings Berhad, an investment holding and management services company; and Permaju Industries
+Berhad, a motor vehicles trader and provision of its related services, properties development and timber plantation. Mr. Ho brings to
+our Board his financial and accounting experience as well as public company governance expertise. 
+
+15 
+
+Mun Wai Wong ,
+age 65, has over 30 years of experience in accounting and finance. Mr. Wong founded WMW Management Services in 2007 and is its Chief Executive
+Officer. Prior to that time, he was the Chief Operating Officer of Hai Ming Holding Berhad. Mr. Wong has served as a director of Comintel
+Corporation Berhad (COMCORP:KLSE) since October 2010 and a director of PanPages Berhad (PANPAGE:KLSE) since May 2012. Mr. Wong is a Chartered
+Accountant from the Malaysia Institute of Accountants, a Fellow of the Chartered Certified Accountants, and a member of the Institute
+of Chartered Secretaries and Administrators. Mr. Wong received his professional qualification in 1984 from Tuanku Abdul Rahman College
+in Malaysia. Mr. Wong brings to our Board his deep experience in the accounting and finance matters. 
+
+Family Relationships 
+
+There are no family relationships
+between any of our directors or executive officers. 
+
+Involvement in Certain Legal Proceedings 
+
+No executive officer or director
+is a party in a legal proceeding adverse to us or any of our subsidiaries or has a material interest adverse to us or any of our subsidiaries. 
+
+No executive officer or director
+has been involved in the last ten years in any of the following: 
+
+Any bankruptcy petition filed by or against any business or property of such person, or of which such person was a general partner or executive officer either at the time of the bankruptcy or within two years prior to that time; 
+
+Any conviction in a criminal proceeding or being subject to a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+
+Being subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any type of business, securities or banking activities; 
+
+Being found by a court of competent jurisdiction (in a civil action), the SEC or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated; 
+
+Being the subject of or a party to any judicial or administrative order, judgment, decree or finding, not subsequently reversed, suspended or vacated relating to an alleged violation of any federal or state securities or commodities law or regulation, or any law or regulation respecting financial institutions or insurance companies, including but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or any law or regulation prohibiting mail, fraud, wire fraud or fraud in connection with any business entity; or 
+
+Being the subject of or a party to any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act, any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member. 
+
+Board Committees 
+
+Effective September 22,
+2017, we formed an Audit Committee. As a result of the change in control, there are currently no directors serving on the audit committee.
+We hope to appoint directors to serve on the audit committee after we acquire an operating business. A copy of the charter for our Audit
+Committee is filed as Exhibit 99.1. 
+
+16 
+
+We have not formed separate
+Corporate Governance and Compensation and Nominations committees. Our entire Board performs the functions of the Corporate Governance
+and Compensation and Nominations committees. We hope to establish these committees as the business of the Company becomes more mature. 
+
+Code of Ethics 
+
+We adopted a Code of Ethics
+applicable to our officers and directors, which is a code of ethics as defined by applicable rules of the SEC. If we make
+any amendments to our Code of Ethics other than technical, administrative, or other non-substantive amendments, or grant any waivers,
+including implicit waivers, from a provision of our Code of Ethics to our officers or directors, we will disclose the nature of the amendment
+or waiver, its effective date and to whom it applies in a Current Report on Form 8-K filed with the SEC. 
+
+ITEM 11. Executive
+Compensation. 
+
+Compensation Philosophy and Objectives 
+
+Currently, our executive directors
+and officers do not receive compensation for services in such capacities. We expect to establish a compensation plan as our company matures.
+We expect that our executive compensation philosophy will be to create a long-term direct relationship between pay and our performance.
+Our executive compensation program will be designed to provide a balanced total compensation package over the executive s career
+with us. The compensation program objectives will be to attract, motivate and retain the qualified executives that help ensure our future
+success, to provide incentives for increasing our profits by awarding executives when corporate goals are achieved and to align the interests
+of executives and long-term stockholders. We expect the compensation package of our named executive officers to consist of two main elements: 
+
+1. 
+ base salary for our executives that is competitive relative to the market, and that reflects individual performance, retention and other relevant considerations; and 
+
+2. 
+ discretionary bonus awards payable in cash and tied to the satisfaction of corporate objectives. 
+
+Process for Setting Executive Compensation 
+
+As we do not have Compensation
+Committee, our Board will be responsible for developing and overseeing the implementation of our philosophy with respect to the compensation
+of executives and for monitoring the implementation and results of the compensation philosophy to ensure compensation remains competitive,
+creates proper incentives to enhance stockholder value and rewards superior performance. The Board or Compensation Committee will annually
+review and approve for each named executive officer, and particularly with regard to the Chief Executive Officer, all components of the
+executive s compensation. The Board or Compensation Committee may award discretionary bonuses to each of the named executives, and
+reviews and approves the process and factors (including individual and corporate performance measures and actual performance versus such
+measures) used by the Chief Executive Officer to recommend such awards. Additionally, the Board or Compensation Committee will review
+and approve the base salary, equity-incentive awards (if any) and any other special or supplemental benefits of the named executive officers. 
+
+We expect out Chief Executive
+Officer to periodically provide the Board or Compensation Committee with an evaluation of each named executive officer s performance,
+based on the individual performance goals and objectives developed by the Chief Executive Officer at the beginning of the year, as well
+as other factors. The Board of Compensation Committee will provide an evaluation for the Chief Executive Officer. These evaluations will
+serve as the bases for bonus recommendations and changes in the compensation arrangements of our named executives. 
+
+17 
+
+Our Compensation Peer Group 
+
+We expect to engage in informal
+market analysis in evaluating our executive compensation arrangements. As the Company and its businesses mature, we may retain compensation
+consultants that will assist us in developing a formal benchmark and selecting a compensation peer group of companies similar to us in
+size or business for the purpose of comparing executive compensation levels. 
+
+Program Components 
+
+We expect our executive compensation
+program to consist of the following elements: 
+
+Base Salary 
+
+Our base salary structure
+will be designed to encourage internal growth, attract and retain new talent, and reward strong leadership that will sustain our growth
+and profitability. The base salary for each named executive officer will reflect our past and current operating profits, the named executive
+officer s individual contribution to our success throughout his career, internal pay equity and informal market data regarding comparable
+positions within similarly situated companies. In determining and setting base salary, the Board/Compensation Committee will consider
+all of these factors, though it will not assign specific weights to any factor. The Board/Compensation Committee will generally review
+the base salary for each named executive officer on an annual basis. For each of our named executive officers, we expect to review base
+salary data internally obtained by the Company for comparable executive positions in similarly situated companies to ensure that the base
+salary rate for each executive is competitive relative to the market. 
+
+Discretionary Bonus 
+
+The objectives of our bonus
+awards will be to encourage and reward our employees, including the named executive officers, who contribute to and participate in our
+success by their ability, industry, leadership, loyalty or exceptional service and to recruit additional executives who will contribute
+to that success. 
+
+Each of our named executive
+officers will be eligible for consideration for a discretionary cash bonus. The Chief Executive Officer will make recommendations regarding
+bonus awards for the named executive officers and the Board/Compensation Committee provides the bonus recommendation for the Chief Executive
+Officer. However, the Board/Compensation Committee will have sole and final authority and discretion in designating to whom awards are
+made, the size of the award, if any, and its terms and conditions. The bonus recommendation for each of the named executive officers depends
+on a number of factors, including (i) the performance of the Company for the year, (ii) the satisfaction of certain individual
+and corporate performance measures, and (iii) other factors which the Board/Compensation Committee may deem relevant. The Company
+did not award any cash bonuses during fiscal year 2019. 
+
+Stock Holdings 
+
+The Board/Compensation Committee
+recognizes the importance of having a portion of the named executive officers compensation be paid in the form of equity, to help
+align the executives interests with the interests of the Company s stockholders. Initially, we expect the Board/Compensation
+Committee to emphasize the cash-based portion of our compensation program over a stock program because it believes the discretionary nature
+of the cash-based compensation gives it the needed flexibility to factor in and reward the attainment of longer-term goals for the Company
+and the executives, as the Board/Compensation Committee deems appropriate. 
+
+We have not timed, nor do
+we plan to time our release of material non-public information for the purpose of affecting the value of executive compensation. 
+
+18 
+
+Summary Compensation Table 
+
+The following tables set
+forth, for each of the last two completed fiscal years of the Company, the total compensation awarded to, earned by or paid to any person
+who was a principal executive officer during the preceding fiscal year and every other highest compensated executive officers earning
+more than 100,000 during the last fiscal year (together, the Named Executive Officers ). The tables set forth below reflect
+the compensation of the Named Executive Officers. 
+
+SUMMARY COMPENSATION TABLE 
+
+Name Principal Position 
+ 
+ Year 
+End 
+July 31, 
+ 
+ Salary ) 
+ 
+ Bonus ) 
+ 
+ Stock 
+Awards ) 
+ 
+ Option 
+Awards ) 
+ 
+ Non-Equity Incentive 
+Plan 
+Compen- 
+sation ) 
+ 
+ Nonqualified Deferred Compen- 
+sation 
+Earnings ) 
+ 
+ All Other 
+Compen- 
+sation ) 
+ 
+ Total ) 
+ 
+ Shiong Han Wee (1) 
+Chief Executive Officer 
+
+2021 
+ 2020 
+
+0 
+ 21,328 
+
+0 
+ 0 
+
+0 
+ 0 
+
+0 
+ 0 
+
+0 
+ 0 
+
+0 
+ 0 
+
+0 
+ 0 
+
+0 
+ 21,328 
+
+(1) Mr. Shiong Han Wee was appointed to serve as our Chief Executive Officer and director on August 29, 2017.
+He expects to resign upon the consummation of the change in control. 
+
+Narrative disclosure to Summary Compensation Table 
+
+Each of Messrs. Shiong Han
+Wee, Kwueh Lin Wong were parties to an employment agreement with MIG Mobile Tech Berhad, our subsidiary, or the Employment Agreements,
+as of the dates and for the annual salary set forth below: 
+
+Name 
+ 
+ Position 
+ 
+ Annual Salary 
+ 
+ Effective Date 
+ 
+ Shiong Han Wee 
+ 
+ Chief Executive Officer 
+ 
+ MYR 120,000 
+ 
+ April 1, 2016 
+ 
+ Kwueh Lin Wong 
+ 
+ Chief Operations Officer 
+ 
+ MYR 120,000 
+ 
+ April 1, 2016 
+
+On August 24, 2021, MMT was
+sold to a third party and is no longer a subsidiary of the Company. 
+
+Other than set out above and
+below, there are no arrangements or plans in which we provide pension, retirement or similar benefits for directors or executive officers.
+Our directors and executive officers may receive share options at the discretion of our board of directors in the future. We do not have
+any material bonus or profit sharing plans pursuant to which cash or non-cash compensation is or may be paid to our directors or executive
+officers, except that share options may be granted at the discretion of our board of directors. 
+
+Equity Awards 
+
+There are no options, warrants
+or convertible securities outstanding. At no time during the last fiscal year with respect to any of our executive officers was there: 
+
+any outstanding option or other equity-based award repriced or otherwise materially modified (such as by extension of exercise periods, the change of vesting or forfeiture conditions, the change or elimination of applicable performance criteria, or the change of the bases upon which returns are determined); 
+
+any waiver or modification of any specified performance target, goal or condition to payout with respect to any amount included in non-stock incentive plan compensation or payouts; 
+
+19 
+
+any option or equity grant; 
+
+any non-equity incentive plan award made to a named executive officer; 
+
+any non-qualified deferred compensation plans including non-qualified defined contribution plans; or 
+
+any payment for any item to be included under All Other Compensation in the Summary Compensation Table. 
+
+Director Compensation Table 
+
+During our fiscal year ended
+July 31, 2021, we did not provide compensation to any of our employee directors for serving as our director. We currently have no formal
+plan for compensating our employee directors for their services in their capacity as directors, although we may elect to issue stock
+options to such persons from time to time. 
+
+Non-Employee Director Fees 
+
+Our Compensation Committee
+and Board determines the form and amount of compensation for our non-employee directors based on informal surveys of similar companies
+and the amount necessary to attract and retain such directors. For the fiscal year ended July 31, 2021, we accrued the fee for each of
+our non-employee directors as follows: 
+
+Name 
+ 
+ Fees earned or paid in cash ) 
+
+Stock awards ) 
+
+Option awards ) 
+
+Non-equity incentive plan compensation ) 
+
+Change in pension value and nonqualified deferred compensation earnings 
+
+All other compensation ) 
+
+Total ) 
+
+(a) 
+ 
+ (b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+(h) 
+
+Pui Hold Ho (1) 
+
+9,000 
+
+9,000 
+
+Mun Wai Wong (2) 
+
+4,500 
+
+4,500 
+
+(1) 
+ Mr. Ho was appointed to serve as a director of the Company on
+ September 22, 2017. No fees were paid to Mr. Ho up to July 31, 2018. We began to accrue fees of USD1,000 per month for
+ Mr. Ho from May 2018 onwards until April 2021. In connection with the change in control that is expected to consummate in the near
+ future, Mr. Ho will forgive all fees due to him from the Company. 
+
+(2) 
+ Mr. Wong was appointed to serve as a director on June 1, 2018. No fees were paid to Mr. Wong up to July 31, 2018. We started to accrue fees of USD500 per month for Mr. Wong from June 2018 onwards until April 2021. In connection with the change in control that is expected to consummate in the near future, Mr. Wong will forgive all fees due to him from the Company. 
+
+Compensation Risk Management 
+
+Our Board of directors and
+human resources staff conducted an assessment of potential risks that may arise from our compensation programs. Based on this assessment,
+we concluded that our policies and practices do not encourage excessive and unnecessary risk taking that would be reasonably likely to
+have material adverse effect on the Company. The assessment included our cash incentive programs, which awards non-executives with cash
+bonuses for punctuality. Our compensation programs are substantially identical among business units, corporate functions and global locations
+(with modifications to comply with local regulations as appropriate). The risk-mitigating factors considered in this assessment included: 
+
+the alignment of pay philosophy, peer group companies and compensation amount relative to local competitive practices to support our business objectives; and 
+
+effective balance of cash, short- and long-term performance periods, caps on performance-based award schedules and financial metrics with individual factors and Board and management discretion. 
+
+20 
+
+Compensation Committee Interlocks and Insider
+Participation 
+
+We have not yet established
+a Compensation Committee. Our Board of Directors performs the functions that would be performed by a compensation committee. 
+
+During the fiscal year ended
+July 31, 2021, none of our executive officers has served: (i) on the compensation committee (or other board committee performing equivalent
+functions or, in the absence of any such committee, the entire board of directors) of another entity, one of whose executive officers
+served on our board of directors; or (ii) as a director of another entity, one of whose executive officers served on the compensation
+committee (or other board committee performing equivalent functions or, in the absence of any such committee, the entire board of directors)
+of the registrant. 
+
+Compensation Committee Report 
+
+Our Board has reviewed and
+discussed the Compensation Discussion and Analysis in this report with management. Based on its review and discussion with management,
+the Board of Directors recommended that the Compensation Discussion and Analysis be included in this Annual Report on Form 10-K. The material
+in this report is not deemed filed with the SEC and is not incorporated by reference in any of our filings under the Securities Act of
+1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made on, before, or after the date of this Annual Report
+on Form 10-K and irrespective of any general incorporation language in such filing. 
+
+Submitted by members of the Board of Directors:
+
+Shiong Han Wee 
+
+ Kwueh Lin Wong 
+
+ Pui Hold Ho 
+
+ Mun Wai Wong 
+
+ITEM 12. Security
+Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The following table sets forth,
+as of October 21, 2021 certain information with regard to the record and beneficial ownership of the Company s common stock by (i)
+each person known to the Company to be the record or beneficial owner of more than 5 of the Company s common stock, (ii) each director
+of the Company, (iii) each of the named executive officers, and (iv) all executive officers and directors of the Company as a group: 
+
+Name of Beneficial Owner 
+ Amount (number of shares) 
+ Percentage of Outstanding Shares of Common Stock 
+ 
+ Shiong Han Wee (1) 
+ 82,089,140 
+ 13.8 
+ 
+ Kwueh Lin Wong (1) 
+ 79,393,540 
+ 13.4 
+ 
+ All executive officers and directors as a group (five persons) 
+ 161,482,680 
+ 27.2 
+
+(1) 
+ Beneficial ownership is determined in accordance with SEC rules and generally includes voting or investment power with respect to securities. For purposes of this table, a person or group of persons is deemed to have beneficial ownership of any shares of common stock that such person has the right to acquire within 60 days of October 21, 2021. For purposes of computing the percentage of outstanding shares of our common stock held by each person or group of persons named above, any shares that such person or persons has the right to acquire within 60 days of October 21, 2021is deemed to be outstanding for such person, but is not deemed to be outstanding for the purpose of computing the percentage ownership of any other person. The inclusion herein of any shares listed as beneficially owned does not constitute an admission of beneficial ownership. 
+
+21 
+
+(2) 
+ Applicable percentage ownership is based on 593,610,070 shares of common stock outstanding as of October 21, 2021, together with securities exercisable or convertible into shares of common stock within 60 days of October 21, 2021. Beneficial ownership is determined in accordance with the rules of the Securities and Exchange Commission and generally includes voting or investment power with respect to securities. Unless otherwise noted, the business address of each beneficial owner listed is 25, Jalan Puteri 7/15, Bandar Puteri, 47100 Puchong, Selangor, Malaysia.. Except as otherwise indicated, the persons listed below have sole voting and investment power with respect to all shares of our common stock owned by them, except to the extent that power may be shared with a spouse. 
+
+ITEM 13 . Certain
+Relationships and Related Transactions, and Director Independence. 
+
+The Company, in the regular conduct of business,
+has entered transaction with related parties in the form of cash or expenses paid on behalf of the related party and rendering of services.
+All advances are unsecured, due on demand and non-interest bearing 
+
+The table below show the breakdown of revenue
+generated from related party during the years ended July 31, 2021 and 2020: 
+
+Related Party 
+ July 31, 2020 
+ of Revenues 
+ July 31, 2021 
+ of Revenues 
+ 
+ East Cloud Sdn Bhd 
+ 16,470 
+ 25 
+
+Creative Property Management 
+ 6,390 
+ 10 
+
+MIG Network and Consultancy Sdn Bhd 
+ 15,042 
+ 23 
+
+TOTAL 
+ 37,902 
+
+East Cloud Sdn Bhd, Creative
+Property Management Sdn Bhd, and MIG Network Consultancy Sdn Bhd are owned by our executive officers and directors, Shiong Han Wee
+and Kwueh Lin Wong. Messrs. Wee and Wong also serve as directors of these companies. 
+
+As of July 31, 2021 and
+2020, the Company was indebted to MIG Network Consultancy Sdn Bhd, our related company, in the amount of 1,248,070 and 1,236,274,
+respectively, for advances and expenses incurred on behalf of the Company. The amounts are included in due to related parties and are
+non-interest bearing, unsecured, and due on demand. 
+
+As of July 31, 2021 and
+2020, we recognized a total of Nil and 18,026, respectively, for manpower charge back to MIG O2O Berhad, our related company, which
+have been included in the statements of operations and comprehensive (loss) income. 
+
+During the years ended July
+31, 2021 and 2020, we recognized the following transactions with MIG Network Consultancy Sdn Bhd, our related company: 
+
+As at July 31, 
+
+2021 
+ 2020 
+
+Rental paid to 
+ 
+ 16,906 
+ 
+ Legal fees paid to 
+ 
+ 6,700 
+ 
+ Payroll outsourcing paid to 
+ 
+ 729 
+
+The above transactions have
+been included in the statements of operations and comprehensive (loss) income. 
+
+22 
+
+We have not adopted policies
+or procedures for approval of related person transactions but review them on a case-by-case basis. We believe that all related party transactions
+were on terms at least as favorable as we would have secured in arm s-length transactions with third parties. Except as set forth
+above, we have not entered into any material transactions with any director, executive officer, and promoter, beneficial owner of five
+percent or more of our common stock, or family members of such persons. 
+
+Director Independence 
+
+Our board of directors is
+currently composed of four members, two of whom do not qualify as an independent director in accordance with the published listing requirements
+of the NASDAQ Stock Market. The NASDAQ independence definition includes a series of objective tests, such as that the director is not,
+and has not been for at least three years, one of our employees and that neither the director, nor any of his family members has engaged
+in various types of business dealings with us. In addition, our board of directors has not made a subjective determination as to each
+director that no relationships exist which, in the opinion of our board of directors, would interfere with the exercise of independent
+judgment in carrying out the responsibilities of a director, though such subjective determination is required by the NASDAQ rules. Had
+our board of directors made these determinations, our board of directors would have reviewed and discussed information provided by the
+directors and us with regard to each director s business and personal activities and relationships as they may relate to us and
+our management. 
+
+ITEM 14. Principal
+AccountING Fees And Services. 
+
+Our Audit Committee has adopted
+certain pre-approval policies and procedures which are more fully described in Exhibit 99.2. 
+
+The following table sets forth
+fees billed by our auditors during the last two fiscal years for services rendered for the audit of our annual consolidated financial
+statements and the review of our quarterly financial statements, services by our auditors that are reasonably related to the performance
+of the audit or review of our consolidated financial statements and that are not reported as audit fees, services rendered in connection
+with tax compliance, tax advice and tax planning, and all other fees for services rendered. 
+
+Years ended July 31, 
+
+2021 
+ 2020 
+
+Audit fees (1) 
+ US 11,000 
+ US 4,000 
+
+Audit related fees (2) 
+
+Tax fees 
+
+All other fees (3) 
+
+(1) 
+ Audit Fees represent fees for professional services billed and to be billed in connection with the audit of our consolidated annual financial statements, the audit of the effectiveness of internal control over financial reporting and review of the quarterly financial statements and internal controls over financial reporting, and audit services in connection with statutory or regulatory filings, consents or other SEC matters. 
+
+(2) 
+ Audit-Related Fees consist of fees billed for assurance and related services that are reasonably related to the performance of the audit or review of our consolidated financial statements and are not reported under Audit Fees. 
+
+23 
+
+PART IV 
+
+ITEM 15. Exhibits
+and Financial Statement Schedules. 
+
+The following documents are filed as part of this
+report: 
+
+(1) 
+ Financial Statements 
+
+Financial Statements are included in Part II, Item
+8 of this report. 
+
+(2) 
+ Financial Statement Schedules 
+
+No financial statement schedules are included because
+such schedules are not applicable, are not required, or because required information is included in the consolidated financial statements
+or notes thereto. 
+
+(3) 
+ Exhibits 
+
+Exhibit 
+
+Number 
+ Description of Exhibit 
+ 
+ 3.1 
+ Amended and Restated Articles of Incorporation (1) 
+ 
+ 3.3 
+ Bylaws. (2) 
+ 
+ 4.1 
+ Form of Common Stock Certificate (3) 
+ 
+ 4.2 
+ Description of Securities (4) 
+ 
+ 14 
+ Code of Ethics (5) 
+ 
+ 24 
+ Power of Attorney 
+ 
+ 31.1 
+ Certification of Chief Executive Officer and Chief Financial Officer required under Rule 13a-14(a)/15d-14(a) under the Exchange Act. 
+ 
+ 32.1 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 99.1 
+ Audit Committee Charter. (6) 
+ 
+ 99.2 
+ Pre-Approval Procedures. (6) 
+ 
+ 101.INS 
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ XBRL Schema Document 
+ 
+ 101.CAL 
+ XBRL Calculation Linkbase Document 
+ 
+ 101.DEF 
+ XBRL Definition Linkbase Document 
+ 
+ 101.LAB 
+ XBRL Label Linkbase Document 
+ 
+ 101.PRE 
+ XBRL Presentation Linkbase Document 
+
+Notes: 
+ 
+ (1) 
+ Incorporated by reference from Exhibit 1 of our Definitive Information Statement on Schedule 14C filed with the Securities and Exchange Commission on October 18, 2017. 
+ 
+ (2) 
+ Incorporated by reference from our Registration Statement on Form SB-2 filed with the Securities and Exchange Commission on October 1, 2007. 
+ 
+ (3) 
+ Incorporated by reference from our Annual Report on Form 10-K filed with the Securities and Exchange Commission on October 29, 2018. 
+ 
+ (4) 
+ Incorporated by reference from our Annual Report on Form 10-K filed with the Securities and Exchange Commission on October 29, 2019. 
+ 
+ (5) 
+ Incorporated by reference from our Annual Report on Form 10-K filed with the Securities and Exchange Commission on October 29, 2008. 
+ 
+ (6) 
+ Incorporated by reference from our Current Report on Form 8-K filed with the Securities and Exchange Commission on September 22, 2017. 
+
+Filed Herewith. 
+
+ To be filed by amendment 
+
+ITEM 16. form
+10-k summary. 
+
+Not applicable 
+
+24 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or
+15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned
+thereunto duly authorized. 
+
+WECONNECT TECH INTERNATIONAL, INC. 
+
+(Registrant) 
+
+By: 
+ /s/Shiong Han Wee 
+
+Shiong Han Wee 
+
+Chief Executive Officer 
+
+Dated: 
+ October 26, 2021 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant, and in the capacities and
+on the dates indicated: 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+s/ Shiong Han Wee 
+ 
+ Chief Executive Officer, Chief Financial Officer and Director 
+
+Shiong Han Wee 
+ 
+ (Principal Executive Officer and Principal Financial Officer) 
+ 
+ October 26, 2021 
+
+/s/ Kwueh Lin Wong 
+ Kwueh Lin Wong 
+ 
+ Secretary and Director 
+ 
+ October 26, 2021 
+
+/s/ Pui Hold Ho 
+ Pui Hold Ho 
+ 
+ Director 
+ 
+ October 26, 2021 
+
+Representing all of the members of the Board of Directors. 
+
+By 
+ /s/ Shiong Han Wee 
+
+Shiong Han Wee 
+
+Attorney-in-Fact 
+
+By authority of the power of attorney filed herewith 
+
+25 
+
+<EX-24>
+ 4
+ wect_ex2400.htm
+ POWER OF ATTORNEY
+
+EXHIBIT 24 
+
+POWER OF ATTORNEY 
+
+The undersigned directors and officers of WeConnect
+Tech International, Inc., a Nevada corporation (the Company ), hereby constitute and appoint Shiong Han Wee with full power
+to act, as the undersigned s true and lawful attorney-in-fact, with full power of substitution and resubstitution, for the undersigned
+and in the undersigned s name, place and stead in the undersigned s capacity as an officer and/or director of the Company,
+to execute in the name and on behalf of the undersigned an annual report of the Company on Form 10-K for the fiscal year ended July 31,
+2021 (the Report ), under the Securities Exchange Act of 1934, as amended, and to file such Report, with exhibits thereto
+and other documents in connection therewith and any and all amendments thereto, with the Securities and Exchange Commission, granting
+unto said attorneys-in-fact, and each of them, full power and authority to do and perform each and every act and thing necessary or desirable
+to be done and to take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney-in-fact,
+may be of benefit to, in the best interest of, or legally required of, the undersigned, it being understood that the documents executed
+by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such
+terms and conditions as such attorney-in-fact may approve in such attorney-in-fact s discretion. 
+
+IN WITNESS WHEREOF , we have hereunto set
+our hands this 26th day of October, 2021. 
+
+Signature 
+ 
+ Title 
+
+/s/ Shiong Han Wee 
+ 
+ Chief Executive Officer and Director 
+
+Shiong Han Wee 
+ 
+ (Principal Executive Officer and Principal Financial Officer) 
+
+/s/ Kwueh Lin Wong 
+ 
+ Secretary and Director 
+
+Kwueh Lin Wong 
+
+/s/ Pui Hold Ho 
+ 
+ Director 
+
+Pui Hold Ho 
+
+/s/ Mun Wai Wong 
+ 
+ Director 
+
+Mun Wai Wong 
+
+</EX-24>
+
+<EX-31.1>
+ 5
+ wect_ex3101.htm
+ CERTIFICATION
+
+EXHIBIT 31.1 
+
+WECONNECT TECH INTERNATIONAL,
+INC. 
+ 
+ CERTIFICATIONS PURSUANT TO 
+ RULE 13A-14(A) OR RULE 15D-14(A), 
+ AS ADOPTED PURSUANT TO 
+ RULE 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Shiong Han Wee, certify
+that: 
+
+1.
+I have reviewed this Form 10-K of WeConnect Tech International, Inc.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4.
+I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant
+and have: 
+
+(a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors
+and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal
+control over financial reporting. 
+
+/s/ Shiong Han Wee 
+ Shiong Han Wee 
+ Chief Executive Officer 
+
+Dated: October 26, 2021 
+
+</EX-31.1>
+
+<EX-32.1>
+ 6
+ wect_ex3201.htm
+ CERTIFICATION
+
+EXHIBIT 32.1 
+
+WECONNECT TECH INTERNATIONAL, INC. 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO SECTION 906 
+OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of WeConnect Tech International, Inc. (the Company on Form 10-K for the year ended July 31,
+2021, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Shiong Han Wee, Chief Executive
+Officer and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the
+Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies
+with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained
+in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Shiong Han Wee 
+ Shiong Han Wee 
+ 
+ Date: October 26, 2021 
+ 
+ Chief Executive Officer and Chief Financial Officer 
+
+</EX-32.1>
+

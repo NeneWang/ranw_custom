@@ -1,0 +1,4582 @@
+<Header>
+<FileStats>
+    <FileName>20211021_10-K_edgar_data_54187_0001206774-21-002636.txt</FileName>
+    <GrossFileSize>4774072</GrossFileSize>
+    <NetFileSize>147834</NetFileSize>
+    <NonText_DocumentType_Chars>324755</NonText_DocumentType_Chars>
+    <HTML_Chars>1841922</HTML_Chars>
+    <XBRL_Chars>1327327</XBRL_Chars>
+    <XML_Chars>962681</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001206774-21-002636.hdr.sgml : 20211021
+<ACCEPTANCE-DATETIME>20211021101123
+ACCESSION NUMBER:		0001206774-21-002636
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		84
+CONFORMED PERIOD OF REPORT:	20210731
+FILED AS OF DATE:		20211021
+DATE AS OF CHANGE:		20211021
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MAYS J W INC
+		CENTRAL INDEX KEY:			0000054187
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATORS OF NONRESIDENTIAL BUILDINGS [6512]
+		IRS NUMBER:				111059070
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03647
+		FILM NUMBER:		211335989
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9 BOND ST
+		CITY:			BROOKLYN
+		STATE:			NY
+		ZIP:			11201-5805
+		BUSINESS PHONE:		7186247400
+
+	MAIL ADDRESS:	
+		STREET 1:		9 BOND STREET
+		CITY:			BROOKLYN
+		STATE:			NY
+		ZIP:			11201-5805
+
+</SEC-Header>
+</Header>
+
+ 0001206774-21-002636.txt : 20211021
+
+10-K
+ 1
+ jwmays3906498-10k.htm
+ ANNUAL REPORT
+
+Table of Contents 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+ 
+ WASHINGTON, D.C. 20549 
+
+FORM 10-K 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended July 31, 2021 
+
+OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from to 
+
+ Commission file number 1-3647 
+ J.W. MAYS, INC. (Exact Name of Registrant as Specified in Its Charter) 
+
+New York 
+ 11-1059070 
+ 
+ State or Other Jurisdiction of Incorporation or Organization 
+ I.R.S. Employer Identification No. 
+
+9 Bond Street, Brooklyn, New York 
+ 11201 
+ 
+ Address of Principal Executive Offices 
+ Zip Code 
+ Registrant s telephone number, including area code 718 624-7400 
+ Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+ Trading Symbol(s) 
+ Name of each exchange on which registered 
+ 
+ Common Stock, 1 par value 
+ MAYS 
+ NASDAQ 
+
+ Securities registered pursuant to Section 12(g) of the Act: None 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes No 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes No 
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. Yes No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ Accelerated filer 
+ Emerging growth company 
+ 
+ Non-accelerated filer 
+ Smaller reporting company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+ State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter. 
+ Note. If a determination as to whether a particular person or entity is an affiliate cannot be made without involving unreasonable effort and expense, the aggregate market value of the common stock held by non-affiliates may be calculated on the basis of assumptions reasonable under the circumstances, provided that the assumptions are set forth in this Form. 
+ The aggregate market value of voting stock held by non-affiliates of the registrant was approximately 10,510,864 as of January 31, 2021 based on the average of the bid and asked price of the stock reported for such date. For the purpose of the foregoing calculation, the shares of common stock held by each officer and director and by each person who owns 5 or more of the outstanding common stock have been excluded in that such persons may be deemed to be affiliates. This determination of affiliate status is not necessarily a conclusive determination for other purposes. 
+ APPLICABLE ONLY TO REGISTRANTS INVOLVED IN BANKRUPTCY PROCEEDINGS DURING THE PRECEDING FIVE YEARS: 
+ Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. Yes No 
+ (APPLICABLE ONLY TO CORPORATE REGISTRANTS) 
+ Indicate the number of shares outstanding of each of the registrant s classes of common stock, as of the latest practicable date. 
+ The number of shares outstanding of the registrant s common stock as of September 6, 2021 was 2,015,780. 
+ DOCUMENTS INCORPORATED BY REFERENCE 
+ List hereunder the following documents if incorporated by reference and the Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is incorporated: (1) Any annual report to security holders; (2) Any proxy or information statement; and (3) Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security holders for fiscal year ended December 24, 1980). 
+
+Part of Form 10-K 
+
+in which the Document 
+ 
+ Document 
+ 
+ is incorporated 
+ 
+ Annual Report to Shareholders for Fiscal Year Ended July 31, 2021 
+ 
+ Parts I and II 
+ 
+ Definitive Proxy Statement for the 2021 Annual Meeting of Shareholders 
+ 
+ Part III 
+
+Table of Contents 
+
+ J.W. MAYS, INC. FORM 10-K FOR THE FISCAL YEAR ENDED JULY 31, 2021 
+ TABLE OF CONTENTS 
+
+Page 
+ 
+ Part I 
+
+Item 1. Business 
+ 
+ 1 
+
+Item 1A. Risk Factors 
+ 
+ 1 
+
+Item 1B. Unresolved Staff Comments 
+ 
+ 3 
+
+Item 2. Properties 
+ 
+ 3 
+
+Item 3. Legal Proceedings 
+ 
+ 8 
+
+Item 4. Mine Safety Disclosures 
+ 
+ 8 
+ 
+ Part II 
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ 9 
+
+Item 6. Selected Financial Data 
+ 
+ 9 
+
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 9 
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ 9 
+
+Item 8. Financial Statements and Supplementary Data 
+ 
+ 9 
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ 9 
+
+Item 9A. Controls and Procedures 
+ 
+ 10 
+
+Item 9B. Other Information 
+ 
+ 10 
+ 
+ Part III 
+
+Item 10. Directors, Executive Officers and Corporate Governance 
+ 
+ 11 
+
+Item 11. Compensation 
+ 
+ 11 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ 11 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ 
+ 11 
+
+Item 14. Principal Accounting Fees and Services 
+ 
+ 12 
+ 
+ Part IV 
+
+Item 15. Exhibits and Financial Statement Schedules 
+ 
+ 12 
+
+Signatures 
+ 
+ 14 
+
+Table of Contents 
+
+ PART I 
+ ITEM 1. BUSINESS. 
+ J.W. Mays, Inc. (the Company or Registrant with executive offices at Nine Bond Street, Brooklyn, New York 11201, operates a number of commercial real estate properties, which are described in Item 2 Properties . The Company s business was founded in 1924 and incorporated under the laws of the State of New York on July 6, 1927. 
+ The Company has 29 employees and has a contract, expiring November 30, 2022, with a union covering rates of pay, hours of employment and other conditions of employment for approximately 21 of its employees. The Company considers that its labor relations with its employees and union are good. 
+ CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS 
+ This Annual Report on Form 10-K may contain forward-looking statements which include assumptions about future market conditions, operations and financial results. These statements are based on current expectations and are subject to risks and uncertainties. They are made pursuant to safe harbor provisions of the Private Securities Litigation Reform Act of 1995. The Company s actual results, performance or achievements in the future could differ significantly from the results, performance or achievements discussed or implied in such forward-looking statements herein and in prior U. S. Securities and Exchange Commission SEC filings by the Company. The Company assumes no obligation to update these forward-looking statements or to advise of changes in the assumptions on which they were based. 
+ Factors that could cause or contribute to such differences include, but are not limited to, changes in the competitive environment of the Company, general economic and business conditions, industry trends, changes in government rules and regulations and environmental rules and regulations. Statements concerning interest rates and other financial instrument fair values and their estimated contribution to the Company s future results of operations are based upon market information as of a specific date. This market information is often a function of significant judgment and estimation. Further, market interest rates are subject to potential significant volatility. 
+ ITEM 1A. RISK FACTORS. 
+ Risks Relating to Ownership Structure 
+ The controlling shareholder group may be able to vote its shares in favor of its interests that may not always coincide with the interests of shareholders not part of such group. This risk may be counter-balanced to a degree by the actions of the Board of Directors whose composition is made up of a majority of independent directors. 
+ The controlling shareholder group includes a corporation that owns a significant percentage of the Company s common stock and which does business with the Company, as further described in the Notes to the Consolidated Financial Statements. In theory, this could result in a conflict of interest; nevertheless, the Company and its largest shareholder have put in place some controls to reduce the effects of any perceived conflict of interest. 
+ Certain conflicts of interest may be perceived by the relationship between the Company and its largest shareholder. Both entities have the same Chief Executive Officer, and certain management personnel work for both entities. Nevertheless, the Company s Board of Directors Board is composed of a majority of independent directors. In 2005, in a case involving both entities, the Delaware Supreme Court in connection with an attempt to obtain books and records of the Company through a proceeding against the Company s significant shareholder, held that the actions of the Company s Board were proper. 
+ The Impact of COVID-19 on Our Results and Operations 
+ In late 2019, an outbreak of COVID-19 emerged and by March 11, 2020 was declared a global pandemic by The World Health Organization. Throughout the United States and locally, governments and municipalities instituted measures in an effort to control the spread of COVID-19, including quarantines, shelter-in-place orders, school closings, travel restrictions and the closure of non-essential businesses. By the end of March 2020, the economic impacts became significant for the remainder of the year ended July 31, 2020. 
+ 1 
+
+Table of Contents 
+
+ Beginning March 2020 and continuing through July 2021, we experienced an increase in late payments due to the impact of COVID-19 and the related reductions in economic activity from government mandated business disruptions and shelter -in- place orders. The effects of COVID-19 on our tenants have been reflected in our allowance for credit losses for accounts receivable. In limited circumstances, we have agreed to rent abatements and deferrals for certain tenants. We also continue to experience volatility in the valuation of our equity investments through July 31, 2021. 
+ Looking ahead, the full impact of COVID-19 on our business is unknown and highly unpredictable. Our past results may not be indicative of our future performance and historical trends in revenues, income from operations, net income, earnings per share, cash provided by operating activities, among others, may differ materially. For example, to the extent the pandemic continues to disrupt economic activity nationally and in New York, NY, like other businesses, it could adversely affect our business operations and financial results through prolonged decreases in revenue, credit deterioration of our tenants, depressed economic activity, or declines in capital markets. In addition, many of our expenses are less variable in nature and may not correlate to changes in revenues. The extent of the impact will depend on a number of factors, including the duration and severity of the pandemic; distribution of vaccines; and the macroeconomic impact of government measures to contain the spread of the virus and related government stimulus measures. 
+ Risks Related to Our Business 
+ We are a part of the communities in which we do business. Accordingly, like other businesses in our communities, we are subject to the following risks: 
+
+the continued threat of terrorism; 
+
+economic downturns, both on a national and on local scales; 
+
+loss of key personnel; 
+
+the availability, if needed, of additional financing; 
+
+the continued availability of insurance (in different types of policies) at reasonably acceptable rates; 
+
+the general burdens of governmental regulation, at the Local, State and Federal levels; 
+
+climate change; 
+
+cyber security; and 
+
+pandemics and the ongoing effects of COVID-19. 
+ Risks Related to Real Estate Operations 
+ Our investment in property development may be limited by increasing costs required to fit up property to be leased to tenants. Also, as the cost of fitting up properties increases, we may be required to wait and forsake opportunities that would be revenue producing until such time that we obtain the necessary financing of such ventures. This risk may be mitigated by our obtaining lines of credit and other financing vehicles, although such have significant limitations on the amounts that may be borrowed at any point in time. 
+ We also may be subject to environmental liability as an owner or operator of properties. Many of our properties are old and when we need to fit up a property for a new tenant, we may find materials and the like that could be deemed to contain hazardous elements requiring remediation or encapsulation. 
+ The impact of COVID-19 on demand for commercial real estate rental space has been significant. As online retail operations continued to expand nationwide during the pandemic, retailers are facing increased competition which reduces the need for the leasing of properties which is our business. Professionals working remotely during the pandemic has resulted in tenants careful evaluation of office space needs and a decline in demand of commercial office space rentals and increasing competition. The Company emphasizes retention of tenants over a long period of time which helps in difficult economic conditions. The Company also aggressively markets available space to tenants including governmental agencies, medical and educational institutions. 
+ We try to lease our properties to tenants with adequate finances, but as a result of recent business downturns, even formerly financially strong tenants may be at risk. The Company mitigates risks of tenants with less than adequate finances by leasing our properties to multiple tenants where applicable in order to diversify the tenant base. 
+
+ 2 
+
+Table of Contents 
+
+ Risks Related to our Investments 
+ Excess cash and cash equivalents may be invested from time to time. We seek to earn rates of return that will help us finance our business operations. These investments may be subject to significant uncertainties and may not be successful for many reasons, including, but not limited to the following: 
+
+fluctuations in interest rates; 
+
+worsening of general economic and market conditions; and 
+
+adverse legal, financial and regulatory developments that may affect a particular business. 
+ Risk Factors Summary 
+ These are some of the Risk Factors that could affect the Company s business. The Company endeavors to take actions and do business in a way that reduces these Risk Factors or, at least, takes them into account when conducting its business. Nevertheless, some of these Risk Factors cannot be avoided so that the Company must also take actions and do business that negates the adverse effects that these may have on the Company. 
+ ITEM 1B. UNRESOLVED STAFF COMMENTS. 
+ There are no unresolved comments from the staff of the U. S. Securities and Exchange Commission as of the date of this Annual Report on Form 10-K. 
+ ITEM 2. PROPERTIES. 
+ The table below sets forth certain information as to each of the properties currently operated by the Company: 
+
+Approximate 
+ 
+ Location 
+ 
+ Square Feet 
+ 
+ 1. 
+ Brooklyn, New York 
+
+Fulton Street at Bond Street 
+ 
+ 380,000 
+
+2. 
+ Brooklyn, New York 
+
+Jowein building at Elm Place 
+ 
+ 201,000 
+
+3. 
+ Jamaica, New York 
+
+Jamaica Avenue at 169th Street 
+ 
+ 297,000 
+
+4. 
+ Fishkill, New York 
+
+Route 9 at Interstate Highway 84 
+ 
+ 203,000 
+
+(located on 
+
+14.6 acres) 
+ 
+ 5. 
+ Levittown, New York 
+
+Hempstead Turnpike 
+ 
+ 10,000 
+
+(located on 
+
+75,800 square 
+
+feet of land) 
+ 
+ 6. 
+ Massapequa, New York 
+
+Sunrise Highway 
+ 
+ 133,400 
+
+7. 
+ Circleville, Ohio 
+
+Tarlton Road 
+ 
+ 193,350 
+
+(located on 
+
+11.6 acres) 
+ 
+ 8. 
+ Brooklyn, New York 
+
+Truck bays, passage facilities and tunnel-Schermerhorn Street 
+ 
+ 17,000 
+
+Building-Livingston Street 
+ 
+ 10,500 
+
+Properties are leased under long-term leases for varying periods, the longest of which extends to 2073, and in most instances renewal options are included. Reference is made to Notes 5 and 11 to the Consolidated Financial Statements contained in the 2021 Annual Report to Shareholders, incorporated herein by reference. Properties owned and subject to mortgage are the Brooklyn Fulton Street at Bond Street and Fishkill buildings. 
+ 3 
+
+Table of Contents 
+
+1. 
+ Brooklyn, New York 
+
+Fulton Street at Bond Street 
+ 90 of the property is owned by the Company and the remaining 10 of the property is leased by the Company under five separate leases. Expiration dates are as follows: 12/8/2043 (1 lease) which lease currently has one thirty-year renewal option through 12/8/2073, 4/30/31 (1 lease), and 4/30/2044 (3 leases). 
+ The property is currently leased to twenty-three tenants of which eight are retail tenants, two are fast food restaurants, eleven occupy office space, one is a dental office and one is a medical office. Two tenants have leased in excess of 10 of the rentable square footage. One tenant is a department store (20.60 and the other tenant occupies office space (15.06 ). 
+ In August 2020, a retail tenant who occupies 1,810 square feet at the Company s Nine Bond Street, Brooklyn, New York building extended their lease until August 31, 2025. 
+ In November 2020, the Company leased 5,300 square feet to a retail tenant. The tenant took occupancy in November 2020 and rental payments commenced in January 2021. 
+ In April 2021, the Company leased 1,600 square feet to a retail tenant. Rent will commence in November 2021. 
+ In July 2021, the Company leased 2,270 square feet to an office tenant. Rent will commence in September 2021. To accommodate this tenant, an existing office tenant surrendered 440 square feet. 
+ It is the intention of the Company to negotiate the renewals of the expiring leases as they come due, providing the tenants maintain adequate finances. 
+
+Occupancy 
+ 
+ Lease Expiration 
+ 
+ Rent 
+ 
+ Year 
+
+Year 
+ 
+ Number of 
+ 
+ Area 
+ 
+ Annual 
+ 
+ Percentage of 
+ 
+ Ended 
+ 
+ Rate 
+ 
+ Ended 
+ 
+ Leases 
+ 
+ Sq. Ft. 
+ 
+ Rent 
+ 
+ Gross Annual Rent 
+ 
+ 7/31/2017 
+ 
+ 75.59 
+ 
+ 7/31/2022 
+
+9 
+
+88,376 
+
+2,971,952 
+
+14.704 
+
+7/31/2018 
+ 
+ 75.26 
+ 
+ 7/31/2023 
+
+1 
+
+63 
+
+11,000 
+
+.054 
+
+7/31/2019 
+ 
+ 75.65 
+ 
+ 7/31/2024 
+
+2 
+
+1,840 
+
+97,035 
+
+.48 
+
+7/31/2020 
+ 
+ 70.07 
+ 
+ 7/31/2025 
+
+1 
+
+3,080 
+
+126,000 
+
+.623 
+
+7/31/2021 
+ 
+ 62.31 
+ 
+ 7/31/2026 
+
+2 
+
+15,261 
+
+687,693 
+
+3.402 
+
+7/31/2028 
+
+2 
+
+8,467 
+
+411,514 
+
+2.036 
+
+7/31/2030 
+
+3 
+
+87,067 
+
+2,393,514 
+
+11.842 
+
+7/31/2031 
+
+1 
+
+5,350 
+
+254,762 
+
+1.260 
+
+7/31/2032 
+
+2 
+
+28,218 
+
+1,074,538 
+
+5.316 
+
+23 
+
+237,722 
+
+8,028,008 
+
+39.717 
+
+The Company uses 17,810 square feet of available space. 
+ As of July 31, 2021 the federal tax basis is 22,559,989 with accumulated depreciation of 13,557,945 for a net carrying value of 9,002,044. The lives taken for depreciation vary between 15-40 years and the methods used are straight-line and declining balance. 
+ The real estate taxes for this property are 2,541,070 per year and the rate used is averaged at 11.227 per 100 of assessed valuation. 
+
+ Livingston Street 
+ The Company has a long-term lease with the City of New York and another landlord for a garage at Livingston Street opposite the Company s Brooklyn Fulton Street at Bond Street Properties Properties ). The lease expires in 2043, with a renewal option to 2073. The garage includes truck bays and passage facilities through a tunnel to the Properties. The truck bays, passage facilities and tunnel, total approximately 17,000 square feet. The lease also includes a 20 x 75-foot land plot on which the Company constructed a building of six stories and basement annexed to the Properties. 
+
+4 
+
+Table of Contents 
+
+2. 
+ Brooklyn, New York Jowein building at Elm Place 
+
+The building is owned. The property is currently leased to twelve tenants of which one is a retail store, one is a fast-food restaurant, two are for warehouse space and eight leases are for office space. 
+ In November 2020, the Company leased 23,000 square feet to an office tenant. The cost of renovations for this tenant will be approximately 500,000 and brokerage commissions will be 979,000. Occupancy and rental payments are anticipated in late 2021. 
+ In November 2020, the Company leased 5,500 square feet to a retail tenant. Occupancy and rental payments began in July 2021. 
+ It is the intention of the Company to negotiate the renewals of the expiring leases as they come due, providing the tenants maintain adequate finances. 
+
+Occupancy 
+ 
+ Lease Expiration 
+ 
+ Rent 
+ 
+ Year 
+
+Year 
+ 
+ Number of 
+ 
+ Area 
+ 
+ Annual 
+ 
+ Percentage of 
+ 
+ Ended 
+ 
+ Rate 
+ 
+ Ended 
+ 
+ Leases 
+ 
+ Sq. Ft. 
+ 
+ Rent 
+ 
+ Gross Annual Rent 
+ 
+ 7/31/2017 
+ 
+ 77.53 
+ 
+ 7/31/2022 
+
+3 
+
+16,956 
+
+431,394 
+
+2.134 
+
+7/31/2018 
+ 
+ 84.22 
+ 
+ 7/31/2023 
+
+2 
+
+16,760 
+
+595,945 
+
+2.948 
+
+7/31/2019 
+ 
+ 85.14 
+ 
+ 7/31/2025 
+
+1 
+
+23,004 
+
+752,698 
+
+3.724 
+
+7/31/2020 
+ 
+ 73.22 
+ 
+ 7/31/2028 
+
+1 
+
+5,600 
+
+151,018 
+
+.747 
+
+7/31/2021 
+ 
+ 72.54 
+ 
+ 7/31/2030 
+
+1 
+
+30,816 
+
+950,745 
+
+4.704 
+
+7/31/2031 
+
+1 
+
+5,500 
+
+67,550 
+
+.334 
+
+7/31/2036 
+
+1 
+
+12,105 
+
+43,044 
+
+.213 
+
+7/31/2037 
+
+1 
+
+17,425 
+
+624,179 
+
+3.088 
+
+7/31/2059 
+
+1 
+
+19,437 
+
+137,201 
+
+.679 
+
+12 
+
+147,603 
+
+3,753,774 
+
+18.571 
+
+As of July 31, 2021 the federal tax basis is 7,550,837 with accumulated depreciation of 4,844,409 for a net carrying value of 2,706,428. The lives taken for depreciation vary between 15-40 years and the methods used are straight-line and declining balance. 
+ The real estate taxes for this property are 772,959 per year and the rate used is averaged at 11.197 per 100 of assessed valuation. 
+
+3. 
+ Jamaica, New York Jamaica Avenue at 169th Street 
+
+Building, improvements and land property are leased from an affiliated company, principally owned by a director of the Company Landlord ). The lease expires May 31, 2030. Upon lease termination, all property included in operating lease right-of-use assets and leasehold improvements will be turned over to the landlord. 
+
+The property is currently leased to nine tenants: four are retail tenants and five occupy office space. In April 2020, the Company extended its lease with its landlord until May 2030. Four tenants each occupy in excess of 10 of the rentable square footage: two retail stores occupy 15.86 and 17.66 , respectively; and two office tenants occupy 14.23 and 13.50 , respectively. Approximately 23,000 square feet of the building is available for lease. There are plans to renovate vacant space for office use upon the execution of future leases to tenants, although no assurances can be made as to when or if such leases will be entered into. 
+
+It is the intention of the Company to negotiate the renewals of the expiring leases as they come due, providing the tenants maintain adequate finances. 
+
+Occupancy 
+
+Lease Expiration 
+
+Rent 
+
+Year 
+
+Year 
+
+Number of 
+
+Area 
+
+Annual 
+
+Percentage of 
+
+Ended 
+
+Rate 
+
+Ended 
+
+Leases 
+
+Sq. Ft. 
+
+Rent 
+
+Gross Annual Rent 
+
+7/31/2017 
+
+80.50 
+
+7/31/2022 
+
+2 
+
+64,295 
+
+1,679,021 
+
+8.306 
+
+7/31/2018 
+
+79.99 
+
+7/31/2023 
+
+2 
+
+40,109 
+
+1,115,246 
+
+5.518 
+
+7/31/2019 
+
+80.50 
+
+7/31/2024 
+
+1 
+
+28,634 
+
+622,115 
+
+3.078 
+
+7/31/2020 
+
+80.51 
+
+7/31/2025 
+
+1 
+
+147 
+
+24,000 
+
+.119 
+
+7/31/2021 
+
+80.41 
+
+7/31/2026 
+
+1 
+
+6,095 
+
+173,252 
+
+.857 
+
+7/31/2029 
+
+2 
+
+99,544 
+
+1,927,566 
+
+9.536 
+
+9 
+
+238,824 
+
+5,541,200 
+
+27.414 
+
+5 
+
+Table of Contents 
+
+Until the lease agreement terminates in 2030, the Company remains solely entitled to tax depreciation and other tax deductions relating to the buildings, improvements and maintenance of the property. As of July 31, 2021, the federal tax basis is 13,863,981 with accumulated depreciation of 9,397,487 for a net carrying value of 4,466,494. The lives taken for depreciation vary between 15-40 years and the methods used are straight-line and declining balance. 
+ The real estate taxes for this property are 946,314 per year and the rate used is averaged at 11.250 per 100 of assessed valuation. 
+
+4. 
+ Fishkill, New York Route 9 at Interstate Highway 84 
+
+The Company owns the entire property. In July 2019, the Company leased 47.000 square feet to a community college at its Fishkill, New York building, for a term of fifteen years with two five-year option periods. The tenant took occupancy in June 2020 and commenced payment of rent in September of 2020. 
+
+There are approximately 156,000 square feet of the building available for lease. There are plans to renovate vacant space upon the execution of future leases to tenants, although no assurances can be made as to when or if such leases will be entered into. 
+
+Occupancy 
+
+Lease Expiration 
+
+Rent 
+
+Year 
+
+Year 
+
+Number of 
+
+Area 
+
+Annual 
+
+Percentage of 
+
+Ended 
+
+Rate 
+
+Ended 
+
+Leases 
+
+Sq. Ft. 
+
+Rent 
+
+Gross Annual Rent 
+
+7/31/2017 
+
+47.39 
+
+8/31/2035 
+
+1 
+
+47,000 
+
+907,868 
+
+4.492 
+
+7/31/2018 
+
+47.39 
+
+7/31/2019 
+
+45.42 
+
+7/31/2020 
+
+21.48 
+
+7/31/2021 
+
+20.42 
+
+As of July 31, 2021 the federal tax basis is 20,523,193 with accumulated depreciation of 15,122,512 for a net carrying value of 5,400,681. The lives taken for depreciation vary between 15-40 years and the methods used are straight-line and declining balance. 
+ The real estate taxes for this property are 143,375 per year and the rate used is averaged at 3.186 per 100 of assessed valuation. 
+
+5. 
+ Levittown, New York Hempstead Turnpike 
+
+The Company owns the entire property. In October 2006, the Company entered into a lease agreement with a restaurant. The restaurant constructed a new 10,000 square foot building, which opened in May 2008. In October 2016, the restaurant extended its lease for an additional five years expiring May 3, 2023. Ownership of the building reverts to the Company at the conclusion of the leasing arrangement, currently May 3, 2023. 
+
+Occupancy 
+ 
+ Lease Expiration 
+ 
+ Rent 
+ 
+ Year 
+
+Year 
+ 
+ Number of 
+ 
+ Area 
+ 
+ Annual 
+ 
+ Percentage of 
+ 
+ Ended 
+ 
+ Rate 
+ 
+ Ended 
+ 
+ Leases 
+ 
+ Sq. Ft. 
+ 
+ Rent 
+ 
+ Gross Annual Rent 
+ 
+ 7/31/2017 
+ 
+ 100.00 
+ 
+ 7/31/2023 
+
+Building 
+
+10,000 
+
+423,874 
+
+2.097 
+
+7/31/2018 
+ 
+ 100.00 
+
+Land 
+
+75,800 
+
+7/31/2019 
+ 
+ 100.00 
+
+1 
+
+85,800 
+
+7/31/2020 
+ 
+ 100.00 
+
+7/31/2021 
+ 
+ 100.00 
+
+The real estate taxes for this property are 164,929 per year and the rate used is averaged at 775.888 per 100 of assessed valuation. 
+
+6. 
+ Massapequa, New York Sunrise Highway 
+
+The Company is the prime tenant of this leasehold. The lease expired May 14, 2009, and there was one renewal option for twenty-one years, which the Company exercised in April 2008. The leasehold is currently subleased to two tenants; one tenant occupies 113,400 square feet of the property, and the other tenant occupies 20,000 square feet of the property. The subleases expire in May 2030, with no renewal options. 
+ 6 
+
+Table of Contents 
+
+The Company in August 2019 leased 20,000 square feet of space to a fast food restaurant expiring in April 2030. Rent commenced in September 2020. 
+
+Occupancy 
+ 
+ Lease Expiration 
+ 
+ Rent 
+ 
+ Year 
+
+Year 
+ 
+ Number of 
+ 
+ Area 
+ 
+ Annual 
+ 
+ Percentage of 
+ 
+ Ended 
+ 
+ Rate 
+ 
+ Ended 
+ 
+ Leases 
+ 
+ Sq. Ft. 
+ 
+ Rent 
+ 
+ Gross Annual Rent 
+ 
+ 7/31/2017 
+ 
+ 85.01 
+ 
+ 7/31/2030 
+
+1 
+
+113,400 
+
+765,719 
+
+3.788 
+
+7/31/2018 
+ 
+ 90.63 
+ 
+ 7/31/2030 
+
+1 
+
+20,000 
+
+37,500 
+
+.186 
+
+7/31/2019 
+ 
+ 85.01 
+
+133,400 
+
+803,219 
+
+3.974 
+
+7/31/2020 
+ 
+ 85.01 
+
+7/31/2021 
+ 
+ 93.75 
+
+The real estate taxes for this property are 225,476 per year and the rate used is averaged at 746.28 per 100 of assessed valuation. 
+ The Company does not own this property. Improvements to the property, if any, are made by tenants. 
+
+7. 
+ Circleville, Ohio Tarlton Road 
+
+The Company owns the entire property. The property is currently leased to two tenants. The tenants use these premises for warehouse and distribution facilities. One tenant s lease agreement was executed for a five-year period, with a right to cancel after three years, for 75,000 square feet to November 11, 2010 at which time the tenant occupied 30,000 square feet on a month to month basis. In October 2013, the tenant signed a lease agreement for a five-year period to occupy 48,000 square feet and in May 2015 signed a modification of lease to occupy 72,000 square feet. In August 2016, this tenant signed a further modification of lease to occupy 84,000 square feet, which in December 2020 was extended for an additional three years to expire October 31, 2024. The other tenant s lease agreement was executed in May 2015, for a five-year period effective June 1, 2015, and allows the tenant to have permanent space of 108,000 square feet. In April 2020, the tenant further extended the lease until May 31, 2023. 
+
+Occupancy 
+ 
+ Lease Expiration 
+ 
+ Rent 
+ 
+ Year 
+
+Year 
+ 
+ Number of 
+ 
+ Area 
+ 
+ Annual 
+ 
+ Percentage of 
+ 
+ Ended 
+ 
+ Rate 
+ 
+ Ended 
+ 
+ Leases 
+ 
+ Sq. Ft. 
+ 
+ Rent 
+ 
+ Gross Annual Rent 
+ 
+ 7/31/2017 
+ 
+ 99.04 
+ 
+ 7/31/2023 
+
+1 
+
+108,000 
+
+414,931 
+
+2.052 
+
+7/31/2018 
+ 
+ 99.04 
+ 
+ 7/31/2025 
+
+1 
+
+84,000 
+
+296,230 
+
+1.466 
+
+7/31/2019 
+ 
+ 99.10 
+
+2 
+
+192,000 
+
+711,161 
+
+3.518 
+
+7/31/2020 
+ 
+ 99.30 
+
+7/31/2011 
+ 
+ 99.30 
+
+As of July 31, 2021 the federal tax basis is 4,466,746 with accumulated depreciation of 3,901,221 for a net carrying value of 565,525. The lives taken for depreciation vary between 15-40 years and the methods used are straight-line and declining balance. 
+ The real estate taxes for this property are 38,186 per year and the rate used is averaged at 5.080 per 100 of assessed valuation. 
+ In the opinion of management, all of the Company s properties are adequately covered by insurance. 
+ See Note 9 to the Consolidated Financial Statements contained in the 2021 Annual Report to Shareholders, which information is incorporated herein by reference, for information concerning the tenants, the rental income from which equals 10 or more of the Company s rental income. 
+ 7 
+
+Table of Contents 
+ ITEM 3. LEGAL PROCEEDINGS. 
+ There are various lawsuits and claims pending against the Company. It is the opinion of management that the resolution of these matters will not have a material adverse effect on the Company s Consolidated Financial Statements. 
+ If the Company sells, transfers, disposes of or demolishes 25 Elm Place, Brooklyn, New York, then the Company may be liable to create a condominium unit for the loading dock. The necessity of creating the condominium unit and the cost of such condominium unit cannot be determined at this time. 
+ ITEM 4. MINE SAFETY DISCLOSURES. 
+ None 
+ 8 
+
+Table of Contents 
+ PART II 
+
+ITEM 5. 
+ MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+ COMMON STOCK INFORMATION 
+ Effective November 8, 1999, the Company s common stock commenced trading on The Nasdaq Capital Market tier of The Nasdaq Stock Market under the Symbol: Mays . Such shares were previously traded on The Nasdaq National Market. Effective August 1, 2006, NASDAQ became operational as an exchange in NASDAQ-Listed Securities. It is now known as The NASDAQ Stock Market LLC. 
+ On September 6, 2021, the Company had approximately 800 shareholders of record. 
+ RECENT SALES OF UNREGISTERED SECURITIES 
+ During the year ended July 31, 2021 we did not sell any unregistered securities. 
+ RECENT PURCHASES OF EQUITY SECURITIES 
+ During the fourth quarter of the year ended July 31, 2021, we did not repurchase any of our outstanding equity securities. 
+ ITEM 6. SELECTED FINANCIAL DATA. 
+ Not required. 
+
+ITEM 7. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+ The information appearing under the heading Management s Discussion and Analysis of Financial Condition and Results of Operations on pages 23-29 of the Registrant s 2021 Annual Report to Shareholders is incorporated herein by reference. 
+ ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+ Not required. 
+ ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+ The Registrant s Consolidated Financial Statements, together with the report of Prager Metis CPA S, LLC, independent registered public accounting firm, dated October 21, 2021, appearing on pages 3 through 22 of the Registrant s 2021 Annual Report to Shareholders is incorporated herein by reference. With the exception of the aforementioned information and the information incorporated by reference in Items 2, 6, and 7 hereof, the 2021 Annual Report to Shareholders is not to be deemed filed as part of this Form 10-K Annual Report. 
+
+ITEM 9. 
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+ There are no disagreements between the Company and its accountants relating to accounting or financial disclosures. The information contained in our Forms 8-K filed on October 19, 2020 is incorporated by reference. 
+ 9 
+
+Table of Contents 
+ ITEM 9A. CONTROLS AND PROCEDURES. 
+ (A) EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES. 
+ The Company s management reviewed the Company s internal controls and procedures and the effectiveness of these controls. As of July 31, 2021, the Company carried out an evaluation, under the supervision of, and with the participation of the Company s management, including its Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of the Company s disclosure controls and procedures pursuant to Rules 13a-14(c) and 15d-14(c) of the Securities Exchange Act of 1934. Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the Company s disclosure controls and procedures are effective in timely alerting them to material information relating to the Company required to be included in its periodic SEC filings. 
+ (B) CHANGE TO INTERNAL CONTROLS OVER FINANCIAL REPORTING. 
+ There was no change in the Company s internal controls over financial reporting or in other factors during the Company s last fiscal quarter that materially affected, or is reasonably likely to materially affect, the Company s internal controls over financial reporting. There were no significant deficiencies or material weaknesses noted, and therefore there were no corrective actions taken. 
+ (C) MANAGEMENT S ANNUAL REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING. 
+ The Company s management is responsible for establishing and maintaining adequate internal control over financial reporting as such term is defined in Rule 13(a)-15(f). Our internal control system has been designed to provide reasonable assurance to the Company s management and its Board of Directors regarding the preparation and fair presentation of published financial statements. All internal control systems, no matter how well designed, have inherent limitations. Even those systems that have been determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. The Company s management assessed the effectiveness of our internal control over financial reporting as of July 31, 2021. In making this assessment, the Company s management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission in Internal Control Integrated Framework published in 2013. Based on the Company s assessments, we believe that, as of July 31, 2021, its internal control over financial reporting is effective based on these criteria. 
+ This Form 10-K Annual Report does not include an attestation report of our independent registered public accounting firm regarding internal controls over financial reporting. Management s report was not subject to attestation by our independent registered public accounting firm pursuant to the permanent exemption for smaller reporting company filers from the internal control audit requirement of Section 404(b) of the Sarbanes-Oxley Act of 2002. 
+ ITEM 9B. OTHER INFORMATION. 
+ Reports on Form 8-K - Two reports on Form 8-K were filed by the Company during the three months ended July 31, 2021. 
+ Item reported - The Company reported its financial results for the three and nine months ended April 30, 2021. 
+ Date of report filed - June 10, 2021. 
+ Item reported - The Company reported the death of a director, Mr. Jack Schwartz. 
+ Date of report filed - June 30, 2021. 
+ 10 
+
+Table of Contents 
+ PART III 
+ ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+ The information relating to directors of the Company is contained in the Definitive Proxy Statement for the 2021 Annual Meeting of Shareholders and such information is incorporated herein by reference. 
+ Executive Officers of the Registrant 
+ The following information is furnished with respect to each Executive Officer of the Registrant (each of whose position is reviewed annually but each of whom has a three-year employment agreement, effective August 1, 2011 and renewed August 1, 2014, August 1, 2017 and August 1, 2020). 
+
+First Became 
+
+Business Experience During 
+ 
+ Such Officer 
+ 
+ Name 
+ 
+ Age 
+ 
+ the Past Five Years 
+ 
+ or Director 
+ 
+ Lloyd J. Shulman 
+ 
+ 79 
+ 
+ President 
+ 
+ November, 1978 
+
+Co-Chairman of the Board 
+
+and President 
+ 
+ June, 1995 
+
+Chairman of the Board 
+
+and President 
+ 
+ November, 1996 
+
+Director 
+ 
+ November, 1977 
+ 
+ Mark S. Greenblatt 
+ 
+ 67 
+ 
+ Vice President 
+ 
+ August, 2000 
+
+Treasurer 
+ 
+ August, 2003 
+
+Director 
+ 
+ August, 2003 
+
+Assistant Treasurer 
+ 
+ November, 1987 
+ 
+ Ward N. Lyke, Jr. 
+ 
+ 70 
+ 
+ Vice President 
+ 
+ February, 1984 
+
+Assistant Treasurer 
+ 
+ August, 2003 
+ 
+ George Silva 
+ 
+ 71 
+ 
+ Vice President 
+ 
+ March, 1995 
+
+ All of the above mentioned officers have been appointed as such by the directors and have been employed as Executive Officers of the Company during the past five years. 
+ ITEM 11. COMPENSATION. 
+ The information required by this item appears under the heading Compensation in the Definitive Proxy Statement for the 2021 Annual Meeting of Shareholders and such information is incorporated herein by reference. 
+
+ITEM 12. 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+ The information required by this item appears under the headings Security Ownership of Certain Beneficial Owners and Management and Information Concerning Nominees for Election as Directors in the Definitive Proxy Statement for the 2021 Annual Meeting of Shareholders and such information is incorporated herein by reference. 
+
+ITEM 13. 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+ The information required by this item appears under the headings Compensation Certain Transactions, and Board Interlocks and Insider Participation in the Definitive Proxy Statement for the 2021 Annual Meeting of Shareholders and such information is incorporated herein by reference. 
+ 11 
+
+Table of Contents 
+ ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES. 
+ The following table sets forth the fees paid by the Company (on a cash basis) to its independent registered public accounting firm, Prager Metis CPA S, LLC, for the fiscal years 2021 and 2020. 
+
+Fiscal Year 
+
+2021 
+ 
+ 2020 
+ 
+ Audit fees 
+
+170,000 
+
+165,000 
+ 
+ Audit related fees 
+
+11,000 
+
+10,500 
+ 
+ Tax fees 
+
+45,000 
+
+66,310 
+ 
+ Total Fees 
+
+226,000 
+
+241,810 
+
+Audit Fees for fiscal year 2021 and fiscal year 2020 were for professional services rendered for the audits of the consolidated financial statements of the Company, interim quarterly reviews of Form 10-Q information and assistance with the review of documents filed with the U. S. Securities and Exchange Commission. 
+ Audit related fees for fiscal year 2021 and fiscal 2020 consist of consultations concerning financial accounting and reporting standards. 
+ Tax fees for fiscal year 2021 and fiscal year 2020 were for services related to tax compliance and preparation of federal, state and local corporate tax returns and audit of real estate tax matters. 
+ The officers of the Company consult with, and receive the approval of, the Audit Committee before engaging accountants for any services. 
+ PART IV 
+ ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES. 
+
+The following documents are filed as part of this report: 
+
+1. 
+ 
+ The Consolidated Financial Statements and report of Prager Metis CPA S, LLC, independent registered public accounting firm, dated October 21, 2021, set forth on pages 3 through 23 of the Company s 2021 Annual Report to Shareholders. 
+
+2. 
+ 
+ See accompanying Index to the Company s Consolidated Financial Statements and Schedules. 
+
+3. 
+ 
+ Exhibits: 
+
+(2) 
+ 
+ Plan of acquisition, reorganization, arrangement, liquidation or succession not applicable. 
+
+(3) 
+ 
+ Articles of incorporation and by-laws: 
+
+(i) 
+ 
+ Certificate of Incorporation and certificate of amendment. 
+
+(ii) 
+ 
+ By-laws, as amended incorporated by reference. 
+
+(4) 
+ 
+ Instruments defining the rights of security holders, including indentures see Exhibit (3) above. 
+
+(9) 
+ 
+ Voting trust agreement not applicable. 
+
+(10) 
+ 
+ Material contracts: The J.W. Mays, Inc. Retirement Plan and Trust, Summary Plan Description, effective August 1, 2015. 
+
+(11) 
+ 
+ Statement re computation of per share earnings not applicable. 
+
+(12) 
+ 
+ Statement re computation of ratios not applicable. 
+
+(13) 
+ 
+ Annual Report to security holders. 
+
+(14) 
+ 
+ Code of ethics not applicable. 
+
+ 12 
+
+Table of Contents 
+
+(18) 
+ 
+ Letter re change in accounting principles not applicable. 
+
+(21) 
+ 
+ Subsidiaries of the registrant. 
+
+(22) 
+ 
+ Published report re matters submitted to vote of security holders not applicable. 
+
+(24) 
+ 
+ Power of attorney none. 
+
+(28) 
+ 
+ Information from reports furnished to state insurance regulatory authorities not applicable. 
+
+(31) 
+ 
+ Certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+31.1 Chief Executive Officer 
+
+31.2 Chief Financial Officer 
+
+(32) 
+ 
+ Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002; 18 U.S.C. Sec. 1350. 
+
+ 13 
+
+Table of Contents 
+ SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+J.W. MAYS, INC. 
+
+(Registrant) 
+
+October 21, 2021 
+ By: 
+ 
+ LLOYD J. SHULMAN 
+
+Lloyd J. Shulman 
+
+Chairman of the Board 
+
+Principal Executive Officer 
+
+President 
+
+Principal Operating Officer 
+
+October 21, 2021 
+ By: 
+ 
+ MARK S. GREENBLATT 
+
+Mark S. Greenblatt 
+
+Vice President and Treasurer 
+
+Principal Financial Officer 
+
+October 21, 2021 
+ By: 
+ 
+ WARD N. LYKE, JR. 
+
+Ward N. Lyke, Jr. 
+
+Vice President 
+
+and Assistant Treasurer 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant in the capacities and on the date indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+LLOYD J. SHULMAN 
+ 
+ Chairman of the Board, Chief Executive 
+ 
+ October 21, 2021 
+ 
+ Lloyd J. Shulman 
+ 
+ Officer, President, Chief Operating 
+
+Officer and Director 
+
+MARK S. GREENBLATT 
+ 
+ Vice President, Treasurer and Director 
+ 
+ October 21, 2021 
+ 
+ Mark S. Greenblatt 
+
+ROBERT L. ECKER 
+ 
+ Director 
+ 
+ October 21, 2021 
+ 
+ Robert L. Ecker 
+
+STEVEN GURNEY-GOLDMAN 
+ 
+ Director 
+ 
+ October 21, 2021 
+ 
+ Steven Gurney-Goldman 
+
+JOHN J. PEARL 
+ 
+ Director 
+ 
+ October 21, 2021 
+ 
+ John J. Pearl 
+
+DEAN L. RYDER 
+ 
+ Director 
+ 
+ October 21, 2021 
+ 
+ Dean L. Ryder 
+
+14 
+
+Table of Contents 
+ INDEX TO REGISTRANT S FINANCIAL STATEMENTS AND SCHEDULES 
+ Reference is made to the following sections of the Registrant s Annual Report to Shareholders for the fiscal year ended July 31, 2021, which are incorporated herein by reference: 
+ Report of Independent Registered Public Accounting Firms (pages 22-23) 
+ Consolidated Balance Sheets (page 3) 
+ Consolidated Statements of Operations (page 4) 
+ Consolidated Statement of Changes in Shareholders Equity (page 5) 
+ Consolidated Statements of Cash Flows (page 6) 
+ Notes to Consolidated Financial Statements (pages 7-19) 
+ Financial Statement Schedules 
+ Real Estate and Accumulated Depreciation (page 20) 
+ Report of Management (page 21) 
+ All other schedules for which provision is made in the applicable regulations of the U. S. Securities and Exchange Commission are not required under the related instructions or are inapplicable and, accordingly, are omitted. 
+ The separate financial statements and schedules of J.W. Mays, Inc. (not consolidated) are omitted because the Company is primarily an operating company and its subsidiaries are wholly-owned. 
+ ____________________ 
+ 15 
+
+Table of Contents 
+ EXHIBIT INDEX TO FORM 10-K 
+
+(2) 
+ Plan of acquisition, reorganization, arrangement, liquidation or succession not applicable 
+
+(3) 
+ 
+ (i) 
+ 
+ Certificate of incorporation and certificate of amendment 
+
+(ii) 
+ 
+ By-laws, as amended incorporated by reference 
+
+(4) 
+ Instruments defining the rights of security holders, including indentures see Exhibit (3) above 
+
+(9) 
+ Voting trust agreement not applicable 
+
+(10) 
+ Material contracts Retirement Plan and Trust, Summary Plan Description 
+
+(11) 
+ Statement re computation of per share earnings not applicable 
+
+(12) 
+ Statement re computation of ratios not applicable 
+
+(13) 
+ 
+ Annual Report to security holders 
+
+(14) 
+ Code of ethics not applicable 
+
+(18) 
+ Letter re change in accounting principles not applicable 
+
+(21) 
+ 
+ Subsidiaries of the Registrant 
+
+(22) 
+ Published report re matters submitted to vote of security holders not applicable 
+
+(24) 
+ Power of attorney none 
+
+(28) 
+ Information from reports furnished to state insurance regulatory authorities not applicable 
+
+(31) 
+ Certifications Pursuant to Section 302 of the Sarbanes-Oxley Act 1 and 2 
+
+31.1 Chief Executive Officer 
+
+31.2 Chief Financial Officer 
+
+(32) 
+ 
+ Certification Pursuant to Section 906 of the Sarbanes-Oxley Act 
+
+EX-101.INS 
+ XBRL INSTANCE DOCUMENT 
+
+EX-101.SCH 
+ XBRL TAXONOMY EXTENSION SCHEMA 
+
+EX-101.PRE 
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE 
+
+EX-101.LAB 
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE 
+
+EX-101.CAL 
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE 
+
+EX-101.DEF 
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE 
+ 16 
+
+<EX-13>
+ 2
+ jwmays3906498-ex13.htm
+ ANNUAL REPORT TO SECURITY HOLDERS
+
+EXHIBIT 13 
+
+J.W. MAYS, INC. 
+
+Annual Report 
+
+2021 
+
+Year Ended July 31, 2021 
+
+J.W. MAYS, INC. 
+
+Contents 
+ 
+ Page No. 
+ 
+ The Company 
+ 
+ 2 
+ 
+ Message to Shareholders 
+ 
+ 2 
+ 
+ Consolidated Balance Sheets 
+ 
+ 3 
+ 
+ Consolidated Statements of Operations 
+ 
+ 4 
+ 
+ Consolidated Statements of Changes in Shareholders Equity 
+ 
+ 5 
+ 
+ Consolidated Statements of Cash Flows 
+ 
+ 6 
+ 
+ Notes to Consolidated Financial Statements 
+ 
+ 7-19 
+ 
+ Real Estate and Accumulated Depreciation (Schedule III) 
+ 
+ 20 
+ 
+ Report of Management 
+ 
+ 21 
+ 
+ Report of Independent Registered Public Accounting Firm 
+ 
+ 22-23 
+ 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 24-29 
+ 
+ Controls and Procedures 
+ 
+ 29 
+ 
+ Common Stock Information 
+ 
+ 30 
+ 
+ Officers and Directors 
+ 
+ 30 
+
+ Executive Offices 9 Bond Street, Brooklyn, N.Y. 11201-5805 
+ Transfer Agent and Registrar American Stock Transfer Trust Company, LLC 6201 15th Avenue Brooklyn, N.Y. 11219 
+ Special Counsel Holland Knight LLP 31 West 52 nd Street New York, N.Y. 10019 
+ Independent Registered Public Accounting Firm Prager Metis CPA S, LLC 401 Hackensack Avenue Hackensack, NJ, 07601 
+ Annual Meeting The Annual Meeting of Shareholders will be held on Tuesday, November 23, 2021, at 10:00 A.M., Eastern Standard time, at J.W. MAYS, INC., 9 Bond Street, Brooklyn, New York. 
+
+J.W. MAYS, INC. 
+ THE COMPANY 
+ J.W. Mays, Inc. was founded in 1924 and incorporated under the laws of the State of New York on July 6, 1927. 
+ The Company operates a number of commercial real estate properties located in Brooklyn and Jamaica in New York City; in Levittown and Massapequa, Long Island, New York; in Fishkill, Dutchess County, New York; and in Circleville, Ohio. The major portions of these properties are owned and the balance is leased. A substantial percentage of these properties are leased to tenants while the remainder is available for lease. 
+ More comprehensive information concerning the Company appears in its Form 10-K Annual Report for the fiscal year ended July 31, 2021. 
+ J.W. MAYS, INC. 
+ TO OUR SHAREHOLDERS: 
+ Beginning March 2020 and continuing through July 2021, we experienced an increase in late payments due to the impact of COVID-19 and the related reductions in economic activity from government mandated business disruptions and shelter -in- place orders. The effects of COVID-19 on our tenants have been reflected in our allowance for credit losses for accounts receivable. In limited circumstances, we have agreed to rent abatements and deferrals for certain tenants. We also continue to experience volatility in the valuation of our equity investments through July 31, 2021. 
+ In fiscal 2021, our revenues from operations were 20,212,879 compared to 19,531,846 in the 2020 fiscal year. Net income for fiscal 2021 was 398,032, or .20 per share. This compares to net loss of (906,005), or (.45) per share, for fiscal 2020. Looking ahead, the full impact of COVID-19 on our business is unknown and highly unpredictable. Although the adverse economic effects to our Company of the COVID-19 pandemic have been significant, we have accomplished the following during fiscal 2021 to better position the Company when the economy and specifically the commercial real estate market begins to rebound: 
+
+having the community college that leased 47,000 square feet of space in our Fishkill, New York building take occupancy in June 2020 and commenced paying rent in September 2020; 
+
+entering into lease agreements with five new tenants at our Nine Bond Street, and Jowein buildings in Brooklyn, New York; 
+
+ On May 26, 2021, the Small Business Administration SBA authorized full forgiveness of the Company s Paycheck Protection Program PPP loan in the amount of 722,726. Such proceeds were recorded as a full reduction of the note payable and extinguishment of debt income in the three months and year ending July 31, 2021. 
+ Our long term strategy of pursuing and entering into leases with governmental agencies, health care providers and corporate tenants, as well as being able to partner with a significant educational institution such as the one which is located in our Fishkill building, and our ability to retain a significant majority of our tenants over a long period of time, should serve our Company well as we move forward from the effects of the COVID-19 pandemic. 
+ I still believe our Company will be able to move forward from these challenging economic times. I specifically want to thank Mays personnel and our Board colleagues for their ongoing commitment and support, our shareholders for their continuing belief in our Company and its future and our tenants for their continuing loyalty to our Company. We will certainly miss our Board colleague Mr. Jack Schawartz, who passed away on June 27, 2021, and his thirty-five years of dedicated service to the Company. 
+ 
+ Lloyd J. Shulman Chairman, President and Chief Executive Officer 
+ October 21, 2021 
+ 2 
+
+J.W. MAYS, INC. 
+ CONSOLIDATED BALANCE SHEETS July 31, 2021 and 2020 
+
+July 31 
+
+ASSETS 
+ 
+ 2021 
+
+2020 
+
+Property and Equipment-at cost: 
+
+Land 
+
+6,067,805 
+
+6,067,805 
+
+Buildings held for leasing: 
+
+Buildings, improvements and fixtures 
+
+74,547,096 
+
+73,271,398 
+
+Construction in progress 
+
+2,244,959 
+
+1,266,723 
+
+76,792,055 
+
+74,538,121 
+
+Accumulated depreciation 
+
+(34,793,458) 
+
+(33,007,989) 
+ 
+ Buildings - net 
+
+41,998,597 
+
+41,530,132 
+
+Property and equipment-net 
+
+48,066,402 
+
+47,597,937 
+
+Cash and cash equivalents 
+
+1,552,389 
+
+3,260,135 
+
+Restricted cash 
+
+882,330 
+
+1,143,666 
+
+Receivables, net 
+
+2,416,769 
+
+2,219,946 
+
+Marketable securities 
+
+3,901,093 
+
+3,744,905 
+
+Prepaids and other assets 
+
+2,384,727 
+
+2,389,582 
+
+Deferred charges, net 
+
+3,739,243 
+
+2,986,648 
+
+Operating lease right-of-use assets 
+
+34,566,169 
+
+37,077,038 
+
+TOTAL ASSETS 
+
+97,509,122 
+
+100,419,857 
+
+LIABILITIES AND SHAREHOLDERS EQUITY 
+
+Liabilities: 
+
+Mortgages payable 
+
+7,518,777 
+
+8,627,965 
+
+Note payable 
+
+722,726 
+
+Accounts payable and accrued expenses 
+
+2,632,905 
+
+2,771,540 
+
+Security deposits payable 
+
+834,470 
+
+809,652 
+
+Operating lease liabilities 
+
+27,840,930 
+
+29,044,966 
+
+Deferred income taxes 
+
+4,582,000 
+
+4,741,000 
+
+Total liabilities 
+
+43,409,082 
+
+46,717,849 
+
+Shareholders Equity: 
+
+Common stock, par value 1 each share (shares-5,000,000 authorized; 2,178,297 issued) 
+
+2,178,297 
+
+2,178,297 
+
+Additional paid in capital 
+
+3,346,245 
+
+3,346,245 
+
+Retained earnings 
+
+49,863,350 
+
+49,465,318 
+
+55,387,892 
+
+54,989,860 
+
+Common stock held in treasury, at cost - 162,517 shares at July 31, 2021 and July 31, 2020 
+
+(1,287,852) 
+
+(1,287,852) 
+ 
+ Total Shareholders Equity 
+
+54,100,040 
+
+53,702,008 
+
+TOTAL LIABILITIES AND SHAREHOLDERS EQUITY 
+
+97,509,122 
+
+100,419,857 
+
+See Notes to Accompanying Consolidated Financial Statements. 
+ 3 
+
+J.W. MAYS, INC. 
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+Years Ended July 31, 
+
+2021 
+
+2020 
+
+Revenues 
+
+Rental income 
+
+20,212,879 
+
+19,531,846 
+
+Total revenues 
+
+20,212,879 
+
+19,531,846 
+
+Expenses 
+
+Real estate operating expenses 
+
+14,306,967 
+
+14,024,623 
+
+Administrative and general expenses 
+
+4,958,227 
+
+5,085,360 
+
+Depreciation 
+
+1,785,468 
+
+1,661,280 
+
+Total expenses 
+
+21,050,662 
+
+20,771,263 
+
+Loss from operations 
+
+(837,783) 
+
+(1,239,417) 
+ 
+ Other income and interest expense 
+
+Investment income 
+
+173,548 
+
+145,561 
+
+Change in fair value of marketable securities 
+
+446,126 
+
+35,372 
+
+Interest expense 
+
+(265,585) 
+
+(202,521) 
+ 
+ Extinguishment of debt 
+
+722,726 
+
+1,076,815 
+
+(21,588) 
+ 
+ Income (loss) before income tax 
+
+239,032 
+
+(1,261,005) 
+ 
+ Income tax provision (benefit) 
+
+(159,000) 
+
+(355,000) 
+ 
+ Net income (loss) 
+
+398,032 
+
+(906,005) 
+
+Income (loss) per common share, basic and diluted 
+
+.20 
+
+(0.45) 
+ 
+ Dividends per share 
+
+Average common shares outstanding, basic and diluted 
+
+2,015,780 
+
+2,015,780 
+
+See Notes to Accompanying Consolidated Financial Statements. 
+ 4 
+
+J.W. MAYS, INC. 
+ CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS EQUITY 
+
+Additional 
+
+Common 
+
+Common 
+ 
+ Paid In 
+ 
+ Retained 
+
+Stock Held in 
+
+Stock 
+ 
+ Capital 
+ 
+ Earnings 
+
+Treasury 
+
+Total 
+
+Balance at July 31, 2019 
+
+2,178,297 
+
+3,346,245 
+
+50,371,323 
+
+(1,287,852) 
+
+54,608,013 
+
+Net loss, year ended July 31, 2020 
+
+(906,005) 
+
+(906,005) 
+ 
+ Balance at July 31, 2020 
+
+2,178,297 
+
+3,346,245 
+
+49,465,318 
+
+(1,287,852) 
+
+53,702,008 
+
+Net income, year ended July 31, 2021 
+
+398,032 
+
+398,032 
+
+Balance at July 31, 2021 
+
+2,178,297 
+
+3,346,245 
+
+49,863,350 
+
+(1,287,852) 
+
+54,100,040 
+
+See Notes to Accompanying Consolidated Financial Statements. 
+ 5 
+
+J.W. MAYS, INC. 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+Years Ended July 31, 
+
+2021 
+
+2020 
+
+Cash Flows From Operating Activities: 
+
+Net income (loss) 
+
+398,032 
+
+(906,005) 
+ 
+ Adjustments to reconcile net income (loss) to net cash provided by operating activities: 
+
+Bad debt expense 
+
+236,000 
+
+255,060 
+
+Provision (Benefit) for deferred income tax 
+
+(159,000) 
+
+(355,000) 
+ 
+ Disposition of property and equipment 
+
+40,992 
+
+Net realized and unrealized (gain) on sale of marketable securities 
+
+(519,909) 
+
+(63,918) 
+ 
+ Depreciation 
+
+1,785,468 
+
+1,661,280 
+
+Amortization of deferred charges 
+
+385,967 
+
+297,887 
+
+Operating lease expense in excess of cash payments 
+
+1,306,833 
+
+1,209,357 
+
+Deferred finance costs included in interest expense 
+
+38,112 
+
+31,991 
+
+Extinguishment of debt 
+
+(722,726) 
+
+Deferred charges 
+
+(1,138,562) 
+
+(708,713) 
+ 
+ Changes in Operating Assets and Liabilities: 
+
+Receivables 
+
+(432,823) 
+
+(394,708) 
+ 
+ Prepaids and other assets 
+
+4,855 
+
+(229,881) 
+ 
+ Accounts payable and accrued expenses 
+
+(138,635) 
+
+805,160 
+
+Security deposits payable 
+
+24,818 
+
+(72,963) 
+ 
+ Net cash provided by operating activities 
+
+1,068,430 
+
+1,570,539 
+
+Cash Flows From Investing Activities: 
+
+Acquisition of property and equipment 
+
+(2,253,933) 
+
+(6,361,240) 
+ 
+ Marketable securities: 
+
+Receipts from sales 
+
+960,597 
+
+621,161 
+
+Payments for purchases 
+
+(596,876) 
+
+(721,921) 
+ 
+ Net cash (used) in investing activities 
+
+(1,890,212) 
+
+(6,462,000) 
+ 
+ Cash Flows From Financing Activities: 
+
+Proceeds from borrowings - mortgage and other debt 
+
+4,866,806 
+
+Payments - mortgages 
+
+(1,147,300) 
+
+(603,068) 
+ 
+ Mortgage financing costs paid 
+
+(232,200) 
+ 
+ Net cash (used) provided by financing activities 
+
+(1,147,300) 
+
+4,031,538 
+
+Net decrease in cash, cash equivalents and restricted cash 
+
+(1,969,082) 
+
+(859,923) 
+ 
+ Cash, cash equivalents and restricted cash at beginning of year 
+
+4,403,801 
+
+5,263,724 
+
+Cash, cash equivalents and restricted cash at end of year 
+
+2,434,719 
+
+4,403,801 
+
+See Notes to Accompanying Consolidated Financial Statements. 
+ 6 
+
+J.W. MAYS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: 
+ Organization 
+ J.W. Mays, Inc. (the Company or Registrant with executive offices at 9 Bond Street, Brooklyn, New York 11201, operates a number of commercial real estate properties in New York and one building in Ohio. The Company s business was founded in 1924 and incorporated under the laws of the State of New York on July 6, 1927. 
+ Principles of Consolidation 
+ The consolidated financial statements include the accounts of the Company, a New York corporation and its subsidiaries (J. W. M. Realty Corp. and Dutchess Mall Sewage Plant, Inc.), which are wholly-owned. Material intercompany items have been eliminated in consolidation. 
+ The Impact of COVID-19 on Our Results and Operations 
+ In late 2019, an outbreak of COVID-19 emerged and by March 11, 2020 was declared a global pandemic by The World Health Organization. Throughout the United States and locally, governments and municipalities instituted measures in an effort to control the spread of COVID-19, including quarantines, shelter-in-place orders, school closings, travel restrictions and the closure of non-essential businesses. By the end of March 2020, the economic impacts became significant for the remainder of the year ended July 31, 2020. 
+ Beginning March 2020 and continuing through July 2021, we experienced an increase in late payments due to the impact of COVID-19 and the related reductions in economic activity from government mandated business disruptions and shelter -in- place orders. The effects of COVID-19 on our tenants have been reflected in our allowance for credit losses for accounts receivable. In limited circumstances, we have agreed to rent abatements and deferrals for certain tenants. We also continue to experience volatility in the valuation of our equity investments through July 31, 2021. 
+ Looking ahead, the full impact of COVID-19 on our business is unknown and highly unpredictable. Our past results may not be indicative of our future performance and historical trends in revenues, income from operations, net income, earnings per share, cash provided by operating activities, among others, may differ materially. For example, to the extent the pandemic continues to disrupt economic activity nationally and in New York, NY, like other businesses, it could adversely affect our business operations and financial results through prolonged decreases in revenue, credit deterioration of our tenants, depressed economic activity, or declines in capital markets. In addition, many of our expenses are less variable in nature and may not correlate to changes in revenues. The extent of the impact will depend on a number of factors, including the duration and severity of the pandemic; distribution of vaccines; and the macroeconomic impact of government measures to contain the spread of the virus and related government stimulus measures. 
+ Use of Estimates 
+ The accounting records are maintained in accordance with accounting principles generally accepted in the United States of America GAAP ). The preparation of the Company s financial statements in accordance with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the financial statements, the disclosure of contingent assets and liabilities, incremental borrowing rates and recognition of renewal options for operating lease right-of-use assets and liabilities, and the reported amounts of revenues and expenses during the reporting period. The estimates that we make include allowance for doubtful accounts, depreciation, impairment analysis of long-lived assets, income tax assets and liabilities, fair value of marketable securities and revenue recognition. Estimates are based on historical experience where applicable or other assumptions that management believes are reasonable under the circumstances. Due to the inherent uncertainty involved in making estimates, actual results may differ from those estimates under different assumptions or conditions. 
+ As of July 31, 2021, the impact of COVID-19 continues to evolve. As a result, many of our estimates and assumptions required increased judgment and carry a higher degree of variability and volatility. As additional information becomes available, our estimates may change materially in future periods. 
+ Restricted Cash 
+ Restricted cash primarily consists of cash held in bank accounts for tenant security deposits and other amounts required under certain loan agreements. 
+ 7 
+
+Marketable Securities 
+ The Company s marketable securities consist of investments in equity securities. Dividends and interest income are accrued as earned. Realized gains and losses are determined on a specific identification basis. The Company reviews marketable securities for impairment whenever circumstances and situations change such that there is an indication that the carrying amounts may not be recovered. The changes in the fair value of these securities are recognized in current period earnings in accordance with ASC 825. 
+ The Company follows GAAP which establishes a fair value hierarchy that prioritizes the valuation techniques and creates the following three broad levels, with Level 1 valuation being the highest priority: 
+ Level 1 valuation inputs are quoted market prices in active markets for identical assets or liabilities that are accessible at the measurement date (e.g., equity securities traded on the New York Stock Exchange). 
+ Level 2 valuation inputs are from other than quoted market prices included in Level 1 that are observable for the asset or liability, either directly or indirectly (e.g., quoted market prices of similar assets or liabilities in active markets, or quoted market prices for identical or similar assets or liabilities in markets that are not active). 
+ Level 3 valuation inputs are unobservable (e.g., an entity s own data) and should be used to measure fair value to the extent that observable inputs are not available. 
+ Following is a description of the valuation methodologies used for assets measured at fair value on a recurring basis. There have been no changes in the methodologies used at July 31, 2021 and 2020. 
+ Equity securities are valued at the closing price reported on the active market on which the individual securities are traded that the Company has access to. 
+ Mutual funds are valued at the daily closing price as reported by the fund. Mutual funds held by the Company are open-end mutual funds that are registered with the U.S. Securities and Exchange Commission. These funds are required to publish their daily net asset value NAV and to transact at that price. The mutual funds held by the Company are deemed to be actively traded. 
+ In accordance with the provisions of Fair Value Measurements, the following are the Company s financial assets measured on a recurring basis presented at fair value. 
+
+Fair value measurements at reporting date 
+ 
+ Description 
+ 
+ July 31, 2021 
+ 
+ Level 1 
+ 
+ Level 2 
+ 
+ Level 3 
+ 
+ July 31, 2020 
+ 
+ Level 1 
+ 
+ Level 2 
+ 
+ Level 3 
+ 
+ Assets: 
+
+Marketable securities 
+
+3,901,093 
+
+3,901,093 
+
+3,744,905 
+
+3,744,905 
+
+Accounts Receivable 
+ Generally, rent is due from tenants at the beginning of the month in accordance with terms of each lease. Based upon its periodic assessment of the quality of the receivables, management uses its historical knowledge of the tenants and industry experience to determine whether a reserve or write-off is required. The Company uses specific identification to write-off receivables to bad debt expense in the period when issues of collectibility become known. Collectibility issues include late rent payments, circumstances when a tenant indicates their intention to vacate the property without paying, or when tenant litigation or bankruptcy proceedings are not expected to result in full payment. Management also assesses collectibility by reviewing accounts receivable on an aggregate basis where similar characteristics exist. In determining the amount of the allowance for credit losses, the Company considers past due status and a tenant s payment history. We also consider current market conditions and reasonable and supportable forecasts of future economic conditions. Our assessment considers business and market disruptions caused by COVID-19. The continued volatility in market conditions and evolving shifts in credit trends are difficult to predict causing variability and volatility that may have a material impact on our allowance for uncollectible accounts receivables in future periods. 
+ 8 
+
+Primarily because of the effects of COVID-19, the Company recorded an allowance for uncollectible receivables as of July 31, 2021 and 2020 in the amount of 318,000 and 82,000, respectively, as an offset to receivables. 
+ Activity in the allowance for uncollectible receivables for each period follows: 
+
+Allowance for 
+
+Uncollectible 
+
+Accounts Receivable 
+
+Bad Debt Expense 
+
+Period Ended July 31 
+
+Period Ended July 31 
+
+2021 
+
+2020 
+
+2021 
+ 
+ 2020 
+
+Beginning balance 
+
+82,000 
+
+Charge-offs 
+
+254,000 
+
+423,232 
+
+236,000 
+
+596,292 
+
+Recoveries 
+
+(18,000) 
+
+(91,840) 
+
+(91,840) 
+ 
+ Rent Abatements reclassified to reduce rental income 
+
+(249,392) 
+
+(249,392) 
+ 
+ Ending Balance 
+
+318,000 
+
+82,000 
+
+236,000 
+
+255,060 
+
+Property and Equipment 
+ Property and equipment are stated at cost. Depreciation is calculated using the straight-line method and the declining-balance method. Amortization of improvements to leased property is calculated over the life of the lease. Lives used to determine depreciation and amortization are generally as follows: 
+
+Buildings and improvements 
+ 
+ 18-40 years 
+ 
+ Improvements to leased property 
+ 
+ 3-10 years 
+ 
+ Fixtures and equipment 
+ 
+ 7-12 years 
+ 
+ Other 
+ 
+ 3-5 years 
+
+Maintenance, repairs, renewals and improvements of a non-permanent nature are charged to expense when incurred. Expenditures for additions and major renewals or improvements are capitalized along with the associated interest cost during construction. The cost of assets sold or retired, and the accumulated depreciation or amortization thereon are eliminated from the respective accounts in the year of disposal, and the resulting gain or loss is credited or charged to income. Capitalized interest is recorded as part of the asset to which it relates and is amortized over the asset s estimated useful life. 
+ Company renovations at its Fishkill, New York building aggregated 1,194,351 and 5,382,193 for the years ended July 31, 2021 and 2020, respectively, primarily related to tenant improvements for space leased to a community college, new elevators, lobbies, and a fa ade. 
+ Company renovations at its Jowein building in Brooklyn, New York aggregated 673,867 and 221,442 for the years ended July 31, 2021 and 2020, respectively, primarily related to roof work, new tenant improvements and an elevator upgrade. 
+ Stairwell and sidewalk upgrades at the Company s Jamaica, New York building aggregated 241,241 for the year ended July 31, 2021. Elevator upgrade work and new tenant improvements for the year ended July 31, 2020 at the Company s Jamaica building were 443,881. 
+ Elevator upgrades aggregated 289,699 for the year ended July 31, 2020 at the Company s 9 Bond Street building in Brooklyn, New York. 
+ Impairment 
+ The Company reviews property and equipment and related lease intangibles for possible impairment when certain events or changes in circumstances indicate the carrying amount of the asset may not be recoverable though operations plus estimated disposition proceeds. Events or changes in circumstances that may occur include, but are not limited to, significant changes in real estate market conditions, estimated residual values, and an expectation to sell assets before the end of the previously estimated life. Impairments are measured to the extent the current book value exceeds the estimated fair value of the asset less disposition costs for any assets classified as held for sale. As of July 31, 2021 and 2020, the Company has determined there was no impairment of its property and equipment. 
+ 9 
+
+Deferred Charges 
+ Deferred charges consist principally of costs incurred in connection with the leasing of property to tenants. Such costs are amortized over the related lease periods, ranging from 1 to 21 years, using the straight-line method. If a lease is terminated early, such costs are expensed. 
+ Leases Lessor Revenue 
+ The Company accounts for revenue in accordance with Accounting Standards Update (ASU) 2014-09 (Topic 606) Revenue from Contracts with Customers. Rental income is recognized from tenants under executed leases no later than on an established date or on an earlier date if the tenant should commence conducting business. Unbilled receivables are included in accounts receivable and represent the excess of scheduled rental income recognized on a straight-line basis over rental income as it becomes receivable according to the provisions of the lease. The effect of lease modifications that result in rent relief or other credits to tenants, including any retroactive effects relating to prior periods, are recognized in the period when the lease modification is signed. At the time of the lease modification, we assess the realizability of any accrued but unpaid rent and amounts that had been recognized as revenue in prior periods. As lessor, we have elected to combine the lease components (base rent), non-lease components (reimbursements of common area maintenance expenses) and reimbursements of real estate taxes and account for the components as a single lease component in accordance with ASC 842. If the amounts are not determined to be realizable, the accrued but unpaid rent is written off. Accounts receivable are recognized in accordance with lease agreements at its net realizable value. Rental payments received in advance are deferred until earned. 
+ Leases Lessee 
+ The Company determines if an arrangement is a lease at inception. With the adoption of ASC 842, operating leases are included in operating lease right-of-use assets and operating lease liabilities on the Company s balance sheet. 
+ Operating lease right-of-use assets represent the Company s right to use an underlying asset for the lease term and lease liabilities represent the Company s obligation to make payments arising from the lease. Operating lease right-of-use assets and liabilities are recognized at the commencement date based on the present value of lease payments over the lease term. As the Company s leases do not provide an implicit rate, the Company uses its incremental borrowing rate based on the information available at the commencement date in determining the present value of lease payments. The Company s lease terms may include options to extend or terminate the lease when it is reasonably certain the Company will exercise that option. Lease expense for lease payments is recognized on a straight-line basis over the lease term. 
+ Taxes 
+ Deferred income taxes are provided for the temporary differences between the financial reporting basis and the tax basis of the Company s assets and liabilities. Deferred tax assets result principally from the recording of certain accruals, reserves and net operating loss carry forwards which currently are not deductible for tax purposes. Deferred tax liabilities result principally from temporary differences in the recognition of unrealized gains and losses from certain investments and from the use, for tax purposes, of accelerated depreciation. Deferred tax assets and liabilities are offset for each jurisdiction and are presented net on the balance sheet. 
+ The effect on deferred income taxes of a change in tax rates is recognized in income in the period that includes the enactment date. Actual income taxes could vary from these estimates due to future changes in income tax law or results from the final review of tax returns by federal, state or city tax authorities. Financial statement effects on tax positions are recognized in the period in which it is more likely than not that the position will be sustained upon examination, the position is effectively settled or when the statute of limitations to challenge the position has expired. Interest and penalties, if any, related to unrecognized tax benefits are recorded as interest expense and administrative and general expenses, respectively. 
+ Income Per Share of Common Stock 
+ Income per share has been computed by dividing net income for the year by the weighted average number of shares of common stock outstanding during the year, adjusted for the purchase of treasury stock. Shares used in computing income per share were 2,015,780 in fiscal years 2021 and 2020. 
+ Reclassification 
+ As of July 31, 2020, the Company changed its balance sheet presentation from classified to unclassified to more generally conform with norms in the real estate industry. Many of the reclassifications relate to this change in presentation and had no effect on net income or loss. 
+ 10 
+
+Recently adopted accounting standards: 
+ In February 2016, the FASB issued ASU 2016-02, Leases. ASU 2016-02 is intended to increase transparency and comparability among organizations in accounting for leasing arrangements. This guidance establishes a right-of-use model that requires a lessee to record a right-of-use asset and a lease liability on the balance sheet for all leases with terms longer than twelve months. Leases will be classified as either finance or operating, with classification affecting the pattern of expense recognition in the income statement. Lessees and lessors are required to disclose qualitative and quantitative information about leasing arrangements to enable a user of the financial statements to assess the amount, timing and uncertainty of cash flows arising from leases. 
+ In July 2018, the FASB issued ASU No. 2018-10, Codification Improvements to Topic 842 , which provides amendments and clarification to ASU 2016-12 based on the FASB s interaction with stakeholders. In July 2018, the FASB issued ASU No. 2018-11 Leases (Topic 842): Targeted Improvements , which amends Leases (Topic 842) to (i) add an optional transition method that would permit entities to apply the new requirements by recognizing a cumulative-effect adjustment to the opening balance of retained earnings in the year of adoption, and (ii) provide a practical expedient for lessors regarding the separation of the lease and non-lease components of a contract. In December 2018, the FASB issued ASU No. 2018-20, Leases (Topic 842) Narrow-Scope Improvement for Lessors, which clarifies how to apply the leases standard when accounting for sales taxes and other similar taxes collected from lessees, certain lessor costs, and recognition of variable payments for contracts with lease and non-lease components. In March 2019, the FASB issued ASU 2019-01, Leases (Topic 842) Codification Improvements , which provides amendments for issues brought to the Board s attention through its interactions with stakeholders. The issues identified are as follows: (1) Determining the fair value of the underlying asset by lessors that are not manufacturers or dealers, (2) Presentation on the statement of cash flows-sales-type and direct financing leases, and (3) Transition disclosures related to Topic 250, Accounting Changes and Error Corrections. These standards are effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. 
+ The new standards were adopted by the Company for the fiscal year beginning August 1, 2019. Upon adoption of Topic 842, the Company elected the following practical expedients: 
+
+1. 
+ The Company applied the optional transition method of recognizing a cumulative-effect adjustment to the opening balance of retained earnings in the initial period of adoption. Upon adoption on August 1, 2019, the Company did not have an adjustment to opening retained earnings. 
+
+2. 
+ As lessee and lessor, the Company has elected not to reassess lease classifications and all leases will continue to be classified as operating leases under the new standard. 
+
+ As a result of the adoption of the new lease accounting guidance, the Company recognized on August 1, 2019: 
+
+Operating lease right-of-use assets of 27.1 million. 
+
+Operating lease liabilities of approximately 17.9 million, based on the net present value of remaining minimum rental payments, discounted using the Company s incremental borrowing rate of 3.88 . 
+
+The initial recording of operating lease right-of-use assets of 27.1 million includes adjustments of approximately 10.2 million primarily relating to building and improvements, net of accumulated depreciation, required pursuant to a ground lease with an affiliate, principally owned by a director of the Company landlord ). Upon lease termination in 2030, the building and all improvements will be turned over to the landlord as property owner. 
+
+The initial operating lease liability of 17.9 million includes an adjustment of remaining accrued rent of approximately .95 million. 
+
+The Company s lessor accounting remains similar under Topic 842 but updated to align with certain changes to the lessee model and the new revenue recognition standard (ASU 2014-09). Upon adoption of the lease standards on August 1, 2019, changes in accounting for the Company s lease revenue as lessor were not significant. 
+ In April 2020, the FASB issued a Staff Q A on accounting for leases during the COVID-19 pandemic, focused on the application of lease guidance in ASC Topic 842, Leases ASC 842 ). The Q A states that it would be acceptable to make a policy election regarding rent concessions resulting from COVID-19, which would not require entities to account for these rent concessions as lease modifications under certain conditions. Entities making the election will continue to recognize rental revenue on a straight-line basis for qualifying concessions. Rent abatements would be recognized as reductions to revenue during the period in which they were granted. Rent deferrals would result in an increase to accounts receivable during the deferral period with no impact on rental revenue recognition. The Company elected this policy for the year ended July 31, 2020. Rent abatements and deferrals resulting from COVID-19 aggregated 22,628 and 245,000 for the year ending July 31, 2021 and 433,517 and 459,429, for the year ending July 31, 2020, respectively. 
+ 11 
+
+2. MARKETABLE SECURITIES: 
+ As of July 31, 2021 and 2020, the Company s marketable securities were classified as follows: 
+
+July 31, 2021 
+ 
+ July 31, 2020 
+
+Gross 
+ 
+ Gross 
+
+Gross 
+ 
+ Gross 
+
+Unrealized 
+ 
+ Unrealized 
+ 
+ Fair 
+
+Unrealized 
+ 
+ Unrealized 
+ 
+ Fair 
+
+Cost 
+ 
+ Gains 
+ 
+ Losses 
+ 
+ Value 
+ 
+ Cost 
+ 
+ Gains 
+ 
+ Losses 
+ 
+ Value 
+ 
+ Available-for-sale: 
+
+Mutual funds 
+ 
+ 984,869 
+
+619,972 
+
+1,604,841 
+
+1,077,493 
+
+297,064 
+
+1,374,557 
+ 
+ Corporate equity 
+
+securities 
+ 
+ 1,355,961 
+
+940,291 
+
+2,296,252 
+
+1,553,275 
+
+823,010 
+
+5,937 
+
+2,370,348 
+
+2,340,830 
+
+1,560,263 
+
+3,901,093 
+
+2,630,768 
+
+1,120,074 
+
+5,937 
+
+3,744,905 
+
+Investment income for the years ended July 31, 2021 and 2020 consists of the following: 
+
+2021 
+ 
+ 2020 
+ 
+ Interest income 
+ 
+ 850 
+
+20,446 
+ 
+ Dividend income 
+ 
+ 98,915 
+
+96,569 
+ 
+ Gain on sale of marketable securities 
+ 
+ 73,783 
+
+28,546 
+ 
+ Total 
+ 
+ 173,548 
+
+145,561 
+
+ 3. LONG-TERM DEBT MORTGAGES: 
+
+Years Ended July 31, 
+
+Current 
+
+Annual 
+ 
+ Final 
+
+Interest 
+ 
+ Payment 
+
+Rate 
+ 
+ Date 
+ 
+ 2021 
+
+2020 
+
+Mortgage: 
+
+Bond St. land and building, Brooklyn, NY (1) 
+ 4.375 
+ 
+ 12/1/2024 
+
+3,817,450 
+
+4,829,832 
+
+Fishkill land and building (2) 
+ 3.980 
+ 
+ 4/1/2025 
+
+3,832,182 
+
+3,967,100 
+
+Deferred financing costs 
+
+(130,855) 
+
+(168,967) 
+ 
+ Total 
+
+7,518,777 
+
+8,627,965 
+
+(1) 
+ In November 2019, the Company refinanced the remaining balance of a 6,000,000, 3.54 interest rate loan with another bank for 5,255,920 plus an additional 144,080 for a total of 5,400,000. The interest rate on the new loan is fixed at 4.375 . The loan is self-liquidating over a period of five years and secured by the Nine Bond Street land and building in Brooklyn, New York. 
+
+(2) 
+ In March 2020, the Company obtained a loan with a bank in the amount of 4,000,000 to finance renovations and brokerage commissions relating to space leased to a community college at the Fishkill, New York building. The loan is secured by the Fishkill, New York land and building; amortized over a 20-year period with an interest rate of 3.98 and is due in five years. 
+
+Maturities of long-term mortgages outstanding at July 31, 2021 are as follows: 
+
+Year Ended July 31: 
+ 
+ Amount 
+ 
+ 2022 
+
+1,198,600 
+
+2023 
+
+1,252,196 
+
+2024 
+
+1,308,071 
+
+2025 
+
+3,890,765 
+
+Subtotal 
+
+7,649,632 
+
+Deferred financing costs 
+
+(130,855) 
+ 
+ Total 
+
+7,518,777 
+
+The carrying value of the property collateralizing the above debt is 33,528,932 at July 31, 2021. 
+ 12 
+
+4. NOTE PAYABLE: 
+ In April 2020, the Company obtained a 722,726 loan, with an interest rate of .98 per annum, issued by a bank through the Small Business Administration s SBA Paycheck Protection Program PPP under Division A. Title I of the Coronavirus Aid, Relief, and Economic Security Act CARES Act ). On May 26, 2021, the SBA authorized full forgiveness of the Company s PPP loan in the amount of 722,726, plus accrued interest. Such proceeds were recorded as a full reduction of the note payable and extinguishment of debt income in the year ending July 31, 2021. 
+ 5. OPERATING LEASES: 
+ Lessor 
+ The Company leases office and retail space to tenants under operating leases in commercial buildings. The rental terms range from approximately 5 to 49 years. The leases provide for the payment of fixed base rent payable monthly in advance as well as reimbursements of real estate taxes and common area costs. The Company has elected to account for lease revenues and the reimbursements of common area costs as a single component included as rental income in our consolidated statements of operations. 
+ The following table disaggregates the Company s revenues by lease and non-lease components: 
+
+Years Ended July 31, 
+
+2021 
+ 
+ 2020 
+ 
+ Base rent - fixed 
+ 
+ 18,355,925 
+
+17,392,398 
+ 
+ Reimbursements of common area costs 
+ 
+ 751,618 
+
+781,119 
+ 
+ Non-lease components (real estate taxes) 
+ 
+ 1,105,336 
+
+1,358,329 
+ 
+ Rental income 
+ 
+ 20,212,879 
+
+19,531,846 
+
+ Rental income for each of the fiscal years 2021 and 2020 is as follows: 
+
+Years Ended July 31, 
+
+2021 
+ 
+ 2020 
+ 
+ Minimum rentals 
+
+Company owned property 
+ 
+ 11,798,456 
+
+10,940,491 
+ 
+ Leased property 
+ 
+ 6,557,469 
+
+6,451,907 
+
+18,355,925 
+
+17,392,398 
+ 
+ Contingent rentals 
+
+Company owned property 
+ 
+ 1,237,614 
+
+1,454,827 
+ 
+ Leased property 
+ 
+ 619,340 
+
+684,621 
+
+1,856,954 
+
+2,139,448 
+ 
+ Total 
+ 
+ 20,212,879 
+
+19,531,846 
+
+ Future minimum non-cancelable rental income for leases with initial or remaining terms of one year or more is as follows: 
+
+Company 
+
+Owned 
+ 
+ Leased 
+
+Year Ended July 31, 
+ 
+ Property 
+ 
+ Property 
+ 
+ Total 
+ 
+ 2022 
+
+11,118,307 
+
+4,934,146 
+
+16,052,453 
+ 
+ 2023 
+
+9,790,555 
+
+3,252,460 
+
+13,043,015 
+ 
+ 2024 
+
+7,779,932 
+
+2,968,843 
+
+10,748,775 
+ 
+ 2025 
+
+7,411,636 
+
+2,583,441 
+
+9,995,077 
+ 
+ 2026 
+
+6,562,590 
+
+2,448,958 
+
+9,011,548 
+ 
+ After 2026 
+
+33,453,204 
+
+7,336,769 
+
+40,789,973 
+ 
+ Total 
+
+76,116,224 
+
+23,524,617 
+
+99,640,841 
+
+ 13 
+
+Lessee 
+ The Company s real estate operations include leased properties under long-term, non-cancelable operating lease agreements. The leases expire at various dates through 2073, including options to extend or terminate the lease when it is reasonably certain the Company will exercise that option. Certain leases provide for increases in future minimum annual rental payments as defined in the lease agreements. 
+ Effective April 1, 2020, four of the Company s property leases were extended. The effect of these lease extensions on the measurement of operating lease right-of-use assets, liabilities and rent expense follows: 
+
+Operating 
+ 
+ Operating 
+ 
+ Monthly 
+
+Lease Right- 
+ 
+ Lease 
+ 
+ Rent 
+
+of-Use-Asset 
+ 
+ Liability 
+ 
+ Expense 
+ 
+ Upon initial adoption, August 1, 2019 
+ 
+ 27,104,937 
+
+17,863,507 
+
+249,955 
+ 
+ After various lease extensions through April 30, 2020 
+ 
+ 37,698,819 
+
+29,326,365 
+
+277,570 
+
+ Operating lease costs for leased real property was exceeded by sublease rental income from the Company s real estate operations as follows: 
+
+Years Ended July 31, 
+
+2021 
+ 
+ 2020 
+ 
+ Sublease income 
+ 
+ 7,176,809 
+
+7,136,528 
+
+Operating lease cost 
+ 
+ (4,767,660) 
+
+(4,517,273) 
+ 
+ Excess of sublease income over lease cost 
+ 
+ 2,409,149 
+
+2,619,255 
+
+As of July 31, 2021, our operating leases had a weighted average remaining lease term of 17.37 years and a weighted average discount rate of 2.87 . 
+
+Years Ended July 31, 
+
+2021 
+ 
+ 2020 
+ 
+ Other information: 
+
+Operating cash flows from operating leases 
+ 
+ 2,024,246 
+
+1,931,545 
+
+ The following is a maturity analysis of the annual undiscounted cash flows of the operating lease liabilities as of July 31, 2021: 
+
+Operating 
+ 
+ Year ended July 31 
+ Leases 
+ 
+ 2022 
+ 
+ 2,116,363 
+
+2023 
+ 
+ 2,132,944 
+
+2024 
+ 
+ 2,150,128 
+
+2025 
+ 
+ 2,167,284 
+
+2026 
+ 
+ 2,223,672 
+
+Thereafter 
+ 
+ 25,327,631 
+
+Total undiscounted cash flows 
+ 
+ 36,118,022 
+
+Less: present value discount 
+ 
+ (8,277,092) 
+ 
+ Total Lease Liabilities 
+ 
+ 27,840,930 
+
+6. INCOME TAX: 
+ Income taxes provided for the years ended July 31, 2021 and 2020 consist of the following: 
+
+2021 
+ 
+ 2020 
+ 
+ Current: 
+
+Federal 
+
+Deferred taxes (benefit): 
+
+Federal 
+ 
+ (108,000) 
+
+(247,000) 
+ 
+ State 
+ 
+ (51,000) 
+
+(108,000) 
+ 
+ Income tax provision (benefit) 
+ 
+ (159,000) 
+
+(355,000) 
+
+ 14 
+
+Taxes provided for the years ended July 31, 2021 and 2020 differ from amounts which would result from applying the federal statutory tax rate to pre-tax income, as follows: 
+
+2021 
+
+2020 
+
+Income (loss) before income taxes 
+
+239,032 
+
+(1,261,005) 
+ 
+ Paycheck Protection Program Loan Forgiveness 
+
+(722,726) 
+
+Other-net 
+
+(21,690) 
+
+(16,158) 
+ 
+ Adjusted pre-tax income (loss) 
+
+(505,384) 
+
+(1,277,163) 
+ 
+ Statutory rate 
+
+21.00 
+
+21.00 
+
+Income tax provision (benefit) at statutory rate 
+
+(106,131) 
+
+(268,204) 
+ 
+ State deferred income taxes (benefit) 
+
+(51,000) 
+
+(108,000) 
+ 
+ Other-net 
+
+(1,869) 
+
+21,204 
+
+Income tax provision (benefit) 
+
+(159,000) 
+
+(355,000) 
+
+ The Company has a federal net operating loss carryforward approximating 10,341,000 and 8,404,000 as of July 31, 2021 and July 31, 2020, respectively, available to offset future taxable income. As of July 31, 2021 and 2020, the Company had unused state and city net operating loss carryforwards of approximately 12,293,000 and 10,526,000, for state, respectively, and 8,274,000 for city, available to offset future taxable income. The net operating loss carryforwards will begin to expire, if not used, in 2035. 
+ New York State and New York City taxes are calculated using the higher of taxes based on income or the respective capital-based franchise taxes. Beginning with the Company s tax year ended July 31, 2016, changes in the law required the state capital-based tax will be phased out over a 7-year period. New York City taxes will be based on capital for the foreseeable future. Capital-based franchise taxes are recorded to administrative and general expense. State tax amounts in excess of the capital-based franchise taxes are recorded to income tax expenses. Due to both the application of the capital-based tax and due to the possible absence of city taxable income, the Company does not record city deferred taxes. 
+ Generally, tax returns filed are subject to audit for three years by the appropriate taxing jurisdictions. The statute of limitations in each of the state jurisdictions in which the Company operates remain open until the years are settled for federal income tax purposes, at which time amended state income tax returns reflecting all federal income tax adjustments are filed. As of July 31, 2021, there were no income tax audits in progress that would have a material impact on the consolidated financial statements. 
+ Significant components of the Company s deferred tax assets and liabilities as of July 31, 2021 and 2020 are a result of temporary differences related to the items described as follows: 
+
+2021 
+ 
+ 2020 
+
+Deferred 
+ 
+ Deferred 
+ 
+ Deferred 
+ 
+ Deferred 
+
+Tax Assets 
+ 
+ Tax Liabilities 
+ 
+ Tax Assets 
+ 
+ Tax Liabilities 
+ 
+ Rental income received in advance 
+
+148,033 
+
+175,145 
+
+Anticipated PPP loan expenses to be forgiven 
+
+199,390 
+
+Operating lease liabilities 
+
+7,680,923 
+
+8,013,099 
+
+Federal net operating loss carryforward 
+
+2,171,510 
+
+1,764,769 
+
+State net operating loss carryforward 
+
+809,951 
+
+693,541 
+
+Unbilled receivables 
+
+569,029 
+
+412,343 
+ 
+ Property and equipment 
+
+4,963,194 
+
+4,671,246 
+ 
+ Unrealized gain on marketable securities 
+
+430,455 
+
+307,375 
+ 
+ Operating lease right-of-use assets 
+
+9,536,322 
+
+10,229,036 
+ 
+ Other 
+
+106,583 
+
+33,056 
+
+10,917,000 
+
+15,499,000 
+
+10,879,000 
+
+15,620,000 
+ 
+ Net deferred tax liability 
+
+4,582,000 
+
+4,741,000 
+
+ Management periodically assesses the realization of its net deferred tax assets by evaluating all available evidence, both positive and negative, associated with the Company and determining whether, based on the weight of that associated evidence, a valuation allowance for the deferred tax assets is needed. Based on this analysis, management has determined that it is more likely than not that future taxable income will be sufficient to fully utilize the federal and state deferred tax assets at July 31, 2021. 
+ 15 
+
+Components of the deferred tax provision (benefit) for the years ended July 31, 2021 and 2020 consist of the following: 
+
+2021 
+
+2020 
+
+Book depreciation exceeding (less than) tax depreciation 
+
+291,723 
+
+(1,691,703) 
+ 
+ Increase in reserve for bad debts 
+
+(65,109) 
+
+(17,220) 
+ 
+ Lease expense per book in excess of cash paid 
+
+(360,537) 
+
+2,477,725 
+
+Federal net operating loss carryforward 
+
+(406,742) 
+
+(924,647) 
+ 
+ State net operating loss carryforward 
+
+(116,410) 
+
+(22,687) 
+ 
+ Decrease of rental income received in advance 
+
+27,111 
+
+39,637 
+
+Anticipated PPP loan expenses to be forgiven 
+
+199,390 
+
+(199,390) 
+ 
+ Increase (decrease) in unbilled receivables 
+
+156,686 
+
+(47,962) 
+ 
+ Other 
+
+114,888 
+
+31,247 
+
+(159,000) 
+
+(355,000) 
+
+7. EMPLOYEES RETIREMENT PLANS: 
+ The Company sponsors a non-contributory Money Purchase Plan covering substantially all of its non-union employees. Operations were charged 441,512 and 424,401 as contributions to the Plan for fiscal years 2021 and 2020, respectively. 
+ 
+ MULTI-EMPLOYER PLAN: 
+ The Company contributes to a union sponsored multi-employer pension plan covering its union employees. The Company contributions to the pension plan for the years ended July 31, 2021 and 2020 were 64,771 and 59,434, respectively. Contributions and costs are determined in accordance with the provisions of negotiated labor contracts or terms of the plans. The Company also contributes to union sponsored health benefit plans. 
+ CONTINGENT LIABILITY FOR PENSION PLANS: 
+ Information as to the Company s portion of accumulated plan benefits and plan assets is not reported separately by the pension plan. Under the Employee Retirement Income Security Act, upon withdrawal from a multi-employer benefit plan, an employer is required to continue to pay its proportionate share of the plan s unfunded vested benefits, if any. Any liability under this provision cannot be determined: however, the Company has not made a decision to withdraw from the plan. 
+ Information for contributing employer s participation in the multi-employer plan: 
+
+United Food and Commercial Workers 
+ 
+ Legal name of Plan: 
+ 
+ Local 888 Pension Fund 
+ 
+ Employer identification number: 
+ 
+ 13-6367793 
+ 
+ Plan number: 
+ 
+ 001 
+ 
+ Date of most recent Form 5500: 
+ 
+ December 31, 2019 
+ 
+ Certified zone status: 
+ 
+ Critical and declining status 
+ 
+ Status determination date: 
+ 
+ January 1, 2019 
+ 
+ Plan used extended amortization provisions in status calculation: 
+ 
+ Yes 
+ 
+ Minimum required contribution: 
+ 
+ Yes 
+ 
+ Employer contributing greater than 5 of Plan contributions for year ended December 31, 2019: 
+ 
+ Yes 
+ 
+ Rehabilitation plan implemented: 
+ 
+ Yes 
+ 
+ Employer subject to surcharge: 
+ 
+ Yes 
+ 
+ Contract expiration date: 
+ 
+ November 30, 2022 
+
+For the plan years 2019-2022, under the pension fund s rehabilitation plan, the Company agreed to pay a minimum contribution rate equal to 9.1 of the prior year total contribution rate. The Company has 29 employees and has a contract, expiring November 30, 2022, with a union covering rates of pay, hours of employment and other conditions of employment for approximately 21 of its employees. The Company considers that its labor relations with its employees and union are good. 
+ 16 
+
+8. CASH FLOW INFORMATION: 
+ For purposes of reporting cash flows, the Company considers cash equivalents to consist of short-term highly liquid investments with maturities of three months or less, which are readily convertible into cash. The following is a reconciliation of the Company s cash and cash equivalents and restricted cash to the total presented on the consolidated statement of cash flows: 
+
+July 31 
+
+2021 
+ 
+ 2020 
+ 
+ Cash and cash equivalents 
+
+1,552,389 
+
+3,260,135 
+ 
+ Restricted cash, tenant security deposits 
+
+783,470 
+
+794,151 
+ 
+ Restricted cash, escrow 
+
+71,720 
+
+321,675 
+ 
+ Restricted cash, other 
+
+27,140 
+
+27,840 
+
+2,434,719 
+
+4,403,801 
+
+ Amounts in restricted cash primarily consist of cash held in bank accounts for tenant security deposits, amounts set aside in accordance with certain loan agreements, and security deposits with landlords and utility companies. 
+ Supplemental disclosure: 
+
+July 31, 
+
+2021 
+
+2020 
+
+Cash Flow Information 
+
+Interest paid, net of capitalized interest of 115,415 (2021), and 112,074 (2020) 
+
+272,070 
+
+153,107 
+
+Income tax (refunded) 
+
+(23,040) 
+
+(23,041) 
+
+Non-cash information 
+
+Recognition of operating lease right-of-use assets 
+
+39,464,411 
+
+Recognition of operating lease liabilities 
+
+30,222,981 
+
+Mortgage refinance 
+
+5,255,920 
+
+9. FINANCIAL INSTRUMENTS AND CREDIT RISK CONCENTRATIONS: 
+ The following disclosure of estimated fair value was determined by the Company using available market information and appropriate valuation methods. Considerable judgment is necessary to develop estimates of fair value. The estimates presented herein are not necessarily indicative of the amounts that could be realized upon disposition of the financial instruments. 
+ The Company estimates the fair value of its financial instruments using the following methods and assumptions: (i) quoted market prices, when available, are used to estimate the fair value of investments in marketable debt and equity securities; (ii) discounted cash flow analyses are used to estimate the fair value of long-term debt, using the Company s estimate of current interest rates for similar debt; and (iii) carrying amounts in the balance sheet approximate fair value for cash and cash equivalents, restricted cash, and tenant security deposits due to their high liquidity. 
+
+July 31, 2021 
+ 
+ July 31, 2020 
+
+Carrying 
+ 
+ Fair 
+ 
+ Carrying 
+ 
+ Fair 
+
+Value 
+ 
+ Value 
+ 
+ Value 
+ 
+ Value 
+ 
+ Cash and cash equivalents 
+
+1,552,389 
+
+1,552,389 
+
+3,260,135 
+
+3,260,135 
+ 
+ Marketable securities 
+
+3,901,093 
+
+3,901,093 
+
+3,744,905 
+
+3,744,905 
+ 
+ Restricted cash 
+
+882,330 
+
+882,330 
+
+1,143,666 
+
+1,143,666 
+ 
+ Mortgages and note payable 
+
+7,649,632 
+
+8,088,201 
+
+9,519,658 
+
+9,915,121 
+ Financial instruments that are potentially subject to concentrations of credit risk consist principally of marketable securities, restricted cash, cash and cash equivalents, and receivables. Marketable securities, restricted cash, cash and cash equivalents are placed with multiple financial institutions and instruments to minimize risk. No assurance can be made that such financial institutions and instruments will minimize all such risk. 
+ As of July 31, 2021, five tenants accounted for approximately 65.70 and in 2020, four tenants accounted for approximately 54.97 of receivables, respectively. During the year ended July 31, 2021, two tenants accounted for 29.91 and in 2020, three tenants accounted for 43.65 of total rental revenue, respectively. 
+ 17 
+
+10. DEFERRED CHARGES: 
+ Deferred charges for the fiscal years ended July 31, 2021 and 2020 consist of the following: 
+
+July 31, 2021 
+ 
+ July 31, 2020 
+
+Gross 
+
+Gross 
+
+Carrying 
+ 
+ Accumulated 
+ 
+ Carrying 
+ 
+ Accumulated 
+
+Amount 
+ 
+ Amortization 
+ 
+ Amount 
+ 
+ Amortization 
+ 
+ Leasing brokerage commissions 
+
+5,266,672 
+
+1,579,460 
+
+4,204,638 
+
+1,281,010 
+ 
+ Professional fees for leasing 
+
+127,810 
+
+75,779 
+
+151,704 
+
+88,684 
+ 
+ Total 
+
+5,394,482 
+
+1,655,239 
+
+4,356,342 
+
+1,369,694 
+
+ The aggregate amortization expense for the periods ended July 31, 2021 and July 31, 2020 were 385,967, and 297,887, respectively. 
+ The weighted average life of current year additions to deferred charges was fourteen years. 
+ The estimated aggregate amortization expense for each of the five succeeding fiscal years is as follows: 
+
+Year Ended July 31 
+ 
+ Amortization 
+ 
+ 2022 
+ 
+ 427,013 
+ 
+ 2023 
+ 
+ 425,017 
+ 
+ 2024 
+ 
+ 394,396 
+ 
+ 2025 
+ 
+ 352,943 
+ 
+ 2026 
+ 
+ 333,292 
+
+11. RELATED PARTY TRANSACTIONS: 
+ The Company has two operating leases with Weinstein Enterprises, Inc. Landlord ), an affiliated company, principally owned by the Chairman of the Board of Directors of both the Company and Landlord. One lease is for building, improvements, and land (Premises located at Jamaica Avenue at 169 th Street, Jamaica, New York. Another lease is for Premises located at 504-506 Fulton Street, Brooklyn, New York. 
+ Rent payments and expense relating to these two operating leases with Landlord follow: 
+
+Rent Payments 
+ 
+ Rent Expense 
+
+Year Ended July 31 
+ 
+ Year Ended July 31 
+ 
+ Property 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ Jamaica Avenue at 169 th Street 
+
+624,994 
+
+624,994 
+
+1,517,437 
+
+1,582,344 
+ 
+ 504-506 Fulton Street 
+
+362,256 
+
+362,256 
+
+350,438 
+
+350,437 
+ 
+ Total 
+
+987,250 
+
+987,250 
+
+1,867,875 
+
+1,932,781 
+
+ The following summarizes assets and liabilities related to these two leases: 
+
+Right-Of-Use Assets 
+ 
+ Liabilities 
+
+July 31 
+ 
+ July 31 
+
+Property 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ Expiration Date 
+ 
+ Jamaica Avenue at 169 th Street 
+
+12,842,642 
+
+13,190,809 
+
+4,959,450 
+
+5,084,505 
+ 
+ May 31, 2030 
+ 
+ 504-506 Fulton Street 
+
+2,831,134 
+
+2,890,056 
+
+2,946,306 
+
+3,008,181 
+ 
+ April 30, 2031 
+ 
+ Total 
+
+15,673,776 
+
+16,080,865 
+
+7,905,756 
+
+8,092,686 
+
+Upon termination of the Jamaica, New York lease in 2030, all premises included in operating lease right-of-use assets plus leasehold improvements will be turned over to the Landlord. 
+ 18 
+
+12. CAPITALIZATION: 
+ The Company is capitalized entirely through common stock with identical voting rights and rights to liquidation. Treasury stock is recorded at cost and consists of 162,517 shares at July 31, 2021 and at July 31, 2020. 
+ 13. CONTINGENCIES: 
+ There are various other lawsuits and claims pending against the Company. It is the opinion of management that the resolution of these matters will not have a material adverse effect on the Company s Consolidated Financial Statements. 
+ If the Company sells, transfers, disposes of or demolishes 25 Elm Place, Brooklyn, New York, then the Company may be liable to create a condominium unit for the loading dock. The necessity of creating the condominium unit and the cost of such condominium unit cannot be determined at this time. 
+ 19 
+
+SCHEDULE III 
+ J.W. MAYS, INC. REAL ESTATE AND ACCUMULATED DEPRECIATION July 31, 2021 
+
+Col. A 
+ 
+ Col. B 
+ 
+ Col. C 
+ 
+ Col. D 
+ 
+ Col. E 
+ 
+ Col. F 
+ 
+ Col. G 
+ 
+ Col. H 
+ 
+ Col. I 
+
+Initial Cost to Company 
+ 
+ Cost Capitalized Subsequent to Acquisition 
+ 
+ Gross Amount at Which Carried At Close of Period 
+
+Life on Which Depreciation in Latest Income Statement is Computed 
+ 
+ Description 
+ 
+ Encumbrances 
+ 
+ Land 
+ 
+ Building Improvements 
+ 
+ Improvements 
+ 
+ Carried Cost 
+ 
+ Land 
+ 
+ Building Improvements 
+ 
+ Total 
+ 
+ Accumulated Depreciation 
+ 
+ Date of Construction 
+ 
+ Date Acquired 
+
+Office and Rental Buildings 
+
+Brooklyn, New York 
+
+Fulton Street at Bond Street 
+
+3,817,450 
+
+3,901,349 
+
+7,403,468 
+
+24,346,123 
+
+3,901,349 
+
+31,749,591 
+
+35,650,940 
+
+14,787,673 
+ 
+ Various 
+ 
+ Various 
+ 
+ (1)(2) 
+ 
+ Jamaica, New York Jamaica 
+
+Avenue at 169th Street 
+
+474,359 
+
+474,359 
+
+474,359 
+
+82,307 
+ 
+ 1959 
+ 
+ 1959 
+ 
+ (3) 
+ 
+ Fishkill, New York Route 9 at 
+
+Interstate Highway 84 
+
+3,832,182 
+
+594,723 
+
+7,212,116 
+
+14,609,761 
+
+594,723 
+
+21,821,877 
+
+22,416,600 
+
+9,750,935 
+ 
+ 10/74 
+ 
+ 11/72 
+ 
+ (1) 
+ 
+ Brooklyn, New York Jowein 
+
+Building Fulton Street and 
+
+Elm Place 
+
+1,324,957 
+
+728,327 
+
+17,179,497 
+
+1,324,957 
+
+17,907,824 
+
+19,232,781 
+
+6,786,738 
+ 
+ 1915 
+ 
+ 1950 
+ 
+ (1)(2) 
+ 
+ Levittown, New York 
+
+Hempstead Turnpike 
+
+125,927 
+
+125,927 
+
+125,927 
+
+4/69 
+ 
+ 6/62 
+ 
+ (1) 
+ 
+ Circleville, Ohio Tarlton Road 
+
+120,849 
+
+4,388,456 
+
+86,520 
+
+120,849 
+
+4,474,976 
+
+4,595,825 
+
+3,140,543 
+ 
+ 9/92 
+ 
+ 12/92 
+ 
+ (1) 
+ 
+ Total(A) 
+
+7,649,632 
+
+6,067,805 
+
+19,732,367 
+
+56,696,260 
+
+6,067,805 
+
+76,428,627 
+
+82,496,432 
+
+34,548,196 
+
+(1) 
+ Building and improvements 
+ 18 40 years 
+ 
+ (2) 
+ Improvements to leased property 
+ 3 40 years 
+ 
+ (3) 
+ The initial recording of operating lease right-of-use assets of 27.1 million includes adjustments of approximately 10.2 million primarily relating to building and improvements, net of accumulated depreciation, required pursuant to a ground lease with an affiliate, principally owned by a director of the Company landlord ). Upon lease termination in 2030, the building and all improvements will be turned over to the landlord as property owner (See Notes 1 and 11 to the Accompanying Consolidated Financial Statements). Leasehold improvements are amortized over the life of the lease. 
+ 
+ (A) 
+ Does not include Office Furniture and Equipment and Transportation Equipment in the amount of 363,428 and Accumulated Depreciation thereon of 245,262 at July 31, 2021. 
+
+Year Ended July 31, 
+
+2021 
+ 
+ 2020 
+ 
+ Investment in Real Estate 
+
+Balance at Beginning of Year 
+
+80,286,244 
+
+96,333,110 
+
+Improvements 
+
+2,210,188 
+
+5,840,914 
+
+Retirements 
+
+(21,887,780) 
+ 
+ Balance at End of Year 
+
+82,496,432 
+
+80,286,244 
+
+Accumulated Depreciation 
+
+Balance at Beginning of Year 
+
+32,805,218 
+
+43,310,270 
+
+Additions Charged to Costs and Expenses 
+
+1,742,978 
+
+1,626,230 
+
+Retirements 
+
+(12,131,282) 
+ 
+ Balance at End of Year 
+
+34,548,196 
+
+32,805,218 
+ 
+ 20 
+
+J.W. MAYS, INC. 
+ REPORT OF MANAGEMENT 
+ Management is responsible for the preparation and reliability of the financial statements and the other financial information in this Annual Report. Management has established systems of internal control over financial reporting designed to provide reasonable assurance that the financial records used for preparing financial statements are reliable and reflect the transactions of the Company and that established policies and procedures are carefully followed. The Company reviews, modifies and improves its system of internal controls in response to changes in operations. 
+ The Board of Directors, acting through the Audit Committee, which is comprised solely of independent directors who are not employees of the Company, oversees the financial reporting process. The financial statements have been prepared in accordance with accounting standards generally accepted in the United States of America and include amounts based on judgments and estimates made by management. Actual results could differ from estimated amounts. 
+ To ensure complete independence, Prager Metis CPA s, LLC, the independent registered public accounting firm, has full and free access to meet with the Audit Committee, without management representatives present, to discuss results of the audit, the adequacy of internal controls and the quality of financial reporting. 
+ 21 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+ To the Board of Directors and Shareholders J.W. Mays, Inc. and Subsidiaries 
+
+ Opinion on the Consolidated Financial Statements 
+
+ We have audited the accompanying consolidated balance sheets of J.W. Mays, Inc. and Subsidiaries (the Company as of July 31, 2021 and 2020 and the related consolidated statements of operations, changes in shareholders equity and cash flows for the years ended July 31, 2021 and 2020, and the related notes and financial statement schedules (collectively referred to as the consolidated financial statements ). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of July 31, 2021 and 2020, and the results of its operations and its cash flows for each of the years ended July 31, 2021 and 2020, in conformity with accounting principles generally accepted in the United States of America. 
+
+ Basis for Opinion 
+
+ These consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+ We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+ Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+
+ Critical Audit Matter 
+
+ The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which it relates. 
+
+ Impairment 
+
+ Critical Audit Matter Description 
+
+ As described in Note 1 to the consolidated financial statements, the Company reviews its real estate investments for potential impairment when certain events or changes in circumstances indicate the carrying amount may not be recoverable. Those events and circumstances include, but are not limited to, significant changes in real estate market conditions, estimated residual values, and an expectation to sell assets before the end of the previously estimated life. In evaluating real estate investments for indicators of impairment, management considers undiscounted future cash flows, including the residual value of the real estate, with the carrying amount of the individual asset. Considering estimated future cash flows requires management to make assumptions about the probabilities of various outcomes relating to market conditions, estimated holding periods, capitalization rates, and potential proceeds if a property was sold. We identified the evaluation of impairment of real estate investments as a critical audit matter. 
+
+ 22 
+
+The principal consideration for our determination that the evaluation of impairment was a critical audit matter was a higher risk of estimation uncertainty due to sensitivity of management judgments not only regarding indicators of impairment but also regarding estimates and assumptions utilized in considering cash flows for cost recoverability and making fair value measurements. 
+
+ How the Critical Audit Matter was addressed in Our Audit 
+
+ Our audit procedures related to the evaluation of impairment included the following, among others. We tested the design and operating effectiveness of relevant controls over the evaluation of potential real estate investment impairments, such as controls over the Company s monitoring of the real estate investment portfolio, controls over the Company s consideration of future cash flows, and controls over the Company s estimates of fair value. In consideration of impairment indicator criteria established in management s accounting policies over impairment, we evaluated the completeness of the population of properties requiring further analysis. We examined and evaluated the Company s undiscounted cash flows and estimates of fair value over properties identified for potential impairment. We evaluated the reasonableness of the methods and significant assumptions used, including probabilities of outcomes, holding periods, capitalization rates, and potential proceeds if a property was sold. We evaluated these items in comparison with historical performance of the impacted properties and with comparable observable market data. Our assessment included evaluation of these assumptions, and we considered whether such assumptions were consistent with evidence obtained in other areas of the audit. 
+
+ /s/ Prager Metis CPAs, LLC 
+
+ We have served as the Company s auditor since 2020. 
+
+ Hackensack, NJ October 21, 2021 
+
+ 23 
+
+J.W. MAYS, INC. 
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with our consolidated financial statements and related notes thereto contained in this report. In this discussion, the words Company , we , our and us refer to J.W. Mays, Inc. and subsidiaries. 
+ FORWARD LOOKING STATEMENTS 
+ The following can be interpreted as including forward-looking statements under the Private Securities Litigation Reform Act of 1995. The words outlook , intend , plans , efforts , anticipates , believes , expects or words of similar import typically identify such statements. Various important factors that could cause actual results to differ materially from those expressed in the forward-looking statements are identified under the heading Cautionary Statement Regarding Forward-Looking Statements below. Our actual results may vary significantly from the results contemplated by these forward-looking statements based on a number of factors including, but not limited to, availability of labor, marketing success, competitive conditions and the change in economic conditions of the various markets we serve. 
+ THE IMPACT OF COVID-19 ON OUR RESULTS AND OPERATIONS 
+ In late 2019, an outbreak of COVID-19 emerged and by March 11, 2020 was declared a global pandemic by The World Health Organization. Throughout the United States and locally, governments and municipalities instituted measures in an effort to control the spread of COVID-19, including quarantines, shelter-in-place orders, school closings, travel restrictions and the closure of non-essential businesses. By the end of March 2020, the economic impacts became significant for the remainder of the year ended July 31, 2020. 
+ Beginning March 2020 and continuing through July 2021, we experienced an increase in late payments due to the impact of COVID-19 and the related reductions in economic activity from government mandated business disruptions and shelter -in- place orders. The effects of COVID-19 on our tenants have been reflected in our allowance for credit losses for accounts receivable. In limited circumstances, we have agreed to rent abatements and deferrals for certain tenants. We also continue to experience volatility in the valuation of our equity investments through July 31, 2021. 
+ Looking ahead, the full impact of COVID-19 on our business is unknown and highly unpredictable. Our past results may not be indicative of our future performance and historical trends in revenues, income from operations, net income, earnings per share, cash provided by operating activities, among others, may differ materially. For example, to the extent the pandemic continues to disrupt economic activity nationally and in New York, NY, like other businesses, it could adversely affect our business operations and financial results through prolonged decreases in revenue, credit deterioration of our tenants, depressed economic activity, or declines in capital markets. In addition, many of our expenses are less variable in nature and may not correlate to changes in revenues. The extent of the impact will depend on a number of factors, including the duration and severity of the pandemic; distribution of vaccines; and the macroeconomic impact of government measures to contain the spread of the virus and related government stimulus measures. 
+ CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+ Critical accounting policies are defined as those most important to the portrayal of a company s financial condition and results and require the most difficult, subjective or complex judgments. The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires us to make estimates and judgments that affect the reported amounts of assets and liabilities at the date of the financial statements, the reported amount of revenues, and expenses during the reporting period and related disclosure of contingent assets and liabilities. We believe the critical accounting policies in Note 1 affect our more significant judgments and estimates used in the preparation of our financial statements. Estimates are based on historical experience, where applicable or other assumptions that management believes are reasonable under the circumstances. We have identified the policies described below as our critical accounting policies. Actual results may differ from these estimates under different assumptions and conditions. Recently adopted accounting standards and recently issued accounting standards not yet adopted are also disclosed in Note 1. 
+ 24 
+
+As of July 31, 2020, the impact of COVID-19 continues to unfold. As a result, many of our estimates and assumptions required increased judgment and carry a higher degree of variability and volatility. As events continue to evolve and as additional information becomes available, our estimates may change materially in future periods. 
+ Receivables 
+ Generally, rent is due from tenants at the beginning of the month in accordance with terms of each lease. Based upon its periodic assessment of the quality of the receivables, management uses its historical knowledge of the tenants and industry experience to determine whether a reserve or write-off is required. The Company uses specific identification to write-off receivables to bad debt expense in the period when issues of collectability become known. 
+ Marketable securities 
+ We invest in mutual funds with our extra available cash. The mutual funds are valued daily by the funds based on the assets included within the funds. Our mutual fund investments are recorded in the consolidated financial statements at the daily value established by the mutual funds and we can liquidate our investments at any time. Our investments in corporate equity securities are valued at prices established on the various stock exchanges. We can liquidate these investments at any time. Our investment valuations are subject to market fluctuations and can substantially change in value at any time. 
+ Property and equipment 
+ Property and equipment are stated at cost and depreciated over the shorter of the asset s useful life or the life of the lease. Capital improvements no longer in use are written off. Management reviews the value of the properties for significant decreases in valuation. If any significant decreases in valuation are noted, the adjustment is recorded in the financial statements. 
+ Deferred charges 
+ Deferred charges consist principally of costs incurred in connection with the leasing of property to tenants. Such costs are amortized over the related lease periods, ranging from 4 to 21 years, using the straight-line method. If a lease is terminated early, such costs are expensed. 
+ Leases - Lessor Revenue Recognition 
+ The Company accounts for revenue in accordance with Accounting Standards Update (ASU) 2014-09 (Topic 606) Revenue from Contracts with Customers. Rental income is recognized from tenants under executed leases no later than on an established date or on an earlier date if the tenant should commence conducting business. The effect of lease modifications that result in rent relief or other credits to tenants are recognized in the period when the lease modification is signed. If the amounts are not determined to be realizable, the accrued but unpaid rent is written off. Accounts receivable are recognized in accordance with lease agreements at its net realizable value. Rental payments received in advance are deferred until earned. As explained in the recently adopted accounting standards section of Note 1, we have made the policy election available to us based on the Financial Accounting Standards Board s guidance for leases during COVID-19, which allows us to continue recognizing rental revenue for rent deferral agreements and to recognize rent abatements as a reduction of revenue in the period granted. 
+ Leases Lessee 
+ The Company determines if an arrangement is a lease at inception. With the adoption of ASC 842, operating leases are included in operating lease right-of-use assets and operating lease liabilities on the Company s balance sheet. Operating lease right-of-use assets represent the Company s right to use an underlying asset for the lease term and lease liabilities represent the Company s obligation to make payments arising from the lease. Operating lease right-of-use assets and liabilities are recognized at the commencement date based on the present value of lease payments over the lease term. 
+ Taxes 
+ Our income tax accrual takes into effect taxes that are currently payable, based on our income tax returns filed, and taxes that will be payable in the future based on income earned in the current year that is not taxable until future events occur offset by expenses incurred in the current year that are not deductible until future events occur. Tax audits increase or decrease the amounts currently payable based on the results of the audits. The tax provision is an estimate and can change at any time due to changes in tax laws and tax rates. 
+ 25 
+
+FISCAL 2021 COMPARED TO FISCAL 2020 
+ Net income for the year ended July 31, 2021 amounted to 398,032 or .20 per share, compared to net loss for the year ended July 31, 2020 of (906,005), or (.45) per share. 
+ Revenues in the current year increased to 20,212,879 from 19,531,846 in the comparable 2020 year primarily due to rent from two new tenants, increased rent from existing tenants, partially offset by a decrease in rent from an existing tenant that surrendered part of their space. 
+ Real estate operating expenses in the current year increased to 14,306,967 from 14,024,623 in the comparable 2020 year primarily due to: 
+
+1) 
+ Increases in real estate taxes, 
+
+2) 
+ Increases in rent expense due to the recording of the building right-of-use asset (see notes 1 and 7), 
+
+3) 
+ Increases in leasing commissions expense, and 
+
+4) 
+ Partially offset by decreases in maintenance costs, and licenses and permits. 
+
+ Administrative and general expenses in the current year decreased to 4,958,227 from 5,085,360 in the comparable 2020 year primarily due to a decrease in legal and professional costs, partially offset by an increase in medical costs. 
+ Depreciation expense in the current year increased to 1,785,468 from 1,661,280 in the comparable 2020 year primarily due to additional depreciation from prior year improvements for both the Jamaica and Fishkill New York buildings. 
+ The increase in other income was primarily due to extinguishment of debt income in the amount of 722,726 combined with a change in the fair value of marketable securities. Investment income exceeded interest expense in the current year by 354,169 and interest expense exceeded investment income by (21,588) in the comparable 2020 year. 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ The impact of COVID-19 and the related reductions in economic activity from business disruptions continues as of July 31, 2021. The Company had bad debt expense of 236,000 from August 1, 2020 to July 31 2021. We continue to experience volatility in the valuation of our equity investments through July 31, 2021. To the extent the COVID-19 pandemic continues to disrupt economic activity nationally and in New York, NY, the impact may include increased bad debt expense, lower rental income and occupancy levels at our properties which may result in less cash provided by operating activities. Many of our expenses are less variable in nature and may not correlate to changes in revenues. 
+ In July 2019, the Company leased 47,000 square feet to a community college at its Fishkill, New York building for a term of fifteen years with two five-year option periods. The tenant took occupancy in June 2020 and commenced payment of rent in September 2020 and brokerage commissions were 448,939. Company renovations at its Fishkill, New York building aggregated 1,194,351 and 5,382,193 for the years ended July 31, 2021 and 2020, respectively, primarily related to tenant improvements for space leased to a community college, new elevators, lobbies, and a fa ade. 
+ In August 2020, a retail tenant who occupies 1,810 square feet at the Company s Nine Bond Street Brooklyn, New York building extended their lease until August 31, 2025. 
+ In November 2020, the Company leased 5,300 square feet to a retail tenant at its Nine Bond Street Brooklyn, New York building. The tenant took occupancy in November 2020 and rental payments commenced in January 2021. 
+ In November 2020, the Company leased 23,000 square feet to an office tenant at its Jowein building in Brooklyn, New York. The cost of renovations for this tenant will be approximately 500,000 and brokerage commissions will be 979,000. Occupancy and rental payments are anticipated in December 2021. 
+ In November 2020, the Company leased 5,500 square feet to a retail tenant at its Jowein building in Brooklyn, New York. Occupancy and rental payments began in July 2021. 
+ In December 2020, a tenant, who occupies 84,000 square feet of warehouse space at the Company s Circleville, Ohio building, extended their lease for an additional three years to expire October 31, 2024. 
+ In April 2021, the Company leased 1,600 square feet to a retail tenant at its Nine Bond Street Brooklyn, New York building. Rent will commence in November 2021. 
+ 26 
+
+In July 2021, the Company leased 2,270 square feet to an office tenant at its Nine Bond Street Brooklyn, New York building. Rent will commence in September 2021. To accommodate this tenant, an existing tenant surrendered 440 square feet. 
+ CASH FLOWS: 
+ The following table summarizes our cash flow activity for the fiscal years ended July 31, 2021 and 2020: 
+
+2021 
+ 
+ 2020 
+ 
+ Net cash provided by operating activities 
+
+1,068,430 
+
+1,570,539 
+
+Net cash (used) by investing activities 
+
+(1,890,212) 
+
+(6,462,000) 
+ 
+ Net cash provided (used) by financing activities 
+
+(1,147,300) 
+
+4,031,538 
+
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+ Deferred Expenses: The Company had an additional 1,138,562 for brokerage commissions incurred from two new tenants at the Company s Brooklyn, New York buildings, and two existing tenants at the Company s Massapequa, New York and Circleville, Ohio buildings. 
+ Accounts Payable and Accrued Expenses: The Company had a balance due on July 31, 2021 for brokerage commissions of 1,479,279. 
+ Beginning in March 2020 and continuing through July 2020, we experienced an increase in late payments due to the impact of COVID-19 and the related reductions in economic activity from government mandated business disruptions and shelter -in-place orders. The effects of COVID-19 on our tenants have been reflected in our allowance for credit losses for accounts receivable. 
+ From August 2020 through July 2021, the Company had bad debt expense of 236,000. We continue to experience volatility in the valuation of our equity investments through July 31, 2021. To the extent the COVID-19 pandemic continues to disrupt economic activity nationally and in New York, NY, the impact may include increased bad debt expense, lower rental income and occupancy levels at our properties which may result in less cash provided by operating activities. Many of our expenses are less variable in nature and may not correlate to changes in revenues. 
+ On May 26, 2021, the Small Business Administration SBA authorized full forgiveness of the Company s Paycheck Protection Program PPP loan in the amount of 722,726, plus accrued interest. Such proceeds were recorded as a full reduction of the note payable, extinguishment of debt income and included in operating activities on the statement of cash flows in the year ending July 31, 2021. 
+ CASH FLOWS FROM INVESTING ACTIVITIES: 
+ Stairwell and sidewalk upgrades at the Company s Jamaica, New York building aggregated 241,241 for the year ended July 31, 2021. 
+ The Company had expenditures for renovations of 351,810 for a second lobby at its Fishkill, New York building. The total cost was 842,767 and was completed in October 2020. The Company also had expenditures at its Fishkill, New York building of 812,536 for facade work and 30,005 for various other projects for the year ended July 31, 2021. 
+ At its Jowein building in Brooklyn, New York, the Company had expenditures in the amount of 147,945 for roof work. The Company also had expenditures for renovations for a new tenant in the amount of 495,452. The total cost is estimated to be 500,000 and is anticipated to be completed in October 2021. The Company also had expenditures in the amount of 30,470 for various other improvements for the year ended July 31, 2021. 
+ CASH FLOWS FROM FINANCING ACTIVITIES: 
+ In April 2020, the Company obtained a 722,726 loan issued by a bank through the Small Business Administration s SBA Paycheck Protection Program PPP ). On May 26, 2021, the SBA authorized full forgiveness of the Company s PPP loan in the amount of 722,726, plus accrued interest. Such proceeds were recorded as a full reduction of the note payable, extinguishment of debt income and included in operating activities on the statement of cash flows in the year ending July 31, 2021. 
+ 27 
+
+RELATED PARTY TRANSACTIONS: 
+ The Company has two operating leases with Weinstein Enterprises, Inc. Landlord ), an affiliated company, principally owned by the Chairman of the Board of Directors of both the Company and Landlord. One lease is for building, improvements, and land (Premises located at Jamaica Avenue at 169 th Street, Jamaica, New York. Another lease is for Premises located at 504-506 Fulton Street, Brooklyn, New York. 
+ Rent payments and expense relating to these two operating leases with Landlord follow: 
+
+Rent Payments Year Ended July 31 
+ 
+ Rent Expense Year Ended July 31 
+ 
+ Property 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ Jamaica Avenue at 169 th Street 
+
+624,994 
+
+624,994 
+
+1,517,437 
+
+1,582,344 
+ 
+ 504-506 Fulton Street 
+
+362,256 
+
+362,256 
+
+350,438 
+
+350,437 
+ 
+ Total 
+
+987,250 
+
+987,250 
+
+1,867,875 
+
+1,932,781 
+
+ The following summarizes assets and liabilities related to these two leases: 
+
+Right-Of-Use Assets July 31 
+ 
+ Liabilities July 31 
+
+Property 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ 2021 
+ 
+ 2020 
+ 
+ Expiration Date 
+ 
+ Jamaica Avenue at 169 th Street 
+
+12,842,642 
+
+13,190,809 
+
+4,959,450 
+
+5,084,505 
+ 
+ May 31, 2030 
+ 
+ 504-506 Fulton Street 
+
+2,831,134 
+
+2,890,056 
+
+2,946,306 
+
+3,008,181 
+ 
+ April 30, 2031 
+ 
+ Total 
+
+15,673,776 
+
+16,080,865 
+
+7,905,756 
+
+8,092,686 
+
+Upon termination of the Jamaica, New York lease in 2030, all premises included in operating lease right-of-use assets plus leasehold improvements will be turned over to the Landlord. 
+ 28 
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS: 
+ This section, Management s Discussion and Analysis of Financial Condition and Results of Operations, other sections of the Annual Report on Form 10-K and this Annual Report to Shareholders and other reports and verbal statements made by our representatives from time to time may contain forward-looking statements that are based on our assumptions, expectations and projections about us and the real estate industry. These include statements regarding our expectations about revenues, our liquidity, or expenses and our continued growth, among others. Such forward-looking statements by their nature involve a degree of risk and uncertainty. We caution that a variety of factors, including but not limited to the factors described under Item 1A, Risk Factors in our Form 10-K for the fiscal year ended July 31, 2021 and the following, could cause business conditions and our results to differ materially from what is contained in forward-looking statements: 
+ changes in the rate of economic growth in the United States; 
+ 
+ the ability to obtain credit from financial institutions and the related costs; 
+ 
+ changes in the financial condition of our customers; 
+ 
+ changes in regulatory environment; 
+ 
+ lease cancellations; 
+ 
+ changes in our estimates of costs; 
+ 
+ war and/or terrorist attacks on facilities where services are or may be provided; 
+ 
+ outcomes of pending and future litigation; 
+ 
+ increasing competition by other companies; 
+ 
+ compliance with our loan covenants; 
+ 
+ recoverability of claims against our customers and others by us and claims by third parties against us; 
+ 
+ changes in estimates used in our critical accounting policies; and 
+ 
+ pandemics and the ongoing effects of COVID-19. 
+ Other factors and assumptions not identified above were also involved in the formation of these forward-looking statements and the failure of such other assumptions to be realized, as well as other factors, may also cause actual results to differ materially from those projected. Most of these factors are difficult to predict accurately and are generally beyond our control. You should consider the areas of risk described above in connection with any forward-looking statements that may be made by us. 
+ We undertake no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise. You are advised, however, to consult any additional disclosures we make in proxy statements, Quarterly Reports on Form 10-Q, Annual Reports on Form 10-K and Current Reports on Form 8-K filed with the U. S. Securities and Exchange Commission. 
+ CONTROLS AND PROCEDURES: 
+ The Company s management reviewed the Company s internal controls and procedures and the effectiveness of these controls. As of July 31, 2021, the Company carried out an evaluation, under the supervision and with the participation of the Company s management, including its Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of the Company s disclosure controls and procedures pursuant to Rules 13a-14(c) and 15d-14(c) of the Securities Exchange Act of 1934. Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the Company s disclosure controls and procedures are effective in timely alerting them to material information relating to the Company required to be included in its periodic SEC filings. 
+ There was no change in the Company s internal controls over financial reporting or in other factors during the Company s last fiscal quarter that materially affected, or are reasonably likely to materially affect, the Company s internal controls over financial reporting. There were no material weaknesses or significant deficiencies noted, and therefore there were no corrective actions taken. 
+ 29 
+
+COMMON STOCK INFORMATION: 
+ Effective November 8, 1999, the Company s common stock commenced trading on The Nasdaq Capital Market tier of The Nasdaq Stock Market under the Symbol: Mays . Such shares were previously traded on The Nasdaq National Market. Effective August 1, 2006, NASDAQ became operational as an exchange in NASDAQ-Listed Securities. It is now known as The NASDAQ Stock Market LLC. 
+ On October 15, 2021, the Company had approximately 800 shareholders of record. 
+ J.W. MAYS, INC. 
+ OFFICERS 
+
+Lloyd J. Shulman 
+ 
+ Chairman of the Board and President, Chief Executive Officer and Chief Operating Officer 
+ 
+ Mark S. Greenblatt 
+ 
+ Vice President and Treasurer 
+ 
+ Ward N. Lyke, Jr. 
+ 
+ Vice President and Assistant Treasurer 
+ 
+ George Silva 
+ 
+ Vice President-Operations 
+ 
+ Salvatore Cappuzzo 
+ 
+ Secretary 
+
+ BOARD OF DIRECTORS 
+
+Robert L. Ecker 2,3,4,6 
+ 
+ Partner in the law firm of Ecker, Ecker Associates, LLP 
+ 
+ Mark S. Greenblatt 3,5 
+ 
+ Vice President and Treasurer, J.W. Mays, Inc. 
+ 
+ Steven Gurney-Goldman 2,3 
+ 
+ Solil Management, LLC 
+ 
+ John J. Pearl 2,3,4,6 
+ 
+ Retired partner in the accounting firm of D Arcangelo Co., LLP 
+ 
+ Dean L. Ryder 1,2,3,4,6 
+ 
+ President, Putnam County National Bank 
+ 
+ Lloyd J. Shulman 1,3 
+ 
+ Chairman of the Board and President, Chief Executive Officer and Chief Operating Officer, 
+
+J.W. Mays, Inc. 
+
+ Committee Assignments Key: 
+
+1 
+ Member of Executive Committee 
+ 
+ 2 
+ Member of Audit Committee 
+ 
+ 3 
+ Member of Investment Advisory Committee 
+ 
+ 4 
+ Member of Compensation Committee 
+ 
+ 5 
+ Member of Disclosure Committee (Mr. Lyke and Mr. Lance Myers, a partner in Holland Knight LLP, are also members) 
+ 
+ 6 
+ Member of Nominating Committee 
+
+ FORM 10-K ANNUAL REPORT 
+ Copies of the Company s Form 10-K Annual Report to the U. S. Securities and Exchange Commission for the fiscal year ended July 31, 2021 will be furnished without charge to shareholders upon written request to: 
+ Secretary, J.W. Mays, Inc. 9 Bond Street Brooklyn, New York 11201-5805. 
+ Copies of the Notice of Meeting, Proxy Statement, Proxy Card and Annual Report to Shareholders are available at: http://www.astproxyportal.com/ast/03443 
+ 30 
+
+</EX-13>
+
+<EX-21>
+ 3
+ jwmays3906498-ex21.htm
+ SUBSIDIARIES OF THE REGISTRANT
+
+EXHIBIT 21 
+
+EXHIBIT 21 
+ Subsidiaries of the Registrant 
+ The Registrant owns all of the outstanding stock of the following corporations, which are included in the Consolidated Financial Statements filed with this report: 
+ Dutchess Mall Sewage Plant, Inc. (a New York corporation) 
+ J. W. M. Realty Corp. (an Ohio corporation) 
+
+</EX-21>
+
+<EX-31.1>
+ 4
+ jwmays3906498-ex311.htm
+ CHIEF EXECUTIVE OFFICER
+
+EXHIBIT 31.1 
+
+EXHIBIT 31.1 
+
+ CERTIFICATION 
+
+ I, Lloyd J. Shulman, certify that: 
+
+ 1. I have reviewed this Annual Report on Form 10-K of J.W. Mays, Inc.; 
+
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under my supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America; 
+
+(c) 
+
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an Annual Report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; 
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 21, 2021 
+
+/s/ LLOYD J. SHULMAN 
+
+Lloyd J. Shulman 
+
+President 
+
+Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ jwmays3906498-ex312.htm
+ CHIEF FINANCIAL OFFICER
+
+EXHIBIT 31.2 
+
+EXHIBIT 31.2 
+
+ CERTIFICATION 
+
+ I, Mark S. Greenblatt, certify that: 
+
+ 1. I have reviewed this Annual Report on Form 10-K of J.W. Mays, Inc.; 
+
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under my supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America; 
+
+(c) 
+
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an Annual Report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; 
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 21, 2021 
+
+/s/ MARK S. GREENBLATT 
+
+Mark S. Greenblatt 
+
+Vice President 
+
+Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32>
+ 6
+ jwmays3906498-ex32.htm
+ CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT
+
+EXHIBIT 32 
+
+EXHIBIT 32 
+
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ In connection with the Annual Report of J. W. Mays, Inc. (the Company on Form 10-K for the period ending July 31, 2021 as filed with the U. S. Securities and Exchange Commission (the Report ), we, Lloyd J. Shulman and Mark S. Greenblatt, Chief Executive Officer and Chief Financial Officer, respectively, of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that to our knowledge: 
+
+(1) 
+
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+October 21, 2021 
+
+/s/ LLOYD J. SHULMAN 
+
+Lloyd J. Shulman 
+
+Chief Executive Officer 
+
+/s/ MARK S. GREENBLATT 
+
+Mark S. Greenblatt 
+
+Chief Financial Officer 
+
+A signed original of this written statement required by Section 906 has been provided to J.W. Mays, Inc. and will be retained by J.W. Mays, Inc. and furnished to the U. S. Securities and Exchange Commission or its staff upon request. 
+
+</EX-32>
+
+<EX-101.INS>
+ 7
+ mays-20210731.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ mays-20210731.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.PRE>
+ 9
+ mays-20210731_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+
+<EX-101.LAB>
+ 10
+ mays-20210731_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.CAL>
+ 11
+ mays-20210731_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 12
+ mays-20210731_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+

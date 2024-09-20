@@ -1,0 +1,1376 @@
+<Header>
+<FileStats>
+    <FileName>20211014_10-K_edgar_data_103595_0000103595-21-000014.txt</FileName>
+    <GrossFileSize>9688763</GrossFileSize>
+    <NetFileSize>176241</NetFileSize>
+    <NonText_DocumentType_Chars>1524351</NonText_DocumentType_Chars>
+    <HTML_Chars>3142825</HTML_Chars>
+    <XBRL_Chars>2620467</XBRL_Chars>
+    <XML_Chars>2052315</XML_Chars>
+    <N_Exhibits>13</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000103595-21-000014.hdr.sgml : 20211014
+<ACCEPTANCE-DATETIME>20211014124844
+ACCESSION NUMBER:		0000103595-21-000014
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		88
+CONFORMED PERIOD OF REPORT:	20210731
+FILED AS OF DATE:		20211014
+DATE AS OF CHANGE:		20211014
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VILLAGE SUPER MARKET INC
+		CENTRAL INDEX KEY:			0000103595
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				221576170
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0727
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33360
+		FILM NUMBER:		211322974
+
+	BUSINESS ADDRESS:	
+		STREET 1:		733 MOUNTAIN AVE
+		CITY:			SPRINGFIELD
+		STATE:			NJ
+		ZIP:			07081
+		BUSINESS PHONE:		2014672200
+
+	MAIL ADDRESS:	
+		STREET 1:		733 MOUNTAIN AVE
+		CITY:			SPRINGFIELD
+		STATE:			NJ
+		ZIP:			07081
+
+</SEC-Header>
+</Header>
+
+ 0000103595-21-000014.txt : 20211014
+
+10-K
+ 1
+ vlgea-20210731.htm
+ 10-K
+
+vlgea-20210731 
+
+UNITED STATES 
+ SECURITIES EXCHANGE COMMISSION 
+ WASHINGTON, D. C. 20549 
+ FORM 
+ Annual Report Pursuant to Section 13 or 15(d) of the Securities and Exchange Act of 1934. 
+ For the fiscal year ended , 2021 
+ or 
+ Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+ 
+ COMMISSION FILE NUMBER: 
+ 
+ (Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation or organization) (I. R. S. Employer Identification No.) , , 
+ (Address of principal executive offices) (Zip Code) Registrant s telephone number, including area code: ) 
+ Securities registered pursuant to Section 12(b) of the Act: (Title of Class) (Trading Symbol) (Name of exchange on which registered) Securities registered pursuant to Section 12(g) of the Act: None 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). No 
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 299.405 of this chapter) is not contained herein, and will not be contained, to the best of the registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer , smaller reporting company and " emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer 
+ 
+ Non-accelerated filer 
+ (Do not check if a smaller reporting company) 
+ Smaller reporting company 
+ Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C.7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ The aggregate market value of the Class A common stock of Village Super Market, Inc. held by non-affiliates was approximately million and the aggregate market value of the Class B common stock held by non-affiliates was approximately million based upon the closing price of the Class A shares on the NASDAQ on January 23, 2021, the last business day of the second fiscal quarter. There are no other classes of voting stock outstanding. 
+ Indicate the number of shares outstanding of each of the registrant's classes of common stock, as of latest practicable date. 
+ Outstanding at Class October 14, 2021 Class A common stock, no par value Shares Class B common stock, no par value Shares 
+ DOCUMENTS INCORPORATED BY REFERENCE 
+
+PART I 
+ (All dollar amounts are in thousands, except per share and per square foot data). 
+
+ITEM I. BUSINESS 
+ 
+ GENERAL 
+ 
+ Village Super Market, Inc. (the Company or Village was founded in 1937. Village operates a chain of twenty-nine ShopRite supermarkets, five Fairway Markets and three Gourmet Garage specialty markets located in New Jersey, New York, Pennsylvania and Maryland. 
+ 
+ The Company is a member of Wakefern Food Corporation ("Wakefern"), the nation's largest retailer-owned food cooperative and owner of the ShopRite, Fairway and Gourmet Garage names. This relationship provides Village many of the economies of scale in purchasing, distribution, own branded products, advanced retail technology, marketing and advertising associated with chains of greater size and geographic coverage. The ShopRite Price Plus preferred customer program enables Village to offer continuity programs, focus on target marketing initiatives and to offer discounts and attach digital coupons directly to a customer's Price Plus card. 
+ 
+ During fiscal 2021, sales per store were 52,713 and sales per average square foot of selling space were 1,349. 
+ 
+ Below is a summary of the range of store sizes at July 31, 2021: 
+ Total Square Feet Number of Stores Greater than 60,000 16 50,001 to 60,000 9 40,001 to 50,000 5 20,000 to 40,000 4 Less than 20,000 3 Total 37 
+ 
+ These larger store sizes enable the Company s stores to provide a one-stop shopping experience and to feature expanded specialty departments such as an onsite bakery, an expanded delicatessen, a variety of natural and organic foods, ethnic and international foods, prepared foods and pharmacies. Many of our stores emphasize a Power Alley, which features high margin, fresh, convenience offerings in an area within the store that provides quick customer entry and exit for those customers shopping for today's lunch or dinner. 
+ 
+ Online grocery ordering for in-store pick up or home delivery through ShopRite from Home is available in all of our ShopRite stores. Customers can browse our circular, create and edit shopping lists and use ShopRite from Home through shoprite.com or the ShopRite app. Additionally, the ShopRite Order Express app enables customers to pre-order deli, catering, specialty 
+
+occasion cakes and other items. Online ordering for home delivery through third party services is available in all Fairway and Gourmet Garage stores. In April 2020 we also added online ordering for home delivery through third party services in all ShopRite stores. 
+ 
+ The following table shows the percentage of the Company's sales allocated to various product categories during each of the periods indicated: 
+ 
+ Product Categories 2021 2020 Groceries 34.7 35.9 Dairy and Frozen 17.2 17.1 Produce 13.2 11.9 Meats 9.8 9.9 Non-Foods 7.0 7.9 Deli and Prepared Food 7.7 7.4 Pharmacy 3.3 3.8 Seafood 3.2 2.9 Bakery 2.4 2.1 Liquor 1.1 0.7 Other 0.4 0.4 100 100 
+ 
+ A variety of factors affect the profitability of each of the Company's stores, including competition, size, access and parking, lease terms, management supervision, and the strength of the applicable banner in the local community. The Company gives ongoing attention to the d cor and format of its stores and tailors each store's product mix to the preferences of the local community. Village continually evaluates individual stores to determine if they should be closed, remodeled or replaced. 
+ 
+ ACQUISITIONS, DEVELOPMENT AND EXPANSION 
+ 
+ The Company has an ongoing program to upgrade and expand its supermarket chain. This program has included store remodels as well as the opening or acquisition of additional stores. When remodeling, Village has sought, whenever possible, to increase the amount of selling space in its stores. 
+ 
+ We have budgeted 40,000 for capital expenditures in fiscal 2022. Planned expenditures include three major remodels, several smaller store remodels, the purchase of Galloway store shopping center, one new Gourmet Garage store, continued expansion of ShopRite from Home and self-checkout, and various merchandising, technology, equipment and facility upgrades. 
+ 
+ Additional store remodels and sites for new stores are in various stages of development. Village will also consider additional acquisitions should appropriate opportunities arise. 
+ 
+ Fiscal 2021 
+ 
+ Fiscal 2021 capital expenditures include one major remodel, continued expansion of ShopRite from Home and self-checkout, and various merchandising, technology, equipment and facility upgrades. 
+ 
+ On February 22, 2021, Village closed the ShopRite store located in Silver Spring, Maryland. Despite continued investment in marketing and promotional programs, the store was unable to generate sales at a level sufficient to maintain profitability, resulting in its closure. The impacts associated with this closure were not material to the consolidated financial statements. 
+ 
+ Fiscal 2020 
+ 
+ On May 14, 2020, Village completed its acquisition of certain assets, including five supermarkets averaging 52,000 sq. ft. (30,000 selling sq. ft.), a production distribution center (the PDC and the intellectual property of Fairway Group Holdings Corp. and certain of its subsidiaries Fairway ), including the names Fairway and Fairway Markets for 73,622, net of cash acquired. Four of the supermarkets are in Manhattan, specifically the Upper West Side, Upper East Side, Kips Bay and Chelsea locations, and a fifth store is located in Pelham, NY. Like Village, Fairway traces its roots back to a neighborhood 
+ 2 
+
+market over 80 years ago. Fairway Markets offer a one-stop destination shopping experience with an emphasis on fresh, unique, and high quality offerings paired with an expansive variety of natural, organic, specialty and gourmet products. The PDC is a centralized commissary that promotes production efficiency, product quality and consistency in the bakery, prepared foods, meals to go and other perishable product categories. Production costs at the PDC, including materials, labor and overhead, are included in Cost of sales. The Fairway acquisition expanded our presence in New York City under an iconic city brand and provides Village the ability to expand centralized food production to support stores under all of our banners. 
+ 
+ Fiscal 2020 capital expenditures include costs associated with the opening of an 82,000 sq. ft. (52,000 selling sq. ft.) store in Stroudsburg, Pennsylvania that replaced our existing 53,000 sq. ft. store, expansion of ShopRite from Home, including the opening of an automated micro-fulfillment center in southern New Jersey, one major store remodel, several smaller remodels and equipment upgrades, including those in the integration of the Fairway acquisition. 
+ 
+ WAKEFERN FOOD CORPORATION 
+ 
+ The Company is the second largest member of Wakefern and owns 12.2 of Wakefern s outstanding stock as of July 31, 2021. Wakefern, which was organized in 1946, is the nation s largest retailer-owned food cooperative. Wakefern and its 48 shareholder members operate 362 supermarkets and other retail formats, including 92 stores operated by Wakefern. Only Wakefern and its members are entitled to use the ShopRite, Fairway and Gourmet Garage names and trademarks, and to participate in related advertising and promotional programs. 
+ 
+ The principal benefits to the Company from its relationship with Wakefern are the use of the ShopRite, Fairway and Gourmet Garage names and trademarks, volume purchasing, store and own branded products, distribution and warehousing economies of scale, advertising and promotional programs (including the ShopRite Price Plus card) and the development of advanced retail technology. The Company believes that the ShopRite and Fairway names are widely recognized by its customers and is a factor in their decisions about where to shop. Store and own branded products accounted for approximately 12.4 of ShopRite sales in fiscal 2021. 
+ 
+ Wakefern distributes as a "patronage dividend" to each of its stockholders a share of substantially all of its earnings in proportion to the dollar volume of purchases by the stockholder from Wakefern during each fiscal year. 
+ 
+ While Wakefern has a substantial professional staff, it operates as a member owned cooperative. Executives of most members make contributions of time to the business of Wakefern. Executives of the Company spend a significant amount of their time working on various Wakefern committees, which oversee and direct Wakefern purchasing, merchandising and other programs. In addition, Nicholas Sumas, the Company s Co-President, is a member of the Wakefern Board of Directors. 
+ 
+ Most of the Company's advertising is developed and placed by Wakefern's professional advertising staff. Wakefern is responsible for all broadcast television, radio, print and digital advertisements. Wakefern bills its members using various formulas which allocate advertising costs in accordance with the estimated proportional benefits to each member from such advertising. The Company also places Wakefern developed materials with local newspapers. In addition, Wakefern and its affiliates provide the Company with other services including workers' compensation, liability and property insurance, supplies, certain equipment purchasing, coupon processing, certain financial accounting applications, retail technology support, including shoprite.com, gourmetgarage.com, fairway.com, branded apps and other store services. 
+ 
+ Wakefern operates warehouses and distribution facilities in Elizabeth, Keasbey, Whitehouse, Dayton, Newark and Jamesburg, New Jersey and Gouldsboro, Breinigsville and Hatfield Pennsylvania. The Company and all other members of Wakefern are parties to the Wakefern Stockholders' Agreement which provides for certain commitments by, and restrictions on, all shareholders of Wakefern. This agreement extends until ten years from the date that stockholders representing 75 of Wakefern sales notify Wakefern that those stockholders request the Wakefern Stockholders' Agreement be terminated. Each member is obligated to purchase from Wakefern a minimum of 85 of its requirements for products offered by Wakefern. If this purchase obligation is not met, the member is required to pay Wakefern's profit contribution shortfall attributable to this failure. The Company fulfilled this obligation in fiscal 2021 and 2020. This agreement also requires that in the event of unapproved changes in control of the Company or a sale of the Company or of individual Company stores, except to a qualified successor, the Company in such cases must pay Wakefern an amount equal to the annual profit contribution shortfall attributable to the sale of a store or change in control. No payments are required if the volume lost by a shareholder as a result of the sale of a store is replaced by such shareholder by increased volume in existing or new stores. A "qualified successor" must be, or agree to become, a member of Wakefern, and may not own or operate any supermarkets, other than ShopRite, PriceRite, The Fresh Grocer, Fairway, Gourmet Garage or Dearborn Market supermarkets, in the states of New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, Connecticut, Massachusetts, Rhode Island, Vermont, New Hampshire, 
+ 3 
+
+Maine or the District of Columbia, or own or operate more than 25 non-ShopRite supermarkets in any other locations in the United States. 
+ 
+ Wakefern, under circumstances specified in its bylaws, may refuse to sell merchandise to, and may repurchase the Wakefern stock of, any member. Such circumstances include a member's bankruptcy filing, certain unapproved transfers by a member of its supermarket business or its capital stock in Wakefern, unapproved acquisition by a member of certain supermarket or grocery wholesale supply businesses, the material breach by a member of any provision of the bylaws of Wakefern or any agreement with Wakefern, or a failure to fulfill financial obligations to Wakefern. 
+ 
+ Any material change in Wakefern's method of operation or a termination or material modification of the Company's relationship with Wakefern following termination of the above agreements, or otherwise, might have an adverse impact on the conduct of the Company's business and could involve additional expense for the Company. The failure of any Wakefern member to fulfill its obligations under these agreements or a member's insolvency or withdrawal from Wakefern could result in increased costs to remaining members. 
+ 
+ Wakefern does not prescribe geographical franchise areas to its members. The specific locations at which the Company, other members of Wakefern, or Wakefern itself, may open new units under the ShopRite, PriceRite, The Fresh Grocer, Fairway, Gourmet Garage or Dearborn Market names are, however, subject to the approval of Wakefern's Site Development Committee. This committee is composed of persons who are not employees or members of Wakefern. Committee decisions to deny a site application may be appealed to the Wakefern Board of Directors. Wakefern assists its members in their site selection by providing appropriate demographic data, volume projections and estimates of the impact of the proposed store on existing member supermarkets in the area. 
+ 
+ Each of Wakefern's members is required to make capital contributions to Wakefern based on the number of stores operated by that member and the purchases from Wakefern generated by those stores. As additional stores are opened or acquired by a member, additional capital must be contributed by it to Wakefern. The Company s investment in Wakefern and affiliates was 33,004 at July 31, 2021. The total amount of debt outstanding from all capital pledges to Wakefern is 3,423 at July 31, 2021. The maximum per store investment increased from 950 to 975 in fiscal 2021, resulting in an additional 670 capital pledge, which was paid in fiscal 2021. 
+ 
+ As required by the Wakefern bylaws, the Company s investment in Wakefern is pledged to Wakefern to secure the Company s obligations to Wakefern. In addition, five members of the Sumas family have guaranteed the Company s obligations to Wakefern. These personal guarantees are required of any 5 shareholder of the Company who is active in the operation of the Company. Wakefern does not own any securities of the Company or its subsidiaries. The Company s investment in Wakefern entitles the Company to enough votes to elect one member to the Wakefern Board of Directors due to cumulative voting rights. 
+ 
+ LABOR 
+ 
+ As of July 31, 2021, the Company employed approximately 7,268 persons with approximately 70 working part-time. Approximately 89 of the Company s employees are covered by collective bargaining agreements. Contracts with the Company s seven unions have expiration dates between March 2020 and August 2025. Approximately 10 of our associates are represented by unions whose contracts have expired or will expire within one year. Many of the Company s competitors are similarly unionized. 
+ 
+ SEASONALITY 
+ 
+ The majority of our revenues are generally not seasonal in nature. However, revenues tend to be higher during the major holidays throughout the year. 
+ 
+ REGULATORY ENVIRONMENT 
+ 
+ The Company s business requires various licenses and the registration of facilities with state and federal health and drug regulatory agencies. These licenses and registration requirements obligate the Company to observe certain rules and regulations, and a violation of these rules and regulations could result in a suspension or revocation of licenses or registrations and fines or penalties. In addition, most licenses require periodic renewals. The Company has not experienced material difficulties with respect to obtaining or retaining licenses and registrations. 
+
+4 
+
+COMPETITION 
+ 
+ The supermarket business is highly competitive and characterized by narrow profit margins. Village competes directly with multiple retail formats both in-store and online, including national, regional and local supermarket chains as well as warehouse clubs, supercenters, drug stores, discount general merchandise stores, fast food chains, restaurants, dollar stores and convenience stores. Some of the Company's principal competitors include Acme, Aldi, Amazon/Whole Foods, BJs, Costco, Foodtown, Giant, Kings, Lidl, Safeway, Stop Shop, Target, Trader Joe's, Wal-Mart, Wegmans and Weis. Competition with these outlets is based on price, store location, convenience, promotion, product assortment, quality and service. Some of these competitors have greater financial resources, lower merchandise acquisition costs and lower operating expenses than we do. 
+ 
+ AVAILABLE INFORMATION 
+ 
+ As a member of the Wakefern cooperative, Village relies upon our customer focused websites, shoprite.com, gourmetgarage.com and fairway.com, for interaction with customers and prospective employees. This website is maintained by Wakefern for the benefit of all ShopRite supermarkets, and therefore does not contain any financial information related to the Company. 
+ 
+ The Company will provide paper copies of the annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and press releases free of charge upon request to any shareholder. In addition, electronic copies of these filings can be obtained at sec.gov. 
+
+ITEM 1A. RISK FACTORS 
+ 
+ Not applicable. 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+ 
+ Not applicable. 
+
+ITEM 2. PROPERTIES 
+ 
+ As of July 31, 2021, Village owns the sites of six of its supermarkets (containing 412,000 square feet of total space), all of which are freestanding stores, except the Egg Harbor store, which is part of a shopping center, and the micro-fulfillment center in southern New Jersey. The remaining 31 stores (containing 1,614,000 square feet of total space), PDC and the corporate headquarters are leased, with initial lease terms generally ranging from 20 to 30 years, usually with renewal options. Twenty-three of these leased stores are located in shopping centers or city storefronts and the remaining eight are freestanding stores. Most of the Company s leases contain renewal options at increased rents of five years each at the Company s sole discretion. These options enable Village to retain the use of facilities in desirable operating areas. Each renewal option is evaluated when recognizing the lease right-of-use assets and liabilities, and the Company utilizes the lease term for which it is reasonably certain to use the underlying asset. Leases with an initial term of 12 months or less are not recorded on the balance sheet. The Company is obligated under all leases to pay for real estate taxes, utilities and liability insurance, and under certain leases to pay additional amounts based on maintenance and a percentage of sales in excess of stipulated amounts. The Company accounts for rent holidays, escalating rent provisions, and construction allowances on a straight-line basis over the term of the lease. 
+ 
+ As of July 31, 2021, finance lease right-of-use assets of 12,806 are included in property, equipment and fixtures, net in the Company's consolidated balance sheet. 
+ 
+ The annual rental payment, including finance leases, for all of the Company's leased facilities for the year ended July 31, 2021 was approximately 37,457. For additional information on lease obligations, see Note 7 to the consolidated financial statements. 
+ 
+ Village is a limited partner in two partnerships, one of which owns a shopping center in which one of our leased stores is located. The Company is also a general partner in a partnership that is a lessor of one of the Company's freestanding stores. 
+ 
+ On October 13, 2021, Village completed the acquisition of the Galloway store shopping center for 9,800. As of July 31, 2021, the right-of-use asset and obligation related to the Galloway store's lease were 873 and 887, respectively. 
+ 
+ 5 
+
+ITEM 3. LEGAL PROCEEDINGS 
+ 
+ Superstorm Sandy devastated Village's trade area on October 29, 2012 and resulted in the closure of almost all of our stores for periods of time ranging from a few hours to eight days. Village disposed of substantial amounts of perishable product and also incurred repair, labor and other costs as a result of the storm. Wakefern, as the policy holder, has pursued recovery of uncollected insurance claims on behalf of all Wakefern members through litigation against the insurance carrier and others since October 2013. Litigation over this matter has ended and the Company received an additional in the 4th quarter of fiscal 2020 which was recognized as a reduction in operating and administrative expense. Village has received a total of related to losses incurred as a result of Superstorm Sandy. 
+ 
+ The Company is involved in other litigation incidental to the normal course of business. Company management is of the opinion that the ultimate resolution of these legal proceedings should not have a material adverse effect on the consolidated financial position, results of operations or liquidity of the Company. 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+ 
+ Not applicable. 
+ 
+ 6 
+
+PART II 
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 
+ (All dollar amounts are in thousands, except per share data). 
+ 
+ Stock Price and Dividend Information 
+ 
+ The Class A common stock of Village Super Market, Inc. is traded on the NASDAQ Global Select Market under the symbol VLGEA. The table below sets forth the high and low last reported sales price for the fiscal quarter indicated. 
+ 
+ 2021 High Low 4th Quarter 25.46 22.55 3rd Quarter 26.19 21.07 2nd Quarter 23.89 21.56 1st Quarter 26.41 23.19 2020 High Low 4th Quarter 27.72 22.43 3rd Quarter 24.58 17.10 2nd Quarter 28.40 22.46 1st Quarter 26.73 24.26 
+ 
+ As of October 1, 2021, there were approximately 278 holders of record of Class A common stock. 
+ 
+ During fiscal 2021, Village paid cash dividends of 13,050. Dividends in fiscal 2021 consist of 1.00 per Class A common share and .65 per Class B common share. 
+ 
+ During fiscal 2020, Village paid cash dividends of 12,965. Dividends in fiscal 2020 consist of 1.00 per Class A common share and .65 per Class B common share. 
+
+7 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+ 
+ Selected Financial Data 
+ (Dollars in thousands, except per share data and per square foot data). 
+ 
+ Fiscal 2021 contains 53 weeks, with the additional week included in the fourth quarter. All other fiscal years contain 52 weeks. 
+ 
+ For year July 31, 2021 July 25, 2020 July 27, 2019 July 28, 2018 July 29, 2017 Sales 2,030,330 1,804,594 1,643,502 1,612,015 1,604,574 Net income 19,994 (1) 24,939 (2) 25,539 (3) 25,080 (4) 22,921 Net income as a of sales 0.98 1.38 1.55 1.56 1.43 Net income per share: Class A common stock: Basic 1.53 1.93 1.98 1.95 1.80 Diluted 1.37 1.72 1.77 1.74 1.60 Class B common stock: Basic 1.00 1.25 1.29 1.27 1.16 Diluted 1.00 1.25 1.29 1.27 1.16 Cash dividends per share: Class A 1.00 1.00 1.00 1.00 1.00 Class B 0.65 0.65 0.65 0.65 0.65 At year-end Total assets (5) 889,004 915,546 502,289 481,590 455,225 Long-term debt (5) 370,078 396,181 47,725 48,186 42,646 Working capital 44,023 34,522 56,307 89,201 85,279 Shareholders equity 341,473 332,320 318,672 303,145 286,820 Book value per share 23.48 22.84 22.15 21.08 19.93 Other data Same store sales trend (6) 2.3 5.3 (0.5) 0.2 0.0 Total square feet 2,026,000 2,091,000 1,804,000 1,770,000 1,717,000 Average total sq. ft. per store 55,000 55,000 55,000 59,000 59,000 Selling square feet 1,481,000 1,529,000 1,401,000 1,384,000 1,353,000 Sales per average square foot of selling space (7) 1,349 1,275 1,186 1,188 1,186 Number of stores 37 38 33 30 29 Sales per average number of stores (7) 52,713 53,284 54,715 55,450 55,330 Capital expenditures and acquisitions 25,233 54,495 27,988 35,464 27,726 
+ 
+ (1) Includes a 2,802 (net of tax) gain on the sale of the leasehold interest in a non-supermarket related parking lot lease obtained as part of the Fairway acquisition, a gain on the sale of a pharmacy prescription list related to the Silver Spring store, net of store closing costs of 276 (net of tax), non-cash impairment charges for the Fairway trade name and the long lived assets for one Gourmet Garage store of 2,010 (net of tax), pension settlement charges of 407 (net of tax) and estimated net income of 417 due to the fiscal year including a 53rd week. 
+ (2) Includes a 1,911 (net of tax) gain for Superstorm Sandy insurance proceeds received, an 854 (net of tax) gain on the sale of pharmacy prescription lists related to three store pharmacies closed in March 2020, a 2,512 incremental benefit from a federal net operating loss carryback at a rate higher than the current statutory tax rate, a 1,423 (net of tax) gain arising from the 
+ 8 
+
+breakup of Village s initial stalking horse bid under the January 20, 2020 Fairway Asset Purchase Agreement, transaction costs incurred for the Fairway acquisition of 1,888 (net of tax), amortization of acquisition related inventory step-up of 355 (net of tax), a non-cash pension charge related to the termination of a company-sponsored pension plan and other pension settlement charges of 1,160 (net of tax), pre-opening costs related to the Stroudsburg, Pennsylvania replacement store of 891 (net of tax) and store closure costs and charges to write off the lease asset and related obligations for the old Stroudsburg store of 557 (net of tax). 
+ (3) Includes a 290 (net of tax) gain for Superstorm Sandy insurance proceeds received, a tax benefit of 777 related to the favorable settlement of a tax audit with the New Jersey Division of Taxation and a non-cash pension charge related to pension settlement charges of 308 (net of tax). 
+ (4) Includes a 3,300 reduction in deferred tax expense as a result of the Tax Cuts and Jobs Act, an 822 (net of tax) non-recurring credit accrued related to multi-employer pension benefits, 877 (net of tax) in non-recurring assessments from Wakefern and 695 (net of tax) in pre-opening costs related to the Bronx, New York City store. 
+ (5) On July 28, 2019, the Company adopted ASU 2016-02, Leases. The adoption of the standard resulted in the recognition of operating lease assets and operating lease liabilities, included in long-term debt of 99,415 and 111,139, respectively, as of the date of adoption. 
+ (6) New stores and replacement stores are included in same store sales in the quarter after the store has been in operation for four full quarters. Store renovations and expansions are included in same store sales immediately. The change in same store sales in fiscal 2021 excludes the impact of the 53rd week in fiscal 2021 and fiscal 2017 excludes the impact of the 53rd week in fiscal 2016. 
+ (7) Amounts for the year ended July 25, 2020 exclude the results of the Fairway stores acquired on May 14, 2020, amounts for the year ended July 27, 2019 exclude the results of the Gourmet Garage stores acquired on June 24, 2019. Amounts for the year ended July 28, 2018 exclude results of the store opened in the Bronx, New York on June 28, 2018. 
+ 
+ Unaudited Quarterly Financial Data 
+ (Dollars in thousands except per share amounts). 
+ 
+ First Quarter Second Quarter Third Quarter Fourth Quarter Fiscal Year 2021 Sales 490,136 522,818 481,093 536,283 2,030,330 Gross profit 137,963 141,845 133,422 151,814 565,044 Net income 3,360 4,555 2,574 9,500 19,994 Net income per share: Class A common stock: Basic 0.26 0.35 0.20 0.73 1.53 Diluted 0.23 0.31 0.18 0.65 1.37 Class B common stock: Basic 0.17 0.23 0.13 0.47 1.00 Diluted 0.17 0.23 0.13 0.47 1.00 2020 Sales 407,402 437,422 458,292 501,478 1,804,594 Gross profit 113,546 117,947 129,901 145,081 506,475 Net income 2,567 2,005 11,138 9,229 24,939 Net income per share: Class A common stock: Basic 0.20 0.16 0.86 0.71 1.93 Diluted 0.18 0.14 0.77 0.63 1.72 Class B common stock: Basic 0.13 0.10 0.56 0.46 1.25 Diluted 0.13 0.10 0.56 0.46 1.25 
+
+9 
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ (Dollars in thousands, except per share and per square foot data). 
+ 
+ OVERVIEW 
+ 
+ Village operates a chain of twenty-nine ShopRite supermarkets, five Fairway Markets and three Gourmet Garage specialty markets located in New Jersey, New York, Pennsylvania and Maryland. Village is the second largest member of Wakefern Food Corporation Wakefern ), the nation s largest retailer-owned food cooperative and owner of the ShopRite, Fairway and Gourmet Garage names. This ownership interest in Wakefern provides Village with many of the economies of scale in purchasing, distribution, advanced retail technology, marketing and advertising associated with larger chains. 
+ 
+ On February 22, 2021, Village closed the ShopRite store located in Silver Spring, Maryland. Despite continued investment in marketing and promotional programs, the store was unable to generate sales at a level sufficient to maintain profitability, resulting in its closure. The impacts associated with this closure were not material to the consolidated financial statements. 
+ 
+ On May 14, 2020, Village completed its acquisition of certain assets, including five supermarkets averaging 52,000 sq. ft. (30,000 selling sq. ft.), a production distribution center (the PDC and the intellectual property of Fairway Group Holdings Corp. and certain of its subsidiaries Fairway ), including the names Fairway and Fairway Markets for 73,622, net of cash acquired. Four of the supermarkets are in Manhattan, specifically the Upper West Side, Upper East Side, Kips Bay and Chelsea locations, and a fifth store is located in Pelham, NY. Like Village, Fairway traces its roots back to a neighborhood market over 80 years ago. Fairway Markets offer a one-stop destination shopping experience with an emphasis on fresh, unique, and high quality offerings paired with an expansive variety of natural, organic, specialty and gourmet products. The PDC is a centralized commissary that promotes production efficiency, product quality and consistency in the bakery, prepared foods, meals to go and other perishable product categories. Production costs at the PDC, including materials, labor and overhead, are included in Cost of sales. The Fairway acquisition expands our presence in New York City under an iconic city brand and provides Village the ability to expand centralized food production to support stores under all of our banners. 
+ 
+ On November 1, 2019, Village opened an 82,000 sq. ft. (52,000 selling sq. ft.) ShopRite in Stroudsburg, Pennsylvania and replaced our existing 53,000 sq. ft. store. 
+ 
+ The supermarket industry is highly competitive and characterized by narrow profit margins. The Company competes directly with multiple retail formats, both in-store and online, including national, regional and local supermarket chains as well as warehouse clubs, supercenters, drug stores, discount general merchandise stores, fast food chains, restaurants, dollar stores and convenience stores. Village competes by using low pricing, providing a superior customer service experience and a broad range of consistently available quality products, including our own brands portfolio. The ShopRite Price Plus preferred customer program enables Village to offer continuity programs, focus on target marketing initiatives and to offer discounts and attach digital coupons directly to a customer's Price Plus card. 
+ 
+ The Company s stores, six of which are owned, average 55,000 total square feet. These larger store sizes enable the Company s stores to provide a one-stop shopping experience and to feature expanded higher margin specialty departments such as an on-site bakery, an expanded delicatessen, a variety of natural and organic foods, ethnic and international foods, prepared foods and pharmacies. Many of our stores emphasize a Power Alley, which features high margin, fresh, convenience offerings in an area within the store that provides quick customer entry and exit for those customers shopping for today's lunch or dinner. Certain of our stores include the Village Food Garden concept featuring a restaurant style kitchen, and several kiosks offering a wide variety of store prepared specialty foods for both take-home and in-store dining. 
+ 
+ Online grocery ordering for in-store pick up or home delivery through ShopRite from Home is available in all of our ShopRite stores. Customers can browse our circular, create and edit shopping lists and use ShopRite from Home through shoprite.com or the ShopRite app. Additionally, the ShopRite Order Express app enables customers to pre-order deli, catering, specialty occasion cakes and other items. Online ordering for home delivery through third party services is available in all Fairway and Gourmet Garage stores. In April 2020 we also added online ordering for home delivery through third party services in all ShopRite stores. 
+ 
+ We consider a variety of indicators to evaluate our performance, such as same store sales; percentage of total sales by department (mix); shrink; departmental gross profit percentage; sales per labor hour; units per labor hour; and hourly labor rates. 
+ 
+ 10 
+
+The Company utilizes a 52 - 53 week fiscal year, ending on the last Saturday in the month of July. Fiscal 2021 contains 53 weeks and fiscal 2020 contains 52 weeks. 
+ 
+ COVID-19 
+ 
+ The Company was significantly impacted by the COVID-19 outbreak as it operates in and around one of the early U.S. epicenters of the health crisis. The Company is classified as an essential business and has remained open to serve our customers and the communities in which we operate. We continue to experience changes in customer shopping habits, shifts in product mix and increased demand through digital channels as a result of the COVID-19 pandemic. Demand remains high in most stores, however sales at Fairway and Gourmet Garage locations in Manhattan have been negatively impacted by localized residential population migration out of the city and less commuter and tourist traffic. We expect continued uncertainty in our business as well as the local and regional economies in which we operate depending on the duration and intensity of the COVID-19 pandemic (see the "Outlook" section below for further discussion of risks and uncertainties). 
+ 
+ NON-GAAP MEASURES 
+ The accompanying Consolidated Financial Statements, including the related notes, are presented in accordance with generally accepted accounting principles GAAP ). We provide non-GAAP measures, including Adjusted net income and Adjusted operating and administrative expenses management believes these metrics are useful to investors and analysts. These non-GAAP financial measures should not be considered as an alternative to GAAP measures such as net income, operating income, operating and administrative expense or any other GAAP measure of performance. These measures should not be reviewed in isolation or considered as a substitute for our financial results as reported in accordance with GAAP. We believe Adjusted net income and Adjusted operating and administrative expense are useful metrics to investors and analysts because they present more accurate year-over-year comparisons of our net income and operating and administrative expense. Other companies may have different definitions of Non-GAAP Measures and provide for different adjustments, and comparability to the Company's results of operations may be impacted by such differences. The Company's presentation of Non-GAAP Measures should not be construed as an implication that its future results will be unaffected by unusual or non-recurring items. 
+
+11 
+
+The following tables reconciles Net income to Adjusted net income and Operating and administrative expenses to Adjusted operating and administrative expenses: 
+ 
+ 53 Weeks Ended 52 Weeks Ended July 31, 2021 July 25, 2020 Net Income 19,994 24,938 Adjustments to Gross Profit: Amortization of acquisition related inventory step up 507 Adjustments to Operating and administrative expense: Gain on sale of assets (1) (4,768) (1,220) Non-cash pension termination and settlement charges 587 1,604 Store closure costs (2) 325 799 New store pre-opening costs (3) 1,274 Gain on Superstorm Sandy insurance proceeds (2,733) Fairway acquisition transaction costs 2,701 Break-up fee income (4) (2,035) Other adjustments: Impairment of assets (5) 2,900 Estimated income from 53rd week (6) (602) Adjustments to Income taxes: Tax impact of adjustments to gross profit and operating expenses 478 (236) Tax gain on federal net operating loss carryback (2,512) Adjusted net income 18,914 23,087 Operating and administrative expense 498,786 444,833 Total adjustments to operating administrative expense 3,856 (390) Adjusted operating and administrative expense 502,642 444,443 Adjusted operating and administrative expense as a of sales 24.76 24.63 
+ 
+ (1) Fiscal 2021 includes a 4,044 gain on the sale of the leasehold interest in a non-supermarket related parking lot obtained as part of the Fairway acquisition and a 724 gain on the sale of the pharmacy prescription list related to the Silver Spring store. Fiscal 2020 includes a gain on the sale of the pharmacy prescription lists related to three store pharmacies closed in March 2020. 
+ (2) Fiscal 2021 includes costs associated with the closure of the Silver Spring, Maryland store on February 22, 2021 and Fiscal 2020 includes charges to write off the lease asset and related obligations for the old Stroudsburg store. 
+ (3) Fiscal 2020 pre-opening costs relate to the Stroudsburg replacement store opened on November 1, 2019. 
+ (4) Fiscal 2020 gain due to the breakup of Village s initial stalking horse bid under the January 20, 2020 Fairway Asset Purchase Agreement. 
+ (5) Fiscal 2021 non-cash impairment charges for the Fairway trade name of 2,386 and the long-lived assets for one Gourmet Garage store of 514. 
+ (6) Fiscal 2021 is a 53-week fiscal year, with the additional week included in the fourth quarter. 
+ 12 
+
+RESULTS OF OPERATIONS 
+ 
+ The following table sets forth the components of the consolidated statements of operations of the Company as a percentage of sales: 
+ 
+ July 31, 2021 July 25, 2020 Sales 100.00 100.00 Cost of sales 72.17 71.93 Gross profit 27.83 28.07 Operating and administrative expense 24.57 24.65 Depreciation and amortization 1.69 1.74 Impairment of assets 0.14 Operating income 1.43 1.68 Interest expense (0.19) (0.14) Interest income 0.18 0.22 Income before income taxes 1.42 1.76 Income taxes 0.44 0.38 Net income 0.98 1.38 
+ 
+ SALES 
+ 
+ Sales were 2,030,330 in fiscal 2021, an increase of 225,736, or 12.5 from fiscal 2020. Sales increased 35,433, or 2.0 , due to fiscal 2021 containing 53 weeks. Excluding the impact of the 53rd week, sales increased due to the Fairway acquisition completed on May 14, 2020, the opening of the Stroudsburg replacement store on November 1, 2019 and a same store sales increase of 1.8 . Excluding the impact of the 53rd week, same store sales increased 7.5 in fiscal 2021 on a two-year stacked basis compared to fiscal 2019. 
+ 
+ Since the beginning of the COVID-19 pandemic, we have experienced higher average basket sizes and decreased transaction counts as customers have consolidated shopping trips. Additionally, both food inflation and increased Supplemental Nutrition Assistance Program ("SNAP") benefits positively impacted sales. Same store digital sales growth accelerated through both ShopRite from Home and partnerships with online grocery picking and delivery services, increasing 68 in fiscal 2021 compared to fiscal 2020 and 219 on a two-year stacked basis. During the COVID-19 pandemic, fiscal 2021 sales at Fairway and Gourmet Garage locations in Manhattan have been significantly negatively impacted due primarily to residential population migration out of the city and less commuter and tourist traffic. 
+ 
+ New stores and replacement stores are included in same store sales in the quarter after the store has been in operation for four full quarters. Store renovations and expansions are included in same store sales immediately. 
+ 
+ GROSS PROFIT 
+ 
+ Gross profit as a percentage of sales decreased to 27.83 in fiscal 2021 compared to 28.07 in fiscal 2020. Higher margins associated with Fairway increased gross profit (.22 ), despite higher costs as we transition and integrate commissary operations into our business. Excluding the impact of Fairway, gross profit as a percentage of sales decreased .46 due primarily to decreased departmental gross margin percentages (.48 and increased warehouse assessment charges from Wakefern (.34 ), partially offset by a favorable change in product mix (0.17 ), lower promotional spending (0.16 and increased patronage dividends and rebates received from Wakefern (.03 ). Departmental gross profits decreased due partly to price investments. 
+ 
+ OPERATING AND ADMINISTRATIVE EXPENSE 
+ 
+ Operating and administrative expense as a percentage of sales decreased to 24.57 in fiscal 2021 compared to 24.65 in fiscal 2020. Adjusted operating and administrative expense as a percentage of sales increased to 24.76 in fiscal 2021 compared to 24.63 in fiscal 2020. 
+ 
+ 13 
+
+Adjusted operating and administrative expense increased due primarily to increased occupancy costs due primarily to the Fairway acquisition (.56 and increased external fees and transportation costs associated with digital sales (.42 ), partially offset by decreased costs related to COVID-19, including enhanced wages and benefits, security and outside sanitation services (.62 and lower payroll and fringe benefit costs (.24 ). Payroll and fringe benefits decreased primarily due to leverage from higher sales, reductions in service department offerings, labor shortages and productivity initiatives partially offset by the addition of Fairway, growth of ShopRite from Home and minimum wage and demand driven pay rate increases. 
+ 
+ DEPRECIATION AND AMORTIZATION 
+ 
+ Depreciation and amortization expense was 34,195 and 31,358 in fiscal 2021 and 2020, respectively. Depreciation and amortization expense increased in fiscal 2021 compared to the prior year due to depreciation related to assets acquired as part of the Fairway acquisition. 
+ 
+ IMPAIRMENT OF ASSETS 
+ 
+ Impairment of assets includes non-cash charges related to the Fairway trade name of 2,386 (see note 1 to the consolidated financial statements) and the long-lived assets for one Gourmet Garage store of 514. 
+ 
+ INTEREST EXPENSE 
+ 
+ Interest expense was 3,943 and 2,611 in fiscal 2021 and 2020, respectively. Interest expense increased in fiscal 2021 compared to fiscal 2020 due primarily to interest expense related to the credit agreement entered into on May 6, 2020 (see note 7 to the consolidated financial statements). 
+ 
+ INTEREST INCOME 
+ 
+ Interest income was 3,633 and 4,060 in fiscal 2021 and 2020, respectively. Interest income decreased in fiscal 2021 compared to fiscal 2020 due primarily to lower interest rates for amounts invested in variable rate notes receivable from Wakefern and demand deposits invested at Wakefern. 
+ 
+ INCOME TAXES 
+ 
+ The Company s effective income tax rate was 30.7 and 21.4 in fiscal 2021 and 2020, respectively. 
+ 
+ Fiscal 2020 includes a 2,512 benefit from a federal net operating loss carryback at a rate higher than the current statutory tax rate. Excluding the impact of these adjustments, the effective income tax rate was 29.3 in fiscal 2020. The increase in the effective tax rate in fiscal 2021 is due primarily to favorable return to provision adjustments in fiscal 2020 and increased state taxable income in higher tax rate jurisdictions. 
+ 
+ NET INCOME 
+ 
+ Net income was 19,994 in fiscal 2021 compared to 24,939 in fiscal 2020. Adjusted net income was 18,914 in fiscal 2021 compared to 23,087 in fiscal 2020. Adjusted net income decreased 18 in fiscal 2021 compared to the prior year due primarily to lower sales volumes in Manhattan and higher costs as we transition and integrate commissary operations into our business. 
+
+14 
+
+CRITICAL ACCOUNTING POLICIES 
+ 
+ Critical accounting policies are those accounting policies that management believes are important to the portrayal of the Company s financial condition and results of operations. These policies require management s most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. 
+ 
+ The preparation of financial statements in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+ 
+ IMPAIRMENT 
+ 
+ The Company reviews the carrying values of its long-lived assets, such as property, equipment and fixtures for possible impairment whenever events or changes in circumstances indicate that the carrying amount of assets may not be recoverable. Such review analyzes the undiscounted estimated future net cash flows from asset groups at the store level to determine if the carrying value of such assets are recoverable from their respective cash flows. If impairment is indicated, it is measured by comparing the fair value of the long-lived asset groups to their carrying value. 
+ 
+ Goodwill and indefinite-lived intangible assets are tested at the end of each fiscal year, or more frequently if circumstances dictate, for impairment. The Company utilizes valuation techniques, such as earnings multiples, in addition to the Company s market capitalization, to assess goodwill for impairment. Calculating the fair value of a reporting unit requires the use of estimates. Management believes the fair value of Village s one reporting unit exceeds its carrying value at July 31, 2021. Should the Company s carrying value of its one reporting unit exceed its fair value, the amount of any resulting goodwill impairment may be material to the Company s financial position and results of operations. The fair value of indefinite-lived intangible assets are estimated based on the discounted cash flow model using the relief from royalty method. 
+ 
+ Manhattan store sales have been impacted by localized residential population migration out of Manhattan and less commuter and tourist traffic during the COVID-19 pandemic. Due to uncertainty regarding the duration and extent of the impact of the COVID-19 pandemic on Manhattan, the Company recognized an impairment charge related to the Fairway trade name of 2,386 for year ended July 31, 2021. 
+ 
+ PATRONAGE DIVIDENDS 
+ 
+ As a stockholder of Wakefern, Village earns a share of Wakefern s earnings, which are distributed as a patronage dividend. This dividend is based on a distribution of substantially all of Wakefern s operating profits for its fiscal year (which ends on or about September 30) in proportion to the dollar volume of purchases by each member from Wakefern during that fiscal year. Patronage dividends are recorded as a reduction of cost of sales as merchandise is sold. Village accrues estimated patronage dividends due from Wakefern quarterly based on an estimate of the annual Wakefern patronage dividend and an estimate of Village s share of this annual dividend based on Village s estimated proportional share of the dollar volume of business transacted with Wakefern that year. The patronage dividend receivable based on these estimates was 11,860 and 11,204 at July 31, 2021 and July 25, 2020, respectively. 
+ 
+ BUSINESS COMBINATIONS 
+ 
+ We account for business combinations using the acquisition method of accounting, which requires that once control is obtained, all the assets acquired and liabilities assumed are recorded at their respective fair values at the date of acquisition. The determination of fair values of identifiable assets and liabilities requires estimates and the use of valuation techniques when market value is not readily available. For intangible assets acquired in a business combination, we typically determine the fair value based on the discounted cash flow model, specifically the relief from royalty method for intangible assets related to a trade name. Significant estimates in valuing certain intangible assets include, but are not limited to, the amount and timing of future revenues, cash flows, growth rates, discount rates and useful lives. The excess of the purchase price over fair values of identifiable assets and liabilities is recorded as goodwill. 
+
+15 
+
+PENSION PLANS 
+ 
+ The determination of the Company s obligation and expense for Company-sponsored pension plans is dependent, in part, on Village s selection of assumptions used by actuaries in calculating those amounts. These assumptions are described in Note 9 to the consolidated financial statements and include, among others, the discount rate, the expected long-term rate of return on plan assets and the rate of increase in compensation costs. Actual results that differ from the Company s assumptions are accumulated and amortized over future periods and, therefore, generally affect recognized expense in future periods. While management believes that its assumptions are appropriate, significant differences in actual experience or significant changes in the Company s assumptions may materially affect cash flows, pension obligations and future expense. 
+ 
+ The objective of the discount rate assumption is to reflect the rate at which the Company s pension obligations could be effectively settled based on the expected timing and amounts of benefits payable to participants under the plans. Our methodology for selecting the discount rate as of July 31, 2021 was to match the plans' cash flows to that of a yield curve on high-quality fixed-income investments. Based on this method, we utilized a weighted-average discount rate of 2.44 at July 31, 2021 compared to 2.26 at July 25, 2020. Changes in the discount rate and updated assumptions on mortality tables and improvement scales resulted in a net decrease in the projected benefit obligation by approximately (1,206) at July 31, 2021. Village evaluated the expected increase in compensation costs of 4.50 and concluded no changes in this assumption was necessary in estimating pension plan obligations and expense. The Company utilizes a liability-driven investment ("LDI") strategy. A LDI strategy focuses on maintaining a close to fully-funded status over the long-term with minimal funded status risk. This is achieved by investing more of the plan assets in fixed income instruments to more closely match the duration of the plan liability. The investment allocation to fixed income instruments will increase as each plans' funded status increases. Based on the Company s LDI strategy, the Company assumed a weighted-average assumed long-term rate of return on plan assets of 3.36 in fiscal 2021. 
+ 
+ Sensitivity to changes in the major assumptions used in the calculation of the Company s pension plans is as follows: 
+ 
+ Percentage point change Projected benefit obligation decrease (increase) Expense decrease (increase) Discount rate + / - 1.0 9,693 (12,211) 376 (436) Expected return on assets + / - 1.0 589 (589) 
+ 
+ Village made no contributions in both fiscal 2021 and fiscal 2020 to these Company-sponsored pension plans. In fiscal 2020 the Company began the process of terminating the Village Super Market, Inc. Employees Retirement Plan. Upon satisfaction of all regulatory requirements, which is expected to occur during fiscal 2022, the Company will fully fund and liquidate all plan assets to purchase annuity contracts from an insurance company for all participants who do not elect a lump sum distribution. At the time of settlement, the Company will recognize a non-cash pre-tax charge representing the plan s remaining unrecognized losses within accumulated other comprehensive loss as of the termination date. As of July 31, 2021, the funded status of this plan is a net liability of 3,844 and the pre-tax amount included in Accumulated other comprehensive loss is 15,155. Contributions to the remaining plans are expected to be immaterial in fiscal 2022. 
+ 
+ RECENTLY ISSUED ACCOUNTING STANDARDS 
+ 
+ For the disclosure related to recently issued accounting standards, see Note 1 to the consolidated financial statements. 
+ 
+ LIQUIDITY and CAPITAL RESOURCES 
+ 
+ CASH FLOWS 
+ 
+ Net cash provided by operating activities was 52,692 in fiscal 2021 compared to 83,948 in fiscal 2020. The change in cash flows from operating activities in fiscal 2021 was primarily due to changes in working capital and net income adjusted for non-cash items including depreciation and amortization, share-based compensation, deferred taxes, loss on pension settlements, the provision to value inventories at LIFO and the gain on sale of prescription lists and property, equipment and fixtures. 
+ 
+ 16 
+
+Working capital changes, including other assets and other liabilities, decreased net cash provided by operating activities by 1,587 in fiscal 2021 compared an increase in net cash provided by operating activities of 1,127 in fiscal 2020. This change in impact of working capital is due primarily to lower accounts payable to Wakefern and Accounts payable and accrued expense due to inventory turnover and operations normalizing after the initial impact of the pandemic partially offset by changes in timing of income tax payments. 
+ 
+ During fiscal 2021, Village used cash to fund capital expenditures of 25,233, dividends of 13,050, principal payments of long-term debt of 8,414 and additional investments of 2,287 in notes receivable from Wakefern, net of proceeds received on matured notes. Capital expenditures include one major remodel, continued expansion of ShopRite from Home and self-checkout, and various merchandising, technology, equipment and facility upgrades. 
+ 
+ During fiscal 2020, Village used cash to fund capital expenditures of 54,495, dividends of 12,965, treasury stock purchases of 4,389 and additional investments of 2,800 in notes receivable from Wakefern, net of proceeds received on matured notes. The 73,622 purchase price for the Fairway acquisition was funded by 50,000 drawn on the Company s unsecured revolving line of credit and a 25,500 unsecured term loan pursuant to the Company's Credit Facility. Capital expenditures include costs associated with the opening of an 82,000 sq. ft. (52,000 selling sq. ft.) store in Stroudsburg, Pennsylvania that replaced our existing 53,000 sq. ft. store, expansion of ShopRite from Home, including the opening of an automated micro-fulfillment center in southern New Jersey, one major store remodel, several smaller remodels and equipment upgrades, including those in the integration of the Fairway acquisition. 
+ 
+ LIQUIDITY and DEBT 
+ 
+ Working capital was 44,023 and 34,522 at July 31, 2021 and July 25, 2020, respectively. Working capital ratios at the same dates were 1.29 and 1.21 to one, respectively. The Company s working capital needs are reduced, since inventories are generally sold by the time payments to Wakefern and other suppliers are due. 
+ 
+ We have budgeted 40,000 for capital expenditures in fiscal 2022. Planned expenditures include three major remodels, several smaller store remodels, the purchase of the Galloway store shopping center, one new Gourmet Garage store, continued expansion of ShopRite from Home and self-checkout, and various merchandising, technology, equipment and facility upgrades. The Company s primary sources of liquidity in fiscal 2022 are expected to be cash and cash equivalents on hand at July 31, 2021 and operating cash flow generated in fiscal 2022. 
+ 
+ At July 31, 2021, the Company held variable rate notes receivable due from Wakefern of 27,325 that earn interest at the prime rate plus 1.25 and mature on August 15, 2022 and 27,970 that earn interest at the prime rate plus .75 and mature on February 15, 2024. Wakefern has the right to prepay these notes at any time. Under certain conditions, the Company can require Wakefern to prepay the notes, although interest earned since inception would be reduced as if it was earned based on overnight money market rates as paid by Wakefern on demand deposits. 
+ 
+ At July 31, 2021, Village had demand deposits invested at Wakefern in the amount of 86,670. These deposits earn overnight money market rates. 
+ 
+ On May 6, 2020, Village entered into a credit agreement (the Credit Facility with Wells Fargo National Bank, National Association Wells Fargo that supersedes in its entirety the prior credit agreement with Wells Fargo dated November 9, 2017. The principal purpose of the Credit Facility is to finance general corporate and working capital requirements and Village s acquisition of certain Fairway assets. Among other things, the Credit Facility provides for a maximum loan amount of 150,500 as further set forth below: 
+ 
+ An unsecured revolving line of credit providing a maximum amount available for borrowing of 125,000. Indebtedness under this agreement bears interest at the applicable LIBOR rate plus 1.10 and expires on May 6, 2025. 
+ 
+ An unsecured term loan with a maximum loan amount of 25,500. On May 12, 2020, Village executed a 25,500 term note, repayable in equal monthly installments based on a seven-year amortization schedule through May 4, 2027 and bearing interest at the applicable LIBOR rate plus 1.35 . Additionally, Village executed an interest rate swap for a notional amount equal to the term loan amount that fixes the base LIBOR rate at .41 per annum through May 4, 2027, resulting in a fixed effective interest rate of 1.76 on the term note. 
+ 
+ On September 1, 2020, Village converted 50,000 of its revolving line of credit to a secured converted term loan. The conversion reduced the maximum amount available for borrowing under the revolving line of credit from 125,000 to 75,000. The term loan bears interest at the applicable LIBOR rate plus 1.50 and is repayable in equal monthly 
+ 17 
+
+installments based on a fifteen-year amortization schedule beginning on the conversion date. Additionally, Village previously executed a forward interest rate swap, effective on the conversion date, for a notional amount equal to the term loan amount that fixes the base LIBOR rate at 0.69 per annum for 15 years, resulting in a fixed effective interest rate of 2.19 on the converted term loan. The term loan is secured by real properties of Village Super Market, Inc. and its subsidiaries, including the sites of three Village stores. 
+ 
+ The Credit Facility also provides for up to 25,000 of letters of credit 7,336 outstanding at July 31, 2021), which secure obligations for store leases and construction performance guarantees to municipalities. The Credit Facility contains covenants that, among other conditions, require a minimum tangible net worth, a minimum fixed charge coverage ratio and a maximum adjusted debt to EBITDAR ratio. The Company was in compliance with all covenants of the credit agreement at July 31, 2021. As of July 31, 2021, 67,664 remained available under the unsecured revolving line of credit. 
+ 
+ During fiscal 2021, Village paid cash dividends of 13,050. Dividends in fiscal 2021 consist of 1.00 per Class A common share and .65 per Class B common share. 
+ 
+ During fiscal 2020, Village paid cash dividends of 12,965. Dividends in fiscal 2020 consist of 1.00 per Class A common share and .65 per Class B common share. 
+ 
+ OUTLOOK 
+ 
+ This annual report contains certain forward-looking statements about Village s future performance. These statements are based on management s assumptions and beliefs in light of information currently available. Such statements relate to, for example: economic conditions; uninsured losses; expected pension plan contributions; projected capital expenditures; expected dividend payments; cash flow requirements; inflation expectations; public health conditions; and legal matters; and are indicated by words such as will, expect, should, intend, anticipates, believes and similar words or phrases. The Company cautions the reader that there is no assurance that actual results or business conditions will not differ materially from the results expressed, suggested or implied by such forward-looking statements. The Company undertakes no obligation to update forward-looking statements to reflect developments or information obtained after the date hereof. 
+ 
+ Due to continued uncertainties in the extent and duration of the COVID-19 pandemic and its impact on our business, we will not provide same store sales guidance for fiscal 2022. 
+ We have budgeted 40,000 for capital expenditures in fiscal 2022. Planned expenditures include three major remodels, several smaller store remodels, the purchase of the Galloway store shopping center, one new Gourmet Garage store, continued expansion of ShopRite from Home and self-checkout, and various merchandising, technology, equipment and facility upgrades. 
+ The Board s current intention is to continue to pay quarterly dividends in 2022 at the most recent rate of .25 per Class A and .1625 per Class B share. 
+ We believe cash and cash equivalents on hand, operating cash flow and the Company's Credit Facility will be adequate to meet anticipated requirements for working capital, capital expenditures and debt payments for the foreseeable future. 
+ We expect our effective income tax rate in fiscal 2022 to be in the range of 30.5 - 31.5 . 
+ We expect approximately 15,891 of net periodic pension costs in fiscal 2022 related to the three Company sponsored defined benefit pension plans, including a 15,155 non-cash, pre-tax settlement charge representing the remaining unrecognized losses within accumulated other comprehensive loss related to a plan termination expected to occur during fiscal 2022. The Company will fully fund this plan and liquidate all plan assets to purchase annuity contracts from an insurance company for all participants who do not elect a lump sum distribution. As of July 31, 2021, the funded status of this plan is a net liability of 3,844. Contributions to the remaining plans are expected to be immaterial in fiscal 2022. 
+ 18 
+
+Various uncertainties and other factors could cause actual results to differ from the forward-looking statements contained in this report. These include: 
+ 
+ The Company operates in and around one of the epicenters of the initial COVID-19 health crisis in the United States with much of our trade area under stay-at-home orders from mid-March 2020 through June 2020. The Company is classified as an essential business and has remained open to serve our customers and the communities in which we operate. The continuing impact on our business, including the length and impact of stay-at-home orders and/or regional quarantines, labor shortages and employment trends, disruptions to supply chains, higher operating costs, the form and impact of economic stimulus and general overall economic instability, is uncertain at this time and could have a material adverse effect on our business, results of operations, financial condition and cash flows. Furthermore, the impact of the COVID-19 health crisis may exacerbate other risks and uncertainties included herein, which could have a material effect on the Company. 
+ The Fairway acquisition involves a number of risks, uncertainties and challenges, including under-performance relative to our expectations, additional capital requirements, unforeseen expenses or delays, imprecise assumptions or our inability to achieve projected cost savings or other synergies, competitive factors in the marketplace and difficulties integrating the business, including merging company cultures, cultivating brand strategy, expansion of food production and conforming the acquired company's technology, standards, processes, procedures and controls. Sales and operating profits have underperformed compared to projected amounts due primarily to population migration out of Manhattan and less commuter and tourist traffic during the COVID-19 pandemic. Many of these potential circumstances are outside of our control and any of them could result in an adverse impact on our results of operations, financial condition and cash flows and the diversion of management time and resources. 
+ The supermarket business is highly competitive and characterized by narrow profit margins. Results of operations may be materially adversely impacted by competitive pricing and promotional programs, industry consolidation and competitor store openings. Village competes directly with multiple retail formats both in-store and online, including national, regional and local supermarket chains as well as warehouse clubs, supercenters, drug stores, discount general merchandise stores, fast food chains, restaurants, dollar stores and convenience stores. Some of these competitors have greater financial resources, lower merchandise acquisition costs and lower operating expenses than we do. 
+ The Company s stores are concentrated in New Jersey, New York, Pennsylvania and Maryland. We are vulnerable to economic downturns in these states in addition to those that may affect the country as a whole. Economic conditions such as inflation, deflation, interest rate fluctuations, movements in energy costs, social programs, minimum wage legislation, unemployment rates, disturbances due to social unrest and changing demographics may adversely affect our sales and profits. 
+ Village purchases substantially all of its merchandise from Wakefern. In addition, Wakefern provides the Company with support services in numerous areas including advertising, workers' compensation, liability and property insurance, supplies, certain equipment purchasing, coupon processing, certain financial accounting applications, retail technology support, and other store services. Further, Village receives patronage dividends and other product incentives from Wakefern and also has demand deposits and notes receivable due from Wakefern. 
+ 
+ Any material change in Wakefern s method of operation or a termination or material modification of Village s relationship with Wakefern could have an adverse impact on the conduct of the Company s business and could involve additional expense for Village. The failure of any Wakefern member to fulfill its obligations to Wakefern or a member s insolvency or withdrawal from Wakefern could result in increased costs to the Company. Additionally, an adverse change in Wakefern s results of operations could have an adverse effect on Village s results of operations. 
+ Approximately 89 of our employees are covered by collective bargaining agreements. Any work stoppages could have an adverse impact on our financial results. If we are unable to control health care and pension costs provided for in the collective bargaining agreements, we may experience increased operating costs. 
+ The Company could be adversely affected if consumers lose confidence in the safety and quality of the food supply chain. The real or perceived sale of contaminated food products by us could result in a loss of consumer confidence and product liability claims, which could have a material adverse effect on our sales and operations. 
+ 19 
+
+Certain of the multi-employer plans to which we contribute are underfunded. As a result, we expect that contributions to these plans may increase. Additionally, the benefit levels and related items will be issues in the negotiation of our collective bargaining agreements. Under current law, an employer that withdraws or partially withdraws from a multi-employer pension plan may incur a withdrawal liability to the plan, which represents the portion of the plan s underfunding that is allocable to the withdrawing employer under very complex actuarial and allocation rules. The failure of a withdrawing employer to fund these obligations can impact remaining employers. The amount of any increase or decrease in our required contributions to these multi-employer pension plans will depend upon the outcome of collective bargaining, actions taken by trustees who manage the plans, government regulations, withdrawals by other participating employers and the actual return on assets held in the plans, among other factors. 
+ The Company uses a combination of insurance and self-insurance to provide for potential liability for workers compensation, automobile, general liability, property, director and officers liability, and certain employee health care benefits. Any projection of losses is subject to a high degree of variability. Changes in legal claims, trends and interpretations, variability in inflation rates, changes in the nature and method of claims settlement, benefit level changes due to changes in applicable laws, and insolvency of insurance carriers could all affect our financial condition, results of operations, or cash flows. 
+ Our long-lived assets, primarily store property, equipment and fixtures, are subject to periodic testing for impairment. Failure of our asset groups to achieve sufficient levels of cash flow could result in impairment charges on long-lived assets. 
+ Our goodwill and indefinite-lived intangible assets are tested at the end of each fiscal year, or more frequently if circumstances dictate, for impairment. Failure of acquired businesses to achieve their forecasted expectations could result in impairment charges to goodwill and indefinite-lived intangible assets. 
+ Our effective tax rate may be impacted by the results of tax examinations and changes in tax laws. 
+ Wakefern provides all members of the cooperative with information system support that enables us to effectively manage our business data, customer transactions, ordering, communications and other business processes. These information systems are subject to damage or interruption from power outages, computer or telecommunications failures, computer viruses and related malicious software, catastrophic weather events, or human error. Any material interruption of our or Wakefern s information systems could have a material adverse impact on our results of operations. 
+ Due to the nature of our business, personal information about our customers, vendors and associates is received and stored in these information systems. In addition, confidential information is transmitted through our ShopRite from Home online business at shoprite.com and through the ShopRite app. Unauthorized parties may attempt to access information stored in or to sabotage or disrupt these systems. Wakefern and the Company maintain substantial security measures to prevent and detect unauthorized access to such information, including utilizing third-party service providers for monitoring our networks, security reviews, and other functions. It is possible that computer hackers, cyber terrorists and others may be able to defeat the security measures in place at the Company, Wakefern or those of third-party service providers. 
+ Any breach of these security measures and loss of confidential information, which could be undetected for a period of time, could damage our reputation with customers, vendors and associates, cause Wakefern and Village to incur significant costs to protect any customers, vendors and associates whose personal data was compromised, cause us to make changes to our information systems and could result in government enforcement actions and litigation against Wakefern and/or Village from outside parties. Any such breach could have a material adverse impact on our operations, consolidated financial condition, results of operations, and liquidity if the related costs to Wakefern and Village are not covered or are in excess of carried insurance policies. In addition, a security breach could require Wakefern and Village to devote significant management resources to address problems created by the security breach and restore our reputation. 
+ RELATED PARTY TRANSACTIONS 
+ 
+ The Company holds an investment in Wakefern, its principal supplier. Village purchases substantially all of its merchandise from Wakefern in accordance with the Wakefern Stockholder Agreement. As part of this agreement, Village is required to purchase certain amounts of Wakefern common stock. At July 31, 2021, the Company s indebtedness to Wakefern for the outstanding amount of this stock subscription was 3,423. The maximum per store investment is currently 975. Wakefern 
+ 20 
+
+distributes as a patronage dividend to each member a share of its earnings in proportion to the dollar volume of purchases by the member from Wakefern during the year. Wakefern provides the Company with support services in numerous areas including advertising, supplies, workers' compensation, liability and property insurance, technology support and other store services. Additional information is provided in Note 3 to the consolidated financial statements. 
+ 
+ At July 31, 2021, the Company held variable rate notes receivable due from Wakefern of 27,325 that earn interest at the prime rate plus 1.25 and mature on August 15, 2022 and 27,970 that earn interest at the prime rate plus .75 and mature on February 15, 2024. Wakefern has the right to prepay these notes at any time. Under certain conditions, the Company can require Wakefern to prepay the notes, although interest earned since inception would be reduced as if it was earned based on overnight money market rates as paid by Wakefern on demand deposits. 
+ 
+ At July 31, 2021, Village had demand deposits invested at Wakefern in the amount of 86,670. These deposits earn overnight money market rates. 
+ 
+ The Company subleases the Galloway and Vineland stores from Wakefern under sublease agreements which provided for combined annual rents of 1,355 in both fiscal 2021 and 2020, and aggregate lease obligations of 2,276 at July 31, 2021. Both leases contain normal periodic rent increases and options to extend the lease. 
+ 
+ The Company leases a supermarket from a realty firm 30 owned by certain officers of Village. The Company paid rent to related parties under this lease of 704 and 688 in fiscal 2021 and 2020, respectively, and has a related lease obligation of 3,227 at July 31, 2021. This lease expires in fiscal 2026 with options to extend at increasing annual rents. 
+ 
+ The Company has ownership interests in three real estate partnerships. Village paid aggregate rents to two of these partnerships for leased stores of 1,579 and 1,455 in fiscal 2021 and 2020, respectively, and has aggregate lease obligations of 12,781 at July 31, 2021 related to these leases. 
+
+21 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ 
+ VILLAGE SUPER MARKET, INC. AND SUBSIDIARIES 
+ CONSOLIDATED BALANCE SHEETS 
+ (In thousands) 
+ July 31, 2021 July 25, 2020 ASSETS Current Assets Cash and cash equivalents Merchandise inventories Patronage dividend receivable Income taxes receivable Other current assets Total current assets Property, equipment and fixtures, net Operating lease assets Notes receivable from Wakefern Investment in Wakefern Goodwill Other assets Total assets LIABILITIES and SHAREHOLDERS EQUITY Current Liabilities Operating lease obligations Finance lease obligations Notes payable to Wakefern Current portion of debt Accounts payable to Wakefern Accounts payable and accrued expenses Accrued wages and benefits Income taxes payable Total current liabilities Long-term debt Operating lease obligations Finance lease obligations Notes payable to Wakefern Long-term debt Total long-term debt Pension liabilities Other liabilities Commitments and Contingencies (Notes 3, 4, 5, 6, 7, 9 and 11) Shareholders' Equity Preferred stock, no par value: Authorized shares, issued 
+ Class A common stock, no par value: Authorized shares; issued shares at July 31, 2021 and shares at July 25, 2020 
+ Class B common stock, no par value: Authorized shares; issued and outstanding shares at July 31, 2021 and July 25, 2020 
+ Retained earnings Accumulated other comprehensive loss ) ) Less treasury stock, Class A, at cost: shares at July 31, 2021 and July 25, 2020 
+ ) ) Total shareholders equity Total liabilities and shareholders' equity 
+ See notes to consolidated financial statements. 
+ 22 
+
+VILLAGE SUPER MARKET, INC. AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (In thousands, except per share amounts) 
+ Years ended July 31, 2021 July 25, 2020 (53 Weeks) (52 Weeks) Sales Cost of sales Gross profit Operating and administrative expense Depreciation and amortization Impairment of assets Operating income Interest expense ) ) Interest income Income before income taxes Income taxes Net income Net income per share: Class A common stock: Basic Diluted Class B common stock: Basic Diluted 
+ 
+ See notes to consolidated financial statements. 
+ 
+ 23 
+
+VILLAGE SUPER MARKET, INC. AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+ (In thousands) 
+ Years ended July 31, 2021 July 25, 2020 Net income Other comprehensive income (loss): Unrealized gain (loss) on interest rate swaps, net of tax (1) ) Amortization of pension actuarial loss, net of tax (2) Pension remeasurement, net of tax (3) ) ) Pension settlement loss, net of tax (4) Total other comprehensive loss ) ) Comprehensive income 
+ 
+ and for 2021and 2020, respectively. 
+ (2) and for 2021 and 2020, respectively. All amounts are reclassified from accumulated other comprehensive loss to operating and administrative expense. 
+ (3) and for 2021 and 2020, respectively. 
+ (4) and for 2021 and 2020, respectively. All amounts are reclassified from accumulated other comprehensive loss to operating and administrative expense. 
+ 
+ See notes to consolidated financial statements. 
+ 
+ 24 
+
+VILLAGE SUPER MARKET, INC. AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENTS OF SHAREHOLDERS EQUITY 
+ (In thousands) 
+ Years ended July 31, 2021 and July 25, 2020 
+ Accumulated Other Comprehensive Loss Total Shareholders' Equity Class A Common Stock Class B Common Stock Treasury Stock Class A Shares Issued Amount Shares Issued Amount Retained Earnings Shares Amount Balance, July 27, 2019 ) ) Net income Other comprehensive loss, net of tax of 
+ ) ) Dividends ) ) Treasury stock purchases ) ) Restricted shares forfeited ) ) ) Share-based compensation expense Adjustment due to the adoption of ASU 2016-02 , net of tax of 
+ Balance, July 25, 2020 ) ) Net income Other comprehensive loss, net of tax of 
+ ) ) Dividends ) ) Restricted shares forfeited ) ) ) Share-based compensation expense Balance, July 31, 2021 ) ) 
+ 
+ See notes to consolidated financial statements. 
+ 25 
+
+VILLAGE SUPER MARKET, INC. AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (In thousands) 
+ Years ended July 31, 2021 July 25, 2020 (53 Weeks) (52 Weeks) CASH FLOWS FROM OPERATING ACTIVITIES Net income Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization Non-cash share-based compensation Loss on pension settlements Deferred taxes ) Provision to value inventories at LIFO Amortization of business acquisition inventory step-up Impairment of assets Gain on sale of assets ) ) Changes in assets and liabilities: Merchandise inventories ) Patronage dividend receivable ) Accounts payable to Wakefern ) Accounts payable and accrued expenses ) Accrued wages and benefits Income taxes receivable / payable ) Other assets and liabilities ) Net cash provided by operating activities CASH FLOWS FROM INVESTING ACTIVITIES Capital expenditures ) ) Proceeds from the sale of assets Investment in notes receivable from Wakefern ) ) Business acquisitions, net of cash acquired ) Net cash used in investing activities ) ) CASH FLOWS FROM FINANCING ACTIVITIES Proceeds from issuance of long-term debt Principal payments of long-term debt ) ) Proceeds from revolving line of credit Payments on revolving line of credit ) ) Debt issuance costs ) ) Dividends ) ) Treasury stock purchases, including shares surrendered for withholding taxes ) Net cash (used in) provided by financing activities ) NET INCREASE IN CASH AND CASH EQUIVALENTS CASH AND CASH EQUIVALENTS, BEGINNING OF YEAR CASH AND CASH EQUIVALENTS, END OF YEAR SUPPLEMENTAL DISCLOSURES OF CASH PAYMENTS MADE FOR: Interest Income taxes NONCASH SUPPLEMENTAL DISCLOSURES: Investment in Wakefern and increase in notes payable to Wakefern Capital expenditures included in accounts payable and accrued expenses 
+ See notes to consolidated financial statements. 
+ 26 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (All amounts are in thousands, except per share data). 
+
+NOTE 1 
+ supermarkets under the ShopRite and Fairway names in New Jersey, Maryland, New York and eastern Pennsylvania and specialty markets under the Gourmet Garage name in New York City. The Company is a member of Wakefern Food Corporation ("Wakefern"), the nation's largest retailer-owned food cooperative and owner of the ShopRite, Fairway and Gourmet Garage names. This relationship provides Village many of the economies of scale in purchasing, distribution, store and own branded products, advanced retail technology, marketing and advertising associated with chains of greater size and geographic coverage. 
+ 
+ Principles of consolidation 
+
+Fiscal year 
+
+Use of estimates 
+
+Industry segment 
+ 
+ operating segment, the retail sale of food and nonfood products. 
+ 
+ Revenue recognition 
+
+27 
+
+Fresh (2) Pharmacy Other (3) Total Sales 
+ 
+ (1) Consists primarily of grocery, dairy, frozen, health and beauty care, general merchandise and liquor. 
+ (2) Consists primarily of produce, meat, deli, seafood, bakery, prepared foods and floral. 
+
+Cost of sales 
+ 
+ Cost of sales consists of costs of inventory, inbound freight charges, and production costs at the Company's centralized commissary, including materials, labor and overhead. 
+ 
+ The Company receives vendor allowances and rebates, including the patronage dividend and amounts received as a pass through from Wakefern, related to the Company s buying and merchandising activities. Vendor allowances and rebates are recognized as a reduction in cost of sales when the related merchandise is sold or when the required contractual terms are completed. 
+ 
+ Shipping and handling costs associated with the Company s digital sales are included in operating and administrative expense. 
+ 
+ Cash and cash equivalents 
+ 
+ and at July 31, 2021 and July 25, 2020, respectively. Included in cash and cash equivalents at July 31, 2021 and July 25, 2020 are and , respectively, of demand deposits invested at Wakefern at overnight money market rates. 
+ 
+ Merchandise inventories 
+ 
+ of merchandise inventories are stated at the lower of LIFO (last-in, first-out) cost or market. If the FIFO (first-in, first-out) method had been used, inventories would have been and higher than reported in fiscal 2021 and 2020, respectively. All other inventories are stated at the lower of FIFO cost or market. 
+ 
+ Property, equipment and fixtures 
+ 
+ for buildings, for store fixtures and equipment, and for computer equipment, shopping carts and vehicles. Leasehold improvements are amortized over the shorter of the related lease terms or the estimated useful lives of the related assets. 
+ 
+ When assets are sold or retired, their cost and accumulated depreciation are removed from the accounts, and any gain or loss is reflected in the consolidated financial statements. 
+ 
+ 28 
+
+of these partnerships is a variable interest entity which does not require consolidation as Village is not the primary beneficiary (see Note 7). 
+ 
+ Store opening and closing costs 
+
+Leases 
+ 
+ On July 28, 2019, the Company adopted ASU 2016-02, Leases. This guidance requires lessees to recognize lease liabilities and a right-of-use asset for all leases with terms of more than 12 months on the balance sheet. The Company adopted the standard using the modified retrospective approach under which the cumulative effect of initially applying the standard was recognized as an adjustment to opening fiscal 2020 retained earnings, with no restatement of prior year amounts. In addition, the Company applied the transition package of practical expedients permitted within the standard, which allowed the carryforward of historical lease classification, and applied the transition option which does not require application of the guidance to comparative periods in the year of adoption. 
+ The adoption of the standard resulted in the recognition of operating lease assets and operating lease liabilities of and , respectively, as of the date of adoption. Included in the initial measurement of the new lease assets is the reclassification of certain prepaid and deferred rent balances. Additionally, the Company recorded an adjustment to reduce its opening retained earnings balance by , net of income taxes, as the Company derecognized the remaining financing obligations of and related net assets of for leases in which the Company was previously deemed to be the owner of the project for accounting purposes but did not qualify for sale-leaseback treatment. As such designation ended for these leases with adoption of the ASU, operating lease right-of-use asset and liability balances were established for these leases based on the Company's remaining fixed payment obligations under the leases and are included in the amounts described above. The adoption of this standard also resulted in a change in naming convention for leases classified historically as capital leases to finance leases. 
+ The Company determines if an arrangement is a lease at inception, and recognizes a finance and operating lease liability and asset for all leases with terms of more than 12 months at the lease commencement date. Finance and operating lease liabilities represent the present value of minimum lease payments not yet paid. For purposes of measuring the present value of its fixed payment obligations for a given lease, the Company uses its incremental borrowing rate as the discount rate implicit within its leases is generally not determinable. The Company's incremental borrowing rate reflects the rate it would pay to borrow on a secured basis, and incorporates the term and economic environment of the lease. Each renewal option is evaluated when recognizing the lease right-of-use assets and liabilities, and the Company utilizes the lease term for which it is reasonably certain to use the underlying asset. The Company is obligated under all leases to pay for real estate taxes, utilities and liability insurance, and under certain leases to pay additional amounts based on maintenance and a percentage of sales in excess of stipulated amounts. The Company accounts for rent holidays, escalating rent provisions, and construction allowances related to operating leases in rent expense on a straight-line basis over the term of the lease. Finance lease payments are charged to interest expense and depreciation and amortization expense over the lease term. Additional information on leases is provided in Note 7. 
+ Advertising 
+ 
+ and in fiscal 2021 and 2020, respectively. 
+ 
+ Income taxes 
+
+29 
+
+Derivative Instruments and Hedging Activities 
+ 
+ The Company records all derivatives on the balance sheet at fair value. Derivatives designated and qualifying as a hedge of the exposure to variability in expected future cash flows are considered cash flow hedges. The Company records changes in the fair value of its interest rate swap contracts to Accumulated other comprehensive loss, net of taxes, as the Company has elected to designate its swaps as cash flow hedges and apply hedge accounting when the hedging relationship has satisfied the criteria necessary to apply hedge accounting. Additional information on derivative and hedging activities is provided in Note 5. 
+ 
+ Fair value 
+
+Long-lived assets 
+ 
+ . 
+ 
+ Goodwill and indefinite-lived intangible assets 
+ 
+ and as of July 31, 2021 and July 25, 2020, respectively, are related to the Fairway and Gourmet Garage trade names. An impairment loss is recognized to the extent that the carrying amount of goodwill and indefinite-lived intangible assets exceeds its implied fair value. Village considers earnings multiples and other valuation techniques to measure fair value at the reporting unit level, in addition to the value of the Company s stock. The fair value of trade names are estimated based on the discounted cash flow model using the relief from royalty method. 
+ 
+ for year ended July 31, 2021. 
+
+30 
+
+classes of common stock. Class A common stock is entitled to cash dividends as declared greater than those paid on Class B common stock. Shares of Class B common stock are convertible on a share-for-share basis for Class A common stock at any time. 
+ 
+ The Company utilizes the two-class method of computing and presenting net income per share. The two-class method is an earnings allocation formula that calculates basic and diluted net income per share for each class of common stock separately based on dividends declared and participation rights in undistributed earnings. Under the two-class method, Class A common stock is assumed to receive a greater participation in undistributed earnings than Class B common stock, in accordance with the classes' respective dividend rights. Unvested share-based payment awards that contain nonforfeitable rights to dividends are treated as participating securities and therefore included in computing net income per share using the two-class method. 
+ 
+ Diluted net income per share for Class A common stock is calculated utilizing the if-converted method, which assumes the conversion of all shares of Class B common stock to Class A common stock on a share-for-share basis, as this method is more dilutive than the two-class method. Diluted net income per share for Class B common stock does not assume conversion of Class B common stock to shares of Class A common stock. 
+ 
+ Conversion of Class B to Class A shares Net income allocated, diluted Denominator: Weighted average shares outstanding, basic Conversion of Class B to Class A shares Weighted average shares outstanding, diluted 
+ 
+ Net income per share is as follows: 
+ 2021 2020 Class A Class B Class A Class B Basic Diluted 
+ 
+ Outstanding stock options to purchase Class A shares of and were excluded from the calculation of diluted net income per share at July 31, 2021 and July 25, 2020, respectively, as a result of their anti-dilutive effect. In addition, and non-vested restricted Class A shares, which are considered participating securities, and their allocated net income were excluded from the diluted net income per share calculation at July 31, 2021 and July 25, 2020, respectively, due to their anti-dilutive effect. 
+ 
+ Share-based compensation 
+
+31 
+
+Recently issued accounting standards 
+
+NOTE 2 
+ 
+ Store fixtures and equipment Leasehold improvements Leased property under finance leases Construction in progress Vehicles Total property, equipment and fixtures Accumulated depreciation ) ) Accumulated amortization of property under finance leases ) ) Property, equipment and fixtures, net 
+ 
+ Amortization of leased property under finance leases is included in depreciation and amortization expense. 
+
+NOTE 3 
+ 
+ of the outstanding shares of Wakefern at July 31, 2021. The investment is stated at cost and is pledged as collateral for any obligations to Wakefern. In addition, all obligations to Wakefern are personally guaranteed by certain shareholders of Village. 
+ 
+ The Company is obligated to purchase of its primary merchandise requirements from Wakefern until from the date that stockholders representing of Wakefern sales notify Wakefern that those stockholders request that the Wakefern Stockholder Agreement be terminated. If this purchase obligation is not met, Village is required to pay Wakefern s profit contribution shortfall attributable to this failure. Similar payments are due if Wakefern loses volume by reason of the sale of Company stores or a merger with another entity. Village fulfilled the above obligation in fiscal 2021 and 2020. The Company also has an investment of approximately in Insure-Rite, Ltd., a Wakefern affiliated company, which provides Village with workers' compensation, liability and property insurance coverage. 
+ 
+ 32 
+
+. Installment payments are due as follows: 2022 - ; 2023 - ; 2024 - ; 2025 - ; 2026 - ; and thereafter. The maximum per store investment increased from to in fiscal 2021, resulting in an additional capital pledge, which was paid in fiscal 2021. Village receives additional shares of common stock to the extent paid for at the end of each fiscal year (which ends on or about September 30) of Wakefern calculated at the then book value per share. The payments, together with any stock issued thereunder, at the option of Wakefern, may be null and void and all payments on this subscription shall become the property of Wakefern in the event the Company does not complete the payment of this subscription in a timely manner. 
+ 
+ Village purchases substantially all of its merchandise from Wakefern. As a stockholder of Wakefern, Village earns a share of Wakefern s earnings, which are distributed as a patronage dividend. This dividend is based on a distribution of substantially all of Wakefern s operating profits for its fiscal year in proportion to the dollar volume of purchases by each member from Wakefern during that fiscal year. Patronage dividends are recorded as a reduction of cost of sales as merchandise is sold. Village accrues estimated patronage dividends due from Wakefern quarterly based on an estimate of the annual Wakefern patronage dividend and an estimate of Village s share of this annual dividend based on Village s estimated proportional share of the dollar volume of business transacted with Wakefern that year. Patronage dividends and other vendor allowances and rebates amounted to and in fiscal 2021 and 2020, respectively. 
+ 
+ Wakefern provides the Company with support services in numerous areas including advertising, workers' compensation, liability and property insurance, supplies, certain equipment purchasing, coupon processing, certain financial accounting applications, retail technology support, and other store services. Village incurred charges of and from Wakefern in fiscal 2021 and 2020, respectively, for non-merchandise products and services, which are reflected in operating and administrative expense in the consolidated statements of operations. Additionally, the Company has certain related party leases (see Note 7) with Wakefern. 
+ 
+ At July 31, 2021, the Company held variable rate notes receivable due from Wakefern of that earn interest at the prime rate plus and mature on August 15, 2022 and that earn interest at the prime rate plus and mature on February 15, 2024. Wakefern has the right to prepay these notes at any time. Under certain conditions, the Company can require Wakefern to prepay the notes, although interest earned since inception would be reduced as if it was earned based on overnight money market rates as paid by Wakefern on demand deposits. 
+ 
+ At July 31, 2021, the Company had demand deposits invested at Wakefern in the amount of . These deposits earn overnight money market rates. 
+ 
+ Interest income earned on investments with Wakefern was and in fiscal 2021 and 2020, respectively. 
+
+NOTE 4 
+ 
+ Secured term loan 0 Unsecured term loan New Market Tax Credit Financing Total debt, excluding obligations under leases Less current portion Total long-term debt, excluding obligations under leases 
+
+33 
+
+as further set forth below: 
+ 
+ An unsecured revolving line of credit providing a maximum amount available for borrowing of . Indebtedness under this agreement bears interest at the applicable LIBOR rate plus and expires on May 6, 2025. 
+ 
+ An unsecured term loan with a maximum loan amount of . On May 12, 2020, Village executed a term note, repayable in equal monthly installments based on a amortization schedule through May 4, 2027 and bearing interest at the applicable LIBOR rate plus . Additionally, Village executed an interest rate swap for a notional amount equal to the term loan amount that fixes the base LIBOR rate at per annum through May 4, 2027, resulting in a fixed effective interest rate of on the term note. 
+ 
+ On September 1, 2020, Village converted of its revolving line of credit to a secured converted term loan. The conversion reduced the maximum amount available for borrowing under the revolving line of credit from to . The term loan bears interest at the applicable LIBOR rate plus and is repayable in equal monthly installments based on a amortization schedule beginning on the conversion date. Additionally, Village previously executed a forward interest rate swap, effective on the conversion date, for a notional amount equal to the term loan amount that fixes the base LIBOR rate at per annum for years, resulting in a fixed effective interest rate of on the converted term loan. The term loan is secured by real properties of Village Super Market, Inc. and its subsidiaries, including the sites of Village stores. 
+ 
+ The Credit Facility also provides for up to of letters of credit outstanding at July 31, 2021), which secure obligations for store leases and construction performance guarantees to municipalities. The Credit Facility contains covenants that, among other conditions, require a minimum tangible net worth, a minimum fixed charge coverage ratio and a maximum adjusted debt to EBITDAR ratio. The Company was in compliance with all covenants of the credit agreement at July 31, 2021. 
+ 
+ The carrying values of the Company s long-term debt related to the Company's Credit Facility approximate their fair value as interest is charged at variable market rates. The estimated fair values of the Company's long-term debt are based on Level 2 inputs. 
+ 
+ New Markets Tax Credit 
+ 
+ On December 29, 2017, the Company entered into a financing transaction with Wells Fargo Community Investment Holdings, LLC Wells Fargo under a qualified New Markets Tax Credit NMTC program related to the construction of a new store in the Bronx, New York. The NMTC program was provided for in the Community Renewal Tax Relief Act of 2000 (the Act and is intended to induce capital investment in qualified lower income communities. The Act permits taxpayers to claim credits against their Federal income taxes for up to 39 of qualified investments in the equity of community development entities CDEs ). CDEs are privately managed investment institutions that are certified to make qualified low-income community investments. 
+ 
+ In connection with the financing, the Company loaned to VSM Investment Fund, LLC (the "Investment Fund") at an interest rate of per year and with a maturity date of December 31, 2044. Repayments on the loan commence in March 2025. Wells Fargo contributed to the Investment Fund and, by virtue of such contribution, is entitled to substantially all of the tax benefits derived from the NMTC. The Investment Fund is a wholly owned subsidiary of Wells Fargo. The loan to the Investment Fund is recorded in other assets in the consolidated balance sheets. 
+ 
+ The Investment Fund then contributed the proceeds to a CDE, which, in turn, loaned combined funds of , net of debt issuance costs, to Village Super Market of NY, LLC, a wholly-owned subsidiary of the Company, at an interest rate of per year with a maturity date of December 31, 2051. These loans are secured by the leasehold improvements and equipment related to the construction of the Bronx store. Repayment of the loans commences in March 2025. The proceeds of the loans from the CDE were used to partially fund the construction of the Bronx store. The Notes payable related to New Markets Tax Credit, net of debt issuance costs, are recorded in long-term debt in the consolidated balance sheets. 
+ 
+ 34 
+
+. The Company is recognizing the net benefit over the seven-year compliance period in operating and administrative expense. 
+
+NOTE 5 
+ 
+ interest rate swaps with an aggregate notional value of to hedge the variable cash flows associated with variable-rate loans under the Company's Credit Facility. The interest rate swaps were executed for risk management and are not held for trading purposes. The objective of the interest rate swaps is to hedge the variability of cash flows resulting from fluctuations in LIBOR. The swaps replaced the applicable LIBOR with fixed interest rates and payments are settled monthly when payments are made on the variable-rate loans. The Company's derivatives qualify and have been designated as cash flow hedges of interest rate risk. The gain or loss on the derivative is recorded in Accumulated other comprehensive loss and subsequently reclassified into interest expense in the same period during which the hedged transaction affects earnings. Amounts reported in Accumulated other comprehensive loss related to derivatives will be reclassified to interest expense as interest payments are made on the variable-rate loans. The Company reclassified and from Accumulated other comprehensive loss to Interest expense during fiscal 2021 and 2020, respectively. 
+ 
+ The notional value of the interest rate swaps were as of July 31, 2021. 
+ 
+ ) 
+ 
+ The fair values of the Company s interest rate swaps are based on Level 2 inputs, including the present value of estimated future cash flows based on market expectations of the yield curve on variable interest rates. 
+
+NOTE 6 
+ 
+ ) Deferred ) State: Current Deferred ) 
+ 35 
+
+Tax credit carryforward Compensation related costs Pension costs Other Total deferred tax assets Deferred tax liabilities: Tax over book depreciation Lease assets Patronage dividend receivable Investment in partnerships Other Total deferred tax liabilities Net deferred tax liability ) ) 
+ 
+ Deferred income tax assets (liabilities) are included in the following captions on the consolidated balance sheets at July 31, 2021 and July 25, 2020: 
+ 2021 2020 Other assets Other liabilities ) ) 
+ 
+ A valuation allowance is provided when it is more likely than not that some portion of the deferred tax assets will not be realized. In management s opinion, in view of the Company s previous, current and projected taxable income and reversal of deferred tax liabilities, such tax assets will more likely than not be fully realized. Accordingly, valuation allowance was deemed to be required at July 31, 2021 and July 25, 2020. 
+ 
+ State income taxes, net of federal tax benefit Federal net operating loss carryback ) Other ) ) Effective income tax rate 
+ 
+ Fiscal 2020 includes a incremental benefit from a federal net operating loss carryback at a rate higher than the current statutory tax rate. 
+ 
+ 36 
+
+. 
+
+NOTE 7 
+ retail stores, as well as a production distribution center (the "PDC"), the corporate headquarters and equipment at July 31, 2021. The majority of initial lease terms range from to years. Most of the Company s leases contain renewal options at increased rents of each at the Company s sole discretion. These options enable Village to retain the use of facilities in desirable operating areas. 
+ 
+ Finance lease cost Amortization of leased assets Depreciation and amortization Interest on lease liabilities Interest expense Variable lease cost Operating and administrative expense Total lease cost 
+ 
+ As of July 31, 2021 and July 25, 2020, finance lease right-of-use assets of and , respectively, are included in property, equipment and fixtures, net in the Company's consolidated balance sheet. 
+ 2023 2024 2025 2026 Thereafter Total lease payments Less amount representing interest Present value of lease liabilities 
+ 
+ The Company has approximately of future payment obligations related to lease agreements that have not yet commenced but have been executed as of July 31, 2021. 
+ 
+ Finance leases Weighted-average discount rate Operating leases Finance leases 
+
+37 
+
+Operating cash flows from finance leases Financing cash flows from finance leases 
+ 
+ Related party leases 
+ 
+ The Company leases a supermarket from a realty firm owned by certain officers of Village. The Company paid rent to related parties under this lease of and in fiscal 2021 and 2020, respectively, and has a related lease obligation of at July 31, 2021. This lease expires in fiscal 2026 with options to extend at increasing annual rent. 
+ 
+ The Company has ownership interests in real estate partnerships. Village paid aggregate rents to of these partnerships for leased stores of and in fiscal 2021 and 2020, respectively, and has related aggregate lease obligations of at July 31, 2021. 
+ 
+ of these partnerships is a variable interest entity, which is not consolidated as Village is not the primary beneficiary. This partnership owns property, a stand-alone supermarket leased to the Company since 1974. Village is a general partner entitled to of the partnership's profits and losses. 
+ 
+ The Company subleases the Galloway and Vineland stores from Wakefern under sublease agreements which provided for combined annual rents of in both fiscal 2021 and 2020, and has related aggregate lease obligations of at July 31, 2021. Both leases contain normal periodic rent increases and options to extend the lease. 
+
+NOTE 8 
+ 
+ classes of common stock. Class A common stock is entitled to vote per share and to cash dividends as declared greater than those paid on Class B common stock. Class B common stock is entitled to votes per share. Class A and Class B common stock share equally on a per share basis in any distributions in liquidation. Shares of Class B common stock are convertible on a share-for-share basis for Class A common stock at any time. Class B common stock is not transferable except to another holder of Class B common stock or by will or under the laws of intestacy or pursuant to a resolution of the Board of Directors of the Company approving the transfer. As a result of this voting structure, the holders of the Class B common stock control greater than of the total voting power of the shareholders of the Company and control the election of the Board of Directors. 
+ 
+ The Company has authorized shares of preferred stock. shares have been issued. The Board of Directors is authorized to designate series, preferences, powers and participations of any preferred stock issued. 
+ 
+ The Company maintains share repurchase programs that comply with Rule 10b5-1 under the Securities Exchange Act of 1934. Repurchases of Village Class A common stock may be made from time to time through a variety of methods, including open market purchases and other negotiated transactions. In September 2019, the Company's Board of Directors authorized an incremental share repurchase program, supplementing the existing authorization. The Company made open market purchases totaling under this repurchase program in fiscal 2020 and an additional in shares of Class A Common Stock were surrendered in satisfaction of withholding taxes in connection with the vesting of restricted shares in fiscal 2020. The Company's share repurchase program had remaining at July 31, 2021 and July 25, 2020. 
+ 
+ Village has share-based compensation plans, which are described below. The compensation cost charged against income for these plans was and in fiscal 2021 and 2020, respectively. Total income tax benefit recognized in the consolidated statements of operations for share-based compensation arrangements was and in fiscal 2021 and 2020, respectively. 
+ 
+ On December 16, 2016, the shareholders of the Company approved the Village Super Market, Inc. 2016 Stock Plan (the 2016 Plan under which awards of incentive and non-qualified stock options and restricted stock may be made. There are shares of Class A common stock authorized for issuance to employees and directors under the 2016 Plan. Terms and conditions of awards are determined by the Board of Directors. Restricted stock awards primarily cliff vest from the date of grant. There are shares remaining for future grants under the 2016 Plan. 
+ 
+ 38 
+
+Exercised Forfeited ) ) Expired Outstanding at end of year Options exercisable at end of year 
+ 
+ As of July 31, 2021, the weighted-average remaining contractual term of options outstanding and options exercisable was years. As of July 31, 2021, the aggregate intrinsic value was for both options outstanding and options exercisable. The fair value of each option award is estimated on the date of grant using the Black-Scholes Option Pricing Model. The Company uses historical data for similar groups of employees in order to estimate the expected life of options granted. Expected volatility is based on the historical volatility of the Company s stock for a period of years corresponding to the expected life of the option. The risk-free interest rate is based on the U.S. Treasury yield curve at the time of grant for securities with a maturity period similar to the expected life of the option. 
+ 
+ Granted Vested ) ) Forfeited ) ) Nonvested at end of year 
+ 
+ The total fair value of restricted shares vested during fiscal 2021 and 2020 was and , respectively. 
+ 
+ As of July 31, 2021, there was of total unrecognized compensation costs related to nonvested restricted stock granted under the above plans. That cost is expected to be recognized over a weighted-average period of years. 
+
+39 
+
+Class B common stock Aggregate: Class A common stock Class B common stock 
+
+NOTE 9 
+ 
+ defined benefit pension plans. of the plans was terminated in fiscal 2020, and of the plans are frozen and participants no longer earn service credit. are tax-qualified plans covering members of unions. Benefits under these plans are based on a fixed amount for each year of service. is a tax-qualified plan covering nonunion associates. Benefits under this plan are based upon percentages of annual compensation. Funding for these plans is based on an analysis of the specific requirements and an evaluation of the assets and liabilities of each plan. The fourth plan is an unfunded, nonqualified plan providing supplemental pension benefits to certain executives. 
+ 
+ Interest cost on projected benefit obligation Expected return on plan assets ) ) Loss on settlement Amortization of gains and losses Net periodic pension cost 
+ 
+ On December 23, 2019, the Company terminated the Village Super Market, Inc. Retail Clerks Employees Retirement Plan. All participants of the plan were former employees of a store previously closed in 1994. An annuity contract totaling was purchased with an insurance company for all participants who did not elect a lump sum distribution. Additionally, lump sum distributions related to the termination totaled . The plan had sufficient assets to satisfy all termination transaction obligations, and benefit obligation or plan assets related to the Village Super Market, Inc. Retail Clerks Employees Retirement Plan remained as of the termination date. As a result of this termination, the Company recognized a non-cash pre-tax settlement charge totaling during fiscal 2020. This settlement charge represents the plan s remaining unrecognized losses within accumulated other comprehensive loss as of the termination date. 
+ Additionally, the Company recognized a settlement loss of and in fiscal 2021 and 2020, respectively, for plans where benefits paid exceeded the sum of the service cost and interest cost components of net periodic pension cost. 
+
+40 
+
+Service cost Interest cost Benefits paid ) ) Settlement ) ) Actuarial loss ) Benefit obligation at end of year Changes in Plan Assets: Fair value of plan assets at beginning of year Actual return on plan assets ) Employer contributions Benefits paid ) ) Settlements paid ) ) Fair value of plan assets at end of year Funded status at end of year Amounts recognized in the consolidated balance sheets: Pension liabilities Accumulated other comprehensive loss, net of income taxes Amounts included in Accumulated other comprehensive loss (pre-tax): Net actuarial loss 
+ 
+ Company expects approximately of the net actuarial loss, excluding the impact of any potential plan settlements, to be recognized as a component of net periodic benefit costs in fiscal 2022. 
+ 
+ The accumulated benefit obligations of the plans were and at July 31, 2021 and July 25, 2020, respectively. 
+ Accumulated benefit obligation Fair value of plan assets 
+ 
+ Assumed discount rate benefit obligation Assumed rate of increase in compensation levels Expected rate of return on plan assets 
+ 
+ 41 
+
+- equity securities, - fixed income securities and - cash. Asset allocations are reviewed periodically and appropriate rebalancing is performed. 
+ 
+ Equity securities include investments in large-cap, small-cap and mid-cap companies located both in and outside the United States. Fixed income securities include U.S. treasuries, mortgage-backed securities and corporate bonds of companies from diversified industries. Investments in securities are made through mutual funds. In addition, one plan held Class A common stock of Village in the amount of and at July 31, 2021 and July 25, 2020, respectively. 
+ 
+ Risk management is accomplished through diversification across asset classes and fund strategies, multiple investment portfolios and investment guidelines. The plans do not allow for investments in derivative instruments. 
+ 
+ Equity securities: Company stock Mutual/Collective Trust Funds - U.S. (1) Mutual/Collective Trust Funds - International (1) Fixed income securities: Mutual/Collective Trust Funds - Fixed Income (1) Total 
+ 
+ (1) Includes pools of investments that are measured at fair value using the Net Asset Value (NAV) per share (or its equivalent) practical expedient. The NAV is based on the underlying net assets owned by the fund and the relative interest of each participating investor in the fair value of the underlying assets. The underlying investments are classified as either level 1 or 2 of the fair value hierarchy. 
+ 
+ 2023 2024 2025 2026 2027 - 2030 
+ 
+ In fiscal 2020 the Company began the process of terminating the Village Super Market, Inc. Employees Retirement Plan. Upon satisfaction of all regulatory requirements, which is expected to occur during fiscal 2022, the Company will fully fund and liquidate all plan assets to purchase annuity contracts from an insurance company for all participants who do not elect a lump sum distribution. At the time of settlement, the Company will recognize a non-cash pre-tax charge representing the plan s remaining unrecognized losses within accumulated other comprehensive loss as of the termination date. As of July 31, 2021, 
+ 42 
+
+and the pre-tax amount included in Accumulated other comprehensive loss is . Contributions to the remaining plans are expected to be immaterial in fiscal 2022. 
+ 
+ Multi-Employer Plans 
+ 
+ The Company contributes to multi-employer pension plans under collective bargaining agreements covering union-represented employees. These plans provide benefits to participants that are generally based on a fixed amount for each year of service. Based on the most recent information available, certain of these multi-employer plans are underfunded. The amount of any increase or decrease in Village s required contributions to these multi-employer pension plans will depend upon the outcome of collective bargaining, actions taken by trustees who manage the plans, government regulations and the actual return on assets held in the plans, among other factors. 
+ 
+ The risks of participating in multi-employer pension plans are different from the risks of participating in single-employer pension plans in the following respects: 
+ 
+ Assets contributed to a multi-employer plan by one employer may be used to provide benefits to employees of other participating employers. 
+ If a participating employer stops contributing to the plan, the unfunded obligations of the plan allocable to such withdrawing employer may be borne by the remaining participating employers. 
+ If the Company stops participating in some of its multi-employer pension plans, the Company may be required to pay those plans an amount based on its allocable share of the underfunded status of the plan, referred to as a withdrawal liability. 
+ N/A N/A August 2025 UFCW Local 1262 Employers Pension Fund (2), (4) 22-6074414-001 October 2023 UFCW Regional Pension Plan (3), (4) 16-6062287-074 June 2024 Total Contributions 
+ 
+ (1) The information for this fund was obtained from the Form 5500 filed for the plan s year-end at December 31, 2020 and December 31, 2019. 
+ (2) The information for this fund was obtained from the Form 5500 filed for the plan s year-end at December 31, 2019 and December 31, 2018. 
+ (3) The information for this fund was obtained from the Form 5500 filed for the plan s year-end at September 30, 2020 and September 30, 2019. 
+ 43 
+
+of the total contributions received by each applicable pension fund for all periods presented. 
+ (6) Under the Pension Protection Act, a surcharge may be imposed when employers make contributions under a collective bargaining agreement that is not in compliance with a rehabilitation plan. As of July 31, 2021, the collective bargaining agreements under which the Company was making contributions were in compliance with rehabilitation plans adopted by each applicable pension fund. 
+ 
+ Other Multi-Employer Benefit Plans 
+ 
+ The Company also contributes to various other multi-employer benefit plans that provide health and welfare benefits to active and retired participants. Total contributions made by the Company to these other multi-employer benefit plans were and in fiscal 2021 and 2020, respectively. 
+ 
+ Defined Contribution Plans 
+ 
+ The Company sponsors a 401(k) savings plan for certain eligible associates. Company contributions under that plan, which are based on specified percentages of associate contributions, were and in fiscal 2021 and 2020, respectively. The Company also contributes to union sponsored defined contribution plans for certain eligible associates. Company contributions under these plans were and in fiscal 2021 and 2020, respectively. 
+
+NOTE 10 
+ 
+ supermarkets averaging sq. ft. selling sq. ft.), a production distribution center (the PDC and the intellectual property of Fairway Group Holdings Corp. and certain of its subsidiaries Fairway ), including the names Fairway and Fairway Markets. Four of the supermarkets are in Manhattan, specifically the Upper West Side, Upper East Side, Kips Bay and Chelsea locations, and a fifth store is located in Pelham, NY. The acquisition was effectuated pursuant to the Asset Purchase Agreement (the "APA"), entered into on January 20, 2020, revised on March 25, 2020 and approved by the United States Bankruptcy Court for the Southern District of New York through a Sale Order entered on April 20, 2020. Village paid for the Fairway assets, net of cash acquired, and assumed certain liabilities, consisting primarily of those arising from acquired leases. Additionally, at the time of closing Village received a credit arising from the breakup of Village s initial stalking horse bid under the January 20, 2020 Asset Purchase Agreement. The credit was recognized as a reduction in operating and administrative expense in the fourth quarter of fiscal 2020. The Fairway acquisition expands our presence in New York City under an iconic city brand and provides Village the ability to expand centralized food production to support stores under all of our banners. 
+ 
+ Village accounted for this transaction as a business combination in accordance with the acquisition method of accounting, which requires, among other things, that assets acquired and liabilities assumed be recognized at their estimated fair values as of the acquisition date. In connection with this acquisition, the Company recorded of goodwill attributable to the assembled workforce and cost synergies. The goodwill related to this acquisition is deductible for tax purposes. Additionally, the Company recorded a indefinite-lived intangible asset related to the trade name. The fair value of the intangible asset was determined based on the discounted cash flow model using the relief from royalty method. The fair value of the property, equipment and fixtures were determined based on the indirect cost approach in which current costs that were not new were adjusted for all forms of depreciation. The Company also evaluated the fair value of the leases assumed in the acquisition, which evaluated comparable rents in the areas of the locations. Leases were determined to be at market apart from one location. For this location, the Company recorded a favorable lease of within Operating lease assets. The favorable lease is being amortized over the remaining duration of the lease. Transaction costs were expensed as incurred. The final allocation of the purchase price consideration to the assets acquired and the liabilities assumed has been completed. 
+
+44 
+
+Merchandise inventories Other current assets Total current assets Property, equipment and fixtures, net Operating lease assets Trade name intangible asset Other assets Total assets LIABILITIES Accrued wages and benefits Operating lease obligations Total liabilities Total Net Assets Acquired Goodwill Total Purchase Price 
+ 
+ The pro forma information includes historical results of operations of the Fairway locations acquired but does not include efficiencies, cost reductions, synergies or investments for the Company s customers expected to result from the acquisitions. 
+ Net Income 
+
+NOTE 11 
+ 
+ in fiscal 2020 which was recognized as a reduction in operating and administrative expense. Village has received a total of related to losses incurred as a result of Superstorm Sandy. 
+ 
+ Approximately of our employees are covered by collective bargaining agreements. Contracts with the Company s unions have or will expire between March 2020 and August 2025. Approximately of our associates are represented by unions whose contracts have already expired or expire within . Any work stoppages could have an adverse impact on our financial results. 
+ 
+ 45 
+
+NOTE 12 
+ 
+ . As of July 31, 2021, the right-of-use asset and obligation related to the Galloway store's lease were and , respectively. 
+ 
+ 46 
+
+Report of Independent Registered Public Accounting Firm 
+ 
+ To the Shareholders and Board of Directors 
+ Village Super Market, Inc.: 
+ 
+ Opinions on the Consolidated Financial Statements and Internal Control Over Financial Reporting 
+ We have audited the accompanying consolidated balance sheets of Village Super Market, Inc. and subsidiaries (the Company) as of July 31, 2021 and July 25, 2020, the related consolidated statements of operations, comprehensive income, shareholders equity, and cash flows for the years then ended, and the related notes (collectively, the consolidated financial statements). We also have audited the Company s internal control over financial reporting as of July 31, 2021, based on criteria established in Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. 
+ 
+ In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of July 31, 2021 and July 25, 2020, and the results of its operations and its cash flows for the years then ended, in conformity with U.S. generally accepted accounting principles. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of July 31, 2021 based on criteria established in Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. 
+ 
+ Change in Accounting Principle 
+ 
+ As discussed in Note 1 to the consolidated financial statements, the Company has changed its method of accounting for leases as of July 28, 2019 due to the adoption of Accounting Standards Update (ASU) No. 2016-02, Leases (Topic 842). 
+ 
+ Basis for Opinions 
+ 
+ The Company s management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company s consolidated financial statements and an opinion on the Company s internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects. 
+ 
+ Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions. 
+ 
+ Definition and Limitations of Internal Control Over Financial Reporting 
+ 
+ A company s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the 
+ 47 
+
+company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company s assets that could have a material effect on the financial statements. 
+ 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ 
+ Critical Audit Matter 
+ 
+ The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of a critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+ 
+ Evaluation of trade name intangible asset for impairment 
+ 
+ As discussed in Note 1 to the consolidated financial statements, the Company tests its indefinite-lived intangible assets for impairment at the end of each fiscal year, or more frequently if circumstances dictate. Manhattan store sales have been impacted by localized residential population migration out of Manhattan and less commuter and tourist traffic during the COVID-19 pandemic. Due to uncertainty regarding the duration and extent of the impact of the COVID-19 pandemic on Manhattan, the Company recognized an impairment charge related to the Fairway trade name intangible asset of 2,386 for the year ended July 31, 2021. The estimated fair value of the trade name intangible asset was determined using the relief from royalty method. The Company s indefinite-lived intangible asset balance of 13,299 as of July 31, 2021, included the Fairway trade name. 
+ 
+ We identified the evaluation of the Company s fair value assessment of the Fairway trade name intangible asset as a critical audit matter. Challenging and subjective auditor judgment was required to evaluate estimated future revenue and the discount rate used to determine the fair value of the Fairway trade name intangible asset due to their significant measurement uncertainty. Minor changes to these assumptions had a significant effect on the Company s estimate of the fair value of the Fairway trade name intangible asset. Additionally, the audit effort associated with the evaluation of the Company s discount rate required valuation professionals with specialized skills and knowledge. 
+ 
+ The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls related to the Company s indefinite lived intangible asset valuation process, including controls over the future revenue and discount rate assumptions. We compared estimates of future revenue to historical actual results and to current economic trends, including the impact of, and anticipated recovery from, the COVID-19 pandemic. We performed sensitivity analyses over the future revenue assumption to assess the impact of changes on the Company s determination of fair value. We involved valuation professionals with specialized skills and knowledge, who assisted in evaluating the elements of the discount rate assumption used by management, by comparing them against publicly available market data. 
+ 
+ /s/ KPMG LLP 
+ We have served as the Company s auditor since 1987. 
+ Short Hills, New Jersey 
+ October 14, 2021 
+
+48 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 
+ None. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+ 
+ As required by Rule 13a-15 of the Exchange Act, the Company carried out an evaluation of the effectiveness of the design and operation of the Company s disclosure controls and procedures at the end of the period covered by this report. This evaluation was carried out under the supervision, and with the participation, of the Company s management, including the Company s Chief Executive Officer along with the Company s Chief Financial Officer. Based upon that evaluation, the Company s Chief Executive Officer, along with the Company s Chief Financial Officer, concluded that the Company s disclosure controls and procedures are effective. 
+ 
+ Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in Company reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed in Company reports filed under the Exchange Act is accumulated and communicated to management, including the Company s Chief Executive Officer and Chief Financial Officer as appropriate, to allow timely decisions regarding required disclosure. 
+ 
+ MANAGEMENT S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING 
+ 
+ The management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting for the Company. With the participation of the Chief Executive Officer and Chief Financial Officer, our management conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework and criteria established in Internal Control - Integrated Framework (2013), issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation, our management has concluded that the Company s internal control over financial reporting was effective as of July 31, 2021. 
+ 
+ The Company s independent registered public accounting firm has audited the accompanying consolidated financial statements and the Company s internal control over financial reporting, as stated in their report, which is included in Item 8 of this Form 10-K. 
+ 
+ Robert P. Sumas John L. Van Orden Chief Executive Officer Chief Financial Officer 
+ 
+ CHANGES IN INTERNAL CONTROL OVER FINANCIAL REPORTING 
+ 
+ There have been no changes in the Company s internal control over financial reporting during the fourth quarter of fiscal 2021 that have materially affected, or are reasonably likely to materially affect, the Company s internal controls over financial reporting. 
+
+49 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 
+ The information required by this Item 10 is incorporated by reference from the Company's definitive Proxy Statement to be filed on or before November 1, 2021, in connection with its Annual Meeting scheduled to be held on December 17, 2021. 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+ 
+ The information required by this Item 11 is incorporated by reference from the Company's definitive Proxy Statement to be filed on or before November 1, 2021, in connection with its Annual Meeting scheduled to be held on December 17, 2021. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 
+ The information in the table below is as of July 31, 2021. All data relates to the Village Super Market, Inc. 2010 and 2016 Stock Plans as described in Item 8 of this Form 10-K. 
+ 
+ Plan category Number of securities to be issued upon exercise of outstanding options Weighted-average exercise price of outstanding options Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column (a)) (a) (b) (c) Equity compensation plans approved by security holders 102,000 28.98 1,077,593 Equity compensation plans not approved by security holders 
+ 
+ Additional information required by this Item 12 is incorporated by reference from the Company's definitive Proxy Statement to be filed on or before November 1, 2021, in connection with its annual meeting scheduled to be held on December 17, 2021. 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ 
+ The information required by this Item 13 is incorporated by reference from the Company's definitive Proxy Statement to be filed on or before November 1, 2021, in connection with its annual meeting scheduled to be held on December 17, 2021. 
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+ 
+ The information required by this Item 14 is incorporated by reference from the Company s definitive Proxy Statement to be filed on or before November 1, 2021, in connection with its annual meeting scheduled to be held on December 17, 2021. 
+ 
+ 50 
+
+PART IV 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENTS SCHEDULES 
+
+(a)(1) Financial Statements: Consolidated Balance Sheets July 31, 2021 and July 25, 2020 
+ Consolidated Statements of Operations - years ended July 31, 2021 and July 25, 2020 
+ Consolidated Statements of Comprehensive Income - years ended July 31, 2021 and July 25, 2020 
+ Consolidated Statements of Shareholders' Equity years ended July 31, 2021 and July 25, 2020 
+ Consolidated Statements of Cash Flows - years ended July 31, 2021 and July 25, 2020 
+ Notes to consolidated financial statements Report of Independent Registered Public Accounting Firm (a)(2) Financial Statement Schedules: All schedules are omitted because they are not applicable, or not required, or because the required information is included in the consolidated financial statements or the notes hereto. (a)(3) Exhibits 3.1 Certificate of Incorporation 
+ 3.2 By-laws 
+ 4.1 Credit Agreement dated May 6, 2020 
+ 4.2 First Amendment to Credit Agreement dated September 1, 2020 
+ 4.3 Revolving Credit Note dated May 6, 2020 
+ 4.4 Revolving Amended and Restated Revolving Credit Note dated September 1, 2020 
+ 4.5 Term Loan Note dated May 6, 2020 
+ 4.6 Converted Term Loan Note dated September 1, 2020 
+ 10.1 Wakefern By-Laws 
+ 10.2 Stockholders Agreement dated February 20, 1992 between the Company and Wakefern Food Corp. 
+ 10.7 Supplemental Executive Retirement Plan 
+ 10.8 2004 Stock Plan 
+ 10.9 2010 Stock Plan 
+ 10.10 2016 Stock Plan 
+ 10.11 42-Month Adjustable Rate Promissory Note 
+ 10.12 42-Month Adjustable Rate Promissory Note 
+ 10.13 60-Month Adjustable Rate Promissory Note 
+ 10.14 60-Month Adjustable Rate Promissory Note 
+ 10.15 60-Month Adjustable Rate Promissory Note 
+ 10.16 60-Month Adjustable Rate Promissory Note 
+ 10.17 60-Month Adjustable Rate Promissory Note 
+ 14 Code of Ethics 
+ 21 Subsidiaries of Registrant 
+ 23 Consent of Consent of Consent of KPMG LLP 
+ 31.1 Certification 
+ 31.2 Certification 
+ 32.1 Certification (furnished, not filed) 
+ 32.2 Certification (furnished, not filed) 
+ 99.1 Press Release 
+ 101 INS XBRL Instance Document 101 SCH XBRL Schema Document 
+ 51 
+
+101 CAL XBRL Calculation Linkbase Document 101 DEF XBRL Definition Linkbase Document 101 LAB XBRL Labels Linkbase Document 101 PRE XBRL Presentation Linkbase Document The XBRL related information in Exhibit 101 shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to liability of that section and shall not be incorporated by reference into any filing or other document pursuant to the Securities Act of 1933, as amended, except as shall be expressly set forth by specific reference in such filing or document. 
+ The following exhibits are incorporated by reference from the following previous filings: Form 8-K filed on May 13, 2020: 4.1, 4.3, 4.5 Form 8-K filed on September 8, 2020: 4.2, 4.4, 4.6 Form 10-K for 2017: 3.1, 10.2, 10.15, 10.16, 10.17, 14 DEF 14A Proxy Statement filed October 31, 2016: 10.10 Form 10-K for 2014: 10.7 Form 10-Q for April 2014: 10.11, 10.12, 10.13, 10.14 Form 10-Q for April 2013: 10.1 DEF 14A Proxy Statement filed November 1, 2010: 10.9 Form 10-K for 2004: 3.2 DEF 14A proxy statement filed October 25, 2004: 10.8 
+ 
+ 52 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ 
+ VILLAGE SUPER MARKET, INC. By: /s/ Robert P. Sumas /s/ John Van Orden Robert P. Sumas John Van Orden Chief Executive Officer Chief Financial Officer Date: October 14, 2021 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on dates indicated: 
+ 
+ /s/ Robert P. Sumas /s/ Steven Crystal Robert P. Sumas, Director Steven Crystal, Director October 14, 2021 October 14, 2021 /s/ William Sumas /s/ Peter Lavoy William Sumas, Director Peter Lavoy, Director October 14, 2021 October 14, 2021 /s/ John P. Sumas /s/ Stephen Rooney John P. Sumas, Director Stephen Rooney, Director October 14, 2021 October 14, 2021 /s/ John J. Sumas /s/ John L. Van Orden John J. Sumas, Director John L. Van Orden, Chief Financial Officer October 14, 2021 October 14, 2021 /s/ Nicholas J. Sumas /s/ Luigi Perri Nicholas J. Sumas, Director Luigi Perri, Controller (Principal Accounting Officer) October 14, 2021 October 14, 2021 /s/ Kevin Begley Kevin Begley, Director October 14, 2021 
+ 
+ 53 
+
+<EX-14>
+ 2
+ vlgea20210731-ex14.htm
+ EX-14
+
+Document 
+
+Exhibit 14 
+
+VILLAGE SUPER MARKET, INC . 
+ 
+ CODE OF ETHICS 
+ 
+ In my role as a Director of Village Super Market, Inc., I recognize that I hold an important and elevated role in corporate governance. I am uniquely capable and empowered to ensure that stakeholders interests are appropriately balanced, protected and preserved. Accordingly, this Code provides principles to which I am expected to adhere and advocate. The Code embodies rules regarding individual and peer responsibilities, as well as responsibilities to the company, the public and other stakeholders. 
+ 
+ I certify to you that I adhere to and advocate the following principles and responsibilities governing my professional and ethical conduct. 
+ 
+ To the best of my knowledge and ability 
+ 
+ 1. I act with honesty and integrity, avoiding actual or apparent conflicts of interest in personal and professional relationships. 2. I provide constituents with information that is accurate, complete, objective, relevant, timely and understandable. 3. I comply with rules and regulations of federal, state, provincial and local governments, and other appropriate private and public regulatory agencies. 4. I act in good faith, responsibly, with due care, competence and diligence, without misrepresenting material facts or allowing my independent judgment to be subordinated. 5. I respect the confidentiality of information acquired in the course of my work except when authorized or otherwise legally obligated to disclose. Confidential information acquired in the course of my work is not used for personal advantage. 6. I share knowledge and maintain skills important and relevant to my constituents needs. 7. I proactively promote ethical behavior as a responsible partner among peers in my work environment and community. 8. I achieve responsible use of and control over all assets and resources employed or entrusted to me. 9. In addition, I comply with all aspects of the Village Super Market, Inc. Code of Conduct. 10. I also agree that, if I should become aware of any violation of law or of this code by the Company or anyone acting on behalf of the Company, it is my responsibility to report the violation promptly to the Company's Chief Financial Officer, General Counsel, Chief Executive Officer or the Audit Committee whistleblower hotline, as appropriate. I understand that although the Company seeks to address any such matters internally, nothing in this Code prevents me from reporting any illegal activity to the appropriate legal authority. I also understand that the Company will not discriminate or retaliate against me if I in good faith report such violation, and that I will not discriminate or retaliate against other employees who report violations. Further, I understand that this Code does not prohibit me from testifying or otherwise participating in any proceeding or investigation that may follow. 11. I acknowledge that violations of this code may subject me to disciplinary action, which could include termination. 
+
+</EX-14>
+
+<EX-21>
+ 3
+ vlgea20210731-ex21.htm
+ EX-21
+
+Document 
+
+Exhibit 21 
+
+SUBSIDIARIES OF REGISTRANT 
+
+The Company has nine wholly-owned subsidiaries at July 31, 2021. Village Super Market of PA, LLC is organized under the laws of Pennsylvania. Village Super Market of NJ, LP, Hanover and Horsehill Development, LLC, Greater Morristown Restaurant, LLC, VSM New Markets, LLC, Delilah Properties LLC, Fire Brands Innovation LLC, Washington Asbury LLC and Village Galloway Shopping Center LLC are organized under the laws of New Jersey. Village Super Market of Maryland, LLC is organized under the laws of Maryland. Village Super Market of NY, LLC, VSM Gourmet, LLC, VSM NY Holdings LLC, VSM NY Distribution Center LLC and VSM NY LLC are organized under the laws of New York. 
+ 
+ The financial statements of all subsidiaries are included in the Company s consolidated financial statements. 
+
+</EX-21>
+
+<EX-23>
+ 4
+ vlgea20210731-ex23.htm
+ EX-23
+
+Document 
+
+Exhibit 23 
+
+Consent of Independent Registered Public Accounting Firm 
+ 
+ We consent to the incorporation by reference in the registration statements (No. 333-216866 and No. 333-172673) on Form S-8 of our reports dated October 14, 2021, with respect to the consolidated financial statements of Village Super Market, Inc. and the effectiveness of internal control over financial reporting. 
+ 
+ s KPMG LLP Short Hills, New Jersey October 14, 2021 
+
+</EX-23>
+
+<EX-31.1>
+ 5
+ vlgea20210731-ex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+
+CERTIFICATIONS 
+ 
+ I, Robert P. Sumas, certify that 
+ 
+ 1. I have reviewed this annual report on Form 10-K of Village Super Market, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ a. all significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ b. any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+s Robert P. Sumas Robert P. Sumas Chief Executive Officer October 14, 2021 
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ vlgea20210731-ex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+
+CERTIFICATIONS 
+ 
+ I, John L. Van Orden, certify that 
+ 
+ 1. I have reviewed this annual report on Form 10-K of Village Super Market, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ a. all significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ b. any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+s John L. Van Orden John L. Van Orden Chief Financial Officer October 14, 2021 
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ vlgea20210731-ex321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Annual Report of Village Super Market, Inc. (the Company on Form 10-K for the period ended July 31, 2021 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Robert P. Sumas certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+s Robert P. Sumas Robert P. Sumas Chief Executive Officer October 14, 2021 
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ vlgea20210731-ex322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Annual Report of Village Super Market, Inc. (the Company on Form 10-K for the period ended July 31, 2021 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, John Van Orden certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+s John L. Van Orden John L. Van Orden Chief Financial Officer October 14, 2021 
+
+</EX-32.2>
+
+<EX-99.1>
+ 9
+ vlgea20210731-exhibit991.htm
+ EX-99.1
+
+Document 
+ Exhibit 99.1 
+
+VILLAGE SUPER MARKET, INC. 
+ REPORTS RESULTS FOR THE FOURTH QUARTER ENDED 
+ JULY 31, 2021 
+ Contact John Van Orden, CFO (973) 467-2200 villageinvestorrelations wakefern.com 
+ Springfield, New Jersey October 12, 2021 - Village Super Market, Inc. (NSD-VLGEA) today reported its results of operations for the fourth quarter ended July 31, 2021. 
+ 
+ Fourth Quarter Highlights 
+ Net income of 9.5 million, an increase of 3 compared to 9.2 million in the fourth quarter of the prior year 
+ Adjusted net income of 8.7 million, an increase of 50 compared to 5.8 million in the fourth quarter of the prior year 
+ Same store sales increased 0.1 on a two-year stacked basis same store sales increased 7.4 
+ Same store digital sales decreased 22 on a two-year stacked basis same store digital sales increased 172 
+ Fiscal 2021 Highlights 
+ Net income of 20.0 million, a decrease of 20 compared to 24.9 million in fiscal 2020. 
+ Adjusted net income of 18.9 million, a decrease of 18 compared to 23.1 million in fiscal 2020 
+ Same store sales increased 1.8 on a two-year stacked basis same store sales increased 7.5 
+ Same store digital sales increased 68 on a two-year stacked basis same store digital sales increased 219 
+ Fourth Quarter of Fiscal 2021 Results 
+ Sales were 536.3 million in the 14 weeks ended July 31, 2021 compared to 501.3 million in the 13 weeks ended July 25, 2020. Sales increased 35.4 million, or 7.1 , due to fiscal 2021 containing 53 weeks, with the additional week included in the fourth quarter. Excluding the impact of the 53rd week, sales decreased 0.1 due to the closure of the Silver Spring, Maryland store in February 2020 partially offset by the Fairway acquisition completed on May 14, 2020 and a 0.1 increase in same store sales. 
+ Average basket sizes decreased, transaction counts increased and same store digital sales decreased as we cycled against the initial months following the COVID-19 outbreak in our trade area. Additionally, food inflation and increased Supplemental Nutrition Assistance Program SNAP benefits positively impacted sales. Sales levels in Manhattan continue to be negatively impacted by residential population migration out of the city and less commuter and tourist traffic. 
+ New stores and replacement stores are included in same store sales in the quarter after the store has been in operation for four full quarters. Store renovations and expansions are included in same store sales immediately. 
+ Gross profit as a percentage of sales decreased to 28.31 in the 14 weeks ended July 31, 2021 compared to 28.91 in the 13 weeks ended July 25, 2020 due primarily to decreased departmental gross margin percentages (.29 and increased warehouse assessment charges from Wakefern (.75 ), partially offset by a favorable change in product mix (.21 and lower promotional spending (.22 ). 
+ Operating and administrative expense as a percentage of sales decreased to 23.65 in the 14 weeks ended July 31, 2021 compared to 25.29 in the 13 weeks ended July 25, 2020. Adjusted operating and administrative expenses decreased to 24.29 in the 14 weeks ended July 31, 2021 compared to 25.65 in the 13 weeks ended July 25, 2020. The decrease in Adjusted operating and administrative expenses is due primarily to decreased costs related to COVID-19, including enhanced 
+
+Exhibit 99.1 
+
+wages and benefits, security and outside sanitation services (1.45 and lower payroll costs (.19 ). Payroll costs decreased due to productivity initiatives and labor shortages despite minimum wage and demand driven pay rate increases. 
+ Impairment of assets in the 14 weeks ended July 31, 2021 includes non-cash charges related to the Fairway trade name of 2.4 million and the long-lived assets of one Gourmet Garage store of 0.5 million due primarily to the uncertainty regarding the duration and extent of the impact of the COVID-19 pandemic on Manhattan. 
+ The Company s effective income tax rate was 31.2 in the 14 weeks ended July 31, 2021 compared to 4.1 in the 13 weeks ended July 25, 2020. The 13 weeks ended July 25, 2020 includes a 2.5 million benefit from a federal net operating loss carryback at a rate higher than the current statutory tax rate. Excluding the impact of this adjustment, the effective income tax rate was 31.5 in the 13 weeks ended July 25, 2020. 
+ Net income was 9.5 million in the 14 weeks ended July 31, 2021 compared to 9.2 million in the 13 weeks ended July 25, 2020. Adjusted net income was 8.7 million in the 14 weeks ended July 31, 2021 compared to 5.8 million in the 13 weeks ended July 25, 2020. 
+ Fiscal 2021 Results 
+ Sales were 2.03 billion in fiscal 2021 compared to 1.80 billion in fiscal 2020. Sales increased 35.4 million, or 2.0 , due to fiscal 2021 containing 53 weeks. Excluding the impact of the 53rd week, Sales increased due to the Fairway acquisition completed on May 14, 2020, the opening of the Stroudsburg replacement store on November 1, 2019 and a same store sales increase of 1.8 . Excluding the impact of the 53rd week, same store sales increased 7.5 in fiscal 2021 on a two-year stacked basis compared to fiscal 2019. 
+ Since the beginning of the COVID-19 pandemic, we have experienced higher average basket sizes and decreased transaction counts as customers have consolidated shopping trips. Additionally, both food inflation and increased Supplemental Nutrition Assistance Program SNAP benefits positively impacted sales. Same store digital sales growth accelerated through both ShopRite from Home and partnerships with online grocery picking and delivery services, increasing 68 in fiscal 2021 compared to fiscal 2020 and 219 on a two-year stacked basis. During the COVID-19 pandemic, fiscal 2021 sales at Fairway and Gourmet Garage locations in Manhattan have been significantly negatively impacted due primarily to residential population migration out of the city and less commuter and tourist traffic. 
+ Gross profit as a percentage of sales decreased to 27.83 in fiscal 2021 compared to 28.07 in fiscal 2020. Higher margins associated with Fairway increased gross profit (.22 despite higher costs as we transition and integrate commissary operations into our business. Excluding the impact of Fairway, gross profit as a percentage of sales decreased .46 due primarily to decreased departmental gross margin percentages (.48 and increased warehouse assessment charges from Wakefern (.34 partially offset by a favorable change in product mix (.17 ), lower promotional spending (.16 and increased patronage dividends and rebates received from Wakefern (.03 ). Departmental gross profits decreased due partly to price investments. 
+ Operating and administrative expense as a percentage of sales decreased to 24.57 in fiscal 2021 compared to 24.65 in fiscal 2020. Adjusted operating and administrative expense as a percentage of sales increased to 24.76 in fiscal 2021 compared to 24.63 in fiscal 2020. Adjusted operating and administrative expense increased due primarily to increased occupancy costs due primarily to the Fairway acquisition (.56 and increased external fees and transportation costs associated with digital sales (.42 ), partially offset by decreased costs related to COVID-19, including enhanced wages and benefits, security and outside sanitation services (.62 and lower payroll and fringe benefit costs (.24 ). Payroll and fringe benefits decreased primarily due 
+
+Exhibit 99.1 
+
+to leverage from higher sales, reductions in service department offerings, labor shortages and productivity initiatives partially offset by the addition of Fairway, growth of ShopRite from Home and minimum wage and demand driven pay rate increases. 
+ Depreciation and amortization expense was 34.2 million in fiscal 2021 compared to 31.4 million in fiscal 2020. Depreciation and amortization expense increased in fiscal 2021 compared to the prior year due to depreciation related to assets acquired as part of the Fairway acquisition. 
+ Impairment of assets includes non-cash charges related to the Fairway trade name of 2.4 million and the long-lived assets of one Gourmet Garage store of 0.5 million due primarily to the uncertainty regarding the duration and extent of the impact of the COVID-19 pandemic on Manhattan. 
+ Interest expense was 3.9 million in fiscal 2021 compared to 2.6 million in fiscal 2020. Interest expense increased in fiscal 2021 compared to fiscal 2020 due primarily to interest expense related to the credit agreement entered into on May 6, 2020. 
+ Interest income was 3.6 million in fiscal 2021 compared to 4.1 million in fiscal 2020. Interest income decreased in fiscal 2021 compared to fiscal 2020 due primarily to lower interest rates for amounts invested in variable rate notes receivable from Wakefern and demand deposits invested at Wakefern. 
+ The Company s effective income tax rate was 30.7 in fiscal 2021 compared to 21.4 in fiscal 2020. Fiscal 2020 includes a 2.5 million benefit from a federal net operating loss carryback at a rate higher than the current statutory tax rate. Excluding the impact of this adjustment, the effective income tax rate was 29.3 in fiscal 2020. The increase in the effective tax rate in fiscal 2021 is due primarily to favorable return to provision adjustments in fiscal 2020 and increased state taxable income in higher tax rate jurisdictions. 
+ Net income was 20.0 million in fiscal 2021 compared to 24.9 million in fiscal 2020. Adjusted net income was 18.9 million in fiscal 2021 compared to 23.1 million in fiscal 2020. 
+ 
+ Village Super Market operates a chain of 34 supermarkets in New Jersey, New York, Maryland and Pennsylvania under the ShopRite and Fairway banners and three Gourmet Garage specialty markets in New York City. 
+ 
+ Forward Looking Statements and Non-GAAP Measures 
+ All statements, other than statements of historical fact, included in this Press Release are or may be considered forward-looking statements within the meaning of federal securities law. The Company cautions the reader that there is no assurance that actual results or business conditions will not differ materially from future results, whether expressed, suggested or implied by such forward-looking statements. The Company undertakes no obligation to update forward-looking statements to reflect developments or information obtained after the date hereof. The following are among the principal factors that could cause actual results to differ from the forward-looking statements risks and uncertainties related to the COVID-19 pandemic, including among others, the duration and severity of the pandemic, shifts in customers' buying patterns, disruptions to supply chains, inability of the workforce to work due to illness, quarantine or government mandates, including travel restrictions and stay at home orders, the effectiveness and duration of COVID-19 stimulus packages general economic conditions competitive pressures from the Company s operating environment the ability of the Company to maintain and improve its sales and margins the ability to attract and retain qualified associates the availability of new store locations risks, uncertainties and challenges associated with the Fairway acquisition, including under-performance relative to our expectations, additional capital requirements, unforeseen expenses or delays, imprecise assumptions or our inability to achieve projected cost savings or other synergies, competitive factors in the marketplace and difficulties integrating the business, including merging company cultures, cultivating brand strategy, expansion of food production and conforming the acquired company's technology, standards, processes, procedures and controls the availability of capital the liquidity of the Company the success of operating initiatives consumer spending patterns the impact of changing energy prices increased cost of goods sold, including increased costs from the Company s principal supplier, Wakefern disruptions or changes in Wakefern's operations the results of litigation the results of tax examinations the results of union contract negotiations competitive store openings and closings the rate of return on pension assets and other factors detailed herein and in the Company s filings with the SEC. 
+ We provide non-GAAP measures, including Adjusted net income and Adjusted operating and administrative expense, that we believe are useful to analysts and investors to evaluate the Company's ongoing results of operations. These non-GAAP financial measures should not be considered as an alternative to GAAP measures such as net income, operating income, operating and administrative expense or any other GAAP measure of performance. These measures should not be reviewed in isolation or considered as a substitute for our financial results as reported in accordance with GAAP. We believe Adjusted net income and Adjusted operating and administrative expense are useful metrics to investors and analysts because they present more accurate year-over-year comparisons of our net income and operating and administrative expense because adjusted items are not the result of our normal operations. Other companies may have different definitions of Non-GAAP Measures and provide for different adjustments, and comparability to the Company's results of operations may be impacted by such 
+
+Exhibit 99.1 
+
+differences. The Company's presentation of Non-GAAP Measures should not be construed as an implication that its future results will be unaffected by unusual or non-recurring items. 
+
+Exhibit 99.1 
+
+VILLAGE SUPER MARKET, INC. 
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (In thousands, except per share amounts) (Unaudited) 
+ 
+ 14 Weeks Ended 13 Weeks Ended 53 Weeks Ended 52 Weeks Ended July 31, 2021 July 25, 2020 July 31, 2021 July 25, 2020 Sales 536,283 501,302 2,030,330 1,804,594 Cost of sales 384,469 356,397 1,465,286 1,298,119 Gross profit 151,814 144,905 565,044 506,475 Operating and administrative expense 126,820 126,781 498,786 444,833 Depreciation and amortization 8,271 8,444 34,195 31,358 Impairment of assets 2,900 2,900 Operating income 13,823 9,680 29,163 30,284 Interest expense (980) (913) (3,943) (2,611) Interest income 963 861 3,633 4,060 Income before income taxes 13,806 9,628 28,853 31,733 Income taxes 4,306 399 8,859 6,794 Net income 9,500 9,229 19,994 24,939 Net income per share Class A common stock Basic 0.73 0.71 1.53 1.93 Diluted 0.65 0.63 1.37 1.72 Class B common stock Basic 0.47 0.46 1.00 1.25 Diluted 0.47 0.46 1.00 1.25 Gross profit as a of sales 28.31 28.91 27.83 28.07 Operating and administrative expense as a of sales 23.65 25.29 24.57 24.65 
+
+Exhibit 99.1 
+
+VILLAGE SUPER MARKET, INC. 
+ RECONCILIATION OF NON-GAAP MEASURE 
+ (In thousands) (Unaudited) 
+ 
+ The following tables reconciles Net income to Adjusted net income and Operating and administrative expenses to Adjusted operating and administrative expenses 
+ 
+ 14 Weeks Ended 13 Weeks Ended 53 Weeks Ended 52 Weeks Ended July 31, 2021 July 25, 2020 July 31, 2021 July 25, 2020 Net Income 9,500 9,229 19,994 24,939 Adjustments to Gross Profit Amortization of acquisition related inventory step up 507 507 Adjustments to Operating and administrative expense Gain on sale of assets (1) (4,044) (4,768) (1,220) Non-cash pension termination and settlement charges 587 241 587 1,604 Store closure costs (2) 325 799 New store pre-opening costs (3) 1,274 Gain on Superstorm Sandy insurance proceeds (2,733) (2,733) Fairway acquisition transaction costs 2,701 2,701 Break-up fee income (4) (2,035) (2,035) Other adjustments Impairment of assets (5) 2,900 2,900 Income from 53-week fiscal year (6) (602) (602) Adjustments to Income taxes Tax impact of adjustments 356 403 478 (236) Tax gain on federal net operating loss carryback (2,512) (2,512) Adjusted net income 8,697 5,801 18,914 23,088 Operating and administrative expense 126,820 126,781 498,786 444,833 Total adjustments to operating administrative expense 3,457 1,826 3,856 (390) Adjusted operating and administrative expense 130,277 128,607 502,642 444,443 Adjusted operating and administrative expense as a of sales 24.29 25.65 24.76 24.63 
+ 
+ (1) Fiscal 2021 includes a 4,044 gain on the sale of the leasehold interest in a non-supermarket related parking lot obtained as part of the Fairway acquisition and a 724 gain on the sale of the pharmacy prescription list related to the Silver Spring store. Fiscal 2020 includes a gain on the sale of the pharmacy prescription lists related to three store pharmacies closed in March 2020. 
+ (2) Fiscal 2021 includes costs associated with the closure of the Silver Spring, Maryland store on February 22, 2021 and Fiscal 2020 includes charges to write off the lease asset and related obligations for the old Stroudsburg store. 
+ (3) Fiscal 2020 pre-opening costs relate to the Stroudsburg replacement store opened on November 1, 2019. 
+ (4) Fiscal 2020 gain due to the breakup of Village s initial stalking horse bid under the January 20, 2020 Fairway Asset Purchase Agreement. 
+ (5) Fiscal 2021 non-cash impairment charges for the Fairway trade name of 2,386 and the long-lived assets for one Gourmet Garage store of 514. 
+ (6) Fiscal 2021 is a 53-week fiscal year, with the additional week included in the fourth quarter. 
+
+</EX-99.1>
+
+<EX-101.SCH>
+ 10
+ vlgea-20210731.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 11
+ vlgea-20210731_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 12
+ vlgea-20210731_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 13
+ vlgea-20210731_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 14
+ vlgea-20210731_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,1041 @@
+<Header>
+<FileStats>
+    <FileName>20211223_10-K_edgar_data_775057_0001096906-21-003058.txt</FileName>
+    <GrossFileSize>2018053</GrossFileSize>
+    <NetFileSize>65303</NetFileSize>
+    <NonText_DocumentType_Chars>453165</NonText_DocumentType_Chars>
+    <HTML_Chars>406111</HTML_Chars>
+    <XBRL_Chars>415647</XBRL_Chars>
+    <XML_Chars>642650</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001096906-21-003058.hdr.sgml : 20211223
+<ACCEPTANCE-DATETIME>20211223170129
+ACCESSION NUMBER:		0001096906-21-003058
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		67
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211223
+DATE AS OF CHANGE:		20211223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALTEX INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000775057
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				840989164
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09030
+		FILM NUMBER:		211517833
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 COLORADO BLVD
+		STREET 2:		#273
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80206-4084
+		BUSINESS PHONE:		3032659312
+
+	MAIL ADDRESS:	
+		STREET 1:		700 COLORADO BLVD
+		STREET 2:		#273
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80206-4084
+
+</SEC-Header>
+</Header>
+
+ 0001096906-21-003058.txt : 20211223
+
+10-K
+ 1
+ altx-20210930.htm
+ ALTEX INDUSTRIES INC - FORM 10-K SEC FILING
+
+ALTEX INDUSTRIES INC - Form 10-K SEC filing 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, DC 20549 
+ 
+ Form 
+ 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the fiscal year ended 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ 
+ Commission file number 
+ 
+ ALTEX INDUSTRIES, INC. 
+ 
+ (Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 
+ (I.R.S. Employer 
+ 
+ incorporation or organization) 
+ Identification No.) 
+
+(Zip Code) 
+
+Registrant's telephone number, including area code: ) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: None 
+ 
+ Securities registered pursuant to Section 12(g) of the Act: Common Stock, par value 0.01 per share 
+ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act Yes 
+ 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company, or an emerging growth company. 
+ 
+ Large accelerated filer 
+ Accelerated Filer 
+
+Smaller Reporting Company 
+
+Emerging growth company 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+ 
+ Aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold: 
+ 
+ Number of shares outstanding of registrant's common stock as of December 23, 2021: 
+
+Safe Harbor Statement under the United States 
+ Private Securities Litigation Reform Act of 1995 
+ 
+ Statements that are not historical facts contained in this Form 10-K are forward-looking statements that involve risks and uncertainties that could cause actual results to differ from projected results. Factors that could cause actual results to differ materially include: general economic conditions; movements in interest rates; the market price of oil and natural gas; the risks associated with exploration and production; the Company s ability, or the ability of its operating subsidiary, Altex Oil Corporation (AOC), to find, acquire, market, develop, and produce new properties; operating hazards attendant to the oil and natural gas business; uncertainties in the estimation of proved reserves and in the projection of future rates of production and timing of development expenditures; the strength and financial resources of the Company s competitors; the Company s ability and AOC s ability to find and retain skilled personnel; climatic conditions; availability and cost of material and equipment; delays in anticipated start-up dates; environmental risks; the results of financing efforts; and other uncertainties detailed elsewhere herein. 
+ 
+ PART I 
+ 
+ Item 1. Business. 
+ 
+ Altex Industries, Inc. (or the Registrant or the Company, each of which terms, when used herein, refer to Altex Industries, Inc. and/or its subsidiary) is a holding company with one full-time employee that was incorporated in Delaware in 1985. Through its operating subsidiary, AOC, the Company currently owns interests in productive onshore oil and gas properties, has bought and sold producing oil and gas properties, and, to a lesser extent, has participated in the drilling of exploratory and development wells, and in recompletions of existing wells. 
+ 
+ All of AOC s interests are in properties operated by others. An interest owner in a property not operated by that interest owner must rely on information regarding the property provided by the operator, even though there can be no assurance that such information is complete, accurate, or current. In addition, an owner of a working interest in a property is potentially responsible for 100 of all liabilities associated with that property, regardless of the size of the working interest actually owned. 
+ 
+ The operators of producing properties in which AOC has an interest sell produced oil and gas to refiners, pipeline operators, and processing plants. If a refinery, pipeline, or processing plant that purchases such production were taken out of service, the operator could be forced to halt the production that is purchased by such refinery, pipeline, or plant. 
+ 
+ Although many entities produce oil and gas, competitive factors play a material role in AOC's production operations only to the extent that such factors affect demand for and prices of oil and gas and demand for, supply of, and prices of oilfield services. The sale of oil and gas is regulated by Federal, state, and local agencies, and AOC is also subject to Federal, state, and local laws and regulations relating to the environment. These laws and regulations generally provide for control of pollutants released into the environment and require responsible parties to undertake remediation. AOC regularly assesses its exposure to environmental liability and asset retirement obligations (ARO), which activities are covered by Federal, state, and local regulation. AOC does not believe that it currently has any material exposure to environmental liability or ARO, as it does not own any working interests. 
+
+Item 1A. Risk Factors. 
+ 
+ Not applicable. 
+ 
+ Item 1B. Unresolved Staff Comments. 
+ 
+ Not applicable. 
+ 
+ Item 2. Properties. 
+ 
+ The Company s estimated reserves at September 30, 2021, are 1,000 barrels of proved, developed oil reserves associated with the Company s 4.4 override in the Glo Field in Campbell County, Wyoming. The reserve estimate is prepared by the Company s registered profession petroleum engineer; management supplies the engineer with ownership and revenue data and reviews the reserve estimate for reasonableness. The Company has not reported to, or filed with, any other Federal authority or agency any estimates of total, proved net oil or gas reserves since the beginning of the last fiscal year. All the Company s interests in oil and gas properties are non-working interests. The Company did not participate in the drilling of any wells during the year ended September 30, 2019 (FY19), the year ended September 30, 2020 (FY20), or the year ended September 30, 2021 (FY21). At December 23, 2021, the Company was not engaged in any oil and gas operations. The Company owns very small mineral interests in Utah. All the Company s production is located in Utah and Wyoming. 
+ 
+ Production 
+
+Net Production 
+ Average Price 
+ Average Production 
+ 
+ Fiscal Year 
+ Oil 
+ Gas 
+ Oil 
+ Gas 
+ Cost Per Equivalent 
+
+(Bbls) 
+ (Mcf) 
+ (Bbls) 
+ (Mcf) 
+ Barrel 
+ 
+ 2021 
+ 800 
+ 600 
+ 51.88 
+ 4.15 
+ 0.00 
+ 
+ 2020 
+ 600 
+ 400 
+ 50.00 
+ 2.50 
+ 0.00 
+ 
+ 2019 
+ 1,100 
+ 1,000 
+ 48.38 
+ 2.78 
+ 0.00 
+
+Item 3. Legal Proceedings. 
+ 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures. 
+ 
+ Not applicable. 
+
+PART II 
+ 
+ Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 
+ The Company's common stock is traded on OTC Pink under the symbol ALTX. The high and low prices for the Company s common stock for each quarter in the last two fiscal years are listed in the table below. 
+
+FY21 
+ FY20 
+ 
+ Quarter 
+ High Price 
+ Low Price 
+ High Price 
+ Low Price 
+ 
+ 1 
+ 0.15 
+ 0.07 
+ 0.12 
+ 0.08 
+ 
+ 2 
+ 0.27 
+ 0.08 
+ 0.09 
+ 0.08 
+ 
+ 3 
+ 0.17 
+ 0.11 
+ 0.09 
+ 0.08 
+ 
+ 4 
+ 0.20 
+ 0.09 
+ 0.12 
+ 0.07 
+
+At December 23, 2021, there were approximately 3,400 holders of record of the Company's common stock, excluding entities whose stock is held by clearing agencies. The Company has not paid a dividend during the last two fiscal years. The Company has no publicly announced plan or program for the purchase of shares. The Company has no compensation plans (including individual compensation arrangements) under which equity securities of the registrant are authorized for issuance. 
+ 
+ Issuer Purchases of Equity Securities 
+ 
+ Period 
+ (a) Total number of shares (or units) purchased 
+ (b) Average price paid per share (or unit) 
+ (c) Total number of shares (or units) purchased as part of publicly announced plans or programs 
+ (d) Maximum number (or approximate dollar value) of shares (or units) that may yet be purchased under the plans or programs 
+ 
+ July 1, 2021 
+ through July 31, 2021 
+
+August 1, 2021, through 
+ August 31, 2021 
+
+September 1, 2021, through 
+ September 30, 2021 
+ 130,000 
+ 0.15 
+
+Total 
+ 130,000 
+ 0.15 
+
+The Company has no publicly announced plan or program for the purchase of shares. 
+ 
+ Item 6. Reserved. 
+ 
+ Not applicable. 
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ Financial Condition 
+ 
+ In FY21 operating activities used 85,000 cash, and the Company used 19,000 cash to acquire 130,000 shares of its common stock. In FY20 operating activities used 121,000 cash, and the Company used 4,000 cash to acquire 44,008 shares of its common stock. Consequently, cash balances decreased 104,000 in FY21 and 125,000 in FY20. At September 30, 2021 and 2020, accrued expenses, related party, of 1,073,000 consists of 1,024,000 in salary payable to the Company s president, pursuant to his employment agreement, that the president has elected to defer, as well as 49,000 in related accrued payroll tax. The Company s president may require the Company to pay the unpaid salary and payroll tax liability at any time. 
+ 
+ The Company is likely to experience negative cash flow from operations unless and until the Company invests in interests in producing oil and gas wells or in another venture that produces sufficient cash flow from operations. With the exception of capital expenditures related to production acquisitions or drilling or recompletion activities or an investment in another venture that produces cash flow from operations, none of which are currently planned, the cash flows that could result from such acquisitions, activities, or investments, and the possibility of a material change in the current level of interest rates or of oil and gas prices, the Company knows of no trends or demands, commitments, events or uncertainties that will result in or that are reasonably likely to result in the Company's liquidity increasing or decreasing in any material way. Except for cash generated by the operation of the Company's producing oil and gas properties, asset sales, and interest income, the Company has no internal or external sources of liquidity other than its working capital. At December 23, 2021, the Company had no material commitments for capital expenditures. 
+ 
+ Results of Operations 
+ 
+ Oil and gas sales increased from 31,000 in FY20 to 44,000 in FY21 because quantities sold and prices received increased in FY21. Interest income decreased from 17,000 in FY20 to nil in FY21 because of lower realized interest rates on cash balances. Included in other income in FY21 was 56,000 in out-of-period revenue that had been held in suspense. 
+ 
+ At the current levels of net oil and gas production, cash balances, interest rates, and oil and gas prices, the Company s revenue is unlikely to exceed its expenses. Unless and until the Company invests a substantial portion of its cash balances in interests in producing oil and gas wells or in one or more other ventures that produce revenue and net income, the Company is likely to experience net losses. With the exception of unanticipated ARO, unanticipated environmental expense, and possible changes in interest rates and oil and gas prices, the Company is not aware of any other trends, events, or uncertainties that have had or that are reasonably expected to have a material impact on net sales or revenues or income from continuing operations. 
+ 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk. 
+ 
+ Not applicable. 
+ 
+ Item 8. Financial Statements and Supplementary Data. 
+ 
+ The consolidated financial statements follow the signature page. 
+ 
+ Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+ 
+ None. 
+
+Item 9A. Controls and Procedures 
+ 
+ The Company maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed in the Company s Exchange Act reports is recorded, processed, summarized, and reported within the time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated to the Company s management, including its Principal Executive Officer and Principal Financial Officer as appropriate, to allow timely decisions regarding required disclosure. Management necessarily applied its judgment in assessing the costs and benefits of such controls and procedures which, by their nature, can provide only reasonable assurance regarding management s control objectives. 
+ 
+ As of the end of the period covered by the report, the Company carried out an evaluation, under the supervision and with the participation of the Company s management, including the Company s Principal Executive Officer and Principal Financial Officer, of the effectiveness of the design and operation of the Company s disclosure controls and procedures pursuant to Exchange Act Rule 13a-14. Based upon the foregoing, the Company s Principal Executive Officer and Principal Financial Officer concluded that the Company s disclosure controls and procedures are effective in timely alerting them to material information relating to the Company (including its consolidated subsidiary) required to be included in the Company s Exchange Act reports. There have been no significant changes in the Company s internal controls or in other factors which could significantly affect internal controls subsequent to the date the Company carried out its evaluation. 
+ 
+ Item 9b. Other Information 
+ 
+ None. 
+ 
+ Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ 
+ Not applicable. 
+ 
+ PART III 
+ 
+ Item 10. Directors, Executive Officers, and Corporate Governance. 
+ 
+ Steven Cardin, 71, an economist, formerly with The Conference Board and the consulting firm, National Economics Research Associates, has been Chairman and CEO of the Company for over five years, and a Director since 1984. Jeffrey Chernow, 70, a lawyer, formerly Director of Enforcement in the Division of Securities, State of Maryland, Office of the Attorney General, has been in private practice in Maryland for over five years, and a Director since 1989. Stephen Fante, 66, a CPA, was Chairman and CEO of IMS, which provided computerized accounting systems to the oil and gas industry and was a reseller of microcomputer products to the Fortune 1000, and was Chairman and CEO of Seca Graphics, Inc., which provided design and mapping services and software to the cable television and telecommunications industries. Mr. Fante has been a private investor for the last five years. Mr. Fante has been a Director since 1989. 
+ 
+ The Board of Directors has a separately-designated standing Audit Committee which is comprised of Messrs. Fante and Chernow. The Board of Directors has determined that the Company has at least one Audit Committee Financial Expert serving on its Audit Committee: Mr. Fante is an Audit Committee Financial Expert, and he is independent, as that term is defined by NASDAQ. 
+ 
+ Messrs. Chernow's, Cardin's, and Fante's terms as Directors continue until their successors are duly elected and qualified. The Company has adopted a code of ethics that applies to its principal executive officer, principal financial officer, principal accounting officer or controller, or persons performing similar functions. 
+
+Item 11. Executive Compensation. 
+ 
+ The following table sets forth the compensation earned by the Company's only executive officer during the last two fiscal years. 
+ 
+ Summary Compensation Table 
+ 
+ Name and Principal Position 
+ Year 
+ Salary ) 
+ Total ) 
+ 
+ Steven Cardin, CEO 
+ 2021 
+ 3,000 
+ 3,000 
+ 
+ Steven Cardin, CEO 
+ 2020 
+ 3,000 
+ 3,000 
+
+Effective October 1, 2021, the Company renewed its Employment Agreement with Mr. Cardin. The Agreement has an initial term of five years and provides an annual base salary equal to the maximum annual contribution to a Health Flexible Spending Arrangement (FSA) and an annual bonus of no less than 20 of the Company's earnings before tax, payable, at Mr. Cardin's election, in either cash or common stock of the Company at then fair market value. The Company will match any contribution that Mr. Cardin makes to the Company s FSA. 
+ 
+ The Employment Agreement also provides that, in the event the Company terminates Mr. Cardin's employment by reason of his permanent disability, the Company shall (1) pay Mr. Cardin a total sum, payable in 24 equal monthly installments, equal to 50 of the base salary to which he would have been entitled had he performed his duties for the Company for a period of two years after his termination, less the amount of any disability insurance benefits he receives under policies maintained by the Company for his benefit, and (2) continue to provide Mr. Cardin with all fringe benefits provided to him at the time of his permanent disability for a period of two years following such permanent disability. 
+ 
+ The Employment Agreement also provides that, in the event the Company terminates Mr. Cardin's employment in breach of the agreement, or in the event that Mr. Cardin terminates his employment because his circumstances of employment shall have changed subsequent to a change in control, then the Company shall pay Mr. Cardin a lump sum payment equal to the sum of (1) twice Mr. Cardin's base salary during the 12-month period immediately preceding the termination of his employment, (2) the greater of (a) twice any annual bonus paid to or accrued with respect to Mr. Cardin by the Company during the fiscal year immediately preceding the fiscal year in which his employment shall have been terminated or (b) three times his base salary during the 12-month period immediately preceding the termination of his employment, and (3) any other compensation owed to Mr. Cardin at the time of his termination. The agreement also provides that the Company will indemnify Mr. Cardin against any special tax that may be imposed on him as a result of any such termination payment made by the Company pursuant to the agreement. 
+ 
+ Under the Employment Agreement, a change in control is deemed to occur (1) if there is a change of one-third of the Board of Directors under certain conditions, (2) if there is a sale of all or substantially all of the Company's assets, (3) upon certain mergers or consolidations, (4) under certain circumstances if another person (or persons) acquires 20 or more of the outstanding voting shares of the Company, or (5) if any person except Mr. Cardin shall own or control half of such outstanding voting shares. 
+ 
+ Director Compensation 
+ 
+ Name 
+ Fees Earned or Paid in Cash 
+ ) 
+ Total 
+ ) 
+ 
+ Jeffrey Chernow 
+ 12,000 
+ 12,000 
+ 
+ Stephen Fante 
+ 12,000 
+ 12,000 
+
+Each Director who is not also an officer of the Company receives 1,000 per month for service as a Director. No additional fees are paid for service on Committees of the Board or for attendance at Board or Committee Meetings. 
+ 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ The following table sets forth information concerning each person who, as of December23, 2021, is known to the Company to be the beneficial owner of more than five percent of the Company's common stock and information regarding common stock of the Company beneficially owned, as of December 23, 2021, by all Directors and executive officers and by all Directors and executive officers as a group. 
+ 
+ Name and Address of Beneficial Owner 
+ Shares of Common Stock 
+ Beneficially Owned 
+ Percent 
+ of Class 
+ 
+ Steven Cardin (Director and Executive Officer) 
+ 700 Colorado Blvd #273 Denver CO 80206-4084 
+ 7,233,866 
+ 60.2 
+ 
+ All Directors and Executive Officers as a Group (1 Person) 
+ 7,233,866 
+ 60.2 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence. 
+ 
+ Messrs. Fante and Chernow are both independent under the NASDAQ independence standards. 
+ 
+ Item 14. Principal Accountant Fees and Services 
+ 
+ Audit Fees. Billed for FY21: 11,000. Billed for FY20: 17,000. 
+ 
+ Audit-Related Fees. None. 
+ 
+ Tax Fees. None. 
+ 
+ All Other Fees. None. 
+ 
+ The Company does not engage an accountant to render audit or non-audit services unless the engagement is explicitly pre-approved by the Company s Audit Committee. 
+
+PART IV 
+ 
+ Item 15. Exhibits and Financial Statement Schedules 
+ 
+ 3(i) 
+ Articles of Incorporation - Incorporated herein by reference to Exhibit B to August 20, 1985 Proxy Statement 
+ 
+ 3(ii) 
+ Bylaws - Incorporated herein by reference to Exhibit C to August 20, 1985 Proxy Statement 
+ 
+ 10 
+ Employment Agreement between the Company and Steven Cardin 
+ 
+ 14 
+ Code of Ethics - Incorporated herein by reference to Form 10-K for fiscal year ended September 30, 2003 
+ 
+ 21 
+ List of subsidiaries - Incorporated herein by reference to Form 10-K for fiscal year ended September 30, 1997 
+ 
+ 31. 
+ Rule 13a-14(a)/15d-14(a) Certifications 
+ 
+ 32. 
+ Section 1350 Certifications 
+ 
+ 101.xml 
+ XBRL Instance Document 
+ 
+ 101.xsd 
+ XBRL Taxonomy Extension Schema Document 
+ 
+ 101.cal 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.def 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.lab 
+ XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.pre 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+ 
+ ___________________________ 
+
+Furnished. Not Filed. Not incorporated by reference. Not subject to liability. 
+ 
+ Item 16. Form 10-K Summary. 
+ 
+ None. 
+ 
+ SIGNATURES 
+ 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+ALTEX INDUSTRIES, INC. 
+
+/s/ STEVEN CARDIN 
+
+By: Steven Cardin, CEO 
+
+Date: December 23, 2021 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+/s/ STEVEN CARDIN 
+
+By: 
+ Steven Cardin, Director, Principal Executive Officer, Principal Financial Officer, and Principal Accounting Officer 
+
+Date: December 23, 2021 
+
+/s/ JEFFREY CHERNOW 
+
+By: 
+ JEFFREY CHERNOW, Director 
+
+Date: December 23, 2021 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Board of Directors and Shareholders 
+ Altex Industries, Inc. 
+ 
+ Opinion on the Financial Statements 
+ 
+ We have audited the accompanying consolidated balance sheets of Altex Industries, Inc. (the Company) as of September 30, 2021 and 2020, and the related consolidated statements of operations, stockholders equity, and cash flows for the years then ended, and the related notes (collectively referred to as the financial statements ). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company as of September 30, 2021 and 2020, and the results of its operations and its cash flows for the years then ended in conformity with accounting principles generally accepted in the United States of America. 
+ 
+ Basis for Opinion 
+ 
+ These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB . 
+ 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+ 
+ Our audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and the significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe our audits provide a reasonable basis for our opinion. 
+ 
+ Critical Audit Matter 
+ 
+ The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions on the critical audit matter or on the accounts or disclosures to which it relates. 
+ 
+ Revenue Recognition 
+ 
+ As discussed in Note 1 to the consolidated financial statements, the Company recognizes revenue in accordance with ASC 606, Revenue from Contracts with Customers. Revenue from oil and gas production is recognized based on the sales date as reported to the Company by the operators of oil and gas production facilities in which the Company has a royalty interest. 
+ 
+ Auditing management s evaluation of the royalty revenue from its agreements with customers involves significant judgment based on the estimates of the revenue recorded and their subsequent true-up once payment is received. 
+ To evaluate the appropriateness and accuracy of the revenue recorded by management, we evaluated management s assessment of the revenue recorded based on the Company s royalty interest. 
+ 
+ /s/ M K CPAS, PLLC 
+ 
+ M K CPAS, PLLC 
+ We have served as the Company s auditor since 2020 
+ 
+ Houston, TX 
+ December 23, 2021 
+ 
+ ALTEX INDUSTRIES, INC. 
+ Consolidated Balance Sheets 
+
+September 30 
+ 
+ 2021 
+ 2020 
+ 
+ Assets 
+
+Current assets 
+
+Cash and cash equivalents 
+
+Accounts receivable 
+
+Other 
+
+Total current assets 
+
+Property and equipment, at cost 
+
+Proved oil and gas properties (successful efforts method) 
+
+Less accumulated depreciation, depletion, and valuation provision 
+ ) 
+ ) 
+ 
+ Net property and equipment 
+
+Right-of-Use Asset 
+
+Total assets 
+
+Liabilities and Stockholders Equity 
+
+Current liabilities 
+
+Accounts payable 
+
+Operating lease liability 
+
+Accrued expenses, related party 
+
+Other accrued expenses 
+
+Total current liabilities 
+
+Long-term operating lease liability 
+
+Total liabilitites 
+
+Commitments and Contingencies 
+
+Stockholders equity 
+
+Preferred stock, par value. Authorized shares, issued 
+
+Common stock, par value. Authorized shares; issued and outstanding, and , respectively 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+ ) 
+ ) 
+ 
+ Total stockholders' equity 
+
+Total stockholders' equity and liabilities 
+
+See accompanying notes to consolidated financial statements. 
+ 
+ ALTEX INDUSTRIES, INC. 
+ Consolidated Statements of Operations 
+ Years ended September 30 
+ 
+ 2021 
+ 2020 
+ 
+ Revenue 
+
+Oil and gas sales 
+
+Total revenue 
+
+Operating expense 
+
+Production taxes 
+
+General and administrative 
+
+Depreciation, depletion, amortization and valuation provision 
+
+Total operating expense 
+
+Other income 
+
+Interest income 
+
+Other income 
+
+Total other income 
+
+Net loss 
+ ) 
+ ) 
+
+Basic and diluted loss per share 
+ ) 
+ ) 
+
+Basic and diluted weighted average shares outstanding 
+
+See accompanying notes to consolidated financial statements. 
+ 
+ ALTEX INDUSTRIES, INC. 
+ Consolidated Statements of Cash Flows 
+ Years ended September 30 
+ 
+ 2021 
+ 2020 
+ 
+ Cash flows used in operating activities 
+
+Net loss 
+ ) 
+ ) 
+ 
+ Adjustments to reconcile net loss to net cash used in operating activities 
+
+Depreciation, depletion, amortization, and valuation provision 
+
+Increase in accounts receivable 
+ ) 
+
+Increase in other assets 
+ ) 
+
+Decrease in accounts payable 
+ ) 
+ ) 
+ 
+ Increase in other accrued expenses 
+
+Net cash used in operating activities 
+ ) 
+ ) 
+
+Cash flows from investing activities 
+
+Cash flows from financing activities 
+
+Acquisition of treasury stock 
+ ) 
+ ) 
+ 
+ Net cash used in financing activities 
+ ) 
+ ) 
+
+Net decrease in cash and cash equivalents 
+ ) 
+ ) 
+ 
+ Cash and cash equivalents at beginning of year 
+
+Cash and cash equivalents at end of year 
+
+Noncash Investing and Financing Activities 
+
+Retirement of treasury stock 
+
+Recognition of right-of-use asset and operating lease liability 
+
+See accompanying notes to consolidated financial statements. 
+
+ALTEX INDUSTRIES, INC. 
+ Consolidated Statements of Stockholders' Equity 
+
+Common Stock 
+ Additional paid- in capital 
+ Accumulated deficit 
+ Treasury stock 
+ Total stockholders' equity 
+ 
+ Shares 
+ Amount 
+
+Balance at September 30, 2019 
+
+) 
+
+Net loss 
+
+) 
+ 
+ ) 
+ 
+ Acquisition of treasury stock, 44,008 shares at 0.09 per share 
+
+) 
+ ) 
+ 
+ Retirement of treasury stock 
+ ) 
+ 
+ ) 
+
+Balance at September 30, 2020 
+
+) 
+
+Net loss 
+
+) 
+ 
+ ) 
+ 
+ Acquisition of treasury stock, 130,000 shares at 0.15 per share 
+
+) 
+ ) 
+ 
+ Retirement of treasury stock 
+ ) 
+ ) 
+ ) 
+
+Balance at September 30, 2021 
+
+) 
+
+See accompanying notes to consolidated financial statements. 
+
+ALTEX INDUSTRIES, INC. AND SUBSIDIARY 
+ Notes to Consolidated Financial Statements 
+ September 30, 2021 and 2020 
+
+Reclassifications: Certain amounts in the prior year have been reclassified to conform to the current year presentation. 
+
+and a net operating loss carryforward of , of which 2,259,000 will expire in the years 2028 through 2037. The approximate tax effect of each type of temporary difference and carryforward that gives rise to a significant portion of deferred tax assets at September 30, 2021, computed in accordance with the Income Tax Topic (Topic 740) of the Codification, is as follows: 
+
+Net operating loss carryforward 
+
+Accrued shareholder salary 
+
+Deletion and amortization 
+
+Total Net Deferred Tax Assets 
+
+Less valuation allowance 
+ 
+ ) 
+ 
+ ) 
+ 
+ Net Deferred Tax Asset 
+
+A valuation allowance has been provided because of the uncertainty of future realization. Income tax expense is different from amounts computed by applying the statutory Federal income tax rate for the following reasons: 
+ ) 
+ 
+ Impact of rate change effective January 1, 2018 
+
+Change in valuation allowance for net deferred tax assets 
+ 
+ ) 
+ ) 
+ 
+ Income tax expense 
+
+As of September 30, 2021, the Company has no unrecognized tax benefit as a result of uncertain tax positions. As of September 30, 2021, the Company s tax years that remain subject to examination are 2018 - 2021 (Federal jurisdiction) and 2017 - 2021 (state jurisdictions). 
+ 
+ in salary payable to the Company s president, pursuant to his employment agreement, that the president has elected to defer, as well as in related accrued payroll tax. The Company s president may require the Company to pay the unpaid salary and payroll tax liability at any time. 
+ 
+ Effective October 1, 2016, the Company renewed its employment agreement with its president. The agreement had an initial term of five years and provided an annual base salary equal to the maximum annual contribution to a Health Flexible Spending Arrangement (FSA) and an annual bonus of no less than 20 of the Company's earnings before tax, payable, at the president s election, in either cash or common stock of the Company at then fair market value. The Company matched the contributions that the president made to the Company s FSA. The agreement contained provisions providing for payments to the president in the event of his disability or termination of his employment. At September 30, 2020, accrued expense, related party, includes 1,024,000 in salary payable to the Company s president, pursuant to his employment agreement, that the president has elected to defer, as well as 49,000 in related accrued payroll tax. The Company s president may require the Company to pay the unpaid salary and payroll tax liability at any time. 
+ 
+ . In 2021 . In 2020 
+ 
+ termination fee. If the landlord sells the premises to an unrelated third party, the new landlord may reduce the term to one year from the date of purchase. The Company incurred lease cost of in 2021 and in 2020. The landlord may increase annual rent no more than CPI. On October 1, 2019, the Company adopted Financial Accounting Standards Board (FASB) ASC 842, Leases. The Company adopted ASC 842 using the optional modified retrospective transition method. Under this transition method, the Company did not recast the prior period financial statements. The adoption of ASC 842 resulted in the recognition of a right-of-use asset and a corresponding lease liability of at September 30, 2020. 
+
+2023 
+
+2024 
+
+2025 
+
+Total 
+
+Less: accumulated depreciation, depletion and impairment 
+
+) 
+
+) 
+ 
+ Total oil and natural gas properties 
+
+As the Company does not own working interests, it is not liable for the cost of well abandonment or surface restoration, so no ARO liability was recorded at September 30, 2021 and 2020. 
+ 
+ shares of its common stock for an average price of 0.15 per share and retired the shares. In the year ended September 30, 2020, the Company purchased shares of its common stock for an average price of 0.09 per share and retired the shares. 
+
+Accumulated depreciation, depletion, amortization and valuation allowance 
+ 
+ ) 
+ 
+ Net capitalized cost 
+
+II. Estimated Quantities of Reserves . Reed W. Ferrill Associates, Inc., an independent engineering firm, prepared the Company s estimate of reserves, future production, and income. The estimated reserves include only those quantities that are expected to be commercially recoverable at prices and costs in effect at the balance sheet dates under existing regulations and with conventional operating methods. Proved, developed reserves represent only those reserves expected to be recovered from existing wells. 
+
+Revisions of previous estimates 
+ 
+ ) 
+ 
+ Production 
+ 
+ ) 
+ 
+ Balance at September 30, 2020 
+
+Revisions of previous estimates 
+
+Production 
+ 
+ ) 
+ 
+ Balance at September 30, 2021 
+
+III. Standardized Measure of Discounted Cash Flows . The standardized measure of discounted cash flows from the Company s oil and gas reserves is summarized below. Cash flows are discounted at an annual rate of 10 . This does not result in an estimate of fair market or present value. Prices are the average of the NYMEX settlement price on the first day of each month of the year, corrected to received price. Cash flows are computed by applying that price to estimated production, less estimated expenditures incurred in estimated production. Income tax expense is not included because of the anticipated utilization of net operating loss and depletion carryforwards. The estimation of reserves is complex and subjective, and reserve estimates fluctuate in light of new production data. 
+
+Estimated future expenditures 
+ ) 
+ ) 
+ 
+ Estimated future net revenue 
+
+10 annual discount of estimated future net revenue 
+ ) 
+ ) 
+ 
+ Present value of estimated future net revenue 
+
+IV. Summary of Changes in Standardized Measure of Discounted Future Net Cash Flows 
+
+Sales, net of production costs 
+ ) 
+ ) 
+ 
+ Net change in prices and cost of future production 
+ 
+ ) 
+ 
+ Revisions of quantity estimates 
+ 
+ ) 
+ 
+ Accretion of discount 
+
+Change in production rates and other 
+
+Present value of estimated future net revenue, end of year 
+
+<EX-10>
+ 2
+ altx_ex10.htm
+ EMPLOYMENT AGREEMENT BETWEEN THE COMPANY AND STEVEN CARDIN
+
+Exhibit 10 
+ EMPLOYMENT AGREEMENT 
+ This Agreement is made December 6, 2021, effective as of October 1, 2021, between Altex Industries, Inc. (the Company and Steven Cardin Cardin ). 
+ I n consideration of the mutual promises and agreements contained herein, it is agreed that: 
+ 1. Nature of Employment; Term of Employment . The Company shall employ Cardin, and Cardin shall serve the Company and its subsidiary companies (collectively referred to herein as the Business as an employee, upon the terms and conditions contained herein, for a term commencing as of the effective date of this Agreement and continuing until October 1, 2026, which term shall thereafter automatically be renewed for successive five-year periods unless either Cardin or the Company shall give the other notice (a Nonrenewal Notice to the contrary at least six months prior to the commencement of any such five-year period. Cardin agrees to devote such working time, energy, and efforts to the business of the Company as shall be reasonably necessary for the performance of his duties hereunder during the term of his employment with the Company, provided, however, that his primary endeavor shall be that of President and Chief Executive Officer of the Company. Notwithstanding anything to the contrary contained herein, Cardin shall not be prevented from investing and managing his assets and from undertaking civic or charitable endeavors in such form or manner as will not unreasonably interfere with the services to be rendered by him hereunder. 
+ 2. Duties and Powers as Employee; Location . Cardin shall be the President and Chief Executive Officer of the Company and shall have the duties, powers, and responsibilities attendant to the office of President and Chief Executive Officer of the Company. Cardin shall be permitted to perform his duties at any time in any location, in his sole and absolute subjective discretion, provided, however, that at no time shall he perform his duties in a location that materially impairs his effectiveness or causes the Business to incur material unnecessary expense. 
+ 3. Compensation . 
+ a. As compensation for the services to be rendered by Cardin during the term of his employment with the Company, the Company shall pay or cause to be paid to Cardin an amount equal to the maximum amount that may be lawfully contributed to a Health Flexible Spending Arrangement FSA ), which amount shall be matched by the Company . 
+ b. In addition to the foregoing annual base salary, the Company shall pay or cause to be paid to Cardin an annual bonus of no less than 20 of the Company's earnings before tax, payable within 120 days after the end of each of the Company's fiscal years beginning during the term of Cardin's employment hereunder, regardless of whether such payment date falls outside of the term of this Agreement, in either cash or common stock of the Company at then fair market value, in whichever form Cardin may elect. 
+ 4. Expenses . Cardin shall be promptly reimbursed for all expenditures he makes on behalf of the Company for which he supplies reasonable documentation. 
+ 5. Fringe Benefits . Cardin shall receive benefits, in addition to the compensation provided for herein, during his term of employment with the Company not less than those substantially equivalent to those granted to other executives or employees of the Business, provided, however, that such benefits shall at all times be at least equal to those benefits Cardin is receiving as of the date hereof. Such benefits, including, but not limited to, medical and dental insurance for Cardin, his spouse or devoted companion, and his children who live at home with him when not at college or university, and long-term care insurance for Cardin and his spouse or devoted companion, shall be 
+ 
+ provided to Cardin without charge to him and shall be increased in accordance with increases in such benefits granted to other executives or employees of the Business. 
+ 6. Office Facilities . The Company shall provide Cardin with an office, furniture, computer equipment, office supplies, telecommunications equipment, internet connections and devices, and clerical assistance appropriate to the President and Chief Executive Officer. 
+ 7. Termination . 
+ a. The Company shall have the right to terminate Cardin's employment pursuant to this Agreement only for (i) Permanent Disability, as hereinafter defined, pursuant to Subparagraph 7.b. hereof or for (ii) Cause, as hereinafter defined, pursuant to Subparagraph 7.c. hereof. Cardin shall have the right to terminate his employment pursuant to this Agreement upon 30 days written notice to the Company in the event that (a) the Company shall fail to make any payment due to Cardin under this Agreement, (b) the Company shall fail to perform any other covenant or agreement to be performed by it hereunder, or (c) the Company shall take any action prohibited by this Agreement, provided, however, that the Company shall have the right to cure such breach of this Agreement within 10 days of receipt of notice of Cardin's intent to terminate his employment pursuant to this Agreement. 
+ b. The Company shall have the right to terminate Cardin's employment pursuant to this Agreement for Permanent Disability, as hereinafter defined, only in accordance with the provisions of this Subparagraph 7.b. In the event of Cardin's Permanent Disability, as hereinafter defined, the Company shall have the right to terminate Cardin's employment pursuant to this Agreement by giving not less than 30 days written notice to Cardin. As used herein, the term Permanent Disability shall mean, and be limited to, any illness, injury, or other physical or mental disability that prevents Cardin from performing his duties on behalf of the Company, as provided for herein, for a continuous period in excess of 180 days. Such termination shall require a good faith determination by at least a two-thirds majority of the Company's Board of Directors that the termination of this Agreement is necessary for Permanent Disability. In the event of termination for such Permanent Disability, the Company agrees (i) to pay or cause to be paid to Cardin a total sum, payable in 24 equal monthly installments, equal to 50 of the base salary to which he would have been entitled had he performed his duties for the Company for a period of two years after his termination, less the amount of any disability insurance benefits he received under policies maintained by the Company for his benefit, and (ii) to continue to provide Cardin with all fringe benefits being provided to him pursuant to Paragraph 5. hereof at the time of Cardin's Permanent Disability for a period of two years following such Permanent Disability. 
+ c. The Company shall have the right to terminate Cardin's employment pursuant to this Agreement for Cause, as hereinafter defined, only in accordance with the provisions of this Subparagraph 7.c. Such termination shall require a good faith determination by at least a two-thirds majority of the Company's Board of Directors that the termination of this Agreement is necessary for Cause. As used in this Agreement, the term Cause shall mean and be limited to: (i) the conviction of Cardin for a felony under state or federal law, or the equivalent under foreign law, which, in the opinion of at least a two thirds majority of the Board of Directors of the Company, has a material adverse effect on the Company or on the ability of Cardin to perform his duties hereunder, unless Cardin performed the acts underlying such felony in good faith and in a manner Cardin reasonably believed to be in or not opposed to the best interests of the Company; or (ii) the material breach by Cardin of the provisions of this Agreement; provided, however, that the Company shall have given Cardin written notice (a) that at least a two-thirds majority of the Board of Directors has made a good faith determination that there has been a material breach by Cardin of the provisions of this Agreement, (b) specifying such breach, and (c) permitting Cardin to cure such breach within a period of 30 days after receipt of such notice. 
+ 
+ 8. Special Severance Payment . 
+ a. If, subsequent to a Change in Control, as hereinafter defined, Cardin's Circumstances of Employment, as hereinafter defined, shall have changed, Cardin shall have the right to terminate his employment pursuant to this Agreement by written notice to the Company specifying the event relied on for such termination. 
+ b. In the event Cardin terminates his employment pursuant to Subparagraph 7.a. or 8.a. of this Agreement, or if the Company shall terminate Cardin's employment in breach of this Agreement, then the Company shall pay to Cardin, within 15 days of such termination, in cash, the Special Severance Payment, as hereinafter defined. 
+ c. A Change in Control shall be deemed to occur upon (i) the election of one or more individuals to the Board of Directors of the Company which election results in one-third of the Directors of the Company consisting of individuals who have not been Directors of the Company for at least two years, unless such individuals have been elected as Directors or nominated for election as Directors by four-fifths of the Directors of the Company who have been Directors of the Company for at least two years, (ii) the sale by the Company of all or substantially all of its assets to any individual, partnership, firm, trust, corporation, or other similar entity Person ), the consolidation of the Company with any Person, the merger of the Company with any Person as a result of which merger the Company is not the surviving entity as a publicly-held corporation, (iii) the sale or transfer of shares of the Company by the Company and/or any one or more of its shareholders, in one or more transactions, related or unrelated, to one or more Persons under circumstances whereby any Person, other than Cardin, and any Person that directly or indirectly controls, or is controlled by, or is under common control with any other Person, other than Cardin, shall own, after such sales and transfers, at least twenty percent (20 but less than one-half, of the shares of the Company having voting power for the election of Directors, unless such sale or transfer has been approved in advance or within sixty days thereafter by four-fifths of the Directors of the Company who have been Directors of the Company for at least two years, (iv) the sale or transfer of shares of the Company by the Company and/or any one or more of its shareholders, in one or more transactions, related or unrelated, to one or more Persons under circumstances whereby any Person and any Person that directly controls, or is controlled by, or is under common control with any other Person, other than Cardin, shall own, after such sales and transfers, at least one-half of the shares of the Company having voting power for the election of Directors, or (v) any other transaction or series of transactions, related or unrelated, with one or more Persons, under circumstances whereby any Person and its Affiliates, other than Cardin, shall own, after such transaction or series of transactions, at least one-half of the shares of the Company having voting power for the election of Directors. 
+ d. Cardin's Circumstances of Employment shall have changed if, in Cardin's sole and absolute subjective discretion, there shall have occurred any of the following events: (i) a material reduction or change in Cardin's duties or responsibilities, or a removal from or failure to be elected to a previously held position; (ii) a breach by the Company of any provision of this Agreement; (iii) a reduction in the fringe benefits made available by the Company to Cardin; (iv) a material diminution in Cardin's status, working conditions, or economic benefits; (v) any action which materially and adversely affects Cardin's ability to maximize his annual bonus payable pursuant to Subparagraph 3.b. hereof, including without limitation, the diversion of business from the Company or the failure of the Company to be adequately capitalized; or (vi) any action which substantially impairs the prestige or esteem of Cardin in relation to any other employee of the Business. 
+ e. The Special Severance Payment shall mean a lump sum payment equal to the sum of (i) the product of two and the total base salary paid to or accrued with respect to Cardin by the Company pursuant to Subparagraph 3.a. hereof during the 12-month period immediately preceding the termination of Cardin's employment, (ii) the greater of (a) the product of two and the annual bonus paid to or accrued with respect to Cardin by the Company pursuant to Subparagraph 3.b. hereof with respect to the fiscal year of the Company immediately preceding the fiscal year in which Cardin's employment shall have been terminated and (b) the product of three and the total base salary paid to or accrued with respect to Cardin by the Company pursuant to Subparagraph 3.a. hereof during the 
+ 
+ 12-month period immediately preceding the termination of Cardin's employment, and (iii) any other compensation owed to Cardin pursuant to this Agreement at the time of such termination. 
+ f. In the event that, as a result of any of the payments or other consideration provided for or contemplated by this Agreement or otherwise, a tax (an Excise Tax shall be imposed upon Cardin or threatened to be imposed upon Cardin by virtue of the application of Section 4999(a) of the Internal Revenue Code of 1986 (the Code as now in effect or as the same may from time to time be amended, or any similar provisions of state or local tax law, the Company shall indemnify and hold Cardin harmless from and against all such taxes (including additions to tax, penalties, and interest and additional Excise Taxes, whether applicable to payments pursuant to this Paragraph 8. or payments pursuant to other provisions of this Agreement) incurred by, or imposed upon, Cardin and all expenses arising therefrom. Each indemnity payment to be made by the Company hereunder shall be increased by the amount of all Federal, state, and local tax liabilities (including additions to tax, penalties and interest, and Excise Tax) incurred by, or imposed upon, Cardin so that the effect of receiving all such payments will be such that Cardin shall be held harmless on an after-tax basis from the amount of all Excise Taxes imposed upon payments made to Cardin by the Company pursuant to this Agreement and otherwise other than pursuant to this Subparagraph 8.f. and all taxes, penalties, and interest, and Excise Taxes with respect to payments pursuant to this Subparagraph 8.f. under the laws of all Federal, state, and local taxing authorities and so that Cardin shall not incur any out-of-pocket costs or expenses of any kind or nature on account of the Excise Tax and the receipt of the indemnity payments to be made by the Company pursuant hereto. 
+ g. Each indemnity payment to be made to Cardin pursuant to Subparagraph 8.f. shall be paid within fifteen business days of delivery of a written request (a Request for such payment to the Company (which request may be made prior to the time Cardin is required to file a tax return showing a liability for an Excise Tax or other tax). A Request shall set forth the amount of the indemnity payment due to Cardin and the manner in which such amount was calculated, and Cardin shall thereafter submit such other evidence of the indemnity to which Cardin is entitled as the Company shall reasonably request. 
+ h. Cardin agrees to notify the Company (i) within fifteen business days of being informed by a representative of the Internal Revenue Service (the Service or any state or local taxing authority that the Service or such authority intends to assert that an Excise Tax is or may be payable, (ii) within fifteen business days of Cardin's receipt of a revenue agent's report (or similar document) notifying Cardin that an Excise Tax may be imposed, and (iii) within fifteen business days of Cardin's receipt of a Notice of Deficiency under Section 6212 of the Code or similar provision under state or local law which is based in whole or in part upon an Excise Tax and/or a payment made to Cardin pursuant to Subparagraph 8.f. 
+ i. After receiving any of the aforementioned notices, and subject to Cardin's right to control any and all administrative and judicial proceedings with respect to, or arising out of, the examination of Cardin's tax returns, except as such proceedings relate to an Excise Tax, the Company shall have the right (i) to examine all pertinent records, files, and other information and documentation in Cardin's possession or under Cardin's control, (ii) to be present and to participate in all administrative and judicial proceedings with respect to an Excise Tax, including the right to appear and act for Cardin at such proceedings in resisting any contentions made by the Service or a state or local taxing authority with respect to an Excise Tax and to file any and all written responses in connection therewith, (iii) to forego any and all administrative appeals, proceedings, hearings, and conferences with the Service or a state or local taxing authority with respect to an Excise Tax on Cardin's behalf, and (iv) to pay any tax increase on Cardin's behalf and to control all administrative and judicial proceedings with respect to a claim for refund from the Service or state or local taxing authority with respect to such tax increase. 
+ 
+ j. The Company shall be solely responsible for all legal, accounting, or other expenses (whether of Cardin's representatives or the representative of the Company) incurred in connection with any such administrative or judicial proceedings insofar as they relate to an Excise Tax or other tax increases resulting therefrom, and Cardin agrees to execute and file, or cause to be executed and filed, such instruments and documents, including, without limitation, waivers, consents, and Powers of Attorneys, as the Company shall reasonably deem necessary or desirable in order to enable it to exercise the rights granted to It pursuant to Subparagraph 8.i. hereof. 
+ k. The liability of the Company shall not be affected by Cardin's failure to give any notice provided for in Subparagraph 8.h. hereof unless such failure materially prejudices its ability to defend itself as provided for. Cardin may not compromise or settle a claim which he is indemnified against hereunder without the consent of the Company, unless Cardin can establish by a preponderance of the evidence that the decision of the Company was not made in the good faith belief that a materially more favorable result could be obtained by continuing to defend against the claim (or prosecute a claim for refund). 
+ 9. Indemnification . The Company shall take such steps as Cardin shall reasonably deem necessary, including, but not limited, to obtaining liability insurance, to indemnify Cardin, to the fullest extent possible, under the provisions of the laws of any state in which the Company or, as applicable, any of its subsidiaries is incorporated or is qualified to do business for any act or failure to act in the course of his duties. 
+ 10. Prior agreements; entire agreement . This Agreement sets forth the entire agreement and understanding between the Company and Cardin, and any and all prior written or oral agreements or understandings between the Company and Cardin are hereby superseded. 
+ 11. Severability . If any provision of this Agreement or the application thereof to any Person or circumstance shall to any extent be held in any proceeding to be invalid or unenforceable, the remainder of this Agreement, or the application of such provision to Persons or circumstances other than those to which it was held to be invalid or unenforceable, shall not be affected thereby, and each remaining provision shall be valid and be enforced to the fullest extent permitted by law. 
+ 12. No Waiver . Except as otherwise specifically provided herein, no delay on the part of any party hereto in exercising any right, power, or privilege hereunder shall operate as a waiver thereof; nor shall any waiver on the part of any party hereto of any right, power, or privilege hereunder operate as a waiver of any other right, power, or privilege hereunder; nor shall any single or partial exercise of any right, power, or privilege hereunder preclude any other or further exercise thereof or the exercise of any other right, power, or privilege hereunder. 
+ 13. Headings and Other Matters . The headings of the paragraphs of this Agreement are inserted for convenience of reference only and shall not be considered a part hereof. Words used herein, regardless of the number and gender specifically used, shall be deemed and construed to include any other number, singular or plural, and any other gender, masculine, feminine or neuter, as the context requires. 
+ 14. Successors and Assigns . This Agreement is binding on the Company and its successors, executors, and assigns, regardless of any change in the business structure of the Company, be it through spinoff, merger, sale of stock, sale of assets, or any other transaction. 
+ 15. Governing Law . This Agreement shall be construed under and governed by the laws of the State of Colorado without regard to conflict of laws principles. 
+ 
+ 16. Jurisdiction; Service of Process . Any action or proceeding seeking to enforce any provision of, or based on any right arising out of, this Agreement may be brought against any of the parties in the courts of the State of Colorado, County of Denver, or, if it has or can acquire jurisdiction, in the United States District Court for the District of Colorado, and each of the parties consents to the jurisdiction of such courts (and of the appropriate appellate courts) in any such action or proceeding and waives any objection to venue laid in those courts. Process in any action or proceeding referred to in the preceding sentence may be served on any party anywhere. 
+ 17. Amendments . This Agreement may be amended or modified only by an agreement in writing between the Company and Cardin. 
+ 18. Costs and expenses in event of breach. In the event that either party breaches any of the terms of this Agreement, the non-defaulting party shall be reimbursed by such defaulting party for all reasonable costs and expenses, including, but not limited to, reasonable attorneys' fees incurred by the non-defaulting party enforcing the terms of this Agreement and/or recovering damages as a result of any such breach. 
+ 19. Digital signatures. A copy of this Agreement in PDF or other digitized image format shall be deemed an original document for all purposes. 
+ 20. Notices . Any notices, requests, instructions, or other documents to be given hereunder by Cardin to the Company or by the Company to Cardin shall be in writing and shall be sent by email. If to the Company then to: dawnk@kaczaraccounting.com . If to Cardin, then to: scardin@gmail.com. Notices will be deemed effective upon receipt. Either party may change its email address by prior notice to the other. 
+
+ALTEX INDUSTRIES, INC. 
+
+By: 
+
+Steven H. Cardin, President 
+
+STEVEN H. CARDIN 
+
+</EX-10>
+
+<EX-31>
+ 3
+ altx_ex31.htm
+ CERTIFICATIONS
+
+Exhibit 31 
+ 
+ Rule 13a-14(a)/15d-14(a) Certifications 
+ 
+ I, Steven Cardin, certify that: 
+ 
+ 1. I have reviewed this annual report on Form 10-K of Altex Industries, Inc.; 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+ 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ 
+ b. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ 
+ c. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+ 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+ 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+ 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ /s/ STEVEN CARDIN 
+ 
+ December 23, 2021 
+ 
+ Steven Cardin 
+ 
+ Date 
+ 
+ Principal Executive Officer and 
+
+Principal Financial Officer 
+
+</EX-31>
+
+<EX-32>
+ 4
+ altx_ex32.htm
+ CERTIFICATIONS
+
+Exhibit 32 
+ 
+ Certification pursuant to 18 U.S.C. Section 1350, 
+ as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ In connection with the Annual Report of Altex Industries, Inc. (the Company on Form 10-K for the period ending September 30, 2021, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Steven Cardin, Chief Executive Officer and Principal Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that the Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that the information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+ 
+ Date: December 23, 2021 
+ 
+ /s/ STEVEN CARDIN 
+
+By: 
+ Steven Cardin 
+
+Chief Executive Officer and 
+
+Principal Financial Officer 
+
+</EX-32>
+
+<EX-101.CAL>
+ 5
+ altx-20210930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ altx-20210930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ altx-20210930_lab.xml
+ XBRL TAXONOMY EXTENSION LABELS LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ altx-20210930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
+<EX-101.SCH>
+ 9
+ altx-20210930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+

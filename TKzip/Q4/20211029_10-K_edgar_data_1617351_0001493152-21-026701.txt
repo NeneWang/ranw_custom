@@ -1,0 +1,4130 @@
+<Header>
+<FileStats>
+    <FileName>20211029_10-K_edgar_data_1617351_0001493152-21-026701.txt</FileName>
+    <GrossFileSize>5022129</GrossFileSize>
+    <NetFileSize>150510</NetFileSize>
+    <NonText_DocumentType_Chars>1034706</NonText_DocumentType_Chars>
+    <HTML_Chars>1769201</HTML_Chars>
+    <XBRL_Chars>864413</XBRL_Chars>
+    <XML_Chars>1079700</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-21-026701.hdr.sgml : 20211029
+<ACCEPTANCE-DATETIME>20211029133606
+ACCESSION NUMBER:		0001493152-21-026701
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		73
+CONFORMED PERIOD OF REPORT:	20210731
+FILED AS OF DATE:		20211029
+DATE AS OF CHANGE:		20211029
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Mu Yan Technology Group Co., Ltd
+		CENTRAL INDEX KEY:			0001617351
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-DRUGS PROPRIETARIES & DRUGGISTS' SUNDRIES [5122]
+		IRS NUMBER:				471549749
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-198808
+		FILM NUMBER:		211362202
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ROOM 6509B, 65/F, SEG PLAZA,
+		STREET 2:		NO. 1002 HUAQIANG NORTH ROAD,  FUTIAN
+		CITY:			SHENZHEN
+		STATE:			F4
+		ZIP:			518028
+		BUSINESS PHONE:		86 755-86819100
+
+	MAIL ADDRESS:	
+		STREET 1:		ROOM 6509B, 65/F, SEG PLAZA,
+		STREET 2:		NO. 1002 HUAQIANG NORTH ROAD,  FUTIAN
+		CITY:			SHENZHEN
+		STATE:			F4
+		ZIP:			518028
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LEPOTA INC
+		DATE OF NAME CHANGE:	20140819
+
+</SEC-Header>
+</Header>
+
+ 0001493152-21-026701.txt : 20211029
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+ANNUAL
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended: , 
+
+TRANSITION
+ REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition fiscal year from _______________ to ________________ 
+
+Commission
+file number 
+
+(Formerly
+Lepota Inc.) 
+
+ (Exact
+name of registrant as specified in its charter) 
+
+(State
+ or other jurisdiction of 
+ 
+ (I.R.S.
+ Employer 
+ 
+ incorporation
+ or organization) 
+ 
+ Identification
+ No.) 
+
+, 
+
+, 
+
+ People s
+Republic of 
+
+ (Address
+of principal executive offices) 
+
+Registrant s
+telephone number, including area code 
+
+Securities
+registered pursuant to Section 12(b) of the Act: None 
+
+Securities
+registered pursuant to Section 12(g) of the Exchange Act: None 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Yes
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. 
+
+Yes
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter fiscal year that the registrant was required to file such reports), and
+(2) has been subject to such filing requirements for the past 90 days. 
+
+No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter fiscal year that the registrant
+was required to submit such files). 
+
+No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition fiscal year for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+ Yes
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). 
+
+ Yes
+
+market value has been computed based upon the
+fact that no active trading market has been established as of July 31, 2021. 
+
+The
+number of shares of the registrant s Common Stock outstanding as of September 30, 2021 was . 
+
+Documents
+ incorporated by reference 
+ None 
+
+MU
+YAN TECHNOLOGY GROUP CO., LIMITED 
+
+ANNUAL
+REPORT ON FORM 10-K 
+
+For
+the Fiscal Year Ended July 31, 2021 
+
+TABLE
+OF CONTENTS 
+
+PAGE 
+ 
+ PART
+ I 
+
+Item
+ 1. 
+ 
+ Business 
+ 
+ 3 
+ 
+ Item
+ 1A. 
+ 
+ Risk
+ Factors 
+ 
+ 11 
+ 
+ Item
+ 1B. 
+ 
+ Unresolved
+ Staff Comments 
+ 
+ 20 
+ 
+ Item
+ 2. 
+ 
+ Properties 
+ 
+ 20 
+ 
+ Item
+ 3. 
+ 
+ Legal
+ Proceedings 
+ 
+ 21 
+ 
+ Item
+ 4. 
+ 
+ Mine
+ Safety Disclosures 
+ 
+ 21 
+
+PART
+ II 
+
+Item
+ 5. 
+ 
+ Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 
+ 21 
+ 
+ Item
+ 6. 
+ 
+ Selected
+ Financial Data 
+ 
+ 22 
+ 
+ Item
+ 7. 
+ 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 22 
+ 
+ Item
+ 7A. 
+ 
+ Quantitative
+ and Qualitative Disclosures About Market Risk 
+ 
+ 28 
+ 
+ Item
+ 8. 
+ 
+ Financial
+ Statements and Supplementary Data 
+ 
+ 28 
+ 
+ Item
+ 9. 
+ 
+ Changes
+ in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 
+ 48 
+ 
+ Item
+ 9A. 
+ 
+ Controls
+ and Procedures 
+ 
+ 48 
+ 
+ Item
+ 9B. 
+ 
+ Other
+ Information 
+ 
+ 49 
+
+PART
+ III 
+
+Item
+ 10. 
+ 
+ Directors,
+ Executive Officers and Corporate Governance 
+ 
+ 49 
+ 
+ Item
+ 11. 
+ 
+ Executive
+ Compensation 
+ 
+ 52 
+ 
+ Item
+ 12. 
+ 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ 52 
+ 
+ Item
+ 13. 
+ 
+ Certain
+ Relationships and Related Transactions, and Director Independence 
+ 
+ 53 
+ 
+ Item
+ 14. 
+ 
+ Principal
+ Accountant Fees and Services 
+ 
+ 54 
+
+PART
+ IV 
+
+Item
+ 15 
+ 
+ Exhibits
+ and Financial Statement Schedules 
+ 
+ 54 
+ 
+ Item
+ 16 
+ 
+ Form
+ 10-K Summary 
+ 
+ 54 
+
+SIGNATURES 
+
+55 
+
+2 
+
+CAUTIONARY
+NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This
+Annual Report contains forward-looking statements. A forward-looking statement is a projection about a future event or result, and whether
+the statement comes true is subject to many risks and uncertainties. These statements often can be identified by the use of terms such
+as may, will, expect, believe, anticipate, estimate, 
+ approximate or continue, or the negative thereof. The actual results, performance, achievements or activities
+of Mu Yan Technology Group Co., Limited (the Company ), either express or implied, will likely differ from projected results
+or activities of the Company as described in this Annual Report, and such differences could be material. You should review carefully
+all information included in this Annual Report. 
+
+You
+should rely only on the forward-looking statements that reflect management s view as of the date of this Annual Report. We undertake
+no obligation to publicly revise or update these forward-looking statements to reflect subsequent events or circumstances. You should
+also carefully review the risk factors described in this Annual Report and in other documents we file from time to time with the Securities
+and Exchange Commission (the SEC ). We are hereby identifying important factors that could cause actual results to differ
+materially from those contained in any forward-looking statements made by us or on our behalf. Factors that might cause such a difference
+include, but are not limited to, those discussed in the section entitled Risk Factors. 
+
+FINANCIAL
+STATEMENTS AND CURRENCY PRESENTATION 
+
+We
+prepare our consolidated financial statements in accordance with accounting principles generally accepted in the United States of America
+and publish our financial statements in United States Dollars. 
+
+REFERENCES 
+
+In
+this Annual Report, China or PRC refers to all parts of the People s Republic of China other than the
+Special Administrative Region of Hong Kong. The terms we, our, us and the Company 
+refer to Mu Yan Technology Group Co., Limited and, where the context so requires or suggests, our direct and indirect subsidiaries. References
+to dollars, U.S. Dollars or US are to United States Dollars, HK are to Hong
+Kong Dollars and RMB are to Chinese Renminbi. 
+
+PART
+I 
+
+ITEM
+1. BUSINESS 
+
+History
+of the Company 
+
+The
+Company was originally incorporated in Nevada under the name Lepota Inc. on December 9, 2013. It maintains its principal
+executive offices at Room 1703B, Zhongzhou Building, No. 3088 Jintian Road, Futian District, Shenzhen
+City, Guangdong Province, People s Republic of China 518000 . The Company was formed for the purpose of importing and distributing
+cosmetics into the Russian Federation. 
+
+The
+Company filed a registration statement on Form S-1 with the SEC on September 18, 2014, which was declared effective on May 4, 2016. However,
+because the Company did not identify a viable business
+model or engage in any business prior to the share exchange described below, it was a shell company until August 12, 2020. 
+
+On
+February 18, 2020, as a result of a private transaction, 5,000,000 shares of the Company s Common Stock were transferred from Rene
+Lawrence, its controlling shareholder, to certain purchasers (the Purchasers ), with Zhao Lixin, the Company s current
+CEO, becoming a 53.8 holder of the voting rights of the Company and the Purchasers becoming the controlling shareholders. As a result
+of the change of control, Iurii Iurtaev resigned as the Company s president, chief executive officer, chief financial officer and
+director and Rene Lawrence resigned as the Company s secretary. Zhao Lixin was then named 
+
+3 
+
+President,
+Chief Executive Officer, Chief Financial Officer, Treasurer, Secretary and Chairman of the Board of Directors of the Company. 
+
+On
+August 12, 2020 (the Closing Date ), the Company closed on a share exchange (the Share Exchange with Mu Yan
+Technology Holding Co., Limited, a limited liability company incorporated in Samoa Mu Yan Samoa and the holders of 100 
+of the outstanding shares of Mu Yan Samoa s common stock (the Mu Yan Shareholders ). As a result, Mu Yan Samoa is
+now a wholly owned subsidiary of the Company. Under the Share Exchange Agreement, the Mu Yan Shareholders exchanged 100 of the outstanding
+shares of Mu Yan Samoa s common stock for 300,000,000 shares of the Company s Common Stock. As a result of the Share Exchange,
+effective September 22, 2020, the Company s name was changed to Mu Yan Technology Group Co., Limited. 
+
+For
+accounting purposes, the Share Exchange was treated as a recapitalization of the Company with Mu Yan Samoa as the acquirer. When we refer
+in this Annual Report to business and financial information for fiscal years prior to the consummation of the Share Exchange, we are
+referring to the business and financial information of Mu Yan Samoa unless the context suggests otherwise. 
+
+As
+a result of the closing of the Share Exchange, the Mu Yan Shareholders own approximately 98 of the total outstanding common shares of
+the Company and the former shareholders of the Company own approximately 2 . The shares issued to the Mu Yan Shareholders in connection
+with the Share Exchange were not registered under the Securities Act of 1933 (the Securities Act in reliance upon the
+exemption from registration provided by Section 4(a)(2) of the Securities Act, which exempts transactions by an issuer not involving
+any public offering. These securities may not be offered or sold absent registration or an applicable exemption from the registration
+requirement. 
+
+As
+a result of the recapitalization described above, management of the Company believes that the Company is no longer a shell company. The
+Company s operations now consist of the operations of Mu Yan Samoa and its subsidiaries. 
+
+Throughout
+the remainder of this Annual Report, when we use phrases such as we, our, company and us, 
+we are referring to the Company and all of its subsidiaries, as a combined entity. 
+
+4 
+
+Corporate
+Structure 
+
+The
+following chart sets forth our corporate structure immediately following the Share Exchange: 
+
+The
+Company is a US holding company incorporated in Nevada on December 9, 2013, which operates through its wholly owned subsidiary, Mu Yan
+Technology Holding Co., Limited Mu Yan Samoa ), a company incorporated under the laws of Samoa on April 2, 2020. The Company s
+entire business, including operations, employees, sales and marketing and research and development, are all conducted within the PRC. 
+
+Mu
+Yan Samoa was incorporated in Samoa on April 2, 2020. It is an investment holding company and is 100 owned by the Company. 
+
+Mu
+Yan (Hong Kong) Technology Co., Limited Mu Yan HK ), was established in the Hong Kong Special Administrative Region HKSAR of the People s Republic of China (the PRC on January 10, 2020. It is an investment holding company and is 100 
+owned by Mu Yan Samoa. 
+
+Mu
+Yan (Shenzhen) Media Technology Co., Limited Mu Yan WFOE was established as a wholly foreign owned enterprise on June
+10, 2020 in Shenzhen City, Guangdong Province, under the laws of the PRC. It is an investment holding company and is 100 owned by Mu
+Yan HK. 
+
+Mu
+Yan (Shenzhen) Digital Technology Co., Limited. Mu Yan Shenzhen was incorporated on September 30, 2019 and registered
+in Shenzhen City, Guangdong Province, under the laws of the PRC. It is 100 owned by Mu Yan WFOE. It is the Company s only operating
+subsidiary, and is engaged in the business of consumer electronics and advertising. 
+
+5 
+
+The
+Business of Mu Yan (Shenzhen) Digital Technology Co., Limited 
+
+We
+are a technology company developing and selling our Mobile Advertising Backpack, called Huobaobao, with a programmable screen for the
+offline marketing and advertising industry. Our backpacks are currently sold to consumers in the PRC, although we intend to expand into
+the global market. We display advertising content to target customers through our backpack s advertising screen. The Huobaobao
+can display a variety of content, from videos to photos to text. 
+
+Our
+Services and Products 
+
+Graphic
+rendering of our Huobaobao backpack being worn by consumers. 
+
+We
+sell our Huobaobao, backpack with a programmable screen for the marketing and advertising industry. We are currently selling the fourth
+iteration of our Huobaobao backpack. The Huobaobao backpack includes a SIM card, and advertising content that is developed in partnership
+with our advertising partners and our internal team is sent online from our platform servers to the backpack and played in real time.
+The backpack includes a GPS navigation card which allows advertisers to localize and geotarget advertisements to their target consumers.
+The ads are distributed on the backs of our customers and are viewed by a wide variety of individuals in a wide variety of physical places
+within China. According to internal Company data, the Huobaobao backpack is viewed by an average of 4.2 people for every fifteen-second
+advertisement that is broadcast on its screen, which management estimates to be an increase in viewers of two hundred times that of traditional
+leaflets and five times that of elevator ads. 
+
+6 
+
+Exhibition
+for the fourth iteration of our Huobaobao backpack. 
+
+The
+fourth iteration of our Huobaobao backpack has a 4,096 color advertising screen for high color accuracy and super clear video advertising,
+with lower power consumption and an enhanced battery life compared to the last iteration. With 256MB of high speed memory, it can play
+about 90 videos or more than 300 animated advertisements offline. It supports precise indoor and outdoor full coverage positioning function
+with accurate advertising trajectory, both outdoors or indoors such as in shopping malls, subways and other indoor locations. The fourth
+iteration backpack is made of ABS, which is a high strength, durable and water proof thermoplastic polymer material, while the back of
+the backpack is made of a strong, breathable, honeycomb polyester fiber for comfort in addition to good wrinkle resistance and elasticity
+for shape retention and shape recoverability. 
+
+We
+hire third-party manufacturing partners to manufacture our Huobaobao backpacks. We believe outsourcing to third parties allows us to
+maximize our capacity and maintain flexibility, while reducing capital expenditures and improving our product upgrades. 
+
+The
+Huobaobao backpack will play fifty different advertisements per day, each of which lasts approximately fifteen seconds. Each Huobaobao
+backpack includes a power bank and, depending on the price of that accessory, can run content for as little as four hours and as much
+as twelve hours. 
+
+Sales
+and Marketing 
+
+From
+January 1, 2020 to July 31, 2021, we sold 32,900 Huobaobao backpacks into the Chinese market, or an average of 2,350 backpacks per month.
+Our sales have been affected by the COVID-19 pandemic and new product roll-out delays. The Company is in the process of building a website
+to feature its Huobaobao backpacks and expects to launch the website before the end of the 2021 calendar year. We are communicating with
+marketing agencies to assist with brand development, but we currently do not rely heavily on advertising to sell our backpacks. 
+
+7 
+
+The
+Advertising Market in China 
+
+Currently
+we only sell our products within the PRC, although our goal is to expand into the international market. According to www.baidu.com ,
+the advertising market in the PRC generates approximately 700 billion per year in revenue, compared to approximately 3.9 trillion worldwide.
+The proportion of advertising revenue to total GDP in China is 0.84 percent, compared to 1.5 to 2 percent in developed economies. We
+believe that the advertising business in China has substantial room for growth. 
+
+Our
+Competitive Strengths 
+
+Whereas
+traditional leaflet advertising and elevator advertising in China is limited in reach, intrusive, traditional and monotonous, advertisements
+and content on our Huobaobao backpacks are viewed in myriad settings, are iconic and inherently amusing, and the displays on the backpack
+screen can be in the form of video, photos or text. We enjoy first-mover advantage in an exciting new advertising category in China. 
+
+According
+to internal Company data, the Huobaobao backpack is viewed by an average of 4.2 people for every fifteen-second advertisement that is
+broadcast on its screen, which management estimates to be an increase in viewers which is two hundred times that of traditional leaflets
+and five times that of elevator ads. 
+
+We
+have a professional and experienced senior management team with a proven track record. By combining our management s capability
+in implementing growth strategies and our in-depth knowledge in the offline marketing and advertising industry, our management team is
+confident that our company is poised to capture potential market opportunities in offline marketing and advertising segments. 
+
+Our
+Huobaobao backpacks are able to deliver ads in highly crowded spaces (eg, business districts) in an interesting and non-intrusive manner,
+resulting in high engagement and broad distribution of ads. The Huobaobao backpack supports video, photo and textual content, enhancing
+creativity and flexibility for advertisers. 
+
+The
+Company has a content editing team that ensures the safety, appeal and effectiveness of the content that is broadcasted on the Huobaobao
+screen, ensuring that advertisements attract the attention of consumers and produce a high rate of return to brands. 
+
+Growth
+Strategy 
+
+In
+addition to sales of our Huobaobao backpack, we have initiated advertising services by directly selling and monetizing advertising on
+our backpacks. Although our progress in this area was slowed by the process of updating and upgrading our backpack, the Company is intent
+on growing our advertising revenue now that development of the fourth iteration backpack is complete. To ensure the quality of our business,
+we enforce strict rules for potential advertisers, prohibiting advertisements that relate to drugs or which are in violation of relevant
+PRC law. 
+
+We
+have noted the development of mobile advertising, digital advertising and scene advertising within the advertising industry in recent
+years, and we believe that the mobile scene advertising space is an emerging and viable opportunity for our Huobaobao backpack. 
+
+Research
+and Development 
+
+As
+consumer behaviors and preferences constantly evolve, the demands from the end customers become increasingly diversified. We make significant
+investments in technology to optimize our existing products and services and to develop new iterations of our backpack so that we can
+expand our offerings to satisfy diversifying user demands. 
+
+8 
+
+Intellectual
+Property 
+
+Trademarks.
+ We have obtained a trademark (registration certificate number 52594864, granted September 14, 2021) in the PRC territory for the
+below logo: 
+
+Copyrights.
+ The following table lists the copyrights held by Mu Yan Shenzhen: 
+
+List
+ of Copyrights 
+ 
+ No. 
+ 
+ Name 
+ 
+ Category 
+ 
+ Registration
+ Number 
+ 
+ Date
+ of Registration 
+ 
+ Country 
+ 
+ 1 
+ 
+ Huobaobao
+ backpack system service software 
+ 
+ Computer
+ software 
+ copyright
+ registration 
+ certificate 
+
+No.
+ 5056656 
+ 
+ February
+ 26, 2020 
+ 
+ China 
+ 
+ 2 
+ 
+ V1.0
+ of Fireland Mall System of MuYan commodity information traceability system 
+ 
+ Computer
+ software 
+ copyright
+ registration 
+ certificate 
+
+No.
+ 5054919 
+ 
+ February
+ 25, 2020 
+ 
+ China 
+ 
+ 3 
+ 
+ V1.0
+ of Intelligent Terminal Control and Communication System Internet of Things 
+ 
+ Computer
+ software 
+ copyright
+ registration 
+ certificate 
+ 
+ No.
+ 5057274 
+ 
+ February
+ 26, 2020 
+ 
+ China 
+
+Patents.
+ The following table lists the patents held by Mu Yan Shenzhen: 
+
+List
+ of Patents 
+ 
+ No. 
+ 
+ Name 
+ 
+ Category 
+ 
+ Patent
+ No. 
+ 
+ Date
+ of Grant 
+ 
+ Country 
+ 
+ 1. 
+ 
+ safety
+ protection device for LED advertising backpack 
+
+patent
+ for utility models 
+ 
+ No.
+ 12892645 
+ 
+ April
+ 6, 2021 
+ 
+ China 
+ 
+ 2. 
+ 
+ backpack
+ with easily disassembled LED advertising display screen 
+
+patent
+ for utility models 
+ 
+ No.
+ 12885006 
+ 
+ April
+ 6, 2021 
+ 
+ China 
+ 
+ 3. 
+ 
+ display
+ screen mounting bracket for LED advertising backpack 
+
+patent
+ for utility models 
+ 
+ No.
+ 12893472 
+ 
+ April
+ 6, 2021 
+ 
+ China 
+ 
+ 4. 
+ 
+ LED
+ lamp mounting structure on a backpack 
+
+patent
+ for utility models 
+ 
+ No.
+ 12880808 
+ 
+ April
+ 6, 2021 
+ 
+ China 
+ 
+ 5. 
+ 
+ safety
+ power supply device for LED advertising backpack 
+
+patent
+ for utility models 
+ 
+ No.
+ 12879326 
+ 
+ April
+ 6, 2021 
+ 
+ China 
+ 
+ 6. 
+ 
+ an
+ interface protection device for LED advertising backpack 
+
+patent
+ for utility models 
+ 
+ No.
+ 12894841 
+ 
+ April
+ 6, 2021 
+ 
+ China 
+ 
+ 7. 
+ 
+ LED
+ advertising backpack 
+ 
+ patent
+ for utility models 
+ 
+ No.
+ 13234508 
+ 
+ May
+ 25, 2021 
+ 
+ China 
+
+9 
+
+Competition 
+
+We
+are subject to intense competition from providers of similar products, as well as potential new types of services and products. Our competitors
+may have substantially more cash, traffic, technical, performer and other resources, as well as broader product or service offerings
+and can leverage their relationships based on other products or services to gain a larger share of marketing budgets from customers.
+We believe that our ability to compete effectively depends upon many factors, including our ad targeting capabilities, market acceptance
+of our products, our marketing and selling efforts and the strength and reputation of our brand. We also experience significant competition
+for highly skilled personnel, including management, designers, sales personnel and marketing personnel. Our growth strategy depends in
+part on our ability to retain our existing personnel and add additional highly skilled employees. 
+
+Employees 
+
+As
+of October, 2021, we have 37 full-time employees, including 9 in the technical department, 6 in the finance department, 5 in the system
+operation and maintenance center, 7 in the operations department, 6 in the general management office, 3 in the human resources administration
+center and 1 in the outreach department. We are compliant with local prevailing wage, contractor licensing and insurance regulations,
+and have good relations with our employees. 
+
+Corporation
+Information 
+
+Our
+principal executive offices are located at Room 1703B, Zhongzhou Building, No. 3088, Jintian Road, Futian District, Shenzhen City, Guangdong
+Province, People s Republic of China 518000. Our telephone number at this address is +86 755-83257679. 
+
+Government
+Regulation 
+
+Our
+Company and our advertisers are subject to the Advertising Law of the People s Republic of China (the Advertising Law ).
+The Advertising Law is a national regulation that regulates various advertising matters. Its main purpose is to regulate the advertising
+market and protect the rights and interests of consumers. The regulation was enacted on October 27, 1994 and formally took effect on
+February 1, 1995. On November 13, 2009, the National Consumers Association of China revealed that the Advertising Law of the People s
+Republic of China will be revised to include relevant regulations on celebrity endorsement advertising. The new content severely punished
+celebrity endorsements and false advertising. On February 21, 2014, the Legislative Affairs Office of the State Council of China publicly
+solicited opinions on the Advertising Law of the People s Republic of China (Revised Draft) (Draft for Solicitation of Comments). 
+The draft for comments clearly stated that no organization or individual shall send advertisements to landline telephones, mobile phones
+or personal e-mail addresses without the consent or request of the parties concerned, or if the parties expressly refuse. On April 24,
+2015, the Advertising Law of the People s Republic of China was revised and passed, and it came into force on September
+1, 2015. 
+
+10 
+
+ITEM
+1A. RISK FACTORS 
+
+Risks
+Related to Our Business and Industry 
+
+Limited
+Operating History 
+
+We
+were a shell company until August 2020, and have a limited operating history and minimal revenues or earnings from operations since inception.
+ You should consider our future prospects in light of the risks and uncertainties experienced
+by early stage companies. Some of these risks and uncertainties relate to our ability to: 
+
+offer
+ products of sufficient quality to attract and retain a larger customer base; 
+
+attract
+ additional customers and increase spending per customer; 
+
+increase
+ awareness of our products and continue to develop customer loyalty; 
+
+respond
+ to competitive market conditions; 
+
+respond
+ to changes in our regulatory environment; 
+
+maintain
+ effective control of our costs and expenses; 
+
+raise
+ sufficient capital to sustain and expand our business; and 
+
+attract,
+ retain and motivate qualified personnel. 
+
+If
+we are unsuccessful in addressing any of these risks and uncertainties, our business may be materially and adversely affected. 
+
+We
+envision a period of rapid growth that may impose a significant burden on our administrative and operational resources, which, if not
+effectively managed, could impair our growth. 
+
+Our
+strategy envisions a period of rapid growth that may impose a significant burden on our administrative and operational resources. The
+growth of our business will require significant investments of capital and management s close attention. Our ability to effectively
+manage our growth will require us to substantially expand the capabilities of our administrative and operational resources and to attract,
+train, manage and retain qualified management, sales and marketing and other personnel; we may be unable to do so. In addition, our failure
+to successfully manage our growth could result in our sales not increasing commensurately with capital investments. If we are unable
+to successfully manage our growth, we may be unable to achieve our goals. 
+
+Limited
+Liability 
+
+Our
+Certificate of Incorporation and Bylaws generally provide that the liability of our officers and directors will be eliminated to the
+fullest extent allowed under law for their acts on behalf of the Company. 
+
+Uncertain
+Government Regulation 
+
+Our
+business is subject to extensive regulation. In addition, we may be adversely affected as a result of new or revised legislation or regulations
+imposed by the SEC or other United States governmental regulatory authorities or self-regulatory organizations that supervise the markets.
+We also may be adversely affected by changes in the interpretation or enforcement of existing laws and rules by these governmental authorities
+and self-regulatory organizations. 
+
+We
+Use A Variety Of Raw Materials, Components And Contract Manufacturing Services In Our Businesses, And Significant Shortages, Supplier
+Capacity Constraints, Supplier Production Disruptions Or Price Increases Could Increase Our Operating Costs And Adversely Impact The
+Competitive Positions Of Our Products. 
+
+Our
+reliance on suppliers (including third-party manufacturing suppliers and logistics providers) and commodity markets to secure raw materials
+and components used in our products exposes us to volatility in the prices and availability of these materials. A disruption in deliveries
+from our suppliers, supplier capacity constraints, supplier production disruptions, supplier quality issues, closing or bankruptcy of
+our suppliers, price increases or decreased availability of raw materials or commodities, could have a material adverse effect on our
+ability to meet our commitments to customers or could increase our operating costs. We believe that our supply management and production
+practices are based on an appropriate balancing of the foreseeable risks and the costs of alternative practices. Nonetheless, price increases,
+supplier capacity constraints, supplier production disruptions or the unavailability of some raw materials may have a material adverse
+effect on our competitive position, results of operations, cash flows or financial condition. 
+
+11 
+
+Economic
+Conditions 
+
+Our
+business will be materially affected by conditions in the financial markets and economic conditions or events in the United States, the
+PRC and throughout the world that are outside our control, including, without limitation, changes in interest rates, availability of
+credit, inflation rates, economic uncertainty, changes in laws (including laws relating to taxation), trade barriers, commodity prices,
+currency exchange rates and controls and national and international political circumstances (including wars, terrorist acts or security
+operations). These factors may affect the level and volatility of securities prices and the liquidity and value of investments, and we
+may not be able to or may choose not to manage our exposure to these market conditions and/or other events. In the event of a market
+downturn, our businesses could be adversely affected in different ways. 
+
+We
+May Incur Material Product Liability Claims That Could Increase Our Costs And Harm Our Financial Condition And Operation Results. 
+
+It
+is possible that widespread product liability claims could increase our costs, and adversely affect our revenues and operating income.
+Moreover, liability claims arising from a serious adverse event may increase our costs through higher insurance premiums and deductibles,
+and may make it more difficult to secure adequate insurance coverage in the future. In addition, as we do not maintain product liability
+insurance, we will be responsible to cover future product liability claims, thereby requiring us to pay substantial monetary damages
+and adversely affecting our business. We haven t had any incident wherein damages were reported and determined to be caused by
+our products. 
+
+Implications
+Of Being An Emerging Growth Company 
+
+As
+a company with less than 1,070,000,000 billion in annual gross revenue during its last fiscal year, we qualify as an emerging
+growth company as defined in the Jumpstart Our Business Startups Act (the JOBS Act ). For as long as a company is
+deemed to be an emerging growth company, it may take advantage of specified reduced reporting and other regulatory requirements that
+are generally unavailable to other public companies. These provisions include: 
+
+a
+ requirement to have only two years of audited financial statements and only two years of related Management s Discussion and
+ Analysis included in an initial public offering registration statement; 
+
+an
+ exemption to provide less than five years of selected financial data in an initial public offering registration statement; 
+
+an
+ exemption from the auditor attestation requirement in the assessment of our internal controls over financial reporting; 
+
+an
+ exemption from the adoption of new or revised financial accounting standards until they would apply to private companies; 
+
+an
+ exemption from compliance with any new requirements adopted by the Public Company Accounting Oversight Board requiring mandatory
+ audit firm rotation or a supplement to the auditor s report in which the auditor would be required to provide additional information
+ about the audit and the financial statements of the issuer; and 
+
+reduced
+ disclosure about our executive compensation arrangements. 
+
+An
+emerging growth company is also exempt from Section 404(b) of the Sarbanes Oxley Act, which requires that the registered accounting firm
+shall attest to and report on the assessment of the effectiveness of the internal control structure and procedures for financial reporting.
+Similarly, as a smaller reporting company we are exempt from Section 404(b) of the Sarbanes-Oxley Act and our independent registered
+public accounting firm will not be required to formally attest to the effectiveness of our internal control over financial reporting
+until such time as we cease being a smaller reporting company. 
+
+12 
+
+As
+an emerging growth company, we are exempt from Section 14A (a) and (b) of the Securities Exchange Act of 1934 (the Exchange Act ),
+which require stockholder approval of executive compensation and golden parachutes. 
+
+Section
+107 of the JOBS Act provides that an emerging growth company can take advantage of the extended transition period provided in Section
+7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words, an emerging growth company can
+delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. We have elected
+to take advantage of the benefits of this extended transition period. Our financial statements may therefore not be comparable to those
+of companies that comply with such new or revised accounting standards. 
+
+We
+would cease to be an emerging growth company upon the earliest of: 
+
+the
+ first fiscal year following the fifth anniversary of the completion of our initial public offering; 
+
+the
+ first fiscal year after our annual gross revenues are 1.07 billion or more; 
+
+the
+ date on which we have, during the previous three-year period, issued more than 1 billion in non-convertible debt securities; or 
+
+as
+ of the end of any fiscal year in which the market value of our Common Stock held by non-affiliates exceeded 700 million as of the
+ end of the second quarter of that fiscal year. 
+
+We
+Have Identified Material Weaknesses In Our Internal Control Over Financial Reporting. If We Fail To Maintain An Effective System Of Internal
+Control Over Financial Reporting, We May Not Be Able To Accurately Report Our Financial Results Or Prevent Fraud. As A Result, Stockholders
+Could Lose Confidence In Our Financial And Other Public Reporting, Which Would Harm Our Business And The Trading Price Of Our Shares. 
+
+Effective
+internal control over financial reporting is necessary for us to provide reliable financial reports and, together with adequate disclosure
+controls and procedures, are designed to prevent fraud. Any failure to implement required new or improved controls, or difficulties encountered
+in their implementation, could cause us to fail to meet our reporting obligations. Ineffective internal control could also cause investors
+to lose confidence in our reported financial information, which could have a negative effect on the trading price of our shares. 
+
+We
+have identified material weaknesses in our internal control over financial reporting in the Company and in Mu Yan Samoa and its subsidiaries.
+As defined in Regulation 12b-2 under the Exchange Act, a material weakness is a deficiency, or combination of deficiencies,
+in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our annual
+or interim consolidated financial statements will not be prevented, or detected on a timely basis. Specifically, we determined that we
+had the following material weaknesses in our internal control over financial reporting: (i) we have limited controls over information
+processing; (ii) we have inadequate segregation of duties; (iii) we do not have a formal audit committee with a financial expert; and
+(iv) we do not have sufficient formal written policies and procedures for accounting and financial reporting with respect to the requirements
+and application of both generally accepted accounting principles in the United States of America, or GAAP, and SEC guidelines. Although
+the financial statements and footnotes are reviewed by our management, we do not have a formal policy to review significant accounting
+transactions and the accounting treatment of such transactions. 
+
+13 
+
+Even
+if we develop effective internal controls over financial reporting, such controls may become inadequate due to changes in conditions,
+or the degree of compliance with such policies or procedures may deteriorate, which could result in the discovery of additional material
+weaknesses and deficiencies. In any event, the process of determining whether our existing internal control over financial reporting
+is compliant with Section 404 of the Sarbanes-Oxley Act Section 404 and is sufficiently effective requires the investment
+of substantial time and resources by our senior management. As a result, this process may divert internal resources and take a significant
+amount of time and effort to complete. In addition, we cannot predict the outcome of this process and whether we will need to implement
+remedial actions in order to establish effective controls over financial reporting. The determination of whether or not our internal
+controls are sufficient, and any remedial actions required could result in us incurring additional costs that we did not anticipate,
+including the hiring of additional outside consultants. We may also fail to timely complete our evaluation, testing and any remediation
+required to comply with Section 404. 
+
+We
+are required, pursuant to Section 404, to furnish a report by management on, among other things, the effectiveness of our internal control
+over financial reporting. However, for as long as we are a smaller reporting company, our independent registered public
+accounting firm will not be required to attest to the effectiveness of our internal control over financial reporting pursuant to Section
+404. While we could be a smaller reporting company for an indefinite amount of time, and thus relieved of the above-mentioned attestation
+requirement, an independent assessment of the effectiveness of our internal control over financial reporting could detect problems that
+our management s assessment might not. Such undetected material weaknesses in our internal control over financial reporting could
+lead to financial statement restatements and require us to incur the expense of remediation. 
+
+Rising
+Competition May Materially Affect Our Operations And Financial Condition 
+
+We
+operate in a highly competitive and rapidly evolving field, and new developments are expected to continue at a rapid pace. Competitors
+may succeed by expanding their capacity or succeed in developing products that are more efficient, easier to use or less expensive than
+those which have been or are being developed by us that would render our technology and products obsolete and non-competitive. Any of
+these actions by our competitors could adversely affect our sales. 
+
+Additionally,
+several companies are developing similar and substitute products to address the same LED backpack field that we are targeting. These
+competitors may have greater financial and technical resources, productivity and marketing capabilities and facilities and human resources,
+or they may have a better quality of products, service and production cycle. The competition from these competitors may adversely affect
+our business. 
+
+An
+increase in competition could result in material selling price reductions or loss of our market share, which could have an adverse material
+impact on our operations and financial condition. 
+
+Negative
+Publicity May Harm Our Reputation And Have A Material Adverse Effect On Our Business And Operating Results. 
+
+Negative
+publicity involving us, our customers, our management, distributors or our business model may materially and adversely harm our business.
+We cannot assure you that we will be able to defuse negative publicity about us, our management and/or our products to the satisfaction
+of our investors, customers and distributors. Such negative publicity, especially when it is directly addressed against us or our products,
+may also require us to engage in defensive media campaigns. This may cause us to increase our marketing expenses and divert our management s
+attention and may adversely impact our business and results of operations. 
+
+The
+Continuing And Collaborative Efforts Of Our Senior Management And Key Employees Are Crucial To Our Success, And Our Business May Be Harmed
+If We Were To Lose Their Services. 
+
+We
+depend on the continued contributions of our senior management, especially the executive officers listed in the Management 
+section of this report, and other key employees, many of whom are difficult to replace. The loss of the services of any of our executive
+officers or other key employees could materially harm our business. Competition for qualified talent in the market is intense. Our future
+success is dependent on our ability to attract a significant number of qualified employees and retain existing key employees. If we are
+unable to do so, our business and growth may be materially and adversely affected. Our need to significantly increase the number of our
+qualified employees and to retain key employees may cause us to materially increase compensation-related costs, including stock-based
+compensation. 
+
+14 
+
+We
+May Not Be Able To Adequately Protect Our Intellectual Property, Which Could Cause Us To Be Less Competitive And Third-Party Infringements
+Of Our Intellectual Property Rights May Adversely Affect Our Business. 
+
+We
+rely on a combination of copyright, trademark and trade secret laws and restrictions on disclosure to protect our intellectual property
+rights. Despite our efforts to protect our proprietary rights, third parties may attempt to copy or otherwise obtain and use our intellectual
+property or seek court declarations that they do not infringe upon our intellectual property rights. Monitoring unauthorized use of our
+intellectual property is difficult and costly, and we cannot be certain that the steps we have taken will prevent misappropriation of
+our intellectual property. From time to time, we may have to resort to litigation to enforce our intellectual property rights, which
+could result in substantial costs and diversion of our resources. 
+
+We
+May Be Subject To Intellectual Property Infringement Claims Or Other Allegations By Third Parties For Information Or Content Displayed
+On Our Products, Or Distributed To Our Customers, Which May Materially And Adversely Affect Our Business, Financial Condition And Prospects. 
+
+We
+may in the future be subject to intellectual property infringement claims or other allegations by third parties for products and services
+we provide or for information or content displayed on our product, or distributed to our end customers, which may materially and adversely
+affect our business, financial condition and prospects. Defending intellectual property litigation is costly and can impose a significant
+burden on our management and employees, and there can be no assurances that favorable final outcomes will be obtained in all cases. Such
+claims, even if they do not result in liability, may harm our reputation. Any resulting liability or expenses, or changes required to
+our platform to reduce the risk of future liability, may have a material adverse effect on our business, financial condition and prospects. 
+
+Performance
+Of Our Products Depends On The Performance Of The Internet Infrastructure And Fixed Telecommunications Networks. 
+
+We
+primarily rely on a limited number of telecommunication service providers to provide our end customers with data communications capacity
+through local telecommunications lines and Internet data centers to control the LED screen of our products. Our end customers have limited
+access to alternative networks or services in the event of disruptions, failures or other problems with Internet infrastructure or the
+fixed telecommunications networks provided by telecommunication service providers. 
+
+Our
+Business Operations May Be Adversely Affected By The Outbreak Of Coronavirus COVID-19 Or Future Epidemics Or Pandemics. 
+
+In
+December 2019, a novel strain of coronavirus COVID-19 was reported in Wuhan, China. On March 11, 2020, the World Health
+Organization categorized it as a pandemic. To reduce the spread of COVID-19, the Chinese government employed measures including city
+lockdowns, quarantines, travel restrictions, suspension of business activities and school closures. 
+
+The
+COVID-19 pandemic significantly disrupted China s economy in the first quarter of 2020. Despite the PRC government s efforts
+to revive China s economy, China s economy experienced a significant slowdown since the outbreak and will continue to face
+new difficulties and challenges due to the spread of the pandemic, increasing risk of imported cases and heightened volatility and uncertainties
+in the global economy, and there remains uncertainty as to how soon or whether economic activities in China will rebound to the level
+prior to the COVID-19 pandemic. 
+
+15 
+
+Our
+business has been and may continue to be adversely impacted. Our sole operating subsidiary is located in China, as are its employees,
+contract manufacturers and customers. Measures taken in China to control the virus, such as lockdowns, negated the value of our method
+of advertising. From February to April 2020, people were advised to stay at home as much as possible and to avoid public places and crowds.
+It is likely that these factors, in addition to temporary closures of non-essential retail establishments, negatively impacted sales
+of our backpacks during the fiscal year ended July 31, 2020. However, since our operating subsidiary, Mu Yan Shenzhen, was formed in
+September 2019 and did not commence sales of the Huobaobao backpack until January 2020, we have no comparable revenue data for a prior
+fiscal year, making it impossible to quantify or accurately assess the impact of the COVID-19 pandemic on our business. 
+
+The
+potential downturn brought by and the duration of the COVID-19 outbreak is difficult to assess or predict and the full impact of the
+virus on our operations will depend on many factors beyond our control. A slowdown in the Chinese economy and/or negative business sentiment
+could potentially have a significant negative impact on our revenues since companies might be expected to reduce their advertising budgets.
+A major resurgence of the epidemic in China could be expected to significantly reduce the demand for our products. In addition, our business
+operations could be disrupted again if any of our employees, or our manufacturers employees, is suspected of contracting COVID-19,
+since all employees could be quarantined and/or facilities shut down for disinfection. The extent to which the COVID-19 outbreak impacts
+our business, results of operations and financial condition remains uncertain. Our business, results of operations, financial condition
+and prospects could be materially adversely affected to the extent that COVID-19 persists in China or harms the Chinese and global economies
+in general. 
+
+We
+may also experience negative effects from future public health crises beyond our control. These events are impossible to forecast, their
+negative effects may be difficult to mitigate and they could adversely affect our business, financial condition and results of operations. 
+
+Risks
+Associated with Doing Business in the PRC 
+
+We
+Derive All Of Our Sales From The PRC. 
+
+All
+of our sales are generated from China. We anticipate that sales of our products in China will continue to represent at least the majority
+of our total sales in the near future. Any significant decline in the condition of the PRC economy could adversely affect consumer demand
+for our products, among other things, which in turn would have a material adverse effect on our business and financial condition. 
+
+Future
+Inflation In China May Inhibit Our Activity To Conduct Business In China. 
+
+In
+recent years, the Chinese economy has experienced periods of rapid expansion and high rates of inflation. During the past ten years,
+the rate of inflation in China has been as high as 20.7 and as low as - 2.2 (Source: http://www.stats.gov.cn/) These factors have led
+to the adoption by the Chinese government, from time to time, of various corrective measures designed to restrict the availability of
+credit or regulate growth and contain inflation. High inflation may in the future cause the Chinese government to impose controls on
+credit and/or prices, or to take other action, which could inhibit economic activity in China, and thereby harm the market for our products. 
+
+Fluctuations
+In Exchange Rates Could Adversely Affect Our Business And The Value Of Our Securities. 
+
+The
+value of the Chinese Yuan CNY or RMB against the U.S. dollar and other currencies may fluctuate and is
+affected by, among other things, changes in China s political and economic conditions and foreign exchange policies. On July 21,
+2005, the PRC government changed its decade-old policy of pegging the value of the RMB to the U.S. dollar. Under the revised policy,
+the RMB is permitted to fluctuate within a narrow and managed band against a basket of certain foreign currencies. The RMB appreciated
+more than 20 against the U.S. dollar over the three years following the removal of the U.S. dollar peg. Since July 2008, however, the
+RMB has traded within a narrow range against the U.S. dollar. It is difficult to predict how long the current situation may last and
+when and how the RMB exchange rates may change going forward. 
+
+16 
+
+Our
+revenues and costs are mostly denominated in RMB, while a significant portion of our financial assets are denominated in U.S. dollars.
+At the holding company level, we rely entirely on dividends and other fees paid to us by our subsidiaries and consolidated affiliated
+entities in China. Any significant revaluation of RMB may materially and adversely affect our cash flows, revenues, earnings and financial
+position. For example, an appreciation of RMB against the U.S. dollar would make any new RMB denominated investments or expenditures
+more costly to us to the extent that we need to convert U.S. dollars into RMB for such purposes. An appreciation of RMB against the U.S.
+dollar would also result in foreign currency translation losses for financial reporting purposes when we translate our U.S. dollar denominated
+financial assets into RMB, as RMB is our reporting currency. Conversely, a significant depreciation of the RMB against the U.S. dollar
+may significantly reduce the U.S. dollar equivalent of our earnings, which in turn could adversely affect the price of our Common Stock. 
+
+We
+May Rely On Dividends And Other Distributions On Equity Paid By Our PRC Subsidiaries To Fund Any Cash And Financing Requirements We May
+Have, And Any Limitation On The Ability Of Our PRC Subsidiaries To Make Payments To Us Could Have A Material And Adverse Effect On Our
+Ability To Conduct Our Business. 
+
+We
+are a Nevada holding company and we rely principally on dividends and other distributions on equity from our PRC subsidiaries for our
+cash requirements, including for servicing any debt we may incur. Our PRC subsidiaries ability to distribute dividends is based
+upon their distributable earnings. Current PRC regulations permit our PRC subsidiaries to pay dividends to their respective shareholders
+only out of their accumulated profits, if any, determined in accordance with PRC accounting standards and regulations. In addition, our
+PRC subsidiaries are required to set aside at least 10 of their after-tax profits each year, if any, to fund a statutory reserve until
+such reserve reaches 50 of their registered capital. Our PRC subsidiaries, as foreign invested enterprises, or FIEs, are also required
+to further set aside a portion of their after-tax profit to fund an employee welfare fund, although the amount to be set aside, if any,
+is determined at their discretion. These reserves are not distributable as cash dividends. If our PRC subsidiaries incur debt on their
+own behalf in the future, the instruments governing the debt may restrict their ability to pay dividends or make other payments to us.
+Any limitation on the ability of our PRC subsidiaries to distribute dividends or other payments to their shareholders could materially
+and adversely limit our ability to grow, make investments or acquisitions that could be beneficial to our business, pay dividends or
+otherwise fund and conduct our business. 
+
+To
+The Extent That Our Independent Registered Public Accounting Firm s Audit Documentation Related To Their Audit Reports For The
+Company Are, Or Will Be, Located In China, The PCAOB May Not Be Able To Inspect Such Audit Documentation And, As A Result, You May Be
+Deprived Of The Benefits Of Such Inspection. 
+
+Our
+independent registered public accounting firm issued audit opinions on the financial statements included in this Annual Report and will
+issue audit reports related to the Company in the future. As the auditor of a company filing reports with the SEC and as a firm registered
+with the PCAOB, our auditor is required by the laws of the United States to undergo regular inspections by the PCAOB. However, to the
+extent that our auditor s work papers are or become located in China, such work papers will not be subject to inspection by the
+PCAOB because the PCAOB is currently unable to conduct inspections without the approval of the Chinese authorities. Inspections of certain
+other firms that the PCAOB has conducted outside of China have identified deficiencies in those firms audit procedures and quality
+control procedures, which may be addressed as part of the inspection process to improve future audit quality. The inability of the PCAOB
+to conduct inspections of our auditor s work papers in China would make it more difficult to evaluate the effectiveness of our
+auditor s audit procedures or quality control procedures as compared to auditors outside of China that are subject to PCAOB inspections.
+Investors may consequently lose confidence in our reported financial information and procedures and the quality of our financial statements.
+As a result, our investors may be deprived of the benefits of the PCAOB s oversight of our auditors through such inspections. 
+
+17 
+
+In
+addition, trade tensions and policy changes between China and the United States have also led to measures that could have adverse effects
+on China-based issuers, including proposed legislation in the United States that would require listed companies whose audit reports and/or
+auditors are not subject to review by the PCAOB to be subject to enhanced disclosure obligations and be subject to delisting if they
+do not comply with the requirements. If our auditor is sanctioned or otherwise penalized by the PCAOB or the SEC as a result of failure
+to comply with inspection or investigation requirements, our financial statements could be determined to be not in compliance with the
+requirements of the U.S. Securities Exchange Act of 1934 (the Exchange Act or other laws or rules in the United States,
+which could ultimately result in our Common Stock being delisted from whatever exchange it may become listed on. 
+
+Risks
+Related to Our Shares 
+
+The
+OTC And Share Value 
+
+Our
+Common Stock trades over the counter, which may deprive stockholders of the full value of their shares. Our stock is quoted via the Over-The-Counter OTC Pink Sheets under the ticker symbol MYTG. Therefore, our Common Stock is expected to have fewer market
+makers, lower trading volumes and larger spreads between bid and asked prices than securities listed on an exchange such as the New York
+Stock Exchange or the NASDAQ Stock Market. These factors may result in higher price volatility and less market liquidity for our Common
+Stock. 
+
+Low
+Market Price 
+
+A
+low market price would severely limit the potential market for our Common Stock. Our Common Stock is expected to trade at a price below
+ 5.00 per share, subjecting trading in the stock to certain SEC rules requiring additional disclosures by broker-dealers. These rules
+generally apply to any non-NASDAQ equity security that has a market price share of less than 5.00 per share, subject to certain exceptions
+(a penny stock ). Such rules require the delivery, prior to any penny stock transaction, of a disclosure schedule explaining
+the penny stock market and the risks associated therewith and impose various sales practice requirements on broker-dealers who sell penny
+stocks to persons other than established customers and institutional or wealthy investors. For these types of transactions, the broker-dealer
+must make a special suitability determination for the purchaser and have received the purchaser s written consent to the transaction
+prior to the sale. The broker-dealer also must disclose the commissions payable to the broker-dealer, current bid and offer quotations
+for the penny stock and, if the broker-dealer is the sole market maker, the broker-dealer must disclose this fact and the broker-dealer s
+presumed control over the market. Such information must be provided to the customer orally or in writing before or with the written confirmation
+of trade sent to the customer. Monthly statements must be sent disclosing recent price information for the penny stock held in the account
+and information on the limited market in penny stocks. The additional burdens imposed upon broker-dealers by such requirements could
+discourage broker-dealers from effecting transactions in our Common Stock. 
+
+Lack
+Of Market And State Blue Sky Laws 
+
+Investors
+may have difficulty in reselling their shares due to the lack of market or state Blue Sky laws. The holders of our shares of Common Stock
+and persons who desire to purchase them in any trading market that might develop in the future should be aware that there may be significant
+state law restrictions upon the ability of investors to resell our shares. Accordingly, even though our shares are quoted on the OTC
+Market, investors should consider any secondary market for our securities to be a limited one. We intend to seek coverage and publication
+of information regarding our Company in an accepted publication that permits a manual exemption. This manual exemption
+permits a security to be distributed in a particular state without being registered if the company issuing the security has a listing
+for that security in a securities manual recognized by the state. However, it is not enough for the security to be listed in a recognized
+manual. The listing entry must contain (1) the names of issuers, officers and directors, (2) an issuer s balance sheet, and (3)
+a profit and loss statement for either the fiscal year preceding the balance sheet or for the most recent fiscal year of operations.
+We may not be able to secure a listing containing all of this information. Furthermore, the manual exemption is a non-issuer exemption
+restricted to secondary trading transactions, making it unavailable for issuers selling newly issued securities. Most of the accepted
+manuals are those published in Standard and Poor s, Mergent s, Fitch s Investment Service and Best s Insurance
+Reports, and many states expressly recognize these manuals. A smaller number of states declare that they recognize securities
+manuals but do not specify the recognized manuals. The following states do not have any provisions and therefore do not expressly
+recognize the manual exemption: Alabama, Georgia, Illinois, Kentucky, Louisiana, Montana, South Dakota, Tennessee, Vermont and Wisconsin. 
+
+18 
+
+Penny
+Stock Regulations 
+
+We
+are subject to penny stock regulations and restrictions and you may have difficulty selling shares of our Common Stock. The SEC has adopted
+regulations which generally define so-called penny stocks to be an equity security that has a market price less than 5.00
+per share or an exercise price of less than 5.00 per share, subject to certain exemptions. Our Common Stock is currently a penny
+stock, and we are subject to Rule 15g-9 under the Exchange Act, or the Penny Stock Rule. This rule imposes additional
+sales practice requirements on broker-dealers that sell such securities to persons other than established customers. For transactions
+covered by Rule 15g-9, a broker- dealer must make a special suitability determination for the purchaser and have received the purchaser s
+written consent to the transaction prior to sale. As a result, this rule may affect the ability of broker-dealers to sell our securities
+and may affect the ability of purchasers to sell any of our securities in the secondary market. 
+
+For
+any transaction involving a penny stock, unless exempt, the rules require delivery, prior to any transaction in a penny stock, of a disclosure
+schedule prepared by the SEC relating to the penny stock market. Disclosure is also required to be made about sales commissions payable
+to both the broker-dealer and the registered representative and current quotations for the securities. Finally, monthly statements are
+required to be sent disclosing recent price information for the penny stock held in the account and information on the limited market
+in penny stock. 
+
+We
+do not qualify for exemption from the Penny Stock Rule. In any event, even if our Common Stock were exempt from the Penny Stock Rule,
+we would remain subject to Section 15(b)(6) of the Exchange Act, which gives the SEC the authority to restrict any person from participating
+in a distribution of penny stock, if the SEC finds that such a restriction would be in the public interest. 
+
+Rule
+144 Risks 
+
+Sales
+of our Common Stock under Rule 144 could reduce the price of our stock. Issued and outstanding shares of our Common Stock that Rule 144
+of the Securities Act defines as restricted securities will be subject to the resale restrictions of Rule 144. In general, persons holding
+restricted securities, including affiliates, must hold their shares for a period of at least six months, may not sell more than 1.0 
+of the total issued and outstanding shares in any 90-day period and must resell the shares in an unsolicited brokerage transaction at
+the market price. The availability for sale of substantial amounts of Common Stock under Rule 144 could reduce prevailing market prices
+for our securities. 
+
+No
+Audit Or Compensation Committee 
+
+Because
+we do not have an audit or compensation committee, stockholders will have to rely on our directors, who are not independent, to perform
+these functions. Thus, there is a potential conflict in that our directors, who are also part of management, will determine management
+compensation and audit issues that may affect management decisions. 
+
+Security
+Laws Exposure 
+
+We
+are subject to compliance with securities laws, which exposes us to potential liabilities, including potential rescission rights. We
+may offer to sell shares of our Common Stock to investors pursuant to certain exemptions from the registration requirements of the Securities
+Act, as well as those of various state securities laws. The basis for relying on such exemptions is factual; that is, the applicability
+of such exemptions depends upon our conduct and that of those persons contacting prospective investors and making the offering. We may
+not seek any legal opinion to the effect that any such offering would be exempt from registration under any federal or state law. Instead,
+we may elect to rely upon the operative facts as the basis for such exemption, including information provided by investors themselves. 
+
+19 
+
+If
+any such offering did not qualify for such exemption, an investor would have the right to rescind its purchase of the securities if it
+so desired. It is possible that if an investor should seek rescission, such investor would succeed. A similar situation prevails under
+state law in those states where the securities may be offered without registration in reliance on the partial pre-emption from the registration
+or qualification provisions of such state statutes under the National Securities Markets Improvement Act of 1996. If investors were successful
+in seeking rescission, we would face severe financial demands that could adversely affect our business and operations. Additionally,
+if we did not in fact qualify for the exemptions upon which we have relied, we may become subject to significant fines and penalties
+imposed by the SEC and state securities agencies. 
+
+No
+Cash Dividends 
+
+Because
+we do not intend to pay any cash dividends on our Common Stock, our stockholders will not be able to receive a return on their shares
+unless they sell them. We intend to retain any future earnings to finance the development and expansion of our business for the foreseeable
+future. There is no assurance that stockholders will be able to sell shares of our Common Stock when desired. 
+
+Reduced
+Reporting Requirements For Emerging Growth Companies 
+
+We
+are an emerging growth company, as defined in the JOBS Act and take advantage of certain exemptions from various requirements
+applicable to other reporting companies that are not emerging growth companies including, most significantly, not being required to comply
+with the auditor attestation requirements of Section 404 of the Sarbanes-Oxley Act for so long as we are an emerging growth company.
+As a result, if we elect not to comply with such auditor attestation requirements, our investors may not have access to certain information
+they may deem important. 
+
+The
+JOBS Act also provides that an emerging growth company does not need to comply with any new or revised financial accounting standards
+until such date that a private company is otherwise required to comply with such new or revised financial accounting standards. The Company
+has elected to use the extended transition period for complying with new or revised financial accounting standards under Section 102(b)(2)
+of the JOBS Act that allows the Company to delay the adoption of new or revised accounting standards that have different effective dates
+for public and private companies until those standards apply to private companies. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS 
+
+Not
+applicable 
+
+ITEM
+2. PROPERTIES 
+
+Mu
+Yan Shenzhen leases approximately 978 square meters of office space located at Room 1703B, Zhongzhou Building, No. 3088 Jintian Road,
+Futian District, Shenzhen City, Guangdong Province, China. The lease term commenced on July 1, 2020 and expires on June 30, 2022. The
+lease provides for a monthly rent of RMB 154,744 (approximately US 22,154) per month for the first year of the lease and increases by
+5 each year thereafter. The lease provides that upon expiration of the lease period, both parties agree to renew the lease. Mu Yan Shenzhen
+is responsible for paying all utilities and was required to pay a refundable security deposit in the amount of RMB 348,777. 
+
+20 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+We
+are currently not a party to any legal or administrative proceedings and are not aware of any pending or threatened material legal or
+administrative proceedings against us. We may from time to time become a party to various legal or administrative proceedings arising
+in the ordinary course of business. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not
+Applicable 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Market
+Information 
+
+Our
+Common Stock, par value 0.001, is quoted via the OTC Pink Sheets under the ticker symbol MYTG. There is no active trading
+market in our securities. 
+
+The
+quotation of our Common Stock does not assure that a meaningful, consistent and liquid trading market currently exists. We cannot predict
+whether a more active market for our Common Stock will develop in the future. In the absence of an active trading market, 
+
+1.
+Investors may have difficulty buying or selling or obtaining market quotation; and 
+
+2.
+Market visibility of our Common Stock may be limited, which may have a depressive effect on the market price for our Common Stock. 
+
+As
+of September 30, 2021, there were 22 holders of record of our Common Stock. 
+
+Dividends 
+
+We
+have never paid any dividends and we plan to retain earnings, if any, for use in the development of our business. Payment of future dividends,
+if any, will be at the discretion of the Board of Directors after taking into account various factors, including current financial condition,
+operating results and current and anticipated cash needs. 
+
+Recent
+Sales of Unregistered Securities 
+
+During
+the past three years, we have issued the following securities. We believe that each of the following issuances was exempt from registration
+under Section 4(a)(2) of the Securities Act regarding transactions not involving a public offering. 
+
+On
+August 12, 2020, the Company closed on the Share Exchange with Mu Yan Samoa and the Mu Yan Shareholders. Under the Share Exchange Agreement,
+the Mu Yan Shareholders exchanged 100 of the outstanding shares of Mu Yan Samoa s common stock for 300,000,000 shares of the Company s
+Common Stock. The shares issued to the Mu Yan Shareholders in connection with the Share Exchange were not registered under the Securities
+Act in reliance upon the exemption from registration provided by Section 4(a)(2) of the Securities Act, which exempts transactions by
+an issuer not involving any public offering. These securities may not be offered or sold absent registration or an applicable exemption
+from the registration requirement. 
+
+Purchase
+of our Equity Securities by the Issuer and Affiliated Purchasers 
+
+None. 
+
+Equity
+Compensation Plans 
+
+As
+of the date of filing this Annual Report, the Company has not adopted any equity compensation plans. 
+
+21 
+
+ITEM
+6. SELECTED FINANCIAL DATA 
+
+As
+a smaller reporting company, we are not required to respond to this item. 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The
+following discussion and analysis of our financial condition and results of operations should be read in conjunction with our consolidated
+financial statements and the related notes included elsewhere in this report. Our consolidated financial statements have been prepared
+in accordance with U.S. GAAP. In addition, our consolidated financial statements and the financial data included in this Annual Report
+reflect our reorganization and have been prepared as if our current corporate structure had been in place throughout the relevant periods.
+The following discussion and analysis contain forward-looking statements that involve risks and uncertainties. Actual results could differ
+materially from those projected in the forward-looking statements. For additional information regarding these risks and uncertainties,
+please see Risk Factors. 
+
+Overview 
+
+The
+Company was originally incorporated in Nevada under the name Lepota Inc. on December 9, 2013. It maintains its principal
+executive offices at Room 1703B, Zhongzhou Building, No. 3088 Jintian Road, Futian District, Shenzhen
+City, Guangdong Province, People s Republic of China 518000 . The Company was formed for the purpose of importing and distributing
+cosmetics into the Russian Federation. 
+
+The
+Company filed a registration statement on Form S-1 with the SEC on September 18, 2014, which was declared effective on May 4, 2016. However,
+because the Company did not identify a viable business
+model or engage in any business prior to the Share Exchange, it was a shell company until August 12, 2020. 
+
+On
+February 18, 2020, as a result of a private transaction, 5,000,000 shares of the Company s Common Stock were transferred from Rene
+Lawrence, its controlling shareholder, to certain purchasers (the Purchasers ), with Zhao Lixin, the Company s current
+CEO, becoming a 53.8 holder of the voting rights of the Company, and the Purchasers becoming the controlling shareholders. As a result
+of the change of control, Iurii Iurtaev resigned as the Company s president, chief executive officer, chief financial officer and
+director and Rene Lawrence resigned as the Company s secretary. Zhao Lixin was then named President, Chief Executive Officer, Chief
+Financial Officer, Treasurer, Secretary and Chairman of the Board of Directors of the Company. 
+
+On
+August 12, 2020 (the Closing Date ), the Company closed on the Share Exchange with Mu Yan Samoa and the Mu Yan Shareholders.
+As a result, Mu Yan Samoa is now a wholly owned subsidiary of the Company. Under the Share Exchange Agreement, the Mu Yan Shareholders
+exchanged 100 of the outstanding shares of Mu Yan Samoa s common stock for 300,000,000 shares of the Company s Common Stock.
+As a result of the Share Exchange, effective September 22, 2020, the Company s name was changed to Mu Yan Technology Group Co.,
+Limited. 
+
+For
+accounting purposes, the Share Exchange was treated as a recapitalization of the Company with Mu Yan Samoa as the acquirer. When we refer
+in this Annual Report to business and financial information for periods prior to the consummation of the Share Exchange, we are referring
+to the business and financial information of Mu Yan Samoa unless the context suggests otherwise. 
+
+22 
+
+As
+a result of the closing of the Share Exchange, the Mu Yan Shareholders own approximately 98 of the total outstanding common shares of
+the Company and the former shareholders of the Company own approximately 2 . The shares issued to the Mu Yan Shareholders in connection
+with the Share Exchange were not registered under the Securities Act in reliance upon the exemption from registration provided by Section
+4(a)(2) of the Securities Act, which exempts transactions by an issuer not involving any public offering. These securities may not be
+offered or sold absent registration or an applicable exemption from the registration requirement. 
+
+As
+a result of the recapitalization described above, management of the Company believes that the Company is no longer a shell company. The
+Company s operations now consist of the operations of Mu Yan Samoa and its subsidiaries. 
+
+Since
+our operating subsidiary, Mu Yan Shenzhen, was formed in September 2019 and did not commence sales of the Huobaobao backpack until January
+2020, we have no comparable revenue data for a prior fiscal year, making it impossible to quantify or accurately assess the impact of
+the COVID-19 pandemic on our revenues for the fiscal year ended July 31, 2020. However, management believes that the pandemic did negatively
+impact our results of operations for that fiscal year. 
+
+Throughout
+the remainder of this Annual Report, when we use phrases such as we, our, Company and us, 
+we are referring to the Company and all of its subsidiaries, as a combined entity. 
+
+Results
+of Operations 
+
+For
+the fiscal years ended July 31, 2021 and 2020 
+
+The
+following summarizes our results of operations for the fiscal year ended July 31, 2021 and the fiscal year ended July 31, 2020. The table
+and the discussion below should be read in conjunction with our financial statements and the notes thereto appearing elsewhere in this
+report. 
+
+Revenue 
+
+Revenue
+generated from selling our mobile advertisement backpack contributed 5,926,274 and 9,050,811 to our total revenue for the fiscal years
+ended July 31, 2021 and 2020, respectively. The decrease in revenue for the fiscal year ended July 31, 2021 was due to a significant
+decrease in the number of mobile advertisement backpacks sold during the fiscal year ended July 31, 2021 as a result of the suspension
+of sales while the Company worked on upgrading and updating the hardware and the software utilized in the backpack as well as a shortage
+of raw materials.. 
+
+Revenue
+generated from advertising services contributed 334,889 and Nil to our total revenue for the year ended July 31, 2021 and 2020, respectively.
+The increase in revenue from advertising services was due to the fact that the Company did not commence operations in this business segment
+until December 2020. 
+
+Total
+revenue for the years ended July 31, 2021 and 2020 were 6,261,163 and 9,050,811, respectively. 
+
+23 
+
+Cost
+of Revenue 
+
+Year
+ ended July 31, 
+ Increase (decrease)
+ in 2021
+ compared to 
+
+2021 
+ 2020 
+ 2020 
+
+(In
+ U.S. dollars, except for 
+ percentages) 
+
+Net
+ revenue for mobile advertisement backpack 
+ 5,926,274 
+ 100.0 
+ 9,050,811 
+ 100.0 
+ (3,124,537 
+ (34.5 
+ 
+ Inventory 
+ 2,560,674 
+ 43.2 
+ 3,113,151 
+ 34.4 
+ (552,477 
+ (17.7 
+ 
+ Total
+ cost of revenue for mobile advertisement backpack 
+ 2,560,674 
+ 43.2 
+ 3,113,151 
+ 34.4 
+ (552,477 
+ (17.7 
+ 
+ Gross
+ profit for mobile advertisement backpack 
+ 3,365,600 
+ 56.8 
+ 5,937,660 
+ 65.6 
+ (2,572,060 
+ (43.3 
+
+Net
+ revenue for advertising services 
+ 334,889 
+ 100.0 
+ - 
+ - 
+ 334,889 
+ N/A 
+ 
+ Labor 
+ 8,530 
+ 2.5 
+ - 
+ - 
+ 8,530 
+ N/A 
+ 
+ Marketing 
+ 65,141 
+ 19.5 
+ - 
+ - 
+ 65,141 
+ N/A 
+ 
+ Total
+ cost of revenue for advertising services 
+ 73,671 
+ 22.0 
+ - 
+ - 
+ 73,671 
+ N/A 
+ 
+ Gross
+ profit for advertising services 
+ 261,218 
+ 78.0 
+ - 
+ - 
+ 261,218 
+ N/A 
+
+Total
+ cost of revenue 
+ 2,634,345 
+ 42.1 
+ 3,113,151 
+ 34.4 
+ (478,806 
+ (15.4 
+ 
+ Gross
+ profit 
+ 3,626,818 
+ 57.9 
+ 5,937,660 
+ 65.6 
+ (2,310,842 
+ (38.9 
+
+Cost
+of revenue for mobile advertisement backpack for the years ended July 31, 2021 and 2020 was 2,560,674 and 3,113,151, respectively.
+The significant decrease in cost of revenue was a result of our having sold 15,252 mobile advertisement backpacks during the year ended
+July 31, 2021 compared to 17,648 backpacks having been sold during the year ended July 31, 2020. 
+
+For
+our mobile advertisement backpack business, we outsourced the assembly processes of our products to subcontractors, and we maintained
+stable relationships with them. We outsource our delivery services to two courier companies. Delivery fees are paid by the ultimate customers
+upon delivery of the products. We have not experienced difficulty in obtaining inventory for our business, and we believe we maintain
+good relationships with our suppliers. 
+
+Inventory
+costs for our mobile advertisement backpack business were 43.2 of our total mobile advertisement backpack business revenue in the year
+ended July 31, 2021, compared with 34.4 in the year ended July 31, 2020. The increased percentage was mainly due to a 50 reduction
+in the selling price of our mobile advertisement backpacks due to a promotion from September 2020 to November 2020. 
+
+Cost
+of revenue for advertising services for the years ended July 31, 2021 and 2020 was 73,671 and Nil, respectively. The increase in cost
+of revenue for advertising services was due to the fact that the Company did not commence sales in this business segment until December
+2020. 
+
+For
+our advertising services business, we outsource some of the business to our contractors. Labor fees, which amounted to 8,530 for the
+year ended July 31, 2021 and Nil for the year ended July 31, 2020, represented approximately 11.6 and Nil of total cost of revenues
+for our advertising services segment for the years ended July 31, 2021 and 2020, respectively. Marketing fees, which amounted to 65,141
+for the year ended July 31, 2021 and Nil for the year ended July 31, 2020, represented approximately 88.4 and Nil of total cost of
+revenues for our advertising services segment for the years ended July 31, 2021 and 2020, respectively. 
+
+24 
+
+Labor
+costs for our service business accounted for 2.5 of our total service revenue for the year ended July 31, 2021, compared with Nil for
+the year ended July 31, 2020. Marketing costs for our service business accounted for 19.5 of our total service revenue for the year
+ended July 31, 2021, compared with Nil for the year ended July 31, 2020. 
+
+Total
+cost of revenue for the year ended July 31, 2021 was 2,634,345 compared with 3,113,151 for the year ended July 31, 2020. Total cost
+of revenue as a percentage for the year ended July 31, 2021 was 42.1 , compared with 34.4 for the year ended July 31, 2020. Gross profit
+for the year ended July 31, 2021 was 57.9 compared with 65.6 for the year ended July 31, 2020. 
+
+Net
+Profit 
+
+Year
+ ended 
+ 2021
+ compared to 2020 
+
+July
+ 31, 
+ July
+ 31, 
+ Amount
+ of 
+ 
+ of 
+
+2021 
+ 2020 
+ Increase 
+ Increase 
+ 
+ Gross
+ Profit for mobile advertisement backpack 
+ 3,365,600 
+ 5,937,660 
+ (2,572,060 
+ (43 
+ 
+ Gross
+ Profit for advertising services 
+ 261,218 
+ - 
+ 261,218 
+ N/A 
+ 
+ Additional
+ Tax 
+ (52,425 
+ (39,927 
+ (12,498 
+ 31 
+ 
+ Gross
+ Profit 
+ 3,574,393 
+ 5,897,733 
+ (2,323,340 
+ (39 
+ 
+ Operating
+ Expenses: 
+
+Selling
+ and Marketing Expenses 
+ 637,856 
+ (904,192 
+ 266,336 
+ (29 
+ 
+ General
+ and Administrative Expenses 
+ 1,803,010 
+ (900,761 
+ (902,249 
+ 100 
+ 
+ Research
+ and Development Expenses 
+ 526,646 
+ (322,839 
+ (203,807 
+ 63 
+ 
+ Operating
+ Expenses 
+ 2,967,512 
+ (2,127,792 
+ (839,720 
+ 39 
+ 
+ Other
+ Income, net 
+ 8,825 
+ 368,896 
+ (360,071 
+ (98 
+ 
+ Income
+ (Loss) from operations 
+ 615,706 
+ 4,138,837 
+ (3,523,131 
+ (85 
+ 
+ Revenue
+ Related Tax 
+ 455,075 
+ (1,044,138 
+ 589,063 
+ (56 
+ 
+ Net
+ Profit 
+ 160,631 
+ (3,094,699 
+ (2,934,068 
+ (95 
+
+Gross
+profit for our mobile advertisement backpack for the year ended July 31, 2021 and the year ended July 31, 2020 were 3,365,600 and 5,937,660,
+respectively. Gross profit margins for our mobile advertisement backpack for the year ended July 31, 2021 and the year ended July 31,
+2020 were 56.8 and 65.6 , respectively. The decrease in gross profit margin was principally due to a promotion in which the selling
+price of the backpacks was reduced by 50 from September 2020 to November 2020, and a further reduction in revenue that resulted from
+reduced sales while the Company worked on upgrading and updating the hardware and the software utilized in the mobile advertisement backpack.
+Management believes that, now that the upgrades and updates have been completed, the Company s dependence upon third party suppliers
+will decrease and unit savings in production will be realized. 
+
+Gross
+profit for advertising services for the year ended July 31, 2021 and the year ended July 31, 2020 were 261,218 and Nil , respectively.
+Gross profit margins for advertising services for the year ended July 31, 2021 and the year ended July 31, 2020 were 78 and Nil, respectively.
+The increase in gross profit margin for advertising services was due to the fact that the Company did not commence sales in this business
+segment until December 2020. 
+
+25 
+
+Net
+profit for the fiscal year ended July 31, 2021 and the fiscal year ended July 31, 2020 were 160,631 and 3,094,699, respectively. 
+
+Selling
+and Marketing Expenses 
+
+Our
+selling and marketing expenses for the years ended July 31, 2021 and 2020 were 637,856 and 904,192, respectively. Selling and marketing
+expenses during both of those years consisted primarily of marketing expenses. The decrease in selling and marketing expenses from the
+year ended July 31, 2020 to the year ended July 31, 2021 was primarily attributable to a decrease in selling expenses related to our
+mobile advertisement backpack due to a reduction in sales of that product. During the year ended July 31, 2021, we sold 15,252 backpacks,
+whereas during the year ended July 31, 2020, we sold 17,648. 
+
+General
+and Administrative Expenses 
+
+Our
+general and administrative expenses for the year ended July 31, 2021 and 2020 were 1,803,010 and 900,761, respectively. General and
+administrative expenses consisted primarily of administrative payroll, office expense, depreciation charges and other office expenses
+that are not directly attributable to our revenues. The increase in general and administrative expenses was primarily attributable to
+business entertainment expense incurred to maintain business relationships with cooperative partners on our mobile advertisement backpack
+while the Company worked on upgrading and updating the hardware and the software utilized in the mobile advertisement backpack. 
+
+Research
+and Development Expenses 
+
+Our
+research and development expenses for the fiscal years ended July 31, 2021 and 2020 were 526,646 and 322,839, respectively. Research
+and development expenses consist primarily of researchers payroll and IT services expenses. The increase in research and development
+expenses during the year ended July 31, 2021 was primarily attributable to the upgrading and updating of the hardware and the software
+utilized in the Company s mobile advertisement backpack. 
+
+Other
+Income 
+
+Other
+income in the fiscal year ended July 31, 2021 was 8,825 compared to other income of 368,896 in the fiscal year ended July 31, 2020.
+Other income in the fiscal year ended July 31, 2021 was attributable to the sale of backpack accessories, whereas other income in the
+fiscal year ended July 31, 2020 was attributable to our one-time consulting service provided to potential distributors of our products. 
+
+Income
+Taxes 
+
+Income
+tax for the fiscal years ended July 31, 2021 and 2020 were 455,075 and 1,044,138, respectively. 
+
+Summary
+of Cash Flows 
+
+Summary
+cash flows information for the fiscal years ended July 31, 2021 and 2020 are as follow: 
+
+July
+ 31, 
+
+2021 
+ 2020 
+
+(In
+ U.S. Dollars) 
+ 
+ Net
+ cash provided by operating activities 
+ 2,206,306 
+ 1,088,504 
+ 
+ Net
+ cash used in investing activities 
+ (2,048,275 
+ (231,436 
+
+26 
+
+Net
+cash provided by operating activities were 2,206,306 and 1,088,504 for the fiscal years ended July 31, 2021 and 2020, respectively.
+The cash provided by operating activities during the year ended July 31, 2021 was primarily attributable to other receivables, inventories
+and advances from customers. The cash provided by operating activities during the year ended July 31, 2020 was primarily attributable
+to advances from customers, inventories, downpayments to suppliers, other payables and amount due to/from related parties. 
+
+Net
+cash used in investing activities during the fiscal year ended July 31, 2021 was 2,048,275, consisting entirely from the acquisition
+of property, plant and equipment. Net cash used in investing activities during the fiscal year ended July 31, 2020 was 231,436 and consisted
+of the purchase of a motor vehicle and office equipment. 
+
+Financial
+Condition, Liquidity and Capital Resources 
+
+As
+of July 31, 2021, we had cash on hand of 1,092,575, total current assets of 6,502,832 and current liabilities of 3,583,457. The Company
+had revenues of 6,261,163 and generated a net profit of 160,631 for the year ended July 31, 2021. We believe that our business can
+generate sufficient cash flows to support the growth of our business. 
+
+Concentration
+of Credit Risk 
+
+Financial
+instruments that potentially expose the Company to significant concentration of credit risk consist primarily of cash and cash equivalents
+and amount due from related parties. As of July 31, 2021 and July 31, 2020, substantially all of the Company s cash and cash equivalents
+were deposited with financial institutions with high-credit ratings and quality. The Company did not have any clients constituting 10 
+or more of its net revenues for the fiscal year ended July 31, 2021 and the fiscal year ended July 31, 2020. 
+
+Off-Balance
+Sheet Arrangements 
+
+We
+have no off-balance sheet arrangements (as that term is defined in Item 303(a)(4)(ii) of Regulation S-K) as of July 31, 2021 that have
+or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses,
+results of operations, liquidity, capital expenditures or capital resources. 
+
+Critical
+Accounting Policies and Estimates 
+
+We
+prepare our financial statements in conformity with U.S. GAAP, which requires management to make certain estimates and apply judgments.
+We base our estimates and judgments on historical experience, current trends and other factors that management believes to be important
+at the time the financial statements are prepared. On a regular basis, we review our accounting policies and how they are applied and
+disclosed in our consolidated financial statements. Actual results could differ from those estimates made by management. 
+
+We
+believe that of our significant accounting policies, which are described in note 2 to our financial statements, the following accounting
+policies involve a greater degree of judgment and complexity. Accordingly, these are the policies we believe are the most critical to
+aid in fully understanding and evaluating our financial condition and results of operations. 
+
+Recently
+Issued and Adopted Accounting Pronouncements 
+
+In
+February 2016, the FASB issued ASU 2016-02, Leases (Topic 842). The guidance supersedes existing guidance on accounting for leases with
+the main difference being that operating leases are to be recorded in the statement of financial position as right-of-use assets and
+lease liabilities, initially measured at the present value of the lease payments. For operating leases with a term of 12 months or less,
+a lessee is permitted to make an accounting policy election not to recognize lease assets and liabilities. For public business entities,
+the guidance is effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. Early
+application of the guidance is permitted. In transition, entities are required to recognize and measure leases at the beginning of the
+earliest period presented using a modified retrospective approach. Mu Yan Shenzhen leased an office in Shenzhen, PRC, under an operating
+lease which will terminate in 2022; hence, adoption of this standard by the Company resulted in the recognition of right-of-use assets
+of 8,825 and operating lease liabilities of 368,896 for the fiscal year ended July 31, 2021. 
+
+27 
+
+In
+June 2016, the FASB issued ASU 2016-13, Financial Instruments Credit Losses (Topic 326), Measurement of Credit Losses on Financial
+Statements. This ASU requires a financial asset (or group of financial assets) measured at amortized cost basis to be presented at the
+net amount expected to be collected. The allowance for credit losses is a valuation account that is deducted from the amortized cost
+basis of the financial asset(s) to present the net carrying value at the amount expected to be collected on the financial asset. This
+Accounting Standards Update affects entities holding financial assets and net investment in leases that are not accounted for at fair
+value through net income. The amendments affect loans, debt securities, trade receivables, net investments in leases, off balance sheet
+credit exposures, reinsurance receivables, and any other financial assets not excluded from the scope that have the contractual right
+to receive cash. For public business entities, the amendments in this Update are effective for fiscal years beginning after December
+15, 2022, including interim periods within those fiscal years. All entities may adopt the amendments in this Update through a cumulative-effect
+adjustment to retained earnings as of the beginning of the first reporting period in which the guidance is effective (that is, a modified-retrospective
+approach). The Company is in the process of evaluating the impact of the adoption of this pronouncement on its financial statements. 
+
+The
+Company reviews new accounting standards as issued. Management has not identified any other new standards that it believes will have
+a significant impact on the Company s consolidated financial statements. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+As
+a smaller reporting company, we are not required to respond to this item. 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+MU
+YAN TECHNOLOGY GROUP CO., LIMITED 
+
+ AND
+ITS SUBSIDIARIES 
+
+ CONSOLIDATED
+FINANCIAL STATEMENTS 
+
+ FOR
+THE YEAR ENDED 
+
+ JULY
+31, 2021 AND YEAR ENDED 
+
+ JULY
+31, 2020 
+
+28 
+
+MU
+YAN TECHNOLOGY GROUP CO., LIMITED 
+
+ AND
+ITS SUBSIDIARIES 
+
+TABLE
+OF CONTENTS 
+
+Report of Independent Registered Public Accounting Firm 
+ 
+ 30 
+ 
+ Consolidated
+ Balance Sheets as of July 31, 2021 and July 31, 2020 
+ 
+ 31 
+ 
+ Consolidated
+ Statements of Income and Comprehensive Income for the the year ended July 31, 2021 and for the year ended July 31, 2020 
+ 
+ 32 
+ 
+ Consolidated
+ Statements of Changes in Equity (Deficit) for the the year ended July 31, 2021 and the year ended July 31, 2020 
+ 
+ 33 
+ 
+ Consolidated
+ Statements of Cash Flows for the the year ended July 31, 2021 and the year ended July 31, 2020 
+ 
+ 34 
+ 
+ Notes
+ to Consolidated Financial Statements for the the year ended July 31, 2021 and the year ended July 31, 2020 
+ 
+ 35 
+
+29 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and Stockholders of Mu Yan Technology Group Co., Limited: 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheet of Mu Yan Technology Group Co., Limited together with its subsidiaries the
+Company as of July 31, 2021, and the related consolidated statements of income and comprehensive income, stockholders 
+equity, and cash flows for the period then ended, and the related notes (collectively referred to as the financial statements ).
+In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of July 31,
+2021, and the results of its operations and its cash flows for the period then ended, in conformity with accounting principles generally
+accepted in the United States. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides
+a reasonable basis for our opinion. 
+
+Emphasis
+of Matter 
+
+The
+Company has significant transactions with related parties, which are described in Note 10 to the financial statements. Transactions involving
+related parties cannot be presumed to be carried out on an arm s length basis, as the requisite conditions of competitive, free
+market dealings may not exist. 
+
+/s/
+Pan-China Singapore PAC 
+
+We
+have served as the Company s auditor since 2020. 
+
+Singapore 
+
+ October
+29, 2021 
+
+30 
+
+CONSOLIDATED
+BALANCE SHEETS 
+
+ (In
+U.S. Dollars, except share data or otherwise stated) 
+
+ AS
+OF THE YEAR ENDED JULY 31, 2021 AND THE YEAR ENDED JULY 31, 2020 
+
+Fiscal
+ Year Ended 
+ Fiscal
+ Year Ended 
+
+July
+ 31, 2021 
+ July
+ 31, 2020 
+
+(Audited) 
+ (Audited) 
+ 
+ Assets 
+
+Current
+ assets 
+
+Cash
+ and cash equivalents 
+
+Down
+ payment to suppliers 
+
+Amount
+ due from related parties 
+
+Other
+ receivables 
+
+Advance
+ for vehicle purchase 
+ 
+ - 
+ 
+ Accounts
+ receivable 
+ 
+ - 
+ 
+ Inventory,
+ net 
+
+Held
+ for sale assets 
+
+Total
+ current assets 
+
+Non-current
+ assets 
+
+Property,
+ plant and equipment, net 
+
+Operating
+ lease right-of-use assets 
+
+Total
+ non-current assets 
+
+Total
+ assets 
+
+Liabilities
+ and Stockholders Equity 
+
+Current
+ liabilities 
+
+Accounts
+ payable 
+
+Advance
+ from customers 
+
+Other
+ payables 
+
+Income
+ tax payable 
+
+Current
+ operating lease liabilities 
+
+Amount
+ due to related parties 
+
+Total
+ current liabilities 
+
+Non-current
+ liabilities 
+
+Lease
+ liabilities, non-current 
+ - 
+
+Total
+ non-current liabilities 
+ - 
+
+Total
+ liabilities 
+
+Stockholders 
+ equity 
+
+Common
+ stock par value, shares authorized, shares issued and outstanding at July 31, 2021 and July 31, 2020,
+ respectively) (1) 
+
+Additional
+ paid-in capital (1) 
+
+Retained
+ profits 
+
+Statutory
+ reserve 
+ 
+ - 
+ 
+ Foreign
+ currency translation reserve 
+
+Total
+ stockholders equity 
+
+Total
+ liabilities and stockholders equity 
+
+(1) 
+
+See
+accompanying notes to the consolidated financial statements. 
+
+31 
+
+CONSOLIDATED
+STATEMENTS OF INCOME AND COMPREHENSIVE INCOME 
+
+ (In
+U.S. Dollars, except share data or otherwise stated) 
+
+ FOR
+THE YEARS ENDED JULY 31, 2021 AND JULY 31, 2020 
+
+2021 
+ 2020 
+
+Year
+ ended July 31, 
+
+2021 
+ 2020 
+
+Revenues 
+
+Cost of revenues 
+
+Taxes
+ and surcharges 
+
+Gross
+ profit 
+
+Operating
+ expenses 
+
+Selling
+ and marketing expenses 
+
+General
+ and administrative expenses 
+
+Research
+ and development expenses 
+
+Total
+ operating expenses 
+
+Other
+ income, net 
+
+Profit
+ before tax 
+
+Income
+ tax 
+
+Net
+ profit 
+
+Foreign
+ currency translation differences 
+
+Total
+ comprehensive profit 
+
+Earnings
+ per share basic and diluted (1) 
+
+Weighted
+ average number of shares basic and diluted (1) 
+
+(1) 
+
+See
+accompanying notes to the consolidated financial statements. 
+
+32 
+
+CONSOLIDATED
+STATEMENTS OF CHANGES IN EQUITY (DEFICIT) 
+
+ (In
+U.S. Dollars, except share data or otherwise stated) 
+
+ FOR
+THE YEAR ENDED JULY 31, 2021 AND THE YEAR ENDED JULY 31, 2020 
+
+ (Audited) 
+
+ Retained
+Earnings - Unrestricted [Member] 
+
+Shares 
+
+Amount 
+
+Paid-in
+ Capital 
+
+Unrestricted 
+
+Statutory
+ reserve 
+
+Currency
+ Reserves 
+
+Total
+ Equity 
+
+Common
+ Stock 
+
+Additional 
+
+Retained
+ Earnings 
+
+Foreign 
+
+Shares 
+
+Amount 
+
+Paid-in
+ Capital 
+
+Unrestricted 
+
+Statutory
+ reserve 
+
+Currency
+ Reserves 
+
+Total
+ Equity 
+
+Balance
+ at July 31, 2019 
+
+() 
+
+() 
+
+- 
+
+- 
+
+() 
+ 
+ Asset
+ and liabilities discharged by ex-shareholders 
+
+Movement
+ of statutory reserve 
+
+Foreign
+ currency translation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net
+ profit 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Balance at July 31,
+ 2020 
+
+() 
+
+- 
+
+Balance at July 31,
+ 2020 
+
+() 
+
+- 
+
+Movement
+ of statutory reserve 
+
+- 
+
+- 
+
+- 
+
+() 
+
+- 
+
+- 
+
+Foreign
+ currency translation 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net
+ profit 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Balance
+ at July 31, 2021 
+
+() 
+
+See
+accompanying notes to the consolidated financial statements. 
+
+33 
+
+CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+ (In
+U.S. Dollars, except share data or otherwise stated) 
+
+ FOR
+THE YEAR ENDED JULY 31, 2021 
+
+ AND 
+
+ THE
+YEAR ENDED JULY 31, 2020 
+
+July
+ 31, 2021 
+
+July
+ 31, 2020 
+
+CASH
+ FLOWS FROM OPERATING ACTIVITIES: 
+
+Net
+ income 
+
+Adjustments
+ for: 
+
+Depreciation 
+
+Operating
+ profit before working capital changes: 
+
+(Increase)
+ decrease in: 
+
+Accounts
+ receivable 
+
+() 
+
+- 
+
+Tax
+ Payable 
+
+() 
+
+Other
+ receivables 
+
+() 
+
+() 
+ 
+ Inventories 
+
+() 
+ 
+ Held
+ for sale assets 
+
+- 
+
+() 
+ 
+ Accrued
+ expense and other payables 
+
+() 
+
+Accounts
+ payable 
+
+() 
+
+Down
+ payment to suppliers 
+
+() 
+
+() 
+ 
+ Advance
+ from customers 
+
+() 
+
+Amount
+ due to a related party 
+
+Amount
+ due from related parties 
+
+() 
+ 
+ Net
+ cash provided in operating activities 
+
+CASH
+ FLOWS FROM INVESTING ACTIVITIES 
+
+Acquisition
+ of property, plant and equipment 
+
+() 
+
+() 
+ 
+ Net
+ cash used in investing activities 
+
+() 
+
+() 
+ 
+ CASH
+ FLOWS FROM FINANCING ACTIVITIES 
+
+Sale
+ of common shares 
+
+- 
+
+- 
+
+Net
+ cash provided by financing activities 
+
+- 
+
+- 
+
+Effect
+ of exchange rate changes on cash and cash equivalents 
+
+Net
+ increase in cash and cash equivalents 
+
+Cash
+ and cash equivalents at beginning of period 
+
+CASH
+ AND CASH EQUIVALENTS, END OF PERIOD 
+
+SUPPLEMENTAL
+ CASH FLOW INFORMATION 
+
+Income
+ tax paid 
+
+Right-of-use
+ assets obtained in exchange for operating lease liabilities 
+
+See
+accompanying notes to the consolidated financial statements. 
+
+34 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+ FOR
+THE YEAR ENDED JULY 31, 2021 
+
+ AND 
+
+ THE
+YEAR ENDED JULY 31, 2020 
+
+shares of our common stock (the Shares were transferred
+from Rene Lawrence to certain purchasers, including Zhao Lixin who became a .
+The consideration paid for the Shares, which represented of the issued and outstanding share capital of the Company on a fully-diluted
+basis, was . The source of the cash consideration for the Shares was personal funds of the Purchasers. 
+
+On
+April 14, 2020, the Company filed a Certificate of Amendment with the Secretary of State of the State of Nevada to amend the Articles
+of Incorporation of the Company by increasing the authorized common stock of the Company from shares to shares. 
+
+Mu
+Yan Technology Holding Co., Ltd Mu Yan Samoa was incorporated in the Independent State of Samoa on April 2, 2020. Mu
+Yan Samoa, together with its subsidiaries, is engaged in the mobile advertisement backpack business. 
+
+Mu
+Yan (Hong Kong) Technology Co., Limited, Mu Yan HK ), a wholly-owned subsidiary of Mu Yan Samoa, was incorporated in Hong
+Kong on January 10, 2020. On June 1, 2020, Mu Yan Samoa entered into an equity transfer agreement with the shareholder of Mu Yan HK,
+under which Mu Yan Samoa agreed to pay total consideration of HKD (approximately in cash in exchange for a ownership
+interest in Mu Yan HK. 
+
+Mu
+Yan (Shenzhen) Media Technology Co., Ltd. Mu Yan WFOE ), a wholly-owned subsidiary of Mu Yan HK, was incorporated in the
+PRC on June 10, 2020. 
+
+Mu
+Yan (Shenzhen) Digital Technology Co., Ltd. Mu Yan Shenzhen was incorporated in the PRC on September 30, 2019 and became
+a wholly-owned subsidiary of Mu Yan WFOE on July 1, 2020. Mu Yan Shenzhen sells its mobile advertisement backpacks to consumers in the
+PRC and worldwide and operates primarily out of the PRC. Mu Yan Shenzhen was controlled by the same owner immediately prior to its acquisition
+by Mu Yan HK. As these transactions are between entities under common control, the Company has reported the results of operations for
+the periods in a manner similar to a pooling of interests and has consolidated financial results since the initial date in which the
+above companies were under common control. Assets and liabilities were combined on their carrying values and no recognition of goodwill
+was made. 
+
+On
+August 12, 2020, the Company entered into a Share Exchange Agreement (the Exchange Agreement ), with Mu Yan Samoa and shareholders
+who together own shares constituting of the issued and outstanding shares of Mu Yan Samoa and who are listed in Annex I to the Exchange
+Agreement (the Sellers ). Pursuant to the terms of the Exchange Agreement, the Sellers transferred to the Company all of
+their shares of Mu Yan Samoa in exchange for the issuance of shares (the Shares of the Company s common
+stock (representing approximately of the Company s outstanding common stock upon issuance) (the Acquisition ).
+The Acquisition is accounted for as a reverse merger because on a post-merger basis, the former shareholders of Mu Yan Samoa held a majority
+of our outstanding ordinary shares on a voting and fully diluted basis. 
+
+Period-average
+ RMB: US 1 exchange rate 
+
+No
+representation is made that the RMB amounts could have been, or could be, converted into U.S. dollars at the rates used in translation. 
+
+allowance for doubtful accounts was made as of July 31, 2021 and July 31, 2020. 
+
+allowance for obsolete finished goods for the year ended July
+31, 2021 and the year ended July 31, 2020. 
+
+years 
+ 
+ Office
+ equipment 
+ 
+ years 
+
+The
+cost and related accumulated depreciation of assets sold or otherwise retired are eliminated from the accounts and any gain or loss is
+included in the statement of income. The cost of maintenance and repairs is charged to the statement of income as incurred, whereas significant
+renewals and betterments are capitalized. 
+
+t record any impairment losses on
+long-lived assets during the year ended July 31, 2021 and the year ended July 31, 2020. 
+
+Contract
+liabilities 
+
+A
+contract liability is the obligation to transfer goods to a customer for which the Company has received consideration (or an amount of
+consideration is due) from the customer. If a customer pays consideration before the Company transfers goods or services to the customer,
+a contract liability is recognized when the payment is made or the payment is due (whichever is earlier). The Company s contract
+liabilities comprise advances from customers, which are recognized as revenue when the Company performs under the contract. The balances
+of advances from customers as of July 31, 2021 and July 31, 2020 are and respectively. 
+
+For
+all reporting periods, the Company has not disclosed the value of unsatisfied performance obligations for all service revenue contracts
+with an original expected length of one year or less, which is an optional exemption that is permitted under the adopted rules. 
+
+Other
+income and other expenses 
+
+Other
+income and other expenses are recognized on an accrual basis in accordance with the substance of the relevant agreements. 
+
+potentially dilutive shares as of July 31, 2021. 
+
+t have any material unrecognized tax benefits. 
+
+The
+Company is governed by the Income Tax Laws of the PRC. The PRC federal statutory tax rate is . The Company files income tax returns
+with the relevant government authorities in the PRC. The Company does not believe there will be any material changes in its unrecognized
+tax positions over the next 12 months. 
+
+The
+Company s policy is to recognize interest and penalties accrued on any unrecognized tax benefits as a component of income tax expense.
+The Company does not have any accrued interest or penalties associated with any unrecognized tax benefits, nor was any interest expense
+recognized during the year ended July 31, 2021 and the year ended July 31, 2020. The Company s effective tax rate differs from
+the PRC federal statutory rate primarily due to non-deductible expenses, temporary differences, and preferential tax treatment. 
+
+Pending
+ input VAT 
+
+Prepaid
+ legal service fee 
+ 
+ - 
+ 
+ Advance
+ for R D service fee 
+ 
+ - 
+ 
+ Others 
+
+Total 
+
+The
+Company leases an office and paid an amount equal to two months rent as a security deposit. 
+
+On
+April 22, 2021, the Company prepaid to a third party for a research and development project on the backpack. 
+
+to a third party for the purchase of a car. 
+
+Finished
+ goods 
+
+Total
+ inventories 
+
+There
+is inventory allowance for the year ended July 31, 2021 and the year ended July 31, 2020. 
+
+. The IT servers were delivered to Mr. Zhao
+on Aug 10, 2021. 
+
+Office
+ equipment 
+
+Less:
+ accumulated depreciation 
+
+Total 
+
+During
+the year ended July 31, 2021, the Company acquired 1 motor vehicle costing and office equipment consisting of 4 notebook computers,
+costing an aggregate of , and 6 desktop computers, costing an aggregate of , and 1 digital camera, costing , and 10
+cell phones, costing an aggregate of , for a total cost of . Depreciation expense for the year ended July 31, 2021 and
+year ended July 31, 2020 was and , respectively. 
+
+for income generated and operation in the special
+administrative region. 
+
+The
+Company operates in the PRC and files tax returns in PRC jurisdictions. Income generated and operations in the PRC are subject to a tax
+rate of . 
+
+The
+full realization of the tax benefit associated with a carry forward depends predominantly upon the Company s ability to generate
+taxable income during the carry forward period. 
+
+In
+assessing the realization of deferred tax assets, management considers whether it is more likely than not that some portion or all of
+the deferred tax assets will be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future
+taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled reversal
+of deferred tax liabilities, projected future taxable income and tax planning strategies in making this assessment. A valuation allowance
+is provided for deferred tax assets if it is more likely than not these items will either expire before the Company is able to realize
+their benefits, or that future deductibility is uncertain. 
+
+Expenses
+ not deductible 
+
+Valuation
+ allowance 
+
+Income
+ tax expense 
+
+For
+ the year ended July 31, 2021 
+ For
+ the year ended July 31, 2020 
+ 
+ PRC
+ statutory tax rate 
+
+Computed
+ expected benefits 
+
+Expenses
+ not deductible 
+
+Valuation
+ allowance 
+
+Income
+ tax expense 
+
+Value
+added tax VAT 
+
+Pursuant
+to the Provisional Regulations on Value-Added Tax of the PRC and its implementation regulations, unless otherwise stipulated by relevant
+laws and regulations, any entity or individual engaged in the sales of goods, provision of processing, repairs and replacement services
+and importation of goods into China is generally required to pay a value-added tax, or VAT, for revenues generated from sales of products,
+while qualified input VAT paid on taxable purchases can be offset against such output VAT. 
+
+According
+to the Announcement on Relevant Policies for Deepening Value-added Tax Reform jointly promulgated by the Chinese Ministry of Finance,
+the State Administration of Taxation and the General Administration of Customs, which became effective on April 1, 2019, the taxable
+goods previously subject to VAT rates of and , respectively, become subject to lower VAT rates of and respectively starting
+from April 1, 2019. Our sales of goods are subject to VAT rates of . 
+
+Bang
+ Bi Tuo (Shen Zhen) Technology Co., LTD. 
+
+The
+balances with related parties are unsecured, non-interest bearing and repayable on demand. 
+
+- 
+
+Zhao
+ Lixin 
+ 
+ (1) 
+ - 
+
+(1) 
+
+The
+balance with related party is unsecured, non-interest bearing and repayable on demand. 
+
+Service
+ provided by Hang Zhou Huo Bao Bao AD and Media Co. Ltd. 
+ 
+ - 
+
+Cash
+ advance to related parties 
+
+Bang
+ Bi Tuo (Shen Zhen) Technology Co., Ltd. 
+
+Hang
+ Zhou Huo Bao Bao AD and Media Co. Ltd. 
+ - 
+
+Wang
+ Zhen 
+ 
+ - 
+
+Repayment
+ from related parties 
+
+Bang
+ Bi Tuo (Shen Zhen) Technology Co., Ltd. 
+ 
+ - 
+ 
+ Wang
+ Zhen 
+ 
+ - 
+
+Cash
+ advance from related parties 
+
+Wang
+ Zhen 
+ - 
+
+Zhao
+ Lixin 
+ 
+ - 
+
+Repayment
+ to related parties 
+
+Wang
+ Zhen 
+
+Such reserves may be used to offset accumulated losses or increase the registered
+capital of the company, subject to the approval from the PRC authorities, and are not available for dividend distribution to the shareholders.
+There is and Nil reserve provided for the year ended July 31, 2021 and the year ended July 31, 2020, respectively. 
+
+Currency
+translation reserve 
+
+The
+currency translation reserve represents translation differences arising from translation of foreign currency financial statements into
+the Company s functional currency. 
+
+and operating lease liabilities of . 
+
+The
+adoption of the new lease guidance did not have a material impact on the Company s results of operations or liquidity but resulted
+in the recognition of operating lease liabilities and operating lease right-of-use assets on its balance sheets. Right-of-use ROU assets represent the right to use an underlying asset for the lease term, and lease liabilities represent the obligation to make lease
+payments arising from the lease. ROU assets and liabilities are recognized at the lease commencement date based on the estimated present
+value of lease payments over the lease term. The Company has a lease for the office in Shenzhen, PRC, under an operating lease , which is classified as an operating lease. There are no residual value guarantees and no restrictions or covenants imposed
+by the lease. Rent expense for the year ended July 31, 2021 and the year ended July 31, 2020 were and , respectively.
+Cash paid for the operating lease was included in the operating cash flows. 
+
+There
+are no residual value guarantees and no restrictions or covenants imposed by the lease. As of July 31, 2021, the Company has 
+of right-of-use assets, in current operating lease liabilities and Nil in non-current operating lease liabilities. 
+
+Significant
+assumptions and judgments made as part of the adoption of this new lease standard include determining (i) whether a contract contains
+a lease, (ii) whether a contract involves an identified asset, and (iii) which party to the contract directs the use of the asset. The
+discount rates used to calculate the present value of lease payments were determined based on hypothetical borrowing rates available
+to the Company over terms similar to the lease terms. 
+
+After
+ 1 year but within 5 years 
+ - 
+ 
+ Total
+ lease payments 
+
+Less:
+ imputed interest 
+
+Total
+ lease obligations 
+
+Less:
+ current obligations 
+
+Long-term
+ lease obligations 
+ - 
+
+Right-of-use
+ assets obtained in exchange for operating lease liabilities 
+
+Remaining
+ lease term for operating lease (years) 
+
+Weighted
+ average discount rate for operating lease 
+
+Selected
+information in the segment structure is presented in the following tables: 
+
+Advertising
+ services 
+ 
+ - 
+ 
+ Total
+ of reportable segments and consolidated revenue 
+
+Income
+from operations by segment for the year ended July 31, 2021 and 2020 are as follows: 
+
+The
+ year ended 
+
+July
+ 31, 
+
+2021 
+ 2020 
+ 
+ Mobile
+ advertisement backpack 
+
+Advertising
+ services 
+ 
+ - 
+ 
+ Total
+ of reportable segments 
+
+Reconciliation
+ Corporate 
+
+Total
+ consolidated profit from operations 
+
+Total
+assets by segment as at July 31, 2021 and July 31, 2020 are as follows: 
+
+Total
+ assets 
+ July
+ 31, 2021 
+ July
+ 31, 2020 
+ 
+ Mobile
+ advertisement backpack 
+
+Advertising
+ services 
+ 
+ - 
+ 
+ Total
+ of reportable segments 
+
+Reconciliation
+ Corporate 
+
+Consolidated
+ total assets 
+
+47 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+On
+June 10, 2020, the Company dismissed Jorgensen Co. Jorgensen as our independent registered public accounting firm.
+The reports of Jorgensen on our financial statements for the fiscal years ended July 31, 2019 and 2018 did not contain an adverse opinion
+or disclaimer of opinion, and they were not qualified or modified as to uncertainty, audit scope or accounting principles, except that
+such reports included a going concern qualification. During our fiscal years ended July 31, 2019 and 2018 and the subsequent interim
+period preceding their dismissal, there were no disagreements with Jorgensen, whether or not resolved, on any matter of accounting principles
+or practices, financial statement disclosure or auditing scope or procedure, which, if not resolved to the satisfaction of Jorgensen,
+would have caused them to make reference to the subject matter of the disagreement in connection with their report on our financial statements. 
+
+On
+June 10, 2020, the Company engaged Pan-China Singapore PAC PCCPA to replace Jorgensen as its independent registered public
+accounting firm to audit the Company s financial statements for the fiscal year ended July 31, 2020. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+Under
+the supervision and with the participation of our principal executive officer, Zhao Lixin, and principal financial officer, Feng Wanning,
+we conducted an evaluation of our disclosure controls and procedures, as such term is defined under Rule 13a-15(e) and Rule 15d-15(e)
+promulgated under the Exchange Act, as of July 31, 2021. Based on this evaluation, our principal executive officer and principal financial
+officer concluded that our disclosure controls and procedures were ineffective at such time to ensure that information required to be
+disclosed by us in the reports filed or submitted under the Exchange Act were recorded, processed, summarized and reported within the
+time periods specified in the SEC s rules and forms. Our principal executive officer and principal financial officer also concluded
+that our disclosure controls, which are designed to ensure that information required to be disclosed by us in the reports that we file
+or submit under the Exchange Act is accumulated and communicated to management, were inappropriate to allow timely decisions regarding
+required disclosure. 
+
+Based
+on management s assessment, the Company determined that there were material weaknesses in its internal control over financial reporting
+as of July 31, 2021. The material weaknesses identified were as follows: 
+
+Due to the small size of the Company and the lack of an accounting and finance department or a sufficient
+number of experienced accounting and finance personnel, there were limited controls over information processing. 
+
+There was an inadequate segregation of duties consistent with control objectives as management was composed
+of only three persons at fiscal year-end, and there remains an issue with inadequate segregation of duties as of the date of filing this
+Annual Report. In order to remedy this situation, we would need to hire additional managers and staff to provide greater segregation
+of duties. Currently, it is not financially feasible to hire additional managers and staff to obtain optimal segregation of duties. Management
+will reassess this matter on an ongoing basis to determine whether improvement in segregation of duties is feasible. 
+
+The Company does not have a formal audit committee with a financial expert, and thus the Company lacks
+the Board oversight role within the financial reporting process. 
+
+Although the financial statements and footnotes are reviewed by our management, we do not have formal policies
+and procedures necessary to adequately review significant accounting transactions and the accounting treatment of those transactions. 
+
+48 
+
+As
+a result of these material weaknesses, our management concluded that our internal control over financial reporting was not effective
+as of July 31, 2021. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting,
+such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented
+or detected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal control over financial
+reporting that is less severe than a material weakness, yet important enough to merit attention by those responsible for oversight of
+the company s financial reporting. 
+
+Evaluation
+of Internal Controls and Procedures 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting. As defined in Rule 13a-15(f) under
+the Exchange Act, internal control over financial reporting is a process designed by, or under the supervision of, the Company s
+principal executive, principal operating and principal financial officers, or persons performing similar functions, and effected by the
+Company s Board of Directors, management and other personnel, to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted
+in the United States of America. 
+
+The
+Company s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance
+of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the Company s assets;
+(2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance
+with generally accepted accounting principles, and that receipts and expenditures of the Company are being made only in accordance with
+authorizations of the Company s management and directors; and (3) provide reasonable assurance regarding prevention or timely detection
+of unauthorized acquisition, use or disposition of the Company s assets that could have a material effect on the financial statements. 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Our
+management assessed the effectiveness of our internal control over financial reporting at July 31, 2021, and determined that, as of July
+31, 2021, our internal control over financial reporting was not effective. 
+
+This
+Annual Report does not include an attestation report of our registered public accounting firm regarding internal control over financial
+reporting. Management s report was not subject to attestation by the Company s registered public accounting firm pursuant
+to the exemption provided to issuers that are not large accelerated filers nor accelerated filers under the
+Dodd-Frank Wall Street Reform and Consumer Protection Act. 
+
+Changes
+in Internal Controls over Financial Reporting 
+
+There
+have been no changes to our internal controls over financial reporting that occurred during our last fiscal year that have materially
+affected, or are reasonably likely to materially affect, our internal controls over financial reporting. 
+
+ITEM
+9B. OTHER INFORMATION 
+
+None 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+Set
+forth below are the names and ages of our current directors and executive officers and their principal occupations at present and for
+at least the past five years. 
+
+Name 
+ 
+ Age 
+ 
+ Positions and Offices Held 
+ 
+ Date Appointed 
+ 
+ Zhao Lixin 
+ 
+ 44 
+ 
+ President, CEO and Director 
+ 
+ February 18, 2020 
+ 
+ Feng Wanning 
+ 
+ 46 
+ 
+ Treasurer, CFO, Secretary and Director 
+ 
+ August 12, 2020 (1) 
+
+(1)
+ Ms. Feng was appointed Secretary as of January 16, 2021. 
+
+The
+following is a brief description of the background of our officers and directors. 
+
+Mr.
+Zhao Lixin , age 44, has been the President, Chief Executive Officer and a director of the Company since February 18, 2020. Mr.
+Zhao also served as our Treasurer, Chief Financial Officer and Secretary from February 18, 2020 until August 12, 2020. Mr. Zhao graduated
+from Qingdao University of Technology with a bachelor degree in Mechanical Design in 2000. From January 2016 until now, Mr. Zhao has
+worked at Liaocheng Yili Network Information Technology Company Limited LYN ), as company chairman. He is responsible for
+making company decisions and strategizing the direction of the company. In addition, he is involved in technology innovation. Since July
+2019, he has worked as a research officer of the Muyan Block Chain (Digital Assets) Business Model Research Institute of China Management
+Science Research Institute. His main role is to provide advice and ideas on the feasibility of corresponding digital asset operation
+developments. In September 2018, he won the Top Ten Innovative People in Leading China s Economic Development Industry 
+Award in China, rewarding his contribution in the block chain technology development field. 
+
+Ms.
+Feng Wanning , age 46, has been the Treasurer and Chief Financial Officer of the Company since August 12, 2020 and Secretary since
+January 16, 2021. She has been a director since April 15, 2021. Ms. Feng received her MBA from Tianjin University in 2016. In 2016, she
+served as Chief Financial Officer of Asia Equity Exchange Group, Inc. (OTCQB: AEEX). Since March 2017, Ms. Feng has served as Chief Financial
+Officer of Century Investment Holding Company, based in Shenzhen, China. Ms. Feng has served as the Financial Controller of Mu Yan Shenzhen
+since November 2019. 
+
+Term
+of Office 
+
+Our
+directors hold their position until the next annual meeting of shareholders and until their successors are elected and qualified by our
+shareholders, or until their earlier death, retirement, resignation or removal. 
+
+Family
+Relationships 
+
+There
+are no family relationships between the Company and any of our current or proposed directors or executive officers. 
+
+Corporate
+Governance 
+
+Our
+board of directors has not established any committees, including an audit committee, a compensation committee or a nominating committee,
+or any committee performing a similar function. The functions of those committees are being undertaken by our Board. Because we do not
+have any independent directors, our Board believes that the establishment of committees of our Board would not provide any benefits to
+the Company and could be considered more form than substance. 
+
+We
+do not have a policy regarding the consideration of any director candidates that may be recommended by our shareholders, including the
+minimum qualifications for director candidates, nor have our officers and directors established a process for identifying and evaluating
+director nominees. 
+
+49 
+
+As
+with most small companies, until such time as we further develop our business, achieve a stronger revenue base and have sufficient working
+capital to purchase directors and officers insurance, we do not have any immediate prospects to attract independent directors.
+When we are able to expand our Board to include one or more independent directors, we intend to establish an audit committee of our Board
+of Directors. It is our intention that one or more of these independent directors will also qualify as an audit committee financial expert.
+Our securities are not quoted on an exchange that has requirements that a majority of our Board members be independent and we are not
+currently otherwise subject to any law, rule or regulation requiring that all or any portion of our Board of Directors include independent 
+directors, nor are we required to establish or maintain an audit committee or other committee of our Board. 
+
+Communications
+with the Board of Directors 
+
+Shareholders
+with questions about the Company are encouraged to contact the Company by sending communications to the attention of the Chief Executive
+Officer at Room 1703B, Zhongzhou Building, No. 3088, Jintian Road, Futian District, Shenzhen City, Guangdong Province, PRC 518000. Stockholders
+may communicate with the Board of Directors by sending their communications to the Board of Directors, c/o the Chief Executive Officer
+at the same address. 
+
+Director
+Compensation 
+
+Our
+current directors are employees of the Company. They have not received and will not receive compensation for their service outside the
+compensation set forth in the Summary Compensation Table below. 
+
+If
+our Board consists of any non-employee directors in the future, we may compensate our non-employee directors for their service in the
+future. We also intend to allow our non-employee directors to participate in any equity compensation plans that we adopt in the future. 
+
+Director
+Independence 
+
+None
+of our directors qualifies as an independent director under the rules of NASDAQ, Marketplace Rule 4200(a). 
+
+Audit
+Committee 
+
+We
+do not presently have an audit committee. Our Board of Directors currently acts as our audit committee. 
+
+Nominating
+Committee 
+
+We
+do not presently have a nominating committee. Our Board of Directors currently acts as our nominating committee. 
+
+Procedures
+for Nominating Directors 
+
+There
+have been no material changes to the procedures by which security holders may recommend nominees to the Board during the fiscal year
+ended July 31, 2021. 
+
+Involvement
+in Certain Legal Proceedings 
+
+During
+the past ten years no current or incoming director, executive officer, promoter or control person of the Company has been involved in
+any of the following: 
+
+(1)
+A petition under the Federal bankruptcy laws or any state insolvency law which was filed by or against, or a receiver, fiscal agent or
+similar officer was appointed by a court for the business or property of such person, or any partnership in which he was a general partner
+at or within two years before the time of such filing, or any corporation or business association of which he was an executive officer
+at or within two years before the time of such filing; 
+
+50 
+
+(2)
+Such person was convicted in a criminal proceeding or is a named subject of a pending criminal proceeding (excluding traffic violations
+and other minor offenses); 
+
+(3)
+Such person was the subject of any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent
+jurisdiction, permanently or temporarily enjoining him from, or otherwise limiting, the following activities: 
+
+i.
+Acting as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage
+transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing,
+or as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee of any investment
+company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice in connection
+with such activity; 
+
+ii.
+Engaging in any type of business practice; or 
+
+iii.
+Engaging in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of
+Federal or State securities laws or Federal commodities laws; 
+
+(4)
+Such person was the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any Federal or State
+authority barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any activity described
+in paragraph (f)(3)(i) of this section, or to be associated with persons engaged in any such activity; 
+
+(5)
+Such person was found by a court of competent jurisdiction in a civil action or by the Commission to have violated any Federal or State
+securities law, and the judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended, or
+vacated; 
+
+(6)
+Such person was found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated
+any Federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been
+subsequently reversed, suspended or vacated; 
+
+(7)
+Such person was the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not
+subsequently reversed, suspended or vacated, relating to an alleged violation of: 
+
+i.
+Any Federal or State securities or commodities law or regulation; 
+
+ii.
+Any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent
+injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease and desist order, or removal or
+prohibition order; or 
+
+iii.
+Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+
+(8)
+Such person was the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory
+organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section
+1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has
+disciplinary authority over its members or persons associated with a member. 
+
+51 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+The
+following table sets forth information concerning the total compensation paid or accrued by us during the three fiscal years ended July
+31, 2021, 2020 and 2019 to (i) all individuals who served as our principal executive officer or acted in a similar capacity for us at
+any time during the two fiscal years ended July 31, 2021 and 2020, and (ii) all individuals that served as executive officers of the
+Company at any time during the two fiscal years ended July 31, 2021 and 2020 who received annual compensation during the two fiscal years
+ended July 31, 2021 and 2020 in excess of 100,000. 
+
+Summary
+Compensation Table 
+
+Compensation
+ Paid 
+ 
+ Name
+ and Principal Position 
+ Year 
+ Salary ) 
+ Bonus ) 
+ Other 
+ Compensation ) 
+ 
+ Zhao
+ Lixin, CEO, CFO (1) 
+ 2021 2020 2019 
+ 31,072
+ 0 0 
+ 0 0 0 
+ 0
+ 0 0 
+ 
+ Feng
+ Wanning, CFO (2) 
+ 2021 2020 2019 
+ 101,449
+ 0 0 
+ 0 0 0 
+ 0
+ 0 0 
+
+(1) 
+ Zhao
+ Lixin has served as our Chief Executive Officer from February 18, 2019 through the present. He also served as our Chief Financial Officer
+ from February 18, 2019 to August 12, 2020. 
+
+(2) 
+ Feng
+ Wanning has served as our Chief Financial Officer from August 12, 2020 through the present and as our corporate Secretary from January
+ 16, 2021 through the present. 
+
+Employment
+Agreements 
+
+Feng
+Wanning, our Treasurer and CFO, has entered into a one-year Employment Agreement with Mu Yan Shenzhen for a term which commenced November
+25, 2019 and which has been extended to November 24, 2023, unless renewed by mutual agreement or earlier terminated. The contract may
+be terminated by mutual agreement or by either party under certain specified conditions. Ms. Feng is currently paid a monthly salary
+of RMB 45,000, after tax. Ms. Feng has also entered into a Confidentiality Agreement with Mu Yan Shenzhen. 
+
+Outstanding
+Equity Awards at July 31, 2021 
+
+At
+this time, we do not have any outstanding equity awards and do not have any equity incentive, option or similar plans. 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+
+The
+following table sets forth certain information regarding beneficial ownership of our Common Stock as of September 30, 2021 by (i) each
+person (or group of affiliated persons) who is known by us to own more than five percent of the outstanding shares of our Common Stock,
+(ii) each director, executive officer and director nominee, and (iii) all of our directors, executive officers and director nominees
+as a group. As of September 30, 2021, we had 307,430,000 shares of Common Stock issued and outstanding. 
+
+Beneficial
+ownership is determined in accordance with SEC rules and generally includes voting or investment power with respect to securities. Unless
+otherwise noted, the principal address of each of the stockholders, directors and officers listed below is Room 1703B, Zhongzhou Building,
+No. 3088, Jintian Road, Futian District, Shenzhen City, Guangdong Province, PRC 518000. 
+
+All
+share ownership figures include shares of our Common Stock issuable upon securities convertible or exchangeable into shares of our Common
+Stock within sixty (60) days, which are deemed outstanding and beneficially owned by such person for purposes of computing his or her
+percentage ownership, but not for purposes of computing the percentage ownership of any other person. 
+
+52 
+
+Name
+ and Address of Beneficial Owner 
+ Amount
+ and Nature
+ of Beneficial Ownership 
+ Percent
+ of Class (1) 
+ 
+ Officers
+ and Directors 
+
+Zhao
+ Lixin, Chief Executive Officer and Director 
+ 4,000,000 
+ 1.30 
+ 
+ Feng
+ Wanning, Chief Financial Officer and Director 
+ 348,570 
+ 0.11 
+
+Total
+ Held by Officers and Directors as a Group (2 persons): 
+ 4,348,570 
+ 1.41 
+
+Five
+ Percent Shareholders 
+
+Mega
+ Champion Holdings Co., Ltd 
+ 90,000,000 
+ 29.28 
+ 
+ Winning
+ Match International Co., Ltd 
+ 75,000,000 
+ 24.40 
+ 
+ Praise
+ Sheen Co., Ltd 
+ 75,000,000 
+ 24.40 
+ 
+ Wang
+ Zhen 
+ 60,000,000 
+ 19.52 
+
+(1)
+ Based on 307,430,000 shares of Common Stock outstanding. Includes, where applicable, shares of Common Stock issuable upon the exercise
+of warrants and conversion of debt held by such person that may be exercised within 60 days. Unless otherwise indicated, we believe that
+all persons named in the table above have sole voting power and/or investment power with respect to all shares of Common Stock beneficially
+owned by them. 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+
+Policy
+Regarding Transactions with Related Persons 
+
+We
+do not have a formal, written policy for the review, approval or ratification of transactions between us and any director or executive
+officer, nominee for director, 5 stockholder or member of the immediate family of any such person that is required to be disclosed under
+Item 404(a) of Regulation S-K. 
+
+Certain
+Relationships and Related Transactions, Director Independence 
+
+SEC
+rules require us to disclose any transaction or currently proposed transaction in which we were a participant and in which any related
+person has or will have a direct or indirect material interest involving the lesser of 120,000 or 1 of the average of our total assets
+as of the end of last two completed fiscal years. A related person is any executive officer, director, nominee for director or holder
+of 5 or more of our Common Stock, or an immediate family member of any of those persons. 
+
+Related
+Party Transactions 
+
+During
+the fiscal year ended July 31, 2020, the Company paid 569,058 to Hang Zhou Huo Bao Bao AD and Media Co., Limited Hang Zhou for the purchase of products and made cash advances to that company aggregating 214,752. During the fiscal year ended July 31, 2021,
+the Company paid Hang Zhou 232,158 for services rendered. The sole shareholder of Hang Zhou is also the sole shareholder of one of the
+Company s principal shareholders, which received its shares in the Share Exchange. As of July 31 2021, 139,315 of the 214,752
+advanced to Hang Zhou by the Company remained outstanding. The advances are non-interest bearing and due on demand. 
+
+During
+the fiscal year ended July 31, 2020, the Company made cash advances aggregating 859,008 to Bang Bi Tuo (Shen Zhen) Technology Co., Limited Bang Bi Tuo and during the fiscal year ended July 31, 2021, the Company made additional cash advances in the aggregate
+amount of 228,493 to that company. Mr. Zhao Lixin, the Company s Chief Executive Officer, is the general manager of Bang Bi Tuo.
+As of July 31 2021, 232,158 of the 1,087,501 advanced to Bang Bi Tuo by the Company remained outstanding. The advances are non-interest
+bearing and due on demand. 
+
+53 
+
+During
+the fiscal year ended July 31, 2020, the Company received cash advances aggregating 797,856 from Mr. Wang Zhen, one of the Company s
+principal shareholders, who received his shares in the Share Exchange. As of July 31, 2021, the entire amount has been repaid to Mr.
+Zhen. During the fiscal year ended July 31, 2021, the Company made cash advances aggregating 115,818 to Wang Zhen, all of which was
+repaid to the Company as of July 31, 2021. 
+
+During
+the fiscal year ended July 31, 2021, the Company received cash advances aggregating 2,554,100 from Mr. Zhao Lixin, the Company s
+Chief Executive Officer. The entire amount of those advances remains outstanding as of July 31, 2021. 
+
+ITEM
+14. PRINCIPAL ACCOUNTANT FEES AND SERVICES. 
+
+Pan-China
+Singapore PAC is the Company s independent registered public accounting firm for the fiscal years ended July 31, 2021 and July
+31, 2020. Fees billed to the Company for the last two fiscal years are set forth below: 
+
+Fiscal
+ Year 
+ Ended July
+ 31, 
+ Fiscal
+ Year 
+ Ended July
+ 31, 
+
+2021 
+ 2020 
+ 
+ Audit
+ Fees 
+ 49,500 (1) 
+ 90,000 (1) 
+ 
+ Audit
+ Related Fees 
+ 30,000 (2) 
+ 50,000 (2) 
+ 
+ Tax
+ Fees 
+ - 
+ - 
+ 
+ All
+ other Fees 
+ - 
+ - 
+ 
+ Total 
+ 79,500 
+ 140,000 
+
+(1)
+ Audit Fees consist of fees billed for services rendered for the audit of the Company s annual consolidated financial
+statements included in the Company s annual reports on Form 10-K and other regulatory filings. 
+
+ (2)
+ Audit related fees are for review of the consolidated financial statements included in the Company s interim reports
+on Form 10-Q. 
+
+ITEM
+15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES. 
+
+The
+following exhibits are filed as part of this Annual Report. 
+
+Exhibit 
+
+Number 
+ 
+ Description 
+
+31.1 
+ 
+ Certification
+ of Chief Executive Officer pursuant to Section 302(a) of the Sarbanes-Oxley Act 
+ 
+ 31.2 
+ 
+ Certification
+ of Chief Financial Officer pursuant to Section 302(a) of the Sarbanes-Oxley Act 
+ 
+ 32.1 
+ 
+ Certification
+ of Chief Executive Officer Under Section 1350 as Adopted Pursuant Section 906 of the Sarbanes-Oxley Act 
+ 
+ 32.2 
+ 
+ Certification
+ of Chief Financial Officer Under Section 1350 as Adopted Pursuant Section 906 of the Sarbanes-Oxley Act 
+
+ITEM
+16. FORM 10-K SUMMARY. 
+
+None 
+
+54 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+Date:October
+ 29, 2021 
+ MU
+ YAN TECHNOLOGY GROUP CO., LIMITED 
+
+By: 
+ /s/
+ ZHAO Lixin 
+
+ZHAO
+ Lixin, President 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated. 
+
+Date:
+ October 29, 2021 
+ By: 
+ /s/
+ ZHAO Lixin 
+
+ZHAO
+ Lixin, President, CEO and Director 
+
+Date:
+ October 29, 2021 
+ By: 
+ /s/
+ FENG Wanning 
+
+FENG
+ Wanning, Treasurer, CFO, Secretary and Director 
+
+55 
+
+<EX-31.1>
+ 6
+ ex31-1.htm
+
+EXHIBIT
+31.1 
+
+CERTIFICATION
+PURSUANT TO 
+
+ SECTION
+302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+ZHAO Lixin, certify that: 
+
+1.
+I have reviewed this Annual Report on Form 10-K of Mu Yan Technology Group Co., Limited. (the Company ); 
+
+2.
+Based on my knowledge, this Annual Report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this Annual Report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this Annual Report, fairly present in all
+material respects the financial condition, results of operations and cash flows of the Company as of, and for, the periods presented
+in this Annual Report; 
+
+4.
+I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Company and
+have: 
+
+a.
+designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the Company, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is being prepared; 
+
+b.
+designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles; 
+
+c.
+evaluated the effectiveness of the Company s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluations;
+and 
+
+d.
+disclosed in this report any change in the Company s internal control over financial reporting that occurred during the period
+covered by the Annual Report that has materially affected, or is reasonably likely to materially affect, the Company s internal
+control over financial reporting. 
+
+5.
+I have disclosed, based on our most recent evaluation of internal controls over financial reporting, to the Company s auditors
+and the audit committee of the Company s Board of Directors (or persons performing the equivalent function): 
+
+a.
+all significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting which are
+reasonably likely to adversely affect the Company s ability to record, process, summarize and report financial information; and 
+
+b.
+any fraud, whether or not material, that involves management or other employees who have a significant role in the Company s internal
+controls over financial reporting. 
+
+Date:
+ October 29, 2021 
+ /s/
+ ZHAO Lixin 
+
+ZHAO
+ Lixin, President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 7
+ ex31-2.htm
+
+EXHIBIT
+31.2 
+
+CERTIFICATION
+PURSUANT TO 
+
+ SECTION
+302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+FENG Wanning, certify that: 
+
+1.
+I have reviewed this Annual Report on Form 10-K of Mu Yan Technology Group Co., Limited. (the Company ); 
+
+2.
+Based on my knowledge, this Annual Report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this Annual Report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this Annual Report, fairly present in all
+material respects the financial condition, results of operations and cash flows of the Company as of, and for, the periods presented
+in this Annual Report; 
+
+4.
+I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Company and
+have: 
+
+a.
+designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the Company, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is being prepared; 
+
+b.
+designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles; 
+
+c.
+evaluated the effectiveness of the Company s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluations;
+and 
+
+d.
+disclosed in this report any change in the Company s internal control over financial reporting that occurred during the period
+covered by the Annual Report that has materially affected, or is reasonably likely to materially affect, the Company s internal
+control over financial reporting. 
+
+5.
+I have disclosed, based on our most recent evaluation of internal controls over financial reporting, to the Company s auditors
+and the audit committee of the Company s Board of Directors (or persons performing the equivalent function): 
+
+a.
+all significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting which are
+reasonably likely to adversely affect the Company s ability to record, process, summarize and report financial information; and 
+
+b.
+any fraud, whether or not material, that involves management or other employees who have a significant role in the Company s internal
+controls over financial reporting. 
+
+Date:
+ October 29, 2021 
+ /s/
+ FENG Wanning 
+
+FENG
+ Wanning 
+
+Treasurer
+ and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 8
+ ex32-1.htm
+
+EXHIBIT
+32.1 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+Pursuant
+to section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of section 1350, chapter 63 of title 18, United States Code),
+the undersigned officer of Mu Yan Technology Group Co., Limited, a Nevada corporation (the Corporation ), does hereby certify,
+to such officer s knowledge, that: 
+
+(1)
+The Annual Report on Form 10-K for the fiscal year ended July 31, 2021 (the Form 10-K of the Corporation fully complies
+with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and 
+
+(2)
+The information contained in the Form 10-K fairly presents, in all material respects, the financial condition and results of operations
+of the Corporation. 
+
+Date:
+ October 29, 2021 
+ /s/
+ ZHAO Lixin 
+
+ZHAO
+ Lixin 
+
+President
+ and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 9
+ ex32-2.htm
+
+EXHIBIT
+32.2 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350, 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+Pursuant
+to section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of section 1350, chapter 63 of title 18, United States Code),
+the undersigned officer of Mu Yan Technology Group Co., Limited, a Nevada corporation (the Corporation ), does hereby certify,
+to such officer s knowledge, that: 
+
+(1)
+The Annual Report on Form 10-K for the fiscal year ended July 31, 2021 (the Form 10-K of the Corporation fully complies
+with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and 
+
+(2)
+The information contained in the Form 10-K fairly presents, in all material respects, the financial condition and results of operations
+of the Corporation. 
+
+Date:
+ October 29, 2021 
+ /s/
+ FENG Wanning 
+
+FENG
+ Wanning 
+
+Treasurer
+ and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 10
+ mytg-20210731.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 12
+ mytg-20210731_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 13
+ mytg-20210731_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 14
+ mytg-20210731_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

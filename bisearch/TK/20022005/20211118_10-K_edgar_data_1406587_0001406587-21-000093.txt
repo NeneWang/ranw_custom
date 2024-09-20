@@ -1,0 +1,1694 @@
+<Header>
+<FileStats>
+    <FileName>20211118_10-K_edgar_data_1406587_0001406587-21-000093.txt</FileName>
+    <GrossFileSize>7092960</GrossFileSize>
+    <NetFileSize>184320</NetFileSize>
+    <NonText_DocumentType_Chars>1319124</NonText_DocumentType_Chars>
+    <HTML_Chars>2162189</HTML_Chars>
+    <XBRL_Chars>1702452</XBRL_Chars>
+    <XML_Chars>1606963</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001406587-21-000093.hdr.sgml : 20211118
+<ACCEPTANCE-DATETIME>20211118153721
+ACCESSION NUMBER:		0001406587-21-000093
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		75
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211118
+DATE AS OF CHANGE:		20211118
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Forestar Group Inc.
+		CENTRAL INDEX KEY:			0001406587
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		IRS NUMBER:				261336998
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33662
+		FILM NUMBER:		211424160
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2221 E. LAMAR BLVD.
+		STREET 2:		SUITE 790
+		CITY:			ARLINGTON
+		STATE:			TX
+		ZIP:			76006
+		BUSINESS PHONE:		817-769-1860
+
+	MAIL ADDRESS:	
+		STREET 1:		2221 E. LAMAR BLVD.
+		STREET 2:		SUITE 790
+		CITY:			ARLINGTON
+		STATE:			TX
+		ZIP:			76006
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Forestar Real Estate Group Inc.
+		DATE OF NAME CHANGE:	20071101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Forestar Real Estate Group LLC
+		DATE OF NAME CHANGE:	20070713
+
+</SEC-Header>
+</Header>
+
+ 0001406587-21-000093.txt : 20211118
+
+10-K
+ 1
+ for-20210930.htm
+ 10-K
+
+for-20210930 
+ 
+ Table of Contents 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ (Mark One) ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the Fiscal Year Ended , 2021 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the Transition Period From To 
+ Commission File Number: 
+ 
+ (Exact Name of Registrant as Specified in Its Charter) 
+ (State or Other Jurisdiction of Incorporation or Organization) (I.R.S. Employer Identification No.) 
+ , 
+ , 
+ (Address of Principal Executive Offices, including Zip Code) 
+ ) 
+ (Registrant s Telephone Number, Including Area Code) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of Each Class Trading Symbol Name of Each Exchange On Which Registered 
+ Securities registered pursuant to Section 12(g) of the Act: None 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer 
+ Non-accelerated filer o Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ The aggregate market value of the Common Stock held by non-affiliates of the registrant, based on the closing sales price of the Common Stock on the New York Stock Exchange on March 31, 2021, was approximately million. For purposes of this computation, all officers, directors, and 10 beneficial owners of the registrant (as indicated in Item 12) are deemed to be affiliates. Such determination should not be deemed an admission that such directors, officers, or 10 beneficial owners are, in fact, affiliates of the registrant. 
+ As of November 10, 2021, there were shares of Common Stock outstanding. 
+ DOCUMENTS INCORPORATED BY REFERENCE 
+ Selected portions of the Company s definitive proxy statement for the 2022 annual meeting of stockholders are incorporated by reference into Part III of this Form 10-K. 
+
+Table of Contents 
+
+FORESTAR GROUP INC. 
+ 2021 ANNUAL REPORT ON FORM 10-K 
+ TABLE OF CONTENTS 
+ 
+ Page PART I 
+ Item 1. 
+ Business 
+ 3 
+ Item 1A. 
+ Risk Factors 
+ 10 
+ Item 1B. 
+ Unresolved Staff Comments 
+ 21 
+ Item 2. 
+ Properties 
+ 21 
+ Item 3. 
+ Legal Proceedings 
+ 21 
+ Item 4. 
+ Mine Safety Disclosures 
+ 21 
+ PART II 
+ Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 22 
+ Item 6. 
+ [ Reserved] 
+ 24 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 24 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 35 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 36 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 60 
+ Item 9A. 
+ Controls and Procedures 
+ 60 
+ Item 9B. 
+ Other Information 
+ 60 
+ PART III 
+ Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 61 
+ Item 11. 
+ Executive Compensation 
+ 61 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 61 
+ Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 61 
+ Item 14. 
+ Principal Accountant Fees and Services 
+ 61 
+ PART IV 
+ Item 15. 
+ Exhibits and Financial Statement Schedules 
+ 62 
+ Item 16. 
+ 10-K Summary 
+ 64 
+ SIGNATURES 
+ 65 
+ 
+ 2 
+
+Table of Contents 
+
+PART I 
+
+Item 1. Business. 
+ 
+ Overview 
+ 
+ We are a national, well-capitalized residential lot development company focused primarily on selling finished single-family residential lots to homebuilders. Our strategy is focused on making investments in land acquisition and development to expand our residential lot development business across a geographically diversified national platform while consolidating market share in the fragmented U.S. lot development industry. We are primarily investing in short-duration, phased development projects. This strategy is a unique, lower-risk business model that we expect will produce more consistent returns than other public and private land developers. We also make strategic short-term investments in finished lots (lot banking) and undeveloped land with the intent to sell these assets within a short time period utilizing available capital prior to its deployment into longer-term lot development projects. At September 30, 2021, we had operations in 56 markets in 23 states, and our lot position consisted of 97,000 residential lots, of which approximately 64,400 were owned and 32,600 were controlled through purchase contracts. At September 30, 2021, our lots owned included approximately 5,300 lots that are fully developed, of which approximately 300 are related to lot banking. 
+ 
+ In October 2017, we became a majority-owned subsidiary of D.R. Horton, Inc. (D.R. Horton) by virtue of a merger with a wholly-owned subsidiary of D.R. Horton. Immediately following the merger, D.R. Horton owned 75 of our outstanding common stock, and as of September 30, 2021 they owned 63 of our outstanding common stock. As our controlling shareholder, D.R. Horton has significant influence in guiding our strategic direction and operations. In connection with the merger, we entered into certain agreements with D.R. Horton including a Stockholder s Agreement, a Master Supply Agreement and a Shared Services Agreement. Under the terms of the Master Supply Agreement, we supply finished lots to D.R. Horton at market terms and both companies identify land development opportunities to expand our portfolio of assets. Of our total owned residential lots, approximately 21,000 are under contract to sell to D.R. Horton. Additionally, D.R. Horton has the right of first offer on approximately 18,200 of our owned residential lots based on executed purchase and sale agreements. 
+ 
+ 3 
+
+Table of Contents 
+
+We manage our operations through our real estate segment. Our results of operations, including information regarding our real estate segment, are discussed in Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations, and in Item 8, Financial Statements and Supplementary Data. We conduct our operations in the states and markets listed below. 
+ State Market State Market Alabama Birmingham Maryland Washington/Arlington/Alexandria Huntsville Mobile/Baldwin County Minnesota Minneapolis/St. Paul Arizona Phoenix Nevada Las Vegas Tucson New Jersey Southern New Jersey California San Diego County Riverside County New Mexico Albuquerque/Santa Fe Sacramento Modesto North Carolina Charlotte Raleigh-Durham Colorado Denver Asheville Fort Collins Greensboro Wilmington Florida Fort Myers/Naples Volusia County Ohio Columbus Jacksonville Lakeland Oregon Portland/Salem Miami/Ft. Lauderdale West Palm Beach Pennsylvania Allentown/Bethlehem/Easton Orlando Melbourne South Carolina Charleston Pensacola/Panama City Myrtle Beach Port St. Lucie Greenville Tampa/Sarasota Ocala Tennessee Nashville Gainesville Knoxville Georgia Atlanta Texas Austin Augusta Dallas Savannah Ft. Worth Houston Illinois Chicago San Antonio Indiana Indianapolis Utah Salt Lake City Iowa Des Moines Washington Seattle/Tacoma/Everett Spokane 
+ 
+ 4 
+
+Table of Contents 
+
+When evaluating new or existing markets for purposes of capital allocation, we consider local, market-specific factors, including among others: 
+ Economic conditions; 
+ Employment levels and job growth; 
+ Local housing affordability; 
+ Availability of land and lots in desirable locations on acceptable terms; 
+ Land entitlement and development processes; 
+ Availability of qualified subcontractors; 
+ New and secondary home sales activity; 
+ Competition; and 
+ Performance capabilities of our local management teams. 
+ 
+ Business Operations 
+ 
+ The majority of our real estate projects are single-family residential communities. We develop lots for single-family homes on sites we typically purchase in the open market and sell residential finished lots primarily to local, regional and national homebuilders. In select situations, we contract with D.R. Horton for land development services, generally in geographic markets where we do not have established development teams and capabilities. Our managers are responsible for the following activities related to our land and lot acquisition and development activities. 
+ Site selection, which involves: 
+ A feasibility study; 
+ Soil and environmental reviews; 
+ Review of existing zoning and other governmental requirements; 
+ Review of the need for and extent of offsite work required to obtain project entitlements and to complete necessary infrastructure; and 
+ Financial analysis of the potential project; 
+ Negotiating land acquisition, lot purchase and related contracts; 
+ Obtaining all necessary land development approvals; 
+ Selecting land development subcontractors and ensuring their work meets our contracted scopes; 
+ Planning and managing land development schedules; 
+ Determining the sales pricing for each lot in a given project; 
+ Developing and implementing marketing and sales plans; and 
+ Coordinating all interactions with customers throughout the lot sale process. 
+ 
+ Our corporate executives and corporate office personnel provide control and oversight functions to many important risk elements in our operations, including: 
+ Allocation of capital; 
+ Cash management; 
+ Review and approval of business plans and budgets; 
+ Review, approval and funding of land and lot acquisitions (Board of Directors must approve acquisitions greater than 20 million in accordance with the Stockholder's Agreement); 
+ Environmental assessments of land and lot acquisitions; 
+ Review of all business and financial analysis for potential land and lot inventory investments; 
+ 5 
+
+Table of Contents 
+
+Oversight of land and lot inventory levels; 
+ Monitoring and analysis of profitability, returns and costs; and 
+ Review of major personnel decisions and incentive compensation plans. 
+ 
+ Our corporate executives and corporate office personnel are responsible for establishing our operational policies and internal control standards and for monitoring compliance with established policies and controls throughout our operations. We have a Shared Services Agreement with D.R. Horton whereby D.R. Horton provides us with certain administrative, compliance, operational and procurement services. Our corporate executives and corporate office departments are responsible for, and provide oversight and review for, the following shared services performed by D.R. Horton: 
+ Finance and treasury; 
+ Risk and litigation management; 
+ Information technology; 
+ Internal audit; 
+ Investor and media relations; and 
+ Human resources, payroll and employee benefits. 
+ 
+ We have a Master Supply Agreement with D.R. Horton which establishes our business relationship with D.R. Horton as both companies identify residential real estate opportunities. The agreement provides D.R. Horton the right of first offer to purchase, at market prices and terms, up to 100 of the lots from D.R. Horton sourced projects, up to 50 of the lots in the first phase of a Forestar sourced project and up to 50 of the lots in any subsequent phase in which D.R. Horton purchases at least 25 of the lots in the previous phase. D.R. Horton has no such rights on third-party sourced development opportunities. The Master Supply Agreement continues until the earlier of (i) the date at which D.R. Horton owns less than 15 of our voting shares or (ii) June 29, 2037; however, we may terminate the agreement at any time when D.R. Horton owns less than 25 of our voting shares. 
+ 
+ We have a Stockholder's Agreement with D.R. Horton which defines D.R. Horton s right to nominate members to our Board, requires D.R. Horton s consent for certain transactions and established an investment committee. D.R. Horton has the right to nominate our Board members commensurate with its equity ownership. As long as D.R. Horton owns at least 20 of our voting securities, it retains the right to nominate individuals to our Board based on its equity ownership as well as designate the Executive Chairman. 
+ 
+ As long as D.R. Horton owns at least 35 of our voting securities, we must obtain D.R. Horton s consent to (i) issue any new class of equity or shares of our common stock in excess of certain amounts; (ii) incur, assume, refinance or guarantee debt that would increase our total leverage to greater than 40 ; (iii) select, terminate, remove or change compensation arrangements for the Executive Chairman, Chief Executive Officer, Chief Financial Officer and other key senior management; and (iv) make an acquisition or investment greater than 20 million. The Stockholder s Agreement also established an investment committee to approve new investments up to 20 million. 
+ 
+ Land/Lot Acquisition and Inventory Management 
+ 
+ We acquire land for use in our development operations after we have completed due diligence and after we have obtained the development rights (known as entitlements). Before we acquire lots or tracts of land, we complete a feasibility study, which includes soil tests, independent environmental studies, other engineering work and financial analysis. We also evaluate the status of necessary zoning and other governmental entitlements required to develop the property for home construction. Although we purchase and develop land primarily to sell finished lots to homebuilders, we may sell land where we have excess land positions or for other strategic reasons. 
+ 
+ We also enter into land purchase contracts, in which we obtain the right, but generally not the obligation, to buy land at predetermined prices on a defined schedule commensurate with planned development. These contracts generally are non-recourse, which limits our financial exposure to our earnest money deposited into escrow under the terms of the contract and any pre-acquisition due diligence costs we incur. This enables us to control land with limited capital investment. 
+
+6 
+
+Table of Contents 
+
+We attempt to mitigate our exposure to real estate inventory risks by: 
+ Managing our supply of land and lots owned and controlled through purchase contracts in each market based on anticipated future demand; 
+ Monitoring local market and demographic trends that affect housing demand; 
+ Limiting the size of our land development projects and focusing on short duration projects; 
+ Acquiring fully-entitled land and developing the land in phases; 
+ Focusing on developing lots for entry-level housing, the segment where housing demand has been the highest; 
+ Developing the majority of our lots for a known buyer; and 
+ Geographically diversifying our land portfolio. 
+ 
+ Land Development 
+ 
+ Substantially all of our land development work is performed by subcontractors. Subcontractors typically are selected after a competitive bidding process pursuant to a contract that obligates the subcontractor to complete the scope of work at an agreed-upon price and within a specified time frame. We monitor land development activities, participate in major decisions, coordinate the activities of subcontractors and suppliers, review the work of subcontractors for quality and cost controls and monitor compliance with building codes or other regulations. 
+ 
+ We typically do not maintain inventories of land development materials, except for work in progress materials for active development projects. Generally, the materials used in our operations have been readily available from numerous sources. More recently, the effects of the COVID-19 pandemic, combined with the improvement in economic conditions and strong demand in the real estate industry, have caused disruptions in our supply chain and resulted in shortages in certain construction materials and tightness in the labor market, which has caused our development cycle to lengthen in some markets. 
+ 
+ In select situations, we contract with D.R. Horton for land development services, generally in geographic markets where we do not have established development teams and capabilities. 
+ 
+ Lot/Land Banking 
+ 
+ In addition to our residential lot development activities, we also make strategic short-term investments in finished lots (lot banking) and undeveloped land with the intent to sell these assets within a short time period, primarily to D.R. Horton, utilizing available capital prior to its deployment into longer term lot development projects. We manage our level of lot/land banking relative to short-term liquidity and expected future cash requirements for lot development projects. 
+ 
+ Cost Controls 
+ 
+ We control development costs by obtaining competitive bids for materials and labor. We monitor our land development expenditures versus budgets for each project, and we review our inventory levels, margins, expenses, profitability and returns for each project compared to both its business plan and our performance expectations. 
+ 
+ Competition 
+ 
+ We face significant competition for the acquisition, development and sale of real estate in our markets. Our major competitors include numerous national, regional and local developers, including homebuilders. In addition, we compete with other development projects offering similar amenities, products and/or locations. Competition also exists for investment opportunities, financing, available land, raw materials and labor. Some of our real estate competitors are well established and financially strong, may have greater financial, marketing and other resources than we do, or may be larger than us and/or have lower cost of capital and operating costs than we have and expect to have. The presence of competition may increase the bargaining power of property owners seeking to sell. These competitive market pressures can sometimes make it difficult to acquire, develop or sell land and lots at prices that meet our return criteria. 
+
+7 
+
+Table of Contents 
+
+The land and lot acquisition and development business is highly fragmented, and we are unaware of any meaningful concentration of national market share by any one competitor. Enterprises of varying sizes, from individuals or small companies to large corporations, actively engage in the real estate development business. Many competitors are local, privately-owned companies. We have a few regional and national land developer competitors in addition to national homebuilders that may develop lots on which they construct and sell homes. During periods when access to capital is restricted, participants in a weaker financial condition tend to be less active. 
+ 
+ Human Capital Resources 
+ 
+ People and Culture 
+ 
+ For the past two fiscal years, despite the COVID-19 pandemic, we increased our number of employees and made no reductions to our employee compensation plans or employee benefit plans. We have increased our number of employees from 143 at September 30, 2020 to 250 at September 30, 2021 to support the growth of our residential lot development business across a geographically diversified platform. At September 30, 2021, 201 of our employees worked in our regional and divisional offices and 49 worked at our corporate office. In fiscal 2021, our total cost for employee compensation and benefits was 41.6 million. In addition to our employees, we also have a Shared Services Agreement with D.R. Horton whereby D.R. Horton employees provide us with certain administrative, compliance, operational and procurement services. 
+ 
+ We believe the people who work for our company are our most important resources and are critical to our continued success. We focus significant attention toward attracting and retaining talented and experienced individuals to manage and support our operations. Our people are expected to exhibit and promote honest, ethical and respectful conduct in the workplace. All of our employees must adhere to a code of conduct that sets standards for appropriate behavior and includes required internal training on preventing, identifying, reporting and stopping any type of discrimination. 
+ 
+ Recruitment, Development and Retention 
+ 
+ We are committed to hiring, developing and supporting a diverse workforce and maintaining an inclusive workplace. We believe diversity in the workplace produces unique perspectives and fresh ideas and helps us better serve our customers. Management is committed to supporting the development of our employees in many ways including onboarding programs, training and providing employees exposure to senior management. Our management team also supports a culture of developing future leaders from our existing workforce, enabling us to promote from within for many leadership positions. We believe this provides long-term focus and continuity to our operations while also providing opportunities for the growth and advancement of our employees. 
+ 
+ Compensation and Benefits 
+ 
+ We believe our compensation package and benefits are competitive with others in our industry. In addition to base pay, all eligible employees participate in our short-term incentive bonus program and certain employees participate in our long-term stock incentive program. We also offer our employees a broad range of benefits, including medical, dental and vision healthcare benefits and paid parental leave. Additional information about our employee benefit plans is included in Note 11 to the accompanying financial statements. 
+ 
+ Workplace Safety and Wellness 
+ 
+ The safety and well-being of our employees is our first priority. We take workplace safety seriously at our construction sites and in our offices. We provide certification training to our field personnel through an Occupational Safety and Health Administration (OSHA) authorized third-party vendor, and we communicate with all of our employees through a monthly safety newsletter to inform and reinforce our commitment to and concern for their well being. We also require certain personal protective equipment, such as hard hats, high visibility safety wear and hearing and eye protection to be worn in certain circumstances at our active development sites. 
+
+8 
+
+Table of Contents 
+
+During the COVID-19 pandemic, we implemented safety protocols to protect our employees and our contractors. These protocols include complying with health and safety standards as required by federal, state and local government agencies, taking into consideration guidelines of the Centers for Disease Control and Prevention and other public health authorities. Many of our administrative and operational functions during this time have required modification, including some of our workforce working remotely. Our experienced teams of people adapted to the changes in our work environment and have managed our business successfully during this challenging time. 
+ 
+ Governmental Regulation and Environmental Matters 
+ 
+ Our operations are subject to extensive and complex regulations. We, and the subcontractors we use, must comply with many federal, state and local laws and regulations. These include zoning, density and development requirements, and building, environmental, advertising, labor and real estate sales rules and regulations. These regulations and requirements affect substantially all aspects of our land development and sales processes in varying degrees across our markets. Our properties are subject to inspection and approval by local authorities where required and may be subject to various assessments for schools, parks, streets, utilities and other public improvements. We may experience delays in receiving the proper approvals from local authorities that could delay our anticipated development activities in certain projects. 
+ 
+ Our land development activities are also subject to an extensive array of local, state and federal statutes, ordinances, rules and regulations concerning protection of health, safety and the environment. The particular compliance requirements for each site vary greatly according to location, environmental condition and the present and former uses of the site and adjoining properties. We believe that we are in compliance in all material respects with existing environmental regulations applicable to our business. Additionally, our compliance with such regulations has not had, nor is expected to have a material adverse effect on our consolidated financial position, results of operations or cash flows. However, changes in regulations could increase our costs to comply with such regulations, as discussed in Item 1A. Risk Factors. 
+ 
+ Available Information 
+ 
+ Our principal executive offices are located at 2221 E. Lamar Blvd., Suite 790, Arlington, Texas 76006. Our telephone number is (817) 769-1860. 
+ On the Investor Relations section of our website, www.forestar.com , you may obtain additional information about us including: 
+ our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and other documents as soon as reasonably practicable after we file them with the SEC; 
+ copies of certain agreements with D.R. Horton, including the Stockholder s Agreement and Master Supply Agreement; 
+ beneficial ownership reports filed by officers, directors, and principal security holders under Section 16(a) of the Securities Exchange Act of 1934, as amended (or the Exchange Act and 
+ corporate governance information that includes our: 
+ corporate governance guidelines, 
+ audit committee charter, 
+ compensation committee charter, 
+ nominating and governance committee charter, 
+ standards of business conduct and ethics, 
+ code of ethics for senior financial officers, and 
+ information on how to communicate directly with our Board of Directors. 
+ 
+ We will also provide printed copies of any of these documents to any stockholder free of charge upon request. The SEC also maintains a website www.sec.gov that contains reports, proxy and information statements and other information that is filed electronically with the SEC. 
+ 9 
+
+Table of Contents 
+
+Item 1A. Risk Factors. 
+ 
+ Risks Related to our Concentrated Ownership 
+ 
+ So long as D.R. Horton controls us, our other stockholders will have limited ability to influence matters requiring stockholder approval, and D.R. Horton's interest may conflict with the interests of other current or potential holders of our securities. 
+ 
+ D.R. Horton beneficially owns approximately 63 of our common stock. As a result, until such time as D.R. Horton and its controlled affiliates hold shares representing less than a majority of the votes entitled to be cast by our stockholders at a stockholder meeting, D.R. Horton generally has the ability to control the outcome of any matter submitted for the vote of our stockholders, except in certain circumstances set forth in our certificate of incorporation or bylaws. In addition, under the terms of our certificate of incorporation and the Stockholder's Agreement with D.R. Horton, so long as D.R. Horton or its affiliates own 35 or more of our voting securities, we may not take certain actions without D.R. Horton's approval, including certain actions with respect to equity issuances, indebtedness, acquisitions, fundamental changes in our business and executive hiring, termination and compensation. 
+ 
+ For so long as D.R. Horton and its controlled affiliates hold shares of our common stock representing at least 20 of the votes entitled to be cast by our stockholders at a stockholder meeting, D.R. Horton is able to designate a certain number of the members of our Board of Directors. Currently, D.R. Horton has the right to designate four out of five members of our Board, subject to a requirement that we and D.R. Horton use reasonable best efforts to cause at least three directors to qualify as independent directors, as such term is defined in the New York Stock Exchange (NYSE) listing rules, and applicable law. The directors designated by D.R. Horton have the authority to make decisions affecting our capital structure, including the issuance of additional capital stock or options, the incurrence of additional indebtedness, the implementation of stock repurchase programs and the declaration of dividends. The interests of D.R. Horton may be materially different than the interests of our other stakeholders. 
+ 
+ The interests of D.R. Horton may not coincide with the interests of our current or potential stockholders. D.R. Horton's ability, subject to the limitations in the Stockholder's Agreement and our certificate of incorporation and bylaws, to control matters submitted to our stockholders for approval limits the ability of other stockholders to influence corporate matters, which may cause us to take actions that our other stockholders do not view as beneficial to them. In such circumstances, the market price of our common stock could be adversely affected, and our ability to access the capital markets may also be adversely affected. In addition, the existence of a controlling stockholder may have the effect of making it more difficult for a third party to acquire us, or may discourage a third party from seeking to acquire us. A third party would be required to negotiate any such transaction with D.R. Horton, and the interests of D.R. Horton with respect to such transaction may be different from the interests of our other stockholders. 
+ 
+ Subject to limitations in the Stockholder's Agreement and our certificate of incorporation that limit D.R. Horton's ability to take advantage of certain corporate opportunities that are presented directly to our officers or directors in their capacity as such, D.R. Horton is not restricted from competing with us or otherwise taking for itself or its other affiliates certain corporate opportunities that may be attractive to us. 
+ 
+ Any inability to resolve favorably any disputes that may arise between us and D.R. Horton may result in a significant reduction of our revenues and earnings. 
+ 
+ Disputes may arise between D.R. Horton and us in a number of areas, including: 
+ business combinations involving us; 
+ sales or dispositions by D.R. Horton of all or any portion of its ownership interest in us; 
+ performance under the Master Supply Agreement; 
+ arrangements with third parties that are exclusionary to D.R. Horton or us; and 
+ business opportunities that may be attractive to both D.R. Horton and us. 
+ 
+ We may not be able to resolve any potential conflicts, and even if we do, the resolution may be less favorable than if we were dealing with an unaffiliated party. 
+ 
+ 10 
+
+Table of Contents 
+
+New agreements may be entered into between us and D.R. Horton, and agreements we enter into with D.R. Horton may be amended upon agreement between the parties. Because we are controlled by D.R. Horton, we may not have the leverage to negotiate these agreements, or amendments thereto if required, on terms as favorable to us as those that we would negotiate with an unaffiliated third party. 
+ 
+ D.R. Horton's ability to control our Board may make it difficult for us to recruit independent directors. 
+ 
+ So long as D.R. Horton and its controlled affiliates hold shares of our common stock representing at least 20 of the votes entitled to be cast by our stockholders at a stockholders' meeting, D.R. Horton is able to designate a certain number of the members of our Board. Our Nominating and Governance Committee has the right to designate the remaining number of individuals to the Board, and in any event not less than one. Currently, D.R. Horton has the right to designate four out of five members of our Board. Further, the interests of D.R. Horton and our other stockholders may diverge. Under these circumstances, persons who might otherwise accept an invitation to join our Board may decline. 
+ 
+ We qualify as a controlled company within the meaning of the NYSE rules and, as a result, may elect to rely on exemptions from certain corporate governance requirements that provide protection to stockholders of companies that are not controlled companies. 
+ 
+ So long as D.R. Horton owns more than 50 of the total voting power of our common stock, we qualify as a "controlled company" under the NYSE corporate governance standards. As a controlled company, we may under the NYSE rules elect to be exempt from obligations to comply with certain NYSE corporate governance requirements, including the requirements: 
+ that a majority of our Board consist of independent directors; 
+ that we have a nominating and governance committee that is composed entirely of independent directors with a written charter addressing the committee's purpose and responsibilities; 
+ that we have a compensation committee that is composed entirely of independent directors with a written charter addressing the committee's purpose and responsibilities; and 
+ that an annual performance evaluation of the nominating and governance committee and compensation committee be performed. 
+ 
+ We have not elected to utilize the controlled company exemptions at this time. However, if we elect to use the controlled company exemptions, our stockholders will not have the same protections afforded to stockholders of companies that are subject to all of the NYSE corporate governance requirements. 
+ 
+ We may not realize potential benefits of the strategic relationship with D.R. Horton, including the transactions contemplated by the Master Supply Agreement with D.R. Horton. 
+ 
+ The Master Supply Agreement establishes a strategic relationship between us and D.R. Horton for the supply of developed lots. Under the Master Supply Agreement, we will, and D.R. Horton may, present lot development opportunities to each other, subject to certain exceptions. The parties may collaborate with respect to such opportunities and, if they elect to develop such opportunities, D.R. Horton has a right of first offer or right to purchase some or all of the lots developed by us, as set forth in the Master Supply Agreement, on market terms as determined by the parties. There are numerous uncertainties associated with our relationship with D.R. Horton, including the risk that the parties will be unable to negotiate mutually acceptable terms for lot development opportunities and the fact that D.R. Horton is not obligated to present its lot development opportunities to us. As a result, we may not realize potential growth or other benefits from the strategic relationship with D.R. Horton, which may affect our financial condition or results of operations. 
+ 
+ D.R. Horton's control of us or the strategic relationship between D.R. Horton and us may negatively affect our business relationships with other builder customers. 
+ 
+ So long as D.R. Horton controls us or the strategic relationship between D.R. Horton and us remains in place, our business relationships with other builder customers may be negatively affected, including the risk that such other builder customers may believe that we will favor D.R. Horton over our other customers. In addition, we have in the past relied on builder referrals as a source for land development opportunities, and there is a risk that builders may refer such opportunities to land developers other than us as a result of our close alignment with D.R. Horton. 
+ 11 
+
+Table of Contents 
+
+Risks Related to Our Operations 
+ 
+ Public health issues such as a major epidemic or pandemic could adversely affect our business or financial results. 
+ 
+ The U.S. and other countries have experienced, and may experience in the future, outbreaks of contagious diseases that affect public health and public perception of health risk. In December 2019, COVID-19 emerged in the Wuhan region of China and subsequently spread worldwide. The World Health Organization declared COVID-19 a pandemic, resulting in federal, state and local governments and private entities mandating various restrictions, requiring closure of non-essential businesses for a period of time, which began to adversely affect our business in March 2020. As economic activity resumed and restrictive orders relating to COVID-19 were eased, demand for our residential lots improved significantly during the remainder of fiscal 2020 and remained strong throughout fiscal 2021. However, the effects of the pandemic, combined with the improvement in economic conditions and the strong demand for residential lots, caused multiple disruptions in our supply chain and have resulted in shortages in certain building materials and tightness in the labor market, which has caused our development cycle to lengthen in some markets. 
+ 
+ There is uncertainty regarding the extent to which and how long COVID-19 will impact the U.S. economy and our supply chain. The extent to which COVID-19 impacts our operational and financial performance will depend on future developments, including the duration and spread of COVID-19 or other variant strains and the impact on our customers, trade partners and employees, all of which are highly uncertain and cannot be predicted. If COVID-19 or other variant strains have a significant negative impact on economic conditions over a prolonged period of time, our results of operations and financial condition could be adversely impacted. 
+ 
+ The homebuilding and lot development industries are cyclical and affected by changes in economic, real estate or other conditions that could adversely affect our business or financial results. 
+ 
+ The homebuilding and lot development industries are cyclical and are significantly affected by changes in general and local economic and real estate conditions, such as: 
+ employment levels; 
+ consumer confidence and spending; 
+ demand for residential lots; 
+ availability of financing for homebuyers; 
+ availability of financing for companies that purchase our residential lots; 
+ interest rates; and 
+ demographic trends. 
+ 
+ Adverse changes in these general and local economic conditions or deterioration in the broader economy would cause a negative impact on our business and financial results and increase the risk for asset impairments and write-offs. Changes in these economic conditions may affect some of our regions or markets more than others. If adverse conditions affect our larger markets, they could have a proportionately greater impact on us than on some other real estate development companies. 
+ 
+ In the past, the federal government s fiscal and trade policies and economic stimulus actions have created uncertainty in the financial markets and caused volatility in interest rates, which impacted business and consumer behavior. Monetary policy actions affecting interest rates or fiscal policy actions and new legislation related to taxation, spending levels or borrowing limits, along with the related political debates, conflicts and compromises associated with such actions, may negatively impact the financial markets and consumer confidence. Such events could hurt the U.S. economy and the real estate market and in turn, could adversely affect the operating results of our businesses. 
+ 
+ Deployments of U.S. military personnel to foreign regions, terrorist attacks, other acts of violence or threats to national security and any corresponding response by the United States or others, domestic or international instability or social or political unrest may cause an economic slowdown in the markets where we operate, which could adversely affect our business. 
+
+12 
+
+Table of Contents 
+
+If we experience any of the foregoing, homebuilders may be less willing or able to buy our residential lots. In the future, our pricing and product strategies may also be limited by market conditions. We may be unable to change the mix of our product offerings, reduce the costs of the residential lots we develop, or satisfactorily address changing market conditions in other ways without adversely affecting our profits and returns. In addition, cancellations of lot sales contracts may increase if homebuilders do not honor their contracts due to any of the factors discussed above. 
+ 
+ Our business and financial results could be adversely affected by weather conditions and natural disasters. 
+ 
+ Physical risks, including weather conditions and natural disasters, such as hurricanes, tornadoes, earthquakes, volcanic activity, droughts, floods, hailstorms, heavy or prolonged precipitation, wildfires and others, can harm our business. Additionally, the physical impacts of climate change may cause these occurrences to increase in frequency, severity and duration. Any such events could delay our development work and lot sales, unfavorably affect the cost or availability of materials or labor, damage residential lots under construction, lead to changing customer preferences and/or negatively impact demand for residential lots in affected areas. There has been no material impact on our business from these events or material operational challenges resulting from these events, but they could adversely affect our business in the future. The climates and geology of many of the states in which we operate, including California, Florida, Texas and other coastal areas where we have some of our larger operations and which have experienced recent natural disasters, present increased risks of adverse weather or natural disasters. The impacts from past natural disasters have not had a material impact on our business, financial condition and results of operations. 
+ 
+ A health and safety incident relating to our operations could be costly in terms of potential liability and reputational damage. 
+ 
+ Land development sites are inherently dangerous, and operating in this industry poses certain inherent health and safety risks. Due to health and safety regulatory requirements and the number of residential lots we develop, health and safety performance is critical to the success of our business. Any failure in health and safety performance, including compliance with potential new workplace requirements related to the COVID-19 pandemic, may result in penalties for non-compliance with relevant regulatory requirements, and a failure that results in a major or significant health and safety incident is likely to be costly and could expose us to liability that could be costly. Such an incident could generate significant negative publicity and have a corresponding impact on our reputation, our relationships with relevant regulatory agencies or governmental authorities, and our ability to attract customers and employees, which in turn could have a material adverse effect on our financial results and liquidity. 
+ 
+ Supply shortages and other risks related to acquiring land, materials and skilled labor could increase our costs and delay lot deliveries. 
+ 
+ The residential lot development industry may experience significant difficulties that can affect the cost or timing of lot development, including: 
+ difficulty in acquiring land suitable for residential development at affordable prices in locations that are attractive to homebuilders; 
+ shortages of qualified subcontractors; 
+ reliance on local subcontractors, manufacturers and distributors who may be inadequately capitalized; 
+ shortages of construction materials; and 
+ significant increases in the cost of materials. 
+ 
+ These factors may cause construction delays or increase our costs. During periods of significantly higher demand in the housing industry, the risk of shortages and cost increases in land, labor and materials available to the industry will likely increase. 
+
+13 
+
+Table of Contents 
+
+The real estate development industry is highly competitive and a number of entities with which we compete are larger and have greater resources or are smaller and have lower cost structures, and competitive conditions may adversely affect our results of operations. 
+ 
+ The real estate development industry in which we operate is highly competitive. Competitive conditions in the real estate development industry may result in difficulties acquiring suitable land at acceptable prices, lower sales volumes and prices, increased development or construction costs and delays in construction. We compete with numerous regional and local developers for the acquisition of land suitable for development. We also compete with national, regional and local homebuilders who develop real estate for their own use in homebuilding operations, many of which are larger and have greater resources than we do or are smaller and have lower cost structures than we do. Any improvement in the cost structure or service of our competitors will increase the competition we face. Our business, financial condition and results of operations may be negatively affected by any of these factors. 
+ 
+ There can be no assurance that our current business strategy will be successful. 
+ 
+ Our business strategy is focused on expanding our unique residential lot development business across a geographically diversified national platform while consolidating market share in the fragmented U.S. lot development industry, primarily through our strategic relationship with D.R. Horton. There can be no assurance that our unique model will continue to succeed as intended or that we will be able to continue to execute it effectively because of the risks described elsewhere in this Risk Factors section, or other unforeseen issues or problems that arise. If we are not successful in achieving our objectives, our business, results of operations, cash flows and financial condition may be negatively affected. 
+ 
+ We may have continuing liabilities relating to assets that have been sold, which could adversely impact our results of operations. 
+ 
+ In the course of selling assets we are typically required to make contractual representations and warranties and to provide contractual indemnities to the buyers. These contractual obligations typically survive the closing of the transactions for some period of time. If a buyer is successful in sustaining a claim against us we may incur additional expenses pertaining to an asset we no longer own, and we may also be obligated to defend and/or indemnify the buyer from certain third-party claims. Such obligations could be material and they could adversely impact our results of operations. 
+ 
+ Governmental regulations and environmental matters could increase the cost and limit the availability of property suitable for residential lot development and could adversely affect our business or financial results. 
+ 
+ We are subject to extensive and complex regulations that affect land acquisition, development and home construction, including zoning, density restrictions and building standards. These regulations often provide broad discretion to the administering governmental authorities as to the conditions we must meet prior to acquisition or development being approved, if approved at all. We are subject to determinations by these authorities as to the adequacy of water or sewage facilities, roads or other local services. New housing developments may also be subject to various assessments for schools, parks, streets and other public improvements. In addition, in many markets, government authorities have implemented no growth or growth control initiatives. Any of these may limit, delay or increase the costs of acquisition of land for residential use and development or home construction. 
+ 
+ We are also subject to a significant number and variety of local, state and federal laws and regulations concerning protection of health, safety, labor standards and the environment. The impact of environmental laws varies depending upon the prior uses of the building site or adjoining properties and may be greater in areas with less supply where undeveloped land or desirable alternatives are less available. These matters may result in delays, may cause us to incur substantial compliance, remediation, mitigation and other costs, and can prohibit or severely restrict land acquisition and development activity in environmentally sensitive regions or areas. Government agencies also routinely initiate audits, reviews or investigations of our business practices to ensure compliance with these laws and regulations, which can cause us to incur costs or create other disruptions in our business that can be significant. 
+ 
+ Recently, there has been growing concern from advocacy groups, government agencies and the general public over the effects of climate change on the environment. Transition risks, such as government restrictions, standards or regulations intended to reduce greenhouse gas emissions and potential climate change impacts, are emerging and may increase in the future in the form of restrictions or additional requirements on land development in certain areas. Such restrictions and requirements could increase our operating and compliance costs or require additional technology and capital investment, 
+ 14 
+
+Table of Contents 
+
+which could adversely affect our results of operations. This is a particular concern in the western United States, where some of the most extensive and stringent environmental laws and residential building construction standards in the country have been enacted, and where we have business operations. We believe we are in compliance in all material respects with existing climate-related government restrictions, standards and regulations applicable to our business, and such compliance has not had a material impact on our business. However, given the rapidly changing nature of environmental laws and matters that may arise that are not currently known, we cannot predict our future exposure concerning such matters, and our future costs to achieve compliance or remedy potential violations could be significant. 
+ 
+ Additionally, actual or perceived environmental, social, governance and other sustainability ESG matters and our response to these matters could harm our business. Increasing governmental and societal attention to ESG matters, including expanding mandatory and voluntary reporting, diligence, and disclosure on topics such as climate change, human capital, labor and risk oversight, could expand the nature, scope, and complexity of matters that we are required to control, assess and report. These factors may alter the environment in which we do business and may increase the ongoing costs of compliance, which could adversely impact our results of operations and cash flows. If we are unable to adequately address such ESG matters or fail to comply with all laws, regulations, policies and related interpretations, it could negatively impact our reputation and our business results. 
+ 
+ We are also subject to an extensive number of laws and regulations because our common stock is publicly traded in the capital markets. These regulations govern our communications with our shareholders and the capital markets, our financial statement disclosures and our legal processes, and they also impact the work required to be performed by our independent registered public accounting firm and our legal counsel. Changes in these laws and regulations, including the subsequent implementation of rules by the administering government authorities, may require us to incur additional compliance costs, and such costs may be significant. 
+ 
+ Our real estate development operations span several markets and as a result, our financial results may be significantly influenced by the local economies of those markets. 
+ 
+ The local economic growth and strength of the markets in which our real estate development activity is located are important factors in sustaining demand for our land and lots. Any adverse impact to the economic growth and health, or infrastructure development, of a local economy in which we develop real estate could materially adversely affect our business, liquidity, financial condition and results of operations. 
+ 
+ Our real estate development operations are highly dependent upon national, regional and local homebuilders. 
+ 
+ We are highly dependent upon our relationships with national, regional, and local homebuilders to purchase lots in our residential developments. If homebuilders do not view our developments as desirable locations for homebuilding operations, or if homebuilders are limited in their ability to conduct operations due to economic conditions, our business, liquidity, financial condition and results of operations will be adversely affected. 
+ 
+ In addition, we enter into contracts to sell lots to homebuilders. A homebuilder could decide to delay purchases of lots in one or more of our developments, subject to loss of earnest money, due to adverse real estate conditions wholly unrelated to our areas of operations, such as corporate decisions regarding allocation of limited capital or human resources. As a result, we may sell fewer lots and may have lower sales revenues, which could have an adverse effect on our business, liquidity, financial condition and results of operations. 
+ 
+ From time to time, we obtain performance bonds, the unavailability of which could adversely affect our results of operations and cash flows. 
+ 
+ From time to time, we provide surety bonds to secure our performance or obligations under construction contracts, development agreements and other arrangements. At September 30, 2021, we had 479.3 million of outstanding surety bonds. Our ability to obtain surety bonds primarily depends upon our credit rating, financial condition, past performance and other factors, including the capacity of the surety market and the underwriting practices of surety bond issuers. The ability to obtain surety bonds also can be impacted by the willingness of insurance companies to issue performance bonds for construction and development activities. If we are unable to obtain surety bonds when required, our results of operations and cash flows could be adversely affected. 
+
+15 
+
+Table of Contents 
+
+Delays or failures by governmental authorities to take expected actions could reduce our returns or cause us to incur losses on certain real estate development projects. 
+ 
+ For certain projects, we rely on governmental districts to issue bonds to reimburse us for qualified expenses, such as road and utility infrastructure costs. Bonds are often supported by assessments of district tax revenues, usually from ad valorem taxes. Slowing new home sales, decreasing real estate values or difficult credit markets for bond sales can reduce or delay district bond sale revenues and tax or assessment receipts, causing such districts to delay reimbursement of our qualified expenses. Failure to receive timely reimbursement for qualified expenses could adversely affect our cash flows and reduce our returns or cause us to incur losses on certain real estate development projects. 
+ 
+ Failure to succeed in new markets may limit our growth. 
+ 
+ We may from time to time commence development activity or make acquisitions outside of our existing market areas if appropriate opportunities arise. Our historical experience in existing markets does not ensure that we will be able to operate successfully in new markets. We may be exposed to a variety of risks if we choose to enter new markets, including, among others: 
+ an inability to accurately evaluate local housing market conditions and local economies; 
+ an inability to obtain land for development or to identify appropriate acquisition opportunities; 
+ an inability to hire and retain key personnel; 
+ an inability to successfully integrate operations; and 
+ lack of familiarity with local governmental and permitting procedures. 
+ 
+ We plan to raise additional capital in the future, and such capital may not be available when needed or at all. 
+ 
+ We have a 410 million senior unsecured revolving credit facility with an uncommitted accordion feature that could increase the size of the facility to 600 million, subject to certain conditions and availability of additional bank commitments. The facility also provides for the issuance of letters of credit with a sublimit equal to the greater of 100 million and 50 of the revolving credit commitment. The maturity date of the facility is April 16, 2025. We also have outstanding 300 million principal amount of 5.0 senior notes due 2028 and 400 million principal amount of 3.85 senior notes due 2026, both of which may be redeemed prior to maturity, subject to certain limitations and premiums defined in the indenture agreements. The notes represent senior unsecured obligations that rank equally in right of payment to all existing and future senior unsecured indebtedness and are guaranteed by each of our subsidiaries to the extent such subsidiaries guarantee our revolving credit facility. 
+ 
+ We regularly assess our projected capital requirements to fund growth in our business, repay debt obligations and support other general corporate and operational needs, and we regularly evaluate our opportunities to raise additional capital. At September 30, 2021, we had an effective shelf registration statement filed with the SEC in September 2018 registering 500 million of equity securities, of which 100 million was reserved for sales under our at-the-market equity offering program that became effective August 2020. At September 30, 2021, 359.9 million remained available for issuance under the shelf registration statement, of which 65.6 million is reserved for sales under our at-the-market equity offering program. In October 2021, after the expiration of the existing registration statement and at-the market equity offering program, a new shelf registration statement became effective registering 750 million of equity securities. We anticipate entering into a new at-the-market equity offering program under this new shelf registration statement. We plan to raise additional capital, in the form of additional debt or equity, in the future to have sufficient capital resources and liquidity to fund our business needs and future growth plans and repay existing indebtedness. Our ability to raise additional capital will depend on, among other things, conditions in the capital markets at that time, which are outside of our control, and our financial condition, operating performance and growth prospects. Economic conditions may increase our cost of funding and limit access to certain customary sources of capital or make such capital only available on unfavorable terms. We may not be able to obtain capital on acceptable terms or at all. Any occurrence that may limit our access to the capital markets, such as a decline in the confidence of debt purchasers or counterparties participating in the capital markets or other disruption in capital markets, may adversely affect our capital costs and our ability to raise capital and, in turn, our liquidity. Further, we may need to raise capital in the future when other real estate-related companies are also seeking to raise capital and would then have to compete with those companies for investors. An inability to raise additional capital on acceptable terms when needed could have a material adverse effect on our business, financial condition and results of operations. 
+ 16 
+
+Table of Contents 
+
+Risks Related to Our Indebtedness 
+ 
+ We have significant amounts of consolidated debt and may incur additional debt; our debt obligations and our ability to comply with related covenants, restrictions or limitations could adversely affect our financial condition. 
+ 
+ As of September 30, 2021, our consolidated debt was 704.5 million, including 400 million principal amount of 3.85 senior notes due 2026 and 300 million principal amount of 5.0 senior notes due 2028. Our revolving credit facility and the indentures governing the senior notes impose restrictions on our and our restricted subsidiaries ability to incur secured and unsecured debt, but still permit us and our restricted subsidiaries to incur a substantial amount of future secured and unsecured debt, and do not restrict the incurrence of future secured and unsecured debt by our unrestricted subsidiaries. The indentures governing the senior notes allow us to incur a substantial amount of additional debt. 
+ 
+ Possible Consequences 
+ 
+ The amount and the maturities of our debt could have important consequences. For example, they could: 
+ require us to dedicate a substantial portion of our cash flow from operations to payment of our debt and reduce our ability to use our cash flow for other operating or investing purposes; 
+ limit our flexibility to adjust to changes in our business or economic conditions; and 
+ limit our ability to obtain future financing for working capital, capital expenditures, acquisitions, debt service requirements or other requirements. 
+ 
+ In addition, our debt and the restrictions imposed by the instruments governing those obligations expose us to additional risks, including: 
+ 
+ Dependence on Future Performance 
+ 
+ Our ability to meet our debt service and other obligations, including our obligations under the senior notes 
+ and the financial covenants under our revolving credit facility, will depend, in part, upon our future financial performance. Our future results are subject to the risks and uncertainties described in this Risk Factors section. Our revenues and earnings vary with the level of general economic activity in the markets we serve. Our business is also affected by financial, political, business and other factors, many of which are beyond our control. The factors that affect our ability to generate cash can also affect our ability to raise additional funds for these purposes through the sale of debt or equity, the refinancing of debt or the sale of assets. 
+ 
+ Risks of Variable Rate Debt 
+ 
+ Changes in prevailing interest rates may affect the cost of our debt service obligations, because borrowings under our revolving credit facility bear interest at floating rates. Borrowings under our revolving credit facility primarily bears interest based on the London Interbank Offered Rate LIBOR ). On November 30, 2020, ICE Benchmark Administration IBA ), the administrator of LIBOR, with the support of the United States Federal Reserve and the United Kingdom s Financial Conduct Authority, announced plans to consult on ceasing publication of USD LIBOR on December 31, 2021 for the one week and two month USD LIBOR tenors, and on June 30, 2023 for all other USD LIBOR tenors. The United States Federal Reserve concurrently issued a statement advising banks to stop new USD LIBOR issuances by the end of 2021. The Alternative Reference Rates Committee has identified the Secured Overnight Financing Rate SOFR as the recommended alternative for use in financial and other derivatives contracts that are currently indexed to United States dollar LIBOR. Our revolving credit facility includes provisions addressing the future discontinuation of United States dollar LIBOR that are broadly consistent with the hardwired approach recommended by the Alternative Rates Reference Committee convened by the Federal Reserve Board. Such provisions provide for a transition, upon the occurrence of certain triggers, to a SOFR-based interest rate or, under certain circumstances, interest rates based on another benchmark to be determined, together in each case with certain spread adjustments and other changes necessary to implement such replacement benchmark. At this time, it is not possible to predict the effect any modification or discontinuation of LIBOR, or the establishment of an alternative reference rate such as SOFR, will have on us. 
+
+17 
+
+Table of Contents 
+
+Changes in Debt Ratings 
+ 
+ There can be no assurance that we will be able to maintain the credit ratings on our senior unsecured debt. Any lowering of our debt ratings could make accessing the capital markets or obtaining additional credit from banks more difficult and/or more expensive. 
+ 
+ Change of Control Purchase Option and Change of Control Default . 
+ 
+ Upon the occurrence of a change of control triggering event, as defined in the indentures governing our senior notes, we will be required to offer to repurchase such notes at 101 of their principal amount, together with all accrued and unpaid interest, if any. Moreover, a change of control, as defined in our revolving credit facility, would constitute an event of default under our revolving credit facility that could result in the acceleration of the repayment of any borrowings outstanding under our revolving credit facility, a requirement to cash collateralize all letters of credit outstanding thereunder and the termination of the commitments thereunder. If the maturity of our revolving credit facility and/or other indebtedness together having an aggregate principal amount outstanding of 40 million or more is accelerated, an event of default would result under the indentures governing the senior notes, entitling the trustee for the notes or holders of at least 25 in aggregate principal amount of the then outstanding notes to declare all such notes to be due and payable immediately. If purchase offers were required under the indentures for the senior notes, repayment of the borrowings under our revolving credit facility were required, or if the notes were accelerated, we can give no assurance that we would have sufficient funds to pay the required amounts. 
+ 
+ Our debt agreements contain a number of restrictive covenants which will limit our ability to finance future operations, acquisitions or capital needs or engage in other business activities that may be in our interest . 
+ 
+ The covenants in the indentures governing our senior notes and the credit agreement governing our revolving credit facility impose, and the terms of any future indebtedness may impose, operating and other restrictions on us and our subsidiaries. Such restrictions affect or will affect, and in many respects limit or prohibit, among other things, our ability and the ability of certain of our subsidiaries to: 
+ incur additional indebtedness; 
+ create liens; 
+ pay dividends and make other distributions in respect of our equity securities; 
+ redeem or repurchase our equity securities; 
+ make certain investments or certain other restricted payments; 
+ sell certain kinds of assets; 
+ enter into certain types of transactions with affiliates; and 
+ effect mergers or consolidations. 
+ 
+ In addition, our revolving credit facility contains financial covenants requiring the maintenance of a minimum level of tangible net worth, a minimum level of liquidity, a maximum allowable leverage ratio and a borrowing base restriction based on the book value of our real estate assets and unrestricted cash. 
+ 
+ The restrictions contained in the indentures and the credit agreements could (1) limit our ability to plan for or react to market or economic conditions or meet capital needs or otherwise restrict our activities or business plans and (2) adversely affect our ability to finance our operations, acquisitions, investments or strategic alliances or other capital needs or to engage in other business activities that would be in our interest. 
+ 
+ A breach of any of these covenants could result in a default under all or certain of our debt instruments. If an event of default occurs, such creditors could elect to: 
+ declare all amounts outstanding, together with accrued and unpaid interest, to be immediately due and payable; 
+ require us to apply all of our available cash to repay such amounts; or 
+ prevent us from making debt service payments on certain of our debt instruments. 
+ 18 
+
+Table of Contents 
+
+General Risk Factors 
+ 
+ The market price of and trading volume of our shares of common stock may be volatile. 
+ 
+ The market price of our shares of common stock has fluctuated substantially and may continue to fluctuate in response to many factors which are beyond our control, including: 
+ fluctuations in our operating results, including results that vary from expectations of management, analysts and investors; 
+ announcements of strategic developments, acquisitions, financings and other material events by us or our competitors; 
+ the sale of a substantial number of shares of our common stock held by existing security holders in the public market; and 
+ general conditions in the real estate industry. 
+ 
+ The stock markets in general may experience extreme volatility that may be unrelated to the operating performance of particular companies. These broad market fluctuations may adversely affect the trading price of our common stock, make it difficult to predict the market price of our common stock in the future and cause the value of our common stock to decline. 
+ 
+ Our business may suffer if we lose key personnel. 
+ 
+ We depend to a large extent on the services of certain key management personnel. These individuals have extensive experience and expertise in our business. The loss of any of these individuals could have a material adverse effect on our operations. We do not maintain key-person life insurance with respect to any of our employees. Our success may be dependent on our ability to continue to employ and retain skilled personnel. 
+ 
+ Our business and financial results could be adversely affected by significant inflation, higher interest rates or deflation. 
+ 
+ Inflation can adversely affect us by increasing costs of land, materials and labor. In addition, significant inflation is often accompanied by higher interest rates, which have a negative impact on housing affordability and demand. In a highly inflationary environment, depending on industry and other economic conditions, we may be precluded from raising residential lot prices enough to keep up with the rate of inflation, which could reduce our profit margins. Moreover, in a highly inflationary environment, our cost of capital, labor and materials can increase and the purchasing power of our cash resources can decline, which could have an adverse impact on our business or financial results. 
+ 
+ Alternatively, a significant period of deflation could cause a decrease in overall spending and borrowing levels. This could lead to deterioration in economic conditions, including an increase in the rate of unemployment. Deflation could also cause the value of our real estate to decline. If oil prices decline significantly, economic conditions in markets that have significant exposure to the energy sector may weaken. These, or other factors that increase the risk of significant deflation, could have a negative impact on our business or financial results. 
+ 
+ Information technology failures, data security breaches and the failure to satisfy privacy and data protection laws and regulations could harm our business. 
+ 
+ We use information technology and other computer resources to carry out important operational and marketing activities and to maintain our business records. These information technology systems are dependent upon global communications providers, web browsers, third-party software and data storage providers and other aspects of the Internet infrastructure that have experienced security breaches, cyber-attacks, ransomware attacks, significant systems failures and service outages in the past. Our normal business activities involve collecting and storing information specific to our customers, employees, vendors and suppliers and maintaining operational and financial information related to our business, both in an office setting and remote locations as needed. A material breach in the security of our information technology systems or other data security controls could include the theft or release of this information. A data security breach, a significant and extended disruption in the functioning of our information technology systems or a breach of any of our data security controls could disrupt our business operations, damage our reputation and cause us to lose customers, adversely impact our sales and revenue and require us to incur significant expense to address and remediate or otherwise resolve these 
+ 19 
+
+Table of Contents 
+
+kinds of issues. The unintended or unauthorized disclosure of personal identifying and confidential information as a result of a security breach could also lead to litigation or other proceedings against us by the affected individuals or business partners, or by regulators. The outcome of such proceedings, which could include penalties or fines, could have a significant negative impact on our business. 
+ 
+ We may also be required to incur significant costs to protect against damages caused by information technology failures, security breaches, and the failure to satisfy privacy and data protection laws and regulations in the future as legal requirements continue to increase. Certain regulators, including various state governments, have recently enacted or enhanced data privacy regulations, such as the California Consumer Privacy Act, and others are considering establishing similar or stronger protections. These regulations impose certain obligations for handling specified personal information in our systems, and for apprising individuals of the information we have collected about them. We have incurred costs in an effort to comply with these requirements, and our costs may increase significantly if new requirements are enacted and based on how individuals exercise their rights. Any noncompliance could result in our incurring substantial penalties and reputational damage, and also could result in litigation. 
+ 
+ We provide employee awareness training of cybersecurity threats and routinely utilize information technology security experts to assist us in our evaluations of the effectiveness of the security of our information technology systems, and we regularly enhance our security measures to protect our systems and data. Our increased use of remote work environments and virtual platforms in response to the COVID-19 pandemic may also increase our risk of cyber-attack or data security breaches. We use various encryption, tokenization and authentication technologies to mitigate cybersecurity risks and have increased our monitoring capabilities to enhance early detection and rapid response to potential cyber threats. However, because the techniques used to obtain unauthorized access, disable or degrade systems change frequently and are increasing in sophistication, they often are not recognized until launched against a target. As such, we may be unable to anticipate these techniques, to implement adequate preventative measures or to identify and investigate cybersecurity incidents. Consequently, we cannot provide assurances that a security breach, cyber-attack, data theft or other significant systems or security failures will not occur in the future, and such occurrences could have a material and adverse effect on our consolidated results of operations or financial position. 
+ 20 
+
+Table of Contents 
+
+Item 1B. Unresolved Staff Comments. 
+ 
+ None. 
+
+Item 2. Properties. 
+ 
+ Our principal executive office is leased and is located in Arlington, Texas. We also lease office space in other locations to support our business operations. 
+
+Item 3. Legal Proceedings. 
+ 
+ We are involved in various legal proceedings that arise from time to time in the ordinary course of our business. We believe we have established adequate reserves for any probable losses and that the outcome of any of the proceedings should not have a material adverse effect on our financial position or long-term results of operations or cash flows. It is possible, however, that charges related to these matters could be significant to our results of operations or cash flow in any single accounting period. 
+
+Item 4. Mine Safety Disclosures. 
+ 
+ Not Applicable. 
+ 21 
+
+Table of Contents 
+
+ PART II 
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 
+ Market Information 
+ 
+ Our common stock is traded on the New York Stock Exchange (NYSE) under the trading symbol "FOR." As of November 10, 2021, the closing price of our common stock on the NYSE was 21.51, and there were approximately 1,167 holders of record. 
+ 
+ Dividend Policy 
+ 
+ We currently intend to retain any future earnings to support our business. The declaration and payment of any future dividends will be at the discretion of our Board of Directors after taking into account various factors, including without limitation, our financial condition, earnings, capital requirements of our business, the terms of any credit agreements or indentures to which we may be a party at the time, legal requirements, industry practice and other factors that our Board of Directors deems relevant. 
+
+22 
+
+Table of Contents 
+
+ Stock Performance Graph 
+ 
+ The following graph illustrates the cumulative total stockholder return of an initial investment of 100 on December 31, 2016 in Forestar common stock for the period from December 31, 2016 through September 30, 2021 compared to the same investment in the Russell 2000 Index and certain peer groups. 
+ Pursuant to SEC rules, returns of each of the companies in the peer groups are weighted according to the respective company s stock market capitalization at the beginning of each period for which a return is indicated. Shareholder returns over the indicated period are based on historical data and should not be considered indicative of future shareholder returns. The graph and related disclosure in no way reflect our forecast of future financial performance. 
+ 
+ During the fiscal year ended September 30, 2021, we revised our peer group to include M.D.C. Holdings, Inc.; Tri Pointe Homes, Inc.; Century Communities, Inc.; Beazer Homes USA, Inc.; Five Point Holdings, LLC (Class A); The Howard Hughes Corporation; The St. Joe Company; Masonite International Corporation; and PGT Innovations, Inc. These companies were selected based on their industries, similar market capitalization and business model. 
+ 
+ Our former peer group consisted of the following real estate companies: The St. Joe Company; Tejon Ranch Co.; Five Point Holdings, LLC (Class A); and Alexander Baldwin, Inc. 
+ December 31, September 30, 2016 2017 2018 2019 2020 2021 Forestar Group Inc. 100.00 165.41 159.40 137.44 133.08 140.08 Former Peer Group 100.00 94.43 80.21 78.95 57.18 111.99 Russell 2000 100.00 114.65 127.85 116.48 116.93 172.69 New Peer Group 100.00 124.56 109.14 119.80 112.14 148.37 
+ 
+ This performance graph shall not be deemed to be incorporated by reference into our SEC filings and should not constitute soliciting material or otherwise be considered filed under the Securities Act of 1933, as amended (Securities Act) or the Exchange Act. 
+ 
+ 23 
+
+Table of Contents 
+
+ Item 6. [Reserved] 
+
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations (MD A) is intended to promote an understanding of our financial condition, results of operations, liquidity and certain other factors that may affect future results. MD A is provided as a supplement to, and should be read in conjunction with our consolidated financial statements and notes to those statements that appear elsewhere in this Form 10-K. This section generally discusses the results of operations for fiscal 2021 compared to 2020. For similar operating and financial data and discussion of our fiscal 2020 results compared to our fiscal 2019 results, refer to Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations under Part II of our annual report on Form 10-K for the fiscal year ended September 30, 2020, which was filed with the SEC on November 19, 2020. 
+ 
+ The following discussion contains forward-looking statements that reflect our plans, estimates and beliefs. Actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to any differences include, but are not limited to, those discussed under the caption Forward-Looking Statements and under Item 1A Risk Factors. 
+
+Our Operations 
+ 
+ We are a residential lot development company with operations in 56 markets in 23 states as of September 30, 2021. In October 2017, we became a majority-owned subsidiary of D.R. Horton. Through our alignment with and support from D.R. Horton, we have grown our business into a national, well-capitalized residential lot developer selling finished lots to D.R. Horton and other homebuilders. As our controlling shareholder, D.R. Horton has significant influence in guiding our strategic direction and operations. Our strategy is focused on making investments in land acquisition and development to expand our residential lot development business across a geographically diversified national platform and consolidating market share in the fragmented U.S. lot development industry. We are primarily investing in short duration, phased development projects that generate returns similar to production-oriented homebuilders. This strategy is a unique, lower-risk business model that we expect will produce more consistent returns than other public and private land developers. We also make strategic short-term investments in finished lots (lot banking) and undeveloped land with the intent to sell these assets within a short time period, primarily to D.R. Horton, utilizing available capital prior to its deployment into longer term lot development projects. 
+ 
+ COVID-19 
+ 
+ Beginning in March 2020, the impacts of the COVID-19 pandemic and the related widespread reductions in economic activity began to temporarily affect our business operations and the demand for our residential lots. Residential construction was designated an essential business as part of critical infrastructure in almost all municipalities across the U.S. where we operate. As economic activity and housing market conditions began to improve during the last half of fiscal 2020, our lot sales pace increased and remained strong throughout fiscal 2021. However, multiple disruptions in the supply chain, combined with the improvement in economic conditions and strong demand for residential lots, have resulted in shortages in certain construction materials and tightness in the labor market, which has caused our development cycles to lengthen in certain markets. We believe we are well-positioned to effectively operate through changing economic conditions due to our low net leverage and strong liquidity position, our low overhead model and our strategic relationship with D.R. Horton. 
+ 
+ Business Segment 
+ 
+ We manage our operations through our real estate segment, which is our core business and generates substantially all of our revenues. The real estate segment primarily acquires land and develops infrastructure for single-family residential communities and generates revenues from sales of residential single-family finished lots to local, regional and national homebuilders. We have other business activities for which the related assets and operating results are immaterial, and therefore, are included in our real estate segment. 
+ 24 
+
+Table of Contents 
+
+ Results of Operations 
+ 
+ The following tables and related discussion set forth key operating and financial data as of and for the fiscal years ended September 30, 2021 and 2020. 
+ 
+ Operating Results 
+ 
+ Components of income before taxes were as follows: 
+ Year Ended September 30, 2021 2020 (In millions) Revenues 1,325.8 931.8 Cost of sales 1,096.6 813.7 Selling, general and administrative expense 68.4 45.7 Equity in earnings of unconsolidated ventures (0.2) (0.7) Gain on sale of assets (2.5) (0.1) Interest and other income (1.2) (4.9) Loss on extinguishment of debt 18.1 Income before income taxes 146.6 78.1 
+ 
+ Lot Sales 
+ 
+ Residential lots sold consist of: 
+ Year Ended September 30, 2021 2020 Development projects 14,221 7,316 Lot banking projects 1,694 3,057 15,915 10,373 Average sales price per lot (a) 
+ 81,600 84,600 
+ _______________ 
+ (a) Excludes any impact from change in contract liabilities. 
+ 
+ Revenues 
+ 
+ Revenues consist of: 
+ Year Ended September 30, 2021 2020 (In millions) Residential lot sales: Development projects 
+ 1,182.6 616.3 Lot banking projects 
+ 116.1 261.7 (Increase) decrease in contract liabilities (5.6) 2.3 1,293.1 880.3 Tract sales and other 32.7 51.5 Total revenues 1,325.8 931.8 
+
+25 
+
+Table of Contents 
+
+ Residential lots sold and residential lot sales revenues have increased as we have grown our business primarily through our strategic relationship with D.R. Horton. In fiscal 2021, we sold 14,839 residential lots to D.R. Horton for 1.2 billion compared to 10,164 residential lots sold to D.R. Horton for 859.7 million in fiscal 2020. In fiscal 2021, we sold 1,076 residential lots to customers other than D.R. Horton for 86.5 million compared to 209 residential lots sold for 18.3 million in fiscal 2020. 
+ 
+ Tract sales and other revenue in fiscal 2021 primarily consisted of 85 tract acres sold to D.R. Horton for 25.9 million and 12 tract acres sold to third parties for 1.6 million. Tract sales and other revenue in fiscal 2020 primarily consisted of 602 tract acres sold to third parties for 25.5 million and 143 tract acres sold to D.R. Horton for 25.6 million. 
+ 
+ Cost of sales in fiscal 2021 increased compared to fiscal 2020 primarily due to the increase in the number of lots sold. Cost of sales related to tract sales and other revenues in fiscal 2021 and 2020 was 27.0 million and 40.6 million, respectively. 
+ 
+ Selling, General and Administrative (SG A) Expense and Other Income Statement Items 
+ 
+ SG A expense in fiscal 2021 was 68.4 million compared to 45.7 million in fiscal 2020. SG A expense as a percentage of revenues was 5.2 and 4.9 in fiscal 2021 and 2020, respectively. Our SG A expense primarily consists of employee compensation and related costs. Our business operations employed 250 and 143 employees at September 30, 2021 and 2020, respectively. 
+ 
+ Equity in earnings of unconsolidated ventures in fiscal 2021 and 2020 reflects our share in ventures that we account for using the equity method. 
+ 
+ Gain on sale of assets in fiscal 2021 consists of a gain of 2.5 million associated with the reduction of our remaining obligation in connection with the Cibolo Canyons Special Improvement District issuance of bonds in 2014. As our obligation expires over time, our liability is reduced and gains are recognized. 
+ 
+ Loss on extinguishment of debt of 18.1 million in fiscal 2021 was due to the redemption of our 350 million principal amount of 8.0 senior notes due 2024 in May 2021. 
+ 
+ Interest and other income primarily represents interest earned on our cash deposits. 
+ 
+ Income Taxes 
+ 
+ Our income tax expense was 36.1 million and 16.4 million in fiscal 2021 and 2020, respectively, and our effective tax rate was 24.6 and 21.0 in those respective years. Our effective tax rate for fiscal 2020 includes a tax benefit of 2.3 million related to the net operating loss (NOL) carryback provisions of the Coronavirus Aid, Relief, and Economic Security Act (CARES Act), which allowed the Company to carryback a portion of its fiscal 2018 NOL. The carryback provisions resulted in the recognition of previously unrecognized tax benefits and the revaluation of deferred tax assets due to the utilization of NOLs at a higher tax rate in the carryback period. Our effective tax rate for both years includes an expense for state income taxes and nondeductible expenses and a benefit related to noncontrolling interests. 
+ 
+ At September 30, 2021, we had deferred tax liabilities, net of deferred tax assets, of 23.2 million. The deferred tax assets were offset by a valuation allowance of 1.2 million, resulting in a net deferred tax liability of 24.4 million. At September 30, 2020, deferred tax liabilities, net of deferred tax assets, were 4.2 million. The deferred tax assets were offset by a valuation allowance of 1.5 million, resulting in a net deferred tax liability of 5.7 million. The valuation allowance for both years was recorded because it is more likely than not that a portion of our state deferred tax assets, primarily NOL carryforwards, will not be realized because we are no longer operating in some states or the NOL carryforward periods are too brief to realize the related deferred tax asset. We will continue to evaluate both the positive and negative evidence in determining the need for a valuation allowance on our deferred tax assets. Any reversal of the valuation allowance in future periods will impact our effective tax rate. 
+ 
+ We had no unrecognized tax benefits at September 30, 2021 and September 30, 2020 as a result of the recognition of 1.6 million of previously unrecognized tax benefits during fiscal 2020. All of the 1.6 million of recognized tax benefits affected our effective tax rate and were attributable to the NOL carryback provisions of the CARES Act, allowing previously uncertain tax attributes to be recognized. 
+ 26 
+
+Table of Contents 
+
+Land and Lot Position 
+ 
+ Our land and lot position at September 30, 2021 and 2020 is summarized as follows: 
+ September 30, 2021 2020 Lots owned 64,400 42,400 Lots controlled through land lot purchase contracts 32,600 18,100 Total lots owned and controlled 97,000 60,500 
+ 
+ At September 30, 2021, our lot position consisted of 97,000 residential lots, of which approximately 64,400 were owned and 32,600 were controlled through purchase contracts. Of our total owned residential lots, approximately 21,000 are under contract to sell to D.R. Horton. Additionally, D.R. Horton has the right of first offer on approximately 18,200 of our owned residential lots based on executed purchase and sale agreements. At September 30, 2021, our lots owned included approximately 5,300 lots that are fully developed, of which approximately 300 are related to lot banking. At September 30, 2021, we had approximately 800 lots under contract to sell to customers other than D.R. Horton. 
+ 27 
+
+Table of Contents 
+
+ Liquidity and Capital Resources 
+ 
+ Liquidity 
+ 
+ At September 30, 2021, we had 153.6 million of cash and cash equivalents and 349.7 million of available borrowing capacity on our revolving credit facility. We have no senior note maturities until fiscal 2026. We believe we are well positioned to effectively operate during changing economic conditions because of our low net leverage and strong liquidity position, our low overhead model and our strategic relationship with D.R. Horton. 
+ 
+ At September 30, 2021, our ratio of debt to total capital (debt divided by stockholders equity plus debt) was 41.0 compared to 42.4 at September 30, 2020. Our ratio of net debt to total capital (debt net of unrestricted cash divided by stockholders equity plus debt net of unrestricted cash) was 35.2 compared to 22.1 at September 30, 2020. Over the long term, we intend to maintain our ratio of net debt to total capital at approximately 40 or less. We believe that the ratio of net debt to total capital is useful in understanding the leverage employed in our operations. 
+ 
+ We believe that our existing cash resources and revolving credit facility will provide sufficient liquidity to fund our near-term working capital needs. Our ability to achieve our long-term growth objectives will depend on our ability to obtain financing in sufficient amounts. We regularly evaluate alternatives for managing our capital structure and liquidity profile in consideration of expected cash flows, growth and operating capital requirements and capital market conditions. We may, at any time, be considering or preparing for the purchase or sale of our debt securities, the sale of our common stock or a combination thereof. 
+ 
+ Bank Credit Facility 
+ 
+ In April 2021, our senior unsecured revolving credit facility was amended to increase its capacity to 410 million with an uncommitted accordion feature that could increase the size of the facility to 600 million, subject to certain conditions and availability of additional bank commitments. The maturity date of the facility was extended to April 16, 2025. The facility also provides for the issuance of letters of credit with a sublimit equal to the greater of 100 million and 50 of the revolving credit commitment. Borrowings under the revolving credit facility are subject to a borrowing base calculation based on the book value of our real estate assets and unrestricted cash. Letters of credit issued under the facility reduce the available borrowing capacity. Borrowings and repayments under the facility were 58.0 million each during fiscal 2021. At September 30, 2021, there were no borrowings outstanding and 60.3 million of letters of credit issued under the revolving credit facility, resulting in available capacity of 349.7 million. 
+ 
+ The revolving credit facility includes customary affirmative and negative covenants, events of default and financial covenants. The financial covenants require a minimum level of tangible net worth, a minimum level of liquidity and a maximum allowable leverage ratio. These covenants are measured as defined in the credit agreement governing the facility and are reported to the lenders quarterly. A failure to comply with these financial covenants could allow the lending banks to terminate the availability of funds under the revolving credit facility or cause any outstanding borrowings to become due and payable prior to maturity. At September 30, 2021, we were in compliance with all of the covenants, limitations and restrictions of our revolving credit facility. 
+ 
+ Senior Notes 
+ 
+ We have outstanding senior notes as described below that were issued pursuant to Rule 144A and Regulation S under the Securities Act. The notes represent senior unsecured obligations that rank equally in right of payment to all existing and future senior unsecured indebtedness and may be redeemed prior to maturity, subject to certain limitations and premiums defined in the respective indenture. The notes are guaranteed by each of our subsidiaries to the extent such subsidiaries guarantee our revolving credit facility. 
+ 
+ In April 2021, we issued 400 million principal amount of 3.85 senior notes (the "2026 notes") that mature May 15, 2026 with interest payable semi-annually. On or after May 15, 2023, the 2026 notes may be redeemed at 101.925 of their principal amount plus any accrued and unpaid interest. In accordance with the indenture, the redemption price decreases annually thereafter and the 2026 notes can be redeemed at par on or after May 15, 2025 through maturity. The annual effective interest rate of the 2026 notes after giving effect to the amortization of financing costs is 4.1 . The net proceeds from this issuance were primarily used to redeem all of our 350 million principal amount of 8.0 senior notes due April 15, 2024 on May 7, 2021. The redemption price of 365.6 million included a call premium of 14.0 million and accrued and 
+ 28 
+
+Table of Contents 
+
+ unpaid interest of 1.6 million. We recognized an 18.1 million loss on extinguishment of debt upon the redemption of such notes. 
+ 
+ We also have outstanding 300 million principal amount of 5.0 senior notes (the "2028 notes"), which mature March 1, 2028 with interest payable semi-annually. On or after March 1, 2023, the 2028 notes may be redeemed at 102.5 of their principal amount plus any accrued and unpaid interest. In accordance with the indenture, the redemption price decreases annually thereafter and the 2028 notes can be redeemed at par on or after March 1, 2026 through maturity. The annual effective interest rate of the 2028 notes after giving effect to the amortization of financing costs is 5.2 . 
+ 
+ The indentures governing our senior notes require that, upon the occurrence of both a change of control and a rating decline (each as defined in the indentures), we offer to purchase the applicable series of notes at 101 of their principal amount. If we or our restricted subsidiaries dispose of assets, under certain circumstances, we will be required to either invest the net cash proceeds from such asset sales in our business within a specified period of time, repay certain senior secured debt or debt of our non-guarantor subsidiaries, or make an offer to purchase a principal amount of such notes equal to the excess net cash proceeds at a purchase price of 100 of their principal amount. The indentures contain covenants that, among other things, restrict the ability of us and our restricted subsidiaries to pay dividends or distributions, repurchase equity, prepay subordinated debt and make certain investments; incur additional debt or issue mandatorily redeemable equity; incur liens on assets; merge or consolidate with another company or sell or otherwise dispose of all or substantially all of our assets; enter into transactions with affiliates; and allow to exist certain restrictions on the ability of subsidiaries to pay dividends or make other payments. At September 30, 2021, we were in compliance with all of the limitations and restrictions associated with our senior note obligations. 
+ 
+ Effective April 30, 2020, our Board of Directors authorized the repurchase of up to 30 million of our debt securities. The authorization has no expiration date. All of the 30 million authorization was remaining at September 30, 2021. 
+ 
+ Other Note Payable 
+ 
+ We also have a note payable of 12.5 million that was issued as part of a transaction to acquire real estate for development. The note is non-recourse and is secured by the underlying real estate, accrues interest at 4.0 per annum and matures in October 2023. 
+ 
+ Issuance of Common Stock 
+ 
+ At September 30, 2021, we had an effective shelf registration statement filed with the SEC in September 2018 registering 500 million of equity securities, of which 100 million was reserved for sales under our at-the-market equity offering program that became effective August 2020. In fiscal 2021, we issued 1.4 million shares of common stock under our at-the-market equity offering program for proceeds of 33.4 million, net of commissions and other issuance costs totaling 1.0 million. At September 30, 2021, 359.9 million remained available for issuance under the shelf registration statement, of which 65.6 million was reserved for sales under our at-the-market equity offering program. 
+ 
+ In October 2021, after the expiration of the existing registration statement and at-the market equity offering program, a new shelf registration statement became effective registering 750 million of equity securities. We anticipate entering into a new at-the-market equity offering program under this new shelf registration statement. 
+
+29 
+
+Table of Contents 
+
+ Operating Cash Flow Activities 
+ 
+ In fiscal 2021, net cash used in operating activities was 303.1 million, compared to 168.4 million in fiscal 2020. The cash used in operating activities in both years is the result of our investment in the acquisition and development of our real estate. 
+ 
+ Investing Cash Flow Activities 
+ 
+ In fiscal 2021, net cash provided by investing activities was 1.0 million, compared to 5.0 million in fiscal 2020. The cash provided by investing activities in both years is primarily the result of distributions received from our unconsolidated ventures. 
+ 
+ Financing Cash Flow Activities 
+ 
+ In fiscal 2021, net cash provided by financing activities was 61.4 million, consisting primarily of proceeds from the issuance of 400 million principal amount of 3.85 senior notes and the issuance of common stock under our at-the-market equity offering program for net proceeds of 33.4 million, which were partially offset by the early redemption of our 350 million principal amount of 8.0 senior notes and the related call premium of 14.0 million. Net proceeds in the prior year primarily consisted of the issuance of our 300 million principal amount of 5.0 senior notes, partially offset by the repayment of 118.9 million principal amount of our 3.75 convertible senior notes at maturity. 
+
+Contractual Obligations and Off-Balance Sheet Arrangements 
+ 
+ At September 30, 2021, contractual cash obligations consist of: 
+ Payments Due by Period Total Less Than 1 Year 1 - 3 Years 3 - 5 Years More Than 5 Years (In millions) Debt Principal (1) 712.5 12.5 400.0 300.0 Debt Interest (1) 177.0 31.4 62.3 60.8 22.5 Operating leases (2) 8.3 1.9 3.9 2.5 Standby letter of credit (3) 6.8 6.8 Total 904.6 40.1 78.7 463.3 322.5 
+ _______________ 
+ (1) Debt represents principal and interest payments due on our senior notes and our revolving credit facility. Because the balance of our revolving credit facility was at September 30, 2021, we did not assume any principal or interest payments related to this facility in future periods. 
+ (2) Our operating leases are primarily for office space. We lease office space in Arlington, Texas as our corporate headquarters and also lease office space in other locations to support our business operations. 
+ (3) The performance bond and standby letter of credit were provided in support of a bond issuance by Cibolo Canyons Special Improvement District (CCSID). To facilitate the issuance of the bonds, we provided a 6.8 million letter of credit to the bond trustee as security for certain debt service fund obligations of the CCSID. The letter of credit must be maintained until the earlier of redemption of the bonds or scheduled bond maturity in 2034. 
+ 
+ In support of our residential lot development business, we issue letters of credit under our revolving credit facility and we have a surety bond program that provides financial assurance to beneficiaries related to the execution and performance of certain development obligations. In addition to the letter of credit discussed above, we had outstanding letters of credit of 53.5 million under the revolving credit facility at September 30, 2021 and surety bonds outstanding of 479.3 million issued by third parties to secure performance under various contracts that are not included in our consolidated balance sheets. We expect that our performance obligations secured by these letters of credit and bonds will generally be completed in the ordinary course of business and in accordance with the applicable contractual terms. When we complete our performance obligations, the related letters of credit and bonds are generally released shortly thereafter, leaving us with no continuing obligations. We have no material third-party guarantees. 
+ 30 
+
+Table of Contents 
+
+Inflation 
+ 
+ We may be adversely affected during periods of high inflation, primarily because of higher financing, land and labor costs. We attempt to offset cost increases in one component with savings in another, and we increase our land and lot sales prices when market conditions permit. However, during periods when market conditions are challenging, we may not be able to offset cost increases with higher selling prices. 
+
+Critical Accounting Policies and Estimates 
+ 
+ General A comprehensive enumeration of the significant accounting policies of Forestar Group Inc. and subsidiaries is presented in Note 1 to the accompanying financial statements as of September 30, 2021 and 2020, and for the years ended September 30, 2021, 2020 and 2019. Each of our accounting policies has been chosen based upon current authoritative literature that collectively comprises U.S. Generally Accepted Accounting Principles (GAAP). In instances where alternative methods of accounting are permissible under GAAP, we have chosen the method that most appropriately reflects the nature of our business, the results of our operations and our financial condition, and have consistently applied those methods over each of the periods presented in the financial statements. The Audit Committee of our Board of Directors has reviewed and approved the accounting policies selected. 
+ 
+ Accounting estimates are considered critical if both of the following conditions are met: (1) the nature of the estimates or assumptions is material because of the levels of subjectivity and judgment needed to account for matters that are highly uncertain and susceptible to change and (2) the effect of the estimates and assumptions is material to the financial statements. We have reviewed our accounting estimates, and none were deemed to be considered critical for the accounting periods presented. 
+ 
+ Revenue Recognition Real estate revenue and related profit are generally recognized at the time of the closing of a sale, when title to and possession of the property are transferred to the buyer. Our performance obligation, to deliver the agreed-upon land or lots, is generally satisfied at closing. However, there may be instances in which we have an unsatisfied remaining performance obligation at the time of closing. In these instances, we record contract liabilities and recognize those revenues over time as the performance obligations are completed. Generally, our unsatisfied remaining performance obligations are expected to have an original duration of less than one year. 
+ 
+ Real Estate and Cost of Sales Real estate includes the costs of direct land and lot acquisition, land development, capitalized interest, and direct overhead costs incurred during land development. All indirect overhead costs, such as compensation of management personnel and insurance costs are charged to selling, general and administrative expense as incurred. 
+ 
+ Land and development costs are typically allocated to individual residential lots based on the relative sales value of the lot. Cost of sales includes applicable land and lot acquisition, land development and related costs (both incurred and estimated to be incurred) allocated to each residential lot in the project. Any changes to the estimated total development costs subsequent to the initial lot sales are generally allocated to the remaining lots. 
+ 
+ We receive earnest money deposits from homebuilders for purchases of developed lots. These earnest money deposits are typically released to the homebuilders as lots are sold. Earnest money deposits from D.R. Horton are subject to mortgages that are secured by the real estate under contract with D.R. Horton. These mortgages expire when the earnest money is released to D.R. Horton as lots are sold. 
+ 
+ We have agreements with certain utility or improvement districts to convey water, sewer and other infrastructure-related assets we have constructed in connection with projects within their jurisdiction and receive reimbursements for the cost of these improvements. The amount of reimbursements for these improvements are defined by the district and are based on the allowable costs of the improvements. The transfer is consummated and we generally receive payment when the districts have a sufficient tax base to support funding of their bonds. The cost incurred by us in constructing these improvements, net of the amount expected to be collected in the future, is included in our land development budgets and in the determination of lot costs. 
+ 
+ Each quarter, we review the performance and outlook for all of our real estate for indicators of potential impairment. We determine if impairment indicators exist by analyzing a variety of factors including, but not limited to, the following: 
+ gross margins on lots sold in recent months; 
+ 31 
+
+Table of Contents 
+
+ projected gross margins based on budgets; 
+ trends in gross margins, average selling prices or cost of sales; and 
+ lot sales absorption rates. 
+ 
+ If indicators of impairment are present, we perform an impairment evaluation, which includes an analysis to determine if the undiscounted cash flows estimated to be generated by those assets are less than their carrying amounts. These estimates of cash flows are significantly impacted by specific factors including estimates of the amounts and timing of future revenues and estimates of the amount of land development costs which, in turn, may be impacted by the following local market conditions: 
+ supply and availability of land and lots; 
+ location and desirability of our land and lots; 
+ amount of land and lots we own or control in a particular market or sub-market; and 
+ local economic and demographic trends. 
+ 
+ For those assets deemed to be impaired, an impairment charge is recorded to cost of sales for the amount by which the carrying amount of the assets exceeds the fair value of the assets. Our determination of fair value is primarily based on discounting the estimated cash flows at a rate commensurate with the inherent risks associated with the assets and related estimated cash flow streams. When an impairment charge is determined, the charge is then allocated to each lot in the same manner as land and development costs are allocated to each lot. 
+ 
+ We rarely purchase land for resale. However, we may change our plans for land we own or land under development and decide to sell the asset. When we determine that we will sell the asset, the project is accounted for as land held for sale if certain criteria are met. We record land held for sale at the lesser of its carrying value or fair value less estimated costs to sell. In performing the impairment evaluation for land held for sale, we consider several factors including, but not limited to, recent offers received to purchase the property, prices for land in recent comparable sales transactions and market analysis studies, which include the estimated price a willing buyer would pay for the land. If the estimated fair value less costs to sell an asset is less than the current carrying value, the asset is written down to its estimated fair value less costs to sell. 
+ 
+ The key assumptions relating to inventory valuations are impacted by local market and economic conditions, and are inherently uncertain. Although our quarterly assessments reflect management s best estimates, due to uncertainties in the estimation process, actual results could differ from such estimates. 
+ 
+ Pending Accounting Standards 
+ 
+ In December 2019, the FASB issued ASU 2019-12 related to simplifying the accounting for income taxes. The guidance is effective for us beginning October 1, 2021 and is not expected to have a material impact on our consolidated financial position, results of operations or cash flows. 
+ 
+ In March 2020, the FASB issued ASU 2020-04, Reference Rate Reform, which provides optional expedients and exceptions for applying U.S. GAAP to contracts, hedging relationships, and other transactions affected by the discontinuation of the London Interbank Offered Rate (LIBOR) or by another reference rate expected to be discontinued. The guidance was effective beginning March 12, 2020 and can be applied prospectively through December 31, 2022.In January 2021, the FASB issued ASU 2021-01, Reference Rate Reform - Scope, which clarified the scope and application of the original guidance. We will adopt these standards when LIBOR is discontinued and do not expect them to have a material impact on our consolidated financial statements or related disclosures. 
+ 
+ In October 2021, the FASB issued ASU 2021-08, which requires application of ASC 606, Revenue from Contracts with Customers, to recognize and measure contract assets and liabilities from contracts with customers acquired in a business combination. ASU 2021-08 creates an exception to the general recognition and measurement principle in ASC 805 and will result in recognition of contract assets and contract liabilities consistent with those recorded by the acquiree immediately before the acquisition date. The guidance is effective for us beginning October 1, 2023 and interim periods therein, with early adoption permitted. We are currently evaluating the impact of this guidance on our consolidated financial position, results of operations and cash flows. 
+ 32 
+
+Table of Contents 
+
+ Forward-Looking Statements 
+ 
+ This Annual Report on Form 10-K and other materials we have filed or may file with the Securities and Exchange Commission contain forward-looking statements within the meaning of the federal securities laws. These forward-looking statements are identified by their use of terms and phrases such as believe, anticipate, could, estimate, likely, intend, may, plan, expect, and similar expressions, including references to assumptions. These statements reflect our current views with respect to future events and are subject to risks and uncertainties. We note that a variety of factors and uncertainties could cause our actual results to differ significantly from the results discussed in the forward-looking statements. Factors and uncertainties that might cause such differences include, but are not limited to: 
+ the effect of D.R. Horton s controlling level of ownership on us and the holders of our securities; 
+ our ability to realize the potential benefits of the strategic relationship with D.R. Horton; 
+ the effect of our strategic relationship with D.R. Horton on our ability to maintain relationships with our customers; 
+ the impact of COVID-19 on the economy and our business; 
+ the cyclical nature of the homebuilding and lot development industries and changes in economic, real estate and other conditions; 
+ the impacts of weather conditions and natural disasters; 
+ health and safety incidents relating to our operations; 
+ supply shortages and other risks of acquiring land, construction materials and skilled labor; 
+ competitive conditions in our industry; 
+ our ability to achieve our strategic initiatives; 
+ continuing liabilities related to assets that have been sold; 
+ the impact of governmental policies, laws or regulations and actions or restrictions of regulatory agencies; 
+ the cost and availability of property suitable for residential lot development; 
+ general economic, market or business conditions where our real estate activities are concentrated; 
+ our dependence on relationships with national, regional and local homebuilders; 
+ our ability to obtain or the availability of surety bonds to secure our performance related to construction and development activities and the pricing of bonds; 
+ obtaining reimbursements and other payments from governmental districts and other agencies and timing of such payments; 
+ our ability to succeed in new markets; 
+ the conditions of the capital markets and our ability to raise capital to fund expected growth; 
+ our ability to manage and service our debt and comply with our debt covenants, restrictions and limitations; 
+ the volatility of the market price and trading volume of our common stock; 
+ our ability to hire and retain key personnel; 
+ the impact of significant inflation, higher interest rates or deflation; and 
+ the strength of our information technology systems and the risk of cybersecurity breaches and our ability to satisfy privacy and data protection laws and regulations. 
+ Other factors, including the risk factors described in Item 1A of this Annual Report on Form 10-K, may also cause actual results to differ materially from those projected by our forward-looking statements. New factors emerge from time to time and it is not possible for us to predict all such factors, nor can we assess the impact of any such factor on our business or the extent to which any factor, or combination of factors, may cause results to differ materially from those contained in any forward-looking statement. 
+ 33 
+
+Table of Contents 
+
+Any forward-looking statement speaks only as of the date on which such statement is made, and, except as required by law, we expressly disclaim any obligation or undertaking to disseminate any updates or revisions to any forward-looking statement to reflect events or circumstances after the date on which such statement is made or to reflect the occurrence of unanticipated events. 
+ 34 
+
+Table of Contents 
+
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk. 
+ 
+ Interest Rate Risk 
+ 
+ We are subject to interest rate risk on our senior debt and revolving credit facility. We monitor our exposure to changes in interest rates and utilize both fixed and variable rate debt. For fixed rate debt, changes in interest rates generally affect the fair value of the debt instrument, but not our earnings or cash flows. Conversely, for variable rate debt, changes in interest rates generally do not impact the fair value of the debt instrument, but may affect our future earnings and cash flows. Except in very limited circumstances, we do not have an obligation to prepay fixed-rate debt prior to maturity and, as a result, interest rate risk and changes in fair value would not have a significant impact on our cash flows related to our fixed-rate debt until such time as we are required to refinance, repurchase or repay such debt. 
+ 
+ At September 30, 2021, our fixed rate debt consisted of 400 million principal amount of the 2026 notes, 300 million principal amount of the 2028 notes and 12.5 million principal amount of 4.0 other note payable due October 2023. Our variable rate debt consists of the outstanding borrowings on our 410 million senior unsecured revolving credit facility, of which there were none at September 30, 2021. 
+ 
+ Foreign Currency Risk 
+ 
+ We have no exposure to foreign currency fluctuations. 
+ 
+ Commodity Price Risk 
+ 
+ We have no significant exposure to commodity price fluctuations. 
+ 35 
+
+Table of Contents 
+
+Item 8. Financial Statements and Supplementary Data. 
+
+MANAGEMENT S ANNUAL REPORT ON 
+ INTERNAL CONTROL OVER FINANCIAL REPORTING 
+ 
+ The management of Forestar is responsible for establishing and maintaining adequate internal control over financial reporting. Management has designed our internal control over financial reporting to provide reasonable assurance that our published financial statements are fairly presented, in all material respects, in conformity with generally accepted accounting principles. 
+ 
+ Management is required by paragraph (c) of Rule 13a-15 of the Securities Exchange Act of 1934, as amended, to assess the effectiveness of our internal control over financial reporting as of each year end. In making this assessment, management used the Internal Control Integrated Framework (2013) by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). 
+ 
+ Management conducted the required assessment of the effectiveness of our internal control over financial reporting as of September 30, 2021. Based upon this assessment, management believes that our internal control over financial reporting is effective as of September 30, 2021. 
+ 
+ Ernst Young LLP, the independent registered public accounting firm that audited our financial statements included in this Form 10-K, has also audited our internal control over financial reporting. Their attestation report follows this report of management. 
+ 36 
+
+Table of Contents 
+
+ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ To the Shareholders and the Board of Directors of Forestar Group Inc. 
+ 
+ Opinion on Internal Control Over Financial Reporting 
+ 
+ We have audited Forestar Group Inc. s internal control over financial reporting as of September 30, 2021, based on criteria established in Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Forestar Group Inc. (the Company) maintained, in all material respects, effective internal control over financial reporting as of September 30, 2021, based on the COSO criteria. 
+ 
+ We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of September 30, 2021 and 2020, the related consolidated statements of operations, total equity, and cash flows, for each of the three years in the period ended September 30, 2021, and the related notes and our report dated November 18, 2021 expressed an unqualified opinion thereon. 
+ 
+ Basis for Opinion 
+ 
+ The Company s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Management s Annual Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. 
+ 
+ Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. 
+ 
+ Definition and Limitations of Internal Control Over Financial Reporting 
+ 
+ A company s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company s assets that could have a material effect on the financial statements. 
+ 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+/s/ Ernst Young LLP 
+ 
+ Fort Worth, Texas 
+ November 18, 2021 
+ 
+ 37 
+
+Table of Contents 
+
+ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ To the Shareholders and the Board of Directors of Forestar Group Inc. 
+ 
+ Opinion on the Financial Statements 
+ 
+ We have audited the accompanying consolidated balance sheets of Forestar Group Inc. (the Company) as of September 30, 2021 and 2020, the related consolidated statements of operations, total equity, and cash flows for each of the three years in the period ended September 30, 2021, and the related notes (collectively referred to as the consolidated financial statements ). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at September 30, 2021 and 2020, and the results of its operations and its cash flows for each of the three years in the period ended September 30, 2021, in conformity with U.S. generally accepted accounting principles. 
+ 
+ We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of September 30, 2021, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated November 18, 2021 expressed an unqualified opinion thereon. 
+ 
+ Basis for Opinion 
+ 
+ These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ 
+ Critical Audit Matter 
+ 
+ The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+ 38 
+
+Table of Contents 
+
+ Land development costs (including estimated costs to complete) 
+ Description of the Matter 
+ For the year ended September 30, 2021, the Company s cost of sales was approximately 1.1 billion, which included the costs of direct land and lot acquisition, land development, and related costs (both incurred and estimated to be incurred) allocated to each residential lot in the project. As discussed in Note 1 to the consolidated financial statements, land development costs are typically allocated to individual residential lots based on the relative sales value of the lots. At the time of lot closings, land development activities may not yet be finalized. To recognize the appropriate amount of cost of sales, the Company estimates the total remaining development costs. Estimates are affected by changes to the land development project s cost of labor, material, and subcontractors. 
+ 
+ Auditing the Company's land development cost measurement and allocation to lots can be complex and subjective due to the estimation required to determine the costs to complete land development. Specifically, the land development cost estimate is sensitive to management assumptions regarding estimated cost of labor, material, and subcontractors. 
+ How We Addressed the Matter in Our Audit 
+ We obtained an understanding and tested the design and operating effectiveness of the Company's process and controls over its land development cost measurement and allocation to lots, including controls over management's review of the estimated costs to complete. 
+ 
+ Our audit procedures included, among others, testing the assumptions used to develop the estimated costs to complete the land development projects by comparing to supporting documentation such as subcontractor bids, contracts, or actual costs from similar or related projects. In addition, we performed procedures related to land development budget changes during the year as well as performed a predictive margin analytic which included investigating variances between historical and estimated margins. We also performed a look-back analysis on completed projects by comparing actual land development costs to land development budgets as of the beginning of the year in order to evaluate the accuracy of management s land development budgets. 
+
+/s/ Ernst Young LLP 
+ 
+ We have served as the Company s auditor since 2007. 
+ 
+ Fort Worth, Texas 
+ November 18, 2021 
+ 
+ 39 
+
+Table of Contents 
+
+ FORESTAR GROUP INC. 
+ CONSOLIDATED BALANCE SHEETS 
+ 
+ September 30, 2021 2020 (In millions, except share data) ASSETS Cash and cash equivalents Real estate Investment in unconsolidated ventures Income taxes receivable Property and equipment, net Other assets Total assets LIABILITIES Accounts payable Accrued development costs Earnest money on sales contracts Deferred tax liability, net Accrued expenses and other liabilities Debt Total liabilities Commitments and contingencies (Note 12) 
+ EQUITY Common stock, par value per share, authorized shares, and shares issued and outstanding at September 30, 2021 and 2020, respectively 
+ Additional paid-in capital Retained earnings Stockholders' equity Noncontrolling interests Total equity Total liabilities and equity 
+
+See accompanying notes to consolidated financial statements. 
+ 40 
+
+Table of Contents 
+
+ FORESTAR GROUP INC. 
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+ 
+ Year Ended September 30, 2021 2020 2019 (In millions, except per share amounts) Revenues Cost of sales Selling, general and administrative expense Equity in earnings of unconsolidated ventures ) ) ) Gain on sale of assets ) ) ) Interest and other income ) ) ) Loss on extinguishment of debt Income before income taxes Income tax expense Net income Net income attributable to noncontrolling interests Net income attributable to Forestar Group Inc. 
+ Basic net income per common share attributable to Forestar Group Inc. Weighted average number of common shares Diluted net income per common share attributable to Forestar Group Inc. Adjusted weighted average number of common shares 
+
+See accompanying notes to consolidated financial statements. 
+ 41 
+
+Table of Contents 
+
+ FORESTAR GROUP INC. 
+ CONSOLIDATED STATEMENTS OF TOTAL EQUITY 
+ 
+ Common Stock Additional Paid-in Capital Retained Earnings Non-controlling Interests Total Equity (In millions, except share amounts) Balances at September 30, 2018 shares) 
+ Net income 
+ Issuance of common stock shares) 
+ Stock issued under employee benefit plans shares) 
+ ) Stock-based compensation expense 
+ Distributions to noncontrolling interests 
+ ) ) Balances at September 30, 2019 shares) 
+ Net income 
+ Stock issued under employee benefit plans shares) 
+ Cash paid for shares withheld for taxes 
+ ) ) Stock-based compensation expense 
+ Distributions to noncontrolling interests 
+ ) ) Balances at September 30, 2020 shares) 
+ Net income 
+ Issuance of common stock shares) 
+ Purchase of noncontrolling interest, net ) ) ) Stock issued under employee benefit plans shares) 
+ Cash paid for shares withheld for taxes 
+ ) ) Stock-based compensation expense 
+ Distributions to noncontrolling interests 
+ ) ) Balances at September 30, 2021 shares) 
+
+See accompanying notes to consolidated financial statements. 
+ 42 
+
+Table of Contents 
+
+ FORESTAR GROUP INC. 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ Year Ended September 30, 2021 2020 2019 (In millions) OPERATING ACTIVITIES Net income Adjustments: Depreciation and amortization Deferred income taxes Equity in earnings of unconsolidated ventures ) ) ) Distributions of earnings of unconsolidated ventures Stock-based compensation expense Real estate and land option charges Loss on extinguishment of debt Gain on sale of assets ) ) ) Other Changes in operating assets and liabilities: Increase in real estate ) ) ) (Increase) decrease in other assets ) ) Increase in accounts payable and other accrued liabilities Increase in accrued development costs Increase in earnest money deposits on sales contracts Decrease (increase) in income taxes receivable ) Net cash used in operating activities ) ) ) INVESTING ACTIVITIES Expenditures for property, equipment, software and other ) ) ) Return of investment in unconsolidated ventures Proceeds from sale of assets Net cash provided by (used in) investing activities ) FINANCING ACTIVITIES Issuance of common stock Proceeds from debt Repayments of debt ) ) ) Deferred financing fees ) ) ) Purchase of noncontrolling interest ) Distributions to noncontrolling interests, net ) ) ) Cash paid for shares withheld for taxes ) ) ) Net cash provided by financing activities Net (decrease) increase in cash and cash equivalents ) Cash and cash equivalents at beginning of year Cash and cash equivalents at end of year SUPPLEMENTAL CASH FLOW INFORMATION: Note payable issued for real estate Income taxes paid (refunded), net ) ) 
+ See accompanying notes to consolidated financial statements. 
+ 43 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+Note 1 
+ 
+ of the Company's outstanding common stock. In connection with the merger, the Company entered into certain agreements with D.R. Horton including a Stockholder s Agreement, a Master Supply Agreement and a Shared Services Agreement. D.R. Horton is considered a related party of Forestar under GAAP. As of September 30, 2021, D.R. Horton owned approximately of the Company's outstanding common stock. 
+
+44 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+45 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+million and million, respectively, and are included in other assets in the consolidated balance sheets. 
+
+to years 
+ Property and equipment to years 
+ Total property and equipment Accumulated depreciation ) ) Property and equipment, net 
+ 
+ Depreciation expense was million in fiscal 2021 and million in both fiscal 2020 and 2019. 
+
+46 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+years. 
+ 
+ The compensation expense for stock-based awards is based on the fair value of the award and is recognized on a straight-line basis over the remaining vesting period. The fair values of restricted stock units are based on the Company s stock price at the date of grant. See Note 11. 
+
+Note 2 
+
+47 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+Note 3 
+ 
+ Undeveloped land 
+ 
+ In fiscal 2021, the Company invested million for the acquisition of residential real estate and million for the development of residential real estate. At September 30, 2021 and 2020, undeveloped land primarily consists of undeveloped land which the Company has the contractual right to sell to D.R. Horton within approximately one year of its purchase or, if D.R. Horton elects, at an earlier date, at a sales price equal to the carrying value of the land at the time of sale plus additional consideration of to per annum. 
+ 
+ Each quarter, the Company reviews the performance and outlook for all of its real estate for indicators of potential impairment and performs detailed impairment evaluations and analyses when necessary. As a result of this process there were real estate impairment charges recorded in fiscal 2021 or 2020 and million of impairment charges were recorded during fiscal 2019. 
+ 
+ During fiscal 2021, 2020 and 2019, earnest money and pre-acquisition cost write-offs related to land purchase contracts that the Company has terminated or expects to terminate were million, million and million, respectively. Real estate impairments and land option charges are included in cost of sales in the consolidated statements of operations. 
+
+Note 4 
+ 
+ Tract sales and other 
+ 
+ Total revenue from D.R. Horton was billion, million and million in fiscal 2021, 2020 and 2019, respectively. 
+ 
+ 48 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+Note 5 
+ 
+ Interest incurred Interest charged to cost of sales ) ) ) Capitalized interest, end of year 
+
+Note 6 
+ 
+ Earnest money notes receivable on sales contracts Lease right of use assets Prepaid expenses Land purchase contract deposits Other 
+
+The Company's accrued expenses and other liabilities at September 30, 2021 and 2020 were as follows: 
+ September 30, 2021 2020 (In millions) Accrued employee compensation and benefits Accrued property taxes Lease liabilities Accrued interest Contract liabilities Deferred income Income taxes payable Other accrued expenses Other liabilities 
+ 49 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+Note 7 
+ 
+ senior notes due 2024 (1) 
+ senior notes due 2026 (1) 
+ senior notes due 2028 (1) 
+ Other note payable 
+ ______________ 
+ (1) Unamortized debt issuance costs that were deducted from the carrying amounts of the senior notes totaled million and million at September 30, 2021 and 2020, respectively. 
+ 
+ Bank Credit Facility 
+ 
+ In April 2021, the Company's senior unsecured revolving credit facility was amended to increase its capacity to million with an uncommitted accordion feature that could increase the size of the facility to million, subject to certain conditions and availability of additional bank commitments. The maturity date of the facility was extended to April 16, 2025. The facility also provides for the issuance of letters of credit with a sublimit equal to the greater of million and of the revolving credit commitment. Borrowings under the revolving credit facility are subject to a borrowing base calculation based on the book value of the Company's real estate assets and unrestricted cash. Letters of credit issued under the facility reduce the available borrowing capacity. Borrowings and repayments under the facility were million each during fiscal 2021. At September 30, 2021, there were borrowings outstanding and million of letters of credit issued under the revolving credit facility, resulting in available capacity of million. 
+ 
+ The revolving credit facility includes customary affirmative and negative covenants, events of default and financial covenants. The financial covenants require a minimum level of tangible net worth, a minimum level of liquidity and a maximum allowable leverage ratio. These covenants are measured as defined in the credit agreement governing the facility and are reported to the lenders quarterly. A failure to comply with these financial covenants could allow the lending banks to terminate the availability of funds under the revolving credit facility or cause any outstanding borrowings to become due and payable prior to maturity. At September 30, 2021, the Company was in compliance with all of the covenants, limitations and restrictions of its revolving credit facility. 
+ 
+ Senior Notes 
+ 
+ The Company has outstanding senior notes as described below that were issued pursuant to Rule 144A and Regulation S under the Securities Act. The notes represent senior unsecured obligations that rank equally in right of payment to all existing and future senior unsecured indebtedness and may be redeemed prior to maturity, subject to certain limitations and premiums defined in the indenture agreements. The notes are guaranteed by each of the Company's subsidiaries to the extent such subsidiaries guarantee the Company's revolving credit facility. 
+ 
+ In April 2021, the company issued million principal amount of senior notes (the "2026 notes") that mature May 15, 2026 with interest payable semi-annually. On or after May 15, 2023, the 2026 notes may be redeemed at of their principal amount plus any accrued and unpaid interest. In accordance with the indenture, the redemption price decreases annually thereafter and the 2026 notes can be redeemed at par on or after May 15, 2025 through maturity. The annual effective interest rate of the 2026 notes after giving effect to the amortization of financing costs is . The net 
+ 50 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+million principal amount of senior notes due April 15, 2024 on May 7, 2021. The redemption price of million included a call premium of million and accrued and unpaid interest of million. The Company recognized an million loss on extinguishment of debt upon the redemption of such notes. 
+ 
+ The Company's million principal amount of senior notes mature March 1, 2028 (the "2028 notes") with interest payable semi-annually. On or after March 1, 2023, the 2028 notes may be redeemed at of their principal amount plus any accrued and unpaid interest. In accordance with the indenture, the redemption price decreases annually thereafter and the 2028 notes can be redeemed at par on or after March 1, 2026 through maturity. The annual effective interest rate of the 2028 notes after giving effect to the amortization of financing costs is . 
+ 
+ The indentures governing the senior notes require that, upon the occurrence of both a change of control and a rating decline (each as defined in the indentures), the Company offer to purchase the applicable series of notes at 101 of their principal amount. If the Company or its restricted subsidiaries dispose of assets, under certain circumstances, the Company will be required to either invest the net cash proceeds from such asset sales in its business within a specified period of time, repay certain senior secured debt or debt of its non-guarantor subsidiaries, or make an offer to purchase a principal amount of the notes equal to the excess net cash proceeds at a purchase price of 100 of their principal amount. The indentures contain covenants that, among other things, restrict the ability of the Company and its restricted subsidiaries to pay dividends or distributions, repurchase equity, prepay subordinated debt and make certain investments; incur additional debt or issue mandatorily redeemable equity; incur liens on assets; merge or consolidate with another company or sell or otherwise dispose of all or substantially all of the Company s assets; enter into transactions with affiliates; and allow to exist certain restrictions on the ability of subsidiaries to pay dividends or make other payments. At September 30, 2021, the Company was in compliance with all of the limitations and restrictions associated with its senior note obligations. 
+ 
+ Effective April 30, 2020, the Board of Directors authorized the repurchase of up to million of the Company s debt securities. The authorization has no expiration date. All of the million authorization was remaining at September 30, 2021. 
+ 
+ Other Note Payable 
+ 
+ The Company also has a note payable of million that was issued as part of a transaction to acquire real estate for development. The note is non-recourse and is secured by the underlying real estate, accrues interest at per annum and matures in October 2023. 
+
+Note 8 
+ 
+ Denominator: Weighted average common shares outstanding basic Dilutive effect of stock-based compensation Total weighted average shares outstanding diluted Basic net income per common share attributable to Forestar Group Inc. Diluted net income per common share attributable to Forestar Group Inc. 
+ 51 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+Note 9 
+ 
+ ) ) State and other ) Deferred tax expense: Federal State and other Income tax expense 
+
+State, net of federal benefit Valuation allowance ) ) Tax benefits previously unrecognized ) Non-controlling interests ) ) Tax rate benefit in carryback years ) Other Effective tax rate 
+ 
+ The effective tax rate for fiscal 2020 includes a tax benefit of million related to the net operating loss (NOL) carryback provisions of the Coronavirus Aid, Relief, and Economic Security Act (CARES Act), which allowed the Company to carryback a portion of its fiscal 2018 NOL. The carryback provisions resulted in the recognition of previously unrecognized tax benefits and the revaluation of deferred tax assets due to the utilization of NOLs at a higher tax rate in the carryback period. The effective tax rate for all years includes an expense for state income taxes and nondeductible expenses and a benefit related to noncontrolling interests. 
+ 
+ 52 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+Employee benefits Net operating loss carryforwards Accruals not deductible until paid Total deferred tax assets Valuation allowance ) ) Total deferred tax assets, net of valuation allowance Deferred tax liabilities: Deferral of profit on lot sales ) ) Total deferred tax liabilities ) ) Deferred tax liability, net ) ) 
+ 
+ At September 30, 2021 and 2020, the Company had federal NOL carryforwards as a result of NOL carryback claims and taxable income in fiscal 2020. At September 30, 2021, the Company had tax benefits of million related to state NOL carryforwards, of which million will expire between 2030 and 2038 while the remaining million do not have an expiration date. 
+ 
+ The Company has a valuation allowance of million and million at September 30, 2021 and 2020, respectively, because it is more likely than not that a portion of the Company's state deferred tax assets, primarily NOL carryforwards, will not be realized because the Company is no longer operating in some states or the NOL carryforward periods are too brief to realize the related deferred tax asset. The Company will continue to evaluate both the positive and negative evidence in determining the need for a valuation allowance on its deferred tax assets. Any reversal of the valuation allowance in future periods will impact the effective tax rate. 
+ 
+ The Company is subject to a Tax Sharing Agreement with D.R. Horton. The agreement sets forth an equitable method for reimbursements of tax liabilities or benefits between the Company and D.R. Horton related to state and local income, margin or franchise tax returns that are filed on a unitary basis with D.R. Horton. In accordance with the agreement, the Company reimbursed D.R. Horton million and million in fiscal 2021 and 2020, respectively, for its tax expense generated in fiscal 2020 and 2019. 
+ 
+ The Company files income tax returns in the U.S. and in various state jurisdictions. The federal statute of limitations for tax years prior to 2016 is closed and the statute of limitations in major state jurisdictions for tax years prior to 2017 is closed. The Company is not currently being audited by the IRS or any state jurisdictions. 
+ 
+ Decrease for tax positions taken in prior years ) Unrecognized tax benefits, end of year 
+ 
+ 53 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+unrecognized tax benefits at September 30, 2021 as a result of the recognition of million of previously unrecognized tax benefits during fiscal 2020. All of the million of recognized tax benefits affected the Company s effective tax rate and was attributable to the NOL carryback provisions of the CARES Act allowing previously uncertain tax attributes to be recognized. 
+ 
+ The Company recognizes interest accrued related to unrecognized tax benefits in income tax expense. In fiscal years 2021, 2020 and 2019, significant interest related to unrecognized tax benefits was recognized. At September 30, 2021, there were accrued interest or penalties. 
+
+Note 10 
+ 
+ million of equity securities, of which million was reserved for sales under the at-the-market equity offering program that became effective in August 2020. In fiscal 2021, the Company issued million shares of common stock under its at-the-market equity offering program for proceeds of million, net of commissions and other issuance costs totaling million. At September 30, 2021, million remained available for issuance under the shelf registration statement, of which million is reserved for sales under the at-the-market equity offering program. 
+ 
+ In October 2021, after the expiration of the existing registration statement and at-the market equity offering program, a new shelf registration statement became effective registering million of equity securities. 
+
+Note 11 
+ 
+ million, million and million for matching contributions in fiscal 2021, 2020 and 2019, respectively. 
+ 
+ Restricted Stock Units (RSUs) 
+ 
+ The Company s Stock Incentive Plan provides for the granting of stock options and restricted stock units to executive officers, other key employees and non-management directors. Restricted stock unit awards may be based on performance (performance-based) or on service over a requisite time period (time-based). RSU equity awards represent the contingent right to receive one share of the Company s common stock per RSU if the vesting conditions and/or performance criteria are satisfied and have no voting rights during the vesting period. 
+ 54 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+. 
+ Granted Vested ) ) ) Cancelled ) ) ) Outstanding at end of year 
+ 
+ The total fair value of shares vested on the vesting date during both fiscal 2021 and 2020 was million. Total stock-based compensation expense related to the Company's restricted stock units for fiscal 2021, 2020 and 2019 was million, million and million, respectively, and fiscal 2021, 2020 and 2019 included million, million and million, respectively, of expense recognized for employees that were retirement eligible on the date of grant. These expenses are included in selling, general and administrative expense in the Company's consolidated statements of operations. At September 30, 2021, there was million of unrecognized compensation expense related to unvested time-based RSU awards. This expense is expected to be recognized over a weighted average period of years. 
+
+Note 12 
+ 
+ million under the revolving credit facility and surety bonds of million issued by third parties to secure performance under various contracts. The Company expects that its performance obligations secured by these letters of credit and bonds will generally be completed in the ordinary course of business and in accordance with the applicable contractual terms. When the Company completes its performance obligations, the related letters of credit and bonds are generally released shortly thereafter, leaving the Company with no continuing obligations. The Company has no material third-party guarantees. 
+ 
+ Litigation 
+ 
+ The Company is involved in various legal proceedings that arise from time to time in the ordinary course of business and believes that adequate reserves have been established for any probable losses. The Company does not believe that the outcome of any of these proceedings will have a significant adverse effect on its financial position, long-term results of operations or cash flows. It is possible, however, that charges related to these matters could be significant to the Company's results or cash flows in any one accounting period. 
+ 
+ Land Purchase Contracts 
+ 
+ The Company enters into land purchase contracts to acquire land for the development of residential lots. At September 30, 2021, the Company had total deposits of million related to contracts to purchase land with a total remaining purchase price of approximately million. The majority of land and lots under contract are currently expected to be purchased within two years. None of the land purchase contracts were subject to specific performance provisions at September 30, 2021. 
+ 
+ 55 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+million in fiscal 2021, million in fiscal 2020 and million in fiscal 2019. Future minimum rental commitments, by fiscal year, under non-cancelable operating leases having an initial or remaining term in excess of one year are: 2022 million; 2023 million; 2024 million; 2025 million; 2026 million; and thereafter. 
+
+Note 13 
+ 
+ million, million and million for these shared services, million, million and million reimbursed to D.R. Horton for the cost of health insurance and other employee benefits and million, million and million for other corporate and administrative expenses paid by D.R. Horton on behalf of the Company. 
+ 
+ The Company is subject to a Tax Sharing Agreement with D.R. Horton. The agreement sets forth an equitable method for reimbursements of tax liabilities or benefits between the Company and D.R. Horton related to state and local income, margin or franchise tax returns that are filed on a unitary basis with D.R. Horton. In accordance with the agreement, the Company reimbursed D.R. Horton million and million in fiscal 2021 and 2020, respectively, for its tax expense generated in fiscal 2020 and 2019, and D.R. Horton reimbursed the Company million in fiscal 2019 for its tax benefit generated in the nine months ended September 30, 2018. 
+ 
+ Under the terms of the Master Supply Agreement with D.R. Horton, both companies identify land development opportunities to expand Forestar's portfolio of assets. At September 30, 2021 and 2020, the Company owned approximately and residential lots, of which D.R. Horton had the following involvement. 
+ Residential lots subject to right of first offer with D.R. Horton Earnest money deposits from D.R. Horton for lots under contract Earnest money notes from D.R. Horton for lots under contract Remaining purchase price of lots under contract with D.R. Horton 
+ 
+ During fiscal 2021, 2020 and 2019, the Company's residential lot sales totaled , and and lot sales revenues were billion, million and million. Lot and land sales to D.R. Horton during those periods were as follows. 
+ Year Ended September 30, 2021 2020 2019 (Dollars in millions) Residential single-family lots sold to D.R. Horton Residential lot sales revenues from sales to D.R. Horton Tract acres sold to D.R. Horton Tract sales revenues from sales to D.R. Horton 
+
+56 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+million in fiscal 2021 and increased revenues on lot sales to D.R. Horton by million and million in fiscal 2020 and 2019, respectively. 
+ 
+ During fiscal 2021, 2020 and 2019, the Company reimbursed D.R. Horton approximately million, million and million, for previously paid earnest money and million, million and million for pre-acquisition and other due diligence and development costs related to land purchase contracts whereby D.R. Horton assigned its rights under these land purchase contracts to the Company. 
+ 
+ During fiscal 2021, 2020 and 2019, the Company paid D.R. Horton million, million and million for land development services. These amounts are included in cost of sales in the Company s consolidated statements of operations. 
+ 
+ At September 30, 2021 and 2020, undeveloped land primarily consists of undeveloped land which the Company has the contractual right to sell to D.R. Horton within approximately one year of its purchase or, if D.R. Horton elects, at an earlier date, at a sales price equal to the carrying value of the land at the time of sale plus additional consideration of to per annum. 
+ 
+ At September 30, 2021 and 2020, accrued expenses and other liabilities on the Company's consolidated balance sheets included million and million owed to D.R. Horton for any accrued and unpaid shared service charges, land purchase contract deposits and due diligence and other development cost reimbursements. 
+ 
+ 57 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+Note 14 
+ 
+ Debt (b) (c) 
+ 
+ Fair Value at September 30, 2020 Carrying Value Level 1 Level 2 Level 3 Total (in millions) Cash and cash equivalents (a) 
+ Debt (b) 
+ 
+ _____________________ 
+ (a) The fair values of cash and cash equivalents approximate their carrying values due to their short-term nature and are classified as Level 1 within the fair value hierarchy. 
+ (b) At September 30, 2021 and 2020, debt primarily consisted of the Company's senior notes. The fair value of the senior notes is determined based on quoted market prices in markets that are not active, which is classified as Level 2 within the fair value hierarchy. 
+ (c) The fair values of the Company's other note payable approximates its carrying value due to its short-term nature and is classified as Level 3 within the fair value hierarchy. 
+ 
+ Non-financial assets measured at fair value on a non-recurring basis primarily include real estate assets which the Company reviews for indicators of potential impairment and performs impairment evaluations when necessary. 
+ 58 
+
+Table of Contents 
+ 
+ FORESTAR GROUP INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (Continued) 
+
+Note 15 
+ 
+ Income before income taxes Income tax expense Net income Net income attributable to noncontrolling interests Net income attributable to Forestar Group Inc. Net income per share basic Net income per share diluted Fiscal 2020 
+ 1st Quarter 2nd Quarter 3rd Quarter 4th Quarter Total revenues Income before income taxes Income tax expense Net income Net (loss) income attributable to noncontrolling interests ) Net income attributable to Forestar Group Inc. Net income per share basic Net income per share diluted 
+ 59 
+
+Table of Contents 
+
+Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure. 
+ 
+ None. 
+
+Item 9A. Controls and Procedures. 
+ 
+ (a) Disclosure controls and procedures 
+ 
+ Our management, with the participation of the Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act)), as of the end of the period covered by this report. Based on such evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that, as of the end of such period, our disclosure controls and procedures were effective in recording, processing, summarizing and reporting, on a timely basis, information required to be disclosed by us in the reports that we file or submit under the Exchange Act and were effective in ensuring that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. 
+ 
+ (b) Internal control over financial reporting 
+ 
+ Management s report on internal control over financial reporting and the report of our independent registered public accounting firm are included in Part II, Item 8 of this Annual Report on Form 10-K. 
+ 
+ (c) Changes in internal control over financial reporting 
+ 
+ There have been no changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter ended September 30, 2021 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+Item 9B. Other Information. 
+ 
+ None. 
+ 60 
+
+Table of Contents 
+
+PART III 
+
+Item 10. Directors, Executive Officers and Corporate Governance. 
+ 
+ The information required by this item is set forth under the captions Election of Directors, Delinquent Section 16(a) Reports, if applicable, and Board Matters in our definitive Proxy Statement for the 2022 Annual Meeting of Stockholders. 
+
+Item 11. Executive Compensation. 
+ 
+ The information required by this item is set forth under the captions Director Compensation, Executive Compensation and CEO Pay Ratio in our definitive Proxy Statement for the 2022 Annual Meeting of Stockholders. 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ 
+ The information required by this item is set forth under the captions Securities Authorized for Issuance under Equity Compensation Plans and Voting Securities and Principal Stockholders in our definitive Proxy Statement for the 2022 Annual Meeting of Stockholders. 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence. 
+ 
+ The information required by this item is set forth under the captions Certain Relationships and Related Party Transactions and Board Matters in our definitive Proxy Statement for the 2022 Annual Meeting of Stockholders. 
+
+Item 14. Principal Accountant Fees and Services. 
+ 
+ The information required by this item is set forth under the caption Proposal to Ratify the Selection of Ernst Young as our Independent Registered Public Accounting Firm in our definitive Proxy Statement for the 2022 Annual Meeting of Stockholders. 
+ 
+ 61 
+
+Table of Contents 
+
+PART IV 
+
+Item 15. Exhibits and Financial Statement Schedules. 
+ 
+ (a) The following documents are filed as part of this report. 
+ (1) Financial Statements 
+ Our consolidated financial statements are included in Part II, Item 8 of this Annual Report on Form 10-K. 
+ (2) Financial Statement Schedules 
+ All financial statement schedules are omitted because they are not applicable or the required information is included in the consolidated financial statements or notes thereto. 
+ (3) Exhibits 
+ The exhibits listed in (b) are filed or incorporated by reference as part of this Annual Report on Form 10-K. 
+ 
+ (b) Exhibits 
+ Exhibit Number Exhibit 2.1 Agreement and Plan of Merger, dated as of June 29, 2017, by and among Forestar Group Inc., D.R. Horton, Inc. and Force Merger Sub, Inc. (incorporated by reference to Exhibit 2.1 to the Company s Current Report on Form 8-K filed with the Commission on June 29, 2017). 
+ 3.1 Second Amended and Restated Certificate of Incorporation of Forestar Group Inc. (incorporated by reference to Exhibit 3.1 of the Company s Current Report on Form 8-K filed with the Commission on October 10, 2017). 
+ 3.2 Second Amended and Restated Bylaws of Forestar Group Inc. (incorporated by reference to Exhibit 3.2 of the Company s Current Report on Form 8-K filed with the Commission on October 10, 2017). 
+ 3.3 First Amendment to the Second Amended and Restated Bylaws of Forestar Group Inc. (incorporated by reference to Exhibit 3.1 of the Company s Current Report on Form 8-K filed with the Commission on January 30, 2018). 
+ 3.4 Second Amendment to the Second Amended and Restated Bylaws of Forestar Group Inc. (incorporated by reference from Exhibit 3.1 to Forestar Group Inc. s Quarterly Report on Form 10-Q filed with the Commission on August 8, 2018). 
+ 4.1 Specimen Certificate for shares of common stock, par value 1.00 per share (incorporated by reference to Exhibit 4.7 of the Company's Registration Statement on Form S-3 filed with the Commission on September 24, 2018). 
+ 4.2 Indenture, dated as of February 25, 2020, by and among Forestar Group Inc., the subsidiary guarantors party thereto and U.S. Bank National Association, as trustee (incorporated by reference to Exhibit 4.1 of the Company s Current Report on Form 8-K filed with the Commission on February 25, 2020). 
+ 4.3 Description of Securities (incorporated by reference to Exhibit 4.6 of the Company's Annual Report on Form 10-K filed with the Commission on November 21, 2019). 
+ 4.4 Indenture, dated as of April 21, 2021, by and among Forestar Group Inc., the subsidiary guarantors party thereto and U.S. Bank National Association, as trustee. 
+ 10.1 Forestar Real Estate Group Inc. Supplemental Executive Retirement Plan (incorporated by reference to Exhibit 10.5 of Amendment No. 5 to the Company s Form 10 filed with the Commission on December 10, 2007). 
+ 10.2 Amendment No. 1 to Forestar Group Inc. Supplemental Executive Retirement Plan (incorporated by reference to Exhibit 10.3 of the Company s Annual Report on Form 10-K filed with the Commission on March 14, 2013). 
+ 
+ 62 
+
+Table of Contents 
+
+10.3 Amendment No. 2 to Forestar Group Inc. Supplemental Executive Retirement Plan (incorporated by reference to Exhibit 10.25 of the Company's Annual Report on Form 10-K filed with the Commission on March 11, 2014). 
+ 10.4 Form of Indemnification Agreement (incorporated by reference to Exhibit 10.3 of the Company s Current Report on Form 8-K filed with the Commission on October 10, 2017). 
+ 10.5 Form of Change in Control/Severance Agreement between the Company and its named executive officers (incorporated by reference to Exhibit 10.10 of the Company s Form 10 filed with the Commission on August 10, 2007). 
+ 10.6 Form of First Amendment to Change in Control/Severance Agreement between the Company and certain named executive officers (incorporated by reference to Exhibit 10.8 of the Company s Annual Report on Form 10-K filed with the Commission on February 28, 2018). 
+ 10.7 Shared Services Agreement, dated October 6, 2017, between Forestar Group Inc. and D.R. Horton, Inc. (incorporated by reference to Exhibit 10. 7 of the Company s Form 10 -K filed with the Commission on November 1 9 , 20 20 ). 
+ 10.8 Stockholder s Agreement dated as of June 29, 2017, by and between Forestar Group Inc. and D.R. Horton, Inc. (incorporated by reference to Exhibit 10.1 of the Company s Current Report on Form 8-K filed with the Commission on June 29, 2017). 
+ 10.9 Master Supply Agreement dated as of June 29, 2017, by and between Forestar Group Inc. and D.R. Horton, Inc. (incorporated by reference to Exhibit 10.2 of the Company s Current Report on Form 8-K filed with the Commission on June 29, 2017). 
+ 10.10 Forestar Real Estate Group Inc. 2007 Stock Incentive Plan (incorporated by reference to Exhibit 10.6 of Amendment No. 5 to the Company s Form 10 filed with the Commission on December 10, 2007). 
+ 10.11 First Amendment to the Forestar Real Estate Group Inc. 2007 Stock Incentive Plan (incorporated by reference to Exhibit 10.1 of the Company s Current Report on Form 8-K filed with the Commission on May 13, 2009). 
+ 10.12 Second Amendment to the Forestar Group Inc. 2007 Stock Incentive Plan (incorporated by reference to Exhibit 10.22 of the Company s Annual Report on Form 10-K filed with the Commission on March 3, 2010). 
+ 10.13 Form of Restricted Stock Units Agreement pursuant to Forestar Real Estate Group Inc. s 2007 Stock Incentive Plan (incorporated by reference to Exhibit 10.11 of the Company s Annual Report on Form 10-K filed with the Commission on March 14, 2013). 
+ 10.14 Forestar Group Inc. 2018 Stock Incentive Plan (incorporated by reference to Exhibit 10.2 of the Company s Quarterly Report on Form 10-Q filed with the Commission on May 9, 2018). 
+ 10.15 Form of Restricted Stock Unit Agreement (Employees) pursuant to Forestar Group Inc. s 2018 Stock Incentive Plan (incorporated by reference to Exhibit 10.3 of the Company s Quarterly Report on Form 10-Q filed with the Commission on May 9, 2018). 
+ 10.16 Credit Agreement, dated August 16, 2018, among Forestar Group Inc., the lenders party thereto and JPMorgan Chase Bank, N.A., as administrative agent (incorporated by reference to Exhibit 10.1 of the Company s Current Report on Form 8-K filed with the Commission on August 17, 2018). 
+ 10.17 Form of Restricted Stock Unit Award Agreement (Employee) pursuant to the Company's 2018 Stock Incentive Plan (incorporated by reference to Exhibit 10.1 of the Company s Quarterly Report on Form 10-Q filed with the Commission on July 30, 2019). 
+ 10.18 Form of Restricted Stock Unit Award Agreement (Director) pursuant to the Company's 2018 Stock Incentive Plan (incorporated by reference to Exhibit 10.2 of the Company s Quarterly Report on Form 10-Q filed with the Commission on July 30, 2019). 
+ 10.19 Amendment No. 1 to Credit Agreement, dated October 2, 2019 by and among Forestar Group Inc., JPMorgan Chase Bank, N.A., as administrative agent, and the Lenders named therein (incorporated by reference to Exhibit 10.1 of the Company s Current Report on Form 8-K filed with the Commission on October 3, 2019). 
+ 
+ 63 
+
+Table of Contents 
+
+10.20 Equity Distribution Agreement, dated as of August 7, 2020, among Forestar Group Inc. and the Sales Agents named therein (incorporated by reference to Exhibit 1.1 of the Company's Current Report on Form 8-K filed with the Commission on August 7, 2020). 
+ 10.21 Amendment No. 2 to Credit Agreement, dated April 16, 2021 by and among the Company, JPMorgan Chase Bank, N.A., as administrative agent, and the Lenders named therein (incorporated by reference to Exhibit 10.1 of the Company s Current Report on Form 8-K filed with the Commission on April 20, 2021). 
+ 21.1 List of Subsidiaries of the Company. 
+ 23.1 Consent of Ernst Young LLP. 
+ 31.1 Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 31.2 Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 32.1 Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.2 Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101.INS XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document. 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document. 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. 104 Cover Page Interactive Data File (embedded within the Inline XBRL document contained in Exhibit 101). _____________________ Filed or furnished herewith. Submitted electronically herewith. Management contract or compensatory plan or arrangement. 
+
+Item 16. Form 10-K Summary. 
+ None. 
+ 
+ 64 
+
+Table of Contents 
+
+SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ 
+ Forestar Group Inc. Date: November 18, 2021 By: /s/ James D. Allen James D. Allen Executive Vice President and Chief Financial Officer 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+ 
+ Signature Title Date /s/ Daniel C. Bartok Chief Executive Officer (Principal Executive Officer) November 18, 2021 Daniel C. Bartok /s/ James D. Allen Executive Vice President and Chief Financial Officer (Principal Financial and Principal Accounting Officer) November 18, 2021 James D. Allen /s/ Donald J. Tomnitz Executive Chairman of the Board November 18, 2021 Donald J. Tomnitz /s/ Samuel R. Fuller Director November 18, 2021 Samuel R. Fuller /s/ Lisa H. Jamieson Director November 18, 2021 Lisa H. Jamieson /s/ G.F. (Rick) Ringler, III Director November 18, 2021 G.F. (Rick) Ringler, III /s/ Donald C. Spitzer Director November 18, 2021 Donald C. Spitzer 
+ 65 
+
+<EX-21.1>
+ 2
+ a9302021ex211subsidiarylis.htm
+ EX-21.1
+
+Document 
+
+Exhibit 21.1 
+ FORESTAR GROUP INC. 
+ SUBSIDIARIES 
+ Legal Entity Jurisdiction Ownership Forestar (USA) Real Estate Group Inc. Delaware 100 4S RPG Land Company LP Texas 100 CL Realty, LLC Delaware 50 CL Texas I GP, L.L.C. Georgia 100 CL RPG Land Company, LP Texas 100 CREA FMF Nashville LLC Delaware 30 FirstLand Investment Corporation Texas 100 FMF Development LLC Delaware 100 Forestar Real Estate Group Inc. Delaware 100 Forestar Realty Inc. Delaware 100 FORCO Real Estate Inc. Delaware 100 Forestar MWC WCF LLC Delaware 90 GBF LIC 288, Ltd. Texas 100 Hickory Hill Development, LP Texas 100 LM Land Holdings, LP Texas 38 Mont 200 LLC Texas 100 SWR Holdings LLC Delaware 100 TEMCO Associates, LLC Georgia 100 Timber Creek Properties LLC Delaware 88 
+
+</EX-21.1>
+
+<EX-23.1>
+ 3
+ a9302021ex231auditconsent.htm
+ EX-23.1
+
+Document 
+
+Exhibit 23.1 
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ We consent to the incorporation by reference in the following Registration Statements 
+ 1) Registration Statement (Form S-8 No. 333-148375) of Forestar Group Inc., 
+ 2) Registration Statement (Form S-8 No. 333-159214) of Forestar Group Inc., 
+ 3) Registration Statement (Form S-8 No. 333-224803) of Forestar Group Inc., and 
+ 4) Registration Statement (Form S-3 No. 333-259985) of Forestar Group Inc. 
+ of our reports dated November 18, 2021, with respect to the consolidated financial statements of Forestar Group Inc. and the effectiveness of internal control over financial reporting of Forestar Group Inc. included in this Annual Report (Form 10-K) of Forestar Group Inc. for the year ended September 30, 2021. 
+ 
+ s Ernst & Young LLP Fort Worth, Texas November 18, 2021 
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ a9302021exhibit311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO EXCHANGE ACT RULE 13a-14(a) 
+ I, Daniel C. Bartok, certify that 
+ 1. I have reviewed this Annual Report on Form 10-K of Forestar Group Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ s Daniel C. Bartok Daniel C. Bartok Chief Executive Officer 
+ Date November 18, 2021 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ a9302021exhibit312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO EXCHANGE ACT RULE 13a-14(a) 
+ I, James D. Allen, certify that 
+ 1. I have reviewed this Annual Report on Form 10-K of Forestar Group Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ s James D. Allen James D. Allen 
+ Chief Financial Officer 
+ Date November 18, 2021 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ a9302021exhibit321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ Certification of Chief Executive Officer 
+ Pursuant to 18 U.S.C. Section 1350, as Adopted 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ I, Daniel C. Bartok, Chief Executive Officer of Forestar Group Inc., hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge, this Annual Report on Form 10-K fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that the information contained in this Annual Report on Form 10-K fairly presents, in all material respects, the financial condition and results of operations of Forestar Group Inc. 
+ s Daniel C. Bartok Daniel C. Bartok 
+ 
+ November 18, 2021 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ a9302021exhibit322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ Certification of Chief Financial Officer 
+ Pursuant to 18 U.S.C. Section 1350, as Adopted 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ I, James D. Allen, Chief Financial Officer of Forestar Group Inc., hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge, this Annual Report on Form 10-K fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that the information contained in this Annual Report on Form 10-K fairly presents, in all material respects, the financial condition and results of operations of Forestar Group Inc. 
+ s James D. Allen James D. Allen 
+ 
+ November 18, 2021 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 8
+ for-20210930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ for-20210930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ for-20210930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ for-20210930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ for-20210930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

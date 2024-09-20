@@ -1,0 +1,2687 @@
+<Header>
+<FileStats>
+    <FileName>20211229_10-K_edgar_data_1853314_0001213900-21-067913.txt</FileName>
+    <GrossFileSize>2600481</GrossFileSize>
+    <NetFileSize>115455</NetFileSize>
+    <NonText_DocumentType_Chars>488990</NonText_DocumentType_Chars>
+    <HTML_Chars>621649</HTML_Chars>
+    <XBRL_Chars>693049</XBRL_Chars>
+    <XML_Chars>630212</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-21-067913.hdr.sgml : 20211229
+<ACCEPTANCE-DATETIME>20211229160050
+ACCESSION NUMBER:		0001213900-21-067913
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		40
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211229
+DATE AS OF CHANGE:		20211229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Gesher I Acquisition Corp.
+		CENTRAL INDEX KEY:			0001853314
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40897
+		FILM NUMBER:		211528812
+
+	BUSINESS ADDRESS:	
+		STREET 1:		HAGAG TOWERS
+		STREET 2:		NORTH TOWER, FLOOR 24, HAARBA 28
+		CITY:			TEL AVIV
+		STATE:			L3
+		ZIP:			6473917
+		BUSINESS PHONE:		(212) 818-8800
+
+	MAIL ADDRESS:	
+		STREET 1:		HAGAG TOWERS
+		STREET 2:		NORTH TOWER, FLOOR 24, HAARBA 28
+		CITY:			TEL AVIV
+		STATE:			L3
+		ZIP:			6473917
+
+</SEC-Header>
+</Header>
+
+ 0001213900-21-067913.txt : 20211229
+
+10-K
+ 1
+ f10k2021_gesher1acq.htm
+ ANNUAL REPORT
+
+UNITED
+STATES 
+
+SECURITIES
+AND EXCHANGE COMMISSION 
+
+Washington,
+D.C. 20549 
+
+FORM
+
+Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+
+For
+the year ended 
+
+Commission
+File Number 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State or Other Jurisdiction of Incorporation) (I.R.S. Employer Identification No.) 
+ 
+ , N/A 
+ (Address of principal executive offices) (zip code) 
+
+(Issuer s
+Telephone Number, Including Area Code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title of Each Class Trading Symbols Name of Each Exchange on Which Registered 
+ Units, each consisting of one Ordinary Share and one-half of one Redeemable Warrant GIACU The Stock Market LLC 
+ The Nasdaq Stock Market LLC 
+ Redeemable warrants, exercisable for ordinary shares at an exercise price of 11.50 per share GIACW The Nasdaq Stock Market LLC 
+
+Securities
+registered pursuant to Section 12(g) of the Act: None 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Exchange Act. Yes 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act of 1934
+during the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirement for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+ No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller
+reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer Accelerated filer 
+ Smaller reporting company 
+ Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Ex- change Act. 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+As
+of March 31, 2021, the last business day of the registrant s most recently completed second fiscal quarter, the registrant s
+ordinary shares were not publicly traded. Accordingly, there was no market value for the registrant s ordinary shares on such date. 
+
+As
+of December 29, 2021, ordinary shares, par value 0.0001 per share, were issued and outstanding. 
+
+Documents
+Incorporated by Reference: The information contained in the registrant s prospectus dated October 12, 2021, as filed with the Securities
+and Exchange Commission on October 13, 2021, pursuant to Rule 424(b)(4) (SEC File Nos. 333- 259253) is incorporated into certain portions
+of Parts I, II, and III, as disclosed herein. 
+
+CAUTIONARY
+NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This
+annual report, including, without limitation, statements under the heading Management s Discussion and Analysis of Financial
+Condition and Results of Operations, includes forward-looking statements within the meaning of Section 27A of the Securities Act
+and Section 21E of the Exchange Act. These forward-looking statements can be identified by the use of forward-looking terminology, including
+the words believes, estimates, anticipates, expects, intends, plans, 
+ may, will, potential, projects, predicts, continue, 
+or should, or, in each case, their negative or other variations or comparable terminology. There can be no assurance that
+actual results will not materially differ from expectations. Such statements include, but are not limited to, any statements relating
+to our ability to consummate any acquisition or other business combination and any other statements that are not statements of current
+or historical facts. These statements are based on management s current expectations, but actual results may differ materially
+due to various factors, including, but not limited to our: 
+
+ability
+ to complete our initial business combination; 
+
+success
+ in retaining or recruiting, or changes required in, our officers, key employees or directors
+ following an initial business combination; 
+
+officers
+ and directors allocating their time to other businesses and potentially having conflicts
+ of interest with our business or in approving our initial business combination, as a result
+ of which they would then receive expense reimbursements; 
+
+potential
+ ability to obtain additional financing to complete an initial business combination; 
+
+pool
+ of prospective target businesses; 
+
+failure
+ to maintain the listing on, or the delisting of our securities from, Nasdaq or an inability
+ to have our securities listed on Nasdaq or another national securities exchange following
+ our initial business combination; 
+
+the
+ ability of our officers and directors to generate a number of potential investment opportunities; 
+
+potential
+ change in control if we acquire one or more target businesses for stock; 
+
+public
+ securities potential liquidity and trading; 
+
+lack
+ of a market for our securities; 
+
+use
+ of proceeds not held in the trust account or available to us from interest income on the
+ trust account balance; or 
+
+our
+ financial performance. 
+
+The
+forward-looking statements contained in this annual report are based on our current expectations and beliefs concerning future developments
+and their potential effects on us. Future developments affecting us may not be those that we have anticipated. These forward-looking
+statements involve a number of risks, uncertainties (some of which are beyond our control) and other assumptions that may cause actual
+results or performance to be materially different from those expressed or implied by these forward-looking statements. These risks and
+uncertainties include, but are not limited to, those factors described under the heading Risk Factors. Should one or more
+of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects
+from those projected in these forward-looking statements. We undertake no obligation to update or revise any forward-looking statements,
+whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws. These
+risks and others described under Risk Factors may not be exhaustive. 
+
+By
+their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that
+may or may not occur in the future. We caution you that forward-looking statements are not guarantees of future performance and that
+our actual results of operations, financial condition and liquidity, and developments in the industry in which we operate may differ
+materially from those made in or suggested by the forward-looking statements contained in this annual report. In addition, even if our
+results or operations, financial condition and liquidity, and developments in the industry in which we operate are consistent with the
+forward-looking statements contained in this annual report, those results or developments may not be indicative of results or developments
+in subsequent periods. 
+
+i 
+
+GESHER
+I ACQUISITION CORP. 
+
+FORM
+10-K 
+
+TABLE
+OF CONTENTS 
+
+PART
+ I 
+
+1 
+
+Item
+ 1. 
+ Business. 
+ 
+ 1 
+
+Item
+ 1A. 
+ Risk
+ Factors. 
+ 
+ 1 
+
+Item
+ 1B. 
+ Unresolved
+ Staff Comments. 
+ 
+ 1 
+
+Item
+ 2. 
+ Properties. 
+ 
+ 1 
+
+Item
+ 3. 
+ Legal
+ Proceedings. 
+ 
+ 2 
+
+Item
+ 4. 
+ Mine
+ Safety Disclosures. 
+ 
+ 2 
+
+PART
+ II 
+
+3 
+
+Item
+ 5. 
+ Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 
+ 3 
+
+Item
+ 6. 
+ [Reserved]. 
+ 
+ 4 
+
+Item
+ 7. 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations. 
+ 
+ 4 
+
+Item
+ 7A. 
+ Quantitative
+ and Qualitative Disclosures About Market Risk. 
+ 
+ 7 
+
+Item
+ 8. 
+ Financial
+ Statements and Supplementary Data. 
+ 
+ 7 
+
+Item
+ 9. 
+ Changes
+ in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+ 
+ 7 
+
+Item
+ 9A. 
+ Controls
+ and Procedures. 
+ 
+ 7 
+
+Item
+ 9B. 
+ Other
+ Information. 
+ 
+ 7 
+
+Item
+ 9C. 
+ Disclosure
+ Regarding Foreign Jurisdictions that Prevent Inspections. 
+ 
+ 7 
+
+PART
+ III 
+
+8 
+
+Item
+ 10. 
+ Directors,
+ Executive Officers and Corporate Governance. 
+ 
+ 8 
+
+Item
+ 11. 
+ Executive
+ Compensation. 
+ 
+ 12 
+
+Item
+ 12. 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ 
+ 13 
+
+Item
+ 13. 
+ Certain
+ Relationships and Related Transactions, and Director Independence. 
+ 
+ 14 
+
+Item
+ 14. 
+ Principal
+ Accounting Fees and Services. 
+ 
+ 14 
+
+PART
+ IV 
+
+Item
+ 15. 
+ Exhibit
+ and, Financial Statement Schedules. 
+ 
+ 15 
+
+Item
+ 16. 
+ Form
+ 10-K Summary. 
+ 
+ 15 
+
+ii 
+
+PART
+I 
+
+ITEM
+1. BUSINESS 
+
+In
+this Annual Report on Form 10-K (the Form 10-K ), references to the Company and to we, us, 
+and our refer to Gesher I Acquisition Corp. 
+
+We
+are a blank check company formed under the laws of the Cayman Islands on February 23, 2021. We were formed for the purpose of entering
+into a merger, share exchange, asset acquisition, stock purchase, recapitalization, reorganization or other similar business combination
+with one or more businesses or entities, which we refer to as a target business. Our efforts to identify a prospective
+target business will not be limited to a particular industry or geographic location, although we intend to focus our search for target
+businesses in the cannabis industry. 
+
+In
+February 2021, we issued an aggregate of 2,875,000 ordinary shares founders shares for an aggregate purchase price
+of 25,000, or approximately 0.009 per share, to Gesher I Sponsor LLC Sponsor ). 
+
+In
+February 2021, we also issued to designees of EarlyBirdCapital, Inc., the representative of the underwriters in our initial public offering IPO ), an aggregate of 200,000 ordinary shares representative shares at a price of 0.0001 per share. 
+
+On
+October 14, 2021, we consummated the IPO of 10,000,000 units. Each unit Unit consists of one ordinary share and one-half
+of one redeemable warrant Warrant ), with each whole Warrant entitling the holder to purchase one ordinary share at a price
+of 11.50 per share. The units were sold at an offering price of 10.00 per unit, generating gross proceeds of 100,000,000. 
+
+Simultaneously
+with the consummation of the IPO, we consummated the private placement Private Placement of 4,550,000 warrants Private
+Warrants at a price of 1.00 per Private Warrant, generating total proceeds of 4,550,000. The Private Warrants were sold to
+the Sponsor and EarlyBirdCapital and its designees. The Private Warrants are identical to the Warrants included in the Units sold in
+the IPO. 
+
+On
+October 21, 2021, we consummated the sale of an additional 1,500,000 Units at 10.00 per Unit pursuant to the underwriters over-allotment
+option, generating gross proceeds of 15,000,000. Simultaneously with the closing of the sale of additional Units, we consummated the
+sale of an additional 450,000 Private Warrants at 1.00 per Private Warrant, generating total proceeds of 450,000. Following the closing
+of the over-allotment option and sale of additional Private Warrants, an aggregate amount of 116,150,000 has been placed in the trust
+account established in connection with the IPO. 
+
+On
+November 9, 2021, the ordinary shares and Warrants included in the Units began separate trading. 
+
+For
+further details regarding our business, see the section titled Proposed Business contained in our prospectus dated October
+12, 2021, incorporated by reference herein. 
+
+ITEM
+1A. RISK FACTORS 
+
+For
+the risks relating to our operations, see the section titled Risk Factors contained in our prospectus dated October 12,
+2021, incorporated by reference herein. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS 
+
+Not
+applicable. 
+
+ITEM
+2. PROPERTY 
+
+We
+currently maintain our principal executive offices at Hagag Towers, North Tower, Floor 24, Haarba 28, Tel Aviv, Israel. The cost for
+this space is included in the 10,000 per-month fee High House, an affiliate of Mr. Cherni, our Chief Operating Officer and a director,
+charges us for general and administrative services. We consider our current office space, combined with the other office space otherwise
+available to our executive officers, adequate for our current operations. 
+
+1 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+None. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not
+applicable. 
+
+2 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR COMMON EQUITY AND RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Market
+Information 
+
+Our
+ordinary shares and warrants are listed on the Nasdaq Capital Markets Nasdaq under the symbols GIAC and GIACW, respectively. 
+
+Holders 
+
+As
+of December 28, 2021, there was one holder of record of our units, seven holders of record of our ordinary shares and three holders of
+record of our warrants. We believe we have in excess of 300 beneficial holders of our securities. 
+
+Dividends 
+
+We
+have not paid any cash dividends on our ordinary shares to date and do not intend to pay cash dividends prior to the completion of a
+business combination. The payment of cash dividends in the future will be contingent upon our revenues and earnings, if any, capital
+requirements, and general financial condition subsequent to completion of a business combination. Further, if we incur any indebtedness
+in connection with our initial business combination, our ability to declare dividends may be limited by restrictive covenants we may
+agree to in connection therewith. The payment of any dividends subsequent to a business combination will be within the discretion of
+our then board of directors. It is the present intention of our board of directors to retain all earnings, if any, for use in our business
+operations and, accordingly, our board does not anticipate declaring any dividends in the foreseeable future. 
+
+Recent
+Sales of Unregistered Securities; Use of Proceeds from Registered Securities 
+
+On
+October 14, 2021, we consummated our IPO of 10,000,000 units. Each unit consisted of one ordinary share and one-half of one redeemable
+warrant, with each whole warrant entitling the holder to purchase one ordinary share at a price of 11.50 per share. The units were sold
+at an offering price of 10.00 per unit, generating gross proceeds of 100,000,000. EarlyBirdCapital, Inc. acted as sole book-running
+manager of the offering. The securities sold in the IPO were registered under the Securities Act on a registration statement on Form
+S-1 (No. 333-259253) which was declared effective by the Securities and Exchange Commission on October 12, 2021. 
+
+Simultaneously
+with the consummation of the IPO, we consummated the Private Placement of 4,550,000 Private Warrants at a price of 1.00 per Private
+Warrant, generating total proceeds of 4,550,000. The Private Warrants were sold to Gesher I Sponsor, LLC, our Sponsor, and EarlyBirdCapital
+and its designees. The Private Warrants are identical to the warrants included in the units sold in the IPO. 
+
+Following
+the closing of the IPO on October 14, 2021, an amount of 101,000,000 10.10 per Unit) from the net proceeds of the sale of the Units
+in the IPO and the sale of the Private Warrants was placed in a trust account (the Trust Account ). 
+
+On
+October 21, 2021, we consummated the sale of an additional 1,500,000 Units at 10.00 per Unit pursuant to the underwriters over-allotment
+option, generating gross proceeds of 15,000,000. Simultaneously with the closing of the sale of additional Units, we consummated the
+sale of an additional 450,000 Private Warrants at 1.00 per Private Warrant, generating total proceeds of 450,000. Following the closing
+of the over-allotment option and sale of additional Private Warrants, an aggregate amount of 116,150,000 has been placed in the trust
+account established in connection with the IPO. 
+
+On
+November 9, 2021, the ordinary shares and Warrants included in the Units began separate trading. 
+
+Transaction
+costs amounted to 10,124,821, consisting of 2,000,000 of underwriting fees, 3,500,000 of deferred underwriting fees, 4,073,565 of
+incentives to anchor investors and forward purchase investors and 551,256 of other offering costs. As of December 8, 2021, approximately
+ 0.5 million of cash was held outside of the trust account established in connection with the IPO and is available for working capital purposes. 
+
+3 
+
+ITEM
+6. [RESERVED] 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+References
+to the Company, us, our or we refer to Gesher I Acquisition Corp. The following
+discussion and analysis of our financial condition and results of operations should be read in conjunction with our audited financial
+statements and related notes included herein. 
+
+Cautionary
+Note Regarding Forward-Looking Statements 
+
+All
+statements other than statements of historical fact included in this Report including, without limitation, statements under this Management s
+Discussion and Analysis of Financial Condition and Results of Operations regarding our financial position, business strategy and
+the plans and objectives of management for future operations, are forward- looking statements. When used in this Report, words such as
+ anticipate, believe, estimate, expect, intend and similar expressions,
+as they relate to us or our management, identify forward-looking statements. Such forward-looking statements are based on the beliefs
+of management, as well as assumptions made by, and information currently available to, the Company s management. Actual results
+could differ materially from those contemplated by the forward- looking statements as a result of certain factors detailed in our filings
+with the SEC. All subsequent written or oral forward-looking statements attributable to us or persons acting on our behalf are qualified
+in their entirety by this paragraph. 
+
+The
+following discussion and analysis of our financial condition and results of operations should be read in conjunction with the financial
+statements and the notes thereto contained elsewhere in this Report. Certain information contained in the discussion and analysis set
+forth below includes forward-looking statements that involve risks and uncertainties. 
+
+Overview 
+
+We
+are a blank check company incorporated on February 23, 2021, as a Cayman Islands exempted company and for the purpose of effecting a
+merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more
+businesses or entities. We intend to effectuate our initial business combination using cash from the proceeds of our initial public offering
+and our private placement of private placement warrants. 
+
+Our
+sponsor is Gesher I Sponsor LLC, a Delaware limited liability company. The registration statement for our initial public offering was
+declared effective on October 12, 2021. On October 14, 2021, we consummated our initial public offering of 10,000,000 units at 10.00
+per unit, with each unit consisting of one ordinary share and one-half of one warrant, with each whole warrant entitling the holder thereof
+to purchase one ordinary share at a price of 11.50 per share. 
+
+Simultaneously
+with the consummation of the initial public offering, we consummated the private placement of 4,550,000 warrants at a price of 1.00
+per warrant in a private placement, generating gross proceeds of 4,550,000. 
+
+Following
+the closing of the initial public offering on October 14, 2021, 101,000,000 10.10 per unit) from the net proceeds of the sale of the
+units in the initial public offering and the private placement was deposited into a trust account, invested in United States government
+securities within the meaning of Section 2(a)(16) of the Investment Company Act with a maturity of 180 days or less or in money
+market funds meeting certain conditions under Rule 2a-7 promulgated under the Investment Company Act which invest only in direct U.S.
+government treasury obligations. Except with respect to interest earned on the funds held in the Trust Account that may be released to
+us to pay our income or other tax obligations as described in the initial public offering, the proceeds will not be released from the
+trust account until the earlier of the completion of a business combination or the redemption of 100 of the outstanding public shares
+if we have not completed a business combination within the time required time period. 
+
+4 
+
+We
+have until April 14, 2023 (18 months from the closing of the initial public offering) to complete the initial business combination. If
+we do not consummate an initial business combination by such date, we will (i) cease all operations except for the purpose of winding
+up, (ii) as promptly as reasonably possible but not more than ten business days thereafter, redeem 100 of the outstanding public shares,
+at a per-share price, payable in cash, equal to the aggregate amount then on deposit in the trust account, including any interest not
+previously released to us but net of taxes payable (and less up to 50,000 of interest to pay liquidation expenses), divided by the number
+of then outstanding public shares, which redemption will completely extinguish public shareholders rights as shareholders (including
+the right to receive further liquidation distributions, if any), subject to applicable law, and (iii) as promptly as reasonably possible
+following such redemption, subject to the approval of the remaining shareholders and the board of directors, dissolve and liquidate,
+subject (in the case of (ii) and (iii) above) to our obligations under Cayman Islands law to provide for claims of creditors and the
+requirements of other applicable law. 
+
+We
+expect to continue to incur significant costs in the pursuit of our acquisition plans. We cannot assure you that our plans to raise capital
+or to complete our initial business combination will be successful. 
+
+Results
+of Operations 
+
+As
+of September 30, 2021, we have neither engaged in any operations nor generated any revenues. All activity for the period from February
+23, 2021 (inception) through September 30, 2021 relates to our formation and the initial public offering. We will not generate any operating
+revenues until after the completion of our initial business combination, at the earliest. We will generate non-operating income in the
+form of interest income on cash and cash equivalents from the proceeds derived from the initial public offering. 
+
+For
+the period from February 23, 2021 (inception) through September 30, 2021, we had a net loss of 14,946, which was resulted entirely from
+formation and operating costs. 
+
+Liquidity
+and Capital Resources 
+
+As
+of September 30, 2021, we had no cash and working deficit of 198,145 (excluding deferred offering costs). 
+
+Our
+liquidity needs up to September 30, 2021 had been satisfied through a payment from the sponsor of 25,000 for the founder shares to cover
+certain offering costs, and the loan under an unsecured promissory note from the sponsor of 175,827. The promissory note was paid in
+full on October 18, 2021. 
+
+Subsequent
+to the period covered by this Annual Report, we consummated the initial public offering and private placement. Of the net proceeds from
+the initial public offering and associated private placements, 101,000,000 of cash was placed in the trust account and 1,151,222 of
+cash was held outside of the trust account and is available for our working capital purposes. 
+
+In
+addition, in order to finance transaction costs in connection with a business combination, the sponsor, initial shareholders, officers,
+directors or their affiliates may, but are not obligated to, provide us working capital loans. As of September 30, 2021, there were no
+amounts outstanding under any working capital loans. 
+
+Based
+on the foregoing, management believes that we will have sufficient working capital and borrowing capacity to meet our needs through the
+earlier of the consummation of a business combination or one year from this filing. Over this time period, we will be using these funds
+for paying existing accounts payable, identifying and evaluating prospective initial business combination candidates, performing due
+diligence on prospective target businesses, paying for travel expenditures, selecting the target business to merge with or acquire, and
+structuring, negotiating and consummating the business combination. 
+
+Critical
+Accounting Policies 
+
+Deferred
+Offering Costs 
+
+Deferred
+offering costs consist of legal and other expenses incurred through the balance sheet date that are directly related to the initial public
+offering and that were charged to shareholders equity upon the completion of the initial public offering. 
+
+5 
+
+Net
+Loss Per Share 
+
+Net
+loss per share is computed by dividing net loss by the weighted average number of ordinary shares outstanding during the period, excluding
+ordinary shares subject to forfeiture by the Sponsor. Weighted average shares were reduced for the effect of an aggregate of 375,000
+ordinary shares that were subject to forfeiture if the over-allotment option is not exercised by the underwriters (see Note 5).
+At September 30, 2021, we did not have any dilutive securities and other contracts that could, potentially, be exercised or converted
+into ordinary shares and then share in the earnings. As a result, diluted loss per share is the same as basic loss per share for the
+period presented. 
+
+Derivative
+Financial Instruments 
+
+We
+evaluate our financial instruments to determine if such instruments are derivatives or contain features that qualify as embedded derivatives
+in accordance with ASC Topic 815, Derivatives and Hedging . For derivative financial instruments that are accounted for
+as liabilities, the derivative instrument is initially recorded at its fair value on the grant date and is then re-valued at each
+reporting date, with changes in the fair value reported in the statements of operations. The classification of derivative instruments,
+including whether such instruments should be recorded as liabilities or as equity, is evaluated at the end of each reporting period.
+Derivative liabilities are classified in the balance sheet as current or non-current based on whether or not net-cash settlement
+or conversion of the instrument could be required within 12 months of the balance sheet date. We have determined the warrants to
+be issued in the initial public offering meet the requirements for equity classification. 
+
+Off-Balance
+Sheet Arrangements 
+
+As
+of September 30, 2021, we did not have any off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of Regulation S-K. 
+
+Contractual
+Obligations 
+
+We
+do not have any long-term debt, capital lease obligations, operating lease obligations or long-term liabilities, other than an agreement
+to pay an affiliate of the Sponsor a monthly fee of 10,000 for office space, utilities and administrative support. We began incurring
+these fees on October 14, 2021 and will continue to incur these fees monthly until the earlier of the completion of the business combination
+and our liquidation. 
+
+The
+underwriters are entitled to a deferred fee of 3,500,000. The deferred fee will become payable to the underwriters from the amounts
+held in the trust account solely in the event that we complete a business combination, subject to the terms of the underwriting agreement. 
+
+The
+holders of the founder shares as well as the holders of the representative shares, private placement warrants and any warrants the sponsor,
+officers, directors or their affiliates may be issued in payment of working capital loans made to us (and all underlying securities),
+will be entitled to registration rights pursuant to an agreement signed on October 12, 2021. The holders of a majority of these securities
+are entitled to make up to two demands that we register such securities. The holders of the majority of the founder shares can elect
+to exercise these registration rights at any time commencing three months prior to the date on which these ordinary shares are to be
+released from escrow. The holders of a majority of the representative shares, private placement warrants and warrants issued to the sponsor,
+officers, directors or their affiliates in payment of working capital loans made to us (or underlying securities) can elect to exercise
+these registration rights at any time after we consummate a business combination. Notwithstanding anything to the contrary, EarlyBirdCapital,
+Inc. may only make a demand on one occasion and only during the five-year period beginning on the effective date of the registration
+statement. In addition, the holders have certain piggy-back registration rights with respect to registration statements
+filed subsequent to the consummation of a business combination; provided, however, that EarlyBirdCapital, Inc. may participate in a piggy-back 
+registration only during the seven-year period beginning on the effective date of the registration statement. We will bear the expenses
+incurred in connection with the filing of any such registration statements. 
+
+6 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Through
+September 30, 2021, our efforts have been limited to organizational activities, activities relating to our initial public offering. We
+have engaged in limited operations and have not generated any revenues. We have not engaged in any hedging activities since our inception
+on February 23, 2021. We do not expect to engage in any hedging activities with respect to the market risk to which we are exposed. 
+
+The
+net proceeds of the initial public offering and the sale of the private placement warrants held in the trust account, N.A., maintained
+by Continental, acting as trustee, have been invested in United States government securities within the meaning of Section
+2(a)(16) of the Investment Company Act with a maturity of 185 days or less or in money market funds meeting certain conditions under
+Rule 2a-7 promulgated under the Investment Company Act which invest only in direct U.S. government treasury obligations. Due to the short-term
+nature of these investments, we believe there will be no associated material exposure to interest rate risk. 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+This
+information appears following Item 15 of this Report and is incorporated herein by reference. 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+
+None. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+Disclosure
+controls are procedures that are designed with the objective of ensuring that information required to be disclosed in our reports filed
+under the Exchange Act, such as this Report, is recorded, processed, summarized, and reported within the time period specified in the
+SEC s rules and forms. Disclosure controls are also designed with the objective of ensuring that such information is accumulated
+and communicated to our management, including the chief executive officer and chief financial officer, as appropriate to allow timely
+decisions regarding required disclosure. Our management evaluated, with the participation of our principal executive officer and our
+principal financial and accounting officer (our Certifying Officers ), the effectiveness of our disclosure controls and
+procedures as of September 30, 2021, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act. Based upon that evaluation,
+our Certifying Officers concluded that, as of September 30, 2021, our disclosure controls and procedures were effective. 
+
+We
+do not expect that our disclosure controls and procedures will prevent all errors and all instances of fraud. Disclosure controls and
+procedures, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the
+disclosure controls and procedures are met. Further, the design of disclosure controls and procedures must reflect the fact that there
+are resource constraints, and the benefits must be considered relative to their costs. Because of the inherent limitations in all disclosure
+controls and procedures, no evaluation of disclosure controls and procedures can provide absolute assurance that we have detected all
+our control deficiencies and instances of fraud, if any. The design of disclosure controls and procedures also is based partly on certain
+assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated
+goals under all potential future conditions. 
+
+Management s
+Report on Internal Controls Over Financial Reporting 
+
+This
+Annual Report on Form 10-K does not include a report of management s assessment regarding internal control over financial reporting
+or an attestation report of our independent registered public accounting firm due to a transition period established by rules of the
+SEC for newly public companies. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+There
+were no changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) of the Exchange
+Act) during the most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal
+control over financial reporting. 
+
+ITEM
+9B. OTHER INFORMATION 
+
+None. 
+
+ITEM
+9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS 
+
+Not
+applicable. 
+
+7 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT 
+
+Directors
+and Executive Officers 
+
+Our
+current directors and executive officers are as follows: 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Ezra
+ Gardner 
+ 
+ 43 
+ 
+ Chief
+ Executive Officer and Director 
+ 
+ Omri
+ Cherni 
+ 
+ 49 
+ 
+ Chief
+ Operating Officer and Director 
+ 
+ Chris
+ Coward 
+ 
+ 45 
+ 
+ Chief
+ Fiancial Officer 
+ 
+ Philip
+ Broenniman 
+ 
+ 41 
+ 
+ Director 
+ 
+ Eugene
+ Dozortsev 
+ 
+ 42 
+ 
+ Director 
+ 
+ Noah
+ G. Levy 
+ 
+ 43 
+ 
+ Director 
+
+Ezra
+Gardner has served as our Chief Executive Officer and a member of our board of directors since our inception. Since 2012, Mr. Gardner
+has served as a Partner at Varana Capital, LLC, an investment firm he co-founded. As part of the Varana investment strategy of cooperative
+engagement, Mr. Gardner sits on or advises the boards of multiple public and private companies, working with each on strategic planning,
+operational dynamics, and balance sheet needs/restructuring. From 2009 to 2012, Mr. Gardner served as the Managing Partner and Portfolio
+Manager of Omnium Capital, LLC, a family office he co-founded in Tel Aviv, Israel. From 2005 to 2009, he was at UBS where he served as
+a Portfolio Manager and most recently Head of UBS US Equity Portfolio for the Fundamental Investment Group where he also sat on
+the US Trading Committee (Management Board for the US Equities Business). From 2001 to 2005, he served in senior analyst roles at MSD
+Capital (Michael Dell family fund management office) and Braahman Capital. From 1999 to 2001, he served as an analyst in the Investment
+Banking Group at JP Morgan. Mr. Gardner currently serves on the board of directors of Galileo Wheel and Neureality, both Israeli-based
+private businesses, and CCI, a Colorado-based private business. Mr. Gardner received a BA in Economics (with honors) and a BA in International
+Relations from Brown University. We believe Mr. Gardner is well-qualified to serve as a member of our board of directors due to his experience
+and relationships and contacts. 
+
+Omri
+Cherni has served as our Chief Operating Officer and a member of our board of directors since our inception. Mr. Cherni has significant
+experience in the Israeli venture and startup industry. Since 2016, Mr. Cherni has served as Chief Executive Officer of High House, a
+family office focusing on making real estate and technology investments. Since 2016, he has served as Chief Scientific Officer of Atlas
+Dynamics, an aerospace company that he founded that creates autonomous vessels, which has grown to become the biggest supplier of tactical
+UAVs in the EU. Since 2015, Mr. Cherni has served as Chief Executive Officer of Invocap, a systematic and technology backed financial
+trading platform and fund manager that he founded which uses machine learning and artificial intelligence to outperform benchmarks in
+both fiat as well as crypto markets. From 2012 to 2014, he was at Jerusalem Venture Partners, one of Israel s most successful venture
+capital firms, where he was an associate dealing with the firms deep tech and hardware-based investments. Mr. Cherni was a platoon
+commander in the Israeli Air Force Special forces and received an LLB and an MBA from the Hebrew University. We believe Mr. Cherni is
+well-qualified to serve as a member of our board of directors due to his experience and relationships and contacts. 
+
+Chris
+Coward has served as our Chief Financial Officer since our inception. Since March 2020, Mr. Coward has been a private investor. From
+March 2015 to March 2020, Mr. Coward held various roles with Point72 Latitude Investments, an investment platform comprising over 30
+fundamental investors, data scientists, and quantitative researchers building technology-driven innovations in asset management. His
+positions at Point72 Latitude included Head of Singapore, where he built the firm s equity, macro and data science capability,
+and Head of International Risk, where he oversaw the risk function for the Firm s offices in Hong Kong, Japan, London, Singapore
+and Sydney. Mr. Coward was also a member of Point 72 s Risk Committee with responsibility for allocating approximately 60 billion
+in capital globally. From 1998 to 2014, Mr. Coward was a Portfolio Manager running quantamental global equity strategies at UBS and BlueCrest
+Capital. Mr. Coward received an MBA from Columbia University and BEc from Macquarie University (Sydney). He is a member of the Advisory
+Council of the National University of Singapore Centre for Asset Management Research and Investments and a Member of Rutgers Leading
+Disruptive Innovation Board. He has completed all levels of the CFA certification. 
+
+8 
+
+Philip
+Broenniman has served as a member of our board of directors since our inception. Since 2012, Mr. Broenniman has been Managing Partner
+and Portfolio Manager for Varana Capital, LLC, which he co-founded with Mr. Gardner. At Varana Capital, Mr. Broenniman invests in, and
+consults with the Board of Directors of, certain public and private companies, working with each on strategic planning, financing, and/or
+balance sheet restructuring. Mr. Broenniman established and refined the opportunistic/deep value, multi-asset class investment paradigm
+that is the foundation of Varana Capital s investment focus. Since May 2020, he has been the President and Chief Operating Officer
+of Ipsidy Inc. (OTCQB: IDTY), a public company that delivers a suite of secure, mobile, biometric identity solutions, available to any
+vertical, and has also served on the board of directors of such company since March 2020. From 2003 until 2008, he was Managing Partner
+of Cadence Investment Partners, LLC Cadence ), and from 2008 until 2011, he was a principal and Portfolio Manager with
+Visium Asset Management, LP, which acquired Cadence in 2008. Mr. Broenniman began his portfolio management career with the Bass family
+of Fort Worth, TX in 1993, investing in event strategies, assisting on derivative hedging and investment strategies, and developing his
+skills in derivative analytics, risk management, and portfolio construction. From August 2010 until February 2018, Mr. Broenniman was
+co-founder and a member of Cadence Distributors, LLC, an import/export company focused on the fragrance industry. From February 2012
+to April 2017, Mr. Broenniman was a founding investor in, and served as an advisor to, Cacao Prieto, a bourbon and rum distillery, providing
+strategic guidance during the initial launch of the business. From July 2019 until March 2020 upon successful closing of its merger,
+Mr. Broenniman served as a member of the Board of Directors and Special Committee evaluating strategic options for CSS Industries, Inc.
+(Formerly NYSE: CSS). Mr. Broenniman received a BS from Duke University, an MBA from University of Virginia, and is a Chartered Financial
+Analyst. We believe Mr. Broenniman is well-qualified to serve as a member of our board of directors due to his experience and relationships
+and contacts. 
+
+Eugene
+Dozortsev has served as a member of our board of directors since our inception. Mr. Dozortsev has been a managing member of Newtyn
+Management, LLC, an investment firm, since he co-founded it in July 2011. Previously, he was a Senior Analyst at Tyndall Management from
+October 2003 to 2011. He previously served on the board of directors of Collective Growth Corporation, a Nasdaq-listed special purpose
+acquisition company like our company that consummated an initial business combination with Innoviz Technologies, an Israeli based Global
+Leader in LiDAR Sensors and Perception Software for Autonomous Driving, in April 2021. Mr. Dozortzsev received a B.S. in Finance from
+NYU Stern School of Business. We believe Mr. Dozortsev is well-qualified to serve on our board of directors due to his experience, including
+with Collective Growth, and contacts and relationships. 
+
+Noah
+G. Levy has served as a member of our board of directors since our inception. Mr. Levy has been a managing member and portfolio manager
+at Newtyn Management, LLC since he co-founded it in July 2011. Prior to that, Mr. Levy served as a senior member at Tyndall Management
+from 2002 to 2011 and as an analyst at Goldman Sachs, an investment bank and financial services company, from 2000 to 2002. Mr. Levy
+received a B.A. from Dartmouth College. Mr. Levy currently serves on the board of Merrimack Pharmaceuticals, Inc. a Nasdaq-listed biotechnology
+firm. Mr. Levy is also a member of the ACLU investment committee. We believe Mr. Levy is qualified to serve on our board of directors
+due to his investment management experience and strong financial and business acumen. 
+
+Our
+board of directors is divided into three classes with only one class of directors being elected in each year and each class serving a
+three-year term. The term of office of the first class of directors, consisting of Noah G. Levy, will expire at our first annual meeting
+of shareholders. The term of office of the second class of directors, consisting of Philip Broenniman and Eugene Dozortsev, will expire
+at the second annual meeting. The term of office of the third class of directors, consisting of Ezra Gardner and Omri Cherni, will expire
+at the third annual meeting. In accordance with Nasdaq corporate governance requirements, we are not required to hold an annual meeting
+until one year after our first fiscal year end following our listing on Nasdaq. It is unlikely that there will be an annual meeting of
+stockholders to elect new directors prior to the consummation of a business combination, in which case all of the current directors will
+continue in office until at least the consummation of the business combination. 
+
+Director
+Independence 
+
+Nasdaq
+rules require that a majority of the board of directors of a company listed on Nasdaq must be composed of independent directors. 
+An independent director is defined generally as a person other than an officer or employee of the company or its subsidiaries
+or any other individual having a relationship, which, in the opinion of the company s board of directors, would interfere with
+the director s exercise of independent judgment in carrying out the responsibilities of a director. We have determined that Philip
+Broenniman, Eugene Dozortsev and Noah G. Levy are independent directors under the Nasdaq listing rules. Our independent directors hold
+regularly scheduled meetings at which only independent directors are present. 
+
+Any
+affiliated transactions will be on terms no less favorable to us than could be obtained from independent parties. Our board of directors
+will review and approve all affiliated transactions with any interested director abstaining from such review and approval. 
+
+9 
+
+Committees
+of the Board of Directors 
+
+We
+have three standing committees: an audit committee, a nominating committee, and a compensation committee. Each such committee is composed
+of solely independent directors. 
+
+Audit
+Committee 
+
+Effective
+on October 12, 2021, we established an audit committee of the board of directors, which consisst of Philip Broenniman, Eugene Dozortsev
+and Noah G. Levy, each of whom is an independent director under Nasdaq s listing standards. The audit committee s duties,
+which are specified in our Audit Committee Charter, include, but are not limited to: 
+
+reviewing
+ and discussing with management and the independent auditor the annual audited financial statements, and recommending to the board
+ whether the audited financial statements should be included in our Form 10-K; 
+
+discussing
+ with management and the independent auditor significant financial reporting issues and judgments made in connection with the preparation
+ of our financial statements; 
+
+discussing
+ with management major risk assessment and risk management policies; 
+
+monitoring
+ the independence of the independent auditor; 
+
+verifying
+ the rotation of the lead (or coordinating) audit partner having primary responsibility for the audit and the audit partner responsible
+ for reviewing the audit as required by law; 
+
+reviewing
+ and approving all related-party transactions; 
+
+inquiring
+ and discussing with management our compliance with applicable laws and regulations; 
+
+pre-approving
+ all audit services and permitted non-audit services to be performed by our independent auditor, including the fees and terms of the
+ services to be performed; 
+
+appointing
+ or replacing the independent auditor; 
+
+determining
+ the compensation and oversight of the work of the independent auditor (including resolution of disagreements between management and
+ the independent auditor regarding financial reporting) for the purpose of preparing or issuing an audit report or related work; 
+
+establishing
+ procedures for the receipt, retention and treatment of complaints received by us regarding accounting, internal accounting controls
+ or reports which raise material issues regarding our financial statements or accounting policies; and 
+
+approving
+ reimbursement of expenses incurred by our management team in identifying potential target businesses. 
+
+Financial
+Experts on Audit Committee 
+
+The
+audit committee will at all times be composed exclusively of independent directors who are financially literate 
+as defined under Nasdaq s listing standards. Nasdaq s standards define financially literate as being able to
+read and understand fundamental financial statements, including a company s balance sheet, income statement and cash flow statement. 
+
+In
+addition, we must certify to Nasdaq that the committee has, and will continue to have, at least one member who has past employment experience
+in finance or accounting, requisite professional certification in accounting, or other comparable experience or background, including
+actively supervising a principal financial officer, principal accounting officer, controller, public accountant, auditor or person performing
+similar functions, that results in the individual s financial sophistication. The board of directors has determined that Mr. Broenniman
+qualifies as an audit committee financial expert, as defined under rules and regulations of the SEC. 
+
+10 
+
+Nominating
+Committee 
+
+Effective
+on October 12, 2021, we established a nominating committee of the board of directors, which consists of Philip Broenniman, Eugene Dozortsev
+and Noah G. Levy, each of whom is an independent director under Nasdaq s listing standards. The nominating committee is responsible
+for overseeing the selection of persons to be nominated to serve on our board of directors. The nominating committee considers persons
+identified by its members, management, shareholders, investment bankers and others. 
+
+Guidelines
+for Selecting Director Nominees 
+
+The
+guidelines for selecting nominees, which are specified in the Nominating Committee Charter, generally provide that persons to be nominated: 
+
+should
+ have demonstrated notable or significant achievements in business, education or public service; 
+
+should
+ possess the requisite intelligence, education and experience to make a significant contribution to the board of directors and
+ bring a range of skills, diverse perspectives and backgrounds to its deliberations; and 
+
+should
+ have the highest ethical standards, a strong sense of professionalism and intense dedication to serving the interests of the
+ shareholders. 
+
+The
+Nominating Committee will consider a number of qualifications relating to management and leadership experience, background and integrity
+and professionalism in evaluating a person s candidacy for membership on the board of directors. The nominating committee may require
+certain skills or attributes, such as financial or accounting experience, to meet specific board needs that arise from time to time and
+will also consider the overall experience and makeup of its members to obtain a broad and diverse mix of board members. The nominating
+committee does not distinguish among nominees recommended by stockholders and other persons. 
+
+There
+have been no material changes to the procedures by which security holders may recommend nominees to our board of directors. 
+
+Compensation
+Committee 
+
+Effective
+on October 12, 2021, we established a compensation committee of the board of directors, which consists of Philip Broenniman, Eugene Dozortsev
+and Noah G. Levy, each of whom is an independent director under Nasdaq s listing standards. The compensation committee s
+duties, which are specified in our Compensation Committee Charter, include, but are not limited to: 
+
+reviewing
+ and approving on an annual basis the corporate goals and objectives relevant to our Chief Executive Officer s compensation,
+ evaluating our Chief Executive Officer s performance in light of such goals and objectives and determining and approving the
+ remuneration (if any) of our Chief Executive Officer based on such evaluation; 
+
+reviewing
+ and approving the compensation of all of our other executive officers; 
+
+reviewing
+ our executive compensation policies and plans; 
+
+implementing
+ and administering our incentive compensation equity-based remuneration plans; 
+
+assisting
+ management in complying with our proxy statement and annual report disclosure requirements; 
+
+approving
+ all special perquisites, special cash payments and other special compensation and benefit arrangements for our executive officers
+ and employees; 
+
+if
+ required, producing a report on executive compensation to be included in our annual proxy statement; and 
+
+reviewing,
+ evaluating, and recommending changes, if appropriate, to the remuneration for directors. 
+
+11 
+
+Notwithstanding
+the foregoing, as indicated below, other than the 10,000 per month administrative fee, no compensation of any kind, including finders,
+consulting or other similar fees, will be paid to any of our existing stockholders, including our directors, or any of their respective
+affiliates, prior to, or for any services they render in order to effectuate, the consummation of a business combination. Accordingly,
+it is likely that prior to the consummation of an initial business combination, the compensation committee will only be responsible for
+the review and recommendation of any compensation arrangements to be entered into in connection with such initial business combination. 
+
+Code
+of Ethics 
+
+Effective
+on October 12, 2021, we adopted a code of ethics that applies to all of our executive officers, directors, and employees. The code of
+ethics codifies the business and ethical principles that govern all aspects of our business. We will provide, without charge, upon request,
+copies of our code of ethics. Requests for copies of our code of ethics should be sent in writing to Hagag Towers North Tower, Floor
+24 Haarba 28 Tel Aviv, Israel. 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+Executive
+Compensation 
+
+No
+executive officer has received any cash compensation for services rendered to us. Commencing on October 12, 2021 through the acquisition
+of a target business or our liquidation of the trust account, we will pay High House, an affiliate of Mr. Cherni, our Chief Operating
+Officer and a Director, 10,000 per month for providing us with office space and certain office and secretarial services. However, this
+arrangement is solely for our benefit and is not intended to provide our officers or directors compensation in lieu of a salary. 
+
+We
+may also pay consulting, success or finder fees to our Sponsor, officers, directors, initial shareholders or their affiliates in connection
+with the consummation of our initial business combination. 
+
+Other
+than the 10,000 per month administrative fee, the payment of consulting, success or finder fees to our Sponsor, officers, directors,
+initial shareholders or their affiliates in connection with the consummation of our initial business combination and the repayment of
+the aggregate 150,000 of loans made by Varana Capital to us, no compensation or fees of any kind will be paid to our sponsor, initial
+shareholders, members of our management team or their respective affiliates, for services rendered prior to or in connection with the
+consummation of our initial business combination (regardless of the type of transaction that it is). However, they will receive reimbursement
+for any out-of-pocket expenses incurred by them in connection with activities on our behalf, such as identifying potential target businesses,
+performing business due diligence on suitable target businesses and business combinations as well as traveling to and from the offices,
+plants or similar locations of prospective target businesses to examine their operations. There is no limit on the amount of consulting,
+success or finder fees payable by us upon consummation of an initial business combination. Additionally, there is no limit on the amount
+of out-of-pocket expenses reimbursable by us; provided, however, that to the extent such expenses exceed the available proceeds not deposited
+in the trust account, such expenses would not be reimbursed by us unless we consummate an initial business combination. 
+
+After
+our initial business combination, members of our management team who remain with us may be paid consulting, management or other fees
+from the combined company with any and all amounts being fully disclosed to shareholders, to the extent then known, in the proxy solicitation
+materials furnished to our shareholders. However, the amount of such compensation may not be known at the time of the shareholder meeting
+held to consider an initial business combination, as it will be up to the directors of the post-combination business to determine executive
+and director compensation. In this event, such compensation will be publicly disclosed at the time of its determination in a Current
+Report on Form 8-K or a periodic report, as required by the SEC. 
+
+Since
+our formation, we have not granted any stock options or stock appreciation rights or any other awards under long-term incentive plans
+to any of our executive officers or directors. 
+
+12 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED SHAREHOLDER MATTERS 
+
+The
+following table sets forth information regarding the beneficial ownership of our ordinary shares by: 
+
+each
+ person known by us to be the beneficial owner of more than 5 of our outstanding ordinary shares; 
+
+each
+ of our officers and directors; and 
+
+all
+ of our officers and directors as a group. 
+
+Unless
+otherwise indicated, we believe that all persons named in the table have sole voting and investment power with respect to all ordinary
+shares beneficially owned by them. The following table does not reflect record of beneficial ownership of the warrants included in the
+units offered in the IPO or the Private Units as the warrants are not exercisable within 60 days of the date hereof. 
+
+Amount
+ and 
+ Nature of 
+ Approximate 
+ Percentage of 
+
+Beneficial 
+ Outstanding 
+ 
+ Name
+ and Address of Beneficial Owner (1) 
+ Ownership 
+ Shares 
+ 
+ Ezra
+ Gardner (2) 
+ 2,450,000 
+ 19.6 
+ 
+ Omri
+ Cherni (2) 
+ 2,450,000 
+ 19.6 
+ 
+ Chris
+ Coward (3) 
+ -- 
+ -- 
+ 
+ Philip
+ Broenniman (3) 
+ -- 
+ -- 
+ 
+ Eugene
+ Dozortsev (3) 
+ -- 
+ -- 
+ 
+ Noah
+ G. Levy (3) 
+ -- 
+ -- 
+ 
+ Gesher
+ Sponsor LLC 
+ 2,450,000 
+ 19.6 
+ 
+ The
+ Segantii Asia-Pacific Multi-Strategy Fund (4) 
+ 1,090,000 
+ 7.5 
+ 
+ Linden
+ Capital L.P. (5) 
+ 975,000 
+ 6.7 
+ 
+ 683
+ Capital Partners, LP (6) 
+ 900,000 
+ 6.2 
+ 
+ All
+ directors and executive officers as a group (seven individuals) 
+ 2,450,000 
+ 19.6 
+
+Less
+ than 1 . 
+
+(1) 
+ Unless
+ otherwise indicated, the business address of each of the individuals is c/o Gesher I Acquisition Corp., Hagag Towers, North Tower,
+ Floor 24, Haarba 28, Tel Aviv, Israel. 
+ 
+ (2) 
+ Represents
+ securities held by Gesher I Sponsor, LLC, of which each of Messrs. Gardner and Cherni is a managing member. Accordingly, all securities
+ held by our Sponsor may ultimately be deemed to be beneficially held by Messrs. Gardner and Cherni. Includes up to 100,000 shares
+ that our Sponsor may transfer to a third party upon consummation of our initial business combination. 
+ 
+ (3) 
+ Does
+ not include any securities held by Gesher I Sponsor LLC, of which each person is a member. Each such person disclaims beneficial
+ ownership of the reported shares other than to the extent of his ultimate pecuniary interest therein. 
+ 
+ (4) 
+ Represents
+ shares held by The Segantii Asia-Pacific Multi-Strategy Fund (the Fund ). Segantii Capital Management (Cayman) Limited
+ serves as the investment manager of the Fund, Segantii Capital Management Limited serves as the investment advisor for the Fund and
+ Segantii Capital Management (USA) LLC serves as the sub-advisor to the Fund. Each shares dispositive and voting power over the shares
+ held by the Fund. Based on information contained in a Schedule 13G filed with the Securities and Exchange Commission on October 25,
+ 2021. 
+ 
+ (5) 
+ Represents
+ shares held by Linden Capital L.P. Linden GP LLC is the general partner of Linden Capital and in such capacity may be deemed to beneficially
+ own the shares held by Linden Capital. Linden Advisors LP is the investment manager of Linden Capital. Siu Min (Joe) Wong is the
+ principal owner and controlling person of Linden Advisors and Linden GP. In such capacities, Linden Advisors and Mr. Wong may each
+ be deemed to beneficially own the shares. Based on information contained in a Schedule 13G filed with the Securities and Exchange
+ Commission on October 22, 2021. 
+ 
+ (6) 
+ Represents
+ shares held by 683 Capital Partners, LP. 683 Capital Management, LLC, as the investment manager of 683 Capital Partners, LP, may
+ be deemed to have beneficial ownership over the shares held by 683 Capital Partners, LP. Ari Zweiman is the managing member of 683
+ Capital Management, LLC and may also be deemed to have beneficial ownership over the shares held by 683 Capital Partners, LP. Based
+ on information contained in a Schedule 13G filed with the Securities and Exchange Commission on October 22, 2021. 
+
+13 
+
+All
+of the founders shares outstanding prior to the IPO have been placed in escrow with Continental Stock Transfer Trust Company,
+as escrow agent, until 180 days after the date of the consummation of our initial business combination or earlier if, subsequent to our
+initial business combination, we consummate a liquidation, merger, stock exchange or other similar transaction which results in all of
+our shareholders having the right to exchange their ordinary shares for cash, securities or other property. 
+
+During
+the escrow period, the holders of these shares will not be able to sell or transfer their securities except for transfers, assignments
+or sales (i) among our initial stockholders or to our initial stockholders members, officers, directors, consultants or their
+affiliates, (ii) to a holder s stockholders or members upon its liquidation, (iii) by bona fide gift to a member of the holder s
+immediate family or to a trust, the beneficiary of which is the holder or a member of the holder s immediate family, for estate
+planning purposes, (iv) by virtue of the laws of descent and distribution upon death, (v) pursuant to a qualified domestic relations
+order, (vi) to us for no value for cancellation in connection with the consummation of our initial business combination, or (vii) in
+connection with the consummation of a business combination at prices no greater than the price at which the shares were originally purchased,
+in each case (except for clause (vi) or with our prior consent) where the transferee agrees to the terms of the escrow agreement and
+to be bound by these transfer restrictions, but will retain all other rights as our stockholders, including, without limitation, the
+right to vote their ordinary shares and the right to receive cash dividends, if declared. If dividends are declared and payable in ordinary
+shares, such dividends will also be placed in escrow. If we are unable to effect a business combination and liquidate, there will be
+no liquidation distribution with respect to the founders shares. 
+
+Our
+executive officers and our Sponsor are our promoters, as that term is defined under the federal securities laws. 
+
+Equity
+Compensation Plans 
+
+As
+of September 30, 2021, we had no compensation plans (including individual compensation arrangements) under which equity securities of
+the registrant were authorized for issuance. 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+For
+a complete discussion regarding certain relationships and related transactions, see the section titled Certain Transactions 
+contained in our prospectus dated October 12, 2021, incorporated by reference herein. 
+
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES. 
+
+The
+following is a summary of fees paid or to be paid to Marcum LLP, or Marcum, for services rendered. 
+
+Audit
+Fees . Audit fees consist of fees billed for professional services rendered for the audit of our year-end financial statements and
+services that are normally provided by Marcum in connection with regulatory filings. The aggregate fees billed by Marcum for professional
+services rendered were 30,000. 
+
+Audit-Related
+Fees. Audit-related services consist of fees billed for assurance and related services that are reasonably related to performance
+of the audit or review of our financial statements and are not reported under Audit Fees. These services include attest
+services that are not required by statute or regulation and consultations concerning financial accounting and reporting standards. We
+did not pay Marcum for consultations concerning financial accounting and reporting standards for the period from February 23, 2021 (inception)
+through September 30, 2021. 
+
+Tax
+Fees . We did not pay Marcum for tax planning and tax advice for the period from February 23, 2021(inception) through September 30,
+2021. 
+
+All
+Other Fees . We did not pay Marcum for other services for the period from February 23, 2021 (inception) through September 30, 2021. 
+
+Pre-Approval
+Policy 
+
+Our
+audit committee was formed upon the consummation of our IPO. As a result, the audit committee did not pre-approve all of the foregoing
+services, although any services rendered prior to the formation of our audit committee were approved by our board of directors. Since
+the formation of our audit committee, and on a going-forward basis, the audit committee has and will pre-approve all auditing services
+and permitted non-audit services to be performed for us by our auditors, including the fees and terms thereof (subject to the de minimis
+exceptions for non-audit services described in the Exchange Act which are approved by the audit committee prior to the completion of
+the audit). 
+
+14 
+
+ITEM
+15. EXHIBITS, FINANCIAL STATEMENTS, AND SCHEDULES 
+
+(a) The
+ following documents are filed as part of this report: 
+
+(1) Financial
+ Statements: 
+
+Page 
+ 
+ Report
+ of Independent Registered Public Accounting Firm 
+ F-2 
+ 
+ Balance
+ Sheet 
+ F-3 
+ 
+ Statement
+ of Operations 
+ F-4 
+ 
+ Statement
+ of Changes in Stockholders Equity 
+ F-5 
+ 
+ Statement
+ of Cash Flows 
+ F-6 
+ 
+ Notes
+ to Financial Statements 
+ F-7 
+
+(2) Financial
+ Statement Schedules: 
+
+None. 
+
+(3) The
+ following Exhibits are filed as part of this report: 
+
+Exhibit
+ No. 
+ 
+ Description 
+ 
+ 3.1 
+ 
+ Amended
+ and Restated Memorandum and Articles of Association. 
+ 
+ 4.1 
+ 
+ Specimen
+ Ordinary Share Certificate. 
+ 
+ 4.2 
+ 
+ Specimen
+ Warrant Certificate. 
+ 
+ 4.3 
+ 
+ Warrant
+ Agreement between Continental Stock Transfer Trust Company and the Registrant. 
+ 
+ 4.4 
+ 
+ Description of Registrant s Securities. 
+ 
+ 10.1 
+ 
+ Form
+ of Letter Agreement from each of the Registrant s initial shareholders, officers and directors. 
+ 
+ 10.2 
+ 
+ Investment
+ Management Trust Agreement between Continental Stock Transfer Trust Company and the Registrant. 
+ 
+ 10.3 
+ 
+ Registration
+ Rights Agreement 
+ 
+ 10.4 
+ 
+ Form of Stock Escrow Agreement between Continental Stock Transfer Trust Company and the Registrant. 
+ 
+ 10.5 
+ 
+ Administrative
+ Services Agreement between High House and the Registrant. 
+ 
+ 10.6 
+ 
+ Form of Indemnification Agreement 
+ 
+ 14 
+ 
+ Code
+ of Ethics. 
+ 
+ 31.1 
+ 
+ Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 31.2 
+ 
+ Certification of Principal Financial and Accounting Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 32 
+ 
+ Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101.INS 
+ 
+ Inline XBRL Instance Document. 
+ 
+ 101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document. 
+ 
+ 101.CAL 
+ 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document. 
+ 
+ 101.DEF 
+ 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document. 
+ 
+ 101.LAB 
+ 
+ Inline XBRL Taxonomy Extension Label Linkbase Document. 
+ 
+ 101.PRE 
+ 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document. 
+ 
+ 104 
+ 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained
+ in Exhibit 101). 
+
+Incorporated
+ by reference to the Registrant s Current Report on Form 8-K filed on October 14, 2021. 
+
+Incorporated
+ by reference to the Registrant s Registration Statement on Form S-1 (SEC File Nos. 333-259253). 
+
+Item 16. FORM
+ 10-K SUMMARY 
+
+None. 
+
+15 
+
+SIGNATURES
+
+Pursuant
+to the requirements of the Section 13 or 15 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized on the 29 th day of December, 2021. 
+
+GESHER
+ I ACQUISITION CORP. 
+
+By: /s/
+ Ezra Gardner 
+ 
+ Ezra
+ Gardner 
+ Chief Executive Officer 
+
+In
+accordance with the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant
+and in the capacities and on the dates indicated. 
+
+Name 
+ 
+ Title 
+ 
+ Date 
+
+/s/
+ Ezra Gardner 
+
+Chief
+ Executive Officer and Director 
+ 
+ December
+ 29, 2021 
+ 
+ Ezra
+ Gardner 
+ 
+ (Principal
+ Executive Officer) 
+
+/s/
+ Chris Coward 
+
+Chief
+ Financial Officer 
+ 
+ December
+ 29, 2021 
+ 
+ Chris
+ Coward 
+ 
+ (Principal
+ Financial and Accounting Officer) 
+
+/s/
+ Omri Cherni 
+
+Chief
+ Operating Officer and Director 
+ 
+ December
+ 29, 2021 
+ 
+ Omri
+ Cherni 
+
+/s/
+ Philip Broenniman 
+
+Director 
+ 
+ December
+ 29, 2021 
+ 
+ Philip
+ Broenniman 
+
+/s/
+ Eugene Dozortsev 
+
+Director 
+ 
+ December
+ 29, 2021 
+ 
+ Eugene
+ Dozortsev 
+
+/s/
+ Noah G. Levy 
+
+Director 
+ 
+ December
+ 29, 2021 
+ 
+ Noah
+ G. Levy 
+
+16 
+
+GESHER
+I ACQUISITION CORP. 
+
+INDEX
+TO FINANCIAL STATEMENTS 
+
+PAGE 
+ 
+ Report
+ of Independent Registered Public Accounting Firm 
+ 
+ F-2 
+ 
+ Financial
+ Statements: 
+
+Balance
+ Sheet as of September 30, 2021 
+ 
+ F-3 
+ 
+ Statement
+ of Operations for the period from February 23, 2021 (inception) through September 30, 2021 
+ 
+ F-4 
+ 
+ Statement
+ of Changes in Shareholders Equity for the period from February 23, 2021 (inception) through September 30, 2021 
+ 
+ F-5 
+ 
+ Statement
+ of Cash Flows for the period from February 23, 2021 (inception) through September 30, 2021 
+ 
+ F-6 
+ 
+ Notes
+ to Financial Statements 
+ 
+ F-7 
+
+F- 1 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Shareholders and Board of Directors of 
+
+Gesher I Acquisition Corp. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheet
+of Gesher I Acquisition Corp. (the Company as of September 30, 2021, the related statements of operations, shareholders 
+equity and cash flows for the period from February 23, 2021 (inception) through September 30, 2021, and the related notes (collectively
+referred to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects,
+the financial position of the Company as of September 30, 2021, and the results of its operations and its cash flows for the period from
+February 23, 2021 (inception) through September 30, 2021, in conformity with accounting principles generally accepted in the United States
+of America. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We
+are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audit in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audit we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal
+control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audit included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+
+/s/ Marcum llp 
+
+Marcum llp 
+
+We have served as the Company s auditor since 2021. 
+
+Boston, MA 
+December 29, 2021 
+
+F- 2 
+
+GESHER
+I ACQUISITION CORP. 
+BALANCE SHEET 
+SEPTEMBER 30, 2021 
+
+Assets 
+
+Deferred offering costs 
+
+Total Assets 
+
+Liabilities and Shareholders Equity 
+
+Current liabilities: 
+
+Accrued offering costs and expenses 
+
+Promissory note - related party 
+
+Total current liabilities 
+
+Commitments and Contingencies (Note 6) 
+
+Shareholders Equity: 
+
+Preference shares, par value; shares authorized; none issued and outstanding 
+ -
+
+Ordinary shares, par value; shares authorized; shares issued and outstanding (1) 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Total shareholders equity 
+
+Total Liabilities and Shareholders Equity 
+
+(1) . 
+
+The
+accompanying notes are an integral part of these unaudited condensed financial statements. 
+
+F- 3 
+
+GESHER
+I ACQUISITION CORP. 
+STATEMENT OF OPERATIONS 
+ FOR THE PERIOD FROM FEBRUARY 23, 2021 (INCEPTION) THROUGH SEPTEMBER 30, 2021 
+
+Formation
+ and operating costs 
+
+Net
+ loss 
+
+Basic
+ and diluted weighted average shares outstanding (1) 
+
+Basic
+ and diluted net loss per share 
+
+(1) 
+
+The
+accompanying notes are an integral part of these unaudited condensed financial statements. 
+
+F- 4 
+
+GESHER
+I ACQUISITION CORP. 
+STATEMENT OF CHANGES IN SHAREHOLDERS EQUITY 
+ FOR THE PERIOD FROM FEBRUARY 23, 2021 (INCEPTION) Through SEPTEMBER 30, 2021 
+
+Ordinary
+ shares 
+ Additional 
+ Paid-in 
+ Accumulated 
+ Shareholders 
+
+Shares (1) 
+ Amount 
+ Capital 
+ Deficit 
+ Equity 
+ 
+ Balance
+ as of February 23, 2021 (inception) 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+
+Ordinary
+ shares issued to Sponsor 
+
+- 
+
+Issuance
+ of representative shares 
+
+- 
+ 
+ - 
+
+Net
+ loss 
+ - 
+ - 
+ 
+ - 
+
+Balance
+ as of September 30, 2021 
+
+(1) 
+
+The
+accompanying notes are an integral part of these unaudited condensed financial statements. 
+
+F- 5 
+
+GESHER
+I ACQUISITION CORP. 
+STATEMENT OF CASH FLOWS 
+ FOR THE PERIOD FROM FEBRUARY 23, 2021 (INCEPTION) THROUGH SEPTEMBER 30, 2021 
+
+Cash
+ flows from operating activities: 
+
+Net
+ loss 
+
+Change
+ in operating assets and liabilities: 
+
+Formation
+ costs paid by Sponsor in exchange for issuance of ordinary shares 
+
+Operating
+ costs paid by Sponsor promissory note 
+
+Net
+ cash used in operating activities 
+ - 
+
+Net
+ change in cash 
+ - 
+
+Cash,
+ beginning of period 
+ - 
+
+Cash,
+ end of period 
+ - 
+
+Supplemental
+ disclosure of cash flow information: 
+
+Deferred
+ offering costs paid by Sponsor in exchange for issuance of ordinary shares 
+
+Deferred
+ offering costs paid by Sponsor promissory note 
+
+Deferred
+ offering costs included in accrued offering costs and expenses 
+
+Issuance
+ of representative shares 
+
+The
+accompanying notes are an integral part of these unaudited condensed financial statements. 
+
+F- 6 
+
+GESHER
+I ACQUISITION CORP. 
+NOTES TO FINANCIAL STATEMENTS 
+ SEPTEMBER 30, 2021 
+
+units at per unit (the Units ), which is
+discussed in Note 3 (the IPO ), generating gross proceeds to the Company of . Each Unit consists of one ordinary
+share (the Public Shares and one-half of one warrant (the Public Warrants ). Each whole warrant entitles
+the holder to purchase one ordinary share at a price of per share. 
+
+warrants (the Private Placement Warrants at a price of per Private Placement Warrant in a private placement, generating gross proceeds to the Company of , which
+is described in Note 4. 
+
+consisting of of underwriting commissions, of deferred underwriting commissions,
+ of incentives to Anchor Investors (see Note 3) and Forward Purchase Investors (see Note 6), and of other offering
+costs, and was all charged to additional paid-in capital. 
+
+of the value of
+the assets held in the Trust Account (as defined below) (excluding the deferred underwriting commissions and taxes payable on the interest
+earned on the Trust Account) at the time of the agreement to enter into the initial Business Combination. However, the Company will only
+complete a Business Combination if the post-transaction company owns or acquires or more of the outstanding voting securities of
+the target or otherwise acquires a controlling interest in the target sufficient for it not to be required to register as an investment
+company under the Investment Company Act 1940, as amended (the Investment Company Act ). There is no assurance that the
+Company will be able to complete a Business Combination successfully. 
+
+F- 7 
+
+per Unit) from the net proceeds of the sale of the Units in the IPO
+and the sale of the Private Placement Warrants was deposited into a trust account (the Trust Account ), invested in United
+States government securities within the meaning of Section 2(a)(16) of the Investment Company Act with a maturity of 180
+days or less or in money market funds meeting certain conditions under Rule 2a-7 promulgated under the Investment Company Act which invest
+only in direct U.S. government treasury obligations. Except with respect to interest earned on the funds held in the Trust Account that
+may be released to the Company to pay its income or other tax obligations as described in the IPO, the proceeds will not be released
+from the Trust Account until the earlier of the completion of a Business Combination or the redemption of 100 of the outstanding public
+shares if the Company has not completed a Business Combination within the time required time period. 
+
+of its Public Shares if the Company does not complete
+a Business Combination, unless the Company provides the public shareholders with the opportunity to redeem their Public Shares in conjunction
+with any such amendment. 
+
+F- 8 
+
+per share by
+the claims of target businesses or claims of vendors or other entities that are owed money by the Company for services rendered or contracted
+for or products sold to the Company. The agreement entered into by the Sponsor specifically provides for two exceptions to the indemnity
+it has given: it will have no liability (1) as to any claimed amounts owed to a target business or vendor or other entity who has executed
+an agreement with the Company waiving any right, title, interest or claim of any kind they may have in or to any monies held in the Trust
+Account, or (2) as to any claims for indemnification by the underwriters of the IPO against certain liabilities, including liabilities
+under the Securities Act. Marcum LLP, the Company s independent registered public accounting firm, and the underwriters of the
+IPO, will not execute agreements with the Company waiving such claims to the monies held in the Trust Account. The Company has not asked
+the Sponsor to reserve for such indemnification obligations, nor has the Company independently verified whether the Sponsor has sufficient
+funds to satisfy its indemnity obligations and believes that the Sponsor s only assets are securities of the Company. Therefore,
+the Company believes it is unlikely that the Sponsor will be able to satisfy its indemnification obligations if it is required to do
+so. 
+
+(excluding deferred offering costs). 
+
+(see Note 5)
+for the founder shares to cover certain offering costs, and the loan under an unsecured promissory note from the Sponsor of 
+(see Note 5). The promissory note was paid in full on October 18, 2021. 
+
+of cash was placed
+in the Trust Account and of cash was held outside of the Trust Account and is available for the Company s working capital
+purposes. 
+
+F- 9 
+
+ordinary shares sold as
+part of the Units in the IPO contain a redemption feature which allows for the redemption of such Public Shares in connection with the
+Company s liquidation, if there is a shareholder vote or tender offer in connection with the Business Combination and in connection
+with certain amendments to the Company s amended and restated memorandum and articles of association. In accordance with ASC 480-10-S99,
+redemption provisions not solely within the control of the Company require ordinary shares subject to redemption to be classified outside
+of permanent equity. Therefore, all Public Shares were classified outside of permanent equity upon the IPO. 
+
+F- 10 
+
+ordinary shares that were subject to forfeiture if the over-allotment option is not exercised by the underwriters (see Note 5).
+At September 30, 2021, the Company did not have any dilutive securities and other contracts that could, potentially, be exercised or
+converted into ordinary shares and then share in the earnings of the Company. As a result, diluted loss per share is the same as basic
+loss per share for the period presented. 
+
+F- 11 
+
+Units at a purchase price of per Unit. Each
+warrant will become exercisable 30 days after the completion of an initial Business Combination and will expire on the fifth anniversary
+of the completion of an initial Business Combination, or earlier upon redemption or liquidation. 
+
+per Unit) from the net proceeds of the sale of the Units in the IPO
+and the sale of the Private Placement Warrants was deposited into the Trust Account. The net proceeds deposited into the Trust Account
+will be invested in United States government securities within the meaning of Section 2(a)(16) of the Investment Company
+Act with a maturity of 180 days or less or in money market funds meeting certain conditions under Rule 2a-7 promulgated under the Investment
+Company Act which invest only in direct U.S. government treasury obligations. 
+
+of the units subject to the IPO. As incentives
+for the Anchor Investors, upon consummation of the IPO, the Sponsor transferred founder shares, with an aggregate fair value of
+ , to one Anchor Investor for the same price originally paid for such shares. Five Anchor Investors received an aggregate of 
+membership interests in the Sponsor, with an aggregate fair value of , for no consideration. The excess of the fair value of
+the founder shares transferred over the original issuance price of and the fair value of the membership interests transferred
+of were accounted for as offering costs with an offset to additional paid-in capital upon the IPO. 
+
+Public Units to cover
+over-allotments. On October 20, 2021, the underwriters exercised the over-allotment option in full to purchase Public Units,
+at a purchase price of per Public Unit, generating gross proceeds to the Company of (see Note 8). 
+
+Private Placement Warrants, each exercisable to purchase one ordinary share at per share, at a price of per warrant,
+or in the aggregate, in a private placement. 
+
+additional Private Placement Warrants, at a purchase price of per warrant, generating gross proceeds to
+the Company of (see Note 8). 
+
+ordinary shares, par value , to the Sponsor for , or approximately 
+per share, to cover certain offering costs. Up to founder shares were subject to forfeiture by the Sponsor depending on the extent
+to which the underwriters over-allotment option is exercised. Simultaneously, the Company issued to EarlyBirdCapital, Inc. and
+its designees the representative shares. 
+
+founder shares, with an aggregate fair value of , to Anchor Investor
+for the same price originally paid for such shares (see Note 3). The excess of the fair value of the founder shares transferred over
+the original issuance price of was accounted for as an offering cost with an offset to additional paid-in capital upon the IPO. 
+
+F- 12 
+
+Public Units. As a result, 
+founder shares were no longer subject to forfeiture. 
+
+. The loan was to be payable without interest on
+the earlier to occur of July 31, 2021, the consummation of the IPO, or the abandonment of the IPO. 
+
+The loans will be payable without interest on the earlier to occur of November 30, 2021,
+the consummation of the IPO, or the abandonment of the IPO. 
+
+. 
+
+(see Note
+8). 
+
+of such loans may be convertible into warrants of the post Business Combination entity at a price of per warrant at the option
+of the lender. The warrants would be identical to the Private Placement Warrants. In the event that the initial Business Combination
+does not close, the Company may use a portion of the working capital held outside the Trust Account to repay such loaned amounts, but
+no proceeds from the Trust Account would be used for such repayment. As of September 30, 2021, the Company had no borrowings under the
+Working Capital Loans. 
+
+per month for these services. 
+
+F- 13 
+
+units to cover over-allotments,
+if any. 
+
+of the gross proceeds of the IPO, or . 
+
+of the gross proceeds of the IPO, or , which will be
+paid from the funds held in the Trust Account upon completion of the Company s initial Business Combination subject to the terms
+of the underwriting agreement. 
+
+Public Units at a purchase price
+of per Public Unit, generating gross proceeds to the Company of (see Note 3), and were, in aggregate, paid a fixed
+underwriting discount of . 
+
+representative shares. The holders of the
+representative shares have agreed not to transfer, assign or sell any such shares without the Company s prior consent until the
+completion of the initial Business Combination. In addition, the holders of the representative shares have agreed (i) to waive their
+conversion rights (or right to participate in any tender offer) with respect to such shares in connection with the completion of the
+initial Business Combination and (ii) to waive their rights to liquidating distributions from the Trust Account with respect to such
+shares if the Company fails to complete the initial Business Combination within the Combination Period. 
+
+F- 14 
+
+units for total gross proceeds of up to . These units will be purchased, subject
+to certain conditions, in a private placement to close immediately prior to, or simultaneously with, the consummation of the Company s
+Business Combination. The Company accounted for the FPA in accordance with the guidance contained in ASC 815-40. Such guidance provides
+that the FPA meets the criteria for equity treatment due to no circumstances under which the Company can be forced to net cash settle
+the FPA. 
+
+membership interests
+in the Sponsor, with an aggregate fair value of , for no consideration, which were accounted for as offering costs with an
+offset to additional paid-in capital upon the IPO. 
+
+preference shares with a par value of per share and with such designations,
+voting and other rights and preferences as may be determined from time to time by the Company s board of directors. 
+
+ordinary shares with a par value of per share. As of September 30,
+2021, there were ordinary shares issued and outstanding, which included an aggregate of up to ordinary shares subject
+to forfeiture to the extent that the over-allotment option is not exercised by the underwriters in full or in part. The initial shareholders
+will be required to forfeit only a number of ordinary shares necessary to continue to maintain the ownership interest in the ordinary
+shares after giving effect to the IPO and exercise, if any, of the underwriters over-allotment option (excluding the representative
+shares and any shares included in Units purchased in the IPO). 
+
+Public Units. As a result, 
+founder shares were no longer subject to forfeiture. 
+
+per share, subject to adjustment as discussed herein.
+
+F- 15 
+
+per warrant at any time after the warrants
+become exercisable, upon a minimum of 30 days prior written notice of redemption, if, and only if, the last sales price of the
+ordinary shares equals or exceeds per share (as adjusted for stock splits, stock dividends, reorganizations and recapitalizations)
+for any 20 trading days within a 30 trading day period commencing at any time after the warrants become exercisable and ending three
+business days before the Company sends the notice of redemption; and if, and only if, there is a current registration statement in effect
+with respect to the ordinary shares underlying such warrants. If the foregoing conditions are satisfied and the Company issues a notice
+of redemption, each warrant holder can exercise his, her or its warrant prior to the scheduled redemption date. However, the price of
+the ordinary shares may fall below the trigger price as well as the warrant exercise price after the redemption notice
+is issued. 
+
+warrants issued in connection with the IPO (including the Public Warrants
+included in the Units and the Private Placement Warrants) in accordance with the guidance contained in ASC 815-40. Such guidance
+provides that the warrants meet the criteria for equity treatment due to the existence of provisions whereby adjustments to the exercise
+price of the warrants is based on a variable that is an input to the fair value of a fixed-for-fixed option and no circumstances
+under which the Company can be forced to net cash settle the warrants. 
+
+at September 30, 2021 was paid in full by the Company (see Note 5). 
+
+Public Units at a purchase price
+of per Public Unit, generating gross proceeds to the Company of (see Note 3), and were, in aggregate, paid a fixed
+underwriting discount of . As a result, founder shares are no longer subject to forfeiture. Pursuant to the underwriters 
+full exercise of the over-allotment option on October 20, 2021, the Sponsor and EarlyBirdCapital purchased an additional Private
+Placement Warrants at a purchase price of per warrant, generating gross proceeds to the Company of (see Note 4). 
+
+F-16 
+
+<EX-4.4>
+ 2
+ f10k2021ex4-4_gesher1acq.htm
+ DESCRIPTION OF REGISTRAN'S SECURITIES
+
+Exhibit 4.4 
+
+DESCRIPTION
+OF REGISTRANT S SECURITIES 
+
+ REGISTERED
+PURSUANT TO SECTION 12 OF THE 
+
+ SECURITIES
+EXCHANGE ACT OF 1934 
+
+The
+following description of the securities of Gesher I Acquisition Corp. (the Company , we , our 
+or similar terms) is based upon the Company s amended and restated memorandum and articles of association M A ),
+the Companies Act (As Revised) of the Cayman Islands Companies Act and other applicable provisions of Cayman Islands
+law. We have summarized certain portions of the M A below. The summary is not complete and is subject to, and is qualified in its
+entirety by express reference to, the provisions of our M A, which is filed as an exhibit to the Annual Report on Form 10-K of which
+this Exhibit 4.4 is a part. 
+
+Authorized
+Capital 
+
+Pursuant
+to M A, our authorized capital consists of 100,000,000 ordinary shares, par value 0.0001, and 1,000,000 preference shares, par value
+ 0.0001. 
+
+Units 
+
+Composition. Each
+unit consists of one ordinary share and one-half of one redeemable warrant. Each whole warrant entitles the holder to purchase one ordinary
+share for an initial exercise price of 11.50 per share, for a period of five years beginning upon consummation of an initial business
+combination. 
+
+Listing. The
+Company s units, ordinary shares and warrants are listed on the Nasdaq Global Market under the ticker symbols GIACU, 
+ GIAC and GIACW, respectively. 
+
+Ordinary
+Shares 
+
+Authorization. The
+outstanding ordinary shares are duly authorized, validly issued, fully paid and nonassessable. 
+
+Voting
+Rights. Ordinary shareholders of record are entitled to one vote for each share held on all matters to be voted on by shareholders. 
+
+Conversion
+Rights . Holders of ordinary shares issued in the Company s initial public offering (which we refer to as public shares have the right to demand that the Company convert such shares into a pro rata portion of the Company s trust account upon the consummation
+of our initial business combination, either in connection with a shareholder meeting called to approve the business combination or by
+means of a tender offer. 
+
+The
+decision as to whether we will seek shareholder approval of a proposed business combination or conduct a tender offer will be made by
+us, solely in our discretion, and will be based on a variety of factors such as the timing of the transaction and whether the terms of
+the transaction would require us to seek shareholder approval under the law or stock exchange listing requirement. 
+
+If
+a shareholder vote is not required and we do not decide to hold a shareholder vote for business or other legal reasons, we will, pursuant
+to our M A, conduct the redemptions pursuant to the tender offer rules of the Securities and Exchange Commission SEC ),
+and file tender offer documents with the SEC prior to consummating our initial business combination. Our M A requires these tender
+offer documents to contain substantially the same financial and other information about the initial business combination and the redemption
+rights as is required under the SEC s proxy rules. If, however, shareholder approval of the transaction is required by law or Nasdaq
+rules, or we decide to obtain shareholder approval for business or other reasons, we will offer to redeem shares in conjunction with
+a proxy solicitation pursuant to the proxy rules and not pursuant to the tender offer rules. If we seek shareholder approval, we will
+consummate our initial business combination only if a majority of the outstanding ordinary voted are voted in favor of the business combination.
+Further, if we seek shareholder approval, we will require public shareholders, whether they are a record holder or hold their shares
+in street name, to either tender their certificates to our transfer agent or to deliver their shares to the transfer agent
+electronically using Depository Trust Company s DWAC (Deposit/Withdrawal At Custodian) System, at the holder s option, in
+each case prior to a date set forth in the proxy materials sent in connection with the proposal to approve the business combination. There
+is a nominal cost associated with the above-referenced delivery process and the act of certificating the shares or delivering them
+through the DWAC System. The transfer agent will typically charge the tendering broker a nominal amount and it would be up to the broker
+whether or not to pass this cost on to the holder. However, this fee would be incurred regardless of whether or not we require holders
+seeking to exercise redemption rights to deliver their shares prior to a specified date. The need to deliver shares is a requirement
+of exercising conversion rights regardless of the timing of when such delivery must be effectuated. However, in the event we require
+shareholders seeking to exercise conversion rights to deliver their shares prior to the consummation of the proposed business combination
+and the proposed business combination is not consummated this may result in an increased cost to shareholders. 
+
+Outside
+Date. Pursuant to our M A, if we are unable to consummate a business combination on or before April 14, 2023 (unless such
+time period is extended by our shareholders, as provided in the M A), we will (i) cease all operations except for the purpose of
+winding up, (ii) as promptly as reasonably possible but not more than five business days thereafter, redeem 100 of the outstanding public
+shares which redemption will completely extinguish public shareholders rights as shareholders (including the right to receive
+further liquidation distributions, if any), subject to applicable law, and (iii) as promptly as reasonably possible following such redemption,
+subject to the approval of our remaining holders of ordinary shares and our board of directors, proceed to commence a voluntary liquidation
+and thereby a formal dissolution of the company, subject (in the case of (ii) and (iii) above) to our obligations to provide for claims
+of creditors and the requirements of applicable law. 
+
+Our
+initial shareholders, which include our sponsor, officers, and directors, have entered into agreements with us, pursuant to which they
+have waived their rights to liquidating distributions from the trust account with respect to their initial shares if we fail to complete
+our initial business combination by April 14, 2023 (subject to extension). However, if our initial shareholders or management team acquire
+public shares, they will be entitled to liquidating distributions from the trust account with respect to such public shares if we fail
+to complete our initial business combination by such date. 
+
+Transfer
+Restrictions. Subject to certain limited exceptions, our initial shareholders have agreed not to transfer, assign or sell their
+founder shares until 180 days after the date of the consummation of our initial business combination or earlier if, subsequent to our
+initial business combination, we consummate a subsequent liquidation, merger, stock exchange or other similar transaction which results
+in all of our shareholders having the right to exchange their ordinary shares for cash, securities or other property. 
+
+Additionally,
+the holders of ordinary shares purchased prior to our initial public offering have agreed (A) to vote any shares owned by them in favor
+of any proposed business combination, (B) not to convert any shares in connection with a shareholder vote to approve a proposed
+initial business combination or any amendment to our M A prior to the consummation of our initial business combination and (C) not
+to sell any shares to us in a tender offer in connection with any proposed business combination. 
+
+Preemptive
+Rights, Etc. Our shareholders have no conversion, preemptive or other subscription rights and there are no sinking fund or redemption
+provisions applicable to the ordinary shares, except that public shareholders have the right to sell their shares to us in a tender offer
+or have their ordinary shares redeemed for cash equal to their pro rata share of the trust account if they vote on the proposed business
+combination in connection with such business combination and the business combination is completed. Public shareholders who sell or convert
+their shares for their share of the trust account still have the right to exercise the warrants that they received as part of the units. 
+
+Preference
+Shares 
+
+Our
+M A provides that preference shares may be issued from time to time in one or more series. Our board of directors is authorized to
+fix the voting rights, if any, designations, powers, preferences, the relative, participating, optional or other special rights and any
+qualifications, limitations and restrictions, applicable to the shares of each series. Our board of directors will be able, without shareholder
+approval, to issue preference shares with voting and other rights that could adversely affect the voting power and other rights of the
+holders of ordinary shares and could have anti-takeover effects. However, the underwriting agreement that we entered into in connection
+with the initial public offering prohibits us, prior to a business combination, from issuing preference shares which participate in any
+manner in the proceeds of the trust account, or which vote as a class with the ordinary shares on a business combination. 
+
+2 
+
+Warrants 
+
+Exercisability . Each
+whole warrant is exercisable to purchase one ordinary share. 
+
+Exercise
+Price. 11.50 per share, subject to adjustment. 
+
+The
+exercise price and number of ordinary shares issuable on exercise of the warrants may be adjusted in certain circumstances including
+in the event of a share dividend, extraordinary dividend or our recapitalization, reorganization, merger or consolidation. However, the
+warrants will not be adjusted for issuances of ordinary shares at a price below their respective exercise prices. 
+
+Exercise
+Period . The warrants will become exercisable on the later of January 6, 2022 or the consummation of our initial business combination.
+The warrants will expire five years after the consummation of our initial business combination, at 5:00 p.m., New York time, or earlier
+upon our failure to consummate a business combination on or before April 14, 2023 (subject to extension) or redemption of our ordinary
+shares or our liquidation. 
+
+No
+warrants will be exercisable for cash unless we have an effective and current registration statement covering the issuance of the
+ordinary shares issuable upon exercise of the warrants and a current prospectus relating to such ordinary shares. Notwithstanding the
+foregoing, if a registration statement covering the issuance of the ordinary shares issuable upon exercise of the public warrants is
+not effective within 90 days from the closing of our initial business combination, warrant holders may, until such time as there is an
+effective registration statement and during any period when we shall have failed to maintain an effective registration statement, exercise
+warrants on a cashless basis pursuant to an available exemption from registration under the Securities Act. If an exemption from registration
+is not available, holders will not be able to exercise their warrants on a cashless basis. The warrants will expire five years from the
+closing of our initial business combination at 5:00 p.m., New York City time or earlier redemption. 
+
+We
+have agreed to use our best efforts to file and have an effective registration statement covering the ordinary shares issuable upon exercise
+of the warrants, to maintain a current prospectus relating to those ordinary shares until the earlier of the date the warrants expire
+or are redeemed and the date on which all of the warrants have been exercised, and to qualify the resale of such shares under state blue
+sky laws, to the extent an exemption is not available. 
+
+Redemption
+of Warrants . Once the warrants become exercisable, we may call the warrants for redemption (excluding the private warrants and any
+warrants issued to our initial shareholders, officers or directors in payment of working capital loans made to us), in whole and not
+in part, at a price of 0.01 per warrant, upon not less than 30 days prior written notice of redemption (the 30-day redemption
+period to each warrant holder, and if, and only if, the reported last sale price of our ordinary shares equals or exceeds 18.00
+per share (as adjusted for share splits, share dividends, reorganizations and recapitalizations), for any 20 trading days within a 30
+trading day period commencing after the warrants become exercisable and ending on the third business day prior to the notice of redemption
+to warrant holders. We will not redeem the warrants unless an effective registration statement covering the ordinary shares issuable
+upon exercise of the warrants is current and available throughout the 30-day redemption period. 
+
+If
+we call the warrants for redemption as described above, our management will have the option to require all holders that wish to exercise
+warrants to do so on a cashless basis. In such event, each holder would pay the exercise price by surrendering the warrants
+for that number of ordinary shares equal to the quotient obtained by dividing (x) the product of the number of ordinary shares underlying
+the warrants, multiplied by the difference between the exercise price of the warrants and the fair market value by (y) the fair market
+value. The fair market value for this purpose shall mean the average reported last sale price of the ordinary shares for
+the five trading days ending on the third trading day prior to the date on which the notice of redemption is sent to the holders of warrants.
+Whether we will exercise our option to require all holders to exercise their warrants on a cashless basis will depend on
+a variety of factors including the price of our ordinary shares at the time the warrants are called for redemption, our cash needs at
+such time and concerns regarding dilutive share issuances. 
+
+Fractional
+Shares. No fractional shares will be issued upon exercise of the warrants. If, upon exercise of the warrants, a holder would
+be entitled to receive a fractional interest in a share, we will, upon exercise, round up to the nearest whole number the number of ordinary
+shares to be issued to the warrant holder. 
+
+3 
+
+Certain
+Provisions of our M A 
+
+Our
+amended and restated memorandum and articles of association filed under the laws of the Cayman Islands contain provisions designed to
+provide certain rights and protections to our shareholders prior to the consummation of a business combination. The following are the
+material rights and protections contained in our amended and restated memorandum and articles of association: 
+
+we
+shall either (1) seek shareholder approval of our initial business combination at a meeting called for such purpose at which shareholders
+may seek to convert their shares, regardless of whether they vote for or against the proposed business combination or don t vote
+at all, into their pro rata share of the aggregate amount then on deposit in the trust account (net of taxes payable), or (2) provide
+our shareholders with the opportunity to sell their shares to us by means of a tender offer (and thereby avoid the need for a shareholder
+vote) for an amount equal to their pro rata share of the aggregate amount then on deposit in the trust account (net of taxes payable),
+in each case subject to the limitations described herein; 
+
+we
+will consummate our initial business combination only if we have net tangible assets of at least 5,000,001 either immediately prior
+to or upon consummation of such business combination and, if we seek shareholder approval, an ordinary resolution under Cayman Islands
+law is passed, which requires the affirmative vote of a majority of the shareholders who attend and vote at a general meeting of the
+company; 
+
+if
+our initial business combination is not consummated by April 14, 2023, then we will redeem all of the outstanding public shares and thereafter
+liquidate and dissolve our company; 
+
+upon
+the consummation of the initial public offering, 115 million (including deferred underwriting commissions) was placed into the
+trust account; 
+
+we
+may not consummate any other business combination, merger, capital stock exchange, asset acquisition, stock purchase, reorganization
+or similar transaction prior to our initial business combination; and 
+
+prior
+to our initial business combination, we may not issue additional shares that participates in any manner in the proceeds of the trust
+account, or that votes as a class with the ordinary shares sold in this offering on an initial business combination. 
+
+The
+Companies Law permits a company incorporated in the Cayman Islands to amend its memorandum and articles of association with the approval
+of the holders of at least 66-2/3 of such company s issued and outstanding ordinary shares. A company s articles of
+association may specify that the approval of a higher majority is required but, provided the approval of the required majority is obtained,
+any Cayman Islands company may amend its memorandum and articles of association regardless of whether its memorandum and articles of
+association provides otherwise. Accordingly, although we could amend any of the provisions relating to our proposed offering, structure
+and business plan which are contained in our amended and restated memorandum and articles of association, we view all of these provisions
+as binding obligations to our shareholders and neither we, nor our officers or directors, will take any action to amend or waive any
+of these provisions unless we provide public shareholders with the opportunity to convert their public shares in connection with any
+such vote. The foregoing is set forth in our amended and restated memorandum and articles of association and cannot be amended. 
+
+4 
+
+</EX-4.4>
+
+<EX-31.1>
+ 3
+ f10k2021ex31-1_gesher1acq.htm
+ CERTIFICATION
+
+Exhibit
+31.1 
+
+CERTIFICATION
+OF CHIEF EXECUTIVE OFFICER 
+
+ PURSUANT
+TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Ezra Gardner, certify that: 
+
+1. 
+ I have reviewed this annual
+ report on Form 10-K of Gesher I Acquisition Corp.; 
+
+2. 
+ Based on my knowledge,
+ this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+ made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+ report; 
+
+3. 
+ Based on my knowledge,
+ the financial statements, and other financial information included in this report, fairly present in all material respects the financial
+ condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ I am responsible for establishing
+ and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant
+ and have: 
+
+a) 
+ Designed such disclosure
+ controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to ensure that material
+ information relating to the registrant, is made known to us by others within those entities, particularly during the period in which
+ this report is being prepared; and 
+
+b) 
+ Designed such internal
+ control over financial reporting, or caused such internal control over financial reporting to be designed under my supervision, to
+ provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+ purposes in accordance with generally accepted accounting principles; and 
+
+c) 
+ Evaluated the effectiveness
+ of the registrant s disclosure controls and procedures and presented in this report my conclusions about the effectiveness
+ of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report
+ any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent
+ fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control
+ over financial reporting; and 
+
+5. 
+ I have disclosed, based
+ on my most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee
+ of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies
+ and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely
+ affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not
+ material, that involves management or other employees who have a significant role in the registrant s internal control over
+ financial reporting. 
+
+Date:
+ December 29, 2021 
+ /s/ Ezra
+ Gardner 
+
+Ezra
+ Gardner 
+
+Chief
+ Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ f10k2021ex31-2_gesher1acq.htm
+ CERTIFICATION
+
+Exhibit
+31.2 
+
+CERTIFICATION
+OF CHIEF FINANCIAL OFFICER 
+
+ PURSUANT
+TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Christopher Coward, certify that: 
+
+1. 
+ I have reviewed this annual
+ report on Form 10-K of Gesher I Acquisition Corp.; 
+
+2. 
+ Based on my knowledge,
+ this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+ made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+ report; 
+
+3. 
+ Based on my knowledge,
+ the financial statements, and other financial information included in this report, fairly present in all material respects the financial
+ condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ I am responsible for establishing
+ and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant
+ and have: 
+
+a) 
+ Designed such disclosure
+ controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to ensure that material
+ information relating to the registrant, is made known to us by others within those entities, particularly during the period in which
+ this report is being prepared; and 
+
+b) 
+ Designed such internal
+ control over financial reporting, or caused such internal control over financial reporting to be designed under my supervision, to
+ provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+ purposes in accordance with generally accepted accounting principles; and 
+
+c) 
+ Evaluated the effectiveness
+ of the registrant s disclosure controls and procedures and presented in this report my conclusions about the effectiveness
+ of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report
+ any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent
+ fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control
+ over financial reporting; and 
+
+5. 
+ I have disclosed, based
+ on my most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee
+ of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies
+ and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely
+ affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not
+ material, that involves management or other employees who have a significant role in the registrant s internal control over
+ financial reporting. 
+
+Date:
+ December 29, 2021 
+ /s/ Chris
+ Coward 
+
+Chris
+ Coward 
+
+Chief
+ Financial Officer 
+ (Principal Financial Officer, and Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 5
+ f10k2021ex32_gesher1acq.htm
+ CERTIFICATION
+
+Exhibit
+32 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of Gesher I Acquisition Corp. (the Company on Form 10-K for the year ended September
+30, 2021 as filed with the Securities and Exchange Commission (the Report ), each of the undersigned, in the capacities
+and on the dates indicated below, hereby certifies pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that: 
+
+1. 
+ The
+ Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ The
+ information contained in the Report fairly presents, in all material respects, the financial condition and results of operation of
+ the Company. 
+
+Date:
+ December 29, 2021 
+ /s/ Ezra Gardner 
+
+Ezra Gardner 
+
+Chief Executive Officer 
+ (Principal Executive Officer) 
+
+Date:
+ December 29, 2021 
+ /s/ Chris Coward 
+
+Chris Coward 
+
+Chief Financial Officer 
+ (Principal Financial and Accounting Officer) 
+
+</EX-32>
+
+<EX-101.SCH>
+ 6
+ giac-20210930.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ giac-20210930_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ giac-20210930_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ giac-20210930_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ giac-20210930_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

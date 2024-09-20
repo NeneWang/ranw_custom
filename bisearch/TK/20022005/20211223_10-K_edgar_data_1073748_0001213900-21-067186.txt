@@ -1,0 +1,2514 @@
+<Header>
+<FileStats>
+    <FileName>20211223_10-K_edgar_data_1073748_0001213900-21-067186.txt</FileName>
+    <GrossFileSize>2116847</GrossFileSize>
+    <NetFileSize>93123</NetFileSize>
+    <NonText_DocumentType_Chars>417463</NonText_DocumentType_Chars>
+    <HTML_Chars>708583</HTML_Chars>
+    <XBRL_Chars>402454</XBRL_Chars>
+    <XML_Chars>440344</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-21-067186.hdr.sgml : 20211223
+<ACCEPTANCE-DATETIME>20211223101230
+ACCESSION NUMBER:		0001213900-21-067186
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		40
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211223
+DATE AS OF CHANGE:		20211223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			YUMMIES INC
+		CENTRAL INDEX KEY:			0001073748
+		STANDARD INDUSTRIAL CLASSIFICATION:	BLANK CHECKS [6770]
+		IRS NUMBER:				870615629
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-32361
+		FILM NUMBER:		211515538
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1981 EAST MURRAY HOLLADAY ROAD
+		STREET 2:		SUITE 100
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84117
+		BUSINESS PHONE:		8012729294
+
+	MAIL ADDRESS:	
+		STREET 1:		1981 EAST MURRAY HOLLADAY ROAD
+		STREET 2:		SUITE 100
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84117
+
+</SEC-Header>
+</Header>
+
+ 0001213900-21-067186.txt : 20211223
+
+10-K
+ 1
+ f10k2021_yummiesinc.htm
+ ANNUAL REPORT
+
+UNITED
+STATES 
+
+SECURITIES
+AND EXCHANGE COMMISSION 
+
+Washington,
+D.C. 20549 
+
+FORM
+
+(Mark
+One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended: , 
+
+or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from ____________ to ____________ 
+
+Commission
+File No. 
+
+YUMMIES,
+INC. 
+
+(Exact
+name of registrant as specified in its charter) 
+
+(State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+
+, , ., , 
+
+(Address
+of principal executive offices) 
+
+(Registrant s
+telephone number, including area code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: None. 
+
+Securities
+registered pursuant to Section 12(g) of the Act: Common Stock, 0.0001 par value per share 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit
+such files). No 
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not
+be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference
+in Part III of this Form 10-K or any amendment to this Form 10-K. 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large Accelerated Filer Accelerated Filer 
+ Smaller reporting company 
+ Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+
+As
+of March 31, 2021 (the last business day of the registrant s most recently completed second fiscal quarter), there were
+449,626,500 shares of the registrant s common stock issued and outstanding, 332,005,000 of which were held by affiliates
+of the registrant. The aggregate market value could not be determined because the registrant had no or nominal trading volume
+as of September 30, 2021. 
+
+There
+was a total of shares of the registrant s common stock outstanding as of December 17, 2021. 
+
+DOCUMENTS
+INCORPORATED BY REFERENCE 
+
+None. 
+
+Yummies,
+Inc. 
+
+Annual
+Report on Form 10-K 
+
+Year
+Ended September 30, 2021 
+
+TABLE
+OF CONTENTS 
+
+PART
+ I 
+
+Item
+ 1. 
+ Business 
+ 
+ 1 
+ 
+ Item
+ 1A. 
+ Risk
+ Factors 
+ 
+ 4 
+ 
+ Item
+ 1B. 
+ Unresolved
+ Staff Comments 
+ 
+ 7 
+ 
+ Item
+ 2. 
+ Properties 
+ 
+ 7 
+ 
+ Item
+ 3. 
+ Legal
+ Proceedings 
+ 
+ 7 
+ 
+ Item
+ 4. 
+ Mine
+ Safety Disclosures 
+ 
+ 7 
+
+PART
+ II 
+
+Item
+ 5. 
+ Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ 8 
+ 
+ Item
+ 6. 
+ Selected
+ Financial Data 
+ 
+ 8 
+ 
+ Item
+ 7. 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 9 
+ 
+ Item
+ 7A. 
+ Quantitative
+ and Qualitative Disclosures about Market Risk 
+ 
+ 12 
+ 
+ Item
+ 8. 
+ Financial
+ Statements and Supplementary Data 
+ 
+ 12 
+ 
+ Item
+ 9. 
+ Changes
+ in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ 12 
+ 
+ Item
+ 9A. 
+ Controls
+ and Procedures 
+ 
+ 12 
+ 
+ Item
+ 9B. 
+ Other
+ Information 
+ 
+ 13 
+
+PART
+ III 
+
+Item
+ 10. 
+ Directors,
+ Executive Officers and Corporate Governance 
+ 
+ 14 
+ 
+ Item
+ 11. 
+ Executive
+ Compensation 
+ 
+ 16 
+ 
+ Item
+ 12. 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ 16 
+ 
+ Item
+ 13. 
+ Certain
+ Relationships and Related Transactions, and Director Independence 
+ 
+ 17 
+ 
+ Item
+ 14. 
+ Principal
+ Accounting Fees and Services 
+ 
+ 18 
+
+PART
+ IV 
+
+Item
+ 15. 
+ Exhibits,
+ Financial Statement Schedules 
+
+Item
+ 16. 
+ Form
+ 10-K Summary 
+ 
+ 19 
+
+i 
+
+INTRODUCTORY
+NOTES 
+
+Use
+of Terms 
+
+Except
+as otherwise indicated by the context and for the purposes of this report only, references in this report to we, 
+ our and the Company refer to Yummies, Inc., a Nevada corporation, and its wholly owned subsidiary,
+Yummies Knowledge Management Pte. Ltd., a Singapore corporation (the Singapore Subsidiary ). 
+
+Special
+Note Regarding Forward Looking Statements 
+
+In
+addition to historical information, this report contains forward-looking statements within the meaning of Section 27A of the Securities
+Act of 1933, as amended, or the Securities Act, and Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange
+Act. We use words such as believe, expect, anticipate, project, target, 
+ plan, optimistic, intend, aim, will or similar expressions
+which are intended to identify forward-looking statements. Such statements include, among others, those concerning any projections
+of earnings, revenue, margins or other financial items; any statements of the plans, strategies and objectives of management for
+future operations; any statements regarding future economic conditions or performance; as well as all assumptions, expectations,
+predictions, intentions or beliefs about future events. You are cautioned that any such forward-looking statements are not guarantees
+of future performance and involve risks and uncertainties, as well as assumptions, which, if they were to ever materialize or
+prove incorrect, could cause the results of the Company to differ materially from those expressed or implied by such forward-looking
+statements. 
+
+Readers
+are urged to carefully review and consider the various disclosures made by us in this report and our other filings with the Securities
+and Exchange Commission, or the SEC. These reports attempt to advise interested parties of the risks and factors that may affect
+our business, financial condition and results of operations and prospects. The forward-looking statements made in this report
+speak only as of the date hereof and we disclaim any obligation, except as required by law, to provide updates, revisions or amendments
+to any forward-looking statements to reflect changes in our expectations or future events. 
+
+ii 
+
+PART
+I 
+
+ITEM
+ 1. 
+ BUSINESS. 
+
+Background
+and History 
+
+The
+Company was originally incorporated in the State of Nevada on June 11, 1998. The Company was formed with the stated purpose of
+engaging in the business of the rental of boats and personal water craft but was not successful in that business. For the past
+number of years, the Company has checked the shell company box on the cover page of its Form 10-K annual reports
+filed with the Securities and Exchange Commission. 
+
+On
+August 29, 2018, the Company entered into and closed the transactions contemplated by a stock purchase agreement between the Company,
+Wei-Hsien Lin, and Susan Santage, the sole director, President, Treasurer, Secretary and controlling stockholder of the Company
+prior to that date. Pursuant to the stock purchase agreement, Mr. Lin purchased 1,690,000 shares of the Company s common
+stock from Ms. Santage for 325,000, or 0.19231 per share. Such shares represented approximately 67.5 of the Company s
+issued and outstanding common stock as of the closing. Accordingly, as a result of the transaction, on August 29, 2018, there
+was a change of control of the Company and Mr. Lin became the controlling stockholder of the Company. 
+
+In
+connection with the closing of the stock purchase transaction, Susan Santage resigned from all offices of the Company that she
+held and Mr. Wei-Hsien Lin was appointed as the President, Treasurer, and Secretary of the Company, effective as of August 29,
+2018. Mr. Lin was also appointed to the board of directors (the Board of the Company effective as of August
+29, 2018. Ms. Santage resigned from the board of directors of the Company effective automatically on the 10 th day following
+the Company s filing and mailing of an information statement on Schedule 14f-1. Such information statement was mailed on
+August 31, 2018, so Ms. Santage s resignation was effective as of September 10, 2018. 
+
+On
+May 7, 2019, the Board of Directors of the Company, by written consent determined to increase the size of the Board to three (3)
+members and appointed Ms. Chi-Yin Lee and Ms. Yu-Jo Liao to the Board to fill the vacancies on the Board created by the increase. 
+
+On
+June 18, 2019, the Company formed a wholly owned subsidiary under the laws of Singapore, Yummies Knowledge Management Pte. Ltd.,
+or the Singapore Subsidiary. The Singapore Subsidiary is authorized to issue 5,000 ordinary shares, denominated in Singapore dollars,
+all of which have been issued to the Company and are outstanding. The address of the Singapore Subsidiary is 82 Lorong 23 Geylang,
+#06-05, Atrix Building, Singapore 88409, and the telephone number is +65 6338 8801. The Managing Director of the Singapore Subsidiary
+is Mr. Wei-Hsien Lin, who is also the Chairman and Chief Executive Officer of the Company. 
+
+The
+principal activities of the Singapore Subsidiary are in the field of management consultancy services and the provision of corporate
+training programs and motivational courses in various areas of management. More specifically, the Singapore Subsidiary has begun
+assisting an affiliated company, Doers Knowledge Management Pte Ltd Doers Singapore ), a private Singapore
+based company owned by Mr. Lin, with marketing, promotional and management training activities relating to an event organized
+by Doers Singapore titled Heartland Enterprises: Transform and Thrive, a Bintan Island cruise for up to 150 entrepreneur-attendees
+took place from July 26 to July 28, 2019 on the cruise ship Genting Dream (the Heartland Event ). The Singapore
+Subsidiary will provide similar services to future educational cruises and other programs to be sponsored by Doers Singapore and
+is being paid for the services it provides to Doers Singapore. Immediately following this Bintan Island cruise, the Singapore
+Subsidiary began providing educational site visits to entrepreneurs who have participated in the cruise and to sponsor related
+business development skill building seminars, all of which are expected to generate revenues to the Singapore Subsidiary. The
+Singapore Subsidiary will also sponsor its own educational programs separate from those of Doers Singapore. 
+
+As
+a result of the formation of the Singapore Subsidiary and the Singapore Subsidiary s beginning of its business activities
+as described above, as of June 25, 2019, the Company ceased to be a shell company, as that term is defined in Rule
+405 of the Securities Act of 1933, as amended, and Rule 12b-2 of the Exchange Act of 1934, as amended. On July 1, 2019, the Company
+filed a Form 8-K with the SEC indicating that the Board had made the determination that the Company had left shell company status
+on June 25, 2019. As such, in its future periodic reports to be filed with the SEC beginning with this annual report on Form 10-K,
+the Company will change the reporting of its status as a shell company and will check the box to indicate that the Company is
+not a shell company. 
+
+1 
+
+Business
+Overview 
+
+The
+Company has begun operations in Singapore, through the Singapore Subsidiary, in the business training and entrepreneurship education
+sector. The Company provides management consultancy services and the provision of corporate training programs and motivational
+courses in various areas of business management and entrepreneurship. Business training and entrepreneurship education seeks to
+provide students with the skill sets, networking opportunities with other budding entrepreneurs and motivation to encourage entrepreneurial
+success in a variety of settings. It helps decrease the chances of failure by teaching a set of principles and systems for entrepreneurial
+success. In a typical course, students may learn about managing cash flow, raising capital, writing business plans, negotiations,
+organizational skills, business strategies and sales and marketing as well as soft skills such as building high performance winning
+teams. 
+
+Products
+and Services 
+
+Programs
+and courses adopt a methodology of teaching important concepts through interactive games and activities, which comprise more than
+60 of the total course hours. These games and activities are designed to apply the concepts, principles and theories that form
+the key themes of the courses. During these games and activities, the participants are split into smaller groups and are required
+to work individually and together as a team in each group. These games and activities require a high level of interaction among
+the participants, which fosters a closer relationship amongst the participants, and promotes teamwork and the exchange of ideas. 
+
+These
+programs and courses are conducted mainly in hotel venues in various cities in different countries, where participants can attend
+the course programs, have their meals and spend their nights conveniently close to the program sites. The programs are held in
+hotels as they offer both convenience to attendees and flexibility to us in organizing and planning our programs. Our courses
+range from one-day to eight-day programs. 
+
+Since
+the formation of the Singapore Subsidiary, our first operational activities have been related to assisting our affiliated company,
+Doers Singapore, for a fee, with marketing, promotional and management training activities relating to the Heartland Event organized
+by Doers Singapore. The Singapore Subsidiary will also provide similar services for future educational courses and other programs
+to be sponsored by Doers Singapore. and will be paid fees for these services. The Company also plans to sponsor its own educational
+programs separate from those of Doers Singapore. 
+
+Generally,
+we conduct courses according to the broad principles and concepts prescribed by the consultants or lecturers we utilize to design
+and lead our programs. These persons are responsible for designing program format and structure, teaching concepts, principles
+and theories, and games and activities for the program participants. Our teaching staff has the flexibility to customize the contents
+and structures of the programs they lead to explain and elaborate the relevant subjects that are taught in the programs. Trainers
+and group leaders for these programs and courses comprise a combination of international trainers provided by our consultants
+and those sourced directly by us from time to time. 
+
+The
+Company s first project, discussed above, took place in Singapore. The Company expects to conduct various additional education,
+training and incubation program courses in Singapore and in other countries including China, Malaysia, Taiwan, Hong Kong, Cambodia,
+Indonesia, Thailand, Philippine and Brunei. 
+
+Going
+forward, the Company will begin to provide additional services relating to corporate training, human resources training and recruitment,
+event management and the provision of youth educational services. 
+
+Plan
+of Operation 
+
+Our
+plan of operation for the next 12 months is to build our operations in Singapore and to begin to develop our business in Malaysia
+and Taiwan where we expect to establish local operations within the next 12 months. 
+
+2 
+
+Market 
+
+The
+potential for the business training and development market in Asia is enormous in view of the huge labor market in the world s
+most populous region and the need to train such human capital to ensure sustained economic growth and social stability in the
+region, especially in the Asian market. The business training and development market may be divided into two market segments.
+The first segment is saturated with many small training companies targeting employees working for multinational companies. The
+other segment is aimed at employees working for local companies, including small and medium size enterprises, and this segment
+is more promising because local companies face the challenge of finding themselves obsolete due to increased competition from
+foreign enterprises and multinational companies, so they need to improve their work force training to become more competitive. 
+
+Competition 
+
+The
+Company operates in a competitive industry. Our competitors are management consulting companies based in Singapore and Malaysia
+that provide business entrepreneurship education and training and development. We compete based on our service quality, pricing
+and after sales service. We believe our competitive strengths include our working relationships with and support from universities,
+our training program offerings and our strong management leadership from our Chief Executive Officer, Wei-Hsien Lin. Based on
+our relationships with our affiliate, Doers Singapore, we expect to be able to leverage their well-developed media strategies
+and strong working relationships with the media. We believe we can also leverage our student resources and the experience and
+industry relationships of our CEO, Mr. Lin. 
+
+Employees 
+
+Other
+than its Chief Executive Officer, Mr. Wei-Hsien Lin, the Company does not have any employees. The Company does not have an employment
+agreement with, or pay a salary to, Mr. Lin. 
+
+3 
+
+ITEM
+ 1A. 
+ RISK FACTORS. 
+
+We
+are an early stage company, with limited operating history. 
+
+We
+are a company in its development stages. On August 29, 2018, a new stockholder, Wei-Hsien Lin, became the controlling stockholder
+of the Company. We have a limited operating history with which you can evaluate our business and prospects. Our prospects must
+be considered in light of the risks encountered by companies in the early stages of development in highly competitive markets.
+You should consider the frequency with which early-stage businesses encounter unforeseen expenses, difficulties, complications,
+delays and other adverse factors. 
+
+There
+can be no assurance that we will become profitable in the future. 
+
+There
+is no assurance that we will ever be profitable or generate sufficient revenue to meet projections or to pay dividends to the
+holders of shares of our common stock. 
+
+We
+will need to raise significant additional capital in the future to expand our operations and we may be unable to raise such funds
+when needed and on acceptable terms. 
+
+We
+will need to raise significant additional capital in order to fund our operations. When we elect to raise additional funds or
+additional funds are required, we may raise such funds from time to time through public or private equity offerings, debt financings
+or other financing alternatives. Additional equity or debt financing or other alternative sources of capital may not be available
+to us on acceptable terms, if at all. 
+
+If
+we raise additional funds by issuing equity securities, our stockholders will experience dilution. Debt financing, if available,
+would result in substantial fixed payment obligations and may involve agreements that include covenants limiting or restricting
+our ability to take specific actions, such as incurring additional debt, making capital expenditures or declaring dividends. Any
+debt financing or additional equity that we raise may contain terms, such as liquidation and other preferences, which are not
+favorable to us or our stockholders. If we are unable to raise additional capital in sufficient amounts or on terms acceptable
+to us, we may not be able to fully develop our business, our future operations will be limited, and our ability to generate revenues
+and achieve or sustain future profitability will be substantially harmed. 
+
+Our
+success is dependent on our key personnel, whom we may not be able to retain and we may not be able to hire enough additional
+personnel to meet our needs. 
+
+Our
+future success depends upon the continued service of our key personnel and our directors, especially our President, Treasurer
+and Secretary, Mr. Wei-Hsien Lin. Mr. Lin possesses technical knowledge of our operations, business strategy, and has a network
+of contacts that can help us implement our strategy and plan. If we lose his services or if he decides to join a competitor or
+otherwise compete directly or indirectly with us, our business, operating results and financial condition could be materially
+harmed. 
+
+If
+our business continues to grow, additional personnel will be necessary. We cannot assure you that we will be successful in attracting
+and retaining additional personnel. If we are unable to attract and retain key personnel, or are unable to do so in a cost effective
+manner, our business may be materially and adversely affected. 
+
+We
+may not be able to manage future growth effectively. 
+
+We
+expect to experience significant growth in a short period of time. Should we grow rapidly, our financial, management and operating
+resources may not expand sufficiently to adequately manage our growth. If we are unable to manage our growth, our costs may increase
+disproportionately, our future revenues may not grow or may decline and we may face dissatisfied customers. Our failure to manage
+our growth may adversely impact our business and the value of your investment. 
+
+Competition 
+
+There
+are many companies who compete or could potentially compete with the Company. It is likely that efforts of which the Company s
+management is unaware are currently underway at other companies and organizations. Many of the Company s potential competitors
+have substantially greater capital, marketing and development capabilities and human resources than the Company and may potentially
+represent significant competition for the Company. Furthermore, many of these competitors may have significantly greater experience
+than the Company in the Company s industry. The foregoing conditions create a rigorous competitive climate for the Company
+and increase the risk that the products developed, marketed and sold by the Company will be unable to compete successfully with
+other potential marketers of such products. The Company s competitors may succeed in developing products that are more effective
+or less costly than any that may be developed by the Company and may also prove to be more successful than the Company in technology,
+marketing and sales. Competition may increase further as a result of potential advances in the commercial applicability of such
+products and services as well as increased availability of capital for investment in these fields. 
+
+4 
+
+No
+Assurance of Government Regulation 
+
+The
+extent of potential adverse government regulation which might arise from future legislation or administrative action cannot be
+predicted. 
+
+Market
+Risk 
+
+There
+is no assurance that consumers will accept the Company s product offerings. Usage will initially require input of personal
+information and potentially credit card registration, which will create adoption barriers. Our business is dependent on our ability
+to train and/or attract and retain good and qualified trainers who preferably, should be equipped with the relevant business experience
+in relation to our training programmes. The ability to train and/or attract and retain them is dependent on several factors such
+as our continued reputation, financial remuneration and job satisfaction. In addition, we may be adversely affected by competition
+from other private schools and/or education services providers. The private education industry especially in the China, is highly
+competitive. The competition which we face is exacerbated by the relatively low entry barriers for new entrants into the market.
+We compete with various private schools and/or education services providers, some of which have longer operating histories, higher
+student enrolment levels, larger teams of professional staff and greater financial, technical, marketing and other resources.
+If we are unable to compete effectively, our business and results of operations will be adversely affected. We may also facing
+local applicable laws and regulations of the country. We intend to establish more schools providing entrepreneurship training
+in future. However, there is no assurance that we will be able to secure the necessary license, permit and approvals in the particular
+country relating to the establishment of each of such private schools or programs. This would affect our expansion plans and may
+adversely affect our future growth and results of operations. 
+
+The
+price of our common stock may be volatile. 
+
+Our
+common stock is approved for quotation on the OTC Markets OTCPink marketplace under the symbol, YUMM . The
+OTCPink marketplace is a regulated quotation service that displays real-time quotes, last-sale prices and volume information in
+the over-the-counter equity securities and provides significantly less liquidity than a listing on the Nasdaq Stock Markets or
+other national securities exchange. OTCPink securities are traded by a community of market makers that enter quotes and trade
+reports. This market is limited in comparison to the national stock exchanges and any prices quoted may not be a reliable indication
+of the value of our common stock. Quotes for stocks included on the OTCPink are not listed in the financial sections of new papers
+as are those for the Nasdaq Stock Market or the NYSE. Therefore, prices for securities traded solely on the OTCPink may be difficult
+to obtain. 
+
+Trading
+on the OTCPink Marketplace as opposed to a national securities exchange had resulted and may continue to result in a reduction
+in some or all of the following, each of which could have a material adverse effect on the price of our Common Stock and our company: 
+
+liquidity
+ of our common stock; 
+
+the
+ market price of shares of our common stock; 
+
+our
+ ability to obtain financing to support our operations and the implementation of our business
+ plan; 
+
+the
+ number of institutional and other investors that will consider investing in shares of
+ our common stock; 
+
+the
+ number of market markers in shares of our common stock; 
+
+the
+ availability of information concerning the trading prices and volume of shares of our
+ common stock; and 
+
+the
+ number of broker-dealers willing to execute trades in shares of our common stock. 
+
+5 
+
+In
+addition, the market price of our common stock could be subject to wide fluctuations in response to: 
+
+actual
+ or anticipated fluctuations in our results of operations; 
+
+announcements
+ regarding the status of our regulatory efforts; 
+
+the
+ determination that our shares of common stock are penny stock which will
+ require brokers trading in our shares of common stock to adhere to more stringent rules; 
+
+the
+ sale by us of our common stock or preferred stock or other securities, or the anticipation
+ of sales of such securities; 
+
+the
+ trading volume of our common stock, particularly if such volume is light; 
+
+the
+ introduction of new products of services, or product or service enhancements by us or
+ our competitors; 
+
+developments
+ with respect to our or our competitors intellectual property rights or regulatory
+ approvals or denials; 
+
+announcements
+ of significant acquisitions or other agreements by us or our competitors; 
+
+sales
+ or anticipated sales of our common stock by our officers and directors; 
+
+conditions
+ and trends in our industry; 
+
+changes
+ in our pricing policies or the pricing policies of our competitors; 
+
+changes
+ in the estimation of the future size and growth of our markets; and 
+
+general
+ economic conditions. 
+
+The
+stock market in general, and the OTCPink marketplace in particular, have experienced extreme price and volume fluctuations that
+in some cases may be unrelated or disproportionate to the operating performance of those companies. These broad market and industry
+factors may materially harm the market price of our common stock, regardless of our operating performance. In addition, this volatility
+could adversely affect an investor s ability to sell shares of our common stock, and/or the available price for such shares,
+at any given time. 
+
+The
+recent and ongoing COVID-19 pandemic could materially affect our operations. 
+
+In
+December 2019, a novel strain of coronavirus, SARS-CoV-2, causing a disease referred to as COVID-19, was reported to have surfaced
+in Wuhan, China. Since then, COVID-19 has spread to other countries, including in each of the areas in which our company and our
+customers operate. The spread of COVID-19, which has caused a broad impact globally, may materially affect us economically. While
+the potential economic impact brought by COVID-19, and the duration of such impact, may be difficult to assess or predict, the
+widespread pandemic has resulted in significant disruption of global financial markets, which could reduce our ability to access
+capital and negatively affect our future liquidity. In addition, a recession or market correction resulting from the spread of
+COVID-19 and related government orders and restrictions could materially affect our business and the value of our common stock.
+The COVID-19 pandemic continues to evolve rapidly. As of the date of this annual report, the COVID-19 pandemic has had an impact
+upon our operations, although we believe that the impact is not material. 
+
+We
+are monitoring the global outbreak and spread of the novel strain of coronavirus (COVID-19) and taking steps in an effort to identify
+and mitigate the adverse impacts on, and risks to, our business (including but not limited to our employees, customers and other
+business partners) posed by its spread and the governmental and community reactions thereto. We continue to assess and update
+our business continuity plans in the context of this pandemic, including taking steps in an effort to help keep our workforces
+healthy and safe. 
+
+6 
+
+ITEM
+ 1B. 
+ UNRESOLVED STAFF
+ COMMENTS. 
+
+Not
+applicable. 
+
+ITEM
+ 2. 
+ PROPERTIES. 
+
+The
+Company does not own or rent any property. 
+
+ITEM
+ 3. 
+ LEGAL PROCEEDINGS. 
+
+From
+time to time, we may become involved in various lawsuits and legal proceedings, which arise, in the ordinary course of business.
+However, litigation is subject to inherent uncertainties, and an adverse result in these, or other matters, may arise from time
+to time that may harm our business. Except as discussed below, we are currently not aware of any such legal proceedings or claims
+that we believe will have a material adverse effect on our business, financial condition or operating results. 
+
+On
+June 4, 2021, a shareholder of the Company filed an application for appointment of custodian (the Application in
+the District Court, Clark County, Nevada (the Court claiming that the Company had abandoned its business. The Application
+was granted by the Court which issued a Custodian Order on June 16, 2021. On June 18, 2021, we filed an application for a stay
+of the Court order granting the custodianship and this stay was granted by the Court on June 20, 2021. On June 29, 2021, we entered
+into a settlement agreement with the shareholder pursuant to which, among other things, we agreed to maintain our corporate filings
+with the Nevada Secretary of State in a timely manner and to comply with regulatory and market required periodic report filing
+requirements. On June 30, 2021, the Court vacated the Custodian Order and dismissed the shareholder s action in its entirety.
+We have paid an upfront of 25,000 for the legal fees for handling the case. As a result, on July 1, 2021, our legal representative
+have paid on behalf of the Company of 2,500 for of the final settlement with the shareholder. The surplus of the legal fees of
+ 5,199 has also been refunded on July 27, 2021. 
+
+ITEM
+ 4. 
+ MINE SAFETY DISCLOSURES. 
+
+Not
+applicable. 
+
+7 
+
+PART
+II 
+
+ITEM
+ 5. 
+ MARKET FOR REGISTRANT S
+ COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+
+Market
+Information 
+
+Our
+common stock is currently eligible to be quoted on the OTC Pink Tier of OTC Markets Group Inc. under the symbol YUMM, 
+however, no or nominal trading has occurred in the past two years. An active public market for our common stock may never develop,
+or, if a market develops, it may not be sustained. 
+
+Approximate
+Number of Holders of Our Common Stock 
+
+As
+of December 17, 2021, there were approximately 1550 holders of record of our common stock. This number excludes the shares owned
+by stockholders holding shares under nominee security position listings. 
+
+Dividend
+Policy 
+
+We
+have never declared or paid a cash dividend. Any future decisions regarding dividends will be made by our Board. We currently
+intend to retain and use any future earnings for the development and expansion of our business and do not anticipate paying any
+cash dividends in the foreseeable future. Our Board has complete discretion as to whether to pay dividends, subject to the approval
+of our stockholders. Even if our Board decides to pay dividends, the form, frequency and amount will depend upon our future operations
+and earnings, capital requirements and surplus, general financial condition, contractual restrictions and other factors that the
+board of directors may deem relevant. 
+
+Securities
+Authorized for Issuance under Equity Compensation Plans 
+
+We
+do not have in effect any compensation plans under which our equity securities are authorized for issuance. 
+
+Recent
+Sales of Unregistered Securities 
+
+Other
+than as described immediately below, we have not sold any equity securities during the year ended September 30, 2021 that were
+not previously disclosed in a quarterly report on Form 10-Q or a current report on Form 8-K that was filed during the year. 
+
+In
+August 2020, the Company issued 121,500 shares of its common stock, par value 0.0001, for an aggregate price of 12.15. 
+
+Purchases
+of Equity Securities 
+
+During
+the fiscal year ended September 30, 2021, we did not repurchase any shares of our common stock. 
+
+ITEM
+ 6. 
+ SELECTED FINANCIAL
+ DATA. 
+
+Not
+applicable. 
+
+8 
+
+ITEM
+ 7. 
+ MANAGEMENT S
+ DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+
+The
+following discussion and analysis should be read in conjunction with our audited financial statements and the notes to those financial
+statements that are included elsewhere in this Annual Report on Form 10-K. Our discussion may include forward-looking statements
+based upon current expectations that involve risks and uncertainties, such as our plans, objectives, expectations and intentions.
+Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as
+a result of a number of factors, including those set forth under the Risk Factors, Special Note Regarding
+Forward-Looking Statements and Business sections and elsewhere in this annual report. We may use words such
+as anticipate, estimate, plan, project, continuing, ongoing, 
+ expect, believe, intend, may, will, should, 
+ could, predict, and similar expressions to identify forward-looking statements. Although we believe
+the expectations expressed in these forward-looking statements are based on reasonable assumptions within the bound of our knowledge
+of our business, our actual results could differ materially from those discussed in these statements. Factors that could contribute
+to such differences include, but are not limited to, those discussed in the Risk Factors section of this Annual
+Report. We undertake no obligation to update publicly any forward-looking statements for any reason even if new information becomes
+available or other events occur in the future. Except as required by applicable law, including the securities laws of the United
+States, we do not intend to update any of the forward-looking statements to conform these statements to actual results. Readers
+are urged to carefully review and consider the various disclosures made throughout the entirety of this annual report, which attempt
+to advise interested parties of the risks and factors that may affect our business, financial condition, results of operations,
+and prospects. 
+
+Overview 
+
+The
+Company changed ownership on August 29, 2018 and began operations through its Singapore Subsidiary on or about June 25, 2019.
+The Company is currently principally engaged in the provision of business training and entrepreneurship education in the Chinese
+language to owners of business start-ups, aspiring entrepreneurs and small and medium enterprises business owners. We organize
+and conduct Chinese language courses based either on third party programs or our own programs in the China, Malaysia, Singapore,
+Taiwan and Hong Kong. 
+
+Recent
+Development 
+
+In
+December 2019, the outbreak of COVID-19 caused by a novel strain of the coronavirus has become widespread in China and in the
+rest of the world. The virus has since spread to more than 150 countries and on March 11, 2020, the World Health Organization
+declared the outbreak a pandemic. 
+
+The
+ultimate impact of the COVID-19 pandemic on the Company s operations is unknown and will depend on future developments,
+which are highly uncertain and cannot be predicted with confidence, including the duration of the COVID-19 outbreak, new information
+which may emerge concerning the severity of the COVID-19 pandemic, and any additional preventative and protective actions that
+governments, or the Company, may direct, which may result in an extended period of continued business disruption, reduced customer
+traffic and reduced operations. Any resulting financial impact cannot be reasonably estimated at this time but is anticipated
+to have a material adverse impact on our business, financial condition and results of operations. 
+
+Government
+measures taken to date will impact the Company s business for the fiscal year which began on October 1, 2021 and potentially
+beyond. Management expects that all of its business segments, across all of its geographies, will be impacted to some degree,
+but the significance of the impact of the COVID-19 outbreak on the Company s business and the duration for which it may
+have an impact cannot be determined at this time. 
+
+Critical
+Accounting Policies 
+
+Our
+discussion and analysis of our financial condition and results of operations are based on our consolidated financial statements,
+which have been prepared in accordance with U.S. generally accepted accounting principles. The preparation of these financial
+statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses.
+We evaluate, on an on-going basis, our estimates for reasonableness as changes occur in our business environment. We base our
+estimates on experience, the use of independent third-party specialists and various other assumptions that are believed to be
+reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets
+and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different
+assumptions or conditions. 
+
+Critical
+accounting policies are defined as those that are reflective of significant judgments, estimates and uncertainties, and potentially
+result in materially different results under different assumptions and conditions. We believe the following are our critical accounting
+policies: 
+
+9 
+
+Basis
+of Presentation 
+
+Our
+consolidated financial statements are prepared in accordance with generally accepted accounting principles in the United States,
+or U.S. GAAP. 
+
+Going
+Concern 
+
+As
+shown in the accompanying financial statements, we have incurred a net loss of 60,961 during the fiscal year ended September
+30, 2021 and accumulated losses of 253,273 since inception at June 11, 1998. The Company s current assets exceed its current
+liabilities by 18,894 at September 30, 2021. The ability of the Company to continue as a going concern is dependent upon the
+success of raising additional capital through the issuance of common stock and the ability to generate sufficient operating revenue.
+The financial statements do not include any adjustments that might be necessary should the Company be unable to continue as a
+going concern. 
+
+New
+Accounting Standards 
+
+In
+July 2018, the FASB issued ASU 2018-10, Codification Improvements to Topic 842, Leases . The amendments in ASU 2018-10
+affect narrow aspects of the guidance issued in the amendments in ASU 2016-02 including those regarding residual value guarantees,
+rate implicit in the lease, lessee reassessment of lease classification, lessor reassessment of lease term and purchase option,
+variable lease payments that depend on an index or a rate, investment tax credits, lease term and purchase option, transition
+guidance for amounts previously recognized in business combinations, certain transition adjustments, transition guidance for leases
+previously classified as capital leases under Topic 840, transition guidance for modifications to leases previously classified
+as direct financing or sales-type leases under Topic 840, transition guidance for sale and leaseback transactions, impairment
+of net investment in the lease, unguaranteed residual asset, effect of initial direct costs on rate implicit in the lease, and
+failed sale and leaseback transactions. In July 2018, the FASB issued ASU 2018-11, Leases (Topic 842): Targeted Improvements .
+The amendments in ASU 2018-11 affect the guidance issued in ASU 2016-02, Leases (Topic 842) , which is not yet effective.
+The amendments provide entities with an additional (and optional) transition method to adopt the new leases standard. Under this
+new transition method, an entity initially applies the new leases standard at the adoption date and recognizes a cumulative-effect
+adjustment to the opening balance of retained earnings in the period of adoption. The amendments also provide lessors with a practical
+expedient to not separate non-lease components from the associated lease component and, instead, to account for those components
+as a single component in certain circumstances. In December 2018, the FASB issued ASU 2018-20, Leases (Topic 842) 
+Narrow-Scope Improvements for Lessors. ASU 2018-20 allow lessors to make an accounting policy election not to evaluate
+whether sales taxes and similar taxes imposed by a governmental authority on a specific lease revenue-producing transaction are
+the primary obligation of the lessor as owner of the underlying leased asset. The amendments also require a lessor to exclude
+lessor costs paid directly by a lessee to third parties on the lessor s behalf from variable payments and include lessor
+costs that are paid by the lessor and reimbursed by the lessee in the measurement of variable lease revenue and the associated
+expense. In addition, the amendments clarify that when lessors allocate variable payments to lease and non-lease components, they
+are required to follow the recognition guidance in the new lease standard for the lease component and other applicable guidance,
+such as the new revenue standard, for the non-lease component. For entities that early adopted Topic 842, the amendments are effective
+upon issuance of ASU 2018-10, AUS 2018-11and ASU 2018-20, and the transition requirements are the same as those in Topic 842.
+For entities that have not adopted Topic 842, the effective date and transition requirements will be the same as the effective
+date and transition requirements in Topic 842. 
+
+In
+January 2017, the FASB issued ASU 2017-03, Accounting Changes and Error Corrections (Topic 250) and Investments - Equity
+Method and Joint Ventures (Topic 323) . This pronouncement amends the SEC s reporting requirements for public filers
+regarding new accounting pronouncements or existing pronouncements that have not yet been adopted. Companies are to provide qualitative
+disclosures if they have not yet implemented an accounting standards update. Companies should disclose if they are unable to estimate
+the impact of a specific pronouncement, and provide disclosures including a description of the effect on accounting policies that
+the registrant expects to apply. These provisions apply to all pronouncements that have not yet been implemented by registrants.
+There are additional provisions that relate to corrections to several other prior FASB pronouncements. The Company has incorporated
+language into other recently issued accounting pronouncement notes, where relevant for the corrections in FASB ASU 2017-03. The
+Company has implemented the updated SEC requirements on not yet adopted accounting pronouncements with these consolidated financial
+statements. There was no material impact to the financial statements. 
+
+10 
+
+In
+August 2018, the FASB issued ASU 2018-13, Fair Value Measurement (Topic 820), Disclosure Framework Changes
+to the Disclosure Requirements for Fair Value Measurement, which makes a number of changes meant to add, modify or remove
+certain disclosure requirements associated with the movement amongst or hierarchy associated with Level 1, Level 2 and Level 3
+fair value measurements. The amendments in this Update modify the disclosure requirements on fair value measurements based on
+the concepts in FASB Concepts Statement, Conceptual Framework for Financial Reporting Chapter 8: Notes to Financial Statements,
+including the consideration of costs and benefits. The amendments on changes in unrealized gains and losses, the range and weighted
+average of significant unobservable inputs used to develop Level 3 fair value measurements, and the narrative description of measurement
+uncertainty should be applied prospectively for only the most recent interim or annual period presented in the initial fiscal
+year of adoption. All other amendments should be applied retrospectively to all periods presented upon their effective date. The
+amendments are effective for all entities for fiscal years beginning after December 15, 2019, and interim periods within those
+fiscal years, with early adoption permitted. The Company has implemented the new accounting guidance. There was no material impact
+to the financial statements. 
+
+The
+Company believes that there were no other accounting standards recently issued that had or are expected to have a material impact
+on our financial position or results of operations. 
+
+Results
+of Operations 
+
+The
+Company is a development stage company and has had operations only starting with the fourth quarter of its fiscal year ended September
+30, 2019. Prior to this time the Company was a shell company with no business activities. 
+
+Revenues
+- Related Party 
+
+The
+Company generated 0 in revenues for the year ended September 30, 2021. The Company generated 3,700 in revenues - related party
+for the year ended September 30, 2020. Total revenue related party decreased from 3,700 for the year ended September
+30, 2020 to 0 for the year ended September 30, 2021. 
+
+Costs
+of Goods Sold. 
+
+The
+Company has no cost of goods sold. 
+
+Operating
+Expenses 
+
+General
+and Administrative Expenses 
+
+General
+and administrative expenses for the year ended September 30, 2021 were 60,961, as compared to 31,938 for the year ended September
+30, 2020, an approximately 91 increase. 
+
+During
+the financial year ended September 30, 2021 and 2020, the Company expensed 0 and 3,182, respectively, in utilities and other
+office expenses to a company, Doer s Knowledge Management Pte Ltd, whose CEO was also a director and shareholder of the
+company. At September 30, 2021 and 2020, 7,116 and 7,214, respectively, was owed from this company and is included in other
+receivable related party in the accompanying consolidated balance sheets. 
+
+As
+a result of the foregoing factors, the Company had a net loss of 60,961 for the year ended September 30, 2021, as compared to
+ 28,137 for the year ended September 30, 2020. 
+
+Liquidity
+and Capital Resources 
+
+As
+of September 30, 2021, the Company had minimal current assets of 18,894 to fund its operations. There is no liabilities for the
+year ended 30 September 2021 and 2020. 
+
+As
+of September 30, 2020, the Company had minimal current assets of 13,329 to fund its operations. 
+
+11 
+
+ITEM
+ 7A. 
+ QUANTITATIVE
+ AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+Not
+applicable. 
+
+ITEM
+ 8. 
+ FINANCIAL STATEMENTS
+ AND SUPPLEMENTARY DATA. 
+
+The
+full text of our audited financial statements begins on page F-1 of this annual report. 
+
+ITEM
+ 9. 
+ CHANGES IN AND
+ DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+
+None. 
+
+ITEM
+ 9A. 
+ CONTROLS AND
+ PROCEDURES. 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+We
+maintain disclosure controls and procedures (as defined in Rule 13a-15I under the Exchange Act). Disclosure controls and procedures
+refer to controls and other procedures designed to ensure that information required to be disclosed in the reports we file or
+submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and
+forms of the SEC and that such information is accumulated and communicated to our management, including our chief executive officer
+and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure. 
+
+As
+required by Rule 13a-15(e) of the Exchange Act, our management has carried out an evaluation, with the participation and under
+the supervision of our principal executive and financial officer, of the effectiveness of the design and operation of our disclosure
+controls and procedures, as of September 30, 2021. Based upon, and as of the date of, this evaluation, and considering the minimum
+level of our operations, our principal executive and financial officer determined that our disclosure controls and procedures
+were effective. 
+
+Management s
+Annual Report on Internal Control over Financial Reporting 
+
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting for the Company.
+Internal control over financial reporting refers to the process designed by, or under the supervision of, Mr. Wei-Hsien Lin, our
+principal executive officer and principal financial and accounting officer, and effected by our Board, management and other personnel,
+to provide reasonable assurance regarding the reliability of our financial reporting and the preparation of financial statements
+for external purposes in accordance with U.S. generally accepted accounting principles, and includes those policies and procedures
+that: 
+
+(1) 
+ pertain to the maintenance
+ of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of our assets;	 
+
+(2) 
+ provide reasonable
+ assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with U.S.
+ generally accepted accounting principles, and that our receipts and expenditures are being made only in accordance with the
+ authorization of our management and directors; and 
+
+(3) 
+ provide reasonable
+ assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could
+ have a material effect on the financial statements. 
+
+Our
+management evaluated the effectiveness of our internal control over financial reporting as of September 30, 2021. In making this
+evaluation, management used the framework established in Internal Control - Integrated Framework issued by the Committee of Sponsoring
+Organizations of the Treadway Commission, or COSO. The COSO framework summarizes each of the components of a company s internal
+control system, including (i) the control environment, (ii) risk assessment, (iii) control activities, (iv) information and communication,
+and (v) monitoring. Based on our evaluation and considering the limited nature of business through September 30, 2021, we determined
+that, as of September 30, 2021, our internal control over financial reporting was effective. 
+
+12 
+
+All
+internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to
+be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. Also, projections
+of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes
+in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Changes
+in Internal Controls over Financial Reporting 
+
+We
+regularly review our system of internal control over financial reporting and make changes to our processes and systems to improve
+controls and increase efficiency, while ensuring that we maintain an effective internal control environment. Changes may include
+such activities as implementing new, more efficient systems, consolidating activities, and migrating processes. 
+
+There
+have been no changes in our internal control over financial reporting during the fourth quarter of fiscal year 2021 that have
+materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+ITEM
+ 9B. 
+ OTHER INFORMATION. 
+
+None. 
+
+13 
+
+PART
+III 
+
+ITEM
+ 10. 
+ DIRECTORS, EXECUTIVE
+ OFFICERS AND CORPORATE GOVERNANCE. 
+
+Directors
+and Executive Officers 
+
+The
+following sets forth information about our directors and executive officers: 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Wei-Hsien
+ Lin 
+ 
+ 57 
+ 
+ President, Treasurer,
+ Secretary, and Director 
+ 
+ Yu-Jo
+ Liao 
+ 
+ 57 
+ 
+ Director 
+ 
+ Chi-Yin
+ Lee 
+ 
+ 54 
+ 
+ Director 
+
+Wei-Hsien
+Lin . Wei-Hsien Lin has served as our sole director and President, Treasurer, and Secretary of the Company since August
+29, 2018. Mr. Lin has also served as the sole officer and director of Doers Education Asean Limited, a publicly traded company
+whose common stock is registered under Section 12(g) of the Exchange Act, since 2016. Since 2016, Mr. Lin has also served as the
+executive chairman and CEO of Doers Education Group in Taiwan. In 2012, Mr. Lin founded Doers Commercial Model Consulting Co.
+Ltd., a Taiwan based company engaged in the business of training, management consulting and Incubator related matters, and he
+has been the CEO and Chairman of that company since its founding. Mr. Lin has a successful career in business training and publishing
+and speaking. He is the founder of the Chinese version of international courses including BSE (The Accelerated Business
+School of Entrepreneurs , Money and You and Winning for Life. He was honored with Top
+10 Chinese International Speaker Award in 2016 by the International Professional Training Business Society, Asia s
+Top 10 Corporate Trainer in 2016 by HKXW Newspaper and The Best Chinese Speaker of the Year in 2007 by Learning
+Mode China Century Success Forum. Throughout his career, Mr. Lin has been very active in charitable activities. He was an originator
+of the successful 30 Hour Famine for World Vision in 1990 and Reserve Purest Land for Tzu Chi Foundation
+in 1991 which he worked for King Car Education Foundation. He has worked extensively in disaster relief efforts and fundraising
+throughout China. 
+
+Yu-Jo
+Liao . Yu-Jo Liao graduated from Chinese Cultural University of Taiwan in 1989. She has a degree in Public and Communication
+Media. Ms. Liao was appointed as General Manager in Doer s Knowledge Management Group (Shanghai) Pte Ltd, a corporation
+incorporated in China Doer s Knowledge Management Group ), in 2013. Doer s Knowledge Management Group
+is mainly in operation for training, providing seminars, educational and motivational courses. Ms. Liao has vast experience in
+managing Doer s Knowledge Management Group which has over 200 staff. Ms. Liao oversees all staff, budgets and operations
+of all business units and is responsible for formulating overall strategy and establishing policies. Ms. Liao is also actively
+involved in providing internal training and is a well-known speaker for many local and international corporations. The Board believes
+that it is in the best interests of the Company to appoint Ms. Yu-Jo Liao to the Board because of her extensive experience in
+managing a corporation with more than 200 staff and her management skill expertise. 
+
+Chi-Yin
+Lee . Chi-Yin Lee graduated from Shih Chien University of Taiwan in 1991 where she majored
+in Accounting and Statistics. Ms. Lee was appointed as Administrative Manager in Doers Commercial Model
+Consulting Co., Ltd., a corporation incorporated in Taiwan, in 2008. Ms. Lee was then promoted as General
+Manager of the Company in 2017. The Company is mainly in the business of providing training and seminars,
+educational and motivational courses, event management and incubation of start-ups and new entrepreneurs. Ms. Lee s
+main responsibilities are managing and overseeing all staff, finance and budgets and day-to-day operations.
+Ms. Lee is also responsible for formulating overall strategy and establishing policies. The Board believes
+that it is the best interests of the Company to appoint Ms. Chi- Yin Lee to the Board because of her experience and expertise
+in business management and financial operations management. 
+
+Directors
+are elected until their successors are duly elected and qualified. 
+
+There
+are no arrangements or understandings known to us pursuant to which any director was or is to be selected as a director or nominee.
+There are no agreements or understandings for any of our executive officers or directors to resign at the request of another person
+and no officer or director is acting on behalf of nor will any of them act at the direction of any other person. 
+
+Except
+as set forth in our discussion below in Item 13 Certain Relationships and Related Transactions, and Director Independence Transactions
+with Related Persons, none of our directors, director nominees or executive officers has been involved in any transactions
+with us or any of our directors, executive officers, affiliates or associates which are required to be disclosed pursuant to the
+rules and regulations of the SEC. 
+
+Family
+Relationships 
+
+There
+are no family relationships among any of our officers or directors. 
+
+14 
+
+Involvement
+in Certain Legal Proceedings 
+
+To
+the best of our knowledge, except as described below, none of our directors or executive officers has, during the past ten years: 
+
+been convicted in
+ a criminal proceeding or been subject to a pending criminal proceeding (excluding traffic violations and other minor offences); 
+
+had any bankruptcy
+ petition filed by or against the business or property of the person, or of any partnership, corporation or business association
+ of which he was a general partner or executive officer, either at the time of the bankruptcy filing or within two years prior
+ to that time; 
+
+been subject to
+ any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction or
+ federal or state authority, permanently or temporarily enjoining, barring, suspending or otherwise limiting, his involvement
+ in any type of business, securities, futures, commodities, investment, banking, savings and loan, or insurance activities,
+ or to be associated with persons engaged in any such activity; 
+
+been found by a
+ court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading
+ Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended,
+ or vacated; 
+
+been the subject
+ of, or a party to, any federal or state judicial or administrative order, judgment, decree, or finding, not subsequently reversed,
+ suspended or vacated (not including any settlement of a civil proceeding among private litigants), relating to an alleged
+ violation of any federal or state securities or commodities law or regulation, any law or regulation respecting financial
+ institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement
+ or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or
+ any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+
+been the subject
+ of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization
+ (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section
+ 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization
+ that has disciplinary authority over its members or persons associated with a member. 
+
+Section
+16(a) Beneficial Ownership Reporting Compliance 
+
+Section
+16(a) of the Exchange Act requires our directors and executive officers and beneficial holders of more than 10 of our common
+stock to file with the SEC initial reports of ownership and reports of changes in ownership of our equity securities. We believe,
+based solely on a review of the copies of such reports furnished to us, that all reports required to be filed have been timely
+filed for the year ended September 30, 2021. 
+
+Code
+of Ethics 
+
+We
+have adopted a code of ethics that applies to all of our directors, officers and employees, including our principal executive
+officer, principal financial officer and principal accounting officer. Such code of ethics addresses, among other things, honesty
+and ethical conduct, conflicts of interest, compliance with laws, regulations and policies, including disclosure requirements
+under the federal securities laws, and reporting of violations of the code. 
+
+We
+are required to disclose any amendment to, or waiver from, a provision of our code of ethics applicable to our principal executive
+officer, principal financial officer, principal accounting officer, controller, or persons performing similar functions. We intend
+to use our website as a method of disseminating this disclosure, as permitted by applicable SEC rules. Any such disclosure will
+be posted to our website within four business days following the date of any such amendment to, or waiver from, a provision of
+our code of ethics. 
+
+Material
+Changes to Director Nomination Procedures 
+
+There
+have been no material changes to the procedures by which stockholders may recommend nominees to our board of directors since such
+procedures were last disclosed. 
+
+15 
+
+Audit
+Committee and Audit Committee Financial Expert 
+
+We
+do not have an audit committee or an audit committee financial expert serving on the audit committee. Our entire Board currently
+is responsible for the functions that would otherwise be handled by an audit committee. However, we intend to establish an audit
+committee when we have sufficient resources and business activity to warrant the establishment of an audit committee. We envision
+that the audit committee will be primarily responsible for reviewing the services performed by our independent auditors, evaluating
+our accounting policies and our system of internal controls. Upon the establishment of an audit committee, the board will determine
+whether any of the directors qualify as an audit committee financial expert. 
+
+ITEM
+ 11. 
+ EXECUTIVE COMPENSATION. 
+
+No
+salaries or other compensation were paid in cash, or otherwise, to any officers or directors for services performed during the
+years ended September 30, 2021 and 2020. We have no employment agreements with our officers. For the years ended September 30,
+2021 and 2020, no director or executive officer has received compensation from us pursuant to any compensatory or benefit plan.
+There was no plan or understanding, express or implied, to pay any compensation to any director or executive officer pursuant
+to any compensatory or benefit plan. 
+
+The
+Company does not plan to pay any executive officer or director any compensation during the fiscal year ending September 30, 2021. 
+
+ITEM
+ 12. 
+ SECURITY OWNERSHIP
+ OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+
+Security
+Ownership of Certain Beneficial Owners and Management 
+
+The
+following table sets forth information regarding beneficial ownership of our common stock as of December 17, 2021 by (i) each
+of our officers and directors; (ii) all of our officers and directors as a group; and (iii) each person who is known by us to
+beneficially own more than 5 of our common stock. Unless otherwise specified, the address of each of the persons set forth below
+is in care of the Company, 6F., No.516, Sec. 1, Neihu Road, Neihu District., Taipei City 114, Taiwan. 
+
+Name
+ and Address of Beneficial Owner 
+ 
+ Title
+ of Class 
+ 
+ Amount
+ and Nature of Beneficial Ownership (1) 
+
+Percent
+ of 
+ Class (2) 
+
+Wei-Hsien
+ Lin, President, Treasurer, Secretary and Director 
+ 
+ Common
+ Stock 
+
+329,005,000 
+
+73 
+
+Chi-Yin
+ Lee 
+ 
+ Common Stock 
+
+20,000 
+
+Yu-Jo
+ Liao 
+ 
+ Common Stock 
+
+20,000 
+
+All
+ officers and directors as a group (3 persons named above) 
+ 
+ Common Stock 
+
+329,045,000 
+
+73 
+
+Less
+ than 1 
+
+(1) 
+ Beneficial
+ Ownership is determined in accordance with the rules of the SEC and generally includes voting or investment power with respect
+ to securities. Each of the beneficial owners listed above has direct ownership of and sole voting power and investment power
+ with respect to the shares of our common stock. 
+
+(2) 
+ A total
+ of 449,626,500 shares of common stock are considered to be outstanding pursuant to SEC Rule 13d-3(d)(1) as of December 17,
+ 2021. For each beneficial owner above, any options exercisable within 60 days have been included in the numerator and denominator
+ for that owner only. 
+
+Changes
+in Control 
+
+We
+do not currently have any arrangements which if consummated may result in a change of control of the Company. 
+
+Securities
+Authorized for Issuance Under Equity Compensation Plans 
+
+We
+do not have any compensation plans in effect under which our equity securities are authorized for issuance. 
+
+16 
+
+ITEM
+13. CERTAIN
+ RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+
+Transactions
+with Related Persons 
+
+The
+following includes a summary of transactions since the beginning of our 2017 fiscal year, or any currently proposed transaction,
+in which we were or are to be a participant and the amount involved exceeded or exceeds the lesser of 120,000 or one percent
+of the average of our total assets at yearend for the last two completed fiscal years, and in which any related person had or
+will have a direct or indirect material interest (other than compensation described under Item 11. Executive Compensation ). 
+
+On August 29, 2018,
+ the Company entered into and closed the transactions contemplated by a stock purchase agreement between the Company, Wei-Hsien
+ Lin, and Susan Santage, the sole director, President, Treasurer, Secretary and controlling stockholder of the Company at such
+ time. Pursuant to the stock purchase agreement, Mr. Lin purchased 1,690,000 shares of the Company s common stock from
+ Ms. Santage for 325,000, or 0.19231 per share. Such shares represented approximately 67.5 of the Company s issued
+ and outstanding common stock as of the closing. Accordingly, as a result of the transaction, Mr. Lin became the controlling
+ stockholder of the Company. 
+
+During the years
+ ended September 30, 2021 and 2020, the Company s sole source of revenue was 0 and 3,700 from a consulting project
+ with another Company owned and controlled by its largest stockholder, officer and director. The revenue was for consulting
+ for seminar event held in a hotel room. The total amount earned is an account receivable at year end and remains uncollected
+ as of the audit date. 
+
+Director
+Independence 
+
+We
+currently do not have any independent directors, as the term independent is defined by the rules of the Nasdaq Stock
+Market. 
+
+17 
+
+ITEM
+ 14. 
+ PRINCIPAL ACCOUNTING
+ FEES AND SERVICES. 
+
+Independent
+Auditors Fees 
+
+On
+April 12, 2021, AJ Robbins CPA LLC resigned as the independent registered public accounting firm of the Company effectively immediately.
+On the same day, upon the approval of its sole director, the Company engaged Gries and Associates, LLC as its new independent
+registered public accounting firm to audit review the Company s financial statement effective immediately. See the Company s
+Current Report on Form 8-K filed with the SEC on May 7, 2021 for more information. 
+
+The
+following is a summary of the fees billed to the company for professional services rendered for the years ended September 30,
+2021 and 2020. 
+
+Year
+ Ended 
+ September 30, 
+
+2021 
+ 2020 
+ 
+ Audit
+ Fees 
+ 9,000 
+ 9,000 
+ 
+ Audit-Related
+ Fees 
+ - 
+ - 
+ 
+ Tax
+ Fees 
+ - 
+ - 
+ 
+ All
+ Other Fees 
+ - 
+ - 
+ 
+ TOTAL 
+ 9,000 
+ 9,000 
+
+Audit
+Fees consisted of fees billed for professional services rendered by the principal accountant for the audit of our annual
+financial statements and review of the financial statements included in our Form 10-K and 10-Q or services that are normally provided
+by the accountant in connection with statutory and regulatory filings or engagements. 
+
+Audit-Related
+Fees consisted of fees billed for assurance and related services by the principal accountant that were reasonably related
+to the performance of the audit or review of our financial statements and are not reported under the paragraph captioned Audit
+Fees above. 
+
+Tax
+Fees consisted of fees billed for professional services rendered by the principal accountant for tax returns preparation. 
+
+All
+Other Fees consisted of fees billed for products and services provided by the principal accountant, other than the services
+reported above under other captions of this Item 14. 
+
+Pre-Approval
+Policies and Procedures 
+
+Under
+the Sarbanes-Oxley Act of 2002, all audit and non-audit services performed by our auditors must be approved in advance by our
+board of directors to assure that such services do not impair the auditors independence from us. In accordance with its
+policies and procedures, our board of directors pre-approved the audit service performed by Gries and Associates, LLC for our
+financial statements as of and for the year ended September 30, 2021. 
+
+18 
+
+PART
+IV 
+
+(10)
+ a) List of Documents Filed as a Part of This Report: 
+
+(1) 
+ Index to Financial
+ Statements: 
+
+Report
+ of Independent Registered Public Accounting Firm 
+ 
+ F-1 
+
+Consolidated
+ Balance Sheets as of September 30, 2021 and 2020 
+ 
+ F-4 
+
+Consolidated
+ Statements of Operations for the Years Ended September 30, 2021 and 2020 
+ 
+ F-5 
+
+Consolidated
+ Statements of Stockholders Equity for the Years Ended September 30, 2021 and 2020 
+ 
+ F-6 
+
+Consolidated
+ Statements of Cash Flows for the Years Ended September 30, 2021 and 2020 
+ 
+ F-7 
+
+Notes
+ to Financial Statements 
+ 
+ F-8 
+
+(2) 
+ Index to Financial
+ Statement Schedules: 
+
+All
+schedules have been omitted because the required information is included in the financial statements or the notes thereto, or
+because it is not required. 
+
+(3) 
+ Index to Exhibits: 
+
+See
+exhibits listed under Part (b) below. 
+
+(b) Exhibits: 
+
+Exhibit
+ No. 
+ 
+ Description 
+ 
+ 3.1 
+ 
+ Amended
+ and Restated Articles of Incorporation of the Company (incorporated by reference to Exhibit 3.1 to the Company s Quarterly
+ Report on Form 10-Q filed on February 14, 2019) 
+ 
+ 3.2 
+ 
+ Bylaws
+ of the Company (incorporated by reference to Exhibit 3(ii) to the Company s Registration Statement on Form 10SB filed
+ on February 20, 2001) 
+ 
+ 10.1 
+ 
+ Stock
+ Purchase Agreement, dated as of August 29, 2018, among Susan Santage, Wei-Hsien Lin and the Company (incorporated by
+ reference to Exhibit 10.1 to the Company s Current Report on Form 8-K filed on August 30, 2018) 
+ 
+ 10.2 
+ 
+ Cancellation
+ Agreement, dated as of September 30, 2019 by and between the Company and Mr. Wei-Hsien Lin (incorporated by reference to Exhibit
+ 10.2 to the Company s Annual Report on Form 10-K filed on January 14, 2020) 
+ 
+ 14.1 
+ 
+ Code
+ of Ethics and Business Conduct (incorporated by reference to Exhibit 14.1 to the Company s Current Report on Form 8-K
+ filed on November 13, 2018) 
+ 
+ 21.1 
+ 
+ Subsidiaries
+ of the Registrant (incorporated by reference to Exhibit 21.1 to the Company s Annual Report on Form 10-K filed on January
+ 14, 2020) 
+ 
+ 31.1/31.2 
+ 
+ Certifications
+ of Principal Executive Officer and Principal Financial and Accounting Officer Pursuant to Section 302 of the Sarbanes-Oxley
+ Act of 2002 
+ 
+ 32.1/32.2 
+ 
+ Certification
+ of Principal Executive Officer and Principal Financial and Accounting Officer Pursuant to Section 906 of the Sarbanes-Oxley
+ Act of 2002 
+
+101.INS 
+ 
+ Inline XBRL Instance Document. 
+ 
+ 101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document. 
+ 
+ 101.CAL 
+ 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document. 
+ 
+ 101.DEF 
+ 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document. 
+ 
+ 101.LAB 
+ 
+ Inline XBRL Taxonomy Extension Label Linkbase Document. 
+ 
+ 101.PRE 
+ 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document. 
+ 
+ 104 
+ 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+
+Filed
+ herewith 
+
+ITEM
+ 16. FORM
+ 10-K SUMMARY. 
+
+None. 
+
+19 
+
+Gries
+ Associates, LLC 
+ Certified
+ Public Accountants 
+ 400
+ South Colorado Blvd, Ste 870 
+ Denver,
+ Colorado 80246 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and Stockholders 
+Yummies, Inc. 
+
+Report
+on the Financial Statements 
+
+We
+have audited the accompanying balance sheets of Yummies, Inc. (the Company), which comprise the balance sheet as of September
+30, 2021, and the related statement of Operations, Changes in Stockholder s Equity, and Cash Flows for the year then ended,
+and the related notes to the financial statements. 
+
+Management s
+Responsibility for the Financial Statements 
+
+Management
+is responsible for the preparation and fair presentation of these financial statements in accordance with accounting principles
+generally accepted in the United States of America; this includes the design, implementation, and maintenance of internal control
+relevant to the preparation and fair presentation of financial statements that are free from material misstatement, whether due
+to fraud or error. 
+
+Auditor s
+Responsibility 
+
+Our
+responsibility is to express an opinion on these financial statements based on our audit. We conducted our audit in accordance
+with auditing standards generally accepted in the United States of America. Those standards require that we plan and perform the
+audit to obtain reasonable assurance about whether the financial statements are free from material misstatements. 
+
+An
+audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial statements. The
+procedures selected depend on the auditor s judgment, including the assessment of the risks of material misstatement of
+the financial statements, whether due to fraud or error. In making those risk assessments, the auditor considers internal control
+relevant to the entity s preparation and fair presentation of the financial statements in order to design audit procedures
+that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity s
+internal control. Accordingly, we express no such opinion. An audit also includes evaluating the appropriateness of accounting
+policies used and the reasonableness of significant accounting estimates made by management, as well as evaluating the overall
+presentation of the financial statements. We believe that the audit evidence we have obtained is sufficient and appropriate to
+provide a basis for our audit opinion. 
+
+Emphasis of Matter Regarding Going Concern 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As described
+in Note 6 to the financial statements, the Company has not generated any revenues since inception and sustained a net loss of
+ 60,961 for the year under audit and has accumulated losses of 253,273. These factors, among others, raise substantial doubt
+about the Company s ability to continue as a going concern. Management s plans in regard to these matters are also
+described in Note 6. The financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+Our opinion is not modified with respect to this matter. 
+
+blaze@griesandassociates.com 
+
+400
+South Colorado Blvd, Suite 870, Denver, Colorado 80246 
+
+(O)720-464-2875
+(M)773-255-5631 (F)720-222-5846 
+
+F- 1 
+
+Gries
+ Associates, LLC 
+ Certified
+ Public Accountants 
+ 400
+ South Colorado Blvd, Ste 870 
+ Denver,
+ Colorado 80246 
+
+Opinion 
+
+In
+our opinion, the financial statements referred to above present fairly, in all material respects, the financial position of Yummies,
+Inc., as of September 30, 2021, and the results of its operations and its cash flows for the year then ended in accordance with
+accounting principles generally accepted in the United States of America. 
+
+Emphasis
+of Matters-Risks and Uncertainties 
+
+The
+Company is not able to predict the ultimate impact that COVID -19 will have on its business. However, if the current economic
+conditions continue, the pandemic could have an adverse impact on the economies and financial markets of many countries, including
+the geographical area in which the Company plans to operate. 
+
+We
+have served as the Company s auditor since 2021. 
+
+Denver,
+Colorado 
+
+November
+18, 2021 
+
+blaze@griesandassociates.com 
+
+400
+South Colorado Blvd, Suite 870, Denver, Colorado 80246 
+
+(O)720-464-2875
+(M)773-255-5631 (F)720-222-5846 
+
+F- 2 
+
+AJ
+ Robbins CPA, LLC 
+ Certified
+ Public Accountants 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and Stockholders 
+Yummies, Inc. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheets of Yummies, Inc. (the Company) as of September 30, 2020 and 2019 and
+the related consolidated statements of operations, stockholders equity and cash flows for each of the years in the periods
+then ended and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements
+present fairly, in all material respects, the financial position of the Company as of September 30, 2020 and 2019, and the results
+of its operations and its cash flows for the years then ended in conformity with accounting principles generally accepted in the
+United States of America. 
+
+Going
+concern uncertainty 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed
+in note 7 to the financial statements, The Company incurred net loss of 28,137 during the year ended September 30, 2020 and has
+accumulated losses of 192,312. The Company s current assets exceed its current liabilities by 13,329 at September 30,
+2020. These factors create an uncertainty as to the Company s ability to continue as a going concern. Management s
+plans in regard to these matters are also described in note 7. The financial statements do not include any adjustments that might
+result from the outcome of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on
+the Company s financial statements based on our audit. We are a public accounting firm registered with the Public Company
+Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance
+with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the
+PCAOB. 
+
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error
+or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial
+reporting. As part of our audit, we are required to obtain an understanding of internal control over financial reporting, but
+not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting.
+Accordingly, we express no such opinion. 
+
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to
+error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles
+used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements.
+We believe that our audits provide a reasonable basis for our opinion. 
+
+We
+have served as the Company s auditor since 2019. 
+
+Denver,
+Colorado 
+
+December
+8, 2020 
+
+aj@ajrobbins.com 
+
+400
+South Colorado Blvd, Suite 870, Denver, Colorado 80246 
+
+(B)303-537-5898
+(M)720-339-5566 (F)303-586-6261 
+
+F- 3 
+
+YUMMIES,
+INC. 
+
+CONSOLIDATED
+BALANCE SHEETS 
+
+SEPTEMBER
+30, 2021 AND 2020 
+
+2021 
+ 2020 
+ 
+ Assets 
+
+Current
+ Assets: 
+
+Cash
+ and Bank 
+
+Other
+ receivables 
+
+Other
+ receivables related party 
+
+Total
+ current assets 
+
+Total
+ Assets 
+
+Liabilities
+ and Stockholders Equity 
+
+Current
+ Liabilities: 
+
+Notes
+ payable, stockholders 
+ -- 
+ 
+ -- 
+
+Total
+ current liabilities 
+ -- 
+ 
+ -- 
+
+Commitments
+ and Contingencies 
+
+Stockholders 
+ Equity: 
+
+Preferred stock par value, shares authorized, - - and - - issued and outstanding 
+ -- 
+ 
+ -- 
+
+Common stock, par value, shares authorized, and issued and outstanding 
+
+Additional
+ paid-in capital 
+
+Accumulated
+ deficit 
+
+Total
+ Stockholders Equity 
+
+Total
+ Liabilities and Stockholders Equity 
+
+The
+accompanying notes are an integral part of the financial statements. 
+
+F- 4 
+
+YUMMIES,
+INC. 
+
+CONSOLIDATED
+STATEMENTS OF OPERATIONS 
+
+YEARS
+ENDED SEPTEMBER 30, 2021 AND 2020 
+
+Year
+ Ended 
+ Year
+ Ended 
+
+September 30, 
+ September 30, 
+
+2021 
+ 2020 
+ 
+ Revenues
+ related party 
+ -- 
+
+Expenses,
+ general and administrative 
+
+Operating
+ loss 
+
+Other
+ income (expense): 
+
+Interest
+ income / (expense) 
+ -- 
+
+Income
+ (loss) before provision for income taxes 
+
+Provision
+ for income taxes 
+ -- 
+ 
+ -- 
+
+Net
+ loss 
+
+Net
+ loss per share 
+
+Weighted
+ average shares outstanding 
+
+The
+accompanying notes are an integral part of the financial statements. 
+
+F- 5 
+
+YUMMIES,
+INC. 
+
+CONSOLIDATED
+STATEMENTS OF STOCKHOLDERS EQUITY 
+
+YEARS
+ENDED SEPTEMBER 30, 2021 AND 2020 
+
+Additional 
+
+Common
+ Stock 
+ Paid-in 
+ Accumulated 
+
+Shares 
+ Amount 
+ Capital 
+ Deficit 
+ 
+ Balance,
+ September 30, 2019 
+
+Contribution
+ by shareholder for company expenses paid directly by shareholder 
+ -- 
+ -- 
+
+-- 
+
+Net
+ loss for the year ended September 30, 2019 
+ -- 
+ -- 
+ 
+ -- 
+
+Addition
+ paid in capital 
+
+-- 
+ 
+ -- 
+
+Balance,
+ September 30, 2020 
+
+Contribution
+ by shareholder for company expenses paid directly by shareholder 
+ -- 
+ -- 
+
+-- 
+
+Net
+ loss for the year ended September 30, 2021 
+ -- 
+ -- 
+ 
+ -- 
+
+Additional
+ paid in capital 
+ -- 
+ -- 
+ 
+ -- 
+ 
+ -- 
+
+Balance,
+ September 30, 2021 
+
+The
+accompanying notes are an integral part of the financial statements. 
+
+F- 6 
+
+YUMMIES,
+INC. 
+
+CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+YEARS
+ENDED SEPTEMBER 30, 2021 AND 2020 
+
+Year
+ Ended 
+ Year
+ Ended 
+
+September 30, 
+ September 30, 
+
+2021 
+ 2020 
+ 
+ Cash
+ flows from operating activities: 
+
+Net
+ loss 
+
+Adjustments
+ to reconcile net loss to cash provided by operating activities: 
+
+Increase
+ in other receivables 
+
+Decrease
+ in accounts payable 
+ -- 
+
+Net
+ cash used by operating activities 
+
+Cash
+ flows from financing activities: 
+
+Issuance
+ (repayment) of note payable 
+ -- 
+ 
+ -- 
+
+Issuance
+ of common stock 
+ -- 
+
+Contribution
+ from shareholder 
+
+Net
+ cash generated from financing activities 
+
+Net
+ (decrease) / increase in cash 
+
+Cash,
+ beginning of period 
+
+Cash,
+ end of period 
+
+Supplemental
+ disclosure of cash flow information: 
+
+Interest
+ paid 
+ -- 
+ 
+ -- 
+
+Income
+ taxes paid 
+ -- 
+ 
+ -- 
+
+Note
+ payable and interest payable forgiven by stockholders 
+ -- 
+ 
+ -- 
+
+Interest
+ payable forgiven by transfer agent 
+ -- 
+ 
+ -- 
+
+The
+accompanying notes are an integral part of the financial statements. 
+
+F- 7 
+
+YUMMIES,
+INC. 
+
+NOTES
+TO FINANCIAL STATEMENTS 
+
+F- 8 
+
+F- 9 
+
+and from a consulting project with another Company owned and controlled by its largest stockholder, officer and director. The revenue was for consulting for seminar event held in a hotel room. The total amount earned is an account receivable at year end and remains uncollected as of the audit date. 
+
+shares to shares and the par value was changed from to per share. The change
+has been reflected retroactively in the accompanying financial statements. In addition, the Company authorized the issuance of
+ shares of preferred stock having a par value of per share. As of September 30, 2020, no preferred shares have
+been issued. 
+
+shares of its common stock at
+a price of per share for an aggregate price of . Issuance costs of were offset against additional paid
+in capital in the accompanying financial statements. 
+
+shares of its . par value common stock for an aggregate price of . 
+
+shares of its . par value common stock for an aggregate price of . 
+
+State
+ income taxes 
+ -- 
+ 
+ -- 
+
+Deferred
+ Benefit from net operating loss 
+ -- 
+ 
+ -- 
+
+-- 
+
+F- 10 
+
+State
+ minimum tax 
+ -- 
+ 
+ -- 
+
+Valuation
+ allowance 
+ -- 
+
+Tax
+ Provision 
+ -- 
+ 
+ -- 
+
+that may be offset against future federal income taxes. If not used, 
+
+during the fiscal year ended September
+30, 2021 and accumulated losses of since inception at June 11, 1998. The Company s current assets exceed its current
+liabilities by at September 30, 2021. The ability of the Company to continue as a going concern is dependent upon the
+success of raising additional capital through the issuance of common stock and the ability to generate sufficient operating revenue.
+The financial statements do not include any adjustments that might be necessary should the Company be unable to continue as a
+going concern. 
+
+F- 11 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Date:
+ December 23, 2021 
+ YUMMIES,
+ INC. 
+
+/s/
+ Wei-Hsien Lin 
+
+Name:
+ 
+ Wei-Hsien
+ Lin 
+
+Title: 
+ President 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf
+of the registrant and in the capacities and on the dates indicated. 
+
+Signature
+
+Title
+
+Date
+
+/s/
+ Wei-Hsien Lin 
+ 
+ President,
+ Treasurer, Secretary and Director 
+ 
+ December 23, 2021 
+ 
+ Wei-Hsien
+ Lin 
+ 
+ (Principal
+ Executive Officer and Principal Financial and Accounting Officer) 
+
+/s/
+ Chi-Yin Lee 
+ 
+ Director 
+ 
+ December 23, 2021 
+ 
+ Chi-Yin
+ Lee 
+
+/s/
+ Yu-Jo Liao 
+ 
+ Director 
+ 
+ December 23, 2021 
+ 
+ Yu-Jo
+ Liao 
+
+20 
+
+<EX-31>
+ 2
+ f10k2021ex31_yummiesinc.htm
+ CERTIFICATION
+
+EXHIBIT 31.1/31.2 
+
+CERTIFICATIONS 
+
+I, Wei-Hsien Lin, certify that: 
+
+1. 
+ I have reviewed this annual report on Form 10-K of Yummies, Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: December 23, 2021 
+
+/s/ Wei-Hsien Lin 
+
+Wei-Hsien Lin 
+
+President 
+
+(Principal Executive Officer and Principal Financial
+and Accounting Officer) 
+
+</EX-31>
+
+<EX-32>
+ 3
+ f10k2021ex32_yummiesinc.htm
+ CERTIFICATION
+
+EXHIBIT
+32.1/32.2 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350 
+
+ AS ADOPTED PURSUANT TO SECTION 906 
+OF THE SARBANES-OXLEY ACT OF 2002 
+
+The undersigned, Wei-Hsien Lin,
+the President of YUMMIES, INC. (the Company ), DOES HEREBY CERTIFY that: 
+
+1. The
+Company s Annual Report on Form 10-K for the fiscal year ended September 30, 2021 (the Report ), fully complies with
+the requirements of Section 13(a) of the Securities Exchange Act of 1934; and 
+
+2. Information
+contained in the Report fairly presents, in all material respects, the financial condition and results of operation of the Company. 
+
+IN WITNESS WHEREOF, the undersigned
+has executed this statement this 23th day of December, 2021. 
+
+/s/ Wei-Hsien Lin 
+
+Wei-Hsien Lin 
+
+President 
+
+(Principal Executive Officer and 
+
+Principal Financial and Accounting Officer) 
+
+A signed original of this written statement required
+by Section 906 has been provided to Yummies, Inc. and will be retained by Yummies, Inc. and furnished to the Securities and Exchange Commission
+or its staff upon request. 
+
+</EX-32>
+
+<EX-101.SCH>
+ 8
+ yumm-20210930.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ yumm-20210930_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ yumm-20210930_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ yumm-20210930_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ yumm-20210930_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

@@ -1,0 +1,3957 @@
+<Header>
+<FileStats>
+    <FileName>20211013_10-K_edgar_data_1376793_0001683168-21-004823.txt</FileName>
+    <GrossFileSize>3124001</GrossFileSize>
+    <NetFileSize>146462</NetFileSize>
+    <NonText_DocumentType_Chars>219534</NonText_DocumentType_Chars>
+    <HTML_Chars>926078</HTML_Chars>
+    <XBRL_Chars>928228</XBRL_Chars>
+    <XML_Chars>784894</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-21-004823.hdr.sgml : 20211013
+<ACCEPTANCE-DATETIME>20211013171800
+ACCESSION NUMBER:		0001683168-21-004823
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		61
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20211013
+DATE AS OF CHANGE:		20211013
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cavitation Technologies, Inc.
+		CENTRAL INDEX KEY:			0001376793
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE SERVICES [0700]
+		IRS NUMBER:				204907818
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53239
+		FILM NUMBER:		211321906
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10019 CANOGA AVENUE
+		CITY:			CHATSWORTH,
+		STATE:			CA
+		ZIP:			91311
+		BUSINESS PHONE:		818-718-0905
+
+	MAIL ADDRESS:	
+		STREET 1:		10019 CANOGA AVENUE
+		CITY:			CHATSWORTH,
+		STATE:			CA
+		ZIP:			91311
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bioenergy Inc.
+		DATE OF NAME CHANGE:	20060927
+
+</SEC-Header>
+</Header>
+
+ 0001683168-21-004823.txt : 20211013
+
+10-K
+ 1
+ cavitation_10k-063021.htm
+ ANNUAL REPORT
+
+Table of Contents 
+
+ UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+
+FORM 10-K 
+
+(Mark One) 
+
+x 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934. FROM THE TRANSITION PERIOD FROM _____ TO _______. 
+
+For the fiscal year ended June 30, 2021 
+
+Commission file number 000-53239 
+
+Cavitation Technologies,
+Inc. 
+
+ (Exact name of Registrant as Specified in its
+Charter) 
+
+Nevada 
+ 
+ 20-4907818 
+ 
+ (State or Other Jurisdiction of Incorporation or Organization) 
+ 
+ (I.R.S. Employer Identification No.) 
+
+10019 CANOGA AVENUE, CHATSWORTH, CALIFORNIA 
+91311 
+ (Address, including Zip Code, of Principal Executive Offices) 
+
+(818) 718-0905 
+ (Registrant s Telephone Number, Including Area Code) 
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b)
+OF THE ACT: 
+
+NONE 
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(g)
+OF THE ACT: 
+
+Title of Each Class: 
+ 
+ Name of Each Exchange on Which Registered: 
+ 
+ Common Stock, 0.001 par value 
+ 
+ Over the Counter (Bulletin Board) 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act. YES NO x 
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. YES NO x 
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter
+period that the registrant was required to file reports), and (2) has been subject to such filing requirements for the past 90 days. YES x NO 
+
+Indicate by check mark whether the registrant has submitted electronically
+every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during
+the preceding 12 months (or for such shorter period that the registrant was required to submit such files). YES x NO 
+
+Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive
+proxy or information statements incorporated by reference in Part III of this Form 10-K, or any amendment to this Form 10-K. 
+
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See definitions of large
+accelerated filer, accelerated filer , smaller reporting company and emerging growth company 
+in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large accelerated filer 
+ Accelerated filer 
+ Non-accelerated filer x 
+ Smaller reporting company x 
+
+Emerging growth company 
+
+If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. Yes No 
+
+Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Act). YES NO x 
+
+State the aggregate market value of the voting and non-voting common
+equity held by non-affiliates of the registrant by reference to the price at which the common equity was last sold, or of the average
+bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal
+quarter: 3,761,000 as of December 31, 2020 based on the closing price of 0.02 per share and 188,060,406 non-affiliate shares outstanding. 
+
+The registrant had 220,339,229 shares of common stock outstanding on
+October 5, 2021. 
+
+DOCUMENTS INCORPORATED BY REFERENCE: 
+
+None 
+
+CAVITATION TECHNOLOGIES, INC. 
+
+ FORM 10-K ANNUAL REPORT 
+
+ FOR THE YEAR ENDED JUNE 30, 2021 
+
+ TABLE OF CONTENTS 
+
+Page 
+ 
+ PART I 
+
+Item 1. Business 
+ 3 
+ 
+ Item 1A. Risk Factors 
+ 9 
+ 
+ Item 1B. Unresolved Staff Comments 
+ 9 
+ 
+ Item 2. Properties 
+ 10 
+ 
+ Item 3. Legal Proceedings 
+ 10 
+ 
+ Item 4. Mine Safety Disclosures 
+ 10 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 11 
+ 
+ Item 6. Selected Financial Data 
+ 12 
+ 
+ Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 12 
+ 
+ Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 16 
+ 
+ Item 8. Financial Statements and Supplementary Data 
+ 17 
+ 
+ Item 9. Changes In and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 37 
+ 
+ Item 9A. Controls and Procedures 
+ 37 
+ 
+ Item 9B. Other Information 
+ 38 
+
+PART III 
+
+Item 10. Directors, Executive Officers and Corporate Governance 
+ 39 
+ 
+ Item 11. Executive Compensation 
+ 40 
+ 
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 42 
+ 
+ Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ 43 
+ 
+ Item 14. Principal Accounting Fees and Services 
+ 44 
+
+PART IV 
+
+Item 15. Exhibits, Financial Statement Schedules 
+ 45 
+ 
+ Item 16. Form 10-K Summary 
+ 46 
+
+Signatures 
+ 47 
+
+1 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This annual report on Form 10-K and the exhibits
+attached hereto contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of
+1995. Such forward-looking statements concern our anticipated results and developments in our operations in future periods, planned exploration
+and development of our properties, plans related to our business and matters that may occur in the future. These statements relate to
+analyses and other information that are based on forecasts of future results, estimates of amounts not yet determinable and assumptions
+of management. We use words like expects, believes, intends, anticipates, plans, 
+ targets, projects or estimates in this annual report. When used, these words and other, similar
+words and phrases or statements that an event, action or result will, may, could, or should 
+result, occur, be taken or be achieved, identify forward-looking statements. Such forward-looking statements are subject
+to certain risks and uncertainties, both known and unknown, and assumptions. 
+
+Management has included projections and estimates
+in this annual report, which are based primarily on management s experience in the industry, assessments of our results of operations,
+discussions and negotiations with third parties and a review of information filed by our competitors with the Securities and Exchange
+Commission or otherwise publicly available. We caution readers not to place undue reliance on any such forward-looking statements, which
+speak only as of the date made. We disclaim any obligation subsequently to revise any forward-looking statements to reflect events or
+circumstances after the date of such statements or to reflect the occurrence of anticipated or unanticipated events, except as required
+by law. We qualify all of the forward-looking statements contained in this annual report by the foregoing cautionary statements. 
+
+2 
+
+PART I 
+
+ITEM 1. BUSINESS 
+
+Cavitation Technologies, Inc. (referred to herein,
+unless otherwise indicated, as the Company, CTi, we, us, and our is a Nevada corporation originally incorporated under the name Bio Energy, Inc. We are a process and product development firm that has
+developed, patented, and commercialized environmentally friendly technology-based systems that are designed to serve large, growing, global
+markets such as vegetable oil refining, renewable fuels, water treatment, wines and spirits enhancement, algae oil extraction, water-oil
+emulsions and crude oil yield improvement.Our systems are designed to process industrial liquids at a reduced processing time,
+lower operating cost, improved yield while operating in environmentally friendly manner. Our patented Nano Reactor and LPN 
+are the critical components of our business and we have generated all of our revenue while utilizing these components. 
+
+Covid-19 
+
+In March 2020, the World Health Organization declared
+coronavirus COVID-19 a global pandemic. This contagious disease outbreak, which has continued to spread, has adversely affected workforces,
+customers, economies, and financial markets globally. It has also disrupted the normal operations of many businesses. This outbreak could
+decrease spending, adversely affect demand for the Company s products, and harm the Company s business and results of operations.
+During the year ended June 30, 2021, the Company believes the COVID-19 pandemic did not materially impact its operating results due to
+the nature of the Company s business and its operations. The Company has not observed any impairments of its assets or a significant
+change in the fair value of its assets due to the COVID-19 pandemic. At this time, it is not possible for the Company to predict the duration
+or magnitude of the adverse results of the outbreak and its effects on the Company s business or results of operations, financial
+condition, or liquidity. 
+
+Vegetable Oil Refining 
+
+Our first commercial application for our technology
+has been the CTi Nano Neutralization System which has been utilized to improve edible vegetable oil refining process. Our
+environmentally friendly process has been shown to reduce refining costs, increase oil yield, and limit the number of chemical additives
+used in chemical refining of vegetables oils. This patented process (US Patent # 7,762,715 and # 8,042,989) is designed to be incorporated
+into new and existing soybean, rapeseed, canola and palm vegetable oil refineries. 
+
+Our first pilot test of our CTi NANO Neutralization 
+System was conducted in 2010 at Carolina Soya, a 200-metric ton/day crude soy oil refining plant in Estill, South Carolina. Our second
+system, which became operational in fiscal 2011, has been continuously utilized since 2011 at the plant that processes approximately 450
+metric tons per day of soy oil. Further, we have successfully shipped over 50 systems domestically and internationally. We also continuously
+focus on developing additional Nano Reactor applications and managing the intellectual property issues associated with new
+processes and applications. 
+
+The global consumption of vegetable oils has grown
+consistently at a rate of about 4.1 p.a. from 90.5 million metric tons (MMT) in 2001 to approximately 214 million metric tons (MMT) in
+2020-2021. In 2021-2020 consumption of vegetable oil was 214 MMT compared to 209 MMT in 2019-2020, an increase of 2.4 . (https://www.statista.com/statistics/263937/vegetable-oils-global-consumption/).
+It is also a highly competitive commodity market in which the lowest-cost producer has the advantage. 
+
+Desmet Ballestra Agreement 
+
+On May 14, 2012, we signed a global R D,
+Marketing and Technology License Agreement with Desmet Ballestra Group s.a. (Desmet), a Belgian company that is actively marketing
+the NANO Neutralization System, the key component of which is our Nano Reactor to soybean and other vegetable
+oil refiners. The Agreement provided Desmet (licensee) a limited, exclusive license and right to develop, design and supply our NANO
+Neutralization System which incorporates Nano Reactor devices on a global basis tools and fats and oleo chemical
+applications. The agreement expired in May 2015. 
+
+3 
+
+On January 22, 2016, the agreement was renewed
+and we signed a similar three-year agreement with Desmet effective August 1, 2015, that expired on August 1, 2018. As part of the agreement,
+Desmet was to provide, under certain conditions, limited monthly advance payments of 50,000 to be applied against gross profit share
+from future sales. 
+
+On October 1, 2018, Desmet and the Company executed
+a new three year License Agreement with essentially the same terms with the January 2016 agreement. As part of the agreement, Desmet provided
+us monthly advances of 50,000 through October 1, 2021, to be applied against gross profit share from future sales. The agreement expired
+on October 1, 2021, and Desmet and CTi are currently working on similar three year global marketing and sales agreement. The Company anticipates
+the signing of a new agreement on or before December 31, 2021. 
+
+Desmet, together with its affiliates, is a global
+engineering and equipment supply firm engaged in the development, design and supply of process equipment for oils and fats processing
+facilities including vegetable oil refining, biofuel, oleo chemical, seed crushing, surfactant and detergent markets. Desmet supplies
+these markets with services based on the latest globally sourced technologies. Desmet has relationships with major refiners globally
+A significant portion of global vegetable oil refineries include major refiners such as Archer Daniels Midland Company, Cargill, Inc.
+and Bunge Limited. Desmet has more than 40 sales representatives selling in North America, South America, Europe, and Asia. Since its
+founding in 1946, Desmet reports that it has built a global network that includes 1,300 employees, 17 global and 8 representative offices,
+and more than 6,000 lines in a variety of applications. Desmet operates a separate division for each of the above markets and the Desmet
+Oils Fats division has supplied small and large plants to approximately 1,900 oil millers in 150 countries, covering over 6,300
+process sections. 
+
+Along with Desmet, we have been working together
+to accelerate appropriate sales goals and installation process. Our CTi Nano Neutralization Systems is designed to be used
+as an add-on process to an existing neutralization system within soybean and other vegetable oil refineries. Desmet s focus has
+been on marketing our CTi Nano Neutralization Systems to vegetable oil refiners to help them increase profits through cost
+savings and improved oil yields. Desmet purchases our CTi Nano Neutralization Systems from us and installs them at the refinery
+as part of an integrated neutralization system. Based on successful commercial implementations, Desmet guarantees minimum economic benefits
+to a facility that installs our CTi Nano Neutralization Systems . We are therefore substantially dependent on Desmet to identify
+prospects, complete sales contracts, install the system and manage relationships with end-users. 
+
+Additionally, in fiscal 2017 Desmet installed
+our first Nano Reactor at a bio-diesel production plant in South America. Bio-diesel industry has been under pricing pressure
+for a considerable period of time and slow to adopt to newer technologies. We are continuously working with Desmet pursuing additional
+sales opportunities in Asia and South America, however, the acceptance of our technology has been slow and there were no sales generated
+in our Fiscal 2021. 
+
+GEA Westfalia Agreement 
+
+In August
+2012, we entered into a Technology and Licensing Agreement with the GEA Group AG - Westfalia Separator Group GEA pursuant
+to which the companies agreed to jointly develop and patent new applications of our core technologies. As part of the Agreement, GEA Westfalia
+was to assemble a complete commercial test system comprising Nano Reactors . This Agreement was terminated in January 2017. 
+
+In January
+2017 we have entered into a new three-year global technology license, R D and marketing agreement with GEA that expired on January
+1, 2020, covering our patented Nano Reactors technology, processes and applications. Under this agreement, GEA was granted
+a worldwide exclusive license to integrate our patented technology into water treatment application, milk and juice pasteurization, and
+certain food related processes. The license agreement between us and GEA had a three-year term and provided for the payment of 300,000
+per year in advanced license fees to us. The Company had received approximately 877,000 in advances from GEA under this agreement. Our
+agreement with GEA expired on January 1, 2020 and was not renewed. As a result of the termination of the agreement with GEA, we recognized
+approximately 877,000 in revenue during the year ended June 30, 2020 to account for advances we received since January 2017 that was
+previously recorded as advances from distributors. 
+
+4 
+
+Enviro Watertek, LLC 
+
+In April 2019, we have entered into a licensing
+and service contract agreement with Enviro Watertek, LLC EW ). This agreement covers our first commercial entrance into
+industrial treatment of produced and frac water. Fracking industry has seen a significant growth over the past ten years, reaching daily
+water consumption volume of over 58 million barrels per day. Our newly designed Low Pressure Nano Reactor LPN was specifically developed to be integrated into produced water treatment system along with our proprietary chemical formulations, and
+has depicted measurable and quantifiable advantages over industry standard processes and equipment. Our agreement with EW provides for
+sales on LPN plus recurring revenue stream based on processing of produced
+and frac water volumes and utilization. Our agreement with EW has a fifteen-year term. We sold our first LPN 
+system in the third quarter of our fiscal 2019, while generating additional LPN sales
+and recurring revenue in our fiscal 2020. In March 2020, global pandemic of COVID-19 has taken an unexpected negative impact on the oil
+and gas industry worldwide, and has consequently impaired our ability to rapidly accelerate LPN 
+sales and recurring revenue stream. While the industry has gone through a major overhaul, we are seeing a gradual recovery in the industry.
+Our current system installations can handle approximately 25,000 barrels per day (BPD) and we anticipate an increased capacity coming
+on line in our Fiscal 2022. 
+
+Alchemy Beverages, Inc 
+
+In fiscal 2014, Roman Gordon, one of our shareholders
+and a former officer, formed a company, Cameo USA LLC (Cameo). Since its formation, Cameo has had no revenue, no operations, and has had
+no assets or liabilities. On June 4, 2018, Mr. Gordon contributed his 100 interest in Cameo to Cavitation Technologies, Inc. As Mr. Gordon
+had no reasonable and objectively supportable basis in the valuation of his investment in Cameo, there was no value assigned to the contribution
+of Cameo. 
+
+On June 29, 2018, we agreed to license Cameo to
+Alchemy Beverages Inc. ABI ). In addition, we have agreed to provide certain licensing rights related to our miniature low
+pressure nano-reactor (MLPN) to be used in developing and manufacturing of small home appliances to enhance alcoholic beverages. In consideration
+for these ABI has agreed to issue 19.9 of ABI s outstanding common shares to us (limited to 20 million shares of ABI). ABI is a
+private company and in the business of producing and selling alcoholic beverages, equipment, and home appliances. Prior to this agreement,
+ABI was independent of CTI and had no relation to us nor to our management. 
+
+Pursuant to the licensing agreements, ABI will
+have the exclusive global marketing and distribution rights of Cameo and our patented and patent pending technologies for the processing
+of alcoholic beverages. We have agreed to assist in the installation and maintenance of the MLPN to ABI and will receive royalty payments
+ranging from 1 to 3 on all net revenues, as defined in our license agreement for the life of the applicable patents. In addition, we
+will receive leasing, consulting, and manufacturing fees as defined in the licensing agreement. 
+
+To date, ABI hasn t generated any sales
+under Cameo brand. Since June 2018, the Company and ABI have developed a small table top home appliance unit Barmuze utilizing MLPN
+, allowing consumers to experience a new way of enjoying wines and spirits, utilizing CTi s patented and patent pending technologies
+to molecularly restructure alcohol, convert harsh acids to pleasant tasting esters, and reduce levels of certain impurities commonly present
+in alcohol. 
+
+On February 26, 2019, we have filed an application
+with U.S. Patent office, U.S. Patent Application No. 16/286,309 SYSTEM AND METHOD
+FOR PURIFICATION OF DRINKING WATER, ETHANOL AND ALCOHOL BEVERAGES OF IMPURITIES and on October 24, 2018, U.S. Patent Application
+No. 16/169,644 METHOD AND DEVICE FOR PRODUCING OF HIGH QUALITY ALCOHOLIC BEVERAGES . 
+
+During fiscal 2021, we have received approval
+for several patent applications, protecting our technology and processing rights, meanwhile expanding our broad portfolio of patents. 
+
+5 
+
+During fiscals 2021 and 2020, there were no sales
+or royalties generated pertaining to our agreement with Alchemy Beverages, Inc. The investment in ABI has no value assigned to it, which
+approximates its fair value. 
+
+Customers Dependence 
+
+We continue to sell our industrial capacity Nano
+Reactor and Nano Neutralization System through our strategic partner Desmet and most of our revenue for the fiscal
+year ended June 30, 2021, was derived from sales of reactors to Desmet and the corresponding gross profit share. We have generated minimal
+revenue pertaining to our licensing agreement with EW in our fiscal 2021. We had no sales of LPN 
+due to COVID-19 that has significantly impacted oil production in US. Meanwhile, we are starting to see oil and gas industry early stage
+recovery and foresee a great opportunity for our technology providing a significant upside potential both at the point of sale and recurring
+revenue stream. 
+
+Sources and availability of raw materials and
+the names of principal suppliers 
+
+We have historically sourced reactor components
+from various domestic and international suppliers. We do not have any long-term contracts, agreements, or commitments with any supplier.
+We believe it would take approximately 30 days to find a new supplier, if necessary. 
+
+Competition 
+
+Our competitors who sell equipment and engineering
+services for the vegetable oil refining business are a myriad of companies both large and small that provide equipment and technology
+to oil refiners. These include known companies that have longer operating histories, more experience, and stronger financial capabilities.
+Competitors include Alfa Laval, and Crown Iron Works as well as many firms that provide advice and services to small and regional firms.
+In addition, Arisdyne Systems, a designer of cavitation devices, is marketing a system using similar technology. The vegetable oil refining
+business is a highly competitive commodity market in which the lowest-cost producer has the advantage. We intend to compete by offering
+solutions that help our clients remain or become a low-cost producer. Because the industry in which we compete has had limited new technology
+introduced in the last 50 years, we believe our CTi Nano Neutralization Systems provide a unique opportunity for refiners
+to increase margins. We seek to differentiate ourselves by offering solutions based on our proprietary and patented designs, processes,
+and applications to help our clients described in our issued and patent pending applications. We compete by offering solutions that we
+believe can reduce operating expenses and increase oil yield vs currently applied technologies. 
+
+In addition, our competitors in produced and
+frac water treatment application range from local service providers to multi-national global corporations with considerable financial
+resources, engineering expertise, established and proven technologies. We believe that LPN 
+is a conceptually new technology that has not been introduced in the field of water treatment applications up to now. LPN 
+has demonstrated exceptional results in treating produced and frac water commercially, significantly reducing the usage of hazards chemicals
+during the process, meanwhile, achieving desirable water quality for industrial re-use or disposal. 
+
+Patents 
+
+Our Cavitation Generator patent was issued during
+fiscal 2011. In addition, we have a patent for our Multi-Stage Cavitation Device Nano Reactor that was issued on October 25,
+2011. In the fiscal 2014 we received approvals for another apparatus patent and 2 additional process patents in the US. As of June 30,
+2021, our portfolio of patents included 19 issued patents in the United States and 12 issued patents internationally. Our patents cover
+multiple process and applications of our technology in vegetable oil refining, production of biodiesel, treatment of process and industrial
+water, upgrade of hydrocarbons and enhancing of alcoholic beverages. We continuously develop new technologies and applications, as we
+have filed new patent applications for Low Pressure Nano-Reactors LPN . LPN 
+is a highly efficient homogenizer and emulsifier that can be utilized in multiple fluids processing applications. Recently, we have filed
+a patent application for a small home appliance. This new product is designed directly with consumer in mind and the first step for our
+company to introduce our technology outside of the industrial sector where we typically sell our products. 
+
+6 
+
+Issued 
+
+US 
+ 
+ Cavitation Generator 
+ 
+ 7,762,715 
+
+US 
+ 
+ Multi-Stage Cavitation Device 
+ 
+ 8,042,989 
+
+US 
+ 
+ Process for Producing Biodiesel Through Lower Molecular Weight Alcohol-Targeted Cavitation 
+ 
+ 8,603,198 
+
+US 
+ 
+ High-Throughput Cavitation and Electro Coagulation Apparatus 
+ 
+ 8,673,129 
+
+US 
+ 
+ Extraction of Oil from Algae by Hydrodynamic Cavitation for Biodiesel Production 
+ 
+ 8,709,750 
+
+US 
+ 
+ Flow-Through Cavitation-Assisted Rapid Modification of Crude Oil 
+ 
+ 8,894,273 
+
+US 
+ 
+ Method for Cavitation-Assisted Refining, Degumming and Dewaxing of Oil and Fat 
+ 
+ 8,911,808 
+
+US 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+ 
+ 8,945,644 
+
+US 
+ 
+ Process for Producing Biodiesel Through Lower Molecular Weight Alcohol-Targeted Cavitation 
+ 
+ 8,981,135 
+
+US 
+ 
+ Process for Removing Waxes and Phospholipids from Vegetable Oils and Increasing Production of Food Grade Lecithin Therefrom 
+ 
+ 9,357,790 
+
+US 
+ 
+ Method and Flow Through Hydrodynamic Cavitational Apparatus for Alterations of Beverages 
+ 
+ 9,474,301 
+
+US 
+ 
+ Method for Cavitation-Assisted Refining, Degumming and Dewaxing of Oil and Fat 
+ 
+ 9,481,853 
+
+US 
+ 
+ Process for Extracting Carbohydrates from Biomass and Converting the Carbohydrates into Biofuels 
+ 
+ 9,611,496 
+
+US 
+ 
+ Flow-Through Cavitation-Assisted Rapid Modification of Crude Oil 
+ 
+ 9,719,025 
+
+US 
+ 
+ Processes for Increasing Bioalcohol Yield from Biomass 
+ 
+ 9,944,964 
+
+US 
+ 
+ Processes for Increasing Bioalcohol Yield from Biomass 
+
+9,988,651 
+
+US 
+
+Processes for Extracting Carbohydrates from
+Biomass and Converting the Carbohydrates into Biofuels 
+ 
+ 10.093.953 
+
+US 
+
+Variable Flow Through Cavitation Device 
+ 
+ 10,507,442 
+
+US 
+
+System and Method for Purification of Drinking
+Water, Ethanol and Alcohol Beverages of Impurities 
+ 
+ 10,781,113 
+
+Int l 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+ 
+ Ar AR083000B1 
+
+Int l 
+ 
+ Cavitation Generator 
+ 
+ Br - PI0919602-1 
+
+7 
+
+Int l 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+ 
+ Ca - 2,809,236 
+
+Int l 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+ 
+ Malaysia MY164311A 
+
+Int l 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+ 
+ Mexico MX/E/2013/015504 
+
+Int l 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+ 
+ Singapore P187241 
+
+Int l 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+ 
+ Mexico MX/a/2016/006201 
+
+Int l 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+ 
+ EU 10 857 392.4 
+
+Int l 
+ 
+ Method for Cavitation-Assisted Refining, Degumming and Dewaxing of Oil and Fat 
+ 
+ Br PI0919602-1 
+
+Int l 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+ 
+ Fr E 2 616 156 
+
+Int l 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+ 
+ Gr 2 616 156 
+
+Int l 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+ 
+ UK 2 616 156 
+
+Patent Pending 
+
+US 
+ 
+ Variable Flow Through Cavitation Device 
+
+US 
+
+System and Method for Purification of Drinking Water, Ethanol and Alcohol Beverages of Impurities 
+ 
+ US 
+ 
+ Method and Device for Producing of High Quality Alcoholic Beverages 
+
+US 
+ 
+ Tabletop Beverage Cavitation Device 
+
+US 
+ 
+ Method for Purification of Drinking Water, Ethanol and Alcohol Beverages of Impurities 
+
+US 
+ 
+ Process for Increasing Plant Protein Yield from Biomass 
+
+Br 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+
+Eu 
+ 
+ System and Method for Purification of Drinking Water, Ethanol and Alcohol Beverages of Impurities 
+
+Br 
+ 
+ Process to Remove Impurities from Triacylglycerol Oil 
+
+We plan on continuing to invest in research and
+development and file for new and improved patents. 
+
+8 
+
+Royalty Agreements 
+
+On July 1, 2008, our wholly owned subsidiary entered
+into Patent Assignment Agreements with two parties, our President as well as our former Chief Executive Officer (CEO) who currently serves
+as our Technology Senior Manager, where certain devices and methods involved in our hydrodynamic cavitation processes invented by the
+President and former CEO/current Technology Senior Manager have been assigned to the subsidiary. In exchange, that subsidiary
+agreed to pay a royalty of 5 of gross revenues to each of the President and former CEO/current Technology Senior Manager for licensing
+of the technology and leasing of the related equipment embodying the technology. These agreements were subsequently assumed by us on May
+13, 2010, from our subsidiary. Our former CEO/current Technology Senior Manager and President both waived their rights to receive
+royalty payments that have accrued, or that may accrue, on any gross revenue generated through June 30, 2021. 
+
+On April 30, 2008 and as amended on November 22,
+2010, our wholly owned subsidiary entered into an employment agreement with its former Director of Chemical and Analytical Department
+(the Inventor to pay, in the first year, an amount equal to 5 of actual gross revenue received by us on any patent for
+which the Inventor was a legally named inventor, and, in each subsequent year, 3 of actual gross revenue received by us on any such patent.
+Since entering into that employment agreement, and during the term of this employment agreement, we have not received any revenue on any
+patents for which the Inventor was a legally named inventor. 
+
+Governmental Approval and Regulations and Environmental
+Compliance 
+
+Due to the nature of our products, we have incurred
+no costs with respect to environmental compliance with federal, state, and local laws. To our knowledge, our products do not require governmental
+approval, and we do not foresee that governmental regulations will have a material impact on our business. 
+
+Employees 
+
+As of June 30, 2021, we had four full-time employees
+and had engaged several consultants and independent contractors over the past year. Members of our technical team are comprised of experienced
+professionals who are chemists, civil, chemical, and mechanical engineers with expertise in hydrodynamic cavitation, nano technology
+and water treatment. These individuals hold degrees in Civil, Chemical, and Mechanical Engineering. 
+
+Research and Development Expenditures 
+
+During the fiscal years ended June 30, 2021 and
+2020, we spent 21,000 and 18,000, respectively, on research and development activities. 
+
+ITEM 1A. RISK FACTORS 
+
+Not applicable for smaller reporting companies. 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+9 
+
+ITEM 2. PROPERTIES 
+
+Our corporate headquarter is located in Chatsworth,
+California, with an area of approximately 5,000 square foot facility, which includes office space and an area to conduct research and
+development. Our lease agreement for this space will end in February 2025. Our monthly rent payments approximate 6,000
+up to 7,000. We do not anticipate any material difficulties with the renewal of our rental agreement when it expires or in securing replacement
+facilities on commercially reasonable terms. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+The Company may be involved
+in certain legal proceedings that arise from time to time in the ordinary course of its business. Except for income tax contingencies
+(commencing April 1, 2009), the Company records accruals for contingencies to the extent that management concludes that the occurrence
+is probable and that the related amounts of loss can be reasonably estimated. Legal expenses associated with the contingency are expensed
+as incurred. 
+
+The Company is not aware
+of any pending litigations. 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+
+Not applicable. 
+
+10 
+
+PART II 
+
+ITEM 5. MARKET FOR REGISTRANT S
+COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+
+Common Stock 
+
+Our Common Stock is traded on the OTCQB Market
+under the symbol CVAT. The following table sets forth the high and low price per share based on the closing price of our Common Stock
+for the periods indicated. 
+
+HIGH 
+ LOW 
+
+Fiscal 2020 
+ First Quarter 
+ 0.04 
+ 0.02 
+
+Second Quarter 
+ 0.04 
+ 0.02 
+
+Third Quarter 
+ 0.04 
+ 0.02 
+
+Fourth Quarter 
+ 0.03 
+ 0.01 
+
+HIGH 
+ LOW 
+
+Fiscal 2021 
+ First Quarter 
+ 0.02 
+ 0.01 
+
+Second Quarter 
+ 0.02 
+ 0.01 
+
+Third Quarter 
+ 0.07 
+ 0.02 
+
+Fourth Quarter 
+ 0.08 
+ 0.04 
+
+Fiscal 2022 
+ First Quarter 
+ 0.11 
+ 0.05 
+
+We became a public company through a share exchange
+that was affected in October 2008. The first day of public trading of our stock was November 11, 2008. Since our fiscal year end was changed
+to June 30, public trading of our stock began in the second quarter of fiscal 2009. As of September 30, 2021, there were approximately
+1,500 holders of record of our Common Stock. This does not reflect the number of persons or entities who hold stock in nominee or street 
+name through various brokerage firms. The closing price of our common stock on October 5, 2021 was 0.080. 
+
+Dividend Policy 
+
+We have neither declared nor paid any dividends
+on our Common Stock in the preceding two fiscal years. We currently intend to retain future earnings, if any, to fund ongoing operations
+and finance the growth and development of our business and, therefore, do not anticipate declaring or paying cash dividends on our Common
+Stock for the foreseeable future. Any future decision to declare or pay dividends will be at the discretion of the Board of Directors
+and will be dependent upon our financial condition, results of operations, capital requirements, and such other factors as the Board of
+Directors deems relevant. 
+
+Securities Authorized for Issuance under Equity
+Compensation Plans 
+
+None. 
+
+11 
+
+Recent Sales of Equity Securities and Use
+of Proceeds 
+
+In June 2021, we issued 11,269,538 shares of
+common stock at a selling price of 0.065 per share and 11,269,538 of warrants, exercisable at 0.09 to various entities and individuals
+for net proceeds of 729,000. The shares were issued in reliance on Section 4(2) of the Securities Act of 1933, as amended. The shares
+were not offered via general solicitation to the public. No sales commissions or other remuneration was paid in connection with this
+issuance. 
+
+In July 2021, we issued 12,071,785 shares of
+common stock at a selling price of 0.065 per share and 12,071,785 of warrants, exercisable at 0.09 to various entities and individuals
+for net proceeds of 729,000. The shares were issued in reliance on Section 4(2) of the Securities Act of 1933, as amended. The shares
+were not offered via general solicitation to the public. No sales commissions or other remuneration was paid in connection with this
+issuance. 
+
+We did not sell any equity securities during
+the year ended June 30, 2020. 
+
+Issuer Purchases of Equity Securities 
+
+None. 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+
+Not applicable for smaller reporting companies. 
+
+ITEM 7. MANAGEMENT S DISCUSSION
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following discussion and analysis should
+be read in conjunction with our financial statements and the related notes. This discussion contains forward-looking statements based
+upon current expectations that involve risks and uncertainties, such as its plans, objectives, expectations and intentions. Its actual
+results and the timing of certain events could differ materially from those anticipated in these forward-looking statements. 
+
+Overview of Our Business 
+
+We are a Nevada corporation originally incorporated
+under the name Bio Energy, Inc. On January 29, 2007, we incorporated a wholly owned subsidiary, Hydrodynamic Technology, Inc. as a California
+corporation. 
+
+We have developed, patented, and commercialized
+proprietary technology that can be used for processing of various industrial and consumer-oriented fluids. Our patented Nano Reactor 
+ is the critical components of the CTi Nano Neutralization System which has been shown to reduce operating costs and increase
+yields in processing oils and fats. CTi holds and applied for numerous patents covering technology and various processes in US and Internationally,
+covering vegetable and crude oil refining, processed and frac water treatment, algae oil extraction, and alcoholic beverage enhancement.
+During our Fiscal 2021, we have continuously worked on developing additional technologies and products related to low pressure nano reactor LPN . LPN is designed
+to become a highly efficient mixer and homogenizer. We believe that LPN has
+a great commercial utilization opportunity by providing efficient and cost-effective solution in multiple fluid processing industries.
+ LPN has a number of advantages over current mechanically operated mixers and
+homogenizers. Industrial application of our technology in produced and frac water treatment system, LPN 
+along with our proprietary chemical formulations have depicted measurable and quantifiable advantages over industry standard processes
+and equipment. Additionally, our miniature low pressure nano reactor MLPN has become an integral part of Barmuze , a small
+home appliance device for enhancing taste and extracting unwanted impurities typically present in alcoholic beverages. 
+
+During the year ended June 30, 2021, we recorded
+revenue of 558,000 and net loss of 649,000, respectively. 
+
+12 
+
+Management s Plan of Operation 
+
+We are continuously engaged in manufacturing of
+our Nano Reactor and Nano Neutralization Systems which are designed to help refine vegetable oils such as soybean,
+canola and rapeseed. Additionally, we have developed LPN s that provide
+commercial opportunity in industrial water treatment, enhancement of alcoholic beverages, and MLPN being utilized in a consumer
+small home appliance. 
+
+During the year ended June 30, 2021, we incurred
+net loss of 649,000 and used cash in operating activities of 250,000. As of June 30, 2021, we have a working capital deficiency of 401,000
+and a stockholders deficit of 411,000. 
+
+Management s plan is to generate income
+from operations by licensing our technology globally through Desmet Ballestra Group (Desmet), agreements with EnviroWaterTek and Alchemy
+Beverages, Inc. In October 2018, we signed a three-year global R and D, Marketing and Technology License Agreement with Desmet
+for the sale and licensing of our Nano Reactor and Nano Neutralization Systems . This agreement is a continuation
+of the original agreement we signed with Desmet in May 2012. As part of the agreement, Desmet is also obligated to provide us with monthly
+advances of 50,000 to be applied against our share in gross profit from the sale of reactors. During the year ended June 30, 2021, advances
+received from Desmet amounted to 639,000, of which 104,000 was recorded as revenues. These funds service operational expenses on monthly
+basis. 
+
+Our agreement with Enviro WaterTek signed in March
+of 2019, has generated sales of LPN s and recurring revenue stream in our fiscal
+2021, resulting in aggregate revenue of 17,000 
+
+There was
+no revenue produced in relationship to our agreement with Alchemy Beverages, Inc. 
+
+We anticipate that we may need additional funding,
+and we may attempt to raise additional debt and/or equity financing to fund operations and to provide additional working capital. However,
+there is no assurance that such financing will be consummated or obtained in sufficient amounts necessary to meet our needs, or that we
+will be able to meet our future contractual obligations. Should management fail to obtain such financing, we may curtail its operations. 
+
+Critical Accounting Policies and Revenue Recognition 
+
+Our discussion and analysis of our financial condition
+and results of operations are based upon our consolidated financial statements which have been prepared in accordance with accounting
+principles generally accepted in the United States of America. The preparation of these consolidated financial statements requires management
+to make certain estimates and assumptions that affect the reported amounts of assets and liabilities and the reported amounts of revenues
+and expenses. The accounting policies and estimates described below are those we consider most critical in preparing its consolidated
+financial statements. The following is a review of the accounting policies and estimates that include significant judgments made by management
+using information available at the time the estimates are made. However, these estimates could change materially if different information
+or assumptions were used instead. 
+
+Note 1 of the accompanying consolidated financial
+statements includes a summary of significant accounting policies, estimates, and methods used in the preparation of our financial statements.
+Accounting estimates are an integral part of the preparation of financial statements and are based on judgments by management using its
+knowledge and experience about the past and current events and assumptions regarding future events, all of which we consider to be reasonable.
+These judgments and estimates reflect the effects of matters that are inherently uncertain and that affect the carrying value of our assets
+and liabilities, the disclosure of contingent liabilities and reported amounts of expenses during the reporting period. 
+
+13 
+
+Revenue Recognition 
+
+The Company follows the guidance of Accounting
+Standards Codification (ASC) 606, Revenue from Contracts with Customers . ASC 606 creates a five-step model that requires entities
+to exercise judgment when considering the terms of contracts, which includes (1) identifying the contracts or agreements with a customer,
+(2) identifying our performance obligations in the contract or agreement, (3) determining the transaction price, (4) allocating the transaction
+price to the separate performance obligations, and (5) recognizing revenue as each performance obligation is satisfied. The Company only
+applies the five-step model to contracts when it is probable that the Company will collect the consideration it is entitled to in exchange
+for the services it transfers to its clients. 
+
+Revenue from sale of our Nano Reactor 
+and LPN is recognized when products are shipped from our manufacturing facilities
+as this is our sole performance obligation under these contracts and we have no continuing obligation to the customer. 
+
+The Company also recognizes revenue from its share
+of gross profit to be earned from distributors, as defined, which we treat as variable consideration and recognize using the most likely
+amount method. Estimates are available from our distributor which are considered in the determination of the most likely amount. However,
+given the lack of control over the sale to the end customer and the lack of history of prior sales, the amount of gross profit revenue
+recognized is limited to the actual amount of cash received under the contract which the Company has determined is not refundable and
+that a significant future reversal of cumulative revenue under the contract will not occur. 
+
+In addition, the Company also recognizes revenues
+from usage fees of certain reactors. Usage fees are recognized based on actual usage by the customer. 
+
+Leases 
+
+The Company accounts for leases under guidance
+of Accounting Standards Codification ASC 842, which requires an entity to recognize a right-of-use asset and a lease liability
+for virtually all leases. Leases with an initial term of 12 months or less are not recorded on the balance sheet. The Company accounts
+for the lease and non-lease components of its office lease as a single lease component. Lease expense is recognized on a straight-line
+basis over the lease term. 
+
+Share-Based Compensation 
+
+The Company periodically issues stock options
+and warrants to employees and non-employees in non-capital raising transactions for services and for financing costs. The Company accounts
+for stock option and warrant grants issued and vesting to employees based on the authoritative guidance provided by the Financial Accounting
+Standards Board whereas the value of the award is measured on the date of grant and recognized over the vesting period. The Company accounts
+for stock option and warrant grants issued and vesting to non- employees in accordance with the authoritative guidance of the Financial
+Accounting Standards Board whereas the value of the stock compensation is based upon the measurement date as determined at either a) the
+date at which a performance commitment is reached, or b) at the date at which the necessary performance to earn the equity instruments
+is complete. Non-employee stock-based compensation charges generally are amortized over the vesting period on a straight-line basis. In
+certain circumstances where there are no future performance requirements by the non-employee, option grants are immediately vested and
+the total stock-based compensation charge is recorded in the period of the measurement date. 
+
+The fair value of the Company's common stock options
+and warrants grant is estimated using the Black-Scholes option pricing model, which uses certain assumptions related to risk-free interest
+rates, expected volatility, expected life of the common stock options, and future dividends. Compensation expense is recorded based upon
+the value derived from the Black-Scholes option pricing model and based on actual experience. The assumptions used in the Black-Scholes
+option pricing model could materially affect compensation expense recorded in future periods. 
+
+14 
+
+Recent Accounting Pronouncements 
+
+See Note 1 of the financial statements for discussion
+of recent accounting pronouncements. 
+
+Results of Operations 
+
+Below is summary comparing fiscal 2021 and fiscal
+2020. 
+
+For the Years Ended 
+
+June 30, 
+
+2021 
+
+2020 
+
+Change 
+
+Change 
+
+Revenue 
+
+558,000 
+
+1,663,000 
+
+(1,105,000) 
+
+(66) 
+ 
+ Cost of revenue 
+
+(20,000) 
+
+(40,000) 
+
+(20,000) 
+
+(50) 
+ 
+ Gross profit 
+
+538,000 
+
+1,623,000 
+
+(1,085,000) 
+
+(67) 
+
+General and administrative expenses 
+
+1,264,000 
+
+1,469,000 
+
+(205,000) 
+
+(14) 
+ 
+ Research and development expenses 
+
+21,000 
+
+18,000 
+
+3,000 
+
+17 
+
+Total operating expenses 
+
+1,285,000 
+
+1,487,000 
+
+(202,000) 
+
+(14) 
+
+Income (loss/) from operations 
+
+(747,000) 
+
+136,000 
+
+(883,000) 
+
+(649) 
+
+Loss on transfer of accrued payroll 
+
+(8,000) 
+
+8,000 
+
+(100) 
+ 
+ Gain on forgiveness of note payable 
+
+104,000 
+
+104,000 
+
+100 
+
+Interest expense 
+
+(6,000) 
+
+(6,000) 
+
+100 
+
+Net income (loss) 
+
+(649,000) 
+
+128,000 
+
+(777,000) 
+
+(607) 
+
+Revenue 
+
+During the year ended June 30, 2021, revenue decrease
+by 66 to 558,000 and it was derived from the sale of our Nano Reactor and CTi Nano Neutralization Systems to Desmet
+of 345,000 pursuant to 4 purchase orders received and corresponding share in gross profit in the aggregate of 301,000. In addition,
+the Company also recorded an aggregate revenue of 17,000 from the sale of LPN and water processing to Enviro Watertek,
+LLC. 
+
+During the year ended June 30, 2020, our revenue
+was 1,663,000 and it was derived from the sale of our Nano Reactor and CTi Nano Neutralization Systems to Desmet of
+ 427,000 pursuant to 6 purchase orders received and corresponding share in gross profit in the aggregate of 266,000. The Company also
+recorded an aggregate revenue of 42,000 from the sale of LPN and water processing usage fee to Enviro Watertek, LLC. In
+addition, we also recorded revenue of 887,000 to account for non-refundable fees received pursuant to our agreement with GEA that expired
+in December 2019. 
+
+Operating Expenses 
+
+Operating expenses for fiscal 2021 amounted to
+ 1,292,000 versus 1,487,000 in fiscal 2020, a decrease of 195,000 or 14 . The decrease in operating expenses was attributed to lower
+legal fees, office and stock compensation expense compared to fiscal 2020, and amendment of certain stock warrants issued in prior period.
+Non-cash expense items such as amortization and depreciation expense of 18,000, primarily amounted to a small proportion of operating
+expenses, with major expense categories being salaries and payroll taxes of approximately 629,000, legal and professional fees of approximately
+ 126,000, for travel, insurance and marketing services combined 156,000 Research and development (R D) expense was 21,000 compared
+to 18,000 the same as in the year ended June 30, 2020. 
+
+15 
+
+Operating expenses for fiscal 2020 amounted to
+ 1,487,000. Non-cash expense items such as amortization and depreciation expense of 41,000 among others, amounted to a small proportion
+of operating expenses, with major expense categories being salaries and payroll taxes of approximately 699,000, legal and professional
+fees of 97,000,000, travel, various insurance policies and marketing services were 167,000. 
+
+Research and development (R D) expense during
+the year ended June 30, 2021 was 21,000 compared to 18,000 during the year ended June 30, 2020. 
+
+Net Income (Loss) 
+
+Our reporting net loss in fiscal 2021 was 649,000
+compared to net income in fiscal 2020 of 128,000. 
+
+Liquidity and Capital Resources 
+
+Our cash balance at June 30, 2021 increased to
+ 1,363,000 compared to 759,000 at June 30, 2020. 
+
+For the year ended June 30, 2021 cash used in
+operating activities was 250,000, cash used in investing activities was 128,000, and cash generated from financing activities was 982,000. 
+
+For the year ended June 30, 2020 cash provided
+by operating activities was 56,000, cash used in investing activities was 50,000, and cash provided by financing activities was 104,000. 
+
+During the year ended June 30, 2021, we incurred
+a net loss of 649,000 and at June 30, 2021, we had a stockholder deficit of 411,000 and working capital deficiency of 401,000. These
+factors, among others, raise substantial doubt about our ability to continue as a going concern within one year of the date that the financial
+statements are issued. In addition, the Company s independent registered public accounting firm, in its report on our June 30, 2021
+financial statements, has raised substantial doubt about the Company s ability to continue as a going concern. The Company s
+financial statements do not include any adjustments that might result from the outcome of this uncertainty be necessary should we be unable
+to continue as a going concern. 
+
+Management s plan is to generate income
+from operations by continuing to license its technology globally. Additionally, we anticipate generating revenues from our agreements
+with EW and ABI. 
+
+We may also attempt to raise additional debt and/or
+equity financing to fund operations and to provide additional working capital. There is no assurance that such financing will be available
+in the future or obtained in sufficient amounts necessary to meet our needs, that we will be able to achieve profitable operations or
+that we will be able to meet our future contractual obligations. Should management fail to obtain such financing, we may curtail its operations. 
+
+Off-balance Sheet Arrangements 
+
+We have no off-balance sheet arrangements that
+have or are reasonably likely to have a current or future effect on its financial condition, revenues or expenses, results of operations,
+liquidity, capital expenditures or capital resources. 
+
+ITEM 7A. Quantitative and Qualitative
+Disclosures about Market Risk. 
+
+Not applicable for Smaller Reporting Companies. 
+
+16 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY
+DATA 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+To the Stockholders and Board of Directors 
+Cavitation Technologies, Inc. 
+Los Angeles, CA 
+
+Opinion on the Consolidated Financial
+Statements 
+
+We have audited the accompanying consolidated
+balance sheets of Cavitation Technologies, Inc. (the Company as of June 30, 2021 and 2020, the related consolidated statements
+of operations, changes in stockholders deficit, and cash flows for the years then ended, and the related notes (collectively referred
+to as the consolidated financial statements ). In our opinion, the consolidated financial statements present fairly, in all
+material respects, the financial position of the Company as of June 30, 2021 and 2020, and the results of their operations and their cash
+flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+
+Going Concern 
+
+The accompanying consolidated financial statements
+have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1, the Company has incurred recurring
+operating losses and used cash in operations since inception. These matters raise substantial doubt about the Company s ability
+to continue as a going concern. Management s plans in regard to these matters are also described in Note 1 to the financial statements.
+These consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These consolidated financial statements are the
+responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated financial
+statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United
+States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management,
+as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for
+our opinion. 
+
+17 
+
+Critical Audit Matter 
+
+The critical audit matter communicated below is
+a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated
+to the audit committee and that (1) relate to accounts or disclosures that are material to the financial statements and (2) involved especially
+challenging, subjective, or complex judgments. The communication of the critical audit matter does not alter in any way our opinion
+on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing
+separate opinion on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+Estimation of variable consideration 
+
+As described in Notes 1 and 2 to the consolidated
+financial statements, the Company receives a share of the gross profit earned by one of its distributors upon such distributors sale of
+products which include the Company's Nano Reactor and CTi Nano Neutralization System products. The Company's
+performance obligation related to the sale of its products is completed upon the shipment of the products to the distributor. Accordingly,
+at such time, the expected future share of gross profit to be earned from distributors is treated as variable consideration and recognized
+as revenue using the most likely amount method, subject to variable consideration constraints. 
+
+We identified management s estimation and
+valuation of variable consideration as a critical audit matter because of the significant judgement by management in estimating the Company s
+share of gross profit to be earned from distributors and the high degree of auditor judgment, subjectivity, and effort in performing audit
+procedures and evaluating the reasonableness of the significant assumptions used in developing the estimate. 
+
+Our primary audit procedures related to the estimation
+of variable consideration included the following, among others: 
+
+We evaluated the appropriateness of the Company s revenue recognition policy, including its compliance
+with applicable accounting standards. 
+ 
+ We tested the completeness, accuracy, and relevance of the underlying data used in management s estimates by testing recorded
+revenues to supporting documents. 
+ 
+ We evaluated the reasonableness of management's estimate of variable consideration in accordance with their accounting policies based
+on contractual terms and historical data and variable consideration estimates, including potential variable consideration constraints. 
+ 
+ We confirmed the Company s share of gross profit with the distributor. 
+
+We have served as the Company s auditor
+since 2013. 
+
+/s/ Weinberg Company, P.A. 
+
+Los Angeles, California 
+
+October 13, 2021 
+
+18 
+
+CAVITATION TECHNOLOGIES, INC. 
+CONSOLIDATED BALANCE SHEETS 
+
+June 30, 2021 
+ June 30, 2020 
+ 
+ ASSETS 
+
+Current assets: 
+
+Cash and cash equivalents 
+ 1,363,000 
+ 759,000 
+ 
+ Accounts receivable 
+ 6,000 
+ 104,000 
+ 
+ Inventory 
+ 25,000 
+ 47,000 
+ 
+ Total current assets 
+ 1,394,000 
+ 910,000 
+
+Property and equipment, net 
+ 182,000 
+ 76,000 
+ 
+ Operating lease right-of-use asset 
+ 245,000 
+ 308,000 
+ 
+ Other assets 
+ 10,000 
+ 10,000 
+ 
+ Total assets 
+ 1,831,000 
+ 1,304,000 
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT 
+
+Current liabilities: 
+
+Accounts payable and accrued expenses 
+ 342,000 
+ 316,000 
+ 
+ Accrued payroll and payroll taxes related parties 
+ 667,000 
+ 693,000 
+ 
+ Related party payable 
+ 1,000 
+ 1,000 
+ 
+ Operating lease liability, current portion 
+ 58,000 
+ 54,000 
+ 
+ Customer advances 
+ 727,000 
+ 368,000 
+ 
+ Total current liabilities 
+ 1,795,000 
+ 1,432,000 
+
+Notes payable, non-current 
+ 254,000 
+ 104,000 
+ 
+ Operating lease liability, non-current portion 
+ 193,000 
+ 258,000 
+ 
+ Total liabilities 
+ 2,242,000 
+ 1,794,000 
+
+Commitments and contingencies 
+
+Stockholders' deficit: 
+
+Preferred stock, 0.001 par value, 10,000,000 shares authorized, no shares issued and outstanding as of June 30, 2021 and 2020, respectively 
+
+Common stock, 0.001 par value, 1,000,000,000 shares authorized, 208,267,444 and 196,997,906 shares issued and outstanding as June 30, 2021 and 2020, respectively 
+ 208,000 
+ 197,000 
+ 
+ Additional paid-in capital 
+ 24,008,000 
+ 23,291,000 
+ 
+ Accumulated deficit 
+ (24,627,000 
+ (23,978,000 
+ 
+ Total stockholders' deficit 
+ (411,000 
+ (490,000 
+ 
+ Total liabilities and stockholders' deficit 
+ 1,831,000 
+ 1,304,000 
+
+See accompanying notes to the consolidated financial
+statements 
+
+19 
+
+CAVITATION TECHNOLOGIES, INC. 
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+For the Years Ended 
+
+June 30, 
+
+2021 
+ 2020 
+
+Revenue 
+ 558,000 
+ 1,663,000 
+ 
+ Cost of revenue 
+ (20,000 
+ (40,000 
+ 
+ Gross profit 
+ 538,000 
+ 1,623,000 
+
+General and administrative expenses 
+ 1,264,000 
+ 1,469,000 
+ 
+ Research and development expenses 
+ 21,000 
+ 18,000 
+ 
+ Total operating expenses 
+ 1,285,000 
+ 1,487,000 
+
+Income (loss) from operations 
+ (747,000 
+ 136,000 
+
+Other Income (Expense) 
+
+Gain on forgiveness of PPP Loan 
+ 104,000 
+
+Interest expense 
+ (6,000 
+
+Loss on transfer of accrued payroll 
+ 
+ (8,000 
+
+98,000 
+ (8,000 
+
+Income (loss) before income taxes 
+ (649,000 
+ 128,000 
+ 
+ Provision for income taxes 
+
+Net income (loss) 
+ (649,000 
+ 128,000 
+
+Net income (loss) per share, 
+
+Basic and diluted 
+ (0.00 
+ 0.00 
+
+Weighted average shares outstanding, 
+
+Basic and diluted 
+ 197,224,988 
+ 196,997,906 
+
+See accompanying notes to the consolidated financial
+statements 
+
+20 
+
+CAVITATION TECHNOLOGIES, INC. 
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS DEFICIT 
+
+ YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Common 
+ Stock 
+ Additional Paid-in 
+ Accumulated 
+
+Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Total 
+ 
+ Balance at June 30, 2019 
+ 196,997,906 
+ 197,000 
+ 23,090,000 
+ (24,106,000 
+ (819,000 
+ 
+ Fair value of warrants granted for
+ services 
+
+194,000 
+ 
+ 194,000 
+ 
+ Fair value of amended warrants 
+
+7,000 
+ 
+ 7,000 
+ 
+ Net income 
+
+128,000 
+ 128,000 
+ 
+ Balance at June 30, 2020 
+ 196,997,906 
+ 197,000 
+ 23,291,000 
+ (23,978,000 
+ (490,000 
+ 
+ Common stock issued for cash 
+ 11,269,538 
+ 11,000 
+ 717,000 
+ 
+ 728,000 
+ 
+ Net loss 
+
+(649,000 
+ (649,000 
+ 
+ Balance at June 30, 2021 
+ 208,267,444 
+ 208,000 
+ 24,008,000 
+ (24,627,000 
+ (411,000 
+
+See accompanying notes to the consolidated financial
+statements 
+
+21 
+
+CAVITATION TECHNOLOGIES, INC. 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+Years Ended June 30, 
+
+2021 
+ 2020 
+ 
+ Operating activities: 
+
+Net income (loss) 
+ (649,000 
+ 128,000 
+ 
+ Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities: 
+
+Depreciation and amortization 
+ 22,000 
+ 39,000 
+ 
+ Fair value of common stock issued for services 
+ 
+ 194,000 
+ 
+ Fair value of vested warrants stock compensation expense 
+ 
+ 7,000 
+ 
+ Amortization of operating lease right-of-use assets 
+ 63,000 
+ 60,000 
+ 
+ Gain on forgiveness of note payable 
+ (104,000 
+
+Loss on transfer of accrued payroll 
+ 
+ 8,000 
+ 
+ Allowance for bad debts 
+ 
+ 5,000 
+ 
+ Effect of changes in: 
+
+Accounts receivable 
+ 98,000 
+ 131,000 
+ 
+ Inventory 
+ 22,000 
+ 10,000 
+ 
+ Accounts payable and accrued expenses 
+ 26,000 
+ (75,000 
+ 
+ Accrued payroll and payroll taxes related parties 
+ (26,000 
+ (3,000 
+ 
+ Customer advances 
+ 359,000 
+ (392,000 
+ 
+ Operating lease liabilities 
+ (61,000 
+ (56,000 
+ 
+ Net cash provided by (used in) operating activities 
+ (250,000 
+ 56,000 
+
+Investing activities: 
+
+Purchase of property and equipment 
+ (128,000 
+ (50,000 
+ 
+ Cash used in investing activities 
+ (128,000 
+ (50,000 
+
+Financing activities: 
+
+Proceeds from notes payable 
+ 254,000 
+ 104,000 
+ 
+ Proceeds from sale of common stock 
+ 728,000 
+
+Cash generated from financing activities 
+ 982,000 
+ 104,000 
+
+Net increase in cash and cash equivalents 
+ 604,000 
+ 110,000 
+
+Cash and cash equivalents, beginning of period 
+ 759,000 
+ 649,000 
+ 
+ Cash and cash equivalents, end of period 
+ 1,363,000 
+ 759,000 
+
+Supplemental disclosures of cash flow information: 
+
+Cash paid for interest 
+
+Cash paid for income taxes 
+
+Supplemental disclosures of cash flow information: 
+
+Transfer of accrued payroll to accounts payable and accrued expenses 
+ 
+ 204,000 
+ 
+ Initial recognition of operating lease right-of-use assets and operating lease obligations upon adoption of ASC Topic 842 
+ 
+ 368,000 
+
+See accompanying notes to the consolidated financial
+statements 
+
+22 
+
+CAVITATION TECHNOLOGIES, INC. 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Note 1 Organization and Summary of Significant Accounting
+Policies 
+
+Cavitation Technologies, Inc. the Company, CTi, we, us, 
+and our is a Nevada corporation originally incorporated in January 2007 under the name Bio Energy, Inc. The Company has
+developed, patented, and commercialized proprietary technology used in our Nano Reactor and LPN liquid processing
+applications. 
+
+Going Concern 
+
+The accompanying consolidated financial statements
+have been prepared on a going concern basis, which contemplates the realization of assets and the settlement of liabilities and commitments
+in the normal course of business. As reflected in accompanying consolidated financial statements, during the year ended June 30, 2021,
+the Company incurred a net loss of 649,000 and at June 30, 2021 the Company had a stockholder deficit of 411,000 and working capital
+deficiency of 401,000. These factors, among others, raise substantial doubt about the Company s ability to continue as a going
+concern. The accompanying consolidated financial statements do not include any adjustments that may result from an inability of the Company
+to continue as a going concern. 
+
+As of June 30, 2021, the Company has cash in the
+amount of 1,363,000. The Company s ability to continue as a going concern is dependent upon its ability to continue to implement
+its business plan. Currently, management s plan is to increase revenues by continuing to license its technology globally. While
+the Company believes in the viability of its strategy to increase revenues, there can be no assurances to that effect. 
+
+The Company may also attempt to raise additional
+debt and/or equity financing to fund operations and to provide additional working capital. There is no assurance that such financing will
+be available in the future or obtained in sufficient amounts necessary to meet the Company s needs, that the Company will be able
+to achieve profitable operations or that the Company will be able to meet its future contractual obligations. Should management fail to
+obtain such financing, the Company may curtail its operations. 
+
+Covid-19 
+
+During the year ended June 30, 2021, the COVID-19
+pandemic did not have a material net impact on our operating results. The Company has not observed any impairments of its assets or a
+significant change in the fair value of its assets due to the COVID-19 pandemic. At this time, it is not possible for the Company to predict
+the duration or magnitude of the adverse results of the outbreak and its effects on the Company s business or results of operations,
+financial condition, or liquidity. 
+
+As of June 30, 2021, the Company has been following
+the recommendations of local health authorities to minimize exposure risk for its employees, including having employees work remotely
+and utilizing electronic submission of invoices and payments. 
+
+23 
+
+Principles of Consolidation 
+
+The consolidated financial statements include
+the accounts of Cavitation Technologies, Inc. and its wholly owned subsidiary Hydrodynamic Technology, Inc. Intercompany transactions
+and balances have been eliminated in consolidation. 
+
+Use of Estimates 
+
+The preparation of the consolidated financial
+statements in conformity with accounting principles generally accepted in the U.S requires management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities at the financial statement
+date, and reported amounts of revenue and expenses during the reporting period. Significant estimates include estimates for reserves for
+inventory obsolescence, assumptions used in valuing our stock options, stock warrants and common stock issued for services and valuation
+allowance for our deferred tax asset, among other items. Actual results could differ from these estimates. 
+
+Revenue Recognition 
+
+The Company follows the guidance of Accounting
+Standards Codification (ASC) 606, Revenue from Contracts with Customers. ASC 606 creates a five-step model that requires entities to exercise
+judgment when considering the terms of contracts, which includes (1) identifying the contracts or agreements with a customer, (2) identifying
+our performance obligations in the contract or agreement, (3) determining the transaction price, (4) allocating the transaction price
+to the separate performance obligations, and (5) recognizing revenue as each performance obligation is satisfied. The Company only applies
+the five-step model to contracts when it is probable that the Company will collect the consideration it is entitled to in exchange for
+the services it transfers to its clients. Revenue from sale of our Nano Reactors is recognized when products are shipped from our manufacturing
+facilities as this is our sole performance obligation under these contracts and we have no continuing obligation to the customer. The
+Company also recognizes revenue from its share of gross profit to be earned from distributors, as defined, which we treat as variable
+consideration and recognize using the most likely amount method. Estimates are available from our distributor which are considered in
+the determination of the most likely amount. However, given the lack of control over the sale to the end customer and the lack of history
+of prior sales, the amount of gross profit revenue recognized is limited to the actual amount of cash received under the contract which
+the Company has determined is not refundable and that a significant future reversal of cumulative revenue under the contract will not
+occur. In addition, the Company also recognizes revenues from usage fees of certain reactors. Usage fees are recognized based on actual
+usage by the customer. 
+
+Cash and Cash Equivalents 
+
+The Company considers highly liquid investments
+with original maturities of three months or less to be cash equivalents. Cash equivalents are carried at cost which approximates market
+value. 
+
+The Company maintains its cash with one domestic
+financial institution. From time to time, cash balances in this domestic bank may exceed federally insured limits provided by the Federal
+Deposit Insurance Corporation FDIC of up to 250,000. 
+
+As of June 30, 2021, and 2020, Company had deposits
+in excess of federally insured limit with one bank. The Company believes that no significant concentration of credit risk exists with
+respect to this cash balances because of its assessment of the creditworthiness and financial viability of this financial institution. 
+
+24 
+
+Accounts Receivable 
+
+Accounts receivable are generally recorded at the invoiced amounts net of an allowance for expected losses. The Company evaluates
+the collectability of our trade accounts receivable based on a number of factors. In circumstances where it becomes aware of a specific
+customer s inability to meet its financial obligations to us, a specific reserve for bad debts is estimated and recorded which
+reduces the recognized receivable to the estimated amount that management believes will ultimately be collected. In addition to specific
+customer identification of potential bad debts, bad debt charges are recorded based on our historical losses and an overall assessment
+of past due trade accounts receivable outstanding. At June 30, 2021 and 2020, the Company had no reserve recorded for uncollectible accounts
+receivable. 
+
+Inventory 
+
+Inventory is stated at the lower of cost or net
+realizable value. Cost is determined on a specific item basis. Inventory is composed of finished goods and represents costs incurred to
+manufacture the Company s Nano Reactor systems and LPN . 
+
+Property and Equipment 
+
+Property and equipment is stated
+at cost. Depreciation is provided using the straight-line method over the estimated useful lives of the assets. Betterments, renewals,
+and extraordinary repairs that extend the life of the assets are capitalized; other repairs and maintenance charges are expensed as incurred.
+The cost and related accumulated depreciation applicable to retired assets are removed from the Company s accounts, and the gain
+or loss on dispositions, if any, is recognized in the consolidated statements of operations. 
+
+Property and equipment are recorded at cost and
+depreciated using the straight-line method over the following estimated useful lives. 
+
+Leasehold improvements 
+ 
+ Shorter of the life of the asset or lease term 
+ 
+ Furniture 
+ 
+ 5-7 Years 
+ 
+ Office equipment 
+ 
+ 5 Years 
+ 
+ Lab equipment 
+ 
+ 4 Years 
+ 
+ Skid systems 
+ 
+ 4 Years 
+
+Management assesses the carrying value of property
+and equipment whenever events or changes in circumstances indicate that the carrying value may not be recoverable. If there is indication
+of impairment, management prepares an estimate of future cash flows expected to result from the use of the asset and its eventual disposition.
+If these cash flows are less than the carrying amount of the asset, an impairment loss is recognized to write down the asset to its estimated
+fair value. 
+
+For the years ended June 30, 2021 and 2020, the
+Company did not recognize any impairment for its property and equipment. 
+
+Income Taxes 
+
+The Company follows the asset and liability method
+of accounting for income taxes. The Company recognizes deferred tax assets and liabilities to reflect the estimated future
+tax effects, calculated at anticipated future tax rates, of future deductible or taxable amounts attributable to events that have been
+recognized on a cumulative basis in the financial statements. A valuation allowance related to a deferred tax asset is recorded when it
+is more likely than not that some portion of the deferred tax asset will not be realized. Deferred tax assets and liabilities are adjusted
+for the effects of the changes in tax laws and rates of the date of enactment. 
+
+25 
+
+Leases 
+
+The Company accounts for its leases in accordance with the guidance of FASB Accounting Standards Codification ASC 842, Leases. The Company determines whether a contract is, or contains, a lease at inception. Right-of-use assets represent the Company s
+right to use an underlying asset during the lease term, and lease liabilities represent the Company s obligation to make lease
+payments arising from the lease. Right-of-use assets and lease liabilities are recognized at lease commencement based upon the estimated
+present value of unpaid lease payments over the lease term. The Company uses its incremental borrowing rate based on the information
+available at lease commencement in determining the present value of unpaid lease payments The Company adopted ASC 842 on July 1, 2019.
+There was no cumulative-effect adjustment to accumulated deficit (see Note 3). 
+
+Fair Value Measurement 
+
+FASB ASC 820-10 requires entities
+to disclose the fair value of financial instruments, both assets and liabilities recognized and not recognized on the balance sheet for
+which it is practicable to estimate fair value. ASC 820-10 defines the fair value of a financial instrument as the amount at which the
+instrument could be exchanged in a current transaction between willing parties. 
+
+In addition to defining fair value, the
+standard expands the disclosure requirements around fair value and establishes a fair value hierarchy for valuation inputs. The hierarchy
+prioritizes the inputs into three levels based on the extent to which inputs used in measuring fair value are observable in the market.
+Each fair value measurement is reported in one of the three levels which are determined by the lowest level input that is significant
+to the fair value measurement in its entirety. These levels are: 
+
+Level 1 - inputs are based upon unadjusted quoted
+prices for identical instruments traded in active markets. 
+
+Level 2 - inputs are based upon significant observable
+inputs other than quoted prices included in Level 1, such as quoted prices for identical or similar instruments in markets that are not
+active, and model-based valuation techniques for which all significant assumptions are observable in the market or can be corroborated
+by observable market data for substantially the full term of the assets or liabilities. 
+
+Level 3 - inputs are generally unobservable and
+typically reflect management s estimates of assumptions that market participants would use in pricing the asset or liability. The
+fair values are therefore determined using model-based techniques that include option pricing models, discounted cash flow models, and
+similar techniques. 
+
+As of June 30, 2021, and 2020, the carrying value
+of certain accounts such as accounts receivable, inventory, accounts payable, accrued expenses and accrued payroll approximates their
+fair value due to the short-term nature of such instruments. 
+
+Share-Based Compensation 
+
+We periodically issue stock options, warrants
+and common stock to employees and non-employees for services and capital raising transactions. We account for share-based payments under
+the guidance of ASC 718 , which requires the measurement and recognition of compensation expense for all share-based payment awards made
+to employees, officers, directors, and consultants, including employee stock options, based on estimated fair values. We estimate the
+fair value of stock option and warrant awards to employees and directors on the date of grant using an option-pricing model, and the value
+of the portion of the award that is ultimately expected to vest is recognized as expense over the required service period in our Statements
+of Operations. We estimate the fair value of restricted stock awards to employees and directors using the market price of our common stock
+on the date of grant, and the value of the portion of the award that is ultimately expected to vest is recognized as expense over the
+required service period in our Statements of Operations. Recognition of compensation expense for non-employees is in the same period and
+manner as if the Company had paid cash for the services. 
+
+Under ASC 718, the amount of cash or other assets
+transferred (or liabilities incurred) to repurchase an equity award shall be charged to equity, to the extent that the amount paid does
+not exceed the fair value of the equity instruments repurchased at the repurchase date. Any excess of the repurchase price over the fair
+value of the instruments repurchased shall be recognized as additional compensation cost. 
+
+26 
+
+Advertising Costs 
+
+Advertising costs, including marketing expense,
+incurred in the normal course of operations are expensed as incurred. Advertising expenses amounted to 12,000 and 20,000 for the years
+ended June 30, 2021 and 2020 respectively and was reported as part of General and administrative expenses in the accompanying Consolidated
+Statements of Operations. 
+
+Research and Development Costs 
+
+Research and development expenses relate primarily
+to the development, design, testing of preproduction prototypes and models, compensation, and consulting fees, and are expensed as incurred.
+Total research and development costs recorded during the years ended June 30, 2021 and 2020 amounted to 21,000 and 18,000, respectively. 
+
+Warranty Policy 
+
+The Company provides a limited warranty with every
+set of reactors sold, typically 2 to 5 years. The Company has not experienced significant claims under its warranty policy, and management
+determined no accrual for warranty reserve was necessary at June 30, 2021 and 2020. 
+
+Net Income (Loss) Per Share 
+
+The Company s computation of loss per share EPS includes basic and diluted EPS. Basic EPS is measured as the income available to common stockholders divided
+by the weighted average common shares outstanding for the period. Diluted income per share reflects the potential dilution, using
+the treasury stock method, that could occur if securities or other contracts to issue common stock were exercised or converted into common
+stock or resulted in the issuance of common stock that then shared in the income of the Company as if they had been converted at the beginning
+of the periods presented, or issuance date, if later. In computing diluted income per share, the treasury stock method assumes that outstanding
+options and warrants were exercised and the proceeds are used to purchase common stock at the average market price during the period.
+Options and warrants may have a dilutive effect under the treasury stock method only when the average market price of the common stock
+during the period exceeds the exercise price of the options and warrants. Potential common shares that have an anti-dilutive effect (i.e.,
+those that increase income per share or decrease loss per share) are excluded from the calculation of diluted EPS. 
+
+The following table sets forth the computation
+of basic and diluted loss per common share. 
+
+June 30, 
+
+2021 
+ 2020 
+
+Net income (loss) 
+ (649,000 
+ 128,000 
+
+Weighted average common shares basic 
+ 197,224,988 
+ 196,997,906 
+ 
+ Dilutive effect of outstanding stock options and warrants 
+
+Weighted average shares diluted 
+ 197,224,988 
+ 196,997,906 
+
+Net loss per common share: 
+
+Basic and Diluted 
+ (0.00 
+ (0.00 
+
+27 
+
+There were no adjustments to net income (loss)
+required for purposes of computing diluted earnings per share. At June 30, 2021 and 2020, the Company excluded the outstanding securities
+summarized below, which entitle the holders thereof to acquire shares of common stock, from its calculation of its diluted earnings per
+share, as their effect would have been anti-dilutive. 
+
+June 30, 2021 
+ June 30, 2020 
+ 
+ Options 
+ 11,000,000 
+ 11,000,000 
+ 
+ Warrants 
+ 98,966,049 
+ 87,696,511 
+
+Concentrations 
+
+During the year ended June 30, 2021, we recorded
+96 of our revenue from Desmet Ballestra (Desmet) and 3 from Enviro Watertek, LLC (EW) (see Note 2). 
+
+During the year ended June 30, 2020, we recorded
+53 of our revenue from GEA Westfalia (GEA), 45 from Desmet and 2 from EW (see Note 2). 
+
+At June 30, 2021 and 2020, 100 of accounts receivable
+were due from EW and Desmet, respectively. 
+
+Segment 
+
+As of June 30, 2021, the Company operated one
+reportable business segment. In accordance with the Segment Reporting Topic of the ASC, the Company s chief operating
+decision maker has been identified as the Chief Executive Officer, who reviews operating results to make decisions about allocating resources
+and assessing performance for the entire Company. Existing guidance, which is based on a management approach to segment reporting, establishes
+requirements to report selected segment information quarterly and to report annually entity-wide disclosures about products and services,
+major customers, and the countries in which the entity holds material assets and reports revenue. All material operating units qualify
+for aggregation under Segment Reporting due to their similar customer base and similarities in: economic characteristics;
+nature of products and services; and procurement, manufacturing and distribution processes. Since the Company operates in one segment,
+all financial information required by Segment Reporting can be found in the accompanying consolidated financial statements. 
+
+Recent Accounting Pronouncements 
+
+In June 2016, the FASB issued ASU No. 2016-13,
+Credit Losses - Measurement of Credit Losses on Financial Instruments ASC 326 ). ASU 2016-13 requires entities to use a
+forward-looking approach based on current expected credit losses CECL to estimate credit losses on certain types of financial
+instruments, including trade receivables. This may result in the earlier recognition of allowances for losses. ASU 2016-13 is effective
+for the Company beginning January 1, 2023, and early adoption is permitted. The Company does not believe the potential impact of the new
+guidance and related codification improvements will be material to its financial position, results of operations and cash flows. 
+
+In August 2020, the FASB issued ASU No. 2020-06,
+Debt Debt with Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging Contracts in Entity s Own
+Equity (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity s Own Equity. ASU 2020-06 will simplify
+the accounting for convertible instruments by reducing the number of accounting models for convertible debt instruments and convertible
+preferred stock. Limiting the accounting models will result in fewer embedded conversion features being separately recognized from the
+host contract as compared with current GAAP. Convertible instruments that continue to be subject to separation models are (1) those with
+embedded conversion features that are not clearly and closely related to the host contract, that meet the definition of a derivative,
+and that do not qualify fora scope exception from derivative accounting and (2) convertible debt instruments issued with substantial premiums
+for which the premiums are recorded as paid-in capital. ASU 2020-06 also amends the guidance for the derivatives scope exception for contracts
+in an entity s own equity to reduce form-over-substance-based accounting conclusions. ASU 2020-06 will be effective July 1, 2024,
+for the Company. Early adoption is permitted, but no earlier than July 1, 2021, including interim periods within that year. Management
+is currently evaluating the effect of the adoption of ASU 2020-06 on the consolidated financial statements, but currently does not believe
+ASU 2020-06 will have a significant impact on the Company. 
+
+28 
+
+Other recent accounting pronouncements issued
+by the FASB, including its Emerging Issues Task Force, the American Institute of Certified Public Accountants, and the Securities and
+Exchange Commission did not or are not believed by management to have a material impact on the Company s present or future consolidated
+financial statements. 
+
+Note 2 Contracts with Customers 
+
+Desmet Ballestra Agreement 
+
+In October 2018, we signed a three-year global
+R and D, Marketing and Technology License Agreement with Desmet Ballestra (Desmet) for the sale and licensing of our reactors. This agreement
+was a continuation of an original agreement we signed with Desmet in 2012 and amended in 2016. As part of the October 2018 agreement,
+Desmet provided us monthly advances of 50,000 through October 1, 2021, to be applied against gross profit share from future sales. The
+agreement expired on October 1, 2021, and the Company is in negotiations with Desmet for a new agreement. 
+
+The Company recognizes revenue from sale of reactors
+upon shipment and acceptance by Desmet, as the Company has no further obligations to Desmet other than the reactor s two-year standard
+warranty. In accordance with ASC 606, the Company recognizes the revenue from the sale of reactors at the time of shipment of the Nano
+reactor hardware as such shipment is deemed to be the Company s only performance obligation and the Company has no more continuing
+obligation. Desmet pays for such reactors on credit terms and the amount of the sale is recorded as a receivable upon acceptance by Desmet. 
+
+The Company also receives a share in gross
+profit, as defined, from the sale of Desmet s integrated neutralization system to its customer of which the reactors are an
+integral component. Such amount is subject to adjustment based on certain factors including costs over run. The Company has no
+control with regards to the sale and installation of Nano Reactor and CTi Nano Neutralization System ,
+between Desmet and the end customer. In accordance with ASC 606, the Company has determined that the gross profit to be earned from
+Desmet, its distributor is variable consideration, and evaluates the amount of the potential payments and the likelihood that the
+payments will be received using the most likely amount approach (subject to the variable consideration constraint). Estimates are
+available from our distributor which are considered in the determination of the most likely amount. However, given the lack of
+control over the sale to the end customer and the lack of history of prior sales, the Company considered these as variable revenue
+constraints, and as such, the amount of revenue recognized is limited to the actual amount of cash received under the contract which
+the Company has determined is not refundable and probable that a significant revenue reversal would not occur. Further, Company has
+been able to develop an expectation of the actual collection based on its historical experience. 
+
+During the year ended June 30, 2021, the Company
+recorded sales of 346,000 from Nano Reactor sales and 191,000 from gross profit share for a total revenue of 537,000 from
+Desmet. 
+
+During the year ended June 30, 2020, the Company
+recorded sales of 483,000 from Nano Reactor sales and 266,000 from gross profit share for a total revenue of 749,000 from
+Desmet. 
+
+As of June 30, 2021 and 2020, advances received
+from Desmet related to the Company s share in gross profit amounted to 727,000 and 368,000, respectively. These advances will
+only be recognized as revenues once the condition for revenue recognition have been met. 
+
+Enviro Watertek, LLC Agreement 
+
+In April 2019, the Company entered into a licensing
+and service contract agreement with Enviro Watertek, LLC EW ). This agreement covers the Company s industrial treatment
+process for produced and frack water. The Company s Low Pressure Nano Reactor LPN ),
+was specifically developed to be integrated into frack water treatment system along with proprietary chemical formulations, and has depicted
+measurable and quantifiable advantages over industry standard processes and equipment. The agreement with EW provides for sales on Nano
+Reactors plus recurring revenue stream based on processing frack water volumes and utilization. Our agreement with EW is for a period
+of 15 years but can be terminated by either party every anniversary. 
+
+29 
+
+During the year ended June 30, 2021 and 2020,
+the Company recorded revenues of 17,000 and 38,000, respectively. Revenues from processing of frack water volumes and utilization will
+only be recognized upon collection from EW. 
+
+GEA Westfalia Agreement 
+
+In January
+2017 the Company entered into a global technology license, R D and marketing agreement with GEA Westfalia (GEA). Under the agreement,
+GEA was granted a worldwide exclusive license to integrate our patented technology into water treatment application, milk and juice pasteurization,
+and certain food related processes. The agreement with GEA was for three years, and provided for non-refundable payments of 300,000 per
+year that were to be applied to future license fees, or the Company s share of gross profit from the sale of GEA s system
+to its customers. 
+
+From January
+2017 through December 2019, the Company received total non-refundable payments of 877,000 from GEA. For the years ending June 30, 2017
+through June 30, 2019, the Company accounted for these payments as customer advances as they represent deferred profit sharing revenue
+in anticipation of future sales of the Company s reactors to GEA. The agreement with GEA expired in December 2019 and was not renewed.
+During the term of the agreement, the Company did not sell any reactors to GEA. The Company determined that its performance
+obligation to provide reactors to GEA had expired based on terms of the agreement. Accordingly, for
+the year ending June 30, 2020, the Company recognized the 877,000 of non-refundable payments received in 2017 to 2019 as revenue. 
+
+Note 3 Operating Lease 
+
+The Company leases certain warehouse and corporate
+office space under an operating lease agreement. We determine if an arrangement is a lease at inception. Lease assets are presented as
+operating lease right-of-use assets and the related liabilities are presented as lease liabilities in our consolidated balance sheets. 
+
+Operating lease right-of-use ROU assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease term. ROU assets
+represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments
+arising from the lease. Generally, the implicit rate of interest in lease arrangements is not readily determinable and the Company utilizes
+its incremental borrowing rate in determining the present value of lease payments. The Company s incremental borrowing rate is a
+hypothetical rate based on its understanding of what its credit rating would be. The operating lease ROU asset includes any lease payments
+made and excludes lease incentives. 
+
+The components of lease expense and supplemental
+cash flow information related to leases for the period are as follows: 
+
+June 30, 
+ June 30, 
+
+2021 
+ 2020 
+
+Lease costs: 
+
+Operating lease (included in general and administrative in the Company s consolidated statement of operations) 
+ 74,000 
+ 73,000 
+
+Other information: 
+
+Cash paid for amounts included in the measurement of lease liabilities 
+ 71,000 
+ 69,000 
+
+Weighted average remaining lease term operating leases (in years) 
+ 3.6 
+ 4.6 
+ 
+ Average discount rate operating leases 
+ 4 
+ 4 
+
+The supplemental balance sheet information related to leases for the period is as follows: 
+
+Long-term right-of-use assets 
+ 245,000 
+ 308,000 
+
+Short-term operating lease liabilities 
+ 58,000 
+ 54,000 
+ 
+ Long-term operating lease liabilities 
+ 193,000 
+ 258,000 
+ 
+ Total operating lease liabilities 
+ 251,000 
+ 312,000 
+
+30 
+
+Maturity of the Company s lease liabilities are as follows: 
+
+Operating 
+ 
+ Year Ending June 30: 
+ Lease 
+ 
+ 2022 
+ 72,000 
+ 
+ 2023 
+ 75,000 
+ 
+ 2024 
+ 78,000 
+ 
+ 2025 
+ 47,000 
+ 
+ 2026 and thereafter 
+
+Total lease payments 
+ 272,000 
+ 
+ Less: Imputed interest/present value 
+ (21,000 
+ 
+ Present value of lease liabilities 
+ 251,000 
+
+Note 4 - Property and Equipment 
+
+Property and equipment consist of the following
+as of June 30, 2021 and 2020: 
+
+June 30, 
+ June 30, 
+
+2021 
+ 2020 
+
+Leasehold improvement 
+ 2,000 
+ 2,000 
+ 
+ Furniture 
+ 27,000 
+ 27,000 
+ 
+ Office equipment 
+ 2,000 
+ 2,000 
+ 
+ Equipment 
+ 484,000 
+ 356,000 
+ 
+ Systems 
+ 187,000 
+ 187,000 
+
+702,000 
+ 574,000 
+ 
+ Less: accumulated depreciation and amortization 
+ (520,000 
+ (498,000 
+ 
+ Property and equipment, net 
+ 182,000 
+ 76,000 
+
+Depreciation expense for the years ended June
+30, 2021 and 2020 amounted to 22,000 and 39,000, respectively and was recorded as part of General and Administrative expenses in the
+accompanying Consolidated Statements of Operations. 
+
+Note 5 Related Party Transactions 
+
+Accrued Payroll and Payroll Taxes 
+
+In prior periods, the Company accrued
+salaries and estimated payroll taxes due to current and former officers of the Company. During the year ended June 30, 2020, the
+Company reduced accrued payroll by 3,000. In addition, 196,000 due to a former officer was acquired from the former officer by
+Strategic IR(SIR), an unrelated party. The former officer, SIR, and the Company agreed that the amount of the accrued payroll
+totaled 204,000, and the Company recorded a loss on the transfer of the liability to SIR of 8,000. As of June 30, 2020,
+outstanding balance of accrued payroll and payroll taxes-related parties totaled 693,000. 
+
+During the year ended June 30, 2021, the Company
+reduced accrued payroll by 26,000. As of June 30, 2021, accrued payroll and payroll taxes-related parties totaled 667,000. 
+
+31 
+
+Note 6 Notes Payable 
+
+June 30, 
+ June 30, 
+
+2021 
+ 2020 
+
+A. Note Payable - PPP#1 
+ 104,000 
+ 104,000 
+ 
+ B. Note Payable - PPP#2 
+ 104,000 
+
+C. Note Payable - EIDL 
+ 150,000 
+
+Total 
+ 254,000 
+ 104,000 
+
+A. 
+ On April 16, 2020, the Company was granted a loan for 104,000 (PPP #1)
+ pursuant to the Paycheck Protection Program PPP under the Coronavirus Aid, Relief and Economic Security Act (the
+ Cares Act ). PPP #1 loan was scheduled to mature in April 2022 had a 1 per annum interest rate, and was
+ subject to the terms and conditions applicable to loans administered by the Small Business Administration SBA under
+ the CARES Act. The Company applied ASC 470, Debt, to account for PPP #1 loan. The Company used the entire PPP #1 loan
+ amount for qualifying expenses as described in the CARES Act, including qualifying payroll costs, qualifying group health care
+ benefits, qualifying rent, and qualifying utilities. As of June 30, 2020, the outstanding balance of PPP #1 loan was
+ 104,000. In May, 2021, the SBA approved the forgiveness of PPP #1 loan of 104,000, and we recognized a gain on
+ extinguishment of PPP #1 loan of 104,000 during the year ended June 30, 2021. 
+
+B. 
+ On March 26, 2021, the Company received a second loan of 104,000 pursuant
+to the PPP (PPP #2) that is scheduled to mature in March 2026. PPP #2 loan bears interest at 1 
+per annum, is unsecured, and guaranteed by the Small Business Administration (the SBA ). The Company applied ASC
+470, Debt, to account for PPP #2 loan. Funds from PPP #2 loan may only be used for qualifying expenses
+as described in the CARES Act, including qualifying payroll costs, qualifying group health care benefits, qualifying rent and debt obligations,
+and qualifying utilities. The Company believes it used the entire loan amount for qualifying expenses. Under the terms of
+the PPP, certain amounts of the loan may be forgiven if they are used for qualifying expenses. The Company is currently
+in the process of applying for forgiveness of the PPP #2 loan with respect to these qualifying expenses, however, the Company cannot
+assure that such forgiveness of any portion of PPP #2 loan will occur. The Company was in compliance
+with the terms of PPP #2 loan as of June 30, 2021. As of June 30, 2021, the outstanding balance of PPP #2 loan was
+ 104,000. 
+
+C. 
+ In July 2020, the Company received a loan of 150,000 from the SBA under its Economic Injury Disaster Loan (EIDL) assistance program. The EIDL loan is payable over 30 years, bears interest at a rate of 3.75 per annum and secured by all tangible and intangible property of the Company. The Company was in compliance with the terms of the EIDL loan as of June 30, 2021 . As of June 30, 2021, the outstanding balance of the note payable was 150,000. 
+
+Note 7 - Stockholders Deficit 
+
+Preferred Stock 
+
+On March 17, 2009, the Company filed an
+Amended and Restated Articles of Incorporation and created two new series of preferred stock, the first of which is designated
+Series A Preferred Stock and the second of which is designated as Series B Preferred Stock. The total number of shares of
+Common Stock which this corporation has authority to issue is 1,000,000,000 shares of Common Stock and 10,000,000 shares of
+Preferred Stock of which 5,000,000 shares are designated as Series A Preferred Stock, and 5,000,000 shares are designated as Series
+B Preferred Stock, with the rights, preferences and privileges of the Series B Preferred Stock to be designated by the Board of
+Directors. Each share of Common Stock and Preferred Stock has a par value of 0.001. As of June 30, 2021, and 2020, there are no
+shares of Series A or Series B Preferred Stock issued and outstanding. 
+
+32 
+
+Common Stock 
+
+During the year ended June 30, 2021, the
+Company issued 11,269,538 shares of common stock and 11,269,538 fully vested warrants to purchase common stock over a period of five
+years with an exercise price of 0.09 per share in exchange for net cash proceeds of 728,000 or a selling price of 0.065 per
+ unit. 
+
+Stock Options 
+
+The Company has not adopted a formal stock option
+plan. However, it has assumed outstanding stock options resulting from the acquisition of its wholly owned subsidiary, Hydrodynamic Technology,
+Inc. In addition, the Company has made periodic non-plan grants. A summary of the stock option activity from June 30, 2021 and 2020 is
+as follows: 
+
+Weighted- 
+
+Average 
+
+Weighted- 
+ Remaining 
+
+Average 
+ Contractual 
+
+Exercise 
+ Life 
+
+Options 
+ Price 
+ (Years) 
+
+Outstanding at June 30, 2019 
+ 11,000,000 
+ 0.03 
+ 3.36 
+ 
+ - Granted 
+
+- Forfeited 
+
+- Exercised 
+
+- Expired 
+
+Outstanding at June 30, 2020 
+ 11,000,000 
+ 0.03 
+ 6.07 
+ 
+ - Granted 
+
+- Forfeited 
+
+- Exercised 
+
+- Expired 
+
+Outstanding at June 30, 2021 
+ 11,000,000 
+ 0.03 
+ 5.07 
+
+During the year ended June 30, 2020, stock
+options granted in prior years to purchase 8,500,000 shares of common stock were modified to increase their expiration period to ten
+years. All other terms of the original grant did not change. As a result of this modification, the Company recorded stock
+compensation expense of 2,000 to account for the incremental change in fair value of these options before and after the
+modification based upon a Black-Scholes Option Pricing model. 
+
+As of June 30, 2021, all outstanding options were
+fully vested and exercisable. The intrinsic value of the outstanding options as of June 30, 2021 was 330,000. The following table summarizes
+additional information concerning options outstanding and exercisable at June 30, 2021. 
+
+Options Outstanding 
+
+Options Exercisable 
+
+Weighted 
+
+Weighted 
+
+Weighted 
+
+Average 
+
+Average 
+
+Average 
+
+Exercise 
+
+Number 
+
+Remaining 
+
+Exercise 
+
+Number 
+
+Remaining 
+
+Price 
+
+of Shares 
+
+Life (Years) 
+
+Price 
+
+of Shares 
+
+Life (Years) 
+
+0.03 
+
+11,000,000 
+
+5.07 
+
+0.03 
+
+11,000,000 
+
+5.07 
+
+11,000,000 
+
+11,000,000 
+
+33 
+
+Warrants 
+
+A summary of the Company s warrant activity and related information
+from as of June 30, 2021 and 2020 is as follows. 
+
+Weighted- 
+
+Average 
+
+Weighted- 
+ Remaining 
+
+Average 
+ Contractual 
+
+Exercise 
+ Life 
+ 
+ Warrants 
+ 
+ Price 
+ (Years) 
+
+Outstanding at June 30, 2019 
+ 79,263,176 
+ 0.07 
+ 4.45 
+ 
+ Granted 
+ 9,800,000 
+ 0.03 
+ 10.00 
+ 
+ Exercised 
+
+Expired 
+ (1,366,665 
+
+Outstanding at June 30, 2020 
+ 87,696,511 
+ 0.07 
+ 5.64 
+ 
+ Granted 
+ 11,269.538 
+ 0.09 
+ 5.00 
+ 
+ Exercised 
+
+Expired 
+
+Outstanding at June 30, 2021 
+ 98,966,049 
+ 0.07 
+ 4.49 
+
+During the year ended June 30, 2021, the Company
+granted warrants to purchase 11,269,538 shares of common stock in relation to the issuance of common stock (see Common Stock above). 
+
+During the year ended June 30, 2020, the Company
+granted warrants to purchase 9,800,000 shares of common stock to officers, directors, and employees for services rendered. The warrants
+are fully vested upon grant, exercisable at 0.03 per share, and will expire in ten years. Total fair value of these warrants amounted
+to 194,000 based upon a Black-Scholes Option Pricing model. Also, during the year ended June 30, 2020, stock warrants granted in prior
+years to purchase 27,100,000 shares of common stock were modified to increase their expiration period to ten years. All other terms of
+the original grant did not change. As a result of this modification, the Company recorded stock compensation expense of 5,000 to account
+for the incremental change in fair value of these warrants before and after the modification based upon a Black-Scholes Option Pricing
+model. 
+
+As of June 30, 2021, all outstanding warrants
+were fully vested and exercisable. The intrinsic value of the outstanding warrants as of June 30, 2021 was 1,482,000. The following table
+summarizes additional information concerning warrants outstanding and exercisable at June 30, 2021. 
+
+Warrants Outstanding 
+
+Warrants Exercisable 
+
+Weighted 
+
+Weighted 
+
+Weighted 
+
+Average 
+
+Average 
+
+Average 
+
+Exercise 
+ 
+ Number 
+
+Remaining 
+
+Exercise 
+
+Number 
+
+Exercise 
+
+Price 
+ 
+ of Shares 
+
+Life (Years) 
+
+Price 
+
+of Shares 
+
+Price 
+
+0.03 - 0.05 
+
+68,736,518 
+
+6.02 
+
+0.03 
+
+68,736,518 
+
+0.03 
+
+0.08 - 0.12 
+
+30,229,531 
+
+3.26 
+
+0.10 
+
+30,229,531 
+
+0.10 
+
+98,966,049 
+
+98,966,049 
+
+The fair value of the warrant awards was estimated
+using the Black-Scholes method based on the following weighted-average assumptions: 
+
+34 
+
+June 30, 
+
+2020 
+
+Risk-free interest rate 
+ 0.56 
+ 
+ Contractual terms (years) 
+ 5.99 
+ 
+ Expected volatility 
+ 264 
+ 
+ Expected dividend yield 
+ 0 
+
+The risk-free interest rate is based on the U.S.
+Treasury yield curve in effect at the time of measurement corresponding with the expected term of the award; the contractual term represents
+the weighted-average period of time the awards granted are expected to be outstanding giving consideration to vesting schedules, contractual
+terms, and historical participant exercise behavior; the expected volatility is based upon historical volatility of the Company s
+Common Stock; and the expected dividend yield is based on the fact that the Company has not paid dividends in the past and does not expect
+to pay dividends in the future. 
+
+Note 8 - Income Taxes 
+
+For the year ended June 30, 2021, the Company
+recorded no provision for income taxes due to the Company s taxable net loss position. For the year ended June 30, 2020, the Company
+recorded no provision for income taxes due to available Federal net operating loss (NOL) carryforwards that are available to reduce taxable
+income. 
+
+Deferred income taxes result from temporary differences
+in the recognition of income and expenses for the financial reporting purposes and for tax purposes. The components of deferred tax assets
+are presented below. 
+
+At June 30, 2021, the Company had available Federal NOL carryforwards of approximately 9.8 million
+that are available to reduce future taxable income. The Federal NOL carry forward expires through 2036. The NOLs are subject to statutory
+limitations under Internal Revenue Code Section 382 regarding substantial changes in ownership of companies with loss carry forwards. 
+
+During the year ended June 30, 2021 and 2020,
+management has determined that it is more likely than not that the Company will not be able to realize the tax benefit of the carryforwards
+due to recurring operating losses. Based on their valuation, the Company determined that the net deferred tax assets, do not meet the
+requirements to realize, and as such, the Company has provided a full valuation allowance against them. 
+
+At June 30, 2021 and 2020, significant component of the Company s
+deferred tax assets and liabilities are as follows: 
+
+June 30, 
+ June 30, 
+
+2021 
+ 2020 
+ 
+ Net Operating loss carryforwards 
+ 2,758,000 
+ 2,620,000 
+ 
+ Stock compensation expense 
+ 840,000 
+ 840,000 
+ 
+ Total net deferred tax assets 
+ 3,598,000 
+ 3,460,000 
+ 
+ Less valuation discount 
+ (3,598,000 
+ (3,460,000 
+ 
+ Net deferred tax assets 
+
+35 
+
+A reconciliation of the effective income tax to
+statutory US federal income tax is as follows: 
+
+June 30, 
+ June 30, 
+
+2021 
+ 2020 
+ 
+ Federal statutory rate 
+ (21) 
+ (21) 
+ 
+ State income taxes, net of Federal benefit 
+ (7) 
+ (7) 
+ 
+ Valuation allowance 
+ 28 
+ 28 
+ 
+ Income tax provision 
+
+Accounting rules prescribes a recognition threshold
+that a tax position is required to meet before being recognized in the financial statements and provides guidance on recognition, measurement,
+classification, interest and penalties, accounting in interim periods, disclosure and transition issues. The Company classifies interest
+and penalties as a component of interest and other expenses. To date, there have been no interest or penalties assessed or paid. 
+
+The Company measures and records uncertain tax
+positions by establishing a threshold for the financial statement recognition and measurement of a tax position taken or expected to be
+taken in a tax return. Only tax positions meeting the more-likely-than-not recognition threshold at the effective date may
+be recognized or continue to be recognized. 
+
+The following summarizes the open tax years for
+each major jurisdiction: 
+
+Jurisdiction 
+
+Open Tax Years 
+
+Federal 
+
+2014 2020 
+ 
+ California 
+
+2014 2020 
+
+The Company s net operating loss carry forwards
+are subject to IRS examination until they are utilized and such tax years are closed. 
+
+Note 9 Commitments and Contingencies 
+
+Royalty Agreements 
+
+On July 1, 2008, the Company s wholly owned
+subsidiary entered into Patent Assignment Agreements with two parties, its President as well as its former Chief Executive Officer (CEO)
+and current Technology Senior Manager, where certain devices and methods involved in the hydrodynamic cavitation processes invented by
+the President and former CEO/ current Technology Senior Manager have been assigned to the Company. In exchange, the Company
+agreed to pay a royalty of 5 of gross revenues to each of the President and former CEO/ current Technology Senior Manager for licensing
+of the technology and leasing of the related equipment embodying the technology. These agreements were subsequently assigned to Cavitation
+Technologies on May 13, 2010. The Company s former CEO/ current Technology Senior Manager and President both waived their rights
+to receive royalty payments that have accrued, or that may accrue, on any gross revenue generated through June 30, 2021 and 2020. 
+
+On April 30, 2008 (as amended November 22, 2010),
+the Company s wholly owned subsidiary entered into an employment agreement with the Director of Chemical and Analytical Department
+(the Inventor providing that the Inventor shall receive an amount equal to 5 of actual gross royalties received from the
+royalty stream in the first year in which the Company receives royalty payments from the patent which the Inventor was the legally named
+inventor, and 3 of actual gross royalties received by the Company resulting from the patent in each subsequent year. As of June 30, 2021,
+and 2020 no patents have been granted in which this person is the legally named inventor. 
+
+Note 10 Subsequent Events 
+
+Subsequent to June 30, 2021, the Company issued
+12,071,785 shares of common stock and 12,071,785 fully vested warrants to purchase common stock over a period of five years with an exercise
+price of 0.09 per share in exchange for net cash proceeds of 785,000 or a selling price of 0.065 per share. 
+
+Subsequent to June 30, 2021, the SBA forgave the
+Company s PPP #2 loan payable of 104,000 obtained in March 2021. The Company will account for the forgiven loan as a gain on forgiveness
+of debt. 
+
+36 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+Disclosure Controls and Procedures 
+
+In accordance with rule 13a-15(a), our management
+must maintain disclosure controls and procedures as defined in Rule 13a-15(e) of the Securities and Exchange Act of 1934, or the Exchange
+Act, to provide reasonable assurance that information required to be disclosed by us in reports that we file or submit under the Exchange
+Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission rules
+and forms, and accumulated and communicated to our management, including our principal executive officer and principal financial officer,
+as appropriate to allow timely decisions regarding required disclosure. 
+
+In accordance with Rule 13a-15(b) and (c), management
+must also evaluate the effectiveness of these disclosure control and procedures at the end of each fiscal year. As of June 30, 2021, we
+carried out an evaluation, under the supervision and with the participation of our principal executive officer and principal financial
+officer, of the effectiveness of the design and operation of our disclosure controls and procedures. Based upon that evaluation, our principal
+executive officer and principal financial officer concluded that these disclosure controls and procedures were not effective as of June
+30, 2021. 
+
+Report of Management on Internal Control over Financial Reporting 
+
+Management is responsible for establishing and
+maintaining adequate internal control over financial reporting as defined in Rule 13a-15(f) under the Exchange Act. Our internal control
+over financial reporting is designed under the supervision of our principal executive and principal financial officer, and effected by
+our board of directors, management and other personnel, to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles and includes
+those policies and procedures that: 
+
+(i) pertain to the maintenance of records that,
+in reasonable detail, accurately and fairly reflect the transactions and dispositions of our assets; 
+
+(ii) provide reasonable assurance that transactions
+are recorded as necessary to permit preparation of financial statements in accordance with GAAP, and that our receipts and expenditures
+are being made only in accordance with authorizations of our management and directors; and 
+
+(iii) provide reasonable assurance regarding prevention
+or timely detection of unauthorized acquisition, use, or disposition of our assets that could have a material effect on the financial
+statements. 
+
+Under the supervision and with the participation
+of our management, including our Principal Executive Officer and Principal Financial Officer, we conducted an evaluation of the effectiveness
+of our internal controls and procedures, (as defined under Rule 13a-15(e) and Rule 15d-15(e) promulgated under the Securities Exchange
+Act of 1934, as amended (Exchange Act)) as of the year ended June 30, 2021. Management conducted as assessment of our internal control
+over financial reporting based on the framework and criteria established by the Committee of Sponsoring Organizations of the Treadway
+Commission COSO in Internal Control-Integrated Framework (2013). Our management concluded that as of June 30, 2021, our
+internal control over financial reporting was not effective, and that material weaknesses existed in the following areas as of June 30,
+2020: 
+
+1. We do not employ full time in-house personnel with the technical knowledge to identify and address some
+of the reporting issues surrounding certain complex or non-routine transactions. With respect to material, complex and non-routine transactions,
+management has and will continue to seek guidance from third-party experts and/or consultants to gain a thorough understanding of these
+transactions; 
+
+2. We have ineffective controls over segregation of duties due to limited resources and number of employees. 
+
+37 
+
+We are in the continuous process of improving
+our internal control over financial reporting in an effort to eliminate these material weaknesses through improved supervision and training
+of our staff, but additional effort is needed to fully remedy these deficiencies. We intend to hire the necessary staff to address the
+weaknesses once additional capital is obtained which will allow full operations to commence. Because of its inherent limitations, internal
+control over financial reporting may not prevent or detect misstatements. Therefore, even those systems determined to be effective can
+provide only reasonable assurance with respect to financial statement preparation and presentation. 
+
+Changes in Internal Control over Financial
+Reporting 
+
+There have been no changes in our internal control
+over financial reporting during the year ended June 30, 2021 that materially affected, or are reasonably likely to materially affect,
+our internal control over financial reporting. 
+
+Attestation 
+
+Pursuant to Item 308(b) of Regulation S-K, as
+amended by the Dodd-Frank Wall Street Reform and Consumer Protection Act (Wall Street Reform Act), this report does not include an attestation
+report of the Company s registered public accounting firm regarding internal control over financial reporting. The Wall Street Reform
+Act permanently exempts small public companies from the requirement to obtain an external audit on the effectiveness of internal financial
+reporting controls. 
+
+ITEM 9B. Other Information 
+
+None. 
+
+38 
+
+PART III 
+
+ITEM 10. Directors, Executive Officers and
+Corporate Governance. 
+
+Person 
+ 
+ Age 
+
+Position 
+
+Igor Gorodnitsky 
+
+60 
+
+President, PEO, Secretary and Director 
+ 
+ Naum Voloshin 
+
+57 
+
+Principal Accounting Officer 
+ 
+ James Fuller 
+
+80 
+
+Director 
+
+Audit committee standing members consisted of
+Igor Gorodnitsky and James Fuller as of June 30, 2021. We anticipate forming compensation, governance, and other committees as necessary. 
+
+Igor Gorodnitsky. Mr. Gorodnitsky
+has been our President and member of the Board of Directors since September 26, 2008, and he became the Company's Secretary and Principal
+Executive Officer in November of 2012. Mr. Gorodnitsky developed expertise in handling and processing hazardous waste material. As a Senior
+Haz-Mat Specialist, he coordinated and successfully completed more than 500 emergency response Haz-mat clean-ups over the past 20 years.
+He coordinated and supervised Haz Mat projects, emergency and routine spill clean-ups, and confined space entry tasks. He coordinated
+and scheduled manpower and purchased and scheduled equipment and materials for containment and treatment of spills. He successfully managed,
+coordinated and supervised projects including Hazscanning, sampling, lab-packing, manifesting, profiling, labeling, and other special
+procedures for a variety of commercial clients and municipalities. He is a chemist by training and holds numerous certifications and licenses
+including Hazwoper Training Program, Confined Space Entry and Gas Vapour HazCating, Certified Uniform Waste Manifest Training, Basic and
+Intermediate HazCating, On-Scene Incident Commander Emergency, Site Remediation Methods, Underground Storage Tank Removal, Health 
+Safety Supervisor Certification, Hazardous Certification, and Tosco Refinery Safety. Mr. Gorodnitsky was president of Express Environmental
+Corp. since its inception in 1980 until he sold his interest in January 2009. Based on his significant industry experience and management
+skills it was determined that Mr. Gorodnitsky should serve on the Company s Board. 
+
+James Fuller . Mr. Fuller is an independent
+director and has been Chairman of our Audit Committee and Independent Financial Expert since February 2010. He was formerly a Vice President
+of the New York Stock Exchange and director of the Securities Investor Protection Corporation. In addition to his over 30 years of experience
+in the securities markets, Mr. Fuller sat on the Board of Trustees of the University of California, Santa Cruz and previously served as
+Chairman of their Audit Committee and Independent Financial Expert. Jim is a partner at Baytree Capital Associates, LLC. He received his
+BS in Political Science from San Jose State University and his MBA from California State University - Fresno. Mr. Fuller also served as
+a Director of Propell Technologies Group, Inc (OTCQB: Propell), a public company engaged in oil and gas exploration from October 14, 2011
+until February 17, 2015. Based on Mr. Fuller s extensive experience in finance as well as his prior public company experience it
+was determined that Mr. Fuller should serve on the Company s Board. 
+
+Naum Voloshin. Mr. Voloshin has over 25
+years of experience in investment banking, business operations and marketing. Prior to joining CTi, Mr. Voloshin has worked for several
+developmental stage companies in US, Europe and Asia. The scope of his duties was to provide management, financial reporting, funding,
+and marketing expertise. 
+
+Family Relationships 
+
+Roman Gordon is a founder and current Global Technology
+Manger of the Company. He was a former member of the Company s Board of Directors and Chief Technology Officer up to July 15, 2016.
+He is also the brother of Mr. Igor Gorodnitsky, President, Principal Executive Officer and member of the Company s Board of Directors. 
+
+39 
+
+Section 16(a) Beneficial Ownership Reporting Compliance 
+
+Section 16(a) of the Securities Exchange Act of
+1934, as amended, requires our executive officers, directors, persons who own more than 10 of our common stock, and immediate family
+members living in the same household to file an Initial Statement of Beneficial Ownership on Form 3 and changes in ownership on Form 4
+with the Securities and Exchange Commission (the SEC ). Such insiders are required by SEC rules to furnish us with
+copies of all Section 16(a) forms they file. 
+
+Based on a review of Forms 3, 4, and 5 and amendments
+thereto furnished to us during fiscal 2020 updated forms were filed, ended June 30, 2021, there were no delinquent forms filed during
+the year. 
+
+Director Independence 
+
+Although our common stock is not listed on a national
+securities exchange, for purposes of independence we use the definition of independence applied by the NASDAQ stock market. The Board
+has determined that Mr. Fuller is an independent in accordance with such definition. Mr. Gorodnitsky is not independent
+due to his current positions with the Company. 
+
+Code of Ethics 
+
+We have adopted a Code of Business Conduct and
+Ethics that applies to all officers, directors and employees. A copy may also be obtained free of charge by mailing a request in writing
+to: Cavitation Technologies, Inc., 10019 Canoga Ave., Chatsworth, CA 91311 USA. If we make any substantive amendments to the Code of Business
+Conduct and Ethics or grant any waiver from a provision of the Code to any executive officer or director, we will promptly disclose the
+nature of the amendment or waiver in a current report on Form 8-K. 
+
+ITEM 11. Executive Compensation. 
+
+Summary Compensation Table 
+
+The following table sets forth a summary of cash
+and non-cash compensation awarded, earned or paid for services rendered to us during the years ended June 30, 2021 and 2020 by our named
+executive officers, consisting of (i) each individual serving as principal executive officer, and (ii) our Chief Financial
+Officer/Chief Operating Officer, our other executive officer. 
+
+Changes in 
+
+Pension 
+
+Value and 
+
+Non-Equity 
+
+Non-Qualified 
+
+All 
+
+Stock 
+
+Warrant 
+
+Incentive Plan 
+
+Deferred 
+
+Other 
+
+Year 
+ 
+ Salary 
+
+Bonus 
+
+Awards
+ (1) 
+
+Awards 
+
+Compensation 
+
+Compensation 
+
+Compensation 
+
+Totals 
+
+Igor Gorodnitsky 
+ 
+ 2021 
+
+173,800 
+ (i) 
+
+173,800 
+
+President, Principal Executive Officer 
+ 
+ 2020 
+
+173,000 
+ (i) 
+
+173,000 
+
+Naum Voloshin 
+ 
+ 2021 
+
+173,800 
+ (ii) 
+
+173,800 
+
+Principal Accounting Officer 
+ 
+ 2020 
+
+173,000 
+ (ii) 
+
+173,000 
+
+40 
+
+Outstanding Equity Awards at Fiscal Year-End 
+
+The table below reflects all outstanding equity
+awards made to each of the named executive officers that are outstanding as of June 30, 2021 
+
+Option
+ Awards 
+
+Number 
+ Number 
+
+of securities 
+ of securities 
+
+Underlying 
+ Underlying 
+
+Option/warrant 
+ Unexercised 
+ Unexercised 
+ Option/warrant 
+ Option/warrant 
+
+grant 
+ Options/warrants 
+ Options/warrants 
+ Exercise 
+ expiration 
+ 
+ Name 
+ date 
+ # Exercisable 
+ # Unexercisable 
+ Price 
+ date 
+
+Igor Gorodnitsky 
+ 1/13/2017 
+ 3,000,000 
+ 
+ 0.03 
+ 1/13/2027 
+ 
+ President and 
+ 12/26/2019 
+ 3,000,000 
+ 
+ 0.03 
+ 12/26/2029 
+ 
+ Principal Executive Officer 
+ 5/18/2020 
+ 3,000,000 
+ 
+ 0.045 
+ 5/18/2030 
+
+5/18/2020 
+ 2,000,000 
+ 
+ 0.03 
+ 5/18/2030 
+
+5/18/2020 
+ 3,000,000 
+ 
+ 0.03 
+ 5/18/2030 
+
+5/18/2020 
+ 1,250,000 
+ 
+ 0.03 
+ 5/18/2030 
+
+Naum Voloshin 
+ 12/26/2019 
+ 3,000,000 
+ 
+ 0.03 
+ 12/26/2029 
+ 
+ Principal Accounting Officer 
+ 5/18/2020 
+ 3,000,000 
+ 
+ 0.045 
+ 5/18/2030 
+
+5/18/2020 
+ 3,000,000 
+ 
+ 0.03 
+ 5/18/2030 
+
+The fair value of each option grant is estimated
+at the date of grant using the Black-Scholes option pricing model. Expected volatility is calculated based on the historical volatility
+of the Company s stock. The risk-free interest rate is based on the U.S. Treasury yield for a term equal to the expected life of
+the options at the time of grant. 
+
+Employment Agreements 
+
+Our executive officers work as at-will employees. 
+
+Code Section 162(m) Provisions 
+
+Section 162(m) of the U.S. Internal Revenue
+Code, or the Code, generally disallows a tax deduction to public companies for compensation in excess of 1 million paid to the Chief
+Executive Officer or any of the four most highly compensated officers. Performance-based compensation arrangements may qualify for an
+exemption from the deduction limit if they satisfy various requirements under Section 162(m). Although we consider the impact of
+this rule when developing and implementing our executive compensation programs, we believe it is important to preserve flexibility in
+designing compensation programs. Accordingly, we have not adopted a policy that all compensation must qualify as deductible under Section 162(m)
+of the Code. While our stock options are intended to qualify as performance-based compensation (as defined by the Code),
+amounts paid under our other compensation programs may not qualify as such. 
+
+41 
+
+2021 Director Compensation 
+
+The following table sets forth information for
+the fiscal year ended June 30, 2021 regarding the compensation of our directors who at June 30, 2021 were not also named executive officers. 
+
+Fees 
+
+Non-equity 
+
+Earned 
+
+inventive 
+
+Non-qualified 
+
+or paid 
+
+Stock 
+
+Option 
+
+plan 
+
+deferred 
+
+All other 
+
+in cash 
+
+Awards 
+
+Awards 
+
+compensation 
+
+compensation 
+
+compensation 
+
+Total 
+
+Name 
+ 
+ ) 
+
+) 
+
+) 
+
+) 
+
+Earnings 
+
+) 
+
+) 
+
+James Fuller (1) 
+
+As of June 30, 2021, the following table sets
+forth the number of aggregate outstanding option awards held by each of our directors who were not also named executive officers: 
+
+Name 
+
+Aggregate 
+ Number of 
+ Option Awards 
+
+ITEM 12. Security Ownership of Certain
+Beneficial Owners and Management 
+
+The following table provides information regarding
+the beneficial ownership of our common stock as of October 5, 2020, (the Evaluation Date by: (i) each of our current
+directors, (ii) each of our named executive officers, and (iii) all such directors and executive officers as a group. We know
+of no other person or group of affiliated persons who beneficially own more than five percent of our common stock. The table is based
+upon information supplied by our officers, directors and principal stockholders and a review of Schedules 13D and 13G, if any, filed with
+the SEC. Unless otherwise indicated in the footnotes to the table and subject to community property laws where applicable, we believe
+that each of the stockholders named in the table has sole voting and investment power with respect to the shares indicated as beneficially
+owned. 
+
+Applicable percentages are based on 196,997,906
+shares outstanding as of the Evaluation Date, adjusted as required by rules promulgated by the SEC. These rules generally attribute beneficial
+ownership of securities to persons who possess sole or shared voting power or investment power with respect to those securities. In addition,
+the rules include shares of our common stock issuable pursuant to the exercise of stock options or warrants that are either immediately
+exercisable or exercisable within 60 days of the Evaluation Date. These shares are deemed to be outstanding and beneficially owned by
+the person holding those options for the purpose of computing the percentage ownership of that person, but they are not treated as outstanding
+for the purpose of computing the percentage ownership of any other person. 
+
+42 
+
+Amount and 
+
+Nature of 
+
+Title of 
+ Beneficial 
+ Percent of 
+ 
+ Name of Beneficial Owner 
+ 
+ Class 
+ Ownership 
+ Class (1) 
+ 
+ Igor Gorodnitsky 
+ (2) 
+ Common Stock 
+ 5,000,000 
+ 2.54 
+ 
+ President, Principal Executive Officer, Director 
+
+James Fuller 
+ (2) 
+ Common Stock 
+ 2,837,500 
+ 1.44 
+ 
+ Chairman of Audit Committee, Director 
+
+Naum Voloshin 
+ (2) 
+ Common Stock 
+ 1,100,0000 
+ .56 
+ 
+ Principal Accounting Officer 
+
+Directors and Officers 
+ 
+ Common Stock 
+ 8.937,500 
+ 4.54 
+ 
+ (as a group, three individuals) 
+
+(1) 
+ Unless otherwise set forth below, the mailing address of Executive Officers, Directors and 5 or greater holders is in care of the Company, 
+
+Igor Gorodnitsky 
+
+ James Fuller 
+
+ITEM 13. Certain Relationships and Related Transactions 
+
+Certain Related Party Transactions 
+
+Since the beginning of our last fiscal year ,
+there has not been, and there is not currently proposed, any transaction or series of similar transactions to which we were or will be
+a party in which the amount involved exceeded or will exceed the lesser of 120,000 or one percent of the average of our total assets
+at year-end for the last two completed fiscal years and in which any of our directors, executive officers, holders of more than five percent
+of any class of our voting securities or any member of the immediate family of the foregoing persons had or will have a direct or indirect
+material interest. 
+
+Accrued Payroll and Payroll Taxes 
+
+As of June 30, 2021, and 2020, the Company had
+accrued unpaid salaries to officers and former officers amounting to 667,000 and 693,000 respectively. 
+
+Cameo USA LLC 
+
+In fiscal 2014, Roman Gordon, one of the Company s
+shareholders and a former officer, formed a company called Cameo USA LLC (Cameo). Since its formation, Cameo has had no revenue, no operations,
+and has had no assets or liabilities. On June 4, 2018, Mr. Gordon contributed his 100 interest in Cameo to the Company. As Mr. Gordon
+had no basis in his investment in Cameo, there was no value assigned to the contribution of Cameo. Subsequent to the contribution of Cameo
+to the Company, Cameo was sold to Alchemy Beverages Inc. 
+
+43 
+
+Director Independence 
+
+As our common stock is currently traded on the
+OTC Bulletin Board, we are not subject to the rules of any national securities exchange which require that a majority of a listed company's
+directors and specified committees of the board of directors meet independence standards prescribed by such rules. For the purpose of
+preparing the disclosures in this Report on Form 10-K regarding director independence, we have used the definition of independent
+director set forth in the Marketplace Rules of The NASDAQ, which defines an independent director generally as a person
+other than an executive officer or employee of the Company or any other individual having a relationship which, in the opinion of the
+Company's board of directors, would interfere with the exercise of independent judgment in carrying out the responsibilities of a director.
+Consistent with these standards, we believe that James Fuller is an Independent Financial Expert. 
+
+ITEM 14. Principal Accounting Fees and Services 
+
+Independent Registered Public Accounting Firm s Fee Summary 
+
+The following table provides information regarding
+the fees billed to us by Weinberg Company, P.A. for the years ended June 30, 2021 and 2020. All fees described below were approved
+by the Board: 
+
+June 30, 2021 
+ June 30, 2020 
+
+Audit Fees and Expenses (1) 
+ 85,000 
+ 96,000 
+ 
+ Audit Related Fees (2) 
+
+All Other Fees 
+ 13,000 
+ 7,000 
+
+(1) 
+ Audit fees and expenses were for professional services rendered for the audit and reviews of the consolidated financial statements of the Company, professional services rendered for issuance of consents and assistance with review of documents filed with the SEC. 
+
+(2) 
+ The audit related fees were for professional services rendered for additional filing for registration statements and forms with the SEC. 
+
+Pre-Approval Policies and Procedures 
+
+Consistent with SEC policies regarding auditor
+independence, the Audit Committee has responsibility for appointing, setting compensation and overseeing the work of the independent registered
+public accounting firm. In recognition of this responsibility, the Audit Committee has established a policy to pre-approve all audit and
+permissible non-audit services provided by the independent registered public accounting firm. 
+
+Prior to the engagement of the independent registered
+public accounting firm for the next year s audit, management will submit a list of services and related fees expected to be rendered
+during that year for audit services, audit-related services, tax services and other fees to the Audit Committee for approval. 
+
+44 
+
+PART IV 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+(a) The following documents are filed as part of this annual report
+on Form 10-K: 
+
+1. Financial Statements 
+
+The financial statements are filed as part of
+this report under Item 8 Financial Statements and Supplementary Data . 
+
+2. Financial Statement Schedules 
+
+All other schedules are omitted because they are
+not applicable or the required information is presented in the financial statements and notes thereto. 
+
+3. Exhibits 
+
+The exhibits required by Item 601 of Regulation S-K are included in
+Item 15(b) below. 
+
+(b) - Exhibits. 
+
+Incorporated by Reference 
+ 
+ Exhibit 
+ 
+ Filed 
+
+Number 
+ Exhibit Description 
+ Herewith 
+ Form 
+ Pd. Ending 
+ Exhibit 
+ Filing Date 
+
+3(i)(a) 
+ Articles of Incorporation - original name of Bioenergy, Inc. 
+ 
+ SB-2 
+ N/A 
+ 3.1 
+ October 19, 2006 
+ 
+ 3(i)(b) 
+ Articles of Incorporation - Amended and Restated 
+ 
+ 10-Q 
+ December 31, 2008 
+ 3-1 
+ February 17, 2009 
+ 
+ 3(i)(c) 
+ Articles of Incorporation - Amended and Restated 
+ 
+ 10-Q 
+ June 30, 2009 
+ 3-1 
+ May 14, 2009 
+ 
+ 3(i)(d) 
+ Articles of Incorporation - Amended; increase in authorized shares 
+ 
+ 8-K 
+ N/A 
+ N/A 
+ October 29, 2009 
+ 
+ 3(i)(e) 
+ Articles of Incorporation - Certificate of Amendment; forward split 
+ 
+ 10-Q 
+ December 31, 2009 
+ 3-1 
+ November 16, 2009 
+ 
+ 10.1 
+ Patent Assignment Agreement between the Company and Roman Gordon dated July 1, 2008. 
+ 
+ 8-K 
+ June 30, 2009 
+ 10.1 
+ May 18, 2010 
+ 
+ 10.2 
+ Patent Assignment Agreement between the Company and Igor Gorodnitsky dated July 1, 2008. 
+ 
+ 8-K 
+ June 30, 2009 
+ 10.2 
+ May 18, 2010 
+ 
+ 10.3 
+ Assignment of Patent Assignment Agreement between the Company and Roman Gordon 
+ 
+ 8-K 
+ June 30, 2009 
+ 10.3 
+ May 18, 2010 
+ 
+ 10.4 
+ Assignment of Patent Assignment Agreement between the Company and Igor Gorodnitsky 
+ 
+ 8-K 
+ June 30, 2009 
+ 10.4 
+ May 18, 2010 
+ 
+ 10.5 
+ Employment Agreement between the Company and Roman Gordon date March 17, 2008 
+ 
+ 10K/A 
+ June 30, 2009 
+ 10.3 
+ October 20, 2011 
+ 
+ 10.6 
+ Employment Agreement between the Company and Igor Gorodnitsky dated March 17, 2008 
+ 
+ 10K/A 
+ June 30, 2009 
+ 10.4 
+ October 20, 2011 
+ 
+ 10.7 
+ Employment Agreement with R.L. Hartshorn dated Sept. 22, 2009 
+ 
+ 10-Q 
+ December 31, 2011 
+ 10.7 
+ February 10, 2012 
+
+45 
+
+10.8 
+ Employment and Confidentiality and Invention Assignment Agreement between the Company and Varvara Grichko dated April 30, 2008 
+ 
+ 10-Q 
+ December 31, 2010 
+ 10.3 
+ February 11, 2011 
+ 
+ 10.9 
+ Board of Director Agreement - James Fuller 
+ 
+ 10-Q 
+ December 31, 2011 
+ 10.12 
+ October 20, 2011 
+ 
+ 10.10 
+ Technology and License Agreement with Desmet Ballestra dated 14 May 2012 
+ 
+ 10-K 
+ June 30, 2012 
+ 10.1 
+ October 15, 2012 
+
+10.11 
+ Convertible Note Payable - Prolific Group LLC - 25,000 
+ 
+ 10-Q 
+ December 31, 2011 
+ 10.40 
+ February 10, 2012 
+ 
+ 10.12 
+ Convertible Note Payable - Tripod Group LLC - 30,000 
+ 
+ 10-Q 
+ December 31, 2011 
+ 10.41 
+ February 10, 2012 
+
+14.1 
+ Code of Business Conduct and Ethics 
+ 
+ 10-K 
+ June 30, 2011 
+ 14.1 
+ September 28, 2011 
+ 
+ 31.1 
+ Certificate of Principal Executive Officer pursuant to Section 302 of Sarbanes-Oxley Act of 2002 
+ X 
+
+31.2 
+ Certificate of Principal Financial Officer pursuant to Section 302 of Sarbanes-Oxley Act of 2002 
+ X 
+
+32.1 
+ Certification of Principal Executive Officer pursuant to 18 U.S.C Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ X 
+
+32.2 
+ Certification of Principal Financial Officer pursuant to 18 U.S.C Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ X 
+
+101.INS 
+ XBRL Instance Document 
+ X 
+
+101.SCH 
+ XBRL Taxonomy Extension Schema 
+ X 
+
+101.CAL 
+ XBRL Taxonomy Extension Calculation Linkbase 
+ X 
+
+101.DEF 
+ XBRL Taxonomy Extension Definition Linkbase 
+ X 
+
+101.LAB 
+ XBRL Taxonomy Extension Label Linkbase 
+ X 
+
+101.PRE 
+ XBRL Taxonomy Extension Presentation Linkbase 
+ X 
+
+In accordance with Regulation S-K 406 of the Securities Act of 1934, we undertake to provide to any person without charge, upon request, a copy of our Code of Business Conduct and Ethics . A copy may be requested by sending an email to info@cavitationtechnologies.com. 
+
+(c) - Financial Statement Schedules 
+
+See Item (a) 2 above. 
+
+ITEM 16. SUMMARY. FORM 10-K SUMMARY 
+
+Not applicable 
+
+46 
+
+SIGNATURES 
+
+PURSUANT TO THE REQUIREMENTS OF THE SECURITIES
+EXCHANGE ACT OF 1934, THIS REPORT HAS BEEN SIGNED BELOW BY THE FOLLOWING PERSONS ON BEHALF OF THE REGISTRANT AND IN THE CAPACITIES AND
+ON THE DATES INDICATED 
+
+SIGNATURE 
+ 
+ TITLE 
+ 
+ DATE 
+
+/s/ Igor Gorodnitsky 
+ 
+ President; Member of Board of Directors 
+ 
+ October 13, 2021 
+ 
+ Igor Gorodnitsky 
+ 
+ (Principal Executive Officer) 
+
+/s/ N. Voloshin 
+ 
+ Chief Financial Officer 
+ 
+ October 13, 2021 
+ 
+ N. Voloshin 
+ 
+ (Principal Financial Officer) 
+
+/s/ James Fuller 
+ 
+ Audit Committee Chairman, 
+ 
+ October 13, 2021 
+ 
+ James Fuller 
+ 
+ Independent Financial Expert 
+
+47 
+
+<EX-31.1>
+ 2
+ cavitation_ex3101.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+Certification 
+
+I, Igor Gorodnitsky, certify that: 
+
+1. I have reviewed this annual report for the fiscal year ended June
+30, 2021 on Form 10-K of Cavitation Technologies, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows
+of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant's other certifying officer(s) and I are responsible
+for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+control over financial reporting (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting
+(as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant,
+including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which
+this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused
+such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles; 
+
+(c) Evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the
+end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter
+in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal
+control over financial reporting; and 
+
+5. The registrant's other certifying officer(s) and I have disclosed,
+based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee
+of the registrant's board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to
+record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: October 13, 2021 
+ /s/ IGOR GORODNITSKY 
+
+Name: Igor Gorodnitsky 
+
+Title: Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ cavitation_ex3102.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+
+Certification 
+
+I, Naum Voloshin, certify that: 
+
+1. I have reviewed this annual report for the fiscal year ended June
+30, 2021 on Form 10-K of Cavitation Technologies, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows
+of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant's other certifying officer(s) and I are responsible
+for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+control over financial reporting (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting
+(as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant,
+including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which
+this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused
+such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles; 
+
+(c) Evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the
+end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter
+in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal
+control over financial reporting; and 
+
+5. The registrant's other certifying officer(s) and I have disclosed,
+based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee
+of the registrant's board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to
+record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: October 13, 2021 
+ /s/ N. VOLOSHIN 
+
+Name: Naum Voloshin 
+
+Title: Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ cavitation_ex3201.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION 
+
+I, Igor Gorodnitsky, Chief Executive Officer of Cavitation Technologies,
+Inc. (the Company ), certify, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350, that: 
+
+The Annual Report on Form 10-K of the Company for the year ended June
+30, 2021 (the Report fully complies with the requirements of Section 13(a) of the Securities Exchange Act of 1934 (15 U.S.C.
+ 78m); and 
+
+The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+Date: October 13, 2021 
+ /s/ IGOR GORODNITSKY 
+
+Name: Igor Gorodnitsky 
+
+Title: Chief Executive Officer 
+
+A signed original of this written statement required by Section 906
+has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff
+upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ cavitation_ex3202.htm
+ CERTIFICATION
+
+Exhibit 32.2 
+
+CERTIFICATION 
+
+I, Naum Voloshin, Principal Financial Officer of Cavitation Technologies,
+Inc. (the Company ), certify, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350, that: 
+
+The Annual Report on Form 10-K of the Company for the year ended June
+30, 2021 (the Report fully complies with the requirements of Section 13(a) of the Securities Exchange Act of 1934 (15 U.S.C.
+ 78m); and 
+
+The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+Date: October 13, 2021 
+ /s/ Naum VOLOSHIN 
+
+Name: Naum Voloshin 
+
+Title: Principal Financial Officer 
+
+A signed original of this written statement required by Section 906
+has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff
+upon request. 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 7
+ cvat-20210630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ cvat-20210630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ cvat-20210630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ cvat-20210630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ cvat-20210630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ cvat-20210630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

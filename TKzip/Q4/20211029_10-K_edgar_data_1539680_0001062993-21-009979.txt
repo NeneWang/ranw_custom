@@ -1,0 +1,2224 @@
+<Header>
+<FileStats>
+    <FileName>20211029_10-K_edgar_data_1539680_0001062993-21-009979.txt</FileName>
+    <GrossFileSize>2905325</GrossFileSize>
+    <NetFileSize>130384</NetFileSize>
+    <NonText_DocumentType_Chars>206418</NonText_DocumentType_Chars>
+    <HTML_Chars>747903</HTML_Chars>
+    <XBRL_Chars>1034071</XBRL_Chars>
+    <XML_Chars>694788</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001062993-21-009979.hdr.sgml : 20211029
+<ACCEPTANCE-DATETIME>20211029155845
+ACCESSION NUMBER:		0001062993-21-009979
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		57
+CONFORMED PERIOD OF REPORT:	20210731
+FILED AS OF DATE:		20211029
+DATE AS OF CHANGE:		20211029
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HAMMER FIBER OPTICS HOLDINGS CORP
+		CENTRAL INDEX KEY:			0001539680
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATION SERVICES, NEC [4899]
+		IRS NUMBER:				981032170
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35876
+		FILM NUMBER:		211363193
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 CORPORATE PLACE SOUTH
+		CITY:			PISCATAWAY
+		STATE:			NJ
+		ZIP:			08854
+		BUSINESS PHONE:		844-413-2600
+
+	MAIL ADDRESS:	
+		STREET 1:		15 CORPORATE PLACE SOUTH
+		CITY:			PISCATAWAY
+		STATE:			NJ
+		ZIP:			08854
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tanaris Power Holdings Inc.
+		DATE OF NAME CHANGE:	20150310
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Recursos Montana S.A.
+		DATE OF NAME CHANGE:	20120113
+
+</SEC-Header>
+</Header>
+
+ 0001062993-21-009979.txt : 20211029
+
+10-K
+ 1
+ form10k.htm
+ FORM 10-K
+
+Hammer Fiber Optic Holdings Corp.: Form 10-K - Filed by newsfilecorp.com 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 10-K 
+ [X] ANNUAL REPORT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the fiscal year ended July 31, 2021 
+ Commission file number 000-1539680 
+ HAMMER FIBER OPTICS HOLDINGS CORP 
+ (Exact name of registrant as specified in its charter) 
+
+NEVADA 
+
+98-1032170 
+
+(State or Other Jurisdiction of Incorporation of Organization) 
+
+(I.R.S. Employer Identification No.) 
+
+6151 Lake Osprey Drive 
+ Sarasota, CL 34240 
+ (Address of principal executive offices) 
+ 941-306-3019 
+ (Registrant's telephone number, including area code) 
+ Securities registered under Section 12(b) of the Exchange Act: None 
+ Securities registered under Section 12(g) of the Exchange Act: Common Stock 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes [ ] No [X] 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes [ ] No [X] 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes [X] No [ ] 
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [ ] 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definition of large accelerated filer , "accelerated filer", "smaller reporting company" and emerging growth company in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large Accelerated Filer 
+
+[ ] 
+
+Accelerated Filer 
+
+[ ] 
+
+Non-Accelerated Filer 
+
+[ ] 
+
+Smaller Reporting Company 
+
+[X] 
+
+Emerging Growth Company 
+
+[ ] 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes [ ] No [X] 
+ The aggregate market value of the voting common stock held by non-affiliates of the registrant as of January 31, 2021, was 10,903,208 (based upon the 0.299 closing price for shares of the registrant's common stock as reported by the OTCBB on January 29, 2021, the last trading day of the registrant's most recently completed second fiscal quarter). As of July 31, 2021, there were 60,853,341 shares of the registrant's .001 par value common stock issued and 57,010,256 outstanding. 
+ 
+ 1 
+
+Table of Contents 
+ to Annual Report on Form 10-K 
+ For the Fiscal Year Ended July 31, 2021 
+
+PART I 
+
+Item 1. 
+ Business 
+ 3 
+
+Item 1A. 
+ Risk Factors 
+ 4 
+
+Item 1B. 
+ Unresolved Staff Comments 
+ 9 
+
+Item 2. 
+ Properties 
+ 9 
+
+Item 3. 
+ Legal Proceedings 
+ 9 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 10 
+
+PART II 
+
+Item 5. 
+ Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 11 
+
+Item 6. 
+ Selected Financial Data 
+ 11 
+
+Item 7. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 12 
+
+Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 14 
+
+Item 8. 
+ Financial Statements and Supplementary Data 
+ 14 
+
+Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 15 
+
+Item 9A(T). 
+ Controls and Procedures 
+ 15 
+
+Item 9B. 
+ Other Information 
+ 15 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers, and Corporate Governance 
+ 17 
+
+Item 11. 
+ Executive Compensation 
+ 19 
+
+Item 12. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 20 
+
+Item 13. 
+ Principal Accounting Fees and Services 
+ 21 
+
+PART IV 
+
+Item 14. 
+ Exhibits and Financial Statement Schedules 
+ 22 
+
+SIGNATURES 
+ 
+ 23 
+
+2 
+
+PART I 
+ Note regarding forward-looking statements 
+ This report contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934 (the "Exchange Act"). We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends affecting the financial condition of our business. These forward-looking statements are subject to a number of risks, uncertainties and assumptions, including, among other things: 
+ 
+ general economic and business conditions, both nationally and in our markets, 
+ our expectations and estimates concerning future financial performance, financing plans and the impact of competition, 
+ our ability to implement our growth strategy, 
+ anticipated trends in our business, 
+ advances in technologies, and 
+ other risk factors set forth herein. 
+ 
+ In addition, in this report, we use words such as "anticipates," "believes," "plans," "expects," "future," "intends," and similar expressions to identify forward-looking statements. As used in this current report, the terms "we", "us", "our" and the "company" refer to Hammer Fiber Optics Holdings Corp. 
+ We undertake no obligation to update publicly or revise any forward-looking statements, whether as a result of new information, future events or otherwise after the date of this Annual Report on Form 10K. In light of these risks and uncertainties, the forward-looking events and circumstances discussed in this prospectus may not occur and actual results could differ materially from those anticipated or implied in the forward-looking statements. 
+ ITEM 1. BUSINESS 
+ Our Corporate History and Background 
+ The Company was incorporated in the State of Nevada on September 23, 2010, under the name Recursos Montana S.A. The Company's principal activity was as a pre-exploration stage company engaged in the acquisition and exploration of mineral properties then owned by the Company. During this time, the Company was deemed a "shell company" in the pre-exploration stage and was ultimately unable to commence exploration activities. 
+ On February 2, 2015, the Company entered into a Share Exchange Agreement with Tanaris Power Holdings, Inc., whereby the Company acquired 100 of Tanaris Power Holdings, Inc. issued and outstanding common stock in exchange for shares of the Company's common stock equal 51 of the issued and outstanding common stock and cash consideration to Tanaris in the aggregate amount of 350,000. Tanaris Power Holdings, Inc. was the owner of certain rights in connection with the marketing and sale of smart lithium-ion batteries and battery technologies for various industrial vehicles markets and related applications. On March 6, 2015, the Company amended its Articles of Incorporation to change its name to Tanaris Power Holdings, Inc. 
+ On April 25, 2016, Tanaris Power Holdings, Inc., a Nevada corporation entered into a Share Exchange Agreement (the "Share Exchange Agreement") with Hammer Fiber Optics Investments, Ltd., a Delaware corporation ("HFOI"), and the controlling stockholders of HFOI (the "HFOI Shareholders"). Pursuant to the Share Exchange Agreement, the Company acquired 20,000,000 shares of common stock of HFOI from the HFOI shareholders (the "HFOI Shares") and in exchange the Company issued to the HFOI Shareholders 50,000,000 (post-Merger) restricted shares of its common stock (the "HMMR Shares"). As a result of the Share Exchange Agreement, HFOI became a wholly owned subsidiary of the Company. Hammer Fiber Optics Investments, Ltd. was formed in the State of Delaware on June 13, 2014. 
+ On April 13, 2016, our Board of Directors approved a Plan of Merger (the "Plan of Merger") under Nevada Revised Statutes (NRS) Section 92A.180 to merge (the "Merger") with our wholly-owned subsidiary Hammer Fiber Optics Holdings Corp., a Nevada corporation, to effect a name change from Tanaris Power Holdings, Inc. to Hammer Fiber Optics Holdings Corp. The transaction was accounted for as a reverse merger. The Plan of Merger also provided for a 1 for 1,000 exchange ratio for shareholders of both the Company and Hammer Fiber Optics Holdings Corp., which had the effect of a 1 for 1,000 reverse split of our common stock. Articles of Merger were filed with the Secretary of State of Nevada on April 13, 2016 and, on April 14, 2016, this corporate action was submitted to FINRA for its review and approval. 
+ On May 3, 2016, the Financial Industry Regulatory Authority ("FINRA") approved the merger with our wholly-owned subsidiary, Hammer Fiber Optics Holdings Corp. Accordingly, thereafter the Company's name was changed and our shares of common stock began trading on the Over the Counter Bulletin Board (OTCBB) under our new ticker symbol "HMMR" as of May 27, 2016. 
+ 
+ 3 
+
+On September 11, 2018, our Board of Directors approved stock purchase agreements with 1stPoint Communications LLC and its subsidiaries, Endstream Communications LLC, Open Data Centers LLC and Shelcomm Inc. for the acquisition of all of the equity of the entities. 1stPoint and its subsidiaries possess CLEC licenses in Florida, New York State, and a nationwide CMRS (Commercial Mobile Radio Services) license. The companies operate a data center facility in Piscataway, New Jersey. The acquisition of 1stPoint Communications, LLC, Open Data Centers, LLC and Shelcomm, Inc. closed on November 1, 2018. The acquisition of Endstream Communications, LLC closed on December 17, 2018. 
+ On January 29, 2019 our Board of Directors approved a stock purchase agreement with American Network, Inc to acquire all of its equity. The acquisition of American Network, Inc closed on September 1, 2019. 
+ As of April 30, 2020 our Board of Directors approved the discontinuation of the operations of Open Data Centers LLC. The operations of Open Data Centers, LLC were discontinued effective April 30, 2020 and the Company shut down its operations in its Piscataway, NJ data center. 
+ On October 19, 2021 our Board of Directors approved a name change from Hammer Fiber Optics Holdings Corp to Hammer Technology Holdings. The name change was submitted to the Secretary of State of Nevada on October 7, 2021 for an effective date of October 19, 2021 and, on October 11, 2021, this corporate action was submitted to FINRA for its review and approval. 
+ On October 25, 2021 our Board of Directors approved a share exchange agreement with Telecom Financial Services Limited ("TFS") for the acquisition one hundred percent (100 of its stock. TFS owns the intellectual property critical to the operations of the company's financial technology business unit as well as certain key supplier, marketing and operating agreements. TFS will be renamed HammerPay [USA] Ltd. This acquisition has been discussed in the Subsequent Events. 
+ Current Operations 
+ Hammer Fiber Optics Holdings Corp (OTCQB:HMMR) is a company focused on sustainable shareholder value investing in both financial services technology and wireless telecommunications infrastructure. 
+ Hammer's financial technologies business is focused on providing digital stored value technology via its HammerPay mobile payments platform to enable digital commerce between consumers and branded merchants across the developing world, ensuring Swift, Safe and Secure encrypted remittances and banking transactions. 
+ Hammer's "Everything Wireless" go to market strategy for its telecommunications business includes the development of high speed fixed wireless service for residential, small business and enterprise clients using its wireless fiber platform, Hammer Wireless AIR , mobility networks including 4G/LTE, Over-the-Top services such as voice, SMS and collaboration services and hosting services. 
+ Employees 
+ We currently have fifteen employees, thirteen of which are full time employees and two are part time. 
+ ITEM 1A. RISK FACTORS 
+ You should carefully consider each of the risks and uncertainties described below and elsewhere in this Annual Report on Form 10-K, as well as any amendments or updates reflected in subsequent filings with the SEC. We believe these risks and uncertainties, individually or in the aggregate, could cause our actual results to differ materially from expected and historical results and could materially and adversely affect our business operations, results of operations, financial condition and liquidity. Further, additional risks and uncertainties not presently known to us or that we currently deem immaterial may also impair our results and business operations. 
+ Risks Associated with Our Business 
+ Our operations and financial performance could be negatively impacted, if the markets for our products do not develop and expand as we anticipate. 
+ The markets for our products and services are characterized by rapidly changing technologies, evolving industry or regulatory standards and new product introductions. Our success is dependent on the successful introduction of new products and services, or upgrades of current products and services, and our ability to compete with new technologies. The following factors related to our products, services and markets, if they do not continue as in the recent past, could have an adverse impact on our operations: 
+ 
+ our ability to source critical materials such as optical fiber and cable and hardware and equipment, at competitive prices; 
+
+4 
+
+our ability to develop new products in response to government regulations and laws; 
+
+our ability to secure and retain adequate spectrum to facilitate ongoing operations and deployment of our services beyond our present geographic footprint. 
+ 
+ We rely on contract manufacturing of our products. Our inability to secure production sources meeting our quality, cost, working conditions and other requirements, or failures by our contractors to perform, could harm our sales and reputation. 
+ We source many of our materials from international manufacturers. As a result, we must locate and secure production that meets our demands. We depend on our manufacturers to maintain adequate financial resources and maintain sufficient development and manufacturing capacity. We do not have material long-term contracts with any of our manufacturers, and these manufacturers generally may unilaterally terminate their relationship with us at any time. Our dependence on contract manufacturers could subject us to a number of risks if these manufacturers do not meet our quality, cost, working conditions and other requirements or if they fail to materially perform, any of which could seriously harm our sales and reputation. Further, if we need to place greater demands on our current manufacturers due to increased customer demands, or seek additional or replacement manufacturers, we may be unable to do so on terms that are acceptable to us, if at all. 
+ Violation of labor laws and practices by our manufacturers and suppliers could harm our business. 
+ We require our manufacturers and suppliers to operate in compliance with applicable laws and regulations. While the Company promotes ethical business practices, we do not control our manufacturers or suppliers or their labor practices. The violation of labor or other laws by any of our manufacturers or suppliers, or divergence of their labor practices from those generally accepted as ethical in the local markets, could interrupt or otherwise disrupt the shipment of our products, harm the value of our trademarks, damage our reputation or expose us to potential liability for their wrongdoings. 
+ A privacy breach could damage our reputation and our relationship with our customers, expose the Company to litigation risk and adversely affect our business. 
+ As part of our normal course of business, we collect, process and retain sensitive and confidential customer information. Despite security measures we have in place, our facilities and systems may be vulnerable to security breaches, acts of vandalism, computer viruses, misplaced or lost data, programming and/or human errors, or other similar events. Any security breach involving the misappropriation, loss or other unauthorized disclosure of confidential information could severely damage our reputation and our relationships with our customers, expose the Company to risks of litigation and liability and adversely affect our business. 
+ Our Articles of Incorporation exculpates our officers and directors from certain liability to our Company or our stockholders. 
+ Our Articles of Incorporation contain a provision limiting the liability of our officers and directors for their acts or failures to act, except for acts involving intentional misconduct, fraud or a knowing violation of law. This limitation on liability may reduce the likelihood of derivative litigation against our officers and directors and may discourage or deter our stockholders from suing our officers and directors based upon breaches of their duties to our Company. 
+ Our directors and named executive officers are also our principal stockholders, as such they will be able to exert significant influence over matters submitted to stockholders for approval, which could delay or prevent a change in corporate control or result in the entrenchment of management or the Board of Directors, possibly conflicting with the interests of other stockholders. 
+ Our directors and named executive officers are also our principal stockholders as such they exert significant influence in determining the outcome of corporate actions requiring stockholder approval and otherwise control of our business. This control could have the effect of delaying or preventing a change in control or entrenching management or the Board of Directors, which could conflict with the interests of our other stockholders and, consequently, could adversely affect the market price of our common stock. 
+ The Company's independent auditors have issued a going concern opinion. 
+ The Company's ability to remain a going concern is highly dependent on its ability to raise sufficient debt and/or equity capital, among other things. No assurance can be given that the company will be successful in these efforts. 
+ Information technology dependency and security vulnerabilities could lead to reduced revenue, liability claims, or competitive harm. 
+ The Company is increasingly dependent on sophisticated information technology and infrastructure. Any significant breakdown, intrusion, interruption or corruption of these systems or data breaches could have a material adverse effect on our business. 
+ We use electronic information technology (IT) in our manufacturing processes and operations and other aspects of our business. Despite our implementation of security measures, our IT systems are vulnerable to disruptions from computer viruses, natural disasters, unauthorized access, cyber-attack and other similar disruptions. A material breach in the security of our IT systems could include the theft of our intellectual property or trade secrets. Such disruptions or security breaches could result in the theft, unauthorized use or publication of our intellectual property and/or confidential business information, harm our competitive position, reduce the value of our investment in research and development and other strategic initiatives, or otherwise adversely affect our business. We have, from time to time, experienced incidents related to our IT systems, and expect that such incidents will continue, including malware and computer virus attacks, unauthorized access, systems failures and disruptions. We have measures and defenses in place against unauthorized access, but we may not be able to prevent, immediately detect, or remediate such events. 
+ 
+ 5 
+
+Business disruptions could affect our operating results 
+ A significant portion of our development activities and certain other critical business operations are concentrated in a few geographic areas. A major earthquake, fire or other catastrophic event that results in the destruction or disruption of any of our critical facilities could severely affect our ability to conduct normal business operations and, as a result, our future financial results could be materially and adversely affected. 
+ If we cannot attract more customers to purchase our products, we may not be able to increase or sustain our revenues. 
+ Our future success will depend on our ability to attract additional customers. The growth of our customer base could be adversely affected by: 
+ 
+ customer unwillingness to implement our products and services; 
+
+any delays or difficulties that we may incur in completing the development and introduction of our products or product enhancements or service enhancements; 
+
+the overall satisfaction of our customers; 
+
+new product and service introductions by our competitors; 
+
+any failure of our products to perform as expected; or 
+
+any difficulty we may incur in meeting customers' expectations. 
+ 
+ Fluctuations in the economy affect the telecommunications industry, including broadband and Internet and may decrease demand for various products and services. Such a decrease may have an adverse effect on the demand in the fiber optic sector and negatively impact the growth of our customer base. 
+ Foreign Currency 
+ We transact business in various foreign currencies including the Euro and the Leone. In general, the functional currency of a foreign operation is the local country's currency. Consequently, revenues and expenses of operations outside the United States are translated into UDS Dollars using the weighted-average exchange rates on the period end date and assets and liabilities of operations outside the United States are translated into US Dollars using the change rate on the balance sheet dates. The effects of foreign currency translation adjustments are included in the stockholders' equity as a component of the AOCL in the accompanying financial statements. 
+ Risks Relating to Ownership of Our Securities 
+ Our stock price may be volatile, which may result in losses to our shareholders. 
+ The stock markets have experienced significant price and trading volume fluctuations, and the market prices of companies listed on the OTCQB quotation system in which shares of our common stock are listed, have been volatile in the past and have experienced sharp share price and trading volume changes. The trading price of our common stock is likely to be volatile and could fluctuate widely in response to many factors, including the following, some of which are beyond our control: 
+ 
+ variations in our operating results; 
+
+changes in expectations of our future financial performance, including financial estimates by securities analysts and investors; 
+
+changes in operating and stock price performance of other companies in our industry; 
+
+6 
+
+additions or departures of key personnel; and 
+
+future sales of our common stock. 
+ 
+ Domestic and international stock markets often experience significant price and volume fluctuations. These fluctuations, as well as general economic and political conditions unrelated to our performance, may adversely affect the price of our common stock. 
+ Our common shares may become thinly traded and you may be unable to sell at or near ask prices, or at all. 
+ We cannot predict the extent to which an active public market for trading our common stock will be sustained. The trading price of our common shares has historically been sporadically or "thinly-traded" meaning that the number of persons interested in purchasing our common shares at or near ask prices at any given time may be relatively small or non-existent. This situation is attributable to a number of factors, including the fact that we are a small company which is relatively unknown to stock analysts, stock brokers, institutional investors and others in the investment community who generate or influence sales volume. Even if we came to the attention of such persons, those persons tend to be risk-averse and may be reluctant to follow, purchase, or recommend the purchase of shares of an unproven company such as ours until such time as we become more seasoned and viable. As a consequence, there may be periods of several days or more when trading activity in our shares is minimal or non-existent, as compared to a seasoned issuer which has a large and steady volume of trading activity that will generally support continuous sales without an adverse effect on share price. We cannot provide any assurance that a broader or more active public trading market for our common stock will develop or be sustained, or that current trading levels will be sustained. 
+ The market price for our common stock is particularly volatile given our status as a relatively small company, which could lead to wide fluctuations in our share price. You may be unable to sell your common stock at or above your purchase price if at all, which may result in substantial losses to you. 
+ Shareholders should be aware that, according to SEC Release No. 34-29093, the market for penny stocks can be negatively affected from patterns of fraud and abuse. Such patterns include (1) control of the market for the security by one or a few broker-dealers that are often related to the promoter or issuer; (2) manipulation of prices through prearranged matching of purchases and sales and false and misleading press releases; (3) boiler room practices involving high-pressure sales tactics and unrealistic price projections by inexperienced sales persons; (4) excessive and undisclosed bid-ask differential and markups by selling broker-dealers; and (5) the wholesale dumping of the same securities by promoters and broker-dealers after prices have been manipulated to a desired level, along with the resulting inevitable collapse of those prices and with consequent investor losses. Our management is aware of the abuses that have occurred historically in the penny stock market. Although we do not expect to be in a position to dictate the behavior of the market or of broker-dealers who participate in the market, management will strive within the confines of practical limitations to prevent the described patterns from being established with respect to our securities. The occurrence of these patterns or practices could increase the volatility of our share price. 
+ We do not anticipate paying any cash dividends to our common shareholders. 
+ We presently do not anticipate that we will pay dividends on any of our common stock in the foreseeable future. If payment of dividends does occur at some point in the future, it would be contingent upon our revenues and earnings, if any, capital requirements, and general financial condition. The payment of any common stock dividends will be within the discretion of our Board of Directors. We presently intend to retain any earnings after paying the interest for the preferred stock, if any, to implement our business plan; accordingly, we do not anticipate the declaration of any dividends for common stock in the foreseeable future. 
+ Volatility in our common share price may subject us to securities litigation. 
+ The market for our common stock is characterized by significant price volatility as compared to seasoned issuers, and we expect that our share price will continue to be more volatile than a seasoned issuer for the indefinite future. In the past, plaintiffs have often initiated securities class action litigation against a company following periods of volatility in the market price of its securities. We may, in the future, be the target of similar litigation. Securities litigation could result in substantial costs and liabilities and could divert management's attention and resources. 
+ 
+ 7 
+ 
+ The elimination of monetary liability against our directors, officers and employees under Nevada law and the existence of indemnification rights of our directors, officers and employees may result in substantial expenditures by our company and may discourage lawsuits against our directors, officers and employees. 
+ Our Articles of Incorporation contain a specific provision that eliminates the liability of our directors and officers for monetary damages to our company and shareholders. Further, we are prepared to give such indemnification to our directors and officers to the extent provided for by Nevada law. We may also have contractual indemnification obligations under our employment agreements with our officers. The foregoing indemnification obligations could result in our company incurring substantial expenditures to cover the cost of settlement or damage awards against directors and officers, which we may be unable to recoup. These provisions and resultant costs may also discourage our company from bringing a lawsuit against directors and officers for breaches of their fiduciary duties, and may similarly discourage the filing of derivative litigation by our shareholders against our directors and officers even though such actions, if successful, might otherwise benefit our company and shareholders. 
+ 
+ 8 
+
+Our business is subject to changing regulations related to corporate governance and public disclosure that have increased both our costs and the risk of noncompliance. 
+ Because our common stock is publicly traded, we are subject to certain rules and regulations of federal, state and financial market exchange entities charged with the protection of investors and the oversight of companies whose securities are publicly traded. These entities, including the Public Company Accounting Oversight Board, the United States Security Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA), have issued requirements and regulations and continue to develop additional regulations and requirements in response to corporate scandals and laws enacted by Congress, most notably the Sarbanes-Oxley Act of 2002. Our efforts to comply with these regulations have resulted in, and are likely to continue resulting in, increased general and administrative expenses and diversion of management time and attention from revenue-generating activities to compliance activities. Because new and modified laws, regulations and standards are subject to varying interpretations in many cases due to their lack of specificity, their application in practice may evolve over time as new guidance is provided by regulatory and governing bodies. This evolution may result in continuing uncertainty regarding compliance matters and additional costs necessitated by ongoing revisions to our disclosure and governance practices. 
+ ITEM 1B. UNRESOLVED STAFF COMMENTS 
+ None 
+ ITEM 2. PROPERTIES 
+ The Company does not own any real property, nor have any long term lease obligations. 
+ ITEM 3. LEGAL PROCEEDINGS 
+ From time to time, the Company may become subject to various legal proceedings that are incidental to the ordinary conduct of its business. Although the Company cannot accurately predict the amount of any liability that may ultimately arise with respect to any of these matters, it makes provision for potential liabilities when it deems them probable and reasonably estimable. These provisions are based on current information and legal advice and may be adjusted from time to time according to developments. 
+ The following three parties have filed claims against Hammer Fiber Optics Investments Ltd and are not secured: 
+
+Cross River Fiber 
+
+273,220.00 
+
+Calvi Electric 
+
+9209.69 
+
+Horizon Blue Cross 
+
+17,308.58 
+
+The following party have filed claims against Open Data Centers, LLC and this agreement was secured by a security deposit. No other security was provided: 
+
+15 Corporate Place South, LLC 
+
+1,621,529.28 
+
+During the period the company settled several claims against the company, including the following: 
+
+Crown Castle Fiber FKA Lightower 
+
+1,544,621 
+
+Zayo Group, LLC 
+
+2,561,370 
+
+Foley Incorporated 
+
+5,703.69 
+
+Ventnor Loan, LLC 
+
+22,937.65 
+
+The company settled the matter with Crown Castle Fiber FKA Lightower for a one-time payment of 65,000. The company settled the matter with Zayo Group on behalf of Open Data Centers, LLC and Hammer Fiber Optics Investments Ltd for a one-time payment of 90,000. The company settled the matter with Foley Incorporated on behalf of Open Data Centers, LLC for a one-time payment of 2,000. The company settled the matter with Ventor Loan on behalf of Hammer Fiber Optics Investments Ltd for a one-time payment of 2,000. 
+ The company resolved the claims of Iron Mountain Data Centers, LLC and Bank of America against Hammer Fiber Investments Ltd. In the opinion of the Company, Iron Mountain failed to meet its obligations under the agreement and the Company is now pursuing the matter against Iron Mountain Data Centers, LLC. 
+ 1stPoint Communications has settled its matter with Shannon Walchuk for 160,000 and the payments have been made in full and the matter is closed. 
+ 
+ 9 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+ We do not engage in mining operations and accordingly have no information to disclose concerning mine safety. 
+ 
+ 10 
+
+PART II 
+ ITEM 5. MARKET FOR COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES MARKET FOR COMMON EQUITY 
+ Market Price and Dividends 
+ Our common stock is currently quoted on the OTC Bulletin Board, under the symbol "HMMR." Our common stock has been quoted on the OTC Bulletin Board since approximately August 30, 2016. Prior to that, our shares of common stock were quoted on the OTC Bulletin Board under the symbol "TPHX". Because we are quoted on the OTC Bulletin Board, our securities may be less liquid, receive less coverage by security analysts and news media, and generate lower prices than might otherwise be obtained if they were listed on a national securities exchange. The following table sets forth the high and low bid quotations for our common stock as reported on the OTC Bulletin Board for the periods indicated. 
+
+High 
+
+Low 
+
+Fiscal Year 2020 
+
+July 31, 2021 
+
+0.75 
+
+0.4251 
+
+April 30, 2021 
+
+0.1.42 
+
+0.271 
+
+January 31, 2021 
+
+0.38 
+
+0.1205 
+
+October 31, 2020 
+
+0.20 
+
+0.074 
+
+Fiscal Year 2019 
+
+July 31, 2020 
+
+0.27 
+
+0.15045 
+
+April 30, 2020 
+
+0.50 
+
+0.17 
+
+January 31, 2020 
+
+0.49 
+
+0.23 
+
+October 31, 2019 
+
+0.60 
+
+0.32 
+
+Fiscal Year 2018 
+
+July 31, 2019 
+
+0.59 
+
+0.305 
+
+April 30, 2019 
+
+0.805 
+
+0.401 
+
+January 31, 2019 
+
+1.03 
+
+0.20 
+
+October 31, 2018 
+
+0.60 
+
+0.41 
+
+Note: High and Low prices reflected are through July 31, 2021. 
+ Information for the periods referenced above has been furnished by the OTC Bulletin Board. The quotations furnished by the OTC Bulletin Board reflect inter-dealer prices, without retail mark-up, mark-down or commission and may not reflect actual transactions. As of July 31, 2021, there were 60,853,341 shares of the registrant's .001 par value common stock issued and 57,010,256 outstanding. We have never declared or paid any cash dividends on our common stock nor do we intend to do so in the foreseeable future. Any future determination to pay cash dividends will be at the discretion of our Board of Directors and will depend upon our financial condition, operating results, capital requirements, any applicable contractual restrictions and such other factors as our Board of Directors deems relevant. 
+ Re-Purchase of Equity Securities 
+ None. 
+ Securities Authorized for Issuance under Equity Compensation Plan 
+ None. 
+ ITEM 6. SELECTED FINANCIAL DATA 
+ We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information required under this item. 
+ 
+ 11 
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ MANAGEMENT'S DISCUSSION AND ANALYSIS 
+ This Annual Report on Form 10-K contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the "Securities Act") and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). These forward-looking statements are not historical facts but rather are based on current expectations, estimates and projections. We may use words such as "anticipate," "expect," "intend," "plan," "believe," "foresee," "estimate" and variations of these words and similar expressions to identify forward-looking statements. These statements are not guarantees of future performance and are subject to certain risks, uncertainties and other factors, some of which are beyond our control, are difficult to predict and could cause actual results to differ materially from those expressed or forecasted. You should read this Report completely and with the understanding that actual future results may be materially different from what we expect. The forward looking statements included in this Report are made as of the date of this Report and should be evaluated with consideration of any changes occurring after the date of this Report. We will not update forward-looking statements even though our situation may change in the future and we assume no obligation to update any forward- looking statements, whether as a result of new information, future events or otherwise. 
+ The following discussion should be read in conjunction with our audited financial statements and the related notes that appear elsewhere in this annual report. The discussions of results, causes and trends should not be construed to imply any conclusion that these results or trends will necessarily continue into the future. 
+ Our audited financial statements are stated in United States Dollars and are prepared in accordance with United States Generally Accepted Accounting Principles. 
+ Overview 
+ The company was incorporated on September 23, 2010 pursuant to the laws of the State of Nevada under the name of Recursos Montana S.A. On March 6, 2015 the Company amended its Articles of Incorporation to change its name to "Tanaris Power Holding, Inc." On April 25, 2016, Tanaris Power Holdings, Inc., a Nevada corporation (the "Company" or "TPHX") entered into a Share Exchange Agreement (the "Share Exchange Agreement") with Hammer Fiber Optics Investments, Ltd., a Delaware corporation ("HFOI"), and the controlling stockholders of HFOI (the "HFOI Shareholders"). Pursuant to the Share Exchange Agreement, closed on July 19, 2016, the Company acquired 20,000,000 shares of common stock of HFOI from the HFOI shareholders and in exchange the Company issued to the HFOI Shareholders 50,000,000 (post-Merger) restricted shares of its common stock. As a result of the Share Exchange Agreement, HFOI became a wholly owned subsidiary of the Company. 
+ The Company was originally organized for the purpose of acquiring and developing mineral properties. The Company had not established the existence of a commercially viable minable ore deposit and therefore did not reach the exploration stage. As such, the company negotiated to dispose of the business of investing in minerals in favor of developing new business opportunities in the technology sector. The company Hammer Fiber Optics Holdings Corp. is now an alternative telecommunications carrier that is poised to position itself as a premier provider of diversified dark fiber networking solutions as well as high capacity broadband wireless access networks in the United States and abroad. 
+ On September 11, 2018, Mark Stogdill, President and Chief Executive Officer and Executive Director of the Board of Directors of the Company resigned from his position as President and Chief Executive Officer of the Company. Mr. Stogdill retains his position as a Director of the Board of Directors. In combination with this change, Erik B. Levitt was appointed the interim President and Chief Executive Officer, effective immediately. 
+ On October 10, 2018 the Company announced the closure of the Atlantic City, NJ wireless broadband network as a result of the termination of the Master Spectrum Lease Agreement held by the Company subsidiary Hammer Fiber Optic Investments Ltd. d/b/a Hammer Communications by Verizon Communications. Verizon Communications had informed the Company of their intention to honor the terms of the lease agreement, then subsequently issued a notification to the Company that the spectrum lease for the 28 GHz spectrum will be prematurely terminated as of October 31, 2018. The Company negotiated with Verizon to find a path forward and was offered a less desirable spectrum leasing arrangement. After extensive engineering discussions it was determined that it was not feasible to pursue the alternative agreement proposed by Verizon. As a result, the Company discontinued operations as of October 31, 2018. 
+ 
+ 12 
+
+On September 11, 2018, our Board of Directors approved stock purchase agreements with 1stPoint Communications LLC and its subsidiaries, Endstream Communications LLC, Open Data Centers LLC and Shelcomm Inc. for the acquisition of all of the equity of the entities. 1stPoint and its subsidiaries possess CLEC licenses in Florida, New York State, and a nationwide CMRS (Commercial Mobile Radio Services) license. The companies operate a data center facility in Piscataway, New Jersey. The acquisition of 1stPoint Communications, LLC, Open Data Centers, LLC and Shelcomm, Inc. closed on November 1, 2018. Mr. Levitt was also elected as a member of the Board of Directors, effective immediately. The acquisition of Endstream Communications, LLC closed on December 17, 2018. 
+ On January 29, 2019 our Board of Directors approved a stock purchase agreement with American Network, Inc to acquire all of its equity. The acquisition of American Network, Inc closed on September 1, 2019. 
+ As of April 30, 2020 our Board of Directors approved the discontinuation of the operations of Open Data Centers LLC. The operations of Open Data Centers, LLC were discontinued effective April 30, 2020 and the Company shut down its operations in its Piscataway, NJ data center. 
+ On September 14, 2021, Erik B. Levitt, President and Chief Executive Officer and Executive Director of the Board of Directors of the Company resigned from his position as President and Chief Executive Officer of the Company. Mr. Levitt retains his position as an Executive Director of the Board of Directors and Principal Financial Officer as well as the Managing Member and Chief Executive Officer of 1stPoint Communications, LLC and Endstream Communications, LLC. In combination with this change, Michael C. Cothill was appointed the Executive Chairman, effective immediately. 
+ On October 19, 2021 our Board of Directors approved a name change from Hammer Fiber Optics Holdings Corp to Hammer Technology Holdings. The name change was submitted to the Secretary of State of Nevada on October 7, 2021 for an effective date of October 19, 2021 and, on October 11, 2021, this corporate action was submitted to FINRA for its review and approval. 
+ On October 25, 2021 our Board of Directors approved a share exchange agreement with Telecom Financial Services Limited ("TFS") for the acquisition one hundred percent (100 of its stock. TFS owns the intellectual property critical to the operations of the company's financial technology business unit as well as certain key supplier, marketing and operating agreements. TFS will be renamed HammerPay. This acquisition has been discussed in the Subsequent Events. 
+ COVID-19 Pandemic Update 
+ In March 2020, the World Health Organization declared a global health pandemic related to the outbreak of a novel coronavirus. The COVID-19 pandemic adversely affected the company's financial performance in the third and fourth quarters of fiscal year 2020 and could have an impact throughout fiscal year 2021. In response to the COVID-19 pandemic, government health officials have recommended and mandated precautions to mitigate the spread of the virus, including shelter-in-place orders, prohibitions on public gatherings and other similar measures. As a result, the company and certain of the company's customers and suppliers temporarily closed locations beginning late in the second quarter of fiscal year 2020, continuing into the third quarter of fiscal year 2020. Partly due to the COVID-19 pandemic, the Company shut down the operations of its' Open Data Centers, LLC operations effective April 30, 2020. There is uncertainty around the duration and breadth of the COVID-19 pandemic, as well as the impact it will have on the company's operations, supply chain and demand for its products. As a result, the ultimate impact on the company's business, financial condition or operating results cannot be reasonably estimated at this time. 
+ As of the date of this document, one hundred percent of the loans provided under the Paycheck Protection Program have been forgiven by the Small Business Administration. These notes have been retired and are categorized as Other Income on our financial statements. 
+ Results of Operations 
+ The Year Ended July 31, 2021 Compared to the Year Ended July 31, 2020 
+ Net revenues from continuing operations for the year ended July 31, 2021 and 2020 were 2,199,127 and 1,781,139, respectively. 
+ During the year ended July 31, 2021, the Company incurred total operating expenses from continuing operations of 1,568,357 compared with 2,058,804 for the comparable period ended in 2020. The increase in operating costs was primarily due to expenses related to its increased revenues in its Over-the-Top ("OTT") business as well as development expenses associated with new product development. 
+ The Company recorded depreciation expense of 55,398 during the year ended July 31, 2021 compared to 44,454 in the comparable period in 2020, primarily due to increases in computer equipment in support of growth in the OTT business. 
+ During the year ended July 31, 2021, interest expense was 30,797 compared to 31,843 in the comparable period in 2020. 
+ 
+ 13 
+
+Liquidity and Capital Resources 
+ We have financed our operations since inception primarily through private placements of our common stock. As of July 31, 2021, we had cash and cash equivalents of 73,971. 
+ Net cash from operating activities was -78,360 and 150,703 for the year ended July 31, 2021 and July 31, 2020, respectively. The decrease was primarily due to the development activities related to Hammer's telecommunications software and operations of its new wireless network in Huntsville, AL. 
+ Net cash used in investing activities was 75,503 and 50,857 for the year ended July 31, 2021 and July 31, 2020, respectively. The increase in cash used in investing activities was primarily due software development activities and its new network in Huntsville, AL. 
+ Net cash provided by financing activities was 157,538 and 299,527 for the year ended July 31, 2021 and July 31, 2020, respectively. The decrease in cash provided by financing activities for the period ended July 31, 2021 when compared to the same period in 2020 was primarily the result of reduced operating cash flow requirements associated with the continuing operations of the business and payments for settlements against discontinued operations. 
+ We have not attained profitable operations and are dependent upon obtaining financing to pursue any extensive activities. For these reasons, our auditors have included in their report on our audited financial statements for the fiscal year ended July 31, 2021 an explanatory paragraph regarding factors that raise substantial doubt that we will be able to continue as a going concern. 
+ Going Concern 
+ As at July 31, 2021, substantial doubt existed as to the Company's ability to continue as a going concern as the Company has earned only minimal revenue, has no certainty of earning additional revenues in the future, has a working capital deficit and an overall accumulated deficit since inception. The Company will require additional financing to continue operations either from management, existing shareholders, or new shareholders through equity financing and/or sources of debt financing. These factors raise substantial doubt regarding the Company's ability to continue as a going concern. The financial statements do not include any adjustments to the recoverability and classification of recorded asset amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going concern. 
+ Contractual Obligations 
+ We are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+ Selected Financial Data 
+ We are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+ ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ We are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+ ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ July 31, 2021 and 2020 
+
+Reports of Independent Registered Public Accounting Firms 
+
+F-1 
+
+Consolidated Balance Sheets 
+
+F-3 
+
+Consolidated Statements of Operations 
+
+F-4 
+
+Consolidated Statements of Changes in Stockholders' Equity 
+
+F-5 
+
+Consolidated Statements of Cash Flows 
+
+F-6 
+
+Notes to Consolidated Financial Statements 
+
+F-7 
+
+14 
+
+Boyle CPA, LLC 
+ Certified Public Accountants Consultants 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ To the Shareholders and 
+ Board of Directors of Hammer Fiber Optics Holdings Corp. 
+ Opinion on the Financial Statements 
+ We have audited the accompanying consolidated balance sheets of Hammer Fiber Optics Holdings Corp. (the "Company") as of July 31, 2021 and 2020, the related consolidated statements of operations, stockholders' equity (deficit), and cash flows for each of the two-years in the period ended July 31, 2021, and the related notes (collectively referred to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of July 31, 2021 and 2020, and the results of its operations and its cash flows for each of the two years in the period ended July 31, 2021, in conformity with accounting principles generally accepted in the United States of America. 
+ Substantial Doubt About the Company's Ability to Continue as a Going Concern 
+ The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 4 to the consolidated financial statements, the Company's cumulative net losses raises substantial doubt about its ability to continue as a going concern for one year from the issuance of these financial statements. Management's plans are also described in Note 4. The consolidated financial statements do not include adjustments that might result from the outcome of this uncertainty. 
+ Basis of Opinion 
+ These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are required to be independent with respect to the Company in accordance with U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ We conducted our audit in accordance with standards of the Public Company Accounting Oversight Board (United States). Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to fraud or error. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audit, we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion. 
+ Our audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+ Critical Audit Matters 
+ The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+331 Newman Springs Road 
+ P (732) 784-1582 
+
+Building 1, 4 th Floor, Suite 143 
+ F (732) 510-0665 
+
+Red Bank, NJ 07701 
+
+F-1 
+
+Intangible Assets with Indefinite Lives 
+ As described in Notes 3 and 4 to the consolidated financial statements, the Company had intangible assets with indefinite useful lives. The assessment for impairment on these intangible assets required accounting considerations and significant estimates. 
+ A significant portion of the Company's intangible assets are wireless licenses that provide wireless operations with the exclusive right to utilize designated radio frequency spectrum to provide communication services. The Company tests the wireless licenses and other indefinite lived intangible assets for potential impairment annually or more frequently if impairment indicators are present. The Company performs a qualitative assessment to determine whether it is necessary to perform a quantitative impairment test. Based upon the qualitative and quantitative factors, the Company determined that its' intangible assets were not impaired at July 31, 2021. 
+ We identified the accounting considerations of the valuation of intangible assets with indefinite lives as a critical audit matter. The principal considerations for our determination were: (1) the significant judgment by management in determining the accounting for the valuation of intangible assets with indefinite useful lives and the (2) a high degree of auditor judgment, subjectivity, and effort in performing procedures and evaluating management's accounting for the valuation of intangible assets with indefinite useful lives. 
+ Our audit procedures related to management's conclusion on the evaluation of the valuation of intangible assets with indefinite lives, included the following, among others: (1) evaluating the assessment performed by Management and, (2) independently assessing the carrying values of the intangible assets with indefinite lives 
+ /s/ Boyle CPA, LLC 
+ We have served as the Company's auditor since 2019 
+ Red Bank, NJ October 29, 2021 
+
+331 Newman Springs Road 
+ P (732) 784-1582 
+
+Building 1, 4 th Floor, Suite 143 
+ F (732) 510-0665 
+
+Red Bank, NJ 07701 
+
+F-2 
+
+Hammer Fiber Optics Holdings Corp. 
+ Consolidated Balance Sheets 
+
+July 31, 
+
+2021 
+
+2020 
+
+ASSETS 
+
+Current Assets 
+
+Cash and cash equivalents 
+ 
+ 77,706 
+
+73,931 
+
+Accounts receivable 
+ 
+ 285,006 
+
+431,350 
+
+Security Deposits 
+ 
+ 11,802 
+
+10,446 
+
+Prepaid expenses 
+ 
+ 14,808 
+
+48,797 
+
+Total current assets 
+ 
+ 388,502 
+
+564,524 
+
+Property and equipment, net 
+ 
+ 155,939 
+
+140,758 
+
+Intangible and other assets 
+ 
+ 3,113,508 
+
+3,156,656 
+
+Assets from Discontinued Operations 
+ 
+ 1,243,090 
+
+1,281,313 
+
+Total assets 
+ 
+ 4,901,909 
+
+5,143,251 
+
+LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT) 
+
+Current Liabilities 
+
+Accounts payable and accrued expenses 
+ 
+ 908,136 
+
+1,206,664 
+
+Loans payable 
+ 
+ 580,597 
+
+448,302 
+
+Deferred Revenue 
+ 
+ 299,200 
+
+289,385 
+
+Total current liabilities 
+ 
+ 1,787,933 
+
+1,944,351 
+
+Liabilities from Discontinued Operations 
+ 
+ 632,318 
+
+8,538,423 
+
+Total Liabilities 
+ 
+ 2,420,318 
+
+10,482,774 
+
+Stockholders' Equity (Deficit) 
+
+Common stock, 0.001 par value, 250,000,000 shares authorized 
+
+60,583,341 shares issued; 57,010,296 and 52,878,308 shares outstanding at July 31, 2021 and 2020, respectively 
+ 
+ 60,853 
+
+60,503 
+
+Additional paid-in capital 
+ 
+ 22,859,434 
+
+17,512,284 
+
+Accumulated deficit 
+ 
+ (20,428,696) 
+ 
+ (22,912,310) 
+
+Total Stockholder's Equity (Deficit) 
+ 
+ 2,481,491 
+
+(5,339,523) 
+
+Total Liabilities and Stockholders' Equity (Deficit) 
+ 
+ 4,901,909 
+
+5,143,251 
+
+See accompanying notes to consolidated financial statements. 
+
+F-3 
+
+Hammer Fiber Optics Holdings Corp 
+ Consolidated Statements of Operations 
+
+For the Year Ended 
+
+July 31, 
+
+2021 
+
+2020 
+
+Revenues 
+ 
+ 2,199,127 
+
+1,781,139 
+
+Costs and expenses: 
+
+Cost of sales 
+ 
+ 1,586,357 
+
+1,156,996 
+
+Selling, general and administrative expenses 
+ 
+ 694,389 
+
+857,354 
+
+Depreciation expense 
+ 
+ 55,389 
+
+44,454 
+
+Total operating expenses 
+ 
+ 2,318,144 
+
+2,058,804 
+
+Operating loss 
+ 
+ (119,017) 
+ 
+ (277,665) 
+
+Other income (expense) 
+
+Other Income 
+ 
+ 213,026 
+
+- 
+
+Interest expense 
+ 
+ (30,797) 
+ 
+ 31,843 
+
+Other expenses 
+ 
+ (2,475) 
+ 
+ 771 
+
+Total other expenses 
+ 
+ 179,754 
+
+32,614 
+
+Income (loss) Before Discontinued Operations 
+ 
+ 60,737 
+
+(310,279) 
+
+Income (loss) From Discontinued Operations 
+ 
+ 2,412,877 
+
+(614,072) 
+
+Net income (loss) 
+ 
+ 2,473,614 
+
+(924,351) 
+
+Weighted average number of common shares outstanding - basic and diluted 
+ 
+ 60,853,341 
+
+60,853,341 
+
+Loss per share- basic and diluted 
+
+Continuing operations 
+ 
+ - 
+
+- 
+
+Discontinued operations 
+ 
+ 0.04 
+
+(0.02) 
+
+Total 
+ 
+ 0.04 
+
+(0.02) 
+
+See accompanying notes to consolidated statements. 
+
+F-4 
+
+Hammer Fiber Optics Holdings Corp. Consolidated Statement of Stockholders' Equity (Deficit) 
+
+Total 
+
+Additional 
+
+Stockholders' 
+
+Common Stock 
+
+Treasury Stock 
+
+Paid-in 
+
+Accumulated 
+
+Equity 
+
+Shares 
+
+Amount 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+(Deficit) 
+
+Balance, July 31, 2019 
+ 
+ 60,853,341 
+
+60,853 
+
+8,825,033 
+
+- 
+
+17,201,434 
+
+(21,987,959) 
+ 
+ (4,725,672) 
+
+Treasury shares issued for acquisition 
+ 
+ - 
+
+- 
+
+(500,000) 
+ 
+ - 
+
+230,000 
+
+- 
+
+230,000 
+
+Commitment shares issued in registration statement 
+ 
+ - 
+
+- 
+
+(350,000) 
+ 
+ - 
+
+80,500 
+
+- 
+
+80,500 
+
+Net loss 
+ 
+ - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(924,351) 
+ 
+ (924,351) 
+
+Balance, July 31, 2020 
+ 
+ 60,853,341 
+
+60,853 
+
+7,975,033 
+
+- 
+
+17,511,934 
+
+(22,912,310) 
+ 
+ (5,339,523) 
+
+Treasury shares issued for cash 
+ 
+ - 
+
+- 
+
+(307,377) 
+ 
+ - 
+
+75,000 
+
+- 
+
+75,000 
+
+Treasury shares issued for prior acquisition 
+ 
+ - 
+
+- 
+
+(2,067,071) 
+ 
+ - 
+
+- 
+
+- 
+
+- 
+
+Treasury shares issued for debt settlement 
+ 
+ - 
+
+- 
+
+(1,757,500) 
+ 
+ - 
+
+5,272,500 
+
+- 
+
+5,272,500 
+
+Net income 
+ 
+ - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+2,473,614 
+
+2,473,614 
+
+Balance, July 31, 2021 
+ 
+ 60,853,341 
+
+60,853 
+
+3,843,085 
+
+- 
+
+22,859,434 
+
+(20,438,696) 
+ 
+ 2,481,591 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+ . 
+ 
+ F-5 
+
+Hammer Fiber Optics Holdings Corp 
+ Consolidated Statements of Cash Flows 
+
+For the Years Ended 
+
+July 31, 
+
+2021 
+
+2020 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net Loss 
+ 
+ 2,473,614 
+
+(924,351) 
+
+Loss from discontinued operations 
+ 
+ (2,412,877) 
+ 
+ 614,072 
+
+Adjustments to reconcile net loss to net 
+
+cash provided by operating activities: 
+
+Gain on loan forgiveness 
+ 
+ (88,097) 
+ 
+ - 
+
+Depreciation expense 
+ 
+ 55,389 
+
+44,454 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+ 
+ 146,344 
+
+54,114 
+
+Security deposits 
+ 
+ (636) 
+ 
+ (7,771) 
+
+Prepaid expenses 
+ 
+ 33,989 
+
+31,565 
+
+Accounts payable 
+ 
+ (295,901) 
+ 
+ 277,044 
+
+Deferred revenue 
+ 
+ 9,815 
+
+61,576 
+
+Net cash provided by (used in) operating activities- continuing operations 
+ 
+ (78,360) 
+ 
+ 150,703 
+
+Net cash provided by (used in) operating activities- discontinued operations 
+ 
+ - 
+
+- 
+
+Net cash provided by (used in) operating activities 
+ 
+ (78,360) 
+ 
+ 150,703 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Purchase of property and equipment 
+ 
+ (75,503) 
+ 
+ (52,022) 
+
+Purchase of licenses 
+ 
+ - 
+
+- 
+
+Acquisition of customer contracts 
+ 
+ - 
+
+(55,476) 
+
+Net cash provided by (used in) investing activities- continuing operations 
+ 
+ (75,503) 
+ 
+ (107,498) 
+
+Net cash provided by (used in) investing activities- discontinued operations 
+ 
+ - 
+
+(356,568) 
+
+Net cash provided by (used in) investing activities 
+ 
+ (75,503) 
+ 
+ (464,066) 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Repayment of loans 
+ 
+ (103,493) 
+ 
+ (43,923) 
+
+Proceeds from loans 
+ 
+ 411,031 
+
+343,450 
+
+Net cash provided by (used in) financing activities- continuing operations 
+ 
+ 307,538 
+
+299,527 
+
+Net cash provided by (used in) financing activities- discontinued operations 
+ 
+ (150,000) 
+ 
+ - 
+
+Net cash provided by (used in) financing activities 
+ 
+ 157,537 
+
+299,527 
+
+Net increase (decrease) in cash 
+ 
+ 3,675 
+
+(13,836) 
+
+Cash, beginning of period 
+ 
+ 73,931 
+
+87,767 
+
+Cash, end of period 
+ 
+ 77,606 
+
+73,931 
+
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW ACTIVITIES: 
+
+Cash paid for interest 
+ 
+ 30,797 
+
+31,843 
+
+Cash paid for taxes 
+ 
+ 2,475 
+
+771 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F-6 
+
+HAMMER FIBER OPTICS HOLDINGS CORP. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ JULY 31, 2021 and 2020 
+ NOTE 1 - ORGANIZATION AND DESCRIPTION BUSINESS 
+ Hammer Fiber Optics Holdings Corp (OTCQB:HMMR) is a company focused on sustainable shareholder value investing in both financial services technology and wireless telecommunications infrastructure. 
+ Hammer's financial technologies business is focused on providing digital stored value technology via its HammerPay mobile payments platform to enable digital commerce between consumers and branded merchants across the developing world, ensuring Swift, Safe and Secure encrypted remittances and banking transactions. 
+ Hammer's "Everything Wireless" go to market strategy for its telecommunications business includes the development of high speed fixed wireless service for residential, small business and enterprise clients using its wireless fiber platform, Hammer Wireless AIR , mobility networks including 4G/LTE, Over-the-Top services such as voice, SMS and collaboration services and hosting services. 
+ NOTE 2 - CORPORATE HISTORY AND BACKGROUND ON MERGER 
+ The Company was originally incorporated in the State of Nevada on September 23, 2010, under the name Recursos Montana S.A. The Company's principal activity was an exploration stage company engaged in the acquisition of mineral properties then owned by the Company. 
+ On February 2, 2015, the Company entered into a Share Exchange Agreement with Tanaris Power Holdings, Inc., whereby the Company acquired 100 of Tanaris Power Holdings, Inc. issued and outstanding common stock in exchange for shares of the Company's common stock equal to 51 of the issued and outstanding common stock of the Company. Tanaris Power Holdings, Inc. was the owner of certain rights in connection with the marketing and sale of smart lithium-ion batteries and battery technologies for various industrial vehicles markets and related applications. On March 6, 2015, the Company amended its Articles of Incorporation to change its name to Tanaris Power Holdings, Inc. 
+ On April 25, 2016, Tanaris Power Holdings, Inc., a Nevada corporation entered into s Share Exchange Agreement (the "Share Exchange Agreement") with Hammer Fiber Optics Investments, Ltd., a Delaware corporation ("HFOI"), and the controlling stockholders of HFOI (the "HFOI Shareholders"). Pursuant to the Share Exchange Agreement, the Company acquired 20,000,000 shares of common stock of HFOI from the HFOI shareholders (the "HFOI Shares") and in exchange, the Company issued to the HFOI Shareholders 50,000,000 (post-Merger) restricted shares of its common stock (the "HMMR Shares"). As a result of the Share Exchange Agreement, HFOI became a wholly owned subsidiary of the Company. 
+ On April 13, 2016, the Board of Directors (BOD) approved a Plan of Merger (the "Plan of Merger") under Nevada Revised Statuses (NRS) Section 92A.180 to merge (the "Merger") with our wholly-owned subsidiary HFO Holdings, a Nevada corporation, to effect a name change from Tanaris Power Holdings Inc. to Hammer Fiber Optics Holdings Corp. The Plan of Merger also provided for a 1 for 1,000 exchange ratio for shareholders of both the Company and the HRO Holdings, which had the effect of a 1 for 1,000 reverse split of the common stock. Articles of Merger were filed with the Secretary of State of Nevada on April 13, 2016 and, on April 14, 2016, this corporate action was submitted to Financial Industry Regulatory Authority (the "FINRA") for its review and approval. 
+ On May 3, 2016, the FINRA approved the merger with the wholly-owned subsidiary, HMMR Fiber Optics Holdings Corp. ("HFO Holdings"). Accordingly, thereafter, the Company's name was changed and the shares of common stock began trading under new ticker symbol "HMMR" as of May 27, 2016. The merger was effected on July 19, 2016. 
+ On September 11, 2018, our Board of Directors approved stock purchase agreements with 1stPoint Communications LLC and its subsidiaries, Endstream Communications LLC, Open Data Centers LLC and Shelcomm Inc. for the acquisition of all of the equity of the entities. 1stPoint and its subsidiaries possess CLEC licenses in Florida, New York State, and a nationwide CMRS (Commercial Mobile Radio Services) license. The companies operate a data center facility in Piscataway, New Jersey. The acquisition of 1stPoint Communications, LLC, Open Data Centers, LLC and Shelcomm, Inc. closed on November 1, 2018. The acquisition of Endstream Communications, LLC closed on December 17, 2018. 
+ On January 29, 2019 our Board of Directors approved a stock purchase agreement with American Network, Inc to acquire all of its equity. The acquisition of American Network, Inc closed on September 1, 2019. 
+ As of April 30, 2020 our Board of Directors approved the discontinuation of the operations of Open Data Centers LLC. The operations of Open Data Centers, LLC were discontinued effective April 30, 2020 and the Company shut down its operations in its Piscataway, NJ data center. 
+ 
+ F-7 
+
+HAMMER FIBER OPTICS HOLDINGS CORP. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ JULY 31, 2021 and 2020 
+ NOTE 2 - CORPORATE HISTORY AND BACKGROUND ON MERGER (CONTINUED) 
+ On October 25, 2021 our Board of Directors approved a share exchange agreement with Telecom Financial Services Limited ("TFS") for the acquisition one hundred percent (100 of its stock. TFS owns the intellectual property critical to the operations of the company's financial technology business unit as well as certain key supplier, marketing and operating agreements. TFS will be renamed HammerPay [USA] Ltd. This acquisition has been discussed in the Subsequent Events. 
+ NOTE 3 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+ Basis of presentation 
+ The accompanying consolidated financial statements and related notes have been prepared in accordance with accounting principles generally accepted in the United States of America ("U.S. GAAP"). 
+ Use of estimates 
+ The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amount of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+ COVID-19 Pandemic Update 
+ In March 2020, the World Health Organization declared a global health pandemic related to the outbreak of a novel coronavirus. The COVID-19 pandemic adversely affected the company's financial performance in the third and fourth quarters of fiscal year 2020 and could have an impact throughout fiscal year 2021. In response to the COVID-19 pandemic, government health officials have recommended and mandated precautions to mitigate the spread of the virus, including shelter-in-place orders, prohibitions on public gatherings and other similar measures. As a result, the company and certain of the company's customers and suppliers temporarily closed locations beginning late in the second quarter of fiscal year 2020, continuing into the third quarter of fiscal year 2020. Partly due to the COVID-19 pandemic, the Company shut down the operations of its' Open Data Centers, LLC operations effective April 30, 2020. There is uncertainty around the duration and breadth of the COVID-19 pandemic, as well as the impact it will have on the company's operations, supply chain and demand for its products. As a result, the ultimate impact on the company's business, financial condition or operating results cannot be reasonably estimated at this time. On May 5, 2020 and on February 26, 2021 the Company's 1stPoint Communications LLC subsidiary entered into two 88,097 notes payable to Bank of America, pursuant to the Paycheck Protection Program ("PPP Loan") under the CARES Act. 1stPoint has met the requirements for Loan Forgiveness, and as of October 19, 2021, these notes have been forgiven by the Small Business Administration in accordance with rules of the CARES Act. The amounts of have been reflected as other income in the company's financial statements. 
+ Cash and cash equivalents 
+ Cash and cash equivalents include cash in banks, money market funds, and certificates of term deposits with maturities of less than three months from inception, which are readily convertible to known amounts of cash and which, in the opinion of management, are subject to an insignificant risk of loss in value. 
+ Property and equipment 
+ Property and equipment is stated at cost less accumulated depreciation. Depreciation is provided for on a straight-line basis over the useful lives of the assets. For network service equipment, and furniture and fixtures, the useful life is ten and five years, respectively. Leasehold Improvements are depreciated over six years. Expenditures for additions and improvements are capitalized; repairs and maintenance are expensed as incurred. 
+ Impairment of long-lived assets 
+ The Company evaluates long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of the assets to future undiscounted cash flows to be generated by the asset. If such assets are considered to be impaired, the impairment to be recognized is measured as the amount by which the carrying amount of the assets exceeds the fair value of the assets. The Company has not recognized impairment losses for any long-lived assets. 
+ 
+ F-8 
+
+HAMMER FIBER OPTICS HOLDINGS CORP. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ JULY 31, 2021 and 2020 
+ NOTE 3 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+ Notes Receivable 
+ These assets are non-derivative financial assets with fixed or determinable payments that are not quoted in an active market. Subsequent to initial recognition, they are recorded at amortized cost less any provision for impairment. Individually significant receivables are considered for impairment when they are past due or when other objective evidence is received that a specific counterparty is more likely than not to default. 
+ Indefinite lived intangible assets 
+ The Company reviews property, plant and equipment, inventory component prepayments and certain identifiable intangibles, excluding goodwill, for impairment. Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate the carrying amount of an asset may not be recoverable. Recoverability of these assets is measured by comparison of their carrying amounts to future undiscounted cash flows the assets are expected to generate. If property, plant and equipment, inventory component prepayments and certain identifiable intangibles are considered to be impaired, the impairment to be recognized equals the amount by which the carrying value of the assets exceeds its fair value. The Company has not recorded any related impairment losses. The Company does not amortize goodwill and intangible assets with indefinite useful lives, rather such assets are required to be tested for impairment at least annually or sooner whenever events or changes in circumstances indicate that the assets may be impaired. The Company has not recorded any related impairment losses. 
+ Revenue recognition 
+ The Company accounts for revenues under Accounting Standards Update (ASU) 2014-09, "Revenue from Contracts with Customers" (Topic 606), which we adopted on August 1, 2018, using the modified retrospective approach. This standard update, along with related subsequently issued updates, clarifies the principles for recognizing revenue and develops a common revenue standard for GAAP. . The Company performs the following five steps: (i) identify the contract(s) with a customer, (ii) identify the performance obligations in the contract, (iii) determine the transaction price, (iv) allocate the transaction price to the performance obligations in the contract, and (v) recognize revenue when (or as) the entity satisfies a performance obligation. The Company applies the five-step model to arrangements that meet the definition of a contract under Topic 606, including when it is probable that the entity will collect the consideration it is entitled to in exchange for the goods or services it transfers to the customer. At contract inception, once the contract is determined to be within the scope of Topic 606, the Company evaluates the goods or services promised within each contract related performance obligation and assesses whether each promised good or service is distinct. The Company recognizes as revenue, the amount of the transaction price that is allocated to the respective performance obligation when (or as) the performance obligation is satisfied. Amounts invoiced or collected in advance of product delivery or providing services are recorded as unearned revenue or customer deposits. The company accrues for sales returns, bad debts, and other allowances based on its historical experience. The Company's revenues have consisted primarily of subscription agreements for its broadband internet and voice-over-IP phone services. Residential broadband service delivered to customers over the Company's hybrid fiber and wireless network in Atlantic County, New Jersey has been the primary revenue source. Revenues are supplemented by phone and add-on services. Broadband services delivered via fiber optics to enterprise businesses account for the remaining sources of revenue. Services have been billed monthly to subscribers on either a one- year or two-year contract for residential customers and three-year contracts for enterprise business customers. Revenue begins accruing as service is delivered at commencement of the customer's service contract. 
+ Income taxes 
+ The Company accounts for income taxes using the asset and liability method in accordance with ASC 740, "Accounting for Income Taxes". The asset and liability method provides that deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities and for operating loss and tax credit carry forwards. Deferred tax assets and liabilities are measured using the currently enacted tax rates and laws that will be in effect when the differences are expected to reverse. The Company records a valuation allowance to reduce deferred tax assets to the amount that is believed more likely than not to be realized. 
+ 
+ F-9 
+
+HAMMER FIBER OPTICS HOLDINGS CORP. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ JULY 31, 2021 and 2020 
+ NOTE 3 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+ Fair value measurements 
+ The Company adopted the provisions of ASC Topic 820, "Fair Value Measurements and Disclosures", which defines fair value as used in numerous accounting pronouncements, establishes a framework for measuring fair value and expands disclosure of fair value measurements. The estimated fair value of certain financial instruments, including cash and cash equivalents are carried at historical cost basis, which approximates their fair values because of the short-term nature of these instruments. 
+ ASC 820 defines fair value as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. ASC 820 also establishes a fair value hierarchy, which requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. ASC 820 describes three levels of inputs that may be used to measure fair value: 
+ Level 1 - quoted prices in active markets for identical assets or liabilities 
+ Level 2 - quoted prices for similar assets and liabilities in active markets or inputs that are observable 
+ Level 3 - inputs that are unobservable (for example cash flow modeling inputs based on assumptions) The Company has no assets or liabilities valued at fair value on a recurring basis. 
+ Consolidation of financial statements 
+ Hammer Fiber Optics Holdings Corp. is the parent company and sole shareholder of Hammer Wireless Corporation, Hammer Fiber Optic Investments Ltd, 1stPoint Communications, LLC, Endstream Communications, LLC, Shelcomm, Inc., Open Data Centers, LLC, and American Network, Inc. The company is also the beneficial owner of Hammer Wireless SL. The financial statements for Hammer Fiber Optics Holdings Corp. and its subsidiaries are reported on a consolidated basis. All significant intercompany accounts and transactions have been eliminated. Hammer Fiber Optics Investments, Ltd and Open Data Centers, LLC have been discontinued and are reported on a summarized basis in consolidation. 
+ Basic and Diluted Earnings (Loss) per Common Share 
+ The basic earnings (loss) per share are calculated by dividing the Company's net income available to common shareholders by the weighted average number of common shares during the year. The diluted earnings (loss) per share is calculated by dividing the Company's net income (loss) available to common shareholders by the diluted weighted average number of shares outstanding during the year. The diluted weighted average number of shares outstanding is the basic weighted number of shares adjusted for any potentially dilutive debt or equity. Diluted earnings (loss) per share are the same as basic earnings (loss) per share due to the lack of dilutive items in the Company. As of July 31, 2021 and 2020, there were no common stock equivalents outstanding. 
+ Recent accounting pronouncements 
+ In May 2014, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2014-09, Revenue from Contracts with Customers. ASU 2014-09 is a comprehensive revenue recognition standard that will supersede nearly all existing revenue recognition guidance under current U.S. GAAP and replace it with a principle-based approach for determining revenue recognition. ASU 2014-09 will require that companies recognize revenue based on the value of transferred goods or services as they occur in the contract. The ASU also will require additional disclosure about the nature, amount, timing and uncertainty of revenue and cash flows arising from customer contracts, including significant judgments and changes in judgments and assets recognized from costs incurred to obtain or fulfill a contract. In addition, during 2016 the FASB has issued ASU 2016-08, ASU 2016-10 and ASU 2016-12, all of which clarify certain implementation guidance within ASU 2014-09, and ASU 2016-11, which rescinds certain SEC guidance effective upon an entity's adoption of ASU 2014-09. ASU 2014-09 is effective for interim and annual periods beginning after December 15, 2017. Early adoption is permitted only in annual reporting periods beginning after December 15, 2016, including interim periods therein. The Company adopted ASU No. 2014-09 and related updates on August 1, 2018. Adoption did not have a material impact on the Company's consolidated financial statements. 
+ 
+ F-10 
+
+HAMMER FIBER OPTICS HOLDINGS CORP. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ JULY 31, 2021 and 2020 
+ NOTE 3 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+ In February 2016, FASB issued ASU No. 2016-02, Accounting Standards Update No. 2016-02, Leases (Topic 842). ASU 2016-02 provides for improvements for accounting guidance related to leasing treatments on financial statements as a response to user input. The update maintains two classifications of leases, Financial lease and Operating leases. The Update is effective for fiscal years beginning after December 15, 2018. The Company is assessing the impact this standard will have on its' consolidated financial statements. The Company does not expect the adoption of any other recent accounting pronouncements to have a material impact on its financial statements. 
+ Reclassifications 
+ Certain reclassifications have been made to the financial statements to conform to the consolidated 2021 financial statement presentation. 
+ Accounts Receivable 
+ Accounts receivable are recorded at invoiced amount and generally do not bear interest. An allowance for doubtful accounts is established, as necessary, based on past experience and other factors which, in management's judgment, deserve current recognition in estimating bad debts. Such factors include growth and composition of accounts receivable, the relationship of the allowance for doubtful accounts to accounts receivable and current economic conditions. The determination of the collectability of amounts due from customer accounts requires the Company to make judgments regarding future events and trends. Allowances for doubtful accounts are determined based on assessing the Company's portfolio on an individual customer and on an overall basis. This process consists of a review of historical collection experience, current aging status of the customer accounts, and the financial condition of the Company's customers. 
+ NOTE 4 - GOING CONCERN 
+ The accompanying consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. The Company has consistently sustained losses since its inception. These factors, among others, raise substantial doubt about the ability of the Company to continue as a going concern for a period of one year from the issuance of these financial statements. The Company's continuation as a going concern is dependent upon, among other things, its ability to increase revenues, adequately control operating expenses and receive debt and/or equity capital from third parties. No assurance can be given that the Company will be successful in these efforts. 
+ The financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going concern. The Company intends to continue to address this condition by seeking to raise additional capital through the issuance of debt and/or the sale of equity until such time that ongoing revenues can sustain the business, at which time capitalization may be considered through other means. 
+ 
+ F-11 
+
+HAMMER FIBER OPTICS HOLDINGS CORP. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ JULY 31, 2021 and 2020 
+ NOTE 5 - DISCONTINUED OPERATIONS 
+ Hammer Fiber Optics Investment Ltd ceased operations in the Atlantic County geographical market on October 31, 2018 when Verizon Communications, LLC terminated the spectrum lease agreement. The operations of Hammer Fiber Optics Investments, Ltd were classified as a discontinued operation. Open Data Centers, LLC ceased operating in its Piscataway, NJ location in May 2020 and was classified as a discontinued operation. Reporting of the discontinued operations is in accordance with Accounting Standards Update No. 2014-08, Presentation of Financial Statements (Topic 205) and Property, Plant, and Equipment (Topic 360): Reporting Discontinued Operations and Disclosures of Disposals of Components of an Entity. The following summarizes the assets and liabilities of the discontinue operations: 
+
+July 31, 2021 
+
+July 31, 2020 
+
+Assets 
+
+Current Assets 
+
+Cash 
+ 
+ 0 
+
+677 
+
+Accounts receivable 
+ 
+ 0 
+
+36,676 
+
+Other current assets 
+ 
+ 0 
+
+16,139 
+
+Total current assets 
+ 
+ 0 
+
+53,492 
+
+Other Assets 
+
+Property and equipment- net 
+ 
+ 1,243,090 
+
+1,227,821 
+
+Intangible assets 
+ 
+ 0 
+
+- 
+
+Total other assets 
+ 
+ 0 
+
+1,227,821 
+
+Total Assets 
+ 
+ 1,243,090 
+
+1,281,313 
+
+Liabilities and Net Assets 
+
+Current Liabilities 
+
+Accounts payable 
+ 
+ 632,385 
+
+4,632,405 
+
+Notes payable- related parties 
+ 
+ 0 
+
+210,000 
+
+Current portion of long-term notes payable - related parties 
+ 
+ 0 
+
+3,313,544 
+
+Accrued interest 
+ 
+ 0 
+
+382,474 
+
+Rent Concessions 
+ 
+ 0 
+
+- 
+
+Total current liabilities 
+ 
+ 632,385 
+
+8,538,423 
+
+Net assets (liabilities) 
+ 
+ 611,575 
+
+(7,257,110) 
+
+The following summarizes the operations of the discontinue operations: 
+
+July 31, 2021 
+
+July 31, 2020 
+
+Revenue 
+ 
+ - 
+
+528,315 
+
+Operating expenses 
+
+Operations and maintenance 
+ 
+ - 
+
+679,967 
+
+General and administrative 
+ 
+ - 
+
+226,916 
+
+Depreciation and amortization 
+ 
+ - 
+
+10,348 
+
+Impairment expense 
+ 
+ - 
+
+223,025 
+
+Loss from operations 
+ 
+ - 
+
+(611,941) 
+
+Other income (expense) 
+ 
+ - 
+
+Interest expense 
+ 
+ - 
+
+(2,131) 
+
+Interest income 
+ 
+ - 
+
+0 
+
+Total other income (expense) 
+ 
+ - 
+
+- 
+
+Net Loss 
+ 
+ - 
+
+(614,072) 
+
+F-12 
+
+HAMMER FIBER OPTICS HOLDINGS CORP. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ JULY 31, 2021 and 2020 
+ NOTE 6 - ACQUISITIONS 
+ There were no new acquisitions during the period. 
+ NOTE 7 - PROPERTY AND EQUIPMENT 
+ As of July 31, 2021, property and equipment from ongoing operations included: 
+
+Amount 
+
+Life 
+
+Computer and Telecom equipment 
+ 
+ 1,216,639 
+
+5 years 
+
+Less: Accumulated depreciation 
+ 
+ (1,060,700) 
+
+Total 
+ 
+ 155,939 
+
+Depreciation expense was 55,389 and 44,454 for the years ended July 31, 2021 and 2020, respectively. 
+ NOTE 8 - INDEFINITE LIVED INTANGIBLE ASSETS 
+ The Company has intangible assets with indefinite useful lives resulting from various acquisitions, including of 1stPoint Communications LLC and Endstream Communications, LLC. 
+ A portion of our intangible assets are wireless licenses that provide our wireless operations with the exclusive right to utilize designated radio frequency spectrum to provide communication services. While licenses are often issued for only a fixed time, such licenses are subject to renewal. License renewals have occurred routinely and at nominal cost. Moreover, the Company has determined that there are currently no legal, regulatory, contractual, competitive, economic or other factors that limit the useful life of our licenses. As a result, we treat the wireless licenses as an indefinite-lived intangible asset. We re-evaluate the useful life determination for wireless licenses each year to determine whether events and circumstances continue to support an indefinite useful life. 
+ The Company has 18,934 of recognized indefinite lived intangible assets, which consist of the ownership of Internet Protocol version 4 (IPv4) address blocks. The Hammer Wireless SL, Ltd. Subsidiary has been granted a nationwide telecommunications and wireless license in the country of Sierra Leone, for which it paid 218,584. Hammer paid 42,500 to Wikibuli, Inc. in exchange for capital stock in Wikibuli, the operating company in Dominica. 
+ These assets are not amortized and are evaluated routinely for potential impairment. If a determination is made that the intangible asset is impaired after performing the initial qualitative assessment, the asset's fair value will be calculated and compared with the carrying value to determine whether an impairment loss should be recognized. Based upon the qualitative and quantitative factors, the Company determined that its intangible assets are not impaired at July 31, 2021. 
+ NOTE 9 - RELATED PARTY TRANSACTIONS 
+ On October 9, 2016, the Company entered into a short-term loan agreement with a family member of a member of the Company's Board of Directors (BOD). Under the agreement, the lender advanced 100,000 to the Company for the purpose of providing working capital. The loan carries an annual interest rate of 3 . On September 15, 2016, the Company received 210,000 from a family member of a member of the BOD, also for the purpose of working capital, and has recorded such amount as a deposit in anticipation of executing a loan agreement. The company settled this note for the full amount in stock at 3/share of HMMR common stock on July 31, 2021. 
+ On April, 9 2018, the Company received an additional 20,000 deposit from a family member of a member of the BOD. The amount was intended as additional working capital. The Company anticipates execution of a loan agreement relative to this advance. 
+ During the fiscal year ended July 31, 2016, the Company entered into two promissory notes with a Director for an aggregate amount of 2,400,000 and 1,000,000, respectively. The 2,400,000 note matures on January 4, 2019. The terms consist of ten principal and interest payments due quarterly in the amount of 300,000 for total payments of 3,000,000. To date, the Company has made payments on this note amounting to 725,831. The payments were applied to interest accrued as of the time of payment as well as to principal. The principal balance was 2,294,067 at July 31, 2018 and 2017. The interest accrued was 219,434 at July 31, 2018 and 69,594 at July 31, 2017, respectively. This company settled this note for the full amount in stock at 3/share of HMMR common stock on July 31, 2021. 
+ The 1,000,000 note matured on June 9, 2018 at which time the principal became due in its entirety, in addition to simple interest accrued at 3 . The company settled these amounts in full on of July 31, 2021 in exchange for HMMR common stock at 3/share. 
+ On February 12, 2018, the Company entered into a convertible promissory note for the sum of 103,000. On June 19, 2018, the note was settled in full on the company's behalf by a Director. The settlement included a prepayment penalty for a full settlement amount of 132,433. The difference between the carrying value of the loan and the full settlement amount 29,433) was recorded as interest expense. 
+ 
+ F-13 
+
+HAMMER FIBER OPTICS HOLDINGS CORP. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ JULY 31, 2021 and 2020 
+ NOTE 9 - RELATED PARTY TRANSACTIONS (CONTINUED) 
+ During the fiscal year 2018, the Company entered into a Stock Purchase Agreement with a related party for the sum of 14,000 of common stock at 0.4629 per share on May 5, 2019, and the sum of 12,000 of common stock at 0.405 per share on May 30, 2019. 
+ During the fiscal year 2019, the Company entered into a Stock Purchase Agreement with a related party for the sum of 25,000 of common stock at 0.25 per share on March 17, 2020, the sum of 40,000 of common stock at 0.24 per share on March 24, 2020. 
+ On April 6, 2020, the Company entered into a promissory note for the sum of 36,300 with a related party. The note bears interest at a rate of 6 , payable quarterly. 
+ On September 1, 2020, the Company entered into a promissory note for the sum of 100,000 with a related party. The note bears interest at a rate of 6 , payable quarterly. 
+ As of July 31, 2021, all of the related party payables are reported as current liabilities in the Consolidated Balance Sheet. 
+ NOTE 10 - CONVERTIBLE DEBT 
+ On February 12, 2018, the Company entered into an agreement for a convertible promissory note for the sum of 103,000. The note accrues interest at a rate of 12 percent per annum due at maturity. The note matures nine months from the issuance date. Prepayment of the note is subject to a premium charge based on the amount of days prepaid before the maturity date. The note allows conversion into the Company's common stock at a discount of 37 percent of the stock's market price. The holder shall have the right after 180 days to convert all or part of the note at their discretion. On June 19, 2018 the note was settled in full on the company's behalf by a Director. 
+ NOTE 11 - INCOME TAXES 
+ The Company's income tax expense, deferred tax assets and liabilities, and liabilities for unrecognized tax benefits reflect management's best estimate of current and future taxes to be paid. The Company is subject to income taxes in the United States and numerous foreign jurisdictions. Significant judgments and estimate are required in the determination of the consolidated income tax expense. 
+ The reconciliation of income tax benefit at the U.S. statutory rate of 21 for the fiscal year ended July 31, 2021 and 2020, to the Company's effective tax rate is as follows: 
+
+July 31, 
+
+2021 
+
+2020 
+
+Income tax benefit provision at statutory rate 
+ 
+ 619,512 
+
+(194,114) 
+
+Change in valuation allowance 
+ 
+ (619,512) 
+ 
+ 194,114 
+
+- 
+
+- 
+
+The tax effects of temporary differences that give rise to the Company's net deferred tax assets as of July 31, 2021 and 2020 are as follows: 
+
+July 31, 
+
+2021 
+
+2020 
+
+Net operating gain/loss 
+ 
+ 2,950,060 
+
+(4,876,484) 
+
+Valuation allowance 
+ 
+ (2,950,060) 
+ 
+ 4,876,484 
+
+- 
+
+- 
+
+The Tax Cuts and Jobs Act of 2017 (the Act) reduced the statutory corporate federal income tax rate from 35 to 21 beginning in 2018. The blended tax rate for 2018 considered the tax laws enacted in 2017. The tax effect of temporary differences from net operating losses ("NOL") has been reduced to reflect the newly enacted rates. 
+ The Company has approximately 22,912,000 of NOL carried forward to offset taxable income in future years. The tax laws enacted in 2017 also changed the treatment of NOL. Prior to the change, NOL could be carried back up to two years and carried forward up to 20 years to offset taxable income. In the new tax law, the NOL that can be carried forward is limited to 80 of the taxable income, can no longer be carried back, but are allowed to be carried forward indefinitely. The new law will apply to NOL arising in tax years beginning 
+ 
+ F-14 
+
+HAMMER FIBER OPTICS HOLDINGS CORP. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ JULY 31, 2021 and 2020 
+ NOTE 11 - INCOME TAXES (CONTINUED) 
+ December 31, 2017, hence, 3,000,000 of the NOL will be subject to the 80 limitation and will be carried forward indefinitely while 19,297,000 of the NOL will be carried forward for 20 years and will begin to expire in 2036. 
+ In assessing the realization of deferred tax assets, management considers whether it is more likely than not that some portion or all of the deferred tax assets will be realized. The ultimate realization of deferred tax assets is dependent upon the generation of future taxable income during the period in which those temporary differences become deductible. Management considers the scheduled reversal of deferred tax liabilities, projected future taxable income and tax planning strategies in making this assessment. Based on the assessment, management has established a full valuation allowance against all of the deferred tax assets relating to NOLs for every period because it is more likely than not that all of the deferred tax asset will not be realized. 
+ As of July 31, 2021 and 2020, the Company has no unrecognized income tax benefits. The Company's policy for classifying interest and penalties associated with unrecognized income tax benefits is to include such items as a tax expense. No interest or penalties have been recorded during the years ended July 31, 2021 and 2020. As of July 31, 2021 and 2020, the Company did not have any amounts recorded pertaining to uncertain tax positions. 
+ The tax years from 2015 and forward remain open to examination by federal and state authorities due to net operating loss and credit carryforwards. The Company is currently not under examination by the Internal Revenue Service or any other taxing authorities. 
+ NOTE 12 - STOCKHOLDERS' EQUITY 
+ Treasury Stock 
+ During the year ended July 31, 2021, the Company received cash of 75,000 from the sale of 307,377 treasury shares to various Directors: 
+
+Price Per Share 
+
+Shares 
+
+Value 
+
+0.24 
+
+307,377 
+
+75,000 
+
+Total 
+
+307,377 
+
+75,000 
+
+On January 22, 2021, the company issued 2,067,071 shares of stock in accordance with the Stock Purchase Agreements between the Company and 1stPoint Communications, LLC and Endstream Communications, LLC. 
+ On July 31, 2021, the Company issued 1,757,500 shares of stock in settlement of notes payable to a related party. 
+ NOTE 13 - COMMITMENTS AND LEASES 
+ Hammer does not currently have any material long term lease obligations. 
+ 
+ F-15 
+
+HAMMER FIBER OPTICS HOLDINGS CORP. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ JULY 31, 2021 and 2020 
+ NOTE 14 - FOREIGN CURRENCY 
+ We transact business in various foreign currencies including the Euro and the Leone. In general, the functional currency of a foreign operation is the local country's currency. Consequently, revenues and expenses of operations outside the United States are translated into US Dollars using the weighted-average exchange rates on the period end date and assets and liabilities of operations outside the United States are translated into US Dollars using the change rate on the balance sheet dates. The effects of foreign currency translation adjustments are not material to the Company's accompanying financial statements. 
+ NOTE 15 - S-1 REGISTRATION STATEMENT 
+ On October 8, 2019, the Company completed an Equity Purchase Agreement with Peak One Opportunity Fund ("Peak One") and Peak One Investments, LLC ("Peak One Investments) giving the Company the option to sell up to 10,000,000 worth of our common stock to Peak One (the "Maximum Commitment Amount"), in increments, over the period ending twenty-four (24) months after the date the Registration Statement is deemed effective by the SEC (the "Commitment Period"). Additionally, the Company is required to issue Commitment Fees of 175,000 Shares each to Peak One and Peak One Investments. 
+ The Company also has an October 8, 2019 Registration Rights Agreement with Peak One requiring us to file an S-1 Registration Statement providing for the registration of 13,350,000 Shares that result from our selling to Peak One an indeterminate number of shares up to an aggregate purchase price of 10,000,000 and the subsequent resale by Peak One of such shares. One of such shares. This S-1 was effective on February 1, 2020. 
+ NOTE 16 - SUBSEQUENT EVENTS 
+ On October 25, 2021 our Board of Directors approved a share exchange agreement with Telecom Financial Services Limited ("TFS") for the acquisition one hundred percent (100 of its stock. TFS owns the intellectual property critical to the operations of the company's financial technology business unit as well as certain key supplier, marketing and operating agreements. TFS will be renamed HammerPay [USA] Ltd. This acquisition has been discussed in the Subsequent Events. In exchange for 100 of the stock of TFS, the Company will deliver 5,000,000 shares of HMMR common stock. This stock is being issued from treasury and the transaction is non-dilutive. In order to facilitate this transaction, 3,000,000 shares of stock that had been reserved for other transactions will be returned to treasury. 
+ 
+ F-16 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL STATEMENTS 
+ None 
+ ITEM 9A(T). CONTROLS AND PROCEDURES 
+ Management's Report on Disclosure Controls and Procedures 
+ We maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in our reports filed under the Securities Exchange Act of 1934 , as amended, is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission's rules and forms, and that such information is accumulated and communicated to our management, including Chief Executive Officer and our Chief Financial Officer (who is acting as our principal executive officer, principal financial officer and principle accounting officer) to allow for timely decisions regarding required disclosure. 
+ As of July 31, 2020, we carried out an evaluation, under the supervision of our Chief Executive Officer, of the effectiveness of the design and operation of our disclosure controls and procedures. The officer concluded that the disclosure controls and procedures were not effective as of the end of the period covered by this report. 
+ Management's Report on Internal Control over Financial Reporting 
+ Our management is responsible for establishing and maintaining adequate internal control over financial reporting. Responsibility, estimates and judgments by management are required to assess the expected benefits and related costs of control procedures. The objectives of internal control include providing management with reasonable, but not absolute, assurance that assets are safeguarded against loss from unauthorized use or disposition, and that transactions are executed in accordance with management's authorization and recorded properly to permit the preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States. Our management assessed the effectiveness of our internal control over financial reporting as of July 31, 2021. In making this assessment, our management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission ("COSO") in Internal Control-Integrated Framework. Our management has concluded that, as of July 31, 2021, our internal control over financial reporting was not effective. 
+ 
+ 15 
+
+This annual report does not include an attestation report of our company's registered public accounting firm regarding internal control over financial reporting. Management's report was not subject to attestation by our Company's registered public accounting firm pursuant to temporary rules of the Securities and Exchange Commission that permit our company to provide only management's report in this annual report. 
+ Inherent limitations on effectiveness of controls 
+ Internal control over financial reporting has inherent limitations which include but is not limited to the use of independent professionals for advice and guidance, interpretation of existing and/or changing rules and principles, segregation of management duties, scale of organization, and personnel factors. Internal control over financial reporting is a process which involves human diligence and compliance and is subject to lapses in judgment and breakdowns resulting from human failures. Internal control over financial reporting also can be circumvented by collusion or improper management override. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements on a timely basis, however these inherent limitations are known features of the financial reporting process and it is possible to design into the process safeguards to reduce, though not eliminate, this risk. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ Changes in Internal Control over Financial Reporting 
+ There have been no changes in our internal controls over financial reporting that occurred during the year ended July 31, 2021 that have materially or are reasonably likely to materially affect, our internal controls over financial reporting. 
+ ITEM 9B. OTHER INFORMATION 
+ None. 
+ 
+ 16 
+
+PART III 
+ ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ Identification of Executive Officers and Directors of the Company 
+
+Name and Address of Beneficial 
+ Owner Directors and Officers: 
+
+Age 
+
+Class 
+
+Shares Held or Controlled 
+
+Percentage of Class 1 
+
+Michael Cothill 2 
+ Director 
+ 401 East 34 th Street, Suite #N27J 
+ New York, NY 10016 
+
+64 
+
+Common 
+
+4,350,000 
+
+7.2 
+
+Erik B. Levitt 3 
+ CEO, President Executive Director 
+ 401 East 34 th Street, Suite #N27J 
+ New York, NY 10016 
+
+47 
+
+Common 
+
+1,130,476 
+
+1.9 
+
+Michael Sevell 4 
+ Director 
+ 401 East 34 th Street, Suite #N27J 
+ New York, NY 10016 
+
+67 
+
+Common 
+
+9,857,359 
+
+16.3 
+
+Mark Stogdill 5 
+ Director 
+ 401 East 34 th Street, Suite #N27J 
+ New York, NY 10016 
+
+41 
+
+Common 
+
+5,000,000 
+
+8.3 
+
+Kristen Vasicek 6 
+ Secretary COO 
+ 401 East 34 th Street, Suite #N27J 
+ New York, NY 10016 
+
+39 
+
+Common 
+
+206,841 
+
+>1.0 
+
+All executive officers and directors 
+ as a group (5 people) 
+
+Common 
+
+20,544,856 
+
+34.0 
+
+1. The number and percentage of shares beneficially owned is determined under rules promulgated by the SEC and the information is not necessarily indicative of beneficial ownership for any other purpose. Under such rules, beneficial ownership includes any shares as to which the individual has sole or shared voting power or investment power and also any shares, which the individual has the right to acquire within 60 days through the exercise of any stock option or other right. The entities or persons named in the table have sole voting and investment power with respect to all shares of common stock shown that are beneficially owned by them, subject to community property laws where applicable and the information contained in the footnotes to this table. 
+ 2. On August 1, 2016, Michael Cothill was appointed as the Company's Treasury and Chairman of the Company's Board of Directors. The beneficial ownership of our Chairman, Michael Cothill, is held through Ambleside Trust, of which he is the Managing Member. 
+ 3. Erik Levitt's ownership is composed of 1,130,476 shares owned indirectly, as follows: (a) 91,800 shares issued (pursuant to an the September 11, 2018 Purchase Agreement for our purchase of Shelcomm, Inc.) ("Shelcomm"), in exchange for Erik Levitt's respective equity ownership in Shelcom.; and (b) 199,954 shares issued (pursuant to the September 12, 2018 Purchase Agreement for our purchase of Open Data Centers ("Open Data") in exchange for Erik Levitt's respective ownership of Open Data Centers, LLC. In addition, pursuant to vesting schedules, Erik Levitt will receive 1,534,325 shares through a single member LLC, Manhattan Carrier Company ("Manhattan), of which he is the sole member, as follows: (i) 665,808 shares issued to (pursuant to the September 11, 2018 Purchase Agreement providing for our 100 purchase of Endstream Communications, LLC ("Endstream), which included Erik Levitt's respective ownership of Endstream; (ii) 871,517 shares issued to (pursuant to the September 11, 2018 Purchase Agreement providing for our 100 purchase of lstPoint Communications, LLC) ("lstPoint"), including Erik Levitt's respective ownership of lstPoint. Amendment 2 to the Stock Purchase Agreement for Endstream and 1stPoint Communications altered the 539 Plan, and Mr. Levitt received 159,800 shares of Common Stock in exchange for Erik Levitt's respective ownership of Endstream Communications, LLC and 226,845 shares of Common Stock in exchange for Erik Levitt's respective ownership of 1stPoint Communications, LLC. In accordance with Amendment 2 of the Stock Purchase Agreements for Endstream and 1stPoint Communications altered the Plan and Mr. Levitt received an additional 141,817 shares of Stock. 
+ 4. Michael Sevell's ownership of 9,857,359 shares is composed of: (a) 7,665,039 shares owned directly by Michael Sevell; and (b) 2,192,500 shares representing his indirect ownership through 2,192,500 shares owned by Forefront Investors, LLC., for which Michael Sevell has sole dispositive power. 
+ 
+ 17 
+
+5. Mark Stogdill's ownership is 5,000,000 shares represents his indirectly ownership of 5,000,000 shares owned by Arradis Enterprises, LLC, a Limited Liability Company under his control and for which he has sole dispositive power. 
+ 6 . Pursuant to a stock grant and a Rule 539 Vesting Plan, Kristen Vasicek will receive 81,320 shares by our issuance of 16,264 shares each on January 2, 2020 2021, 2022, 2023, and 2024. Additionally, pursuant to a stock grant and a Rule 539 Vesting Plan, Kristen Vasicek will receive 52,093 shares, 10,418.6 shares each on January 2, 2020, 2021, 2022, 2023, and 2024. Amendment 2 to the Stock Purchase Agreement for Endstream and 1stPoint Communications altered the 539 Plan, and Ms. Vasicek received 12,501 shares of Common Stock in exchange for Ms. Vasicek's respective ownership of Endstream Communications, LLC and 21,167 shares of Common Stock in exchange for Ms. Vasicek's respective ownership of 1stPoint Communications, LLC. Pursuant to Amendment 2 of the Stock Purchase Agreement, Ms. Vasicek received an additional 18,113 shares of stock on January 2, 2021. 
+ Term of Office 
+ Each director of the Company serves for a term of one year and until his successor is elected and qualified at the next Annual Shareholders' Meeting, or until his death, resignation or removal. Each officer of the Company serves for a term of one year and until his successor is elected and qualified at a meeting of the Board of Directors. 
+ Significant Employees 
+ Erik B. Levitt - Principal Financial Officer, CEO - 1stPoint Communications 
+ Kristen Vasicek - Chief Operating Officer 
+ Family Relationships 
+ None. 
+ Involvement in Certain Legal Proceedings 
+ During the past ten years no director, executive officer, promoter or control person of the Company has been involved in the following: 
+ (1) A petition under the Federal bankruptcy laws or any state insolvency law which was filed by or against, or a receiver, fiscal agent or similar officer was appointed by a court for the business or property of such person, or any partnership in which he was a general partner at or within two years before the time of such filing, or any corporation or business association of which he was an executive officer at or within two years before the time of such filing; 
+ (2) Such person was convicted in a criminal proceeding or is a named subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+ (3) Such person was the subject of any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining him from, or otherwise limiting, the following activities: 
+ (i) Acting as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee of any investment company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice in connection with such activity; 
+ (ii) Engaging in any type of business practice; or 
+ (iii) Engaging in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of Federal or State securities laws or Federal commodities laws; 
+ (4) Such person was the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any Federal or State authority barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any activity described in paragraph (f)(3)(i) of this section, or to be associated with persons engaged in any such activity; 
+ (5) Such person was found by a court of competent jurisdiction in a civil action or by the Commission to have violated any Federal or State securities law, and the judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended, or vacated; 
+ 
+ 18 
+
+(6) Such person was found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any Federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently reversed, suspended or vacated; 
+ (7) Such person was the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of: 
+ (i) Any Federal or State securities or commodities law or regulation; or 
+ (ii) Any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order; or 
+ (iii) Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+ (8) Such person was the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member. 
+ Code of Ethics 
+ The Company has not adopted any formal Code of Ethics. 
+ Committees of the Board of Directors 
+ The Company does not presently have a separately designated standing audit committee, compensation committee, nominating committee, executive committee or any other committees of our Board of Directors. The functions of those committees are undertaken by our Board of Directors as a whole. 
+ ITEM 11. EXECUTIVE COMPENSATION 
+ The following table sets forth information concerning all cash and non-cash compensation awarded to, earned by or paid to the named persons for services rendered in all capacities during the noted periods. No other executive officer received total annual salary and bonus compensation in excess of 100,000. 
+
+SUMMARY COMPENSATION TABLE 1 
+
+Name and Principal Position 
+
+Fiscal 
+ Year 
+
+Salary ) 
+
+All Other 
+ Compensation ) 
+
+Total ) 
+
+Erik B. Levitt 4 
+ Executive Director Principal Financial Officer, CEO - 1stPoint Communications, LLC 
+
+2020 
+
+11,000 
+
+NIL 
+
+11,000 
+
+2019 
+
+1,000 
+
+NIL 
+
+1,000 
+
+Kristen Vasicek 6 Secretary COO 
+
+2020 
+
+72,000 
+
+NIL 
+
+72,000 
+
+2019 
+
+72,000 
+
+NIL 
+
+72,000 
+
+1. We have omitted certain columns in the summary compensation table pursuant to Item 402(a)(5) of Regulation S-K as no compensation was awarded to, earned by, or paid to any of the executive officers or directors required to be reported in that table or column in any fiscal year covered by that table. 
+ 2. The "All Other Compensation" column is used to disclose the aggregate amount of all compensation that the company could not properly report in any other column of the Summary Compensation Table. 
+ 3. Erik B. Levitt had an employment agreement with the company but opted to take a reduction of compensation for year ending July 31, 2021 as reflected in the Summary Compensation Table. 
+ 5 . Kristen Vasicek is employed by the company under an at-will employment agreement. 
+ 
+ 19 
+
+Option Grants 
+ We have not granted any options or stock appreciation rights to our named executive officers or directors since inception. We do not have any stock option plans. 
+ Management Agreements 
+ We had executive contract agreements during the reporting period with our CEO Erik B. Levitt. 
+ Pension, Retirement or Similar Benefit Plans 
+ There are no arrangements or plans in which we provide pension, retirement or similar benefits to our directors or executive officers. We have no material bonus or profit-sharing plans pursuant to which cash or non-cash compensation is or may be paid to our directors or executive officers, except that stock options may be granted at the discretion of the Board of Directors or a committee thereof. 
+ Compensation Committee 
+ We do not currently have a compensation committee of the Board of Directors or a committee performing similar functions. The Board of Directors as a whole participates in the consideration of executive officer and director compensation. 
+ Indebtedness of Directors, Senior Officers, Executive Officers and Other Management 
+ None of our directors or executive officers or any associate or affiliate of our company during the last two fiscal years is or has been indebted to our company by way of guarantee, support agreement, letter of credit or other similar agreement or understanding currently outstanding. 
+ ITEM 12. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ Related Party Transactions 
+ None of the directors or executive officers of the Company, nor any person who owned of record or was known to own beneficially more than 10 of the Company's outstanding shares of its common stock, nor any associate or affiliate of such persons or companies, has any material interest, direct or indirect, in any transaction that has occurred during the past two fiscal years, or in any proposed transaction, which has materially affected or will affect the Company other than as disclosed at Note 8 to the financial statements. 
+ With regard to any future related party transaction, we plan to fully disclose any and all related party transactions in the following manner: 
+ 
+ Disclosing such transactions in reports where required; 
+ Disclosing in any and all filings with the SEC, where required; 
+ Obtaining disinterested directors consent; and 
+ Obtaining shareholder consent where required. 
+ 
+ Director Independence 
+ For purposes of determining director independence, we have applied the definitions set out in NASDAQ Rule 5605(a)(2). The OTCBB on which shares of the Company's Common Stock are quoted does not have any director independence requirements. The NASDAQ definition of "Independent Director" means a person other than an Executive Officer or employee or any other individual having a relationship, which, in the opinion of the Board of Directors, would interfere with the exercise of independent judgment in carrying out the responsibilities of a director. 
+ Under the definitions outlined it is our opinion that Michael Sevell and Mark Stogdill are independent directors. 
+ Review, Approval or Ratification of Transactions with Related Persons 
+ We are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+ 
+ 20 
+
+ITEM 13. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+ The company employs Pre-Approval Policies and Procedures Prior to engaging our accountants to perform a particular service, our Board of Directors obtains an estimate for the service to be performed. All of the services described above were approved by the Board of Directors in accordance with its procedures. 
+ Below is the aggregate amount of fees billed for professional services rendered by our principal accountants with respect to our last two fiscal years: 
+
+2021 
+
+2020 
+
+Audit fees and audit related fees 
+ 
+ 14,000 
+
+40,000 
+
+Tax fees 
+ 
+ - 
+
+- 
+
+All other fees 
+ 
+ - 
+
+- 
+
+Total 
+ 
+ 14,000 
+
+40,000 
+
+All of the professional services rendered by principal accountants for the audit of our annual financial statements that are normally provided by the accountant in connection with statutory and regulatory filings or engagements for last two fiscal years were approved by our Board of Directors. 
+ Maintaining Principal Accountant's Independence 
+ Our Board of Directors has considered whether the provision of the services described herein are compatible with maintaining the principal accountant's independence and believes that such services do not compromise that independence. 
+ 
+ 21 
+
+PART IV 
+ ITEM 14 - EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+ (a) Financial Statements 
+ 1. Financial statements for our company are listed in the index under Item 8 of this document 
+ 2. All financial statement schedules are omitted because they are not applicable, not material or the required information is shown in the financial statements or notes thereto. 
+
+Exhibit 
+
+Number 
+
+Description of Exhibit 
+
+Filing 
+
+2.2 
+
+Agreement and Plan of Merger by and between the Company and its wholly owned subsidiary Hammer Fiber Optics Holdings Corp. 
+
+Filed with the SEC on June 14, 2016, as part of our Current Report on Form 8-K. 
+
+3.1a 
+
+Articles of Incorporation 
+
+Filed with the SEC on March 2, 2012, as part of our Registration Statement on Form S-1. 
+
+3.1b 
+
+Articles of Merger Dated February 20, 2015 
+
+Intended to be Filed with the SEC on March 1, 2015, as part of our Current Report on Form 8-K. The Exhibit was not attached, accordingly the Articles of Merger was filed with the SEC on September 21, 2016, as part of our Amended Current Report on Form 8-K/A. 
+
+3.1c 
+
+Articles of Merger Dated April 13, 2016 
+
+Filed with the SEC on September 21, 2016, as part of our Amended Current Report on Form 8-K/A. 
+
+3.2 
+
+Bylaws 
+
+Filed with the SEC on March 2, 2012, as part of our Registration Statement on Form S-1. 
+
+10.1 
+
+Share Exchange Agreement by and among the Company, Hammer Fiber Optic Investments Ltd. and the shareholders of Hammer Fiber Optic Investments Ltd. 
+
+Filed with the SEC on April 28, 2016, as part of our Current Report on Form 8-K. 
+
+10.2 
+
+Material Contract for exclusive distribution rights 
+
+Filed with the SEC on September 21, 2016, as part of our Amended Current Report on Form 8-K/A. 
+
+10.3 
+
+Employment Agreement dated September 11, 2018 between Mark Stogdill and the Company 
+
+Filed with the SEC on September 13, 2018, as part of our Form 8-K 
+
+10.4 
+
+Employment Agreement dated September 11, 2018 between Erik Levitt and the Company 
+
+Filed with the SEC on September 13, 2018, as part of our Form 8-K 
+
+10.5 
+
+Stock Purchase Agreement dated September 11, 2018 between 1stPoint Communications and the Company 
+
+Filed with the SEC on September 13, 2018, as part of our Form 8-K 
+
+10.6 
+
+Stock Purchase Agreement dated September 11, 2018 between Endstream Communications and the Company 
+
+Filed with the SEC on September 13, 2018, as part of our Form 8-K 
+
+10.7 
+
+Stock Purchase Agreement dated September 11, 2018 between Shelcomm Inc. and the Company 
+
+Filed with the SEC on September 13, 2018, as part of our Form 8-K 
+
+10.8 
+
+Stock Purchase Agreement dated September 12, 2018 between Open Data Centers and the Company 
+
+Filed with the SEC on September 13, 2018, as part of our Form 8-K 
+
+31.1 
+
+Sec. 302 Certification of Principal Financial Officer 
+
+Filed herewith 
+
+32.1 
+
+Sec. 906 Certification of Principal Financial Officer 
+
+Filed herewith 
+
+101.INS 
+ XBRL Instance File 
+ Filed herewith 
+
+101.SCH 
+ XBRL Taxonomy Schema Linkbase Document 
+ Filed herewith 
+
+101.CAL 
+ XBRL Taxonomy Extension Calculation Linkbase Document. 
+ Filed herewith 
+
+101.DEF 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ Filed herewith 
+
+101.LAB 
+ XBRL Taxonomy Extension Label Linkbase Document 
+ Filed herewith 
+
+101.PRE 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+ Filed herewith 
+
+22 
+
+SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Annual Report on Form 10-K to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ HAMMER FIBER OPTICS HOLDINGS CORP 
+
+Date: October 29, 2021 
+
+/s/ Erik Levitt 
+
+Erik B. Levitt 
+
+Principal Financial Officer 
+
+23 
+
+<EX-31.1>
+ 2
+ exhibit31-1.htm
+ EXHIBIT 31.1
+
+Hammer Fiber Optic Holdings Corp.: Exhibit 31.1 - Filed by newsfilecorp.com 
+
+HAMMER TECHNOLOGY HOLDINGS 
+ Certification of the Principal Financial Officer Pursuant to Securities Exchange Act Rules 13a-14(a) and 15d- 
+ I, Erik B. Levitt, certify that: 
+ 1. I have reviewed this Annual Report on Form 10-K, of Hammer Technology Holdings; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 4. As the registrant's Principal Financial Officer, I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and I have: 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to me by others within those entities, particularly during the period in which this report is being prepared; 
+ b. Designed such internal control over financial reporting, or caused such internal control to be designed under my supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report my conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+ 5. I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's Board of Directors (or persons performing the equivalent functions): 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: October 29, 2021 
+
+/s/ Erik B. Levitt 
+
+Erik B. Levitt 
+
+Principal Financial Officer 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ exhibit32-1.htm
+ EXHIBIT 32.1
+
+Hammer Fiber Optic Holdings Corp.: Exhibit 32.1 - Filed by newsfilecorp.com 
+
+HAMMER TECHONOLGY HOLDINGS 
+ Certification of the Principal Financial Officer Pursuant to 
+ 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ In connection with the accompanying Annual Report on Form 10-K of Hammer Technology Holdings (the "Company") for the year ended July 31, 2021 (the "Report"), I, Erik B. Levitt, Principal Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: October 29, 2021 
+
+/s/ Erik B. Levitt 
+
+Erik B. Levitt 
+
+Principal Financial Officer 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 4
+ hmmr-20210731.xml
+ XBRL TAXONOMY INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 5
+ hmmr-20210731.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ hmmr-20210731_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ hmmr-20210731_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ hmmr-20210731_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ hmmr-20210731_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,2966 @@
+<Header>
+<FileStats>
+    <FileName>20211123_10-K_edgar_data_785956_0001437749-21-027317.txt</FileName>
+    <GrossFileSize>16493291</GrossFileSize>
+    <NetFileSize>194125</NetFileSize>
+    <NonText_DocumentType_Chars>7399050</NonText_DocumentType_Chars>
+    <HTML_Chars>3843698</HTML_Chars>
+    <XBRL_Chars>2250930</XBRL_Chars>
+    <XML_Chars>2460699</XML_Chars>
+    <N_Exhibits>12</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001437749-21-027317.hdr.sgml : 20211123
+<ACCEPTANCE-DATETIME>20211123170053
+ACCESSION NUMBER:		0001437749-21-027317
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		103
+CONFORMED PERIOD OF REPORT:	20210925
+FILED AS OF DATE:		20211123
+DATE AS OF CHANGE:		20211123
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			J&J SNACK FOODS CORP
+		CENTRAL INDEX KEY:			0000785956
+		STANDARD INDUSTRIAL CLASSIFICATION:	COOKIES & CRACKERS [2052]
+		IRS NUMBER:				221935537
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0925
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14616
+		FILM NUMBER:		211439371
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6000 CENTRAL HIGHWAY
+		CITY:			PENNSAUKEN
+		STATE:			NJ
+		ZIP:			08109
+		BUSINESS PHONE:		6096659533
+
+	MAIL ADDRESS:	
+		STREET 1:		6000 CENTRAL HIGHWAY
+		CITY:			PENNSAUKEN
+		STATE:			NJ
+		ZIP:			08109
+
+</SEC-Header>
+</Header>
+
+ 0001437749-21-027317.txt : 20211123
+
+10-K
+ 1
+ jjsf20210925_10k.htm
+ FORM 10-K
+
+jjsf20210925_10k.htm 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE FISCAL YEAR ENDED 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM TO 
+ 
+ Commission File No. 
+ 
+ Registrant's telephone number, including area code: ) 
+ J J SNACK FOODS CORP. 
+ (Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of (I.R.S. Employer Identification No.) 
+ incorporation or organization) 
+
+, (Zip Code) 
+ (Address of principal executive offices) 
+
+Securities Registered Pursuant to Section 12(b) of the Act: 
+ 
+ Title of Each Class Trading Symbols(s) Name of Each Exchange on Which Registered 
+ The Global Select Market 
+
+Securities Registered Pursuant to Section 12(g) of the Act: None 
+ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. No 
+ 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+ 
+ No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definition of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ 
+ Accelerated filer 
+ Non-accelerated filer Smaller reporting company 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. Yes No 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ 
+ March 26, 2021 was the last business day of the registrant s most recently completed second fiscal quarter. The aggregate market value of the registrant s common stock held by non-affiliates was based on the last sale price on March 26, 2021 of 157.64 per share. As of November 19, 2021, shares of the registrant s common stock were issued and outstanding. 
+
+DOCUMENTS INCORPORATED BY REFERENCE 
+ 
+ Portions of the registrant s definitive proxy statement for its Annual Meeting of Shareholders scheduled for February 16, 2022 are incorporated by reference into Part III of this report. 
+
+J J SNACK FOODS CORP. 
+ 2021 FORM 10-K ANNUAL REPORT 
+ 
+ TABLE OF CONTENTS 
+ 
+ Page 
+
+PART I 
+
+Note About Forward-Looking Statements 
+ 1 
+
+Item 1 
+ Business 
+ 1 
+
+Item 1A 
+ Risk Factors 
+ 7 
+
+Item 1B 
+ Unresolved Staff Comments 
+ 11 
+
+Item 2 
+ Properties 
+ 11 
+
+Item 3 
+ Legal Proceedings 
+ 12 
+
+Item 4 
+ Mine Safety Disclosures 
+ 12 
+
+PART II 
+
+Item 5 
+ Market For Registrant s Common Equity, Related Stockholder Matters And Issuer Purchases Of Equity Securities 
+ 13 
+
+Item 6 
+ [Reserved] 
+ 15 
+
+Item 7 
+ Management s Discussion And Analysis Of Financial Condition And Results Of Operations 
+ 15 
+
+Item 7A 
+ Quantitative And Qualitative Disclosures About Market Risk 
+ 26 
+
+Item 8 
+ Financial Statements And Supplementary Data 
+ 27 
+
+Item 9 
+ Changes In And Disagreements With Accountants On Accounting And Financial Disclosure 
+ 27 
+
+Item 9A 
+ Controls and Procedures 
+ 27 
+
+Item 9B 
+ Other Information 
+ 28 
+
+PART III 
+
+Item 10 
+ Directors, Executive Officers and Corporate Governance 
+ 28 
+
+Item 11 
+ Executive Compensation 
+ 30 
+
+Item 12 
+ Security Ownership Of Certain Beneficial Owners And Management And Related Stockholder Matters 
+ 30 
+
+Item 13 
+ Certain Relationships And Related Transactions, and Director Independence 
+ 31 
+
+Item 14 
+ Principal Accountant Fees and Service 
+ 31 
+
+PART IV 
+
+Item 15 
+ Exhibits, Financial Statement Schedules 
+ 31 
+
+Note About Forward-Looking Statements 
+ 
+ Statements made in this Form 10-K that are not historical or current facts are forward-looking statements made pursuant to the safe harbor provisions of Section 27A of the Securities Act of 1933 (the Act and Section 21E of the Securities Act of 1934, that involve substantial risks or uncertainties. These statements often can be identified by the use of terms such as may, will, expect, believe, anticipate, estimate, projects, seek, predict, approximate, or continue, or other similar references to future periods or the negative thereof. Statements addressing our future operating performance and statements addressing events and developments that we expect or anticipate will occur are also considered as forward-looking statements. We intend that such forward-looking statements be subject to the safe harbors for such statements. We wish to caution readers not to place undue reliance on any such forward-looking statements, which speak on as of the date made. Any forward-looking statements represent management s best judgment as to what may occur in the future. However, forward-looking statements are subject to risks, uncertainties, and important factors beyond our control that could cause actual results and events to differ materially from historical results of operations and events and those presently anticipated or projected. We disclaim any obligation subsequently to revise, update, add or to otherwise correct, any forward-looking statements to reflect events or circumstances after the date of such statement or to reflect the occurrence of anticipated or unanticipated events. Furthermore, all subsequent written and oral forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by the cautionary statements contained in this report. The discussion and analysis of our financial condition and results of operations included in Item 7- Management s Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with our consolidated financial statements and related notes included in Item 8 of this Form 10-K. 
+ 
+ Part I 
+ 
+ Item 1 . Business 
+ 
+ General 
+ 
+ J J Snack Foods Corp. (the Company or J J manufactures snack foods and distributes frozen beverages which it markets nationally to the food service and retail supermarket industries. The Company s principal snack food products are soft pretzels marketed primarily under the brand names SUPERPRETZEL, BRAUHAUS, AUNTIE ANNE S and BAVARIAN BAKERY, frozen novelties marketed primarily under the LUIGI S, WHOLE FRUIT, ICEE, DOGSTERS, PHILLY SWIRL, SOUR PATCH and MINUTE MAID brand names, churros marketed primarily under the TIO PEPE S and CALIFORNIA CHURROS brand names and bakery products sold primarily under the READI-BAKE, COUNTRY HOME, MARY B S, DADDY RAY S and HILL VALLEY brand names as well as for private label and contract packing. J J believes it is the largest manufacturer of soft pretzels in the United States. Other snack food products include funnel cake sold under THE FUNNEL CAKE FACTORY brand and handheld products sold under smaller brands. The Company s principal frozen beverage products are the ICEE brand frozen carbonated beverage and the SLUSH PUPPIE brand frozen non-carbonated beverage. 
+ 
+ The Company s Food Service and Frozen Beverages sales are made primarily to food service customers including snack bar and food stand locations in leading chain, department, discount, warehouse club and convenience stores; malls and shopping centers; fast food and casual dining restaurants; stadiums and sports arenas; leisure and theme parks; movie theatres; independent retailers; and schools, colleges and other institutions. The Company s retail supermarket customers are primarily supermarket chains. 
+ 
+ AUNTIE ANNE S is a registered trademark of Auntie Anne s LLC 
+ SOUR PATCH is a registered trademark of Mondel z International Group 
+ Minute Maid is a registered trademark of the Coca-Cola Company 
+
+1
+
+The Company was incorporated in 1971 under the laws of the State of New Jersey. 
+ 
+ The Company has made acquisitions as described in Management s Discussion and Analysis of Financial Condition and Results of Operations and our consolidated financial statements and related notes thereto. 
+ 
+ The Company operates in three business segments: Food Service, Retail Supermarkets and Frozen Beverages. These segments are described below. 
+ 
+ The Chief Operating Decision Maker for Food Service, Retail Supermarkets and Frozen Beverages reviews detailed operating income statements and sales reports in order to assess performance and allocate resources to each individual segment. Sales and operating income are key variables monitored by the Chief Operating Decision Maker and management when determining each segment s and the company s financial condition and operating performance. In addition, the Chief Operating Decision Maker reviews and evaluates depreciation, capital spending and assets of each segment on a quarterly basis to monitor cash flow and asset needs of each segment (see Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations and Item 8 Financial Statements and Supplementary Data for financial information about segments. 
+ 
+ Food Service 
+ 
+ The primary products sold by the food service segment are soft pretzels, frozen novelties, churros, handheld products and baked goods. Our customers in the food service segment include snack bars and food stands in chain, department and discount stores; malls and shopping centers; casual dining restaurants; fast food and casual dining restaurants; stadiums and sports arenas; leisure and theme parks; convenience stores; movie theatres; warehouse club stores; schools, colleges and other institutions. Within the food service industry, our products are purchased by the consumer primarily for consumption at the point-of-sale. 
+ 
+ Retail Supermarkets 
+ 
+ The primary products sold to the retail supermarket channel are soft pretzel products including SUPERPRETZEL and AUNTIE ANNE S, frozen novelties including LUIGI S Real Italian Ice, MINUTE MAID Juice Bars and Soft Frozen Lemonade, WHOLE FRUIT frozen fruit bars and sorbet, PHILLY SWIRL cups and sticks, SOUR PATCH sticks, ICEE Squeeze-Up Tubes and handheld products. Within the retail supermarket channel, our frozen and prepackaged products are purchased by the consumer for consumption at home. 
+ 
+ Frozen Beverages 
+ 
+ We sell frozen beverages to the food service industry primarily under the names ICEE, SLUSH PUPPIE and PARROT ICE in the United States, Mexico and Canada. We also provide repair and maintenance services to customers for customers owned equipment. 
+ 
+ Products 
+ 
+ Soft Pretzels 
+ 
+ The Company s soft pretzels are sold under many brand names; some of which are: SUPERPRETZEL, PRETZEL FILLERS, PRETZELFILS, GOURMET TWISTS, MR. TWISTER, SOFT PRETZEL BITES, SOFTSTIX, SOFT PRETZEL BUNS, TEXAS TWIST, BAVARIAN BAKERY, SUPERPRETZEL BAVARIAN, NEW YORK PRETZEL, KIM SCOTT S GOURMET PRETZELS, SERIOUSLY TWISTED!, BRAUHAUS, AUNTIE ANNE S AND LABRIOLA; and, to a lesser extent, under private labels. 
+ 
+ Soft pretzels are sold in the Food Service and Retail Supermarket segments. Soft pretzel sales amounted to 20 of the Company s revenue in both fiscal years 2021 and 2020, and 21 in 2019. 
+ 
+ Certain of the Company s soft pretzels qualify under USDA regulations as the nutritional equivalent of bread for purposes of the USDA school lunch program, thereby enabling a participating school to obtain partial reimbursement of the cost of the Company s soft pretzels from the USDA. 
+ 
+ The Company s soft pretzels are manufactured according to a proprietary formula. Soft pretzels, ranging in size from one to twenty-four ounces in weight, are shaped and formed by the Company s twister machines. These soft pretzel tying machines are automated, high-speed machines for twisting dough into the traditional pretzel shape. Additionally, we make soft pretzels which are extruded or shaped by hand. Soft pretzels, after processing, are primarily quick-frozen in either raw or baked form and packaged for delivery. 
+ 
+ The Company s principal marketing program in the Food Service segment includes supplying ovens, mobile merchandisers, display cases, warmers and similar merchandising equipment to the retailer to prepare and promote the sale of soft pretzels. Some of this equipment is proprietary, including combination warmer and display cases that reconstitute frozen soft pretzels while displaying them, thus eliminating the need for an oven. The Company retains ownership of the equipment placed in customer locations, and as a result, customers are not required to make an investment in equipment. 
+
+2
+
+Frozen Novelties 
+ 
+ The Company s frozen novelties are marketed primarily under the LUIGI S, WHOLE FRUIT, PHILLY SWIRL, SOUR PATCH, ICEE and MINUTE MAID brand names. Frozen novelties are sold in the Food Service and Retail Supermarkets segments. Frozen novelties sales were 13 of the Company s revenue in fiscal year 2021, 12 in 2020 and 10 in 2019. 
+ 
+ The Company s school food service LUIGI S and WHOLE FRUIT frozen juice bars and cups contain three to four ounces of 100 apple or pineapple juice with no added sugar and 100 of the daily US FDA value of vitamin C. The juice bars are produced in various flavors and are packaged in a sealed push-up paper container referred to as the Milliken M-pak, which the Company believes has certain sanitary and safety advantages. 
+ 
+ The balance of the Company s frozen novelties products are manufactured from water, sweeteners and fruit juice concentrates in various flavors and packaging including cups, tubes, sticks, M-paks and pints. Several of the products contain ice cream and WHOLE FRUIT contains pieces of fruit. 
+ 
+ Churros 
+ 
+ The Company s churros are sold primarily under the TIO PEPE S and CALIFORNIA CHURROS brand names. Churros are sold to the Food Service and Retail Supermarkets segments. Churro sales were 6 of the Company s sales in fiscal year 2021, 5 in 2020 and 6 in 2019. Churros are pastries in stick form which the Company produces in several sizes according to a proprietary formula. The churros are deep fried, frozen and packaged. At food service point-of-sale they are reheated and topped with a cinnamon sugar mixture. The Company also sells fruit and cr me-filled churros. The Company supplies churro merchandising equipment similar to that used for its soft pretzels. 
+ 
+ Handheld Products 
+ 
+ The Company's handheld products are marketed under the SUPREME STUFFERS and SWEET STUFFERS brand names and under private labels. Handheld products are sold to the Food Service and Retail Supermarket segments. Handheld product sales amounted to 7 of the Company s sales in fiscal year 2021, 5 in 2020 and 4 in 2019. 
+ 
+ Bakery Products 
+ 
+ The Company s bakery products are marketed under the MRS. GOODCOOKIE, READI-BAKE, COUNTRY HOME, MARY B S, DADDY RAY S and HILL VALLEY brand names, and under private labels. Bakery products include primarily biscuits, fig and fruit bars, cookies, breads, rolls, crumb, muffins and donuts. Bakery products are sold to the Food Service segment. Bakery products sales amounted to 32 of the Company s sales in fiscal year 2021, 35 in 2020 and 32 in 2019. 
+ 
+ Frozen Beverages 
+ 
+ The Company markets frozen beverages primarily under the names ICEE, SLUSH PUPPIE and PARROT ICE which are sold primarily in the United States, Mexico and Canada. Frozen beverages are sold in the Frozen Beverages segment. 
+ 
+ Frozen beverage sales amounted to 11 of the Company s revenue in fiscal year 2021, 10 in 2020 and 15 in 2019. 
+ 
+ Under the Company s principal marketing program for frozen carbonated beverages, it installs frozen beverage dispensers for its ICEE brand at customer locations and thereafter services the machines, arranges to supply customers with ingredients required for production of the frozen beverages, and supports customer retail sales efforts with in-store promotions and point-of-sale materials. The Company sells frozen non-carbonated beverages under the SLUSH PUPPIE and PARROT ICE brands through a distributor network and through its own distribution network. The Company also provides repair and maintenance service to customers for customer-owned equipment and sells equipment in its Frozen Beverages segment. Revenue from equipment sales and repair and maintenance services totaled 9 of the Company s sales in fiscal year 2021, 11 in 2020 and 11 in 2019. 
+ 
+ Each new frozen carbonated customer location requires a frozen beverage dispenser supplied by the Company or by the customer. Company-supplied frozen carbonated dispensers are purchased from outside vendors or rebuilt by the Company. 
+ 
+ The Company provides managed service and/or products to approximately 119,000 Company-owned and customer-owned dispensers. 
+ 
+ The Company has the rights to market and distribute frozen beverages under the name ICEE to the entire continental United States as well as internationally. 
+
+3
+
+Other Products 
+ 
+ Other products sold by the Company include funnel cakes sold under the FUNNEL CAKE FACTORY brand name and smaller amounts of various other food products. These products are sold in the Food Service and Frozen Beverages segments. 
+ 
+ Customers 
+ 
+ The Company sells its products to two principal channels: food service and retail supermarkets. The primary products sold to the food service channel are soft pretzels, frozen beverages, frozen novelties, churros, handheld products and baked goods. The primary products sold to the retail supermarket channel are soft pretzels, frozen novelties and handheld products. 
+ 
+ We have several large customers that account for a significant portion of our sales. Our top ten customers accounted for 43 , 43 and 43 of our sales during fiscal years 2021, 2020 and 2019, respectively, with our largest customer accounting for 11 of our sales in 2021, 13 of our sales in 2020 and 11 of our sales in 2019. Five of the ten customers in 2021 are food distributors who sell our product to many end users. The loss of one or more of our large customers could adversely affect our results of operations. These customers typically do not enter into long-term contracts and make purchase decisions based on a combination of price, product quality, consumer demand and customer service performance. If our sales to one or more of these customers are reduced, this reduction may adversely affect our business. If receivables from one or more of these customers become uncollectible, our operating income would be adversely impacted. 
+ 
+ The Food Service and the Frozen Beverages segments sell primarily to food service channels. The Retail Supermarkets segment sells primarily to the retail supermarket channel. 
+ 
+ The Company s customers in the food service segment include snack bars and food stands in chain, department and mass merchandising stores, malls and shopping centers, fast food and casual dining restaurants, stadiums and sports arenas, leisure and theme parks, convenience stores, movie theatres, warehouse club stores, schools, colleges and other institutions, and independent retailers. Machines and machine parts are sold to other food and beverage companies. Within the food service industry, the Company s products are purchased by the consumer primarily for consumption at the point-of-sale. 
+ 
+ The Company sells its products to an estimated 85-90 of supermarkets in the United States. Products sold to retail supermarket customers are primarily soft pretzel products, including SUPERPRETZEL and AUNTIE ANNE S, frozen novelties including LUIGI S Real Italian Ice, MINUTE MAID Juice Bars and Soft Frozen Lemonade, WHOLE FRUIT frozen fruit bars, WHOLE FRUIT Sorbet, PHILLY SWIRL cups and sticks, MARY B S biscuits and dumplings, DADDY RAY S fig and fruit bars, HILL VALLEY baked goods, and ICEE Squeeze-Up Tubes. Within the retail supermarket industry, the Company s frozen and prepackaged products are purchased by the consumer for consumption at home. 
+ 
+ Marketing and Distribution 
+ 
+ The Company has developed a national marketing program for its products. For the Food Service and Frozen Beverages segments customers, this marketing program includes providing ovens, mobile merchandisers, display cases, warmers, frozen beverage dispensers and other merchandising equipment for the individual customer s requirements and point-of-sale materials as well as participating in trade shows and in-store demonstrations. The Company s ongoing advertising and promotional campaigns for its Retail Supermarket segment s products include newspaper advertisements with coupons and consumer advertising campaigns across traditional and digital channels. 
+ 
+ The Company develops and introduces new products on a routine basis. The Company evaluates the success of new product introductions on the basis of sales and profit levels, which are reviewed no less frequently than monthly by the Company s Chief Operating Decision Maker. 
+
+4
+
+The Company s products are sold through a network of food brokers, independent sales distributors and the Company s own direct sales force. For its snack food products, the Company maintains warehouse and distribution facilities in Pennsauken, Bellmawr and Bridgeport, New Jersey; Vernon (Los Angeles) and Colton, California; Brooklyn, New York; Scranton, Pittsburgh, Hatfield and Lancaster, Pennsylvania; Carrollton (Dallas), Texas; Atlanta, Georgia; Moscow Mills (St. Louis), Missouri; Pensacola and Tampa, Florida; Solon, Ohio; Weston, Oregon; Holly Ridge, North Carolina and Rock Island, Illinois. Frozen beverages and machine parts are distributed from 177 Company managed warehouse and distribution facilities located in 44 states, Mexico and Canada, which allow the Company to directly service its customers in the surrounding areas. The Company s products are shipped in frozen and other vehicles from the Company s manufacturing and warehouse facilities on a fleet of Company operated tractor-trailers, trucks and vans, as well as by independent carriers. 
+ 
+ Seasonality 
+ 
+ The Company s sales are seasonal because frozen beverage sales and frozen novelties sales are generally higher during the warmer months. 
+ 
+ Trademarks and Patents 
+ 
+ The Company has numerous trademarks, the most important of which are SUPERPRETZEL, TEXAS TWIST, NEW YORK PRETZEL, BAVARIAN BAKERY, MR. TWISTER, SOFT PRETZEL BITES, SOFTSTIX, PRETZEL FILLERS, PRETZELFILS, BRAUHAUS and LABRIOLA for its pretzel products; SHAPE-UPS, WHOLE FRUIT, PHILLY SWIRL and LUIGI S for its frozen novelties; TIO PEPE S and CALIFORNIA CHURROS for its churros; ARCTIC BLAST, SLUSH PUPPIE and PARROT ICE for its frozen beverages; FUNNEL CAKE FACTORY for its funnel cake products, and MRS. GOODCOOKIE, READI-BAKE, COUNTRY HOME, CAMDEN CREEK, MARY B S, DADDY RAY S and HILL VALLEY for its bakery products. 
+ 
+ The Company markets frozen beverages under the trademark ICEE in all of the United States and in Mexico and Canada. Additionally, the Company has the international rights to the trademark ICEE. 
+ 
+ The trademarks, when renewed and continuously used, have an indefinite term and are considered important to the Company as a means of identifying its products. The Company considers its trademarks important to the success of its business. 
+ 
+ The Company has numerous patents related to the manufacturing and marketing of its product. 
+ 
+ Supplies 
+ 
+ The Company s manufactured products are produced from raw materials which are readily available from numerous sources. With the exception of the Company s churro production equipment, funnel cake production equipment and soft pretzel twisting equipment, all of which are made for J J by independent third parties, and certain specialized packaging equipment, the Company s manufacturing equipment is readily available from various sources. Syrup for frozen beverages is purchased primarily from The Coca-Cola Company, Dr Pepper Snapple Group, Inc., the Pepsi Cola Company, and Jogue, Inc. Cups, straws and lids are readily available from various suppliers. Parts for frozen beverage dispensing machines are purchased from several sources. Frozen beverage dispensers are purchased primarily from IMI Cornelius, Inc. and FBD Partnership. 
+ 
+ Competition 
+ 
+ Snack food and bakery products markets are highly competitive. The Company s principal products compete against similar and different food products manufactured and sold by numerous other companies, some of which are substantially larger and have greater resources than the Company. As the soft pretzel, frozen novelties, bakery products and related markets evolve, additional competitors and new competing products may enter the markets. Competitive factors in these markets include product quality, customer service, taste, price, identity and brand name awareness, method of distribution and sales promotions. 
+ 
+ The Company believes it is the only national distributor of soft pretzels. However, there are numerous regional and local manufacturers of food service and retail supermarket soft pretzels as well as several chains of retail pretzel stores. 
+
+5
+
+In Frozen Beverages the Company competes directly with other frozen beverage companies. There are many other regional frozen beverage competitors throughout the country and one large retail chain which uses its own frozen beverage brand. 
+ 
+ The Company competes with large soft drink manufacturers for counter and floor space for its frozen beverage dispensing machines at retail locations and with products which are more widely known than the ICEE, SLUSH PUPPIE and PARROT ICE frozen beverages. 
+ 
+ The Company competes with several other companies in the frozen novelties and bakery products markets. 
+ 
+ Risks Associated with Foreign Operations 
+ 
+ Foreign operations generally involve greater risk than doing business in the United States. Foreign economies differ favorably or unfavorably from the United States economy in such respects as the level of inflation and debt, which may result in fluctuations in the value of the country s currency and real property. Sales of our foreign operations were 20,754,000, 15,421,000 and 33,906,000 in fiscal years 2021, 2020 and 2019, respectively. At September 25, 2021, the total assets of our foreign operations were approximately 25 million or 2.2 of total assets. At September 26, 2020, the total assets of our foreign operations were approximately 20 million or 1.9 of total assets. 
+ 
+ Employees 
+ 
+ The Company has about 4,300 full and part time employees and approximately 800 workers employed by staffing agencies as of September 25, 2021. About 1,200 production and distribution employees throughout the Company are covered by collective bargaining agreements. 
+ 
+ The Company considers its employee relations to be good. 
+ 
+ Available Information 
+ 
+ The Company s internet address is www.jjsnack.com . On the investor relations section of its website, the Company provides free access to its annual report on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and any amendments to these reports, as soon as reasonably practicable after such materials are electronically filed with, or furnished to, the Securities and Exchange Commission SEC ). The information on the website listed above is not and should not be considered part of this annual report on Form 10-K and is not incorporated by reference in this document. 
+
+6
+
+Item 1A. Risk Factors 
+ 
+ You should carefully consider the risks described below, together with all the other information included in this report, in considering our business and prospects. The risks and uncertainties described below are not the only ones facing us. Additional risks and uncertainties not presently known to us or that we currently deem insignificant may also impair our business operations. The following is a discussion of known potentially significant risks which could result in harm to our business, financial condition or results of operations. 
+ 
+ Risks Related to COVID-19 
+ 
+ The global COVID-19 pandemic of 2020 and 2021 continues to affect our operations. Approximately 2/3 of the Company s sales are to venues and locations that previously shut down or sharply curtailed their food service operations as a result of COVID-19. While the majority of these venues have re-opened, the extent of the future impact of COVID-19 on our operations depends on future developments of the virus and its effects which is uncertain at this point in time. Furthermore any economic downturn caused by any pandemic, epidemic or other disease outbreak, comparable or similar to COVID-19, may also cause substantial changes in consumer behavior, adversely affecting results of operations and our financial position, some of which we may not be able to predict with certainty. 
+ 
+ Risks of Shortages or Increased Cost of Raw Materials 
+ 
+ We are exposed to the market risks arising from adverse changes in commodity prices, affecting the cost of our raw materials and energy. The raw materials and energy which we use for the production and distribution of our products are largely commodities that are subject to price volatility and fluctuations in availability caused by changes in global supply and demand, weather conditions, agricultural uncertainty or governmental controls. We purchase these materials and energy mainly in the open market. Our procurement practices are intended to reduce the risk of future price increases, but also may potentially limit the ability to benefit from possible price decreases. If commodity price changes result in increases in raw materials and energy costs, we may not be able to increase our prices to offset these increased costs without suffering reduced volume, revenue and operating income. 
+ 
+ General Risks of the Food Industry 
+ 
+ Food processors are subject to the risks of adverse changes in general economic conditions; evolving consumer preferences and nutritional and health-related concerns; changes in food distribution channels; federal, state and local food processing controls or other mandates; changes in federal, state, local and international laws and regulations, or in the application of such laws and regulations; consumer product liability claims; risks of product tampering and contamination; and negative publicity surrounding actual or perceived product safety deficiencies. The increased buying power of large supermarket chains, other retail outlets and wholesale food vendors could result in greater resistance to price increases and could alter the pattern of customer inventory levels and access to shelf space. 
+ 
+ Risks of Shortages or Increased Costs of Labor 
+ 
+ Our businesses operate in highly competitive markets. The labor market in the United States is very competitive. We depend on the skills, working relationships, and continued services of employees, including our experienced management team. We must hire, train and develop effective employees. We compete with other companies both within and outside of our industry for talented employees, and we may lose key personnel or fail to attract, train, and retain other talented personnel. In addition, our ability to achieve our operating goals depends on our ability to identify, hire, train, and retain qualified individuals. Any such loss or failure could adversely affect our product sales, financial condition, and operating results. Additionally, a shortage in the labor pool and other general inflationary pressures or changes, and applicable laws and regulations could increase labor costs, which could have a material adverse effect on our consolidated operating results or financial condition. 
+
+7
+
+Environmental Risks 
+ 
+ The disposal of solid and liquid waste material and the discharge of airborne pollutants resulting from the preparation and processing of foods is subject to various federal, state and local laws and regulations relating to the protection of the environment. Such laws and regulations have an important effect on the food processing industry as a whole, requiring substantially all firms in the industry to incur material expenditures for modification of existing processing facilities and for construction of upgraded or new waste treatment facilities. 
+ 
+ We cannot predict what environmental legislation or regulations will be enacted in the future, how existing or future laws or regulations will be administered or interpreted or what environmental conditions may be found to exist. Enactment of more stringent laws or regulations or more strict interpretation of existing laws and regulations may require additional expenditure by us, some of which could be material. Additionally, the failure by any one or more of our suppliers to comply with applicable federal, state and local laws and regulations relating to the protection of the environment, or allegations of non-compliance, may disrupt their operations and could result in accompanying disruptions to our operations. 
+ 
+ Risks Resulting from Customer Concentration 
+ 
+ We have several large customers that account for a significant portion of our sales. Our top ten customers accounted for 43 , 43 and 43 of our sales during fiscal years 2021, 2020 and 2019, respectively, with our largest customer accounting for 11 of our sales in 2021, 13 of our sales in 2020 and 11 of our sales in 2019. 
+ 
+ Five of the ten customers are food distributors who sell our product to many end users. The loss of one or more of our large customers could adversely affect our results of operations. These customers typically do not enter into long-term contracts and make purchase decisions based on a combination of price, product quality, consumer demand and customer service performance. If our sales to one or more of these customers are reduced, this reduction may adversely affect our business. If receivables from one or more of these customers become uncollectible, our operating income would be adversely impacted. 
+ 
+ Competition 
+ 
+ Our businesses operate in highly competitive markets. We compete against national and regional manufacturers and distributors on the basis of price, quality, product variety, brand recognition and loyalty, and effective distribution. Many of our major competitors in the market are larger and have greater financial and marketing resources than we do. Increased competition and anticipated actions by our competitors could lead to downward pressure on prices and/or a decline in our market share, either of which could adversely affect our results. See Competition in Item 1 for more information about our competitors. 
+ 
+ Risks Relating to Manufacturing and Distribution 
+ 
+ Our ability to purchase, manufacture and distribute products is critical to our success. Because we source certain products from single manufacturing sites, it is possible that we could experience a production disruption that results in a reduction or elimination of the availability of some of our products. If we are not able to obtain alternate production capability in a timely manner, or on favorable terms, it could have a negative impact on our business, results of operations, financial condition and cash flows, including the potential for long-term loss of product placement with various customers. We are also subject to risks of other business disruptions associated with our dependence on production facilities and distribution systems. Natural disasters, terrorist activity, cyberattacks or other unforeseen events could interrupt production or distribution and have a material adverse effect on our business, results of operations, financial condition and cash flows, including the potential for long-term loss of product placement with our customers. 
+ 
+ Risks Relating to the Availability and Costs of Transportation 
+ 
+ Our ability to obtain adequate and reasonably priced methods of transportation to distribute our products, including refrigerated trailers for many of our products, is a key factor to our success. Delays in transportation, including weather-related delays, and carrier capacity limitations, could have a material adverse effect on our business and results of operations. Further, higher fuel costs and increased line haul costs due to industry capacity constraints, customer delivery requirements and a more restrictive regulatory environment could also negatively impact our financial results. We pay fuel surcharges that fluctuate with the price of diesel fuel to third-party transporters of our products, and such surcharges can be substantial. Any sudden or dramatic increases in the price of diesel fuel would serve to increase our fuel surcharges and our cost of goods sold. These higher costs could have a material adverse effect on our business, results of operations, financial condition and cash flows. 
+
+8
+
+Risks Relating to Manufacturing Capacity Constraints 
+ 
+ Our current manufacturing resources may be inadequate to meet significantly increased demand for some of our food products. Our ability to increase our manufacturing capacity depends on many factors, including the equipment delivery, construction lead-times, installation, qualification, regulatory permitting and regulatory requirements. A lack of sufficient manufacturing capacity to meet demand could cause our customer service levels to decrease, which may negatively affect customer demand for our products and customer relations generally, which in turn could have a material adverse effect on our business, results of operations, financial condition and cash flows. In addition, operating facilities at or near capacity may also increase production and distribution costs and negatively affect relations with our employees or contractors, which could result in disruptions in our operations. 
+ 
+ New Jersey Law and Provisions of Our Amended and Restated Certificate of Incorporation and Bylaws May Inhibit a Change In Control 
+ 
+ The New Jersey Shareholders' Protection Act, N.J.S.A. 14A:10A-1, et seq. , may delay, deter or prevent a change in control by prohibiting the Company from engaging in a business combination transaction with an interested shareholder for a period of five years after the person becomes an interested stockholder, even if a majority of our shareholders believe a change in control would be in the best interests of the Company and its shareholders. In addition, our Amended and Restated Certificate of Incorporation and Bylaws contain provisions that may delay, deter or prevent a future acquisition of J J Snack Foods Corp. not approved by our Board of Directors. This could occur even if our shareholders are offered an attractive value for their shares or if a substantial number or even a majority of our shareholders believe the takeover is in their best interest. These provisions are intended to encourage any person interested in acquiring us to negotiate with and obtain the approval of our Board of Directors in connection with the transaction. Provisions of our Amended and Restated Certificate of Incorporation and Bylaws that could delay, deter or prevent a future acquisition include the following: 
+
+-- 
+ a classified Board of Directors; 
+
+-- 
+ the requirement that our shareholders may only remove Directors for cause; 
+
+-- 
+ limitations on share holdings and voting of certain persons; 
+
+-- 
+ special Director voting rights; 
+
+-- 
+ the ability of the Board of Directors to consider the interests of various constituencies, including our employees, customers, suppliers, creditors and the local communities in which we operate; 
+
+-- 
+ shareholders do not generally have the right to call special meetings or to act by written consent; 
+
+-- 
+ our Bylaws contain advance notice procedures for nominations of Directors or submission of shareholder proposals at an annual meeting; and 
+
+-- 
+ our Bylaws contain a forum selection clause providing that certain litigation against the Company can only be brought in New Jersey state or federal courts. 
+
+Risks Relating to Gerald B. Shreiber 
+ 
+ Gerald B. Shreiber is the founder and Chairman of the Board of Directors of the Company. He is currently beneficial owner of 18 of its outstanding common stock, held in a trust for his benefit. Our Amended and Restated Certificate of Incorporation provides that Mr. Shreiber has three votes on any matter to be acted upon by the Board of Directors (subject to certain adjustments). Therefore, he and one other director would have the ability to approve any matter before the Board. 
+ 
+ Risk Related to Increases in our Health Insurance Costs 
+ 
+ The costs of employee health care insurance have been increasing in recent years due to rising health care costs, legislative changes, and general economic conditions. Because of the breadth and complexity of health care regulations as well as other health care reform legislation considered by Congress and state legislatures, we cannot predict with certainty the future effect of these laws on us. A continued increase in health care costs or additional costs incurred as a result of new or existing health care reform laws or changes in enforcement policies could have a negative impact on our financial position and results of operations. 
+
+9
+
+Risk Related to Product Changes 
+ 
+ There are risks in the marketplace related to trade and consumer acceptance of product improvements, packing initiatives and new product introductions. 
+ 
+ Risks Related to Changes in the Business 
+ 
+ Our ability to successfully manage changes to our business processes, including selling, distribution, product capacity, information management systems and the integration of acquisitions, will directly affect our results of operations. 
+ 
+ Risks Associated with Foreign Operations 
+ 
+ Foreign operations generally involve greater risk than doing business in the United States. Foreign economies may differ favorably or unfavorably from the United States economy in such respects as the level of inflation and debt, which may result in fluctuations in the value of the country s currency and real property. Further, there may be less government regulation in various countries, and we may face difficulty in enforcing our legal rights outside the United States. Additionally, in some foreign countries, there is the possibility of expropriation or confiscatory taxation limitations on the removal of property or other assets, political or social instability or diplomatic developments which could affect the operations and assets of U.S. companies doing business in that country. Any such difficulties noted above could effect our business. Sales of our foreign operations were 20,754,000, 15,421,000 and 33,906,000 in fiscal years 2021, 2020 and 2019, respectively. At September 25, 2021, the total assets of our foreign operations were approximately 25 million or 2.2 of total assets. At September 26, 2020, the total assets of our foreign operations were approximately 20 million or 1.9 of total assets. 
+ 
+ Risks Associated with our Information Technology Systems 
+ 
+ The efficient operation of our business depends on our information technology systems. We rely on our information technology systems to effectively manage our business data, communications, supply chain, manufacturing, order entry and fulfillment, and other business processes. The failure of our information technology systems (including those provided to us by third parties) to perform as we anticipate could disrupt our business and could result in billing, collecting, and ordering errors, processing inefficiencies, and the loss of sales and customers, causing our business and results of operations to suffer. 
+ 
+ Our information technology systems may be vulnerable to damage or interruption from circumstances beyond our control, including fire, natural disasters, systems failures, security breaches or intrusions (including those against our third-party providers and theft of customer, consumer or other confidential data), and viruses. Although we continue to monitor our information technology networks, if we are unable to prevent physical and electronic break-ins, cyber-attacks and other information security breaches, we may suffer financial and reputational damage, be subject to litigation or incur remediation costs or penalties because of the unauthorized disclosure of confidential information belonging to us or to our partners, customers, suppliers or employees. 
+ 
+ We may experience difficulties in implementing the final phases of our new enterprise resource planning system. We are in the late stages of a multi-year implementation of a new enterprise resource planning system ERP ), which is replacing our existing financial and operating systems. The design and implementation of this new ERP has required an investment of significant personnel and financial resources, including substantial expenditures for outside consultants and software. We may not be able to implement the ERP successfully without experiencing delays, increased costs and other difficulties, including potential design defects, miscalculations, testing requirements, and the diversion of management s attention from day-to-day business operations. If we are unable to implement the new ERP as planned, the effectiveness of our internal control over financial reporting could be adversely affected, our ability to assess those controls adequately could be delayed, and our business, results of operations, financial condition and cash flows could be negatively impacted. 
+
+10
+
+Risks Associated with Real or Perceived Safety Issues Regarding our Food Products 
+ 
+ We sell food products for human consumption, which involves risks such as product contamination or spoilage, product tampering, other adulteration of food products, mislabeling, and misbranding. We can be impacted by both real and unfounded claims regarding the safety of our operations, or concerns regarding mislabeled, adulterated, contaminated or spoiled food products. Any of these circumstances could necessitate a voluntary or mandatory recall due to a substantial product hazard, a need to change a product s labeling or other consumer safety concerns. A pervasive product recall may result in significant loss due to the costs of a recall, related legal claims, including claims arising from bodily injury or illness caused by our products, the destruction of product inventory, or lost sales due to product unavailability. A highly publicized product recall, whether involving us or any related products made by third parties, also could result in a loss of customers or an unfavorable change in consumer sentiment regarding our products or any category in which we operate. In addition, an allegation of noncompliance with federal or state food laws and regulations could force us to cease production, stop selling our products or create significant adverse publicity that could harm our credibility and decrease market acceptance of our products. Any of these events could have a material adverse effect on our business, results of operations, financial condition and cash flows. 
+ 
+ Seasonality and Quarterly Fluctuations 
+ 
+ Our sales are affected by the seasonal demand for our products. Demand is greater during the summer months primarily as a result of the warm weather demand for our ICEE and frozen novelties products. Because of seasonal fluctuations, there can be no assurance that the results of any particular quarter will be indicative of results for the full year or for future years. 
+ 
+ Item 1B. Unresolved Staff Comments 
+ 
+ We have no unresolved SEC staff comments to report. 
+ 
+ Item 2 . Properties 
+ 
+ The Company s primary east coast manufacturing facility is located in Pennsauken, New Jersey in a 70,000 square foot building on a two-acre lot. Soft pretzels, churros, and funnel cake are manufactured at this Company-owned facility which also serves as the Company s corporate headquarters. The Company owns a 128,000 square foot building adjacent to this manufacturing facility which contains a large freezer for warehousing and distribution purposes. The Company leases, through January 2022, 16,000 square feet of office and warehouse space located next to the Pennsauken, New Jersey plant and owns a 43,000 square foot office and warehouse building in the same complex. 
+ 
+ The Company owns a 150,000 square foot building on eight acres in Bellmawr, New Jersey. The facility is used by the Company to manufacture soft pretzels and various lines of baked goods. 
+ 
+ The Company s primary west coast manufacturing facility is located in Vernon (Los Angeles), California. It consists of a 137,000 square foot facility in which soft pretzels, churros and various lines of baked goods are produced and warehoused. Included in the 137,000 square foot facility is a 30,000 square foot freezer used for warehousing and distribution purposes. The facility is leased through November 2030. The Company leases an additional 80,000 square feet of office and warehouse space, adjacent to its manufacturing facility, through November 2030. 
+ 
+ The Company leases a 22,000 square foot soft pretzel manufacturing facility located in Brooklyn, New York. The lease runs through August 2023. 
+ 
+ The Company leases through June 2030 a 45,000 square foot churros and funnel cake manufacturing facility located in Colton, California. 
+ 
+ The Company leases an 85,000 square foot bakery manufacturing facility located in Atlanta, Georgia. The lease runs through December 2022. 
+ 
+ The Company leases a 129,000 square foot bakery manufacturing facility located in Rock Island, Illinois. The lease runs through December 2034. 
+ 
+ The Company owns a 46,000 square foot frozen novelties manufacturing facility and a 42,000 square foot dry storage warehouse located on six acres in Scranton, Pennsylvania. 
+
+11
+
+The Company leases a 29,600 square foot soft pretzel manufacturing facility located in Hatfield, Pennsylvania. The lease runs through June 2032. 
+ 
+ The Company leases a 48,000 square foot soft pretzel manufacturing facility located in Carrollton, Texas. The lease runs through April 2026. The Company leases an additional property containing a 6,500 square foot storage freezer across the street from the manufacturing facility, which expires March 2030. 
+ 
+ The Company s fresh bakery products manufacturing facility and offices are located in Bridgeport, New Jersey in three buildings totaling 133,000 square feet. The buildings are leased through December 2025. 
+ 
+ The Company owns a 165,000 square foot fig and fruit bar manufacturing facility located on 9-1/2 acres in Moscow Mills (St. Louis), Missouri. 
+ 
+ The Company owns an 84,000 square foot handheld products manufacturing facility in Holly Ridge, North Carolina. 
+ 
+ The Company leases a 70,000 square foot handheld products manufacturing facility in Weston, Oregon which is leased through June 30, 2031. The Company leases an additional 11,300 square foot freezer storage facility in Weston, Oregon which expires May 2023. 
+ 
+ The Company leases 84,000 square feet of office space in LaVergne (Nashville), Tennessee through February 2035 for its ICEE headquarters. 
+ 
+ The Company leases a 39,000 square foot frozen novelties manufacturing facility in Tampa, Florida which is leased through September 2023. 
+ 
+ The Company also leases approximately 160 warehouse and distribution facilities in 44 states, Mexico and Canada. 
+ 
+ Item 3. Legal Proceedings 
+ 
+ The Company has no material pending legal proceedings, other than ordinary routine litigation incidental to the business, to which the Company or any of its subsidiaries is a party or of which any of their property is subject. 
+ 
+ Item 4. Mine Safety Disclosures 
+ 
+ Not Applicable 
+
+12
+
+PART II 
+ 
+ Item 5. Market For Registrant s Common Equity, Related Stockholder Matters And Issuer Purchases Of Equity Securities 
+ 
+ The Company s common stock is traded on the NASDAQ Global Select Market under the symbol JJSF. The following table sets forth the high and low sale price quotations as reported by NASDAQ and dividend information for the common stock for each quarter of the years ended September 26, 2020 and September 25, 2021. 
+
+Common Stock Market Price 
+
+Dividend 
+
+High 
+
+Low 
+
+Declared 
+
+Fiscal 2021 
+
+First quarter 
+
+166.27 
+
+128.10 
+
+0.575 
+
+Second quarter 
+
+169.58 
+
+147.61 
+
+0.575 
+
+Third quarter 
+
+181.71 
+
+154.29 
+
+0.633 
+
+Fourth quarter 
+
+180.00 
+
+150.50 
+
+0.633 
+
+Fiscal 2020 
+
+First quarter 
+
+195.72 
+
+178.87 
+
+0.575 
+
+Second quarter 
+
+189.16 
+
+105.67 
+
+0.575 
+
+Third quarter 
+
+143.69 
+
+117.90 
+
+0.575 
+
+Fourth quarter 
+
+142.64 
+
+115.00 
+
+0.575 
+
+As of September 25, 2021, we had approximately 26,000 beneficial shareholders. 
+ 
+ We did not purchase any shares of our common stock in our fiscal year ended September 28, 2019. 
+ 
+ In our fiscal year ended September 26, 2020, we purchased and retired 65,648 shares of our common stock at a cost of 8,972,292, all of which was purchased in our second quarter. 
+
+13
+
+We did not purchase any shares of our common stock in our fiscal year ended September 25, 2021. 
+ 
+ A plan to purchase 500,000 shares was announced on November 8, 2012. 500,000 shares were purchased under this plan with the last purchase in August 2017. A plan to purchase 500,000 shares was announced on August 4, 2017 with no expiration date. 318,858 shares remain to be purchased under this plan. 
+ 
+ For information on the Company s Equity Compensation Plans, please see Item 12 herein. 
+
+14
+
+Item 6. [ RESERVED ] 
+
+Item 7. Management s Discussion And Analysis Of Financial Condition And Results Of Operations 
+ 
+ This Management s Discussion and Analysis of Financial Condition and Results of Operations MD A is intended to provide a reader of our financial statements with a narrative from the perspective of our management regarding our financial condition and results of operations, liquidity and certain other factors that may affect our future results. The following discussion should be read in conjunction with the consolidated financial statements and accompanying notes included in Item 8 of this Form 10-K. 
+
+Critical Accounting Policies, Judgments and Estimates 
+ 
+ We prepare our financial statements in conformity with accounting principles generally accepted in the United States of America. The preparation of such financial statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of those financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+ 
+ The Company discloses its significant accounting policies in the accompanying notes to its audited consolidated financial statements. 
+ 
+ Judgments and estimates of uncertainties are required in applying the Company s accounting policies in certain areas. Following are some of the areas requiring significant judgments and estimates: revenue recognition, accounts receivable, cash flow and valuation assumptions in performing asset impairment tests of long-lived and intangible assets, estimates of the value and useful lives of intangible assets, insurance reserves, inventories, and income taxes. 
+ 
+ There are numerous critical assumptions that may influence accounting estimates in these and other areas. We base our critical assumptions on historical experience, third-party data, and various other estimates we believe to be reasonable. A description of the aforementioned policies follows: 
+ 
+ Revenue Recognition - We adopted the new revenue recognition guidance on the first day of our fiscal 2019 year using a modified retrospective approach; however, we did not record a cumulative-effect adjustment from initially applying the standard as the adoption did not have a material impact on our financial position or results of operations. We completed a review of customer contracts and evaluated the impact of the new standard on certain common practices currently employed by us. We also finalized our assessment of the impact on our accounting policies, processes, system requirements, internal controls and disclosures. 
+ 
+ When Performance Obligations Are Satisfied 
+ A performance obligation is a promise in a contract to transfer a distinct good or service to the customer and is the unit of account for revenue recognition. A contract s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. 
+ 
+ The singular performance obligation of our customer contracts for product and machine sales is determined by each individual purchase order and the respective products ordered, with revenue being recognized at a point-in-time when the obligation under the terms of the agreement is satisfied and product control is transferred to our customer. Specifically, control transfers to our customers when the product is delivered to, installed, or picked up by our customers based upon applicable shipping terms, as our customers can direct the use and obtain substantially all of the remaining benefits from the product at this point in time. The performance obligations in our customer contracts for product are generally satisfied within 30 days. 
+ 
+ The singular performance obligation of our customer contracts for time and material repair and maintenance equipment service is the performance of the repair and maintenance with revenue being recognized at a point-in-time when the repair and maintenance is completed. 
+
+15
+
+The singular performance obligation of our customer repair and maintenance equipment service contracts is the performance of the repair and maintenance with revenue being recognized over the time the service is expected to be performed. Our customers are billed for service contracts in advance of performance and therefore we have contract liability on our balance sheet. 
+ 
+ Significant Payment Terms 
+ In general, within our customer contracts, the purchase order identifies the product, quantity, price, pick-up allowances, payment terms and final delivery terms. Although some payment terms may be more extended, presently the majority of our payment terms are 30 days. As a result, we have used the available practical expedient and, consequently, do not adjust our revenues for the effects of a significant financing component. 
+ 
+ Shipping 
+ All amounts billed to customers related to shipping and handling are classified as revenues; therefore, we recognize revenue for shipping and handling fees at the time the products are shipped or when services are performed. The cost of shipping products to the customer is recognized at the time the products are shipped to the customer and our policy is to classify them as Distribution expenses. 
+ 
+ Variable Consideration 
+ In addition to fixed contract consideration, our contracts include some form of variable consideration, including sales discounts, trade promotions and certain other sales and consumer incentives, including rebates and coupon redemptions. In general, variable consideration is treated as a reduction in revenue when the related revenue is recognized. Depending on the specific type of variable consideration, we use the most likely amount method to determine the variable consideration. We believe there will be no significant changes to our estimates of variable consideration when any related uncertainties are resolved with our customers. We review and update our estimates and related accruals of variable consideration each period based on historical experience. 
+ 
+ Warranties Returns 
+ We provide all customers with a standard or assurance type warranty. Either stated or implied, we provide assurance the related products will comply with all agreed-upon specifications and other warranties provided under the law. No services beyond an assurance warranty are provided to our customers. 
+ 
+ We do not grant a general right of return. However, customers may return defective or non-conforming products. Customer remedies may include either a cash refund or an exchange of the product. We do not estimate a right of return and related refund liability as returns of our products are rare. 
+ 
+ Contract Balances 
+ Our customers are billed for service contracts in advance of performance and therefore we have contract liability on our balance sheet as follows: 
+
+Fiscal Year Ended 
+
+September 25, 
+
+September 26, 
+
+2021 
+
+2020 
+
+(in thousands) 
+
+Beginning Balance 
+
+1,327 
+
+1,334 
+
+Additions to contract liability 
+
+5,544 
+
+5,526 
+
+Amounts recognized as revenue 
+
+(5,774) 
+
+(5,533) 
+
+Ending Balance 
+
+1,097 
+
+1,327 
+
+Disaggregation of Revenue 
+ See Note N of the Notes to our Consolidated Financial Statements for disaggregation of our net sales by class of similar product and type of customer. 
+
+16
+
+Allowance for Doubtful Receivables 
+ We provide an allowance for doubtful receivables after taking into consideration historical experience and other factors. On September 27, 2020, the Company adopted guidance issued by the FASB in ASU 2016-13 Measurement of Credit Losses on Financial Instruments, which requires companies to recognize an allowance that reflects a current estimate of credit losses expected to be incurred over the life of the asset. Adoption of this new guidance did not have a material impact on the consolidated financial statements. The Company continuously monitors collections and payments from its customers and maintains a provision for estimated credit losses. The allowance for doubtful accounts considers a number of factors including the age of receivable balances, the history of losses, expectations of future credit losses and the customers ability to pay off obligations. The allowance for doubtful receivables was 1,405,000 and 1,388,000 on September 25, 2021 and September 26, 2020, respectively. 
+ 
+ Accounts Receivable - We record accounts receivable at the time revenue is recognized. Bad debt expense is recorded in marketing and administrative expenses. We continually monitor our estimate of the allowance for doubtful accounts and adjust it monthly. We have approximately 28 customers with accounts receivable balances of between 1 million to 10 million with one customer having a balance of approximately 14 million. Failure of these customers, and others with lesser balances, to pay us the amounts owed, could have a material impact on our consolidated financial statements. 
+ 
+ Accounts receivable due from any of our customers is subject to risk. Our total bad debt expense was 338,000, 1,105,000 and 389,000 for the fiscal years 2021, 2020 and 2019, respectively. At September 25, 2021 and September 26, 2020, our accounts receivables were 162,939,000 and 126,587,000 net of an allowance for doubtful accounts of 1,405,000 and 1,388,000. 
+ 
+ Asset Impairment We have three reporting units with goodwill totaling 121,833,000 as of September 25, 2021. Goodwill is evaluated annually by the Company for impairment. We perform impairment tests at year end for our reporting units, which is also the operating segment level, with recorded goodwill utilizing primarily the discounted cash flow method. This methodology used to estimate the fair value of the total Company and its reporting units requires inputs and assumptions (i.e. revenue growth, operating profit margins, capital spending requirements and discount rates) that reflect current market conditions. The estimated fair value of each reporting unit is compared to the carrying value of the reporting unit. If the carrying value of the reporting unit exceeds its fair value, the goodwill of the reporting unit is potentially impaired, and the Company then determines the implied fair value of goodwill, which is compared to the carrying value of goodwill to determine if impairment exists. Our tests at September 25, 2021 show that the fair value of each of our reporting units with goodwill exceeded its carrying value. Therefore, no further analysis was required. The inputs and assumptions used involve considerable management judgment and are based upon assumptions about expected future operating performance. Assumptions used in these forecasts are consistent with internal planning. The actual performance of the reporting units could differ from management s estimates due to changes in business conditions, operating performance, economic conditions, competition, and consumer preferences. 
+ 
+ Licenses and rights, customer relationships and non-compete agreements are being amortized by the straight-line method over periods ranging from 2 to 20 years and amortization expense is reflected throughout operating expenses. Long-lived assets, including fixed assets and amortizing intangibles, are reviewed for impairment as events or changes in circumstances occur indicating that the carrying amount of the asset may not be recoverable. Indefinite lived intangibles are reviewed annually for impairment. Cash flow and sales analyses are used to assess impairment. The estimates of future cash flows and sales involve considerable management judgment and are based upon assumptions about expected future operating performance. Assumptions used in these forecasts are consistent with internal planning. The actual cash flows and sales could differ from management s estimates due to changes in business conditions, operating performance, economic conditions, competition, and consumer preferences. 
+ 
+ Useful Lives of Intangible Assets - Most of our trade names and distribution rights which have carrying value have been assigned an indefinite life and are not amortized because we plan to receive the benefit from them indefinitely. If we decide to curtail or eliminate the use of any of the trade names or if sales that are generated from any particular trade name or distribution right do not support the carrying value of the trade name or distribution right, then we would record impairment or assign an estimated useful life and amortize over the remaining useful life. Rights such as prepaid licenses and non-compete agreements are amortized over contractual periods. The useful lives of customer relationships are based on the discounted cash flows expected to be received from sales to the customers adjusted for an attrition rate. The loss of a major customer or declining sales in general could create an impairment charge. 
+
+17
+
+Insurance Reserves - We have a self-insured medical plan which covers approximately 1,600 of our employees. We record a liability for incurred but not yet reported or paid claims based on our historical experience of claims payments and a calculated lag time period. We maintain a spreadsheet that includes claims payments made each month according to the date the claim was incurred. This enables us to have an historical record of claims incurred but not yet paid at any point in the past. We then compare our accrued liability to the more recent claims incurred but not yet paid amounts and adjust our recorded liability up or down accordingly. Our recorded liability at September 25, 2021 and September 26, 2020 was 1,791,000 and 1,737,000 respectively. Considering that we have stop loss coverage of 200,000 for each individual plan subscriber, the general consistency of claims payments and the short time lag, we believe that there is not a material exposure for this liability. 
+ 
+ We self-insure, up to loss limits, workers compensation, automobile and general liability claims. Accruals for claims under our self-insurance program are recorded on a claims-incurred basis. Under this program, the estimated liability for claims incurred but unpaid in fiscal years 2021 and 2020 was 5,300,000 and 3,700,000, respectively. Our total recorded liability for all years claims incurred but not yet paid was 14,500,000 and 12,800,000 at September 25, 2021 and September 26, 2020, respectively. We estimate the liability based on total incurred claims and paid claims adjusting for loss development factors which account for the development of open claims over time. We estimate the amounts we expect to pay for some insurance years by multiplying incurred losses by a loss development factor which is based on insurance industry averages and the age of the incurred claims; our estimated liability is then the difference between the amounts we expect to pay and the amounts we have already paid for those years. Loss development factors that we use range from 1.0 to 2.0. However, for some years, the estimated liability is the difference between the amounts we have already paid for that year and the maximum we could pay under the program in effect for that particular year because the calculated amount we expect to pay is higher than the maximum. For other years, where there are few claims open, the estimated liability we record is the amount the insurance company has reserved for those claims. We evaluate our estimated liability on a continuing basis and adjust it accordingly. Due to the multi-year length of these insurance programs, there is exposure to claims coming in lower or higher than anticipated; however, due to constant monitoring and stop loss coverage of 350,000 on individual claims, we believe our exposure is not material. Because of the foregoing, we do not engage a third party actuary to assist in this analysis. In connection with these self-insurance agreements, we customarily enter into letters of credit arrangements with our insurers. At both September 25, 2021 and September 26, 2020, we had outstanding letters of credit totaling 9,275,000. 
+ 
+ Inventories - Inventories are valued at the lower of cost (determined by the first-in, first-out method) or market. We recognize abnormal amounts of idle facilities, freight, handling costs, and spoilage as charges of the current period. Additionally, we allocate fixed production overhead to inventories based on the normal capacity of our production facilities. We calculate normal capacity as the production expected to be achieved over a number of periods or seasons under normal circumstances, taking into account the loss of capacity resulting from planned maintenance. This requires us to use judgment to determine when production is outside the range of expected variation in production (either abnormally low or abnormally high). In periods of abnormally low production (for example, periods in which there is significantly lower demand, labor and material shortages exist, or there is unplanned equipment downtime) the amount of fixed overhead allocated to each unit of production is not increased. However, in periods of abnormally high production the amount of fixed overhead allocated to each unit of production is decreased to assure inventories are not measured above cost. 
+ 
+ Income Taxes - We account for our income taxes under the liability method. Under the liability method, deferred tax assets and liabilities are determined based on the difference between the financial statement and tax bases of assets and liabilities as measured by the enacted tax rates that will be in effect when these differences reverse. Deferred tax expense is the result of changes in deferred tax assets and liabilities. 
+ 
+ Refer to Note A to the accompanying consolidated financial statements for additional information on our accounting policies. 
+
+18
+
+RESULTS OF OPERATIONS: 
+ 
+ Fiscal Year 2021 (52 weeks) Compared to Fiscal Year 2020 (52 weeks) 
+ 
+ Net sales increased 122,541,000, or 12 , to 1,144,579,000 in fiscal 2021 from 1,022,038,000 in fiscal 2020. As parts of the economy that impact our operations continue to open, sales for the year improved from a year ago. Approximately 2/3 of the Company s sales are to venues and locations that previously shut down or sharply curtailed their foodservice operations as a result of COVID-19. While the majority of these venues have re-opened, the extent of the future impact of COVID-19 on our operations depends on future developments of the virus and its effects which are uncertain at this point in time. As we have 305 million of cash and marketable securities on our balance sheet, we do not expect to have any liquidity issues, nor do we anticipate a material amount of our assets would be impaired. 
+ 
+ We have three reportable segments, as disclosed in the accompanying notes to the consolidated financial statements: Food Service, Retail Supermarkets and Frozen Beverages. 
+ 
+ The Chief Operating Decision Maker for Food Service, Retail Supermarkets and Frozen Beverages reviews monthly detailed operating income statements and sales reports in order to assess performance and allocate resources to each individual segment. Sales and operating income are the key variables monitored by the Chief Operating Decision Maker and management when determining each segment s and the Company s financial condition and operating performance. In addition, the Chief Operating Decision Maker reviews and evaluates depreciation, capital spending and assets of each segment on a quarterly basis to monitor cash flow and asset needs of each segment. 
+ 
+ FOOD SERVICE 
+ 
+ Sales to food service customers increased 106,090,000, or 17 , to 724,983,000 in fiscal 2021. Soft pretzel sales to the food service market increased 16 to 174,977,000 for the year. Frozen novelties sales increased 9,429,000, or 27 , to 44,605,000 for the year. Churro sales to food service customers were up 38 to 64,916,000 for the year. Sales of bakery products increased 10,095,000, or 3 , to 342,609,000 for the year. Handheld sales to food service customers were up 110 to 75,627,000 in 2021. Sales of funnel cake increased 4,868,000, or 29 to 21,491,000. Sales were up across all product lines as many of the venues and locations where our products are sold that were previously shut down or operating at reduced capacity in 2020 have partially or fully re-opened in 2021. 
+ 
+ Sales of new products in the first twelve months since their introduction were approximately 39 million for the year. Operating income in our Food Service segment increased from 6,458,000 in 2020 to 39,172,000 in 2021. The increase in operating income was primarily due to the increase in sales which improved margin efficiencies and expense leverage. 
+
+RETAIL SUPERMARKETS 
+ 
+ Sales of products to retail supermarkets increased 7,732,000 or 4 to 184,897,000 in fiscal year 2021. Soft pretzel sales to retail supermarkets were 54,990,000, an increase of 5,833,000, or 12 , from sales in 2020. Sales of frozen novelties increased 11,316,000 or 13 to 100,059,000. Sales of biscuits and dumplings decreased 15 to 24,197,000 for the year. Handheld sales to retail supermarket customers decreased 38 to 7,547,000 for the year. 
+ 
+ Sales of new products in the first twelve months since their introduction were approximately 1 million in fiscal year 2021. Operating income in our Retail Supermarkets segment increased from 23,202,000 to 25,914,000 for the year primarily due to higher volume. 
+ 
+ FROZEN BEVERAGES 
+ 
+ Total frozen beverage segment sales increased 4 to 234,699,000 in fiscal 2021 and beverage sales increased 16 or 17,494,000 for the year. Gallon sales increased 16 from last year. Service revenue decreased 3 to 81,305,000 for the year primarily due to the loss of a major customer in October 2020. Machines revenue, primarily sales of machines, decreased from 33,986,000 in 2020 to 26,953,000 in 2021 due to lower sales volumes with a major customer. Overall, sales in the frozen beverage segment grew as key amusement, convenience, restaurants, and retail venues returned to pre-COVID capacity in the second half of the year, which offset a slower recovery in the theater channel. 
+
+19
+
+The estimated number of Company-owned frozen beverage dispensers was 19,000 and 27,000 at September 25, 2021 and September 26, 2020, respectively. Our Frozen Beverage segment had operating income of 6,132,000 in 2021 compared to an operating loss of 12,466,000 in 2020 primarily as a result of higher beverage sales volume due to COVID-19 recovery during 2021. 
+
+CONSOLIDATED 
+ 
+ Other than as commented upon above by segment, there are no material specific reasons for the reported sales increases or decreases. Sales levels can be impacted by the appeal of our products to our customers and consumers and their changing tastes, competitive and pricing pressures, sales execution, marketing programs, seasonal weather, customer stability and general economic conditions. 
+ 
+ Gross profit as a percentage of sales increased to 26.1 in 2021 from 23.3 in 2020. The increase is largely attributable to the benefit of increased sales, favorable product mix and corresponding margin efficiencies. 
+ 
+ Total operating expenses increased 6,477,000 to 227,710,000 in fiscal 2021 but as a percentage of sales decreased to 19.9 of sales from 21.6 in 2020. Operating expenses this year included 1,273,000 of intangible asset impairment charges and operating expenses in 2020 included 6,387,000 of plant shutdown impairment costs for the shutdown of one of our manufacturing plants. Marketing and selling expenses decreased to 6.8 this year from 8.3 of sales in 2020 driven by effective investment of marketing dollars aligned with sales recovery. Distribution expenses as a percent of sales increased to 9.5 from 9.1 in 2020 due to rising freight and fuel costs. Administrative expenses were 3.5 and 3.6 of sales in 2021 and 2020, respectively. 
+ 
+ Operating income increased 54,024,000 or 314 to 71,218,000 in fiscal year 2021 as a result of the aforementioned items. 
+ 
+ Our investments generated before tax income of 2,815,000 million this year, down from 4,356,000 last year due to decreases in the amount of investments and lower interest rates. 
+ 
+ Our effective tax rate in our fiscal 2021 year was 24.9 . Net earnings for the 2020 year benefited from a reduction in income tax expense related to state deferred taxes of approximately 2.2 million. Excluding this adjustment, our effective tax rate in our fiscal 2020 year was 25.0 . 
+ 
+ Net earnings increased 37,302,000 or 204 , in fiscal 2021 to 55,607,000, or 2.91 per diluted share, from 18,305,000 or 0.96 per diluted share, in fiscal 2020 as a result of the aforementioned items. 
+ 
+ There are many factors which can impact our net earnings from year to year and in the long run, among which are the supply and cost of raw materials and labor, insurance costs, factors impacting sales as noted above, the continuing consolidation of our customers, our ability to manage our manufacturing, marketing and distribution activities, our ability to make and integrate acquisitions and changes in tax laws and interest rates. 
+
+20
+
+RESULTS OF OPERATIONS: 
+ 
+ Fiscal Year 2020 (52 weeks) Compared to Fiscal Year 2019 (52 weeks) 
+ 
+ Net sales decreased 164,449,000, or 14 , to 1,022,038,000 in fiscal 2020 from 1,186,487,000 in fiscal 2019. Excluding sales from the acquisition of ICEE Distributors in October 2019 and BAMA ICEE in February 2020, sales decreased 15 for the year. Sales for our fourth quarter improved to being down approximately 19 from a year ago compared to being down 34 from a year ago in our third quarter as parts of the economy that impact our operations continue to open up. Approximately 2/3 of the Company s sales are to venues and locations that have shut down or sharply curtailed their foodservice operations, and therefore we anticipate COVID-19 will continue to have a negative impact on our business. As we have 278 million of cash and marketable securities on our balance sheet, up from 267 million at March 28, 2020, we do not expect to have any liquidity issues, nor do we anticipate a material amount of our assets would be impaired. 
+ 
+ FOOD SERVICE 
+ 
+ Sales to food service customers decreased 117,094,000, or 16 , to 618,893,000 in fiscal 2020. Soft pretzel sales to the food service market decreased 28 to 150,786,000 for the year. Frozen novelties sales decreased 8,496,000, or 19 , to 35,176,000 for the year. Churro sales to food service customers were down 29 to 46,881,000 for the year. Sales of bakery products decreased 26,506,000, or 7 , to 332,514,000 for the year. Handheld sales to food service customers were up 14 to 36,088,000 in 2020 with sales of a new product to a warehouse club store customer accounting for all of the increase. Sales of funnel cake decreased 8,170,000, or 33 to 16,623,000. Sales were down across all product lines except handhelds as many of the venues and locations where our products are sold had been shut down or operated at reduced capacity for some or all of the third and fourth quarters due to COVID-19. 
+ 
+ Sales of new products in the first twelve months since their introduction were approximately 5 million for the year. Operating income in our Food Service segment decreased from 76,546,000 in 2019 to 6,458,000 in 2020 primarily because of lower production and sales volume due to COVID-19. This year s operating income was impacted by plant shutdown impairment costs of 6,387,000 for the shutdown of one of our manufacturing plants. We expect to reduce manufacturing overhead and distribution costs by about 7-8 million annually as a result of this plant closure. This year also included approximately 6 million of costs for employee safety and increased COVID-19 compensation as well as increased expense of about 3.5 million for accounts receivable allowances and inventory losses due to the impact of COVID-19 on some of our customers and on sales of some of our products. 
+
+21
+
+RETAIL SUPERMARKETS 
+ 
+ Sales of products to retail supermarkets increased 32,573,000 or 23 to 177,165,000 in fiscal year 2020. Soft pretzel sales to retail supermarkets were 49,157,000, an increase of 12,893,000, or 36 , from sales in 2019. Sales of frozen novelties increased 14,992,000 or 20 to 88,743,000. Sales of biscuits and dumplings increased 12 to 28,317,000 for the year. Coupon redemption costs, a reduction of sales, of 3,569,000 were down less than 1 from 2019. Handheld sales to retail supermarket customers increased 13 to 12,303,000 for the year. Sales were generally higher for all product lines as sales in the year ago periods were impacted by lost volume and placements due to the price increases implemented in last year s first quarter and because of increased sales to supermarkets generally since mid-March 2020 due to COVID-19. 
+ 
+ Sales of new products in the first twelve months since their introduction were approximately 1 million in fiscal year 2020. Operating income in our Retail Supermarkets segment increased from 10,460,000 to 23,202,000 for the year primarily due to higher volume. 
+ 
+ FROZEN BEVERAGES 
+ 
+ Total frozen beverage segment sales decreased 26 to 225,980,000 in fiscal 2020 and beverage sales decreased 38 or 64,816,000 for the year. Excluding sales from the acquisition of ICEE Distributors in October 2019 and BAMA ICEE in February 2020, total frozen beverage segment sales decreased 30 for the year and beverage sales decreased 45 for the year. Gallon sales were down 41 from last year exclusive of ICEE Distributors gallons. Service revenue decreased 3 to 83,420,000 for the year with sales increases and decreases spread throughout our customer base with additional sales to existing customers and to new customers to largely offset declines in sales business to customers due to COVID-19. Machines revenue, primarily sales of machines, decreased from 45,811,000 in 2019 to 33,986,000 in 2020 with the decrease due to two significant install projects during the prior fiscal year, as well as the slowdown due to COVID-19. Sales are down across all product lines as many of the venues and locations where our products are sold have been shut down or operating at reduced capacity for some or all of the third and fourth quarters due to COVID-19. 
+ 
+ The estimated number of Company-owned frozen beverage dispensers was 27,000 and 26,000 at September 26, 2020 and September 28, 2019, respectively. Our Frozen Beverage segment had an operating loss of 12,466,000 in 2020 compared to operating income of 29,950,000 in 2019 primarily as a result of lower sales volume due to COVID-19. This year s operating income was also impacted by relocation costs of our ICEE s headquarters of 2.5 million. 
+ 
+ CONSOLIDATED 
+ 
+ Other than as commented upon above by segment, there are no material specific reasons for the reported sales increases or decreases. Sales levels can be impacted by the appeal of our products to our customers and consumers and their changing tastes, competitive and pricing pressures, sales execution, marketing programs, seasonal weather, customer stability and general economic conditions. 
+ 
+ Gross profit as a percentage of sales decreased to 23.3 in 2020 from 29.5 in 2019. Gross profit percentage decreased because of lower volume in our food service and frozen beverages segments, higher costs related to production disruptions due to volume mix changes, expenses related to employee safety and increased COVID-19 compensation and increased cost compared to last year of about 4.5 million for the write-down and disposal of inventory. 
+ 
+ Total operating expenses decreased 12,212,000 to 221,233,000 in fiscal 2020 but as a percentage of sales increased to 21.6 of sales from 19.7 in 2019. Operating expenses this year included 6,387,000 of plant shutdown impairment costs for the shutdown of one of our manufacturing plants. Marketing and selling expenses increased to 8.3 this year from 8.1 of sales in 2019. Distribution expenses as a percent of sales increased to 9.1 from 8.0 in 2019. Administrative expenses were 3.6 and 3.4 of sales in 2020 and 2019, respectively. The percentage increases mentioned above were because of the drop in sales (lower denominators) and our inability to reduce expenses in line with the decrease in sales because of fixed costs that do not fluctuate with sales. 
+ 
+ Operating income decreased 99,762,000 or 85 to 17,194,000 in fiscal year 2020 as a result of the aforementioned items. 
+ 
+ Our investments generated before tax income of 4,356,000 million this year, down from 7,741,000 last year due to decreases in the amount of investments and lower interest rates. 
+
+22
+
+Other income in 2019 includes a 2.0 million payment received from a customer due to cancellation of production under a co-manufacturing agreement. 
+ 
+ Net earnings in 2019 benefited from a reduction of approximately 900,000 in tax as the provision for the one-time repatriation tax under the Tax Cuts and Jobs Act recorded in 2018 was reduced as the amount recorded in 2018 was an estimate. Excluding the reduction in the provision for the one-time repatriation tax, our effective tax rate was 25.8 for 2019. Net earnings for the 2020 year benefited from a reduction in income tax expense related to state taxes of approximately 2.2 million. Excluding this benefit, our effective tax rate in our fiscal 2020 year was 25.0 . 
+ 
+ Net earnings decreased 76,514,000 or 81 , in fiscal 2020 to 18,305,000, or .96 per diluted share, from 94,819,000 or 5.00 per diluted share, in fiscal 2019 as a result of the aforementioned items. 
+ 
+ There are many factors which can impact our net earnings from year to year and in the long run, among which are the supply and cost of raw materials and labor, insurance costs, factors impacting sales as noted above, the continuing consolidation of our customers, our ability to manage our manufacturing, marketing and distribution activities, our ability to make and integrate acquisitions and changes in tax laws and interest rates. 
+
+RESULTS OF OPERATIONS 
+
+ACQUISITIONS 
+ 
+ On October 1, 2019, we acquired the assets of ICEE Distributors LLC, based in Bossier City, Louisiana for approximately 45 million. ICEE Distributors does business in Arkansas, Louisiana and Texas. Sales and operating income of ICEE Distributors were 9.7 million and 2.4 million for the year ended September 25, 2021. Sales and operating income of ICEE Distributors were 11.4 million and 3.6 million for the year ended September 26, 2020. 
+ 
+ On February 4, 2020, we acquired the assets of BAMA ICEE, based in Birmingham, Alabama for approximately 12 million. BAMA ICEE does business in Alabama and Georgia. Sales and operating income of BAMA ICEE were 1.8 million and 0.5 million for the year ended September 25, 2021. Sales and operating income of BAMA ICEE were 1.7 million and 0.6 million for the year ended September 26, 2020. 
+ 
+ These acquisitions were accounted for under the purchase method of accounting, and their operations are included in the accompanying consolidated financial statements from their respective acquisition dates. 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+ 
+ Although there are many factors that could impact our operating cash flow, most notably net earnings, we believe that our future operating cash flow, along with our borrowing capacity, our current cash and cash equivalent balances and our investment securities is sufficient to satisfy our cash requirements over the next twelve months and beyond, as well as fund future growth and expansion. 
+ 
+ As of September 25, 2021, we have 283,192,000 of Cash and Cash Equivalents, and 22,111,000 of Marketable Securities. 
+ 
+ The Company s material cash requirements include the following contractual and other obligations: 
+ 
+ Purchase Commitments 
+ 
+ Our most significant raw material requirements include flour, packaging, shortening, corn syrup, sugar, juice, cheese, chocolate, and a variety of nuts. We attempt to minimize the effect of future price fluctuations related to the purchase of raw materials primarily through forward purchasing to cover future manufacturing requirements, generally for periods from 1 to 12 months. As of September 25, 2021, we have approximately 78 million of such commitments. The purchase commitments do not exceed our projected requirements over the related terms and are in the normal course of business. 
+
+23
+
+Leases 
+ 
+ We have operating leases with initial noncancelable lease terms in excess of one year covering the rental of various facilities and equipment. Our operating leases include leases for real estate from some of our office and manufacturing facilities as well as manufacturing and non-manufacturing equipment used in our business. As of September 25, 2021, we have operating lease payment obligations of 66,324,000, with 14,994,000 payable within 12 months. 
+ 
+ Fluctuations in the value of the Mexican and Canadian currencies and the resulting translation of the net assets of our Mexican and Canadian subsidiaries caused a decrease of 2,204,000 in accumulated other comprehensive loss in 2021, an increase of 2,599,000 in accumulated other comprehensive loss in 2020 and an increase of 909,000 in accumulated other comprehensive loss in 2019. In 2021, sales of the two subsidiaries were 20,754,000 as compared to 15,421,000 in 2020 and 33,906,000 in 2019. The fluctuation of sales over the periods presented is the result of COVID-19. 
+ 
+ In our fiscal year ended September 28, 2019, we did not purchase any shares of our common stock. 
+ 
+ In our fiscal year ended September 26, 2020, we purchased and retired 65,648 shares of our common stock at a cost of 8,972,292. 
+ 
+ In our fiscal year ended September 25, 2021, we did not purchase any shares of our common stock. 
+ 
+ In November 2016, we entered into an amendment and modification to an amended and restated loan agreement with our existing banks which provides for up to a 50,000,000 revolving credit facility repayable in November 2021. The agreement contains restrictive covenants and requires commitment fees in accordance with standard banking practice. There were no outstanding balances under the facility at September 25, 2021 or at September 26, 2020. The significant financial covenants are: 
+ 
+ . Tangible net worth must initially be more than 465 million. 
+ 
+ . Total funded indebtedness divided by earnings before interest expense, income taxes, depreciation and amortization shall not be greater than 2.25 to 1. 
+ 
+ We were in compliance with the financial covenants described above at September 25, 2021. 
+ 
+ On November 16, 2021, we entered into an amendment and modification to the amended and restated loan agreement which extended the maturity of the revolving credit facility to December 16, 2021. 
+ 
+ We self-insure, up to loss limits, certain insurable risks such as workers compensation, automobile, and general liability claims. Accruals for claims under our self-insurance program are recorded on a claims-incurred basis. Under this program, the estimated liability for claims incurred but unpaid in fiscal years 2021 and 2020 was 5,300,000 and 3,700,000, respectively. In connection with certain self-insurance agreements, we customarily enter into letters of credit arrangements with our insurers. At both September 25, 2021 and September 26, 2020, we had outstanding letters of credit totaling 9,275,000. 
+
+24
+
+Fiscal 2021 Compared to Fiscal 2020 
+ 
+ Cash and cash equivalents and marketable securities held to maturity and available for sale increased 27,440,000 or 10 , to 305,303,000 from a year ago for reasons described below. 
+ 
+ Accounts receivables, net increased 36,352,000, or 29 , to 162,939,000 in 2021 because of higher sales in this year s September month and timing of collections. 
+ 
+ Inventory increased 14,237,000 or 13 to 123,160,000 largely due to the increase in sales and the need for additional inventory in connection with the increased sales. 
+ 
+ Prepaid expenses and other was 7,498,000 compared to 17,087,000 last year, as prepaid income tax decreased by 13,697,000. Prepaid taxes in 2020 were higher, as payments in the first six months of the year were based on pre-COVID expectations. 
+ 
+ Net property, plant and equipment increased 5,571,000 to 267,187,000 because purchases of property, plant and equipment for the improvement and expansion of our manufacturing capabilities and frozen carbonated beverage business exceeded depreciation on existing assets. Purchases of property, plant and equipment decreased slightly to 53,578,000 in 2021 from 57,817,000 in 2020. We are continually looking for opportunities to invest in projects at our manufacturing facilities that have a financial payback on capital invested with the goal of improving efficiency and reducing operating costs. 
+ 
+ Marketable securities available for sale and held to maturity decreased by 59,943,000 to 22,111,000 as we decreased our holdings of corporate bonds and available for sale securities primarily due to the decline in interest rates. 
+ 
+ Accounts Payables increased 32 to 96,789,000 from 73,135,000 in 2020. 
+ 
+ Dividends payable increased to 12,080,000 as our quarterly dividend payment increased to 0.633/share from 0.575/share. 
+ 
+ Net cash provided by operating activities increased 9,356,000 to 101,499,000 in 2021 primarily because of an increase in net earnings offset by an increase in the investment in net working capital balances, predominantly related to accounts receivable. 
+ 
+ Net cash provided by investing activities increased 54,402,000 to 9,939,000 in 2021 from net cash used in investing activities of 44,463,000 in 2020 primarily due to 57,212,000 of cash paid for purchases of companies in 2020. In 2021, proceeds from the redemption and sales of marketable securities outpaced the cash used on purchases of property, plant and equipment. 
+ 
+ Net cash used in financing activities decreased by 18,791,000 to a use of cash of 24,673,000 in 2021 due to an increase in proceeds from the issuance of common stock combined with having no repurchases of common stock in 2021. The net use of cash in 2021 was due the payment of cash dividends outpacing the inflow of cash proceeds from the issuance of common stock. 
+
+25
+
+In 2021, the major variables in determining our net increase in cash and cash equivalents and marketable securities were our increase in net earnings, depreciation and amortization of fixed assets, changes in accounts receivable, accounts payable and accrued liabilities and changes in deferred tax liabilities, purchases of property, plant and equipment, and payments of cash dividends. Other variables which in the past have had a significant impact on our change in cash and cash equivalents and marketable securities are proceeds from borrowings and payments of long-term debt. As discussed in results of operations, our net earnings may be influenced by many factors. Depreciation and amortization of fixed assets is primarily determined by past purchases of property, plant and equipment although it could be impacted by a significant acquisition. Purchases of property, plant and equipment are primarily determined by our ongoing normal manufacturing and marketing requirements but could be increased significantly for manufacturing expansion requirements or large frozen beverage customer needs. We are actively seeking acquisitions that could be a significant use of cash. Although we have no long-term debt at September 25, 2021, we may borrow in the future depending on our needs. 
+
+Off Balance Sheet Arrangements 
+ 
+ The Company has off-balance sheet arrangements for operating leases and purchase commitments as of September 25, 2021. 
+ 
+ Item 7A. Quantitative And Qualitative Disclosures About Market Risk 
+ 
+ The following is the Company s quantitative and qualitative analysis of its financial market risk: 
+ 
+ Interest Rate Sensitivity 
+ 
+ The Company has in the past entered into interest rate swaps to limit its exposure to interest rate risk and may do so in the future if the Board of Directors feels that such non-trading purpose is in the best interest of the Company and its shareholders. As of September 25, 2021, the Company had no interest rate swap contracts. 
+ 
+ Interest Rate Risk 
+ 
+ At September 25, 2021, the Company had no long-term debt obligations. 
+ 
+ Purchasing Risk 
+ 
+ The Company s most significant raw material requirements include flour, shortening, corn syrup, sugar, juice, cheese, chocolate, and a variety of nuts. The Company attempts to minimize the effect of future price fluctuations related to the purchase of raw materials primarily through forward purchasing to cover future manufacturing requirements, generally for periods from 1 to 12 months. Future contracts are not used in combination with forward purchasing of these raw materials. The Company s procurement practices are intended to reduce the risk of future price increases, but also may potentially limit the ability to benefit from possible price decreases. 
+ 
+ Foreign Exchange Rate Risk 
+ 
+ The Company has not entered into any forward exchange contracts to hedge its foreign currency rate risk as of September 25, 2021, because it does not believe its foreign exchange exposure is significant. 
+
+26
+
+Item 8. Financial Statements And Supplementary Data 
+ 
+ The financial statements of the Company are filed under this Item 8, beginning on page F-1 of this report. 
+ 
+ Item 9. Changes In And Disagreements With Accountants On Accounting And Financial Disclosure 
+ 
+ None. 
+ 
+ Item 9A. Controls And Procedures 
+ 
+ Disclosure Controls and Procedures 
+ 
+ We carried out an evaluation under the supervision and with the participation of our management, including our chief executive officer and chief financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures, as such term is defined under Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934 (the "Exchange Act"), as amended for financial reporting, as of September 25, 2021. Based on that evaluation, our chief executive officer and chief financial officer concluded that these controls and procedures are effective at a reasonable assurance level. 
+ 
+ Our disclosure controls and procedures are designed to provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported, within the time periods specified in the rules and forms of the SEC. These disclosure controls and procedures include, among other things, controls and procedures designed to provide reasonable assurance that information required to be disclosed by us in the reports that we file under the Exchange Act is accumulated and communicated to our management, including our chief executive officer and chief financial officer, as appropriate to allow timely decisions regarding required disclosure. 
+ 
+ Management s Report on Internal Control over Financial Reporting 
+ 
+ Our management is responsible for establishing and maintaining adequate internal control over financial reporting. Internal control over financial reporting is defined in Rule 13a-15(f) and 15d-15(f) under the Exchange Act as a process designed by, or under the supervision of, the chief executive officer and chief financial officer and effected by the board of directors and management to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles and includes those policies and procedures that: 
+
+Pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of our assets; 
+
+Provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of our management and board of directors; 
+
+Provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on the financial statements. 
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods are subject to the risks that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+27
+
+Our management assessed the effectiveness of our internal control over financial reporting as of September 25, 2021. In making this assessment, our management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in the 2013 Internal Control-Integrated Framework. 
+ 
+ Based on our assessment, our management believes that, as of September 25, 2021, our internal control over financial reporting is effective. There have been no changes that occurred during our fourth quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+ Our independent registered public accounting firm, Grant Thornton LLP, audited our internal control over financial reporting as of September 25, 2021. Their report, dated November 23, 2021, expressed an unqualified opinion on our internal control over financial reporting. That report appears in Item 15 of Part IV of this Annual Report on Form 10-K and is incorporated by reference to this Item 9A. 
+ 
+ Item 9B. Other Information 
+ 
+ There was no information required on Form 8-K during the quarter that was not reported. 
+
+PART III 
+
+Item 10. Directors, Executive Officers and Corporate Governance 
+ 
+ The following is a list of the executive officers of the Company and their principal past occupations or employment. All such persons serve at the pleasure of the Board of Directors and have been elected to serve until the Annual Meeting of Shareholders on February 16, 2022 or until their successors are duly elected. 
+
+Name 
+ Age 
+ Position 
+
+Gerald B. Shreiber 
+ 79 
+ Chairman of the Board and Director 
+
+Peter G. Stanley 
+ 79 
+ Director 
+
+Sidney R. Brown 
+ 64 
+ Director 
+
+Vincent A. Melchiorre 
+ 61 
+ Director 
+
+Marjorie S. Roshkoff 
+ 53 
+ Director, General Counsel and Secretary 
+
+Dan Fachner 
+ 61 
+ Chief Executive Officer and President 
+
+Ken A. Plunk 
+ 58 
+ Senior Vice President and Chief Financial Officer and Treasurer 
+
+Robert J. Pape 
+ 64 
+ Senior Vice President Sales 
+
+Lynwood Mallard 
+ 53 
+ Chief Marketing Officer 
+
+Steve Every 
+ 59 
+ Senior Vice President, Chief Operating Officer The ICEE Company 
+
+Gerald B. Shreiber is the founder of the Company and has served as its Chairman of the Board since its inception in 1971 and as Chief Executive Officer and President until Dan Fachner was named Chief Executive Officer and President of the Company in May 2021, and May 2020, respectively. His term as a director expires in 2025. 
+ 
+ Peter G. Stanley became a director in 1983. Since November 1999 he has been the Chairman of the Board of Emerging Growth Equities, Ltd., an investment banking firm. 
+ 
+ Sidney R. Brown became a director of the Company in 2003. He is the Chief Executive Officer of NFI Industries, Inc., a premier integrated supply chain solutions provider. Mr. Brown is also on the Board of FS Energy and Power Fund, a specialty finance company that invests primarily in income-oriented securities of private energy-related companies. In addition, he is a member of the Board of Trustees of Cooper Health Systems. 
+
+28
+
+Vincent A. Melchiorre became a director in 2013. He is Senior Vice President of Bimbo Bakeries USA since September 2010. From June 2007 to August 2010, Mr. Melchiorre was employed by J J Snack Foods Corp. as Senior Vice President-Food Group. From May 2006 to June 2007 he was Senior Vice President, Bread and Roll Business, George Weston Foods; from January 2003 to April 2006 he was Senior Vice President, Sales and Marketing at Tasty Baking Company and from June 1982 to December 2002 he was employed by Campbell Soup Company in various capacities, most recently Vice President of Marketing of Pepperidge Farm. 
+ 
+ Marjorie S. Roshkoff joined the Company in February 2016 with more than 15 years of legal experience. In February 2017 she was appointed Vice President, In-House Counsel and Corporate Secretary. In this role, she oversees outside counsel and is responsible for the Company s legal issues. Ms. Roshkoff became a director of the Company in 2020. In 2021, she was named General Counsel of the Company. Ms. Roshkoff is a daughter of Gerald B. Schreiber. 
+ 
+ Dan Fachner has been an employee of The ICEE Company, which was acquired by the Company in May 1987, since 1979. He was named Senior Vice President of The ICEE Company in April 1994 and became President of ICEE in May 1997. On May 4, 2020, he was appointed President of J J Snack Foods Corp. and on May 11, 2021, he was appointed Chief Executive Officer of J J Snack Foods. 
+ 
+ Ken A. Plunk joined the Company in September 2020 as Senior Vice President and Chief Financial Officer. Prior to joining the Company, Mr. Plunk held various senior positions with Walmart, Inc., The Home Depot and The Coca-Cola Company. 
+ 
+ Robert J. Pape joined the Company in 1998. He served in various sales and sales management capacities prior to becoming Senior Vice President Sales in 2010. Mr. Pape will be retiring effective January 3, 2022. 
+ 
+ Lynwood Mallard joined the Company in March 2021 as Senior Vice President, Chief Marketing Officer. Prior to joining the Company, Mr. Mallard worked for Coca-Cola for almost 23 years and held various positions across Coca-Cola s business segments. Mr. Mallard was most recently Vice President of Innovation for Coca-Cola s Foodservice division. 
+ 
+ Steve Every joined the Company in 2009 and in July 2021, was promoted to Chief Operating Officer, The ICEE Company. Since joining the Company, Mr. Every has served in a number of roles including sales, operations, service and international, most recently as SVP-Sales. 
+ 
+ Portions of the information concerning directors and executive officers, appearing under the captions Information Concerning Nominees For Election To Board and Information Concerning Continuing Directors And Executive Officers and information concerning Section 16(a) Compliance appearing under the caption Compliance with Section 16(a) of the Securities Exchange Act of 1934 in the Company s Proxy Statement filed with the SEC in connection with the Annual Meeting of Shareholders to be held on February 16, 2022 2021 Proxy Statement is incorporated herein by reference. 
+ 
+ Portions of the information concerning the Audit Committee, the requirement for an Audit Committee Financial Expert and the Nominating Committee in the Company s 2021 Proxy Statement filed with the SEC in connection with the Annual Meeting of Shareholders to be held on February 16, 2022 is incorporated herein by reference. 
+ 
+ The Company has adopted a Code of Ethics pursuant to Section 406 of the Sarbanes-Oxley Act of 2002, which applies to the Company s principal executive officer and senior financial officers. The Company has also adopted a Code of Business Conduct and Ethics which applies to all employees. The Company will furnish any person, without charge, a copy of the Code of Ethics upon written request to J J Snack Foods Corp., 6000 Central Highway, Pennsauken, New Jersey 08109, Attn: Marjorie S. Roshkoff, Esq. A copy of the Code of Ethics can also be found on our website at www.jjsnack.com . Any waiver of any provision of the Code of Ethics granted to the principal executive officer or senior financial officer may only be granted by a majority of the Company s disinterested directors. If a waiver is granted, information concerning the waiver will be posted on our website www.jjsnack.com for a period of 12 months. 
+
+29
+
+Item 11. Executive Compensation 
+ 
+ Information concerning executive compensation appearing in the Company s 2021 Proxy Statement under the caption Management Remuneration is incorporated herein by reference. 
+
+Item 12. Security Ownership Of Certain Beneficial Owners And Management And Related Stockholder Matters 
+ 
+ Information concerning the security ownership of certain beneficial owners and management appearing in the Company s 2021 Proxy Statement under the caption Security Ownership of Certain Beneficial Owners and Management is incorporated herein by reference. 
+ 
+ The following table details information regarding the Company s existing equity compensation plans as of September 25, 2021. 
+
+a 
+
+b 
+
+c 
+
+Number of 
+
+Securities 
+
+Remaining 
+
+available for 
+
+future 
+
+Number of 
+
+Weighted- 
+
+issuance under 
+
+securities to 
+
+average 
+
+equity 
+
+be issued upon 
+
+exercise 
+
+compensation 
+
+exercise of 
+
+price of 
+
+plans 
+
+outstanding 
+
+outstandng 
+
+(excluding 
+
+options, 
+
+options, 
+
+securities 
+
+warrants and 
+
+warrants and 
+
+reflected in 
+
+Plan Category 
+ 
+ rights 
+
+rights 
+
+column (a)) 
+
+Equity compensation plans approved by security holders 
+
+748,096 
+
+141.16 
+
+598,000 
+
+Equity compensation plans not approved by security holders 
+
+- 
+
+- 
+
+- 
+
+Total 
+
+748,096 
+
+141.16 
+
+598,000 
+
+Column A includes 173,000 from stock option plans that were replaced subsequent to September 30, 2017. Those plans have been replaced by a plan, approved by shareholders in February 2018, that has 174,000 shares available for future issuance as of the date of this Form 10-K. 
+
+30
+
+Item 13. Certain Relationships And Related Transactions, and Director Independence 
+ 
+ Information concerning the Certain Relationships and Related Transactions, and Director Independence in the Company s 2021 Proxy Statement is incorporated herein by reference. 
+ 
+ Item 14. Principal Accountant Fees And Services 
+ 
+ Information concerning the Principal Accountant Fees and Services in the Company s 2021 Proxy Statement is incorporated herein by reference. 
+
+PART IV 
+ 
+ Item 15. Exhibits, Financial Statement Schedules 
+
+(a) 
+ The following documents are filed as part of this Report: 
+
+(1) Financial Statements 
+ 
+ The financial statements filed as part of this report are listed on the Index to Consolidated Financial Statements and Financial Statements Schedule on page F-1. 
+ 
+ (2) Financial Statement Schedule Page S-1 
+ 
+ Schedule II Valuation and Qualifying Accounts 
+ 
+ All other schedules are omitted either because they are not applicable or because the information required is contained in the financial statements or notes thereto. 
+
+31
+
+(b) 
+ Exhibits 
+
+3.1 
+ Amended and Restated Certificate of Incorporation filed February 28, 1990 (Incorporated by reference from the Company s Form 10-Q dated May 4, 1990). 
+ 
+ 3.2 
+ Revised Bylaws adopted November 19, 2013 (Incorporated by reference from the Company s Form 10-K dated November 26, 2013). 
+ 
+ 4.3 
+ Amended and Restated Loan Agreement dated December 1, 2006 by and among J J Snack Foods Corp. and Certain of its Subsidiaries and Citizens Bank of Pennsylvania, as Agent (Incorporated by reference from the Company s Form 10-K dated December 6, 2006). 
+ 
+ 4.4 First Amendment and Modification to Amended and Restated Loan Agreement (Incorporated by reference from the Company s Form 10-K dated December 7, 2011). 
+ 
+ 4.5 Fourth Amendment and Modification to Amended and Restated Loan Agreement (Incorporated by reference from the Company s Form 10-K dated November 21, 2016). 
+ 
+ 4.6 
+ Fifth Amendment and Modification to Amended and Restated Loan Agreement 
+ 
+ 10.1 J J Snack Foods Corp. Amended and Restated Long-Term Incentive Plan (Incorporated by referenced from the Company s Form 8-K filed on February 12, 2021). 
+ 
+ 10.2 J J Snack Foods Corp. Stock Option Plan (Incorporated by reference from the Company s Definitive Proxy Statement dated December 22, 2017). 
+ 
+ 10.3 J J Snack Foods Corp. Employee Stock Purchase Plan (Incorporated by reference from the Company s Form S-8 dated May 16, 1996). 
+ 
+ 10.4 Inducement Restricted Stock Award Agreement (Incorporated by reference from the Company s Form 8-K filed on October 26, 2020. 
+ 
+ 14.1 Code of Ethics Pursuant to Section 406 of the Sarbanes-Oxley Act of 2002 (Incorporated by reference from the Company s 10-Q dated July 20, 2004). 
+
+32
+
+21.1 
+ Subsidiaries of J J Snack Foods Corp. 
+ 
+ 23.1 
+ Consent of Independent Registered Public Accounting Firm. 
+ 
+ 31.1 
+ Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 31.2 
+ Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 32.1 
+ Certification Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant To Section 906 Of The Sarbanes-Oxley Act of 2002. 
+ 
+ 32.2 
+ Certification Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant To Section 906 Of The Sarbanes-Oxley Act of 2002. 
+ 
+ 101 
+ The following financial information from J J Snack Foods Corp.'s Form 10-K for the year ended September 25, 2021, formatted in iXBRL (Inline extensible Business Reporting Language): 
+
+(i) 
+ Consolidated Balance Sheets, 
+
+(ii) 
+ Consolidated Statements of Earnings, 
+
+(iii) 
+ Consolidated Statements of Comprehensive Income, 
+
+(iv) 
+ Consolidated Statements of Cash Flows, 
+
+(v) 
+ Consolidated Statement of Changes in Stockholders' Equity and 
+
+(vi) 
+ The Notes to the Consolidated Financial Statements 
+
+104 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+ 
+ _____________ 
+ 
+ Compensatory Plan 
+ 
+ Filed Herewith 
+
+33
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+J J SNACK FOODS CORP. 
+
+November 23, 2021 
+ By: 
+ /s/ Dan Fachner 
+
+Dan Fachner, Chief Executive Officer and President (Principal Executive Officer) 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated. 
+
+November 23, 2021 
+ 
+ /s/ Dan Fachner 
+
+Dan Fachner, Chief Executive Officer and President (Principal Executive Officer) 
+
+November 23, 2021 
+ 
+ /s/ Ken A. Plunk 
+
+Ken A. Plunk, Senior Vice President and Chief Financial Officer (Principal Financial Officer) (Principal Accounting Officer) 
+
+November 23, 2021 
+ 
+ /s/ Sidney R. Brown 
+
+Sidney R. Brown, Director 
+
+November 23, 2021 
+ 
+ /s/ Peter G. Stanley 
+
+Peter G. Stanley, Director 
+
+November 23, 2021 
+ 
+ /s/ Vincent A. Melchiorre 
+
+Vincent A. Melchiorre, Director 
+
+34
+
+J J SNACK FOODS CORP. 
+ INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+ AND FINANCIAL STATEMENT SCHEDULE 
+
+Financial Statements: 
+
+Report of Independent Registered Public Accounting Firm 
+ F-2 
+
+Opinion of Independent Registered Public Accounting Firm on Internal Control over Financial Reporting 
+ F-4 
+
+Consolidated Balance Sheets as of September 25, 2021 and September 26, 2020 
+ F-5 
+
+Consolidated Statements of Earnings for the fiscal years ended September 25, 2021, September 26, 2020 and September 28, 2019 
+ F-6 
+
+Consolidated Statements of Comprehensive Income for the fiscal years ended September 25, 2021, September 26, 2020 and September 28, 2019 
+ F-7 
+
+Consolidated Statement of Changes in Stockholders Equity for the fiscal years ended September 25, 2021, September 26, 2020 and September 28, 2019 
+ F-8 
+
+Consolidated Statements of Cash Flows for the fiscal years ended September 25, 2021, September 26, 2020 and September 28, 2019 
+ F-9 
+
+Notes to Consolidated Financial Statements 
+ F-10 
+
+Financial Statement Schedule: 
+
+Schedule II Valuation and Qualifying Accounts 
+ S-1 
+
+F-1
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM Board of Directors and Shareholders J J Snack Foods Corp. and Subsidiaries Opinion on the financial statements We have audited the accompanying consolidated balance sheets of J J Snack Foods Corp. (a New Jersey corporation) and subsidiaries (the Company as of September 25, 2021 and September 26, 2020, the related consolidated statements of earnings, comprehensive income, changes in shareholders equity, and cash flows for each of the three years in the period ended September 25, 2021, and the related notes and financial statement schedule included under Item 15(a) (collectively referred to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of September 25, 2021 and September 26, 2020, and the results of its operations and its cash flows for each of the three years in the period ended September 25, 2021, in conformity with accounting principles generally accepted in the United States of America. We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) PCAOB ), the Company s internal control over financial reporting as of September 25, 2021, based on criteria established in the 2013 Internal Control Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO ), and our report dated November 23, 2021 expressed an unqualified opinion. Basis for opinion These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence supporting the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+F-2
+
+Critical audit matters The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions on the critical audit matter or on the accounts or disclosures to which it relates. Net Revenue Adjustments As described in Note A to the consolidated financial statements, contracts with customers include some form of variable consideration, including sales discounts, trade promotions and certain other sales and consumer incentives, including rebates. Variable consideration is treated as a reduction in revenue when the related revenue is recognized, and is recorded using the most likely amount method, with updates to estimates and related accruals of variable consideration occurring each period based on historical experience and changes in circumstances. We identified the estimation of certain subsidiaries reserves for these net revenue adjustments by management as a critical audit matter because the inputs and assumptions utilized by management in estimating these reserves, including consistency of historical data and contract pricing, require significant judgment and create a high degree of estimation uncertainty. Consequently, auditing these assumptions requires subjective auditor judgment. Our audit procedures related to the estimation of the reserves included the following, among others. 
+
+We obtained an understanding of management s processes and controls over calculating the reserves for net revenue adjustments, including understanding relevant inputs and assumptions. 
+
+We evaluated the design and tested the operating effectiveness of key controls relating to the calculation of the reserves for net revenue adjustments, including key management review controls over the period-end accrual of allowances and end-user pricing adjustments. 
+
+We re-performed management s process for calculating the reserves for net revenue adjustments. 
+
+We evaluated key inputs and assumptions relevant to the net revenue adjustments, including contractual pricing and rebate arrangements with customers and historical allowance data, which were compared to source documents. 
+
+We considered transactions subsequent to year end occurring up to the date of our auditor s opinion, which involved inspecting customer contracts and relevant source documents submitted by customers in conjunction with the allowance, including end-user pricing adjustments. 
+
+/s/ GRANT THORNTON LLP We have served as the Company s auditor since 1984. Philadelphia, Pennsylvania November 23, 2021 
+
+F-3
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+Board of Directors and Shareholders 
+ J J Snack Foods Corp. and Subsidiaries 
+ 
+ Opinion on internal control over financial reporting 
+ We have audited the internal control over financial reporting of J J Snack Foods Corp. (a New Jersey corporation) and subsidiaries (the Company as of September 25, 2021 based on criteria established in the 2013 Internal Control Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO ). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of September 25, 2021, based on criteria established in the 2013 Internal Control Integrated Framework issued by COSO. 
+ 
+ We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) PCAOB ), the consolidated financial statements of the Company as of and for the year ended September 25, 2021, and our report dated November 23, 2021 expressed an unqualified opinion on those financial statements. 
+ 
+ Basis for opinion 
+ The Company s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management s Report on Internal Control over Financial Reporting. Our responsibility is to express an opinion on the Company s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. 
+ 
+ Definition and limitations of internal control over financial reporting 
+ A company s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company s assets that could have a material effect on the financial statements. 
+ 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ 
+ /s/GRANT THORNTON LLP 
+ 
+ Philadelphia, Pennsylvania 
+ November 23, 2021 
+
+F-4
+
+J J SNACK FOODS CORP. AND SUBSIDIARIES 
+
+CONSOLIDATED BALANCE SHEETS 
+
+(in thousands, except share amounts) 
+
+September 25, September 26, 
+ 2021 2020 
+ Assets 
+ Current assets 
+ Cash and cash equivalents 
+ Marketable securities held to maturity 
+ Accounts receivable, net 
+ Inventories 
+ Prepaid expenses and other 
+ Total current assets 
+ 
+ Property, plant and equipment, at cost 
+ Less accumulated depreciation and amortization 
+ Property, plant and equipment, net 
+ 
+ Other assets 
+ Goodwill 
+ Other intangible assets, net 
+ Marketable securities held to maturity 
+ Marketable securities available for sale 
+ Operating lease right-of-use assets 
+ Other 
+ Total other assets 
+ Total Assets 
+ 
+ Liabilities and Stockholders' Equity 
+ Current Liabilities 
+ Current finance lease liabilities 
+ Accounts payable 
+ Accrued insurance liability 
+ Accrued liabilities 
+ Current operating lease liabilities 
+ Accrued compensation expense 
+ Dividends payable 
+ Total current liabilities 
+
+Noncurrent finance lease liabilities 
+ Noncurrent operating lease liabilities 
+ Deferred income taxes 
+ Other long-term liabilities 
+ 
+ Stockholders' Equity 
+ Preferred stock, 1 par value; authorized 10,000,000 shares; none issued 
+ Common stock, no par value; authorized, 50,000,000 shares; issued and outstanding 19,084,000 and 18,915,000 respectively 
+ Accumulated other comprehensive loss 
+ Retained Earnings 
+ Total stockholders' equity 
+ Total Liabilities and Stockholders' Equity 
+
+The accompanying notes are an integral part of these statements. 
+
+F-5
+
+J J SNACK FOODS CORP. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF EARNINGS 
+
+(in thousands, except per share information) 
+
+Fiscal Year Ended 
+ 
+ September 25, September 26, September 28, 
+ 2021 2020 2019 
+ (52 weeks) (52 weeks) (52 weeks) 
+ 
+ Net Sales 
+ Cost of goods sold 
+ Gross Profit 
+ 
+ Operating expenses 
+ Marketing and selling 
+ Distribution 
+ Administrative 
+ Intangible asset impairment charges 
+ Plant shutdown impairment costs 
+ Other general expense (income) 
+ Total operating expenses 
+ Operating Income 
+ 
+ Other income (expenses) 
+ Investment income 
+ Interest expense other 
+ 
+ Earnings before income taxes 
+ 
+ Income taxes 
+ 
+ NET EARNINGS 
+ 
+ Earnings per diluted share 
+ 
+ Weighted average number of diluted shares 
+ 
+ Earnings per basic share 
+ 
+ Weighted average number of basic shares 
+
+The accompanying notes are an integral part of these statements. 
+
+F-6
+
+J J SNACK FOODS CORP. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+
+(in thousands) 
+
+Fiscal Year Ended 
+
+September 25, 
+
+September 26, 
+
+September 28, 
+
+2021 
+
+2020 
+
+2019 
+
+(52 weeks) 
+
+(52 weeks) 
+
+(52 weeks) 
+
+Net Earnings 
+
+Foreign currency translation adjustments 
+
+() 
+
+() 
+
+Total Other Comprehensive Income (loss), net of tax 
+
+() 
+
+() 
+
+Comprehensive Income 
+
+F-7
+
+J J SNACK FOODS CORP. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS' EQUITY 
+
+(in thousands) 
+
+Accumulated 
+
+Other 
+
+Common Stock 
+
+Comprehensive 
+
+Retained 
+
+Shares 
+
+Amount 
+
+Loss 
+
+Earnings 
+
+Total 
+
+Balance at September 29, 2018 
+
+() 
+
+Issuance of common stock upon exercise of stock options 
+
+Issuance of common stock for employee stock purchase plan 
+
+Foreign currency translation adjustment 
+
+- 
+
+() 
+
+() 
+
+Reclass from accumulated other comprehensive income 
+
+- 
+
+() 
+
+Issuance of common stock under deferred stock plan 
+
+Dividends declared 
+
+- 
+
+() 
+
+() 
+
+Share-based compensation 
+
+- 
+
+Net earnings 
+
+- 
+
+Balance at September 28, 2019 
+
+() 
+
+Issuance of common stock upon exercise of stock options 
+
+Issuance of common stock for employee stock purchase plan 
+
+Foreign currency translation adjustment 
+
+- 
+
+() 
+
+() 
+
+Issuance of common stock under deferred stock plan 
+
+Dividends declared 
+
+- 
+
+() 
+
+() 
+
+Share-based compensation 
+
+- 
+
+Repurchase of common stock 
+
+() 
+
+() 
+
+() 
+
+Net earnings 
+
+- 
+
+Balance as September 26, 2020 
+
+() 
+
+Issuance of common stock upon exercise of stock options 
+
+Issuance of common stock for employee stock purchase plan 
+
+Foreign currency translation adjustment 
+
+- 
+
+Dividends declared 
+
+- 
+
+() 
+
+() 
+
+Share-based compensation 
+
+- 
+
+Net earnings 
+
+- 
+
+Balance as September 25, 2021 
+
+() 
+
+The accompanying notes are an integral part of these statements. 
+
+F-8
+
+J J SNACK FOODS CORP. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+(in thousands) 
+
+Fiscal Year Ended 
+
+September 25, 
+
+September 26, 
+
+September 28, 
+
+2021 
+
+2020 
+
+2019 
+
+(52 weeks) 
+
+(52 weeks) 
+
+(52 weeks) 
+
+Operating activities: 
+
+Net earnings 
+
+Adjustments to reconcile net earnings to net cash provided by operating activities: 
+
+Depreciation of fixed assets 
+
+Amortization of intangibles and deferred costs 
+
+Intangible asset impairment charges 
+
+Gains from disposals of property equipment 
+
+() 
+
+() 
+
+() 
+
+Plant shutdown impairment costs 
+
+Amortization of bond premiums 
+
+Share-based compensation 
+
+Deferred income taxes 
+
+() 
+
+(Gain) Loss on sale of marketable securities 
+
+() 
+
+Changes in assets and liabilities, net of effects from purchase of companies: 
+
+Decrease (increase) in accounts receivable, net 
+
+() 
+
+() 
+
+Decrease (increase) in inventories 
+
+() 
+
+() 
+
+Decrease (increase) in prepaid expenses and other 
+
+() 
+
+() 
+
+Increase (decrease) in accounts payable and accrued liabilities 
+
+() 
+
+Net cash provided by operating activities 
+
+Investing activities: 
+
+Payments for purchases of companies, net of cash acquired 
+
+() 
+
+() 
+
+Purchases of property, plant and equipment 
+
+() 
+
+() 
+
+() 
+
+Purchases of marketable securities 
+
+() 
+
+() 
+
+Proceeds from redemption and sales of marketable securities 
+
+Proceeds from disposal of property, plant and equipment 
+
+Other 
+
+() 
+
+() 
+
+Net cash provided by (used in) investing activities 
+
+() 
+
+() 
+
+Financing activities: 
+
+Payments to repurchase common stock 
+
+() 
+
+Proceeds from issuance of common stock 
+
+Payments on capitalized lease obligations 
+
+() 
+
+() 
+
+() 
+
+Payment of cash dividend 
+
+() 
+
+() 
+
+() 
+
+Net cash used in financing activities 
+
+() 
+
+() 
+
+() 
+
+Effect of exchange rates on cash and cash equivalents 
+
+() 
+
+() 
+
+Net increase in cash and cash equivalents 
+
+Cash and cash equivalents at beginning of year 
+
+Cash and cash equivalents at end of year 
+
+The accompanying notes are an integral part of these statements. 
+
+F-9
+
+J J SNACK FOODS CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+million at September 25, 2021 and million at September 26, 2020. 
+
+Warranties Returns 
+ We provide all customers with a standard or assurance type warranty. Either stated or implied, we provide assurance the related products will comply with all agreed-upon specifications and other warranties provided under the law. No services beyond an assurance warranty are provided to our customers. 
+ 
+ We do not grant a general right of return. However, customers may return defective or non-conforming products. Customer remedies may include either a cash refund or an exchange of the product. We do not estimate a right of return and related refund liability as returns of our products are rare. 
+ 
+ Contract Balances 
+ Our customers are billed for service contracts in advance of performance and therefore we have contract liability on our balance sheet as follows: 
+
+Additions to contract liability 
+ Amounts recognized as revenue 
+ Ending Balance 
+
+Disaggregation of Revenue 
+ See Note N for disaggregation of our net sales by class of similar product and type of customer. 
+ 
+ Allowance for Doubtful Receivables 
+ The Company continuously monitors collections and payments from its customers and maintains a provision for estimated credit losses. The allowance for doubtful accounts considers a number of factors including the age of receivable balances, the history of losses, expectations of future credit losses and the customers ability to pay off obligations. The allowance for doubtful receivables was and at September 25, 2021 and September 26, 2020, respectively. 
+
+million that is in excess of federally insured limits. 
+ 
+ Financial instruments that could potentially subject us to concentrations of credit risk are trade accounts receivable; however, such risks are limited due to the large number of customers comprising our customer base and their dispersion across geographic regions. We have approximately customers with accounts receivable balances of between million and million and one customer with a balance of approximately million. 
+ 
+ We have several large customers that account for a significant portion of our sales. Our top ten customers accounted for , and of our sales during fiscal years 2021, 2020 and 2019, respectively, with our largest customer accounting for of our sales in 2021, of our sales in 2020 and of our sales in 2019. Five of the ten customers are food distributors who sell our product to many end users. 
+ 
+ About of our employees are covered by collective bargaining agreements. 
+ 
+ None of our vendors supplied more than 10 of our ingredients and packaging in 2021, 2020 or 2019. 
+ 
+ Virtually all of our accounts receivable are due from trade customers. Credit is extended based on evaluation of our customers financial condition and collateral is not required. Accounts receivable payment terms vary and are stated in the financial statements at amounts due from customers net of an allowance for doubtful accounts. At September 25, 2021 and September 26, 2020, our accounts receivables were and , net of an allowance for doubtful accounts of and . Accounts receivable outstanding longer than the payment terms are considered past due. We determine our allowance by considering a number of factors, including the length of time trade accounts receivable are past due, our previous loss history, customers current ability to pay their obligations to us, and the condition of the general economy and the industry as a whole. We write off accounts receivable when they become uncollectible, and payments subsequently received on such receivables are credited to the allowance for doubtful accounts. 
+
+to years and amortization expense is reflected throughout operating expenses. 
+ 
+ Long-lived assets, including fixed assets and amortizing intangibles, are reviewed for impairment as events or changes in circumstances occur indicating that the carrying amount of the asset may not be recoverable. Indefinite lived intangibles are reviewed annually for impairment. Cash flow and sales analyses are used to assess impairment. The estimates of future cash flows and sales involve considerable management judgment and are based upon assumptions about expected future operating performance. Assumptions used in these forecasts are consistent with internal planning. The actual cash flows and sales could differ from management s estimates due to changes in business conditions, operating performance, economic conditions, competition, and consumer preferences. 
+
+and , respectively, all of which would impact our effective tax rate over time, if recognized. We recognize interest and penalties related to income tax matters as a part of the provision for income taxes. As of September 25, 2021 and September 26, 2020, we had of accrued interest and penalties. A reconciliation of the beginning and ending amount of unrecognized tax benefits is as follows: 
+
+Additions based on tax positions related to the current year - 
+ Reductions for tax positions of prior years 
+ Settlements 
+ Balance at September 25, 2021 
+
+In addition to our federal tax return and tax returns for Mexico and Canada, we file tax returns in all states that have a corporate income tax. Virtually all the returns noted above are open for examination for three to four years. 
+ 
+ Net earnings in the year ended September 28, 2019 benefited from a reduction of in tax as the provision for the one -time repatriation tax was reduced as the amount recorded in 2018 was an estimate. Excluding the reduction in the provision for the one -time repatriation tax, our effective tax rate was in 2019. Net earnings for the 2020 year benefited from a reduction in income tax expense related to state deferred taxes and provision to return adjustments of approximately million. Excluding these benefits, our effective tax rate in our fiscal 2020 year was . Our effective tax rate in our fiscal 2021 year was 24.9 . 
+
+Effect of Dilutive Securities 
+ Options 
+ 
+ Earnings Per Diluted Share 
+ Net Income available to common stockholders plus assumed conversions 
+
+anti-dilutive shares have been excluded in the computation of 2021 diluted EPS. 
+
+Effect of Dilutive Securities 
+ Options 
+ 
+ Earnings Per Diluted Share 
+ Net Income available to common stockholders plus assumed conversions 
+
+anti-dilutive shares have been excluded in the computation of 2020 diluted EPS. 
+
+Effect of Dilutive Securities 
+ Options 
+ 
+ Earnings Per Diluted Share 
+ Net Income available to common stockholders plus assumed conversions 
+
+anti-dilutive shares have been excluded in the computation of 2019 diluted EPS. 
+
+Stock purchase plan 
+ Stock issued to an outside director 
+ Restricted stock issued to employees 
+ Total share-based compensation 
+ 
+ The above compensation is net of tax benefits 
+
+At September 25, 2021, the Company has unrecognized compensation expense of approximately million to be recognized over the next three fiscal years. 
+ 
+ The fair value of each option grant is estimated on the date of grant using the Black-Scholes options-pricing model with the following weighted average assumptions used for grants in fiscal 2021, 2020 and 2019: expected volatility of for fiscal year 2021, for fiscal year 2020 and for fiscal year 2019: weighted average risk-free interest rates of , and 2.1 ; dividend rate of , and and expected lives ranging between and years for all years. 
+ 
+ Expected volatility is based on the historical volatility of the price of our common shares over the past months for 5 -year options and years for 10 -year options. We use historical information to estimate expected life and forfeitures within the valuation model. The expected term of awards represents the period of time that options granted are expected to be outstanding. The risk-free rate for periods within the expected life of the option is based on the U.S. Treasury yield curve in effect at the time of grant. Compensation cost is recognized using a straight-line method over the vesting or service period and is net of estimated forfeitures. 
+ 
+ , , and for the fiscal years 2021, 2020 and 2019, respectively. 
+
+million of such commitments. Futures contracts are not used in combination with forward purchasing of these raw materials. Our procurement practices are intended to reduce the risk of future price increases, but also may potentially limit the ability to benefit from possible price decreases. Our policy is to recognize estimated losses on purchase commitments when they occur. At each of the last three fiscal year ends, we did not have any material losses on our purchase commitments. 
+ 
+ , and for the fiscal years 2021, 2020 and 2019, respectively. 
+ 
+ million and million, respectively. The right-of-use asset balance reflects the reclassification of deferred rent and prepaid rent against the initial asset. The adoption did not impact our results of operations or cash flows. See additional lease disclosures in Note P. 
+ 
+ In June 2016, the FASB issued ASU 2016 - 13, Measurement of Credit Losses on Financial Instruments, which changes the impairment model used to measure credit losses for most financial assets. We are required to recognize an allowance that reflects the Company s current estimate of credit losses expected to be incurred over the life of the financial asset, including trade receivables and held to maturity debt securities. 
+ 
+ The Company adopted this guidance in the first quarter of Fiscal 2021 using the modified retrospective transition method. The adoption of ASU 2016 - 13 did not have a material impact on the Company s consolidated financial statements. 
+
+F-18
+
+J J SNACK FOODS CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+million. ICEE Distributors does business in Arkansas, Louisiana and Texas. Sales and operating income of ICEE Distributors were million and million for the year ended September 25, 2021. Sales and operating income of ICEE Distributors were million and million for the year ended September 26, 2020. 
+ 
+ On February 4, 2020, we acquired the assets of BAMA ICEE, based in Birmingham, Alabama for approximately million. BAMA ICEE does business in Alabama and Georgia. Sales and operating income of BAMA ICEE were million and million for the year ended September 25, 2021. Sales and operating income of BAMA ICEE were million and million for the year ended September 26, 2020. 
+ 
+ The purchase price allocations for these two acquisitions are as follows: 
+
+Inventories 
+ Property, plant equipment, net 
+ Customer Relationships 
+ Distribution rights 
+ Goodwill 
+ Accounts Payable 
+ Purchase Price 
+
+The goodwill and intangible assets acquired in the business combinations are recorded at estimated fair value. To measure fair value for such assets, we use techniques including discounted expected future cash flows (Level 3 input). The goodwill recognized is attributable to the assembled workforce of each acquired business and certain other strategic intangible assets that do not meet the requirements for recognition separate and apart from goodwill. Acquisition costs of are included in other general expense for the year ended September 26, 2020. 
+ 
+ Our unaudited proforma results, giving effect to these acquisitions and assuming an acquisition date of September 30, 2018, would have been: 
+
+Net Earnings 
+
+F-19
+
+J J SNACK FOODS CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Total marketable securities held to maturity 
+
+The amortized cost, unrealized gains and losses, and fair market values of our marketable securities available for sale at September 25, 2021 are summarized as follows: 
+
+Preferred Stock 
+ Total marketable securities available for sale 
+
+The mutual funds seek current income with an emphasis on maintaining low volatility and overall moderate duration. The mutual funds presently generate income of about per year. We have invested million in Fixed-to-Floating Perpetual Preferred Stock which generates fixed income to call dates in 2025 and then income is based on a spread above LIBOR if the securities are not called. The annual yield from these investments is presently , of which is not subject to income tax. The mutual funds and the Fixed-to-Floating Perpetual Preferred Stock investment securities do not have contractual maturities; however, we classify them as long-term assets as it is our intent to hold them for a period of over one year, although we may sell some or all of them depending on presently unanticipated needs for liquidity or market conditions. We have invested million in corporate bonds which generate fixed income to maturity dates in 2021 through 2023, with million maturing prior to the end of our fiscal year 2022. The bonds presently generate income of about per year based on purchase price. Our expectation is that we will hold the corporate bonds to their maturity dates and redeem them at our amortized cost. 
+ 
+ The amortized cost, unrealized gains and losses, and fair market values of our marketable securities held to maturity at September 26, 2020 are summarized as follows: 
+
+Total marketable securities held to maturity 
+
+The amortized cost, unrealized gains and losses, and fair market values of our marketable securities available for sale at September 26, 2020 are summarized as follows: 
+
+Preferred Stock 
+ Total marketable securities available for sale 
+
+The amortized cost and fair value of the Company s held to maturity securities by contractual maturity at September 25, 2021 and September 26, 2020 are summarized as follows: 
+
+Due after one year through five years 
+ Due after five years through ten years 
+ Total held to maturity securities 
+ Less current portion 
+ Long term held to maturity securities 
+
+Proceeds from the sale and redemption of marketable securities were , , and in the years ended September 25, 2021, September 26, 2020, and September 28, 2019, respectively; with a gain of in 2021, a gain of in 2020 and a gain of in 2019. We use the specific identification method to determine the cost of securities sold. Unrealized losses of and were recorded in 2021 and 2020, respectively. 
+
+Total marketable securities held to maturity as of September 25, 2021 with credit ratings of AAA/AA/A had an amortized cost basis totaling and those with credit ratings of BBB/BB/B had an amortized cost basis totaling . This rating information was obtained September 30, 2021. 
+
+Raw materials 
+ Packaging materials 
+ Equipment, parts and other 
+ Total Inventories 
+
+- 
+ Buildings - 
+ Plant machinery and equipment - 
+ Marketing equipment - 
+ Transportation equipment 
+ Office equipment - 
+ Improvements - 
+ Construction in Progress - 
+ 
+ Less accumulated depreciation and amortization 
+ Property, plant and equipment, net 
+
+Depreciation expense was , , and for fiscal years 2021, 2020 and 2019, respectively . 
+
+F-23
+
+J J SNACK FOODS CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+812 - 
+ 
+ Amortized intangible assets 
+ Non compete agreements 
+ Customer relationships 
+ License and rights 
+ TOTAL FOOD SERVICE 
+ 
+ RETAIL SUPERMARKETS 
+ 
+ Indefinite lived intangible assets 
+ Trade Names 461 - 
+ 
+ Amortized Intangible Assets 
+ Trade names 
+ Customer relationships 
+ TOTAL RETAIL SUPERMARKETS 
+ 
+ FROZEN BEVERAGES 
+ 
+ Indefinite lived intangible assets 
+ Trade Names - - 
+ Distribution rights - - 
+ 
+ Amortized intangible assets 
+ Customer relationships 
+ Licenses and rights 
+ TOTAL FROZEN BEVERAGES 
+ 
+ CONSOLIDATED 
+
+The gross carrying amount of intangible assets is determined by applying a discounted cash flow model to the future sales and earnings associated with each intangible asset or is set by contract cost. The amortization period used for definite lived intangible assets is set by contract period or by the period over which the bulk of the discounted cash flow is expected to be generated. We currently believe that we will receive the benefit from the use of the trade names and distribution rights classified as indefinite lived intangible assets indefinitely and they are therefore not amortized. 
+ 
+ Licenses and rights, customer relationships and non-compete agreements are being amortized by the straight-line method over periods ranging from to years and amortization expense is reflected throughout operating expenses. 
+ 
+ Amortizing intangibles are reviewed for impairment as events or changes in circumstances occur indicating that the carrying amount of the asset may not be recoverable. Indefinite lived intangibles are reviewed annually at year end for impairment. Cash flow and sales analyses are used to assess impairment. The estimates of future cash flows and sales involve considerable management judgment and are based upon assumptions about expected future operating performance which include Level 3 inputs such as annual growth rates and discount rates. Assumptions used in these forecasts are consistent with internal planning. The actual cash flows and sales could differ from management s estimates due to changes in business conditions, operating performance, economic conditions, competition, and consumer preferences. 
+ 
+ In connection with our annual impairment assessment conducted during the fourth quarter of 2021, we determined that the carrying amounts of two trade names exceeded their fair value as of September 25, 2021. As a result, the Company recorded an indefinite lived intangible asset impairment charge of in the fourth quarter of 2021. The intangible asset impairment charge is reflected in Intangible asset impairment charges in the Consolidated Statements of Earnings. Of the total impairment charge, related to trade names in the Food Service segment and related to trade names in the Retail Supermarket segment. 
+ 
+ There were intangible assets acquired in fiscal year 2021. In fiscal year 2020, intangible assets of were added in the frozen beverages segment from the acquisition of ICEE Distributors in the quarter ended December 28, 2019 and from the acquisition of BAMA ICEE in the quarter ended March 28, 2020. Intangible assets of were acquired in the Frozen Beverage segment in fiscal year 2019. 
+ 
+ Aggregate amortization expense of intangible assets for the fiscal years 2021, 2020 and 2019 was , , and , respectively. 
+ 
+ Estimated amortization expense for the next five fiscal years is approximately in 2022 and 2023, in 2024 and in 2025 and 2026. The weighted average amortization period of the intangible assets is years. 
+
+Goodwill 
+ 
+ The carrying amounts of goodwill for the reportable segments are as follows: 
+
+September 26, 2020 
+
+The carrying value of goodwill is determined based on the excess of the purchase price of acquisitions over the estimated fair value of tangible and intangible net assets. Goodwill is not amortized but is evaluated annually at year end by management for impairment. Our impairment analysis for 2021, 2020 and 2019 was based on a combination of the income approach, which estimates the fair value of reporting units based on discounted cash flows, and the market approach, which estimates the fair value of reporting units based on comparable market prices and multiples. Under the income approach the Company used a discounted cash flow which requires Level 3 inputs such as: annual growth rates, discount rates based upon the weighted average cost of capital and terminal values based upon current stock market multiples. There were impairment charges in 2021, 2020 and 2019. 
+ 
+ goodwill was acquired in fiscal years 2021. In fiscal year 2020, goodwill of was added in the frozen beverages segment from the acquisition of ICEE Distributors in the quarter ended December 28, 2019 and from the acquisition of BAMA ICEE in the quarter ended March 28, 2020. 
+
+revolving credit facility repayable in November 2021, with the availability of repayments without penalty. Interest is calculated based on LIBOR plus an applicable margin. The agreement contains financial covenants and requires commitment fees in accordance with standard banking practice. As of September 25, 2021 and September 26, 2020, there were outstanding balances under the facility. We were in compliance with the financial covenants at September 25, 2021. 
+
+On November 16, 2021, we entered into an amendment and modification to the amended and restated loan agreement which extended the maturity of the revolving credit facility to December 16, 2021. 
+
+Foreign 
+ State 
+ Total current expense 
+ 
+ Deferred 
+ U.S. Federal 
+ Foreign 
+ State 
+ Total deferred benefit 
+ Total expense 
+
+The provisions for income taxes differ from the amounts computed by applying the statutory federal income tax rate of 21 for the fiscal years ended 2021, 2020 and 2019 to earnings before income taxes for the following reasons: 
+
+Increase (decrease) in taxes resulting from: 
+ 
+ State income taxes, net of federal income tax benefit 
+ One-time repatriation tax 
+ Increase in gross unrecognized tax benefits 
+ Share based compensation 
+ Non deductible employee compensation 
+ Other, net 
+ Income tax expense 
+
+Net earnings in the year ended September 28, 2019 benefited from a reduction of in tax as the provision for the one -time repatriation tax was reduced as the amount recorded in 2018 was an estimate. Excluding the reduction in the provision for the one -time repatriation tax, our effective tax rate was 25.8 in 2019. Net earnings for the 2020 year benefited from a reduction in income tax expense related to state deferred taxes and provision to return adjustments of approximately million. Excluding these benefits, our effective tax rate in our fiscal 2020 year was 25.0 . Our effective tax rate in our fiscal 2021 year was 24.9 . 
+
+Deferred tax assets and liabilities consist of the following: 
+
+Capital loss carry forwards 
+ Unrealized gains/losses 
+ Insurance accrual 
+ Operating lease liabilities 
+ Deferred income 
+ Allowances 
+ Inventory capitalization 
+ Share-based compensation 
+ Net Operating Loss 
+ Payroll Tax Accrual 
+ Plant shutdown impairment costs 
+ Foreign tax credit 
+ Total deferred tax assets 
+ Valuation allowance 
+ Total deferred tax assets, net 
+ 
+ Deferred tax liabilities: 
+ Amortization of goodwill and other intangible assets 
+ Depreciation of property and equipment 
+ Right-of-use assets 
+ Accounting method change 481 (a) 
+ Total deferred tax liabilities 
+ Total deferred tax liabilities, net 
+
+As of September 25, 2021, we have federal and state capital loss carry forwards of approximately primarily from the sale of marketable securities in fiscal year 2016 and unrealized losses incurred in fiscal years 2019 and 2020. These carry forwards began to expire in 2021. Except for current year usage, we have no foreseeable capital gains that would allow us to use this asset. Accordingly, we have recorded a valuation allowance for the full amount of this deferred tax asset. 
+ 
+ As of September 25, 2021, we have a federal net operating loss carry forward of approximately million from the PHILLY SWIRL acquisition. These carry forwards are subject to an annual limitation under Code Section 382 of approximately and will expire in 2033. We have determined there are no limitations to the total use of this tax asset and accordingly, have not recorded a valuation allowance for this deferred tax asset. 
+
+We have undistributed earnings of our Mexican and Canadian subsidiaries. As a result of the Tax Act, we changed our assertion with respect to foreign earnings. We are no longer permanently reinvested in earnings of our foreign subsidiaries for any year. However, due to the impact of the Tax Act and the deemed repatriation of positive accumulated earnings and profits from our foreign subsidiaries in 2017, which resulted in a Sec. 965 liability of for our fiscal year ended September 2018, no additional U.S. federal income taxes are anticipated if our undistributed earnings in our Mexican and Canadian subsidiaries were repatriated to the U.S. However, if such funds were repatriated, a portion of the funds remitted may be subject to applicable state income taxes and non-U.S. income and withholding taxes. The amount of unrecognized deferred income tax liabilities related to potential state income tax and foreign withholding taxes is immaterial. 
+ 
+ The Tax Act was enacted on December 22, 2017 and introduced significant changes to U.S. income tax law. Effective in 2018, the Tax Act reduced the U.S. statutory tax rate from 35 to 21 . We have updated any provisional amounts related to the Tax Act and accounting for this is now final. 
+ 
+ The Coronavirus, Aid, Relief and Economic Security CARES Act was signed into law on March 27, 2020, which introduced and revised numerous provisions including a technical correction to qualified improvement property for assets placed in service after 2017 through 2022 to allow for immediate depreciation to be claimed on these assets and the deferral of employer s share of certain payroll taxes. As a result of the CARES Act, we deferred million of payroll taxes as of September 25, 2021. 
+
+and at September 25, 2021 and September 26, 2020, respectively. In connection with certain self-insurance agreements, we customarily enter into letters of credit arrangements with our insurers. At both September 25, 2021 and September 26, 2020, we had outstanding letters of credit totaling . 
+ 
+ We have a self-insured medical plan which covers approximately of our employees. We record a liability for incurred but not yet reported or paid claims based on our historical experience of claims payments and a calculated lag time period. Our recorded liability at September 25, 2021 and September 26, 2020 was and , respectively. 
+
+F-29
+
+J J SNACK FOODS CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+shares of our common stock at a cost of . 
+ 
+ We did not purchase any shares of our common stock in our fiscal year ended September 25, 2021. 
+
+shares reserved under the Plan for which options have not yet been issued. There are options that were issued under prior option plans that have since been replaced that are still outstanding. 
+ 
+ We have an Employee Stock Purchase Plan ESPP whereby employees purchase stock by making contributions through payroll deductions for six -month periods. The purchase price of the stock is of the lower of the market price of the stock at the beginning of the six -month period or the end of the six -month period. In fiscal years 2021, 2020 and 2019 employees purchased , and shares at average purchase prices of , , and , respectively. ESPP expense of , , and was recognized for fiscal years 2021, 2020 and 2019, respectively. 
+
+A summary of the status of our stock option plans as of fiscal years 2021, 2020 and 2019 and the changes during the years ended on those dates is represented below: 
+
+Granted 
+ Exercised 
+ Canceled 
+ 
+ Balance, September 28, 2019 
+ Granted 
+ Exercised 
+ Canceled 
+ 
+ Balance, September 26, 2020 
+ Granted 
+ Exercised 
+ Canceled 
+ 
+ Balance, September 25, 2021 
+
+Exercisable Options September 25, 2021 
+
+The weighted-average fair value of incentive stock options granted during fiscal years ended September 25, 2021, September 26, 2020 and September 28, 2019 was , and , respectively. The weighted-average fair value of non-qualified stock options granted during the fiscal years ended September 25, 2021, September 26, 2020 and September 28, 2019 was , and , respectively. The total intrinsic value of stock options exercised was million, million and million in fiscal years 2021, 2020 and 2019, respectively. 
+ 
+ The total cash received from these option exercises was million, million and million in fiscal years 2021, 2020 and 2019, respectively; and the actual tax benefit realized from the tax deductions from these option exercises was million, million and million in fiscal years 2021, 2020 and 2019, respectively. 
+
+The following table summarizes information about incentive stock options outstanding as of September 25, 2021: 
+
+163.29 - 
+ Total options 
+
+The following table summarizes information about nonqualified stock options outstanding as of September 25, 2021: 
+
+117.85 - 
+ 141.01 - 
+ Total options 
+
+, , and were made in fiscal years 2021, 2020 and 2019, respectively. 
+
+Income taxes 
+ 
+ Non cash items: 
+ Obtaining a right-of-use asset in exchange for a lease liability 
+
+reportable segments are Food Service, Retail Supermarkets and Frozen Beverages. All inter-segment net sales and expenses have been eliminated in computing net sales and operating income. These segments are described below. 
+ 
+ Food Service 
+ 
+ The primary products sold by the food service segment are soft pretzels, frozen novelties, churros, handheld products and baked goods. Our customers in the food service segment include snack bars and food stands in chain, department, and discount stores; malls and shopping centers; casual dining restaurants; fast food outlets; stadiums and sports arenas; leisure and theme parks; convenience stores; movie theatres; warehouse club stores; schools, colleges, and other institutions. Within the food service industry, our products are purchased by the consumer primarily for consumption at the point-of-sale. 
+ 
+ Retail Supermarkets 
+ 
+ The primary products sold to the retail supermarket channel are soft pretzel products including SUPERPRETZEL, frozen novelties including LUIGI S Real Italian Ice, MINUTE MAID Juice Bars and Soft Frozen Lemonade, WHOLE FRUIT frozen fruit bars and sorbet, PHILLY SWIRL cups and sticks, ICEE Squeeze-Up Tubes and handheld products. Within the retail supermarket channel, our frozen and prepackaged products are purchased by the consumer for consumption at home. 
+ 
+ Frozen Beverages 
+ 
+ The Company markets frozen beverages primarily under the names ICEE, SLUSH PUPPIE and PARROT ICE which are sold primarily in the United States, Mexico, and Canada. We also provide repair and maintenance service to customers for customers owned equipment. 
+ 
+ The Chief Operating Decision Maker for Food Service, Retail Supermarkets and Frozen Beverages reviews monthly detailed operating income statements and sales reports in order to assess performance and allocate resources to each individual segment. Sales and operating income are key variables monitored by the Chief Operating Decision Maker and management when determining each segment s and the company s financial condition and operating performance. In addition, the Chief Operating Decision Maker reviews and evaluates depreciation, capital spending and assets of each segment on a quarterly basis to monitor cash flow and asset needs of each segment. Information regarding the operations in these three reportable segments is as follows: 
+
+Frozen novelties 
+ Churros 
+ Handhelds 
+ Bakery 
+ Other 
+ Total Food Service 
+ 
+ Retail Supermarket 
+ Soft pretzels 
+ Frozen novelties 
+ Biscuits 
+ Handhelds 
+ Coupon redemption 
+ Other 
+ Total Retail Supermarket 
+ 
+ Frozen Beverages 
+ Beverages 
+ Repair and maintenance service 
+ Machines revenue 
+ Other 
+ Total Frozen Beverages 
+ 
+ Consolidated Sales 
+ 
+ Depreciation and Amortization: 
+ Food Service 
+ Retail Supermarket 
+ Frozen Beverages 
+ Total Depreciation and Amortization 
+ 
+ Operating Income: 
+ Food Service 
+ Retail Supermarket 
+ Frozen Beverages 
+ Total Operating Income 
+ 
+ Capital Expenditures: 
+ Food Service 
+ Retail Supermarket 
+ Frozen Beverages 
+ Total Capital Expenditures 
+ 
+ Assets: 
+ Food Service 
+ Retail Supermarket 
+ Frozen Beverages 
+ Total Assets 
+
+F-34
+
+J J SNACK FOODS CORP. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Other comprehensive income 
+ 
+ Ending Balance 
+
+Other comprehensive loss 
+ 
+ Ending Balance 
+
+month to years. 
+
+We have finance leases with initial noncancelable lease terms in excess of one year covering the rental of various equipment. These leases are generally for manufacturing and non-manufacturing equipment used in our business. The remaining lease terms for these finance leases range from year to years. 
+ 
+ Significant Assumptions and Judgments 
+ 
+ Contract Contains a Lease 
+ In evaluating our contracts to determine whether a contract is or contains a lease, we considered the following: 
+ 
+ Whether explicitly or implicitly identified assets have been deployed in the contract; and 
+ Whether we obtain substantially all of the economic benefits from the use of that underlying asset, and we can direct how and for what purpose the asset is used during the term of the contract. 
+ 
+ Allocation of Consideration 
+ In determining how to allocate consideration between lease and non-lease components in a contract that was deemed to contain a lease, we used judgment and consistent application of assumptions to reasonably allocate the consideration. 
+ 
+ Options to Extend or Terminate Leases 
+ We have leases which contain options to extend or terminate the leases. On a lease-by-lease basis, we have determined if the extension should be considered reasonably certain to be exercised and thus a right-of-use asset and a lease liability should be recorded. 
+ 
+ Discount Rate 
+ The discount rate for leases, if not explicitly stated in the lease, is the incremental borrowing rate, which is the rate of interest that a lessee would have to pay to borrow on a collateralized basis over a similar term an amount equal to the lease payments in a similar economic environment. 
+ 
+ We used a discount rate to calculate the present value of the lease liability at the date of adoption. In the development of the discount rate, we considered our internal borrowing rate, treasury security rates, collateral, and credit risk specific to us, and our lease portfolio characteristics. 
+
+As of September 25, 2021, the weighted-average discount rate of our operating and finance leases was and , respectively. As of September 26, 2020, the weighted-average discount rate of our operating and finance leases was and , respectively 
+ 
+ Amounts Recognized in the Financial Statements 
+ 
+ The components of lease expense were as follows: 
+
+Finance lease cost: 
+ Amortization of assets in Cost of goods sold and Operating Expenses 
+ Interest on lease liabilities in Interest expense other 
+ Total finance lease cost 
+ Short-term lease cost in Cost of goods sold and Operating Expenses 
+ Total net lease cost 
+
+Supplemental balance sheet information related to leases is as follows: 
+
+Current operating lease liabilities 
+ Noncurrent operating lease liabilities 
+ Total operating lease liabilities 
+ 
+ Finance Leases 
+ Finance lease right-of-use assets in Property, plant and equipment, net 561 684 
+ 
+ Current finance lease liabilities 
+ Noncurrent finance lease liabilities 
+ Total finance lease liabilities 
+
+Supplemental cash flow information related to leases is as follows: 
+
+Operating cash flows from finance leases 
+ Financing cash flows from finance leases 
+ 
+ Supplemental noncash information on lease liabilities arising from obtaining right-of-use assets 
+ Supplemental noncash information on lease liabilities removed due to purchase of leased asset - - 
+
+As of September 25, 2021, the maturities of lease liabilities were as follows: 
+
+2023 
+ 2024 
+ 2025 
+ 2026 
+ Thereafter 
+ Total minimum payments 
+ Less amount representing interest 
+ Present value of lease obligations 
+
+As of September 25, 2021, the weighted-average remaining term of our operating and finance leases was years and years, respectively. As of September 26, 2021, the weighted average remaining term of our operating and finance leases was years and years, respectively. 
+
+F-38
+
+J J SNACK FOODS CORP. AND SUBSIDIARIES 
+
+(1) 
+ 
+ 2020 Allowance for doubtful accounts (1) 
+ 
+ 2019 Allowance for doubtful accounts (1) 
+
+1 Write-offs of uncollectible accounts receivable. 
+
+<EX-4.6>
+ 2
+ ex_309576.htm
+ EXHIBIT 4.6
+
+ex_309576.htm 
+
+Exhibit 4.6 
+
+FIFTH AMENDMENT AND MODIFICATION 
+ TO AMENDED AND RESTATED LOAN AGREEMENT 
+
+THIS FIFTH AMENDMENT AND MODIFICATION TO AMENDED AND RESTATED LOAN AGREEMENT (the Amendment is made effective as of the 16th day of November, 2021, by and among J J SNACK FOODS CORP . Parent ), the subsidiaries of Parent party hereto and listed on the signature page to this Amendment (the Subsidiary Borrowers together with Parent, each, a Borrower and, collectively, the Borrowers ), the banks party hereto and listed on the signature page to this Amendment (the Banks and CITIZENS BANK, N.A. (as successor by merger to Citizens Bank of Pennsylvania), as sole administrative agent and arranger for the Banks (the Agent ). 
+
+BACKGROUND 
+
+A. Pursuant to that certain Amended and Restated Loan Agreement dated December 1, 2006, by and among Borrowers, Banks and Agent (as amended by that certain First Amendment and Modification to Amended and Restated Loan Agreement dated as of November 22, 2011, that certain Waiver and Second Amendment and Modification to Amended and Restated Loan Agreement dated as of April 6, 2014, that certain Third Amendment and Modification to Amended and Restated Loan Agreement dated as of October 22, 2015, that certain Fourth Amendment and Modification to Amended and Restated Loan Agreement dated as of November 16, 2016, and as the same may hereafter be further amended, modified, supplemented or restated from time to time, being referred to herein as the Loan Agreement ), Banks agreed, inter alia, to extend to Borrowers a revolving credit facility in the maximum amount of up to Fifty Million Dollars 50,000,000.00). 
+
+B. Borrowers have requested and Banks and Agent have agreed to amend the Loan Agreement to extend the Commitment Termination Date until December 16, 2021. 
+
+C. All capitalized terms contained herein and not otherwise defined herein shall have the meanings set forth in the Loan Agreement. 
+
+NOW, THEREFORE, intending to be legally bound hereby, the parties hereto agree as follows: 
+
+1. Amended Defined Term . The defined term Commitment Termination Date , set forth in Article I of the Loan Agreement is hereby deleted in its entirety and replaced with the following: 
+
+Commitment Termination Date: December 16, 2021, subject to earlier termination as provided in this Agreement. 
+
+2. Amendment/References. The Loan Agreement and the Loan Documents are hereby amended to be consistent with the terms of this Amendment. All references in the Loan Agreement and the Loan Documents to (a) the Loan Agreement shall mean the Loan Agreement as amended hereby; and (b) the Loan Documents shall include this Amendment and all other instruments or agreements executed pursuant to or in connection with the terms hereof. 
+
+3. Release. Each Borrower acknowledges and agrees that it has no claims, suits or causes of action against Agent or any Bank and hereby revises, releases and forever discharges Agent, each Bank, and their respective officers, directors, shareholders, employees, agents, successors and assigns, and any of them, from any claims, suits or causes of action whatsoever, in law or at equity, which such Borrower has or may have arising from any act, omission or otherwise, at any time up to and including the date of this Amendment. 
+
+4. Additional Documents; Further Assurances . Each Borrower covenants and agrees to execute and deliver to Agent, or to cause to be executed and delivered to Agent contemporaneously herewith, at the sole cost and expense of Borrowers, the Amendment and any and all documents, agreements, statements, resolutions, searches, insurance policies, consents, certificates, legal opinions and information as Agent may require in connection with the execution and delivery of this Amendment or any documents in connection herewith, or to further evidence, effect, enforce or protect any of the terms hereof or the rights or remedies granted or intended to be granted to Agent herein or in any of the Loan Documents, or to enforce or to protect Agent s interest in the Collateral. All such documents, agreements, statements, etc., shall be in form and content acceptable to Agent in its sole discretion. Each Borrower hereby authorizes Agent to file, at Borrowers cost and expense, financing statements, amendments thereto and other items as Agent may require to evidence or perfect Agent s continuing security interest and liens in and against the Collateral. Each Borrower agrees to join with Agent in notifying any third party with possession of any Collateral of Agent s security interest therein and in obtaining an acknowledgment from the third party that it is holding the Collateral for the benefit of Agent. Borrowers will cooperate with Agent in obtaining control with respect to Collateral consisting of deposit accounts, investment property, letter-of-credit rights and electronic chattel paper. 
+
+5. Further Agreements and Representations . Each Borrower does hereby: 
+
+(a) ratify, confirm and acknowledge that the statements contained in the foregoing Background are true and complete and that, as amended hereby, the Loan Agreement and the other Loan Documents are in full force and effect and are valid, binding and enforceable against such Borrower and its assets and properties, all in accordance with the terms thereof, as amended; 
+
+(b) covenant and agree to perform all of such Borrower s obligations under the Loan Agreement and the other Loan Documents, as amended; 
+
+(c) acknowledge and agree that as of the date hereof, such Borrower has no defense, set-off, counterclaim or challenge against the payment of any Obligations or the enforcement of any of the terms of the Loan Agreement or of the other Loan Documents, as amended; 
+
+(d) acknowledge and agree that all representations and warranties of such Borrower contained in the Loan Agreement and/or the other Loan Documents, as amended, are true, accurate and correct on and as of the date hereof as if made on and as of the date hereof; 
+
+(e) represent and warrant that no Default or Event of Default exists; 
+
+2
+
+(f) covenant and agree that such Borrower s failure to comply with any of the terms of this Amendment or any other instrument or agreement executed or delivered in connection herewith, shall constitute an Event of Default under the Loan Agreement and each of the other Loan Documents; and 
+
+(g) acknowledge and agree that nothing contained herein, and no actions taken pursuant to the terms hereof, are intended to constitute a novation of any of the Notes, the Loan Agreement or of any of the other Loan Documents and does not constitute a release, termination or waiver of any existing Event of Default or of any of the liens, security interests, rights or remedies granted to the Agent in any of the Loan Documents, which liens, security interests, rights and remedies are hereby expressly ratified, confirmed, extended and continued as security for all Obligations. 
+
+Each Borrower acknowledges and agrees that Agent and the Banks are relying on the foregoing agreements, confirmations, representations and warranties of such Borrower and the other agreements, representations and warranties of such Borrower contained herein in agreeing to the amendments contained in this Amendment. 
+
+6. Fees Cost, Expenses and Expenditures . Borrowers will pay all of Agent s expenses in connection with the review, preparation, negotiation, documentation and closing of this Amendment and the consummation of the transactions contemplated hereunder, including without limitation, fees, disbursements, expenses and disbursements of counsel retained by Agent and all fees related to filings, recording of documents, searches, environmental assessments and appraisal reports, whether or not the transactions contemplated hereunder are consummated. 
+
+7. No Waiver . Nothing contained herein constitutes an agreement or obligation by Agent to grant any further amendments to the Loan Agreement or any of the other Loan Documents. Nothing contained herein constitutes a waiver or release by Agent of any Event of Default or of any rights or remedies available to Agent under the Loan Documents or at law or in equity. 
+
+8. Inconsistencies . To the extent of any inconsistencies between the terms and conditions of this Amendment and the terms and conditions of the Loan Agreement or the other Loan Documents, the terms and conditions of this Amendment shall prevail. All terms and conditions of the Loan Agreement and other Loan Documents not inconsistent herewith shall remain in full force and effect and are hereby ratified and confirmed by Borrowers. 
+
+9. Binding Effect . This Amendment, upon due execution hereof, shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns. 
+
+10. Governing Law . This Amendment shall be governed and construed in accordance with the laws of the Commonwealth of Pennsylvania without regard to conflict of law principles. 
+
+11. Severability . The provisions of this Amendment and all other Loan Documents are deemed to be severable, and the invalidity or unenforceability of any provision shall not affect or impair the remaining provisions which shall continue in full force and effect. 
+
+3
+
+12. Modifications . No modification of this Amendment or any of the Loan Documents shall be binding or enforceable unless in writing and signed by or on behalf of the party against whom enforcement is sought. 
+
+13. Headings . The headings of the Articles, Sections, paragraphs and clauses of this Amendment are inserted for convenience only and shall not be deemed to constitute a part of this Amendment. 
+
+14. Counterparts . This Amendment may be executed in multiple counterparts, each of which shall constitute an original and all of which together shall constitute the same agreement. 
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] 
+
+4
+
+IN WITNESS WHEREOF, the parties hereto, intending to be legally bound hereby, have caused this Amendment to be executed the day and year first above written. 
+
+PARENT : 
+
+J J SNACK FOODS CORP. 
+
+By: /s/ Ken A. Plunk 
+
+ Name: Ken A. Plunk 
+Title: Chief Financial Officer 
+
+SUBSIDIARY BORROWERS : 
+
+BAKERS BEST SNACK FOODS CORP. 
+THE ICEE COMPANY 
+J J RESTAURANT GROUP, L.L.C. 
+J J SNACK FOODS SALES CORP. 
+J J SNACK FOODS CORP. OF PENNSYLVANIA 
+J J SNACK FOODS TRANSPORT CORP. 
+J J SNACK FOODS CORP. OF CALIFORNIA 
+J J SNACK FOODS INVESTMENT CORP. 
+J J SNACK FOODS CORP./MIA 
+COUNTRY HOME BAKERS, INC. 
+PRETZELS, INC. 
+
+ FEDERAL PRETZEL BAKING COMPANY, L.L.C. 
+
+ ICEE OF HAWAII, INC. 
+
+ DADDY RAY S, INC. 
+
+ HOM/ADE FOODS, INC. 
+
+ J J SNACK FOODS HANDHELDS CORP. 
+
+ NEW YORK PRETZEL, LLC 
+
+ SWIRL HOLDINGS CORPORATION 
+
+ PHILLY S FAMOUS WATER ICE, INC. 
+
+ J J SNACK FOODS ONLINE SALES CORP. 
+
+ PACHYDERM INSURANCE COMPANY 
+
+[SIGNATURES CONTINUE ON FOLLOWING PAGE] 
+
+[Signature Page to Fifth Amendment and Modification to A R Loan Agreement] 
+
+By: /s/ Ken A. Plunk 
+
+ Name: Ken A. Plunk 
+
+ Title: Chief Financial Officer of each of 
+
+ the above Subsidiary Borrowers 
+
+AGENT : 
+
+CITIZENS BANK, N.A., as successor by merger to 
+
+ Citizens Bank of Pennsylvania 
+
+By: /s/ Pamela L. Hansen 
+
+ Pamela L. Hansen 
+
+ Senior Vice President 
+
+LENDERS : 
+
+CITIZENS BANK, N.A., as successor by merger to 
+
+ Citizens Bank of Pennsylvania 
+
+By: /s/ Pamela L. Hansen 
+
+ Pamela L. Hansen 
+
+ Senior Vice President 
+
+Commitment: 25,000,000.00 
+
+WELLS FARGO BANK, NATIONAL 
+
+ ASSOCIATION. 
+
+By: /s/ Barbara L. Martinelli 
+
+ Barbara L. Martinelli 
+
+ Senior Vice President 
+
+Commitment: 25,000,000.00 
+
+[Signature Page to Fifth Amendment and Modification to A R Loan Agreement] 
+
+</EX-4.6>
+
+<EX-21.1>
+ 3
+ ex_309577.htm
+ EXHIBIT 21.1
+
+ex_309577.htm 
+
+EXHIBIT 21.1 SUBSIDIARIES OF J J SNACK FOODS CORP. 
+
+Place of 
+
+			 Incorporation 
+
+J J Snack Foods Investment Corp. 
+
+Delaware 
+
+The ICEE Company 
+
+Delaware 
+
+J J Snack Foods Corp. of California 
+
+California 
+
+J J Snack Foods Corp./Mia 
+
+Pennsylvania 
+
+J J Snack Foods Corp. of Pennsylvania 
+
+Pennsylvania 
+
+J J Snack Foods Sales Corp. 
+
+New Jersey 
+
+J J Snack Foods Transport Corp. 
+
+New Jersey 
+
+ICEE-Canada, Inc. 
+
+Canada 
+
+ICEE de Mexico, S.A. De C.V. 
+
+Mexico 
+
+J J Restaurant Group, LLC 
+
+New Jersey 
+
+Bakers Best Snack Food Corp. 
+
+Pennsylvania 
+
+Pretzels, Inc. 
+
+Texas 
+
+Federal Pretzel Baking Company, LLC 
+
+Pennsylvania 
+
+Country Home Bakers, LLC 
+
+Georgia 
+
+ICEE of Hawaii, Inc. 
+
+Hawaii 
+
+DADDY RAY S, Inc. 
+			 
+			 Missouri 
+
+J J Snack Foods Corp. of Canada 
+
+Canada 
+
+J J Snack Foods Handhelds Corp. 
+
+Ohio 
+
+New York Pretzel, LLC 
+
+New York 
+
+Swirl Holdings Corporation 
+
+Delaware 
+
+Philly s Famous Water Ice, Inc. 
+
+Florida 
+
+J J Snack Foods Online Sales Corp. 
+
+Ohio 
+
+Hill Valley, Inc. 
+
+Illinois 
+
+ICEE International, B.V. 
+
+Netherlands 
+
+</EX-21.1>
+
+<EX-23.1>
+ 4
+ ex_310201.htm
+ EXHIBIT 23.1
+
+ex_310201.htm 
+
+EXHIBIT 23.1 
+
+Consent of Independent Registered Public Accounting Firm 
+
+We have issued our reports dated November 23, 2021, with respect to the consolidated financial statements and internal control over financial reporting, included in the Annual Report of J J Snack Foods Corp. on Form 10-K for the year ended September 25, 2021. We consent to the incorporation by reference of said reports in the Registration Statements of J J Snack Foods Corp. on Forms S-8 (File No. 333-258298, File No. 333-221782, File No. 333-178379, File No. 333-111292 and File No. 333-03833). 
+
+/s/Grant Thornton LLP 
+
+Philadelphia, Pennsylvania 
+
+November 23, 2021 
+
+</EX-23.1>
+
+<EX-31.1>
+ 5
+ ex_309578.htm
+ EXHIBIT 31.1
+
+ex_309578.htm 
+
+EXHIBIT 31.1 
+
+CERTIFICATION PURSUANT TO 
+
+ SECTION 302 
+
+ OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Dan Fachner, certify that: 
+
+1. I have reviewed this report on Form 10-K of J J Snack Foods Corp.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal controls and procedures for financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) disclosed in this report any change in the registrant s internal control over financial reporting that 
+
+ occurred during the registrant s fourth fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting. 
+
+5. The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal controls over financial reporting. 
+
+Date: November 23, 2021 
+
+/s/ Dan Fachner 
+
+			 Dan Fachner 
+
+			 President and Chief Executive Officer 
+
+			 (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ ex_309579.htm
+ EXHIBIT 31.2
+
+ex_309579.htm 
+
+EXHIBIT 31.2 
+
+CERTIFICATION PURSUANT TO 
+
+ SECTION 302 
+
+ OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Ken A. Plunk, certify that: 
+
+1. I have reviewed this report on Form 10-K of J J Snack Foods Corp.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal controls and procedures for financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s fourth fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting. 
+
+5. The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent functions): 
+
+a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal controls over financial reporting. 
+
+Date: November 23, 2021 
+
+/s/ Ken A. Plunk 
+
+			 Ken A. Plunk 
+
+			 Senior Vice President and 
+
+			 Chief Financial Officer 
+
+			 (Principal Financial Officer) 
+
+			 (Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ ex_309580.htm
+ EXHIBIT 32.1
+
+ex_309580.htm 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Section 1350 of Chapter 63 of Title 18 of the United States Code), the undersigned officer of J J Snack Foods Corp. (the Company ), does hereby certify with respect to the Annual Report of the Company on Form 10-K for the year ended September 25, 2021 (the Report that: 
+
+(1) 
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: November 23, 2021 
+
+/s/ Dan Fachner 
+
+			 Dan Fachner 
+
+			 President and Chief Executive Officer 
+
+			 (Principal Executive Officer) 
+
+The foregoing certification is being furnished solely pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Section 1350 of Chapter 63 of Title 18 of the United States Code) and is not being filed as part of the Report or as a separate disclosure document. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ ex_309581.htm
+ EXHIBIT 32.2
+
+ex_309581.htm 
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Section 1350 of Chapter 63 of Title 18 of the United States Code), the undersigned officer of J J Snack Foods Corp. (the Company ), does hereby certify with respect to the Annual Report of the Company on Form 10-K for the year ended September 25, 2021 (the Report that: 
+
+(1) 
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated: November 23, 2021 
+
+/s/ Ken A. Plunk 
+
+			 Ken A. Plunk 
+
+			 Senior Vice President and 
+
+			 Chief Financial Officer 
+
+			 (Principal Financial Officer) 
+
+			 (Principal Accounting Officer) 
+
+The foregoing certification is being furnished solely pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Section 1350 of Chapter 63 of Title 18 of the United States Code) and is not being filed as part of the Report or as a separate disclosure document. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 9
+ jjsf-20210925.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ jjsf-20210925_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ jjsf-20210925_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ jjsf-20210925_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ jjsf-20210925_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

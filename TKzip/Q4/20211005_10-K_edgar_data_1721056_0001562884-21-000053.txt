@@ -1,0 +1,1171 @@
+<Header>
+<FileStats>
+    <FileName>20211005_10-K_edgar_data_1721056_0001562884-21-000053.txt</FileName>
+    <GrossFileSize>1497542</GrossFileSize>
+    <NetFileSize>65920</NetFileSize>
+    <NonText_DocumentType_Chars>342684</NonText_DocumentType_Chars>
+    <HTML_Chars>300848</HTML_Chars>
+    <XBRL_Chars>314677</XBRL_Chars>
+    <XML_Chars>442917</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001562884-21-000053.hdr.sgml : 20211005
+<ACCEPTANCE-DATETIME>20211004194837
+ACCESSION NUMBER:		0001562884-21-000053
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		48
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20211005
+DATE AS OF CHANGE:		20211004
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HOOPS SCOUTING USA
+		CENTRAL INDEX KEY:			0001721056
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			WY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-221200
+		FILM NUMBER:		211304693
+
+	BUSINESS ADDRESS:	
+		STREET 1:		63 ROCIO CT
+		CITY:			PALM DESERT
+		STATE:			CA
+		ZIP:			92260
+		BUSINESS PHONE:		604-715-0887
+
+	MAIL ADDRESS:	
+		STREET 1:		63 ROCIO CT
+		CITY:			PALM DESERT
+		STATE:			CA
+		ZIP:			92260
+
+</SEC-Header>
+</Header>
+
+ 0001562884-21-000053.txt : 20211005
+
+10-K
+ 1
+ hosu-20210630.htm
+ HOOPS SCOUTING USA - FORM 10-K SEC FILING
+
+HOOPS SCOUTING USA - Form 10-K SEC filing 
+
+U.S. SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ 
+ __________________ 
+ 
+ FORM 
+ __________________ 
+ 
+ (Mark one) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE FISCAL YEAR ENDED 
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934 for the transition period from ________________ to________________________. 
+
+Commission File Number: 
+
+(Exact name of registrant as specified in its charter) 
+
+7389 
+
+(State or other jurisdiction of 
+ incorporation or organization) 
+ 
+ (Primary Standard Industrial 
+ Classification Code Number) 
+ 
+ (I.R.S. Employer 
+ Identification Number) 
+
+, 
+ Tel: 
+
+Securities registered pursuant to Section 12(b) of the Act: None 
+ Securities registered pursuant to Section 12(g) of the Act: None 
+ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. [_] Yes [x] 
+ 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. [_] Yes [x] 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. [x] [_] No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). [x] [_] No 
+ 
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to the best of the registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [_] Yes [x] No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a , smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer , smaller reporting company , and emerging growth company in Rule 12b-2 of the Exchange Act. (Check one) 
+ 
+ Large accelerated filer [_] 
+ 
+ Accelerated filer [_] 
+
+Non-accelerated filer [_] 
+ 
+ Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes [_] No 
+ 
+ State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and ask price of such common equity as of the last business day of the registrant s most recently completed second fiscal quarter: NIL. 
+ 
+ As of September 30, 2021, the Registrant had shares of Common Stock issued and outstanding. 
+ 
+ DOCUMENTS INCORPORATED BY REFERENCE 
+ 
+ None. 
+ 
+ 2 
+
+FORWARD LOOKING STATEMENTS 
+ 
+ Some discussions in this Annual Report on Form 10-K contain forward-looking statements that have been made pursuant to the provisions of the Private Securities Litigation Reform Act of 1995. These statements involve risks and uncertainties and relate to future events or future financial performance. A number of important factors could cause our actual results to differ materially from those expressed in any forward-looking statements made by us in this Form 10-K. Forward-looking statements are often identified by words such as believe, expect, estimate, anticipate, intend, project, plans, seek and similar expressions or words which, by their nature, refer to future events. In some cases, you can also identify forward-looking statements by terminology such as may, will, should, plans, predicts, potential or continue or the negative of these terms or other comparable terminology. 
+ 
+ These forward-looking statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks in the section entitled Risk Factors below that may cause our or our industry s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. In addition, you are directed to factors discussed in the Management s Discussion and Analysis of Financial Condition and Results of Operations section as well as those discussed elsewhere in this Form 10-K. 
+ 
+ Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity or achievements. Except as required by applicable law, including the securities laws of the United States, we do not intend to update any of the forward-looking statements to conform these statements to actual results. However, readers should carefully review the risk factors set forth in other reports or documents the Company files from time to time with the Securities and Exchange Commission (the SEC ), particularly the Company s Quarterly Reports on Form 10-Q and any Current Reports on Form 8-K. All written and oral forward-looking statements made subsequent to the date of this report and attributable to us or persons acting on our behalf are expressly qualified in their entirety by this section. 
+ 
+ As used in this Annual Report on Form 10-K, references to dollars and are to United States dollars and, unless otherwise indicated, references to we, our, us, the Company, or Hoops refer to Hoops Scouting USA, a Wyoming corporation. 
+ 
+ PART I 
+ 
+ ITEM 1. BUSINESS. 
+ 
+ Corporate History 
+ 
+ Hoops Scouting USA was incorporated on October 31, 2016 under the laws of the State of Wyoming. Hoops Scouting USA is a basketball scouting website for high school basketball players with aspirations of playing post-secondary basketball to upload stats. It is also an avenue for smaller university coaches who do not have the means to recruit larger areas of the United States and Internationally. 
+ 
+ We are in the development stage, and have not realized any revenues from our operations. Jamie Oei has served as our President, Chief Executive Officer, Chief Financial Officer, Secretary and Treasurer since our inception. Our board of director is comprised of one person: Jamie Oei. Our officer and director, Jamie Oei, currently lives in Canada, and our current assets are located in the United States. We have never declared bankruptcy, have never been in receivership, and have never been involved in any legal action or proceedings. Since incorporation, we have not made any significant purchase or sale of assets. We are not a blank check registrant as that term is defined in Rule 419(a)(2) of Regulation C of the Securities Act of 1933, since we have a specific business plan or purpose. We have not had preliminary contact or discussions with, nor do we have any present plans, proposals, arrangements or understandings with any representatives of the owners of any business or company regarding the possibility of an acquisition or merger. 
+ 
+ From inception until the date of this Report, we have had limited operating activities, primarily consisting of the incorporation of our company, development of our business plan, opening a bank account, the initial equity funding by our officers and directors, and registering and launching our website. We received our initial funding of 50 through the sale of common stock from our officer and director, who purchased 500,000 shares of common stock at 0.0001 per share. During the year ended June 30, 2021, the Company received 32,000 of share subscriptions relating to a private placement of common shares at 0.10 per share. As of the date of this report, the common shares have not been issued. 
+ 3 
+
+We are a development stage company which is in the business of providing a website for high school basketball players with aspirations of playing post-secondary basketball. It is also an avenue for smaller university coaches who do not have the means to recruit larger areas of the United States and Internationally. Hoops Scouting USA will allow high school players to set up accounts, which include game film, schedules for high school and AAU games, stats, and high school academic marks. This will allow coaches to be able to see players and their stats and can plan their recruiting with the team schedules. This brings international recruiting to the desk of every college coach in the United States from Division 1, Division 2, Divisions 3, NAIA, and Junior College. 
+ 
+ To implement our business plan, we require a minimum funding of 36,000 over the next twelve months. After twelve months period, we may need additional financing. If we do not generate any revenue, we may need a minimum of 9,000 of additional funding to pay for legal and accounting fees, and for costs associated with being a reporting issuer under the Securities Exchange Act of 1934, as amended SEC filing requirements. Our officer and director, has agreed to loan the company funds, however, he has no firm commitment, arrangement or legal obligation to advance or loan funds to the company and there is also no guarantee that he will continue to loan the funds to the company in the future as well. We have no revenues and have incurred losses since inception. 
+ 
+ Our operations to date have been devoted primarily to startup and development activities, which include: (i) formation of the Company (ii) development of our business plan (iii) opening a bank account; (iv) the initial equity funding by our officer and director and (v) registering and launching our website. 
+ 
+ Our products and products description 
+ 
+ Hoops Scouting USA is a basketball website for high school basketball players with aspirations of playing post-secondary basketball. It is also an avenue for smaller university coaches who do not have the means to recruit larger areas of the United States and Internationally. 
+ 
+ Hoops Scouting USA will allow high school players to set up accounts which include game film, schedules for high school and AAU games, stats, and high school academic marks. This will allow coaches to be able to see players and their stats and can plan their recruiting with the team schedules. This brings international recruiting to the desk of every college coach in the United States from Division 1, Division 2, Divisions 3, NAIA, and Junior College. 
+ 
+ This also allows players from Europe, Australia, Asia, and South America to pursue opportunities in the United States to schools that would normally not be able to recruit in such a wide range. Many of the larger schools with bigger recruiting budgets are often the only ones to be able to see these international players. Often only the top players get a chance and the second and third tier players do not get a chance to be recruited. This will all change with Hoops Scouting USA. 
+ 
+ The website will be the main hub but being able to upload stats and game film directly from a smart phone will allow players and coaches to get almost immediate information. Development of an app to allow this will eventually work in unison with the website. 
+ 
+ Revenue will be split between several revenue streams. 
+ 
+ 1. Player Membership 
+ a. Players sign up for full memberships which allow players to upload unlimited videos to or website and app 
+ b. Players sign up for partial memberships to upload one or two videos at a time. 
+ 
+ 2. Coaching Membership - Coaches sign up to receive emails and check players. 
+ 
+ 3. Sponsorship- Website and app will have sponsors who can display their ads on videos or on the website or the app. Sponsors can receive info from the company on what pages and what videos are being viewed the most. 
+ 
+ A small fee for players and coaches will be invoked but sponsorship on the website and the app will be the main source of revenue. 
+ 
+ 4 
+
+Current market trend 
+ 
+ College-basketball fans insatiable (and Internet-fueled) desire for information about up-and-coming players has made high-school-hoops scouting a big business. And corporate America has taken notice. According to New York Magazine, Fox acquired Scout.com, which primarily covers college basketball and football recruiting, for 60 million. Two years later, Yahoo bought Scout.com s main competitor, Rivals.com, for 100 million. This shows the significant growth of the industry of recruitment and data tracking. 
+ 
+ A Stanford Business Article titled Five Key Trends That Are Driving the Business of Sports explains that the data are changing the way the game is played, shifting emphasis from how many total points a player scores to measures of player efficiency. It has been hard, historically, to quantify defense, said Brian Kopp, senior vice president of STATS, the company that developed SportVU player tracking. Now we have four camera views helping you do that. In addition, the data have influenced the types of shots players take on the court. All sports are at that point where, like in a lot of businesses, they re using a lot of (data) to make better decisions. 
+ 
+ Marketing 
+ 
+ Our officer and director will promote our scouting service. We plan to market our products through the following methods: (i) our website, (ii) search engine optimization, (iii) social networking websites, (iv) printing, mailing and emailing catalogues and flyers to potential customers, (v) word of mouth, (vi), telephoning potential customers (vii) content marketing and (viii) paid ads. We hope to have repeat customers coming and buying new products online from our website. 
+ 
+ Competition 
+ 
+ There are many well established companies in our industry. We expect to face medium to high level of resistance, and it will be up to our marketing efforts and negotiation skills to acquire customers. Most of our competitors may have greater financial resources than we do and will be able to withstand sales or price decreases better than we are. We also expect to continue to face competition from new market entrants. We may be unable to continue to compete effectively with these existing or new competitors, which could have a material adverse effect on our financial condition and results of operations. 
+ 
+ Insurance 
+ 
+ We do not maintain any insurance as of the date of this prospectus. 
+ 
+ Employees 
+ 
+ We are a development stage company and currently have no employees. Our sole officer and director manages the day-to-day operations of the Company. 
+ 
+ Government Regulation 
+ 
+ We will be required to comply with all regulations, rules and directives of governmental authorities and agencies in any jurisdiction which we would conduct activities in the future. As of now there are no required government approvals present that we need approval from or any existing government regulation on our business. 
+ 
+ Patents, trademarks and copyrights 
+ 
+ We do not own, either legally or beneficially, any patents or trademarks. We intend to protect our website with copyright laws. Beyond our trade name, we do not hold any other intellectual property. 
+ 
+ Bankruptcy or similar proceedings 
+ 
+ There has been no bankruptcy, receivership or similar proceeding. 
+ 5 
+
+Shell Company Status 
+ 
+ The proposed business activities described herein classify us as a shell company. The Securities and Exchange Commission and certain states have enacted statutes, rules and regulations regarding the sales of securities of shell companies, as well as limitations on a shareholder s ability to sell their restricted securities. Rule 144 is not available to a shareholder of a shell company unless and until the Company files a registration statement with the SEC that includes certain specific information about existing business operations of a registrant and thereafter must wait an additional one year to take advantage of that exemption from registration. 
+ 
+ Rule 12b-2 of the 34 Act defines a shell company as a company that has: 
+ 
+ (1) No or nominal operations; and 
+ (2) Either: 
+ (i) No or nominal assets; 
+ (ii) Assets consisting solely of cash and cash equivalents; or 
+ (iii) Assets consisting of any amount of cash and cash equivalents and nominal other assets. 
+ 
+ We will continue to file all reports required of us under the Exchange Act until we organically build our business from cash raised from investors. No assurance can be given that this will occur or, if it does, for how long. 
+
+ITEM 1A. RISK FACTORS. 
+ 
+ We are a smaller reporting company and not required to include this disclosure in our Form 10-K annual report. 
+ 
+ ITEM 1B. UNRESOLVED STAFF COMMENTS 
+ 
+ None. 
+ 
+ ITEM 2. PROPERTIES. 
+ 
+ Our executive offices are located at 63 Rocio Court, Palm Desert, CA 92260. Our telephone number is (760) 636-4353 . We currently use space in our sole officer and director s home and we believe this space is sufficient to meet our needs for the foreseeable future. We do not currently own any real estate. 
+ 
+ ITEM 3. LEGAL PROCEEDINGS. 
+ 
+ We are not a party to any legal proceeding as of the date of this Report. 
+ 
+ ITEM 4. MINE SAFETY DISCLOSURES 
+ 
+ Not Applicable. 
+ 
+ PART II 
+ 
+ ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+ 
+ As of the date of this Report, there is no public trading market for our common stock and no assurance that a trading market for our securities will ever develop or, if any market does develop, it may not be sustained. Our common stock is not traded on any exchange or on the over-the-counter market. We anticipate that as soon as practicable following the date of this Report, to have a market maker file an application with the Financial Industry Regulatory Authority FINRA for our common stock to be eligible for trading on the Over-the-Counter Bulletin Board. As of the date of this Report, we have yet to identify a market maker to file such application. 
+ 
+ ITEM 6. SELECTED FINANCIAL DATA. 
+ 
+ As a smaller reporting company, we are not required to provide this information. 
+ 
+ 6 
+
+ITEM 7 . MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+ 
+ The following discussion should be read in conjunction with our audited financial statements and notes thereto included herein. In connection with, and because we desire to take advantage of, the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, we caution readers regarding certain forward-looking statements in the following discussion and elsewhere in this Report and in any other statement made by, or on our behalf, whether or not in future filings with the Securities and Exchange Commission. Forward looking statements are statements not based on historical information and which relate to future operations, strategies, financial results or other developments. Forward looking statements are necessarily based upon estimates and assumptions that are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control and many of which, with respect to future business decisions, are subject to change. These uncertainties and contingencies can affect actual results and could cause actual results to differ materially from those expressed in any forward-looking statements made by, or on our behalf. We disclaim any obligation to update forward looking statements. 
+ 
+ Accounting and audit plan 
+ 
+ We intend to have our officer and director prepare our quarterly and annual financial statements and have these financial statements reviewed or audited by our independent auditor. As the financial statements are being prepared by our officer and director, the expected cost to our company will be minimal. Our independent auditor is expected to charge us approximately 4,000 to review our quarterly financial statements and approximately 5,000 to audit our annual financial statements. In the next twelve months after completion of this offering, we anticipate spending approximately 9,000 to pay for our accounting and audit requirements. 
+ 
+ Limited operating history 
+ 
+ There is no historical financial information about us upon which to base an evaluation of our performance. We are in startup stage operations and have not generated any revenues. We cannot guarantee we will be successful in our business operations. Our business is subject to risks inherent in the establishment of a new business enterprise, including limited capital resources and possible cost overruns due to price and cost increases in services and products. 
+ 
+ Need for additional capital 
+ 
+ We have no assurance that future financing will be available to us on acceptable terms. If financing is not available on satisfactory terms, we may be unable to continue, develop or expand our operations. Equity financing could result in additional dilution to existing shareholders. 
+ 
+ Off balance sheet arrangements 
+ 
+ We have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. 
+ 
+ Results of operations 
+ 
+ During the year ended June 30, 2021, we incurred 36,592 of operating expenditures comprised of bank charges, professional fees as well as transfer agent/filing fees compared to 8,976 for the year ended June 30, 2020. The increase in operating expenses is due to increase in operating activity during the current period, including payment for legal services relating to our DTC eligibility application. Our net loss since inception is 64,699 and we have not earned any revenues since our inception. 
+ 
+ Since inception, we have offered and sold (i) 500,000 shares of common stock to our officers and directors, at a purchase price of 0.0001 per share, for aggregate proceeds of 50. During the year ended June 30, 2021, the Company received 32,000 of share subscriptions relating to a private placement of common shares at 0.10 per share. As of the date of this report, the common shares have not been issued. 
+ 7 
+
+Liquidity and Capital Resources 
+ 
+ As of June 30, 2021, the Company had a cash balance and total assets of 10,586 compared to cash and total assets of 148 as at June 30, 2020. The increase in cash and total assets was due to the Company receiving share subscriptions relating to a private placement. As at June 30, 2021 and 2020, we had total liabilities of 43,235 and 28,205 respectively. Our working capital deficit was 16,649 as at June 30, 2021 compared to 28,057 as at June 30, 2020. The improvement in our working capital was due to the proceeds received from the share subscriptions are being used to pay day-to-day operating costs. 
+ 
+ The available capital reserves of the company are not sufficient for the company to remain operational. As of June 30, 2021 and 2020, our officer and director, who is currently our sole shareholder, is owed 26,580 and 22,500, respectively, for paying expenses related to our operations since our inception. The amount owing is unsecured, bears no interest, and is payable on demand. 
+ 
+ During the year ended June 30, 2021, we received 16,000 in loan proceeds from two non-related investors which are unsecured, bears no interest, and is due on or before December 1, 2022. 
+ 
+ We cannot guarantee that we will be able to sell all the shares required. If we are successful, any money raised will be applied to the items set forth in the use of proceeds section of this prospectus. As of the date of this registration statement, the current funds available to the company will be sufficient to continue maintaining a reporting status. Our primary priority will be to retain our reporting status with the SEC which means that we will first ensure by being a reporting issuer under the Securities Exchange Act of 1934, as amended. that we have sufficient capital to cover our legal and accounting expenses. Once these costs are accounted for, in accordance with how much cash we are able to retain, we will focus on meeting all our planned expenses. 
+ 
+ We are highly dependent upon the success of the private offerings of equity or debt securities, as described herein. Therefore, the failure thereof would result in the need to seek capital from other resources such as taking loans, which would likely not even be possible for the company. At such time these funds are required, management would evaluate the terms of such debt financing. If the company cannot raise additional proceeds via a private placement of its equity or debt securities, or secure a loan, the company would be required to cease business operations. As a result, investors would lose all of their investment. 
+ 
+ Cash Flows 
+ 
+ During the year ended June 30, 2021, we used 37,562 of cash for operating activities compared to the use of 154 for operating activities during the year ended June 30, 2020. The increase in the use of cash for operating activities was due to an increase in legal fees relating to our DTC eligibility. 
+ 
+ During the year ended June 30, 2021, the Company received 32,000 of financing activities related to share subscriptions from a private placement of common shares at 0.10 per share. As of the date of this report, the common shares have not been issued. The Company did not have any financing activities during the year ended June 30, 2020. 
+ 
+ During the years ended June 30, 2021 and 2020, we did not have any investing activities. 
+ 
+ Going concern consideration 
+ 
+ Our auditors have issued a going concern opinion, meaning that there is substantial doubt if we can continue as an ongoing business for the next twelve months unless we obtain additional capital. No substantial revenues are anticipated until we have completed the financing from this offering and implemented our plan of operations. Our only source for cash at this time is investments by others in this offering. We must raise cash to implement our strategy and stay in business. The amount of the offering will likely allow us to operate for at least one year and have the capital resources required to cover the material costs with becoming a publicly reporting. The company anticipates over the next 12 months the cost of being a reporting public company including legal and accounting fees will be approximately 10,000. 
+ 
+ Summary of significant accounting policies 
+ 
+ Basis of presentation 
+ 
+ The financial statements of the company have been prepared in accordance with generally accepted accounting principles in the United States of America and are presented in US dollars. The Company's fiscal year end is June 30. 
+ 8 
+
+Income taxes 
+ 
+ The Company accounts for income taxes using the asset and liability method in accordance with ASC 740, Income Taxes . The asset and liability method provides that deferred income tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the financial reporting and tax bases of assets and liabilities, and for operating loss and tax credit carryforwards. Deferred income tax assets and liabilities are measured using the currently enacted tax rates and laws that will be in effect when the differences are expected to reverse. The Company records a valuation allowance to reduce deferred income tax assets to the amount that is believed more likely than not to be realized. 
+ 
+ A valuation allowance is provided for certain deferred tax assets if it is more likely than not that the company will not realize tax assets through future operations. 
+ 
+ Use of estimates 
+ 
+ Management uses estimates and assumption in preparing these financial statements in accordance with generally accepted accounting principles. Those estimates and assumptions affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities, and the reported revenues and expenses. 
+ 
+ Fair value of financial instruments 
+ 
+ ASC 820, Disclosures About Fair Value of Financial Instruments , requires the company to disclose, when reasonably attainable, the fair market values of its assets and liabilities which are deemed to be financial instruments. The company s financial instruments consist primarily of cash, accounts payable and accrued liabilities, amounts due to a related party, and loans payable. 
+ 
+ Per share information 
+ 
+ The Company computes net loss per share accordance with ASC 205 Earnings per Share . ASC 205 requires presentation of both basic and diluted earnings per share (EPS) on the face of the income statement. Basic EPS is computed by dividing net loss available to common shareholders (numerator) by the weighted average number of shares outstanding (denominator) during the period. Diluted EPS gives effect to all potentially dilutive common shares outstanding during the period. Diluted EPS excludes all potentially dilutive shares if their effect is antidilutive. 
+ 
+ ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 
+ As a smaller reporting company, we are not required to provide this information. 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ 
+ The financial statements and supplementary financial information required by this Item are set forth immediately following the signature page and are incorporated herein by reference. 
+ 
+ ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+ 
+ None. 
+ 
+ ITEM 9A. CONTROLS AND PROCEDURES. 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ We carried out an evaluation, under the supervision and with the participation of our management, including our sole executive officer (who is our Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer), of the effectiveness of the design of our disclosure controls and procedures (as defined by Exchange Act Rules 13a-15(e) or 15d-15(e)) as of June 30, 2021 pursuant to Exchange Act Rule 13a-15. Based upon that evaluation, our Principal Executive Officer and Principal Financial Officer concluded that our disclosure controls and procedures were not effective as of June 30, 2021 in ensuring that information required to be disclosed by us in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the Securities and Exchange Commission s (the SEC rules and forms. This conclusion is based on findings that constituted material weaknesses. A material weakness is a deficiency, or a combination of control deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of the Company s interim financial statements will not be prevented or detected on a timely basis. 
+ 9 
+
+Management s Report on Internal Control Over Financial Reporting 
+ 
+ Our management is responsible for establishing and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act. Under the supervision and with the participation of our management, which currently consists of our sole executive officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based on criteria established in the framework in Internal Control Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO - 2013) and SEC guidance on conducting such assessments. Our management concluded, as of June 30, 2021, that our internal control over financial reporting was not effective. Management realized there were deficiencies in the design or operation of the Company s internal control that adversely affected the Company s internal controls which management considers to be material weaknesses. 
+ 
+ In performing the above-referenced assessment, management had concluded that as of June 30, 2021, there were deficiencies in the design or operation of our internal control that adversely affected our internal controls which management considers to be material weaknesses including those described below: 
+ 
+ i) Lack of Formal Policies and Procedures. The Company utilizes a third-party independent contractor for the preparation of its financial statements. Although the financial statements and footnotes are reviewed by our management, we do not have a formal policy to review significant accounting transactions and the accounting treatment of such transactions. The third-party independent contractor is not involved in the day-to-day operations of the Company and may not be provided information from management on a timely basis to allow for adequate reporting/consideration of certain transactions. 
+ 
+ ii) Audit Committee and Financial Expert. The Company does not have a formal audit committee with a financial expert, and thus the Company lacks the board oversight role within the financial reporting process. The Company also does not have a formal financial reporting process which has resulted in the Company being delinquent in its SEC filings on a quarterly and annual basis. 
+ 
+ Our management feels the weaknesses identified above have not had any material effect on our financial results. However, we are currently reviewing our disclosure controls and procedures related to these material weaknesses and expect to implement changes in the near term, including identifying specific areas within our governance, accounting and financial reporting processes to add adequate resources to potentially mitigate these material weaknesses. 
+ 
+ Our management will continue to monitor and evaluate the effectiveness of our internal controls and procedures and our internal controls over financial reporting on an ongoing basis and is committed to taking further action and implementing additional enhancements or improvements, as necessary and as funds allow. 
+ 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. All internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. 
+ 
+ Saturna Group Chartered Professional Accountants LLP, our independent auditors, have not and were not required to conduct an evaluation of the effectiveness of our internal controls over financial reporting for the years ended June 30, 2021 and 2020. 
+ 
+ Changes in Internal Control Over Financial Reporting 
+ 
+ There were no changes in our internal controls over financial reporting that occurred during the year ended June 30, 2021 that have materially affected, or are reasonably likely to materially affect, our internal controls over financial reporting. We believe that a control system, no matter how well designed and operated, cannot provide absolute assurance that the objectives of the control system are met, and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within any company have been detected. 
+ 
+ ITEM 9B. OTHER INFORMATION 
+ 
+ None. 
+
+10 
+
+PART III 
+ DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS AND CONTROL PERSONS 
+ 
+ Identification of Directors and Executive Officers 
+ 
+ The following table sets forth the names and ages of our current directors and executive officers. Each director of the Company serves for a term of one year and until his successor is elected and qualified at the next Annual Shareholders Meeting, or until his earlier death, resignation or removal. Each officer of the Company serves for a term of one year and until his successor is elected and qualified, or until his earlier death, resignation or removal. 
+ 
+ Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Date Appointed 
+ 
+ Jamie Oei 
+ 
+ 44 
+ 
+ President, CEO, CFO, Secretary and Director 
+ 
+ October 31, 2016 
+
+Identification of Certain Significant Employees 
+ 
+ We currently have no employees. 
+ 
+ Family Relationships 
+ 
+ As we only have one officer and director, there are no family relationships. 
+ 
+ Involvement in Certain Legal Proceedings 
+ 
+ During the past ten years, no director, executive officer, promoter or control person of the Company has been involved in the following: 
+ 
+ (1) A petition under the Federal bankruptcy laws or any state insolvency law which was filed by or against, or a receiver, fiscal agent or similar officer was appointed by a court for the business or property of such person, or any partnership in which he was a general partner at or within two years before the time of such filing, or any corporation or business association of which he was an executive officer at or within two years before the time of such filing; 
+ 
+ (2) Such person was convicted in a criminal proceeding or is a named subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+ 
+ (3) Such person was the subject of any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining him from, or otherwise limiting, the following activities: 
+ 
+ (i) Acting as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee of any investment company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice in connection with such activity; 
+ (ii) Engaging in any type of business practice; or 
+ 
+ (ii) Engaging in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of Federal or State securities laws or Federal commodities laws; 
+ 
+ (4) Such person was the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any Federal or State authority barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any activity described in paragraph (f)(3)(i) of this section, or to be associated with persons engaged in any such activity; 
+ (5) Such person was found by a court of competent jurisdiction in a civil action or by the Commission to have violated any Federal or State securities law, and the judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended, or vacated; 
+ 11 
+
+(6) Such person was found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any Federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently reversed, suspended or vacated; 
+ 
+ (7) Such person was the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of: 
+ 
+ (i) Any Federal or State securities or commodities law or regulation; or 
+ 
+ (ii) Any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order; or 
+ 
+ (iii) Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+ 
+ (8) Such person was the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member. 
+ 
+ EXECUTIVE COMPENSATION 
+ 
+ Compensation of Executive Officers 
+ 
+ The following table sets forth the compensation paid to the Company s executive officers since inception (October 31, 2016). 
+ 
+ Name and principal position 
+ Year 
+ Salary 
+ ) 
+ Bonus 
+ ) 
+ Stock 
+ Awards 
+ ) 
+ Option 
+ Awards 
+ ) 
+ Non- 
+ Equity 
+ Incentive 
+ Plan 
+ Compensation 
+ ) 
+ Nonqualified 
+ Deferred 
+ Compensation 
+ Earnings 
+ ) 
+ All Other 
+ Compensation 
+ ) 
+ Total 
+ ) 
+ 
+ Mr. Jamie Oei , 
+ President, CFO 
+ Secretary, 
+ Treasurer and 
+ Director (1) 
+ 2021 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ 2020 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ 2019 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ 2018 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ 2017 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ 2016 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+(1) Mr. Jamie Oei was appointed as President, CEO, CFO, Secretary, Treasurer and Director on October 31, 2016. 
+ 
+ Narrative Disclosure to Summary Compensation Table 
+ 
+ There are no current employment agreements between the Company and Mr. Oei. The compensation discussed herein addresses all compensation awarded to, earned by, or paid to our named executive officers. There are no other stock option plans, retirement, pension, or profit-sharing plans for the benefit of our officers and directors other than as described herein. 
+ 12 
+
+Outstanding Equity Awards at Fiscal Year-End 
+ 
+ There are no current outstanding equity awards to our executive officers. 
+ 
+ Audit committee and conflicts of interest 
+ 
+ Since we do not have an audit or compensation committee comprised of independent directors, the functions that would have been performed by such committees are performed by our directors. The board of directors has not established an audit committee and does not have an audit committee financial expert, nor has the board established a nominating committee. The board is of the opinion that such committees are not necessary since the company is an early development stage company and has only two directors, and to date, such directors have been performing the functions of such committees. Thus, there is a potential conflict of interest in that our directors have the authority to determine issues concerning management compensation, nominations, and audit issues that may affect management decisions. 
+ 
+ Other than as described above, we are not aware of any other conflicts of interest with any of our executive officers or directors. 
+ 
+ Compensation of Directors 
+ 
+ None. 
+ 
+ Security Holders Recommendations to Board of Directors 
+ 
+ Shareholders can direct communications to our Chief Executive Officer, Mr. Jamie Oei, at our executive offices. However, while we appreciate all comments from shareholders, we may not be able to individually respond to all communications. We attempt to address shareholder questions and concerns in our press releases and documents filed with the SEC so that all shareholders have access to information about us at the same time. Mr. Oei collects and evaluates all shareholder communications. All communications addressed to our directors and executive officers will be reviewed by those parties unless the communication is clearly frivolous. 
+ 
+ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL 
+ OWNERS AND MANAGEMENT 
+ 
+ The following table sets forth certain information concerning the number of shares of our common stock owned beneficially as of the date of this Prospectus by: (i) each of our directors; (ii) each of our executive officers; and (iii) each person or group known by us to beneficially own more than 5 of our issued and outstanding shares of common stock. Unless otherwise indicated, the shareholders listed below possess sole voting and investment power with respect to the shares they own. 
+ 
+ As of the date of this filing, there are 500,000 common shares issued and outstanding. 
+ 
+ Name and Address of Beneficial Owner 
+ Title of Class 
+ Amount Nature of 
+ Beneficial Ownership 
+ (1) 
+ Percent of Class 
+ ) (2) 
+ 
+ Mr. Jamie Oei (3) 
+ 63 Rico Court Palm Desert, CA 92260 
+ Common 
+ 500,000 
+ 100 
+ 
+ All Officers and Directors as a Group 
+ Common 
+ 500,000 
+ 100 
+
+(1) The number and percentage of shares beneficially owned is determined under rules promulgated by the SEC and the information is not necessarily indicative of beneficial ownership for any other purpose. Under such rules, beneficial ownership includes any shares as to which the individual has sole or shared voting power or investment power and also any shares which the individual has the right to acquire within 60 days through the exercise of any stock option or other right. The persons named in the table have sole voting and investment power with respect to all shares of common stock shown that are beneficially owned by them, subject to community property laws where applicable and the information contained in the footnotes to this table. 
+ 
+ 13 
+
+(2) Based on 500,000 common shares issued and outstanding, 0 shares issuable upon the exercise of stock purchase options within 60 days. 
+ 
+ (3) Mr. Jamie Oei is the current President, CEO, Treasurer, Secretary and a Director of the Company. His beneficial ownership includes 500,000 common shares. 
+ 
+ (4) Regardless of the amount of shares sold pursuant to this Registration Statement, Mr. Oei shall remain the majority shareholder of the Company and shall therefore generally control the operations and business direction of the Company. 
+ 
+ Changes in Control 
+ 
+ There are no present arrangements or pledges of the Company s securities, which may result in a change in control of the Company. 
+ 
+ CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+ 
+ On October 31, 2016, pursuant to a subscription agreement, we offered and sold 500,000 shares of common stock to our officer and director, Jamie Oei, at a purchase price of 0.0001 per share, for aggregate proceeds of 50. During 2016, our officer and director, who is currently our shareholder, advanced the company 6,898 to pay expenses. During 2019, our officer and director advanced the Company 5,000 to pay expenses and, during 2020 our officer and director advanced the Company 10,602 to pay expenses. During 2021, our officer and director advanced the Company 4,080 to pay expenses. Our officer and director Jamie Oei is our promoter. 
+ 
+ COMMISSION POSITION ON 
+ INDEMNIFICATION FOR SECURITIES ACT LIABILITIES 
+ 
+ Our Articles of Incorporation and Wyoming law provide that none of our officers or directors will be personally liable to the Company or its stockholders for any damages as a result of any act or failure to act in his or her capacity as an officer or director unless it is proven that: 
+ 
+ The officer s or director s act or failure to act constituted a breach of his or her fiduciary duties as an officer or director; and, the breach of those duties involved intentional misconduct, fraud or a knowing violation of law. 
+ 
+ These provisions eliminate our rights and those of our stockholders to recover damages from an officer or director for his or her breach of a fiduciary duty unless such breach involved intentional misconduct, fraud or a knowing violation of law. The limitations summarized above, however, do not affect our ability or that of our stockholders to seek non-monetary remedies, such as an injunction or rescission, against an officer or director for his or her acts or failure to act. 
+ 
+ Insofar as indemnification for liabilities arising under the Securities Act may be permitted to our directors, officers and other persons pursuant to the foregoing provisions, we have been advised that in the opinion of the Securities and Exchange Commission, such indemnification is against public policy as expressed in the Securities Act and is therefore unenforceable. 
+ 
+ ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES. 
+ 
+ The following table shows the fees paid or accrued by us for the audit and other services provided by Saturna Group Chartered Professional Accountants for the fiscal periods shown. 
+
+June 30, 2021 
+ 
+ June 30, 2020 
+ 
+ Audit Fees 
+ 
+ 5,000 
+ 
+ 5,000 
+ 
+ Audit Related Fees 
+ 
+ 3,750 
+ 
+ 4,500 
+ 
+ Tax Fees 
+ 
+ - 
+ 
+ - 
+ 
+ All Other Fees 
+ 
+ - 
+ 
+ - 
+ 
+ Total 
+ 
+ 8,750 
+ 
+ 9,500 
+
+Audit fees consist of fees billed for professional services rendered for the audit of our financial statements and review of the interim financial statements included in quarterly reports and services that are normally provided by the above auditors in connection with statutory and regulatory fillings or engagements 
+ 
+ In the absence of a formal audit committee meeting, the full Board of Directors pre-approves all audit and non-audit services to be performed by the independent registered public accounting firm in accordance with the rules and regulations promulgated under the Securities Exchange Act of 1934, as amended. 
+ 14 
+
+PART IV 
+ 
+ ITEM 15. EXHIBITS, FINANCIAL STATEMENTS SCHEDULES. 
+ 
+ The following exhibits are included with this report: 
+ 
+ (a) (1) Index to Financial Statements: 
+
+Report of Independent Registered Public Accounting Firm 
+ 18 
+ 
+ Balance Sheets as of June 30, 2021 and June 30, 2020 
+ 19 
+ 
+ Statements of operations and comprehensive loss for the years ended June 30, 2021 and June 30, 2020 
+ 20 
+ 
+ Statements of Stockholders Equity for the years ended June 30, 2021 and June 30, 2020 
+ 21 
+ 
+ Statements of Cash Flows for the years ended June 30, 2021 and June 30, 2020 
+ 22 
+ 
+ Notes to the Financial Statements 
+ 23 
+
+(a) (3) Index to Exhibits 
+ 
+ 3.1 
+ Articles of Incorporation (incorporated by reference from our Registration Statement on Form S-1 filed on October 30, 2017) 
+ 
+ 3.2 
+ Bylaws (incorporated by reference from our Registration Statement on Form S-1 filed on October 30, 2017) 
+ 
+ 21.1 
+ The Company has no subsidiaries. 
+ 
+ 23.1 
+ Consent of Independent Registered Public Accounting Firm. 
+ 
+ 31.1 
+ Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes Oxley Act of 2002 
+ 
+ 31.2 
+ Certification of Principal Financial Officer pursuant to Section 302 of the Sarbanes Oxley Act of 2002 
+ 
+ 32.1 
+ Section 1350 Certification of Principal Executive Officer 
+ 
+ 32.2 
+ Section 1350 Certification of Principal Financial Officer 
+
+101.1 Interactive Data Files 
+ Filed herewith 
+ Included in Exhibit 32.1 
+
+15 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Act of 1933, as amended, the registrant certifies that it has reasonable grounds to believe that it meets all of the requirements for filing on Form S-1 and has duly caused this registration statement to be signed on its behalf by the undersigned, thereunto duly authorized, on the 4 th day of October 2021. 
+ 
+ HOOPS SCOUTING USA 
+
+/s/ Jamie Oei 
+ 
+ By: 
+ Jamie Oei 
+ 
+ Title: 
+ Chief Executive Officer and sole director, 
+ Principal Executive Officer Principal Financial Officer 
+ And Principal Accounting Officer 
+
+In accordance with the requirements of the Securities Act of 1933, this Registration Statement has been signed below by or on behalf of the following persons in the capacities and on the dates stated. 
+ 
+ Signature 
+ 
+ Title 
+ 
+ Date 
+ 
+ /s/ Jamie Oei 
+
+By: Jamie Oei 
+
+Chief Executive Officer, 
+ Principal Executive Officer, Principal Financial Officer, Principal Accounting Officer and Sole Director 
+ 
+ October 4, 2021 
+
+16 
+
+HOOPS SCOUTING USA 
+ Financial Statements 
+ 
+ Years Ended June 30, 2021 and 2020 
+ 
+ (expressed in U.S. dollars) 
+ 17 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ To the Board of Directors and Stockholders of Hoops Scouting USA 
+ Opinion on the Financial Statements 
+ We have audited the accompanying balance sheets of Hoops Scouting USA (the Company as of June 30, 2021 and 2020, and the related statements of operations and comprehensive loss, stockholders deficit, and cash flows for the years then ended and related notes (collectively, the financial statements ). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as at June 30, 2021 and 2020, and the results of their operations and cash flows for the years then ended in conformity with accounting principles generally accepted in the United States of America. 
+ Explanatory Paragraph Regarding Going Concern 
+ The accompanying financial statements have been prepared assuming the Company will continue as a going concern. As discussed in Note 1 to the financial statements, the Company has a working capital deficit of 16,649 and an accumulated deficit of 64,699 as at June 30, 2021. During the year ended June 30, 2021, the Company had no revenues and used cash of 37,562 for operating activities. These factors raise substantial doubt about the Company s ability to continue as a going concern. Management s plans in regard to these matters are also discussed in Note 1 to the financial statements. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+ Basis for Opinion 
+ These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to fraud or error. The Company is not required to have, nor were we engaged to perform, an audit of its internal controls over financial reporting. As part of our audits, we are required to obtain an understanding of the Company s internal controls over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal controls over financial reporting. Accordingly, we express no such opinion. 
+ Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to fraud or error, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ Critical Audit Matters 
+ Critical audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (i) relate to accounts or disclosures that are material to the financial statements; and (ii) involved our especially challenging, subjective, or complex judgements. We determined that there are no critical audit matters. 
+ 
+ /s/ SATURNA GROUP CHARTERED PROFESSIONAL ACCOUNTANTS LLP 
+ .Saturna Group Chartered Professional Accountants LLP 
+ We have served as the Company s auditor since 2017 
+ Vancouver, Canada 
+ October 4, 2021 
+ 18 
+
+HOOPS SCOUTING USA 
+ Balance sheets 
+ (Expressed in U.S. dollars) 
+ June 30,2021 
+ June 30,2020 
+
+Assets 
+
+Current assets 
+
+Cash 
+
+Total assets 
+
+Liabilities and stockholders deficit 
+
+Current liabilities 
+
+Accounts payable and accrued liabilities 
+
+Due to related party (Note 3) 
+
+Total current liabilities 
+
+Non-current liabilities 
+
+Loans payable (Note 4) 
+
+Total liabilities 
+
+Nature of operations and continuance of business (Note 1) 
+
+Subsequent event (Note 7) 
+
+Stockholders deficit 
+
+Common stock Authorized: shares, par value shares issued and outstanding 
+
+Share subscriptions received (Note 5) 
+
+Deficit 
+ ) 
+ ) 
+
+Total stockholders deficit 
+ ) 
+ ) 
+
+Total liabilities and stockholders deficit 
+
+(The accompanying notes are an integral part of these financial statements) 
+ 19 
+
+HOOPS SCOUTING USA 
+ Statements of operations and comprehensive loss 
+ (Expressed in U.S. dollars) 
+ 
+ Year ended June 30,2021 
+ Year ended June 30,2020 
+
+Operating expenses 
+
+General and administrative 
+
+Professional fees 
+
+Transfer agent and filing fees 
+
+Total expenses 
+
+Net loss and comprehensive loss 
+ ) 
+ ) 
+
+Net loss per share, basic and diluted 
+ ) 
+ ) 
+
+Weighted average shares outstanding 
+
+(The accompanying notes are an integral part of these financial statements) 
+ 20 
+
+HOOPS SCOUTING USA 
+ Statements of stockholders deficit 
+ (Expressed in U.S. dollars) 
+
+Common stock 
+
+Number of shares 
+ Amount 
+ Share subscriptions received 
+ Deficit 
+ Total stockholders deficit 
+
+Balance, June 30, 2019 
+
+) 
+ ) 
+
+Net loss for the year 
+
+) 
+ ) 
+
+Balance, June 30, 2020 
+
+) 
+ ) 
+
+Share subscriptions received 
+
+Net loss for the year 
+
+) 
+ ) 
+
+Balance, June 30, 2021 
+
+) 
+ ) 
+
+(The accompanying notes are an integral part of these financial statements) 
+ 21 
+
+HOOPS SCOUTING USA 
+ Statements of cash flows 
+ (Expressed in U.S. dollars) 
+ Year ended June 30,2021 
+ Year ended June 30,2020 
+
+Operating activities 
+
+Net loss 
+ ) 
+ ) 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Accounts payable and accrued liabilities 
+ ) 
+ ) 
+ 
+ Due to related party 
+
+Net cash used in operating activities 
+ ) 
+ ) 
+
+Financing activities 
+
+Proceeds from loans payable 
+
+Proceeds from share subscriptions 
+
+Net cash provided by financing activities 
+
+Change in cash 
+ 
+ ) 
+
+Cash, beginning of year 
+
+Cash, end of year 
+
+Supplemental disclosures: 
+
+Interest paid 
+
+Income taxes paid 
+
+(The accompanying notes are an integral part of these financial statements) 
+ 22 
+
+HOOPS SCOUTING USA 
+ Notes to the financial statements 
+ Years ended June 30, 2021 and 2020 
+ (Expressed in U.S. dollars) 
+ 
+ and an accumulated deficit of since inception. During the year ended June 30, 2021, the Company had no revenues and used of cash for operating activities. These factors raise substantial doubt regarding the Company s ability to continue as a going concern. These financial statements do not include any adjustments to the recoverability and classification of recorded asset amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going concern. 
+
+23 
+ 
+ 24 
+
+(2020 - to the President of the Company, which is 
+ 
+ (2020 - of loans payable to non-related parties which are . 
+ 
+ of share subscriptions relating to a private placement of common shares at per share. 
+ 
+ per annum. The reconciliation of the provision for income taxes at the statutory rate compared to the Company s income tax expense as reported is as follows: 
+ 2021 
+ 
+ 2020 
+
+Income tax recovery at statutory rate 
+ ) 
+ ) 
+
+Valuation allowance change 
+
+Provision for income taxes 
+
+Valuation allowance 
+ 
+ ) 
+ ) 
+
+Net deferred tax asset 
+
+which may be carried forward to apply against future years taxable income, subject to the final determination by taxation authorities, expiring in the following years: 
+
+2037 
+
+2038 
+
+2039 
+
+2040 
+
+2041 
+
+Total 
+
+relating to share subscriptions at per share. As of the date of the financial statements, the common shares have not been issued. 
+ 25 
+
+<EX-31.1>
+ 2
+ hosu_ex31z1.htm
+ EXHIBIT 31.1 AND 31.2 SECTION 302 CERTIFICATION
+
+Exhibit 31.1 and 31.2 Section 302 Certification 
+
+Exhibit 31.1 
+ 
+ Section 302 Certification of Chief Executive Officer and Chief Financial Officer 
+ 
+ I, Jamie Oei, certify that: 
+ 
+ 1. I
+have reviewed this annual report on Form 10-K of Hoops Scouting USA. 
+ 
+ 2. 
+Based on my knowledge, this quarterly report does not contain any untrue statement of a material fact or omit to state a
+material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this quarterly report; 
+ 
+ 3. 
+Based on my knowledge, the financial statements, and other financial information included in this quarterly report, fairly
+present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and
+for, the periods presented in this quarterly report; 
+ 
+ 4. 
+I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+15d-15(f)) for the registrant and have: 
+ 
+ a) 
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our
+supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made
+known to us by others within those entities, particularly during the period in which this report is being prepared;
+
+b) 
+Designed such internal control over financial reporting to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted
+accounting principles; and 
+ 
+ c) Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report my conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based
+on such evaluation; and 
+ 
+ d) Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the
+registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report)
+that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over
+financial reporting. 
+ 
+ 5. 
+I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of registrant s board of directors (or persons performing the equivalent
+functions): 
+ 
+ a) 
+all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting
+which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report
+financial information; and 
+ 
+ b) 
+any fraud, whether or not material, that involves management or other employees who have a significant role in the
+registrant s internal control over financial reporting. 
+ 
+ Date: October 4, 2021 
+ 
+ /s/Jamie Oei 
+
+Jamie Oei - Principal Executive Officer, 
+
+Principal Financial Officer and Principal Accounting Officer 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ hosu_ex32z1.htm
+ EXHIBIT 32.1 AND 32.2 SECTION 906 CERTIFICATION
+
+Exhibit 32.1 and 32.2 Section 906 Certification 
+
+Exhibit 32.1 
+ 
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Annual Report of Hoops Scouting USA (the
+ Company on Form 10-K for the year ended June 30, 2021 as filed with the Securities and Exchange Commission on
+the date hereof (the Report ), I, Jamie Oei, Chief Executive Officer and Chief Financial Officer of the Company,
+certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002,
+that to my knowledge: 
+ 
+ 1. The
+Report fully complies with requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ 
+ 2. 
+The information contained in the Report fairly presents, in all material respects, the financial condition and result of
+operations of the Company. 
+ 
+ Date: October 4, 2021 
+ By: 
+ /s/ Jamie Oei 
+
+Jamie Oei - Principal Executive Officer, 
+
+Principal Financial Officer and Principal Accounting Officer 
+
+</EX-32.1>
+
+<EX-101.CAL>
+ 4
+ hosu-20210630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 5
+ hosu-20210630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 6
+ hosu-20210630_lab.xml
+ XBRL TAXONOMY EXTENSION LABELS LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 7
+ hosu-20210630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
+<EX-101.SCH>
+ 8
+ hosu-20210630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+

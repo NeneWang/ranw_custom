@@ -1,0 +1,3447 @@
+<Header>
+<FileStats>
+    <FileName>20211214_10-K_edgar_data_1685237_0001213900-21-065106.txt</FileName>
+    <GrossFileSize>3814372</GrossFileSize>
+    <NetFileSize>150730</NetFileSize>
+    <NonText_DocumentType_Chars>735987</NonText_DocumentType_Chars>
+    <HTML_Chars>888956</HTML_Chars>
+    <XBRL_Chars>892441</XBRL_Chars>
+    <XML_Chars>1034320</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-21-065106.hdr.sgml : 20211214
+<ACCEPTANCE-DATETIME>20211214101841
+ACCESSION NUMBER:		0001213900-21-065106
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		58
+CONFORMED PERIOD OF REPORT:	20210831
+FILED AS OF DATE:		20211214
+DATE AS OF CHANGE:		20211214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TEMIR CORP.
+		CENTRAL INDEX KEY:			0001685237
+		STANDARD INDUSTRIAL CLASSIFICATION:	TRANSPORTATION SERVICES [4700]
+		IRS NUMBER:				981321204
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-213996
+		FILM NUMBER:		211489938
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SUITE 1802-03, 18/F
+		STREET 2:		STRAND 50
+		CITY:			50 BONHAM STRAND, SHEUNG WAN
+		STATE:			K3
+		ZIP:			NIL
+		BUSINESS PHONE:		852-28527388
+
+	MAIL ADDRESS:	
+		STREET 1:		SUITE 1802-03, 18/F
+		STREET 2:		STRAND 50
+		CITY:			50 BONHAM STRAND, SHEUNG WAN
+		STATE:			K3
+		ZIP:			NIL
+
+</SEC-Header>
+</Header>
+
+ 0001213900-21-065106.txt : 20211214
+
+10-K
+ 1
+ f10k2021_temircorp.htm
+ ANNUAL REPORT
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 
+
+ANNUAL REPORT PURSUANT TO SECTION 13
+OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended , 
+
+TRANSITION REPORT PURSUANT TO SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from ___________ to
+___________ 
+
+COMMISSION
+FILE NO. 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or Other Jurisdiction of Incorporation or
+Organization) 
+
+IRS Employer 
+Identification Number Primary Standard Industrial 
+Classification Code Number 
+
+Temir Corp. 
+
+, , , , 
+
+Tel. - 
+
+Email: rchan@jtifs.com.hk 
+
+(Address and telephone number of registrant s
+executive office) 
+
+Securities registered pursuant to Section 12(b)
+of the Act: None 
+
+Securities registered pursuant to Section 12(g)
+of the Act: None 
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered OTC Markets 
+
+Indicate by check mark whether the registrant
+is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for shorter period that the registrant as required to file such reports), and (2) has been subject to such filing requirements for
+the past 90 days. No 
+
+Indicate by check mark if disclosure of delinquent
+filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant s knowledge,
+in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.
+Yes No 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an
+emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller
+reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+
+If an emerging growth company, indicate 
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of the Securities Act. 
+
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Act) Yes No 
+
+As of February 26, 2021, the registrant had 6,692,182
+shares of common stock issued and outstanding, while as of August 31, 2021, the registrant had shares of common stock issued
+and outstanding. As of February 26, 2021, the last business day of the registrant s second quarter of most recently completed fiscal
+year, the aggregate market value of the common stock held by non-affiliates of the registrant was approximately 33.13 million based on
+the closing price of 19.5 for the registrant s common stock as reported on the OTC Market. 
+
+Table Of Contents 
+
+Part I 
+
+Item 1 
+ Description Of Business 
+ 1 
+
+Item 1a 
+ Risk Factors 
+ 5 
+
+Item 1b 
+ Unresolved Staff Comments 
+ 18 
+
+Item 2 
+ Properties 
+ 18 
+
+Item 3 
+ Legal Proceedings 
+ 18 
+
+Item 4 
+ Submission Of Matters To A Vote Of Security Holders 
+ 18 
+
+Part II 
+
+Item 5 
+ Market For Common Equity And Related Stockholder Matters 
+ 19 
+
+Item 6 
+ Selected Financial Data 
+ 19 
+
+Item 7 
+ Management s Discussion And Analysis Of Financial Condition And Results Of Operations 
+ 19 
+
+Item 7a 
+ Quantitative And Qualitative Disclosures About Market Risk 
+ 24 
+
+Item 8 
+ Financial Statements And Supplementary Data 
+ F-1 
+
+Item 9 
+ Changes In And Disagreements With Accountants On Accounting And Financial Disclosure 
+ 25 
+
+Item 9a 
+ Controls And Procedures 
+ 25 
+
+Item 9b 
+ Other Information 
+ 26 
+
+Item 9c 
+ Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 
+ 26 
+
+Part III 
+
+Item 10 
+ Directors, Executive Officers, Promoters And Control Persons Of the Company 
+ 27 
+
+Item 11 
+ Executive Compensation 
+ 29 
+
+Item 12 
+ Security Ownership Of Certain Beneficial Owners And Management And Related Stockholder Matters 
+ 30 
+
+Item 13 
+ Certain Relationships, Related Transactions And Director Independence 
+ 30 
+
+Item 14 
+ Principal Accountant Fees And Services 
+ 31 
+
+Part IV 
+
+Item 15 
+ Exhibits And Financial Statement Schedules 
+ 32 
+
+i 
+
+PART I 
+
+ITEM 1. DESCRIPTION OF BUSINESS 
+
+FORWARD-LOOKING STATEMENTS 
+
+This annual report contains forward-looking statements.
+These statements relate to future events or our future financial performance. These statements often can be identified by the use of terms
+such as may, will, expect, believe, anticipate, estimate, 
+ approximate or continue, or the negative thereof. We intend that such forward-looking statements be subject
+to the safe harbours for such statements. We wish to caution readers not to place undue reliance on any such forward-looking statements,
+which speak only as of the date made. Any forward-looking statements represent management s best judgment as to what may occur in
+the future. However, forward-looking statements are subject to risks, uncertainties and important factors beyond our control that could
+cause actual results and events to differ materially from historical results of operations and events and those presently anticipated
+or projected. We disclaim any obligation subsequently to revise any forward-looking statements to reflect events or circumstances after
+the date of such statement or to reflect the occurrence of anticipated or unanticipated events. 
+
+As used in this annual report, the terms we ,
+ us , our , Temir , the Company , mean TEMIR CORP., unless otherwise indicated. 
+
+All dollar amounts refer to US dollars unless otherwise indicated. 
+
+DESCRIPTION OF BUSINESS 
+
+Our Corporate History, Background and Business 
+
+TEMIR CORP. Temir or the Company is a corporation established under the corporation laws in the State of Nevada on May 19, 2016. The Company commenced operations in tourism.
+Temir Corp. was a travel agency that organized individual and group tours in Kyrgyzstan, such as cultural, recreational, sport, business,
+ecotours and other travel tours. The company s principal executive offices are located at 54 Frukovaya Street, Bishkek, Kyrgyzstan
+720027. 
+
+On July 15, 2019, the Company s principal
+office relocated to Room 1204-06, 12/F, 69 Jervois Street, Sheung Wan, Hong Kong. On January 15, 2020, the Company s principal office
+has been relocated to Suite 1802-03, 18/F, Strand 50, 50 Bonham Strand, Sheung Wan, Hong Kong. The management of Temir Corp is planning
+to restructure the Company s business from travel agency to a Fintech Company with major business focusing on financials services
+and using the internet, mobile devices, software technology or cloud services to perform or connect with financial services. 
+
+JTI Group 
+
+On April 2, 2020, the Company, as purchaser, and
+Ace Vantage Investments Limited (equally held by Mr. Roy Kong Hoi Chan (an executive director and president of the Company, Mr.
+Roy Chan and his father) as vendor (the Vendor entered into a sale and purchase agreement (the Agreement with respect to the acquisition (the Transaction of the entire issued share capital of JTI Financial Services Group Limited JTI for a consideration of 4,686,272, which would be satisfied by the allotment and issuance of the shares of the Company. 
+
+Under the terms and conditions of the Agreement,
+the Company offered, sold and issued 1,874,508 shares of common stock of the Company as consideration shares (the Consideration
+Shares at the issue price of 2.5 per Consideration Share for the acquisition of all the issued share capital of JTI. 
+
+On June 30, 2020, pursuant to the amendment to
+the Agreement, the parties agreed to adjust (i) the consideration of the Transaction from 4,686,272 to 10,295,455; and (ii) the number
+of Consideration Shares from 1,874,508 shares to 4,118,182 Consideration Shares. The effect of the issuance is that the Vendor will hold
+approximately 61.54 of the issued and outstanding shares of the Company. 
+
+1 
+
+Mr. Roy Chan, the founder of JTI, an executive
+director and president of the Company, is the holder of 629,350 shares of common stock of the Company prior to the Transaction. 
+
+After the issuance of 4,118,182 Consideration
+Shares, Vender holds 61.54 issued and outstanding shares of Temir and collectively with Mr. Roy Chan and Mr. Chan Hip Fong (father of
+Mr Roy Chan) together hold 70.94 issued and outstanding shares of Temir. 
+
+Upon completion of the Transactions on July 6,
+2020, JTI became a wholly-owned subsidiary of Temir. For financial accounting purposes, the share exchange was accounted for as a reverse
+acquisition by JTI, and resulted in a recapitalization, with JTI being the accounting acquirer and Temir as the acquired entity. 
+
+JTI was incorporated in Hong Kong, China on February
+8, 2019. 
+
+The Company through its subsidiaries provide diversified
+financial services. JTI has four operating subsidiaries and one investment subsidiary, namely, JTI Finance Limited JF ),
+Concept We Mortgage Broker Limited CW ), JTI Property Agency Limited JP and JTI Asset Management Limited JA and Temir Logistics Industrial Park Limited Temir Logistics is an investment holding company. 
+
+Transaction re Bac Giang International Logistics Co., Ltd. 
+
+On May 20, 2021, the Company, Hainan Qicheng Asset
+Management Joint Stock Company Hainan and Temir Logistics entered into a sale and purchase agreement SPA ),
+pursuant to which the Company shall issue 930,233 shares of the Company at a price of 21.5 per share, valued at 20,000,000 in exchange
+of 10 shareholding in Bac Giang International Logistics Co., Ltd. Bac Giang is a company incorporated in the Socialist Republic of Vietnam,
+the principal business of which is to build and run a modern international logistics park in Bac Giang Province, Vietnam. 930,233 shares
+of the Company were issued to the nominee of Hainan on June 8, 2021. Based on the SPA, 930,233 shares were issued within one month from
+the signing date of SPA. The transfer of shares of Bac Giang will be completed within 3 years from the date of SPA. 
+
+Temir Logistics is a wholly owned subsidiary of
+the Company, which is incorporated in Hong Kong on May 17, 2021, principally engaged in investment holding. It was intended to invest
+in Bac Giang International Logistics Co., Ltd., which is in turn building and running an international logistics park in Bac Giang Province,
+Vietnam. 
+
+On August 25, 2021, the Company, Hainan and Temir
+Logistics entered into a SPA Termination agreement (the Termination Agreement to terminate all of the rights and obligation
+of the SPA entered on May 20, 2021 and to cancel the 930,233 shares issued to the nominee. 930,233 shares were cancelled on September
+16, 2021. 
+
+Transaction re eDDA platform 
+
+On May 5, 2021, (i) Direct Assistance Limited,
+a wholly owned subsidiary of EFT Solutions Holdings Limited (a company listed on GEM of The Stock Exchange of Hong Kong Limited), (ii)
+2Go Investments Group Limited and (iii) JTI formed eDDA Solutions Limited eDDA ), a company incorporated in Hong Kong with
+limited liability, which will be principally engaged in the business of sales and maintenance services for the electronic direct debit
+authorization eDDA platform ). JTI has contributed share capital of 1 (HK 10), representing a 10 shareholding of eDDA.
+eDDA has not commenced operations as of the date of approval of this report. 
+
+Subsidiaries 
+
+Company
+ name 
+ 
+ Place/date
+ of incorporation 
+ 
+ Principal
+ activities 
+
+1. JTI Finance Limited JF 
+ 
+ Hong Kong, China/ December 29, 2011 
+ 
+ Money lending 
+ 
+ 2. Concept We Mortgage Broker Limited CW 
+ 
+ Hong Kong, China / December 18, 2013 
+
+Mortgage broker providing mortgage related consultancy services 
+ 
+ 3. JTI Property Agency Limited JP 
+
+Hong Kong, China/ December 21, 2011 
+ 
+ Property agency 
+ 
+ 4. JTI Asset Management Limited JA 
+
+Hong Kong, China/ May 2, 2017 
+
+General consulting services 
+ 
+ 5. Temir Logistics Industrial Park Limited 
+ 
+ Hong Kong, China/ May 17, 2021 
+ 
+ Investment holding 
+
+2 
+
+The formation of JTI Financial Services Group
+Limited was completed in March 2019. Upon incorporation, JTI issued 1 ordinary share at HK 1 to Mr. Roy Kong Hoi Chan. On March 20, 2019,
+JTI issued 9,999,999 shares of the Company to Ace Vantage Investments Limited Ace Vantage at a total cash consideration
+of HK 3,509,999.65 450,000), resulting a total share capital of 10,000,000 shares at HK 3,510,000.65 450,000). Ace Vantage was 50 
+owned by Mr. Roy Kong Hoi Chan and 50 owned by Mr. Chan Hip Fong, father of Mr. Roy Kong Hoi Chan. The Company is owned and controlled
+by the same control group as JF, CW, JP and JA. On March 29, 2019, the beneficial shareholders of JF, CW, JP and JA exchanged 100 of
+their shareholding of JF, CW, JP and JA for the shares of the Company (the Share Exchange ). The Share Exchange has been
+accounted for as a common control transaction. Other than its 100 ownership of JF, CW, JP and JA, JTI has no significant assets and no
+other business operations. 
+
+JF was incorporated in Hong Kong, China on December
+29, 2011 as a company with limited liability. Upon incorporation, JF issued 1 ordinary share to Ace Vantage at HK 1. On March 29, 2019,
+Ace Vantage transferred 100 of their shareholding of JF to JTI. 
+
+CW was incorporated in Hong Kong, China on December
+18, 2013 as a company with limited liability. Upon incorporation, CW issued 10,000 ordinary shares to Century Crown Investment Limited
+at HK 1 each. Century Crown Investment Limited was incorporated in Hong Kong, China and 100 held by Ace Vantage. On March 29, 2019, Century
+Crown Investment Limited transferred 100 of their shareholding of CW to JTI. 
+
+JP was incorporated in Hong Kong, China on December
+21, 2011 as a company with limited liability. Upon incorporation, JP issued 1 ordinary share to Ace Vantage at HK 1. On March 29, 2019,
+Ace Vantage transferred 100 of their shareholding of JP to JTI. 
+
+JA was incorporated in Hong Kong, China on May
+2, 2017 as a company with limited liability. Upon incorporation, JA issued 1 ordinary share to Ace Vantage at HK 1. On March 29, 2019,
+Ace Vantage transferred 100 of their shareholding of JA to JTI 
+
+The acquisitions of JF, CW, JP and JA by JTI have
+been accounted for as common control transactions in a manner similar to a pooling of interests and there was no recognition of any goodwill
+or excess of the acquirers interest in the net fair value of the acquirees identifiable assets, liabilities and contingent liabilities
+over cost at the time of the common control combinations. Therefore, these transactions were recorded at historical cost with a reclassification
+of equity from retained profits to additional paid in capital to reflect the deemed value of consideration given in the local jurisdiction
+and the capital structure of JF, CW, JP and JA. The consolidated financial statements of the Company include all of the accounts of the
+Company and its subsidiaries, JF, CW, JP and JA for all periods presented. All material intercompany transactions and balances have been
+eliminated in the consolidation. 
+
+Listing Status 
+
+Temir Corp. has been approved to upgrade its common
+shares from the Pink Open Market to the OTCQB Venture Market under the trading system TMRR ,
+effective September 8, 2020. 
+
+3 
+
+Revenue and Business Model 
+
+JTI s revenue is mainly derived from interest
+income, commission, referral fee and advisory services fee. JTI only charges fees to clients on a successfully basis. 
+
+1. Property
+agency fee is from 2.5 to 3 on the gross value of the transactions; 
+
+2. Mortgage
+referral fee is from 0.1 to 4 on the gross value of the transactions; 
+
+3. Consultancy
+advisory services fee is determined on case by case basis with a minimum fee of US 10,000 per contract: and 
+
+4. The
+interest rate of the money lending business from 0.001 to 2.2 monthly flat rate, depending on the loan type and borrowers credibility. 
+
+Government Regulation and Approvals 
+
+JTI is subject to a number of local laws and regulations
+that involve matters such as money lending, estate agency, privacy, rights of publicity, data protection, content regulation, intellectual
+property, competition, protection of minors, consumer protection, taxation or other subjects. Many of these laws and regulations are still
+evolving and being tested in courts and could be interpreted in ways that could harm our business. In addition, the application and interpretation
+of these laws and regulations often are uncertain, particularly in the new and rapidly evolving industry in which we operate. 
+
+Intellectual Property 
+
+JF owned a trademark which was registered under
+the intellectual property department of the government of Hong Kong SAR. The trademark number was 302036853 and the expiry date was September
+20, 2021. The details of trademark shown as below: 
+
+It is believed to be of material importance in
+the operation of JF s operation. JTI believes that no single patent, license, or trademark is material in relation to JTI s
+business as a whole. 
+
+Employees 
+
+We have 5 full-time employees as of August 31, 2021. 
+
+DESCRIPTION OF PROPERTIES 
+
+Our principal office is located at Suite 1802-03,
+18/F, Strand 50, 50 Bonham Strand, Sheung Wan, Hong Kong. 
+
+We do not own any real estate or other physical properties. 
+
+4 
+
+Item 1A.
+Risk Factors 
+
+The Company operates in an environment that
+involves a number of risks and uncertainties. The risks and uncertainties described in this Annual Report on Form 10-K are not the only
+risks and uncertainties that we face. Additional risks and uncertainties that presently are not considered material or are not known to
+us, and therefore are not mentioned herein, may impair our business operations. If any of the risks described in this Annual Report on
+Form 10-K actually occur, our business, operating results and financial position could be adversely affected. 
+
+RISKS RELATING TO OUR BUSINESS IN HONG KONG 
+
+Our company currently does not have any operations
+in mainland China. Accordingly, the laws and regulations of the PRC do not currently have any material impact on our business, financial
+condition and results of operations. However, if certain PRC laws and regulations were to become applicable to a company such as us in
+the future, the application of such laws and regulations may have a material adverse impact on our business, financial condition and results
+of operations and our ability to offer or continue to offer securities to investors, any of which may cause the value of our common stock,
+to significantly decline or become worthless. See the following risk factors of Our business, financial condition and results of
+operations, and/or the value of our common stock or our ability to offer or continue to offer securities to investors may be materially
+and adversely affected to the extent the laws and regulations of the PRC become applicable to a company such as us and The
+PRC government exerts substantial influence and discretion over the manner in which companies incorporated under the laws of PRC must
+conduct their business activities. We are a Hong Kong-based company with no operations in mainland China. However, if we were to become
+subject to such direct influence or discretion, it may result in a material change in our operations and/or the value of your common stock,
+which would materially affect the interests of investors. 
+
+Political risks associated with conducting
+business in Hong Kong. 
+
+Our operations are based in Hong Kong. Accordingly,
+our business operation and financial conditions will be affected by the political and legal developments in Hong Kong. During the period
+covered by the financial information incorporated by reference into and included in this prospectus, we maintain substantially all of
+our operations in Hong Kong. Any adverse economic, social and/or political conditions, material social unrest, strike, riot, civil disturbance
+or disobedience, as well as significant natural disasters, may affect the market may adversely affect our business operations. Hong Kong
+is a special administrative region of the PRC and the basic policies of the PRC regarding Hong Kong are reflected in the Basic Law, namely,
+Hong Kong s constitutional document, which provides Hong Kong with a high degree of autonomy and executive, legislative and independent
+judicial powers, including that of final adjudication under the principle of one country, two systems . However, there is
+no assurance that there will not be any changes in the economic, political and legal environment in Hong Kong in the future. Since our
+operation is based in Hong Kong, any change of such political arrangements may pose immediate threat to the stability of the economy in
+Hong Kong, thereby directly and adversely affecting our results of operations and financial positions. 
+
+Under the Basic Law of the Hong Kong Special Administrative
+Region of the People s Republic of China, Hong Kong is exclusively in charge of its internal affairs and external relations, while
+the government of the PRC is responsible for its foreign affairs and defense. As a separate customs territory, Hong Kong maintains and
+develops relations with foreign states and regions. Based on certain recent development including the Law of the People s Republic
+of China on Safeguarding National Security in the Hong Kong Special Administrative Region issued by the Standing Committee of the PRC
+National People s Congress in June 2020, the U.S. State Department has indicated that the United States no longer considers Hong
+Kong to have significant autonomy from China and President Trump signed an executive order and Hong Kong Autonomy Act, or HKAA, to remove
+Hong Kong s preferential trade status and to authorize the U.S. administration to impose blocking sanctions against individuals
+and entities who are determined to have materially contributed to the erosion of Hong Kong s autonomy. The United States may impose
+the same tariffs and other trade restrictions on exports from Hong Kong that it places on goods from mainland China. These and other recent
+actions may represent an escalation in political and trade tensions involving the U.S, China and Hong Kong, which could potentially harm
+our business. 
+
+Given the relatively small geographical size of
+Hong Kong, any of such incidents may have a widespread effect on our business operations, which could in turn adversely and materially
+affect our business, results of operations and financial condition. It is difficult to predict the full impact of the HKAA on Hong Kong
+and companies with operations in Hong Kong like us. Furthermore, legislative or administrative actions in respect of China-U.S. relations
+could cause investor uncertainty for affected issuers, including us, and the market price of our Ordinary Shares could be adversely affected. 
+
+5 
+
+If we become directly subject to the recent
+scrutiny, criticism and negative publicity involving U.S.-listed Chinese companies, we may have to expend significant resources to investigate
+and resolve the matter which could harm our business operations, stock price and reputation and could result in a loss of your investment
+in our stock, especially if such matter cannot be addressed and resolved favourably. 
+
+Recently, U.S. public companies that have substantially
+all of their operations in China, including Hong Kong, have been the subject of intense scrutiny, criticism and negative publicity by
+investors, financial commentators and regulatory agencies, such as the SEC. Much of the scrutiny, criticism and negative publicity has
+centered around financial and accounting irregularities and mistakes, a lack of effective internal controls over financial accounting,
+inadequate corporate governance policies or a lack of adherence thereto and, in many cases, allegations of fraud. As a result of the scrutiny,
+criticism and negative publicity, the publicly traded stock of many U.S. listed Chinese companies has sharply decreased in value and,
+in some cases, has become virtually worthless. Many of these companies are now subject to shareholder lawsuits and SEC enforcement actions
+and are conducting internal and external investigations into the allegations. It is not clear what effect this sector-wide scrutiny, criticism
+and negative publicity will have on our company, our business and our stock price. If we become the subject of any unfavourable allegations,
+whether such allegations are proven to be true or untrue, we will have to expend significant resources to investigate such allegations
+and/or defend our company. This situation will be costly and time consuming and distract our management from growing our company. 
+
+Our international operations involve special
+risks. 
+
+Our international operations involve financial
+and business risks that differ from or are in addition to those faced by our Hong Kong operations, including: 
+
+cultural and language differences; 
+
+different employment laws and rules, employment or service
+contracts, compensation methods, and social and cultural factors that could result in employee turnover, lower utilization rates, higher
+costs and cyclical fluctuations in utilization that could adversely affect financial and operating results; 
+
+foreign currency disruptions and currency fluctuations between
+the Hong Kong dollar and foreign currencies that could adversely affect financial and operating results; 
+
+different legal and regulatory requirements and other barriers
+to conducting business; 
+
+greater difficulties in resolving the collection of receivables
+when legal proceedings are necessary; 
+
+greater difficulties in managing our non-Hong Kong operations,
+including client relationships, in certain locations; 
+
+disparate systems, policies, procedures and processes; 
+
+failure to comply with the FCPA and anti-bribery laws of
+other jurisdictions; 
+
+higher operating costs; 
+
+longer sales and/or collections cycles; 
+
+potential restrictions or adverse tax consequences for the
+repatriation of foreign earnings, such as trapped foreign losses and importation or withholding taxes; 
+
+different or less stable political and/or economic environments; 
+
+conflicts between and among the Hong Kong and countries in
+which we conduct business, including those arising from trade disputes or disruptions, the termination or suspension of treaties, or
+boycotts; and 
+
+civil disturbances or other catastrophic events that reduce
+business activity. 
+
+If we are not able to quickly adapt to or effectively
+manage our operations in geographic markets outside the Hong Kong, our business prospects and results of operations could be negatively
+impacted. 
+
+6 
+
+You may incur additional costs and procedural
+obstacles in effecting service of legal process, enforcing foreign judgments or bringing actions in Hong Kong against us or our management
+named in the prospectus based on Hong Kong laws. 
+
+Currently, all of our operations are conducted
+outside the United States, and all of our assets are located outside the United States. All of our directors and officers are Hong Kong
+nationals or residents and a substantial portion of their assets are located in Hong Kong outside the United States. You may incur additional
+costs and procedural obstacles in effecting service of legal process, enforcing foreign judgments or bringing actions in Hong Kong against
+us or our management named in the prospectus, as judgments entered in the United States can be enforced in Hong Kong only at common law.
+If you want to enforce a judgment of the United States in Hong Kong, it must be a final judgment conclusive upon the merits of the claim,
+for a liquidated amount in a civil matter and not in respect of taxes, fines, penalties, or similar charges, the proceedings in which
+the judgment was obtained were not contrary to natural justice, and the enforcement of the judgment is not contrary to public policy of
+Hong Kong. Such a judgment must be for a fixed sum and must also come from a competent court as determined by the private
+international law rules applied by the Hong Kong courts. 
+
+The enactment of Law of the PRC on Safeguarding
+National Security in the Hong Kong Special Administrative Region (the Hong Kong National Security Law could impact our
+Hong Kong operating entities. 
+
+On June 30, 2020, the Standing Committee of the
+PRC National People s Congress adopted the Hong Kong National Security Law. This law defines the duties and government bodies of
+the Hong Kong National Security Law for safeguarding national security and four categories of offences secession,
+subversion, terrorist activities, and collusion with a foreign country or external elements to endanger national security and
+their corresponding penalties. On July 14, 2020, the former U.S. President Donald Trump signed the Hong Kong Autonomy Act, or HKAA, into
+law, authorizing the U.S. administration to impose blocking sanctions against individuals and entities who are determined to have materially
+contributed to the erosion of Hong Kong s autonomy. On August 7, 2020 the U.S. government imposed HKAA-authorized sanctions on eleven
+individuals, including HKSAR chief executive Carrie Lam. On October 14, 2020, the U.S. State Department submitted to relevant committees
+of Congress the report required under HKAA, identifying persons materially contributing to the failure of the Government of China
+to meet its obligations under the Joint Declaration or the Basic Law. The HKAA further authorizes secondary sanctions, including
+the imposition of blocking sanctions, against foreign financial institutions that knowingly conduct a significant transaction with foreign
+persons sanctioned under this authority. The imposition of sanctions may directly affect the foreign financial institutions as well as
+any third parties or customers dealing with any foreign financial institution that is targeted. It is difficult to predict the full impact
+of the Hong Kong National Security Law and HKAA on Hong Kong and companies located in Hong Kong. If our Hong Kong subsidiary is determined
+to be in violation of the Hong Kong National Security Law or the HKAA by competent authorities, our business operations, financial position
+and results of operations could be materially and adversely affected. 
+
+Chinese government may intervene or influence
+our operations at any time or may exert more control over offerings conducted overseas and foreign investment in China-based issuers,
+which may result in a material change in our operations and/or the value of our ordinary shares. Additionally, the governmental and regulatory
+interference could significantly limit or completely hinder our ability to offer or continue to offer securities to investors and cause
+the value of such securities to significantly decline or be worthless. 
+
+We are aware that recently, the PRC government
+initiated a series of regulatory actions and statements to regulate business operations in certain areas in China with little advance
+notice, including cracking down on illegal activities in the securities market, enhancing supervision over China-based companies listed
+overseas using variable interest entity structure, adopting new measures to extend the scope of cybersecurity reviews, and expanding the
+efforts in anti-monopoly enforcement. 
+
+7 
+
+The Hong Kong legal system embodies uncertainties
+which could limit the availability of legal protections. 
+
+As one of the conditions for the handover of the
+sovereignty of Hong Kong to China, China accepted conditions such as Hong Kong s Basic Law. The Basic Law ensured Hong Kong will
+retain its own currency (the Hong Kong Dollar), legal system, parliamentary system and people s rights and freedom for fifty years
+from 1997. This agreement has given Hong Kong the freedom to function with a high degree of autonomy. The Special Administrative Region
+of Hong Kong is responsible for its own domestic affairs including, but not limited to, the judiciary and courts of last resort, immigration
+and customs, public finance, currencies and extradition. Hong Kong continues using the English common law system. 
+
+However, if the PRC attempts to alter its agreement
+to allow Hong Kong to function autonomously, this could potentially impact Hong Kong s common law legal system and may in turn bring
+about uncertainty in, for example, the enforcement of our contractual rights. This could, in turn, materially and adversely affect our
+business and operations. Additionally, intellectual property rights and confidentiality protections in Hong Kong may not be as effective
+as in the United States or other countries. Accordingly, we cannot predict the effect of future developments in the Hong Kong legal system,
+including the promulgation of new laws, changes to existing laws or the interpretation or enforcement thereof, or the pre-emption of local
+regulations by national laws. These uncertainties could limit the legal protections available to us, including our ability to enforce
+our agreements with our customers. 
+
+Our business, financial condition and results
+of operations, and/or the value of our common stock or our ability to offer or continue to offer securities to investors may be materially
+and adversely affected to the extent the laws and regulations of the PRC become applicable to a company such as us. 
+
+We currently do not have or intend to have any
+subsidiary or any contractual arrangement to establish a variable interest entity structure with any entity in mainland China, and we
+have direct ownership of our operating entities in Hong Kong. However, as our principal executive offices are located, and we operate,
+in Hong Kong, a special administrative region of China, there is no guarantee that if certain existing or future laws of the PRC become
+applicable to a company such as us, it will not have a material adverse impact on our business, financial condition and results of operations
+and/or our ability to offer or continue to offer securities to investors, any of which may cause the value of such securities to significantly
+decline or be worthless. 
+
+Except for the Basic Law, the national laws of
+the PRC do not apply in Hong Kong unless they are listed in Annex III of the Basic Law and applied locally by promulgation or local legislation.
+National laws that may be listed in Annex III are currently limited under the Basic Law to those which fall within the scope of defense
+and foreign affairs as well as other matters outside the limits of the autonomy of Hong Kong. National laws and regulations relating to
+data protection, cybersecurity and the anti-monopoly have not been listed in Annex III and so do not apply directly to Hong Kong. 
+
+The laws and regulations in the PRC are evolving,
+and their enactment timetable, interpretation and implementation involve significant uncertainties. To the extent any PRC laws and regulations
+become applicable to us, we may be subject to the risks and uncertainties associated with the legal system in the PRC, including with
+respect to the enforcement of laws and the possibility of changes of rules and regulations with little or no advance notice. We currently
+do not have plan to expand our operation or acquire any operation in the mainland China. However, we may also become subject to the laws
+and regulations of the PRC to the extent we commence business and customer facing operations in mainland China as a result of any future
+acquisition, expansion or organic growth. 
+
+RISKS RELATING TO OUR COMPANY 
+
+Financial service industry is highly competitive in Hong Kong. 
+
+We operate in the financial services industry
+in Hong Kong, which has a large number of existing participants, making the industry highly competitive. Our results of operations and
+business development are dependent on our ability to complete equity or debt financings or generate profitable return. Such financings
+may not be available or may not be available on reasonable terms. Our financial statements do not include any adjustment that is able
+to reflect the outcome of this uncertainty. 
+
+8 
+
+If our estimates related to future expenditures
+are erroneous or inaccurate, our business will fail and you could lose your entire investment. 
+
+Our success is dependent in part upon the accuracy
+of our management s estimates of our future cost expenditures for legal and accounting services (including those we expect to incur
+as a publicly reporting company) and for administrative expenses. If such estimates are erroneous or inaccurate, or if we encounter unforeseen
+costs, we may not be able to carry out our business plan, which could result in the failure of our business and the loss of your entire
+investment. 
+
+If we are not able to develop our business
+as anticipated, we may not be able to generate revenue or achieve profitability and you may lose your investment. 
+
+Our business prospects are difficult to predict
+because of the financial service industry is highly competitive. Our primary business activities will be focused on the relative high
+risk operating cash flows funding. Although we believe that our business plan has significant profit potential, we may not attain profitable
+operations and our management may not succeed in realizing our business objectives. If we are not able to develop our business as anticipated,
+we may not be able to generate revenue or achieve profitability and you may lose your entire investment. 
+
+We may not be able to execute our business plan or stay in business
+without additional funding. 
+
+Our ability to generate future operating revenue
+depends in part on whether we can obtain necessary financing to implement our business plan. We may require additional financing through
+the issuance of debt and/or equity to fund our future operation plans, and such financing may not be forthcoming. As widely reported,
+the global and domestic financial markets have been extremely volatile in recent months. If such conditions and constraints continue or
+if there is no investor appetite to finance our specific business, we may not be able to acquire additional financing through credit markets
+or equity markets. Even if additional financing is available, it may not be available on terms favourable to us. At this time, we have
+not identified or secured sources of additional financing. Our failure to secure additional financing when it becomes required will have
+an adverse effect on our ability to remain in business. 
+
+Our operating subsidiaries may fail to renew
+their licenses. 
+
+Our money lending business is subject to licensing
+requirements under the provisions of the Money Lenders Ordinance (Chapter 163 of the Laws of Hong Kong). JF, our operating subsidiary,
+is a licensed money lender in Hong Kong, holding a money lender license. Money lenders licenses are granted by the licensing court of
+Hong Kong and are renewable annually subject to satisfaction of all licensing conditions. The licensing court has the discretion to suspend
+or revoke a license if a licensee is in breach of any licensing condition. We cannot guarantee that the conditions or requirements which
+JF may be required to satisfy or meet will not change from time to time. 
+
+Our property agency business is subject to licensing
+requirements under the provisions of the Estate Agents Ordinance (Chapter 511 of the Laws of Hong Kong). JP is a licensed property agent
+in Hong Kong, holding an estate agent s license granted by Estate Agents Authority of Hong Kong. The Estate Agents Authority of
+Hong Kong has the discretion to suspend or revoke a license if a licensee is in breach of any licensing condition. We cannot guarantee
+that the conditions or requirements which JP may be required to satisfy or meet will not change from time to time. 
+
+In the event that our operating subsidiaries are
+unable to renew their licenses in a timely manner or if the relevant authorities do not approve the application for a renewal of their
+licenses, our subsidiaries may not be able to operate their business until such time as they receive new licenses, which may have a material
+adverse effect on our financial condition and results of operation. 
+
+Our property agency business and mortgage referral
+business are sensitive to downturns in the economy, economic uncertainty and particularly the performance of the real estate market in
+Hong Kong. 
+
+CW and JP are our operating subsidiaries that
+mainly provide mortgage referral services and commercial property agency services in Hong Kong. Their business and financial performance
+are sensitive to the real estate market in Hong Kong. Demand for property is sensitive to downturns and uncertainty in the global and
+regional economy and corresponding changes in the appetite for real estate investments and purchases. Changes in the appetite for real
+estate investments and purchases are driven by various factors including, amongst others, perceived or actual general economic conditions,
+employment and job market conditions, actual or perceived levels of disposable consumer income and wealth and consumer confidence in the
+economy. These and other factors have, in the past, affected consumer demand for real estate and any negative sentiment or downturn in
+the economy could materially and adversely affect our business, financial condition and results of operations and also our liquidity position. 
+
+9 
+
+Our money lending business is exposed to the
+credit risks of our customers. 
+
+The financial position and profitability of our
+money lending business depends in part on our customers creditworthiness. Thus, we are exposed to our customers credit risks.
+There is no assurance that we will not encounter doubtful or bad debts in the future. If we experience slower payments from our customers,
+it may increase our accounts receivable aging and/or our bad debts. Further, our cash flows and financial results will be adversely affected
+if we experience any unexpected delay or difficulty in collections from our customers. 
+
+Our money lending business is affected by fluctuations
+in interest rates and our credit position. 
+
+The interest rate risks faced by JF arise from
+both the interest-bearing lending and borrowings of our money lending business. In particular, our profitability is highly correlated
+with the net interest margin, being the difference between the interest rate charged to our customers and the costs of our funding. The
+interest rate chargeable by JF to its customers is determined by, amongst other factors, the market demand for loans and the prevailing
+competition in the industry, and is ultimately capped by the relevant provisions of the Money Lenders Ordinance (Chapter 163 of the Laws
+of Hong Kong). The borrowing cost of JF is determined with reference to the overall local money lending market conditions and our credit
+positions. An increase in general interest rates or a deterioration of our credit positions will lead to increases in our funding costs. 
+
+Our money lending business may be affected
+by changes in the Money Lenders Ordinance (Chapter 163 of the Laws of Hong Kong). 
+
+The business operation of JF is regulated under
+the Money Lenders Ordinance (Chapter 163 of the Laws of Hong Kong) and full compliance with such regulation is essential for us to carry
+on our business. Notwithstanding this, the relevant regulatory authorities may from time to time amend the Money Lenders Ordinance (Chapter
+163 of the Laws of Hong Kong) or adopt new laws and regulations applicable to licensed money lenders in Hong Kong. Our operation, financial
+performance and business prospects may be materially and adversely affected if we are not able to comply with any changes and/or new requirements
+in applicable laws and regulations related to the money lending industry in Hong Kong. Notably, for the mortgage loans granted by us to
+our customers, the interest rate for such loans shall not exceed the maximum effective interest rate of 60 per annum as stipulated under
+the Money Lenders Ordinance (Chapter 163 of the Laws of Hong Kong). In the event that such maximum limit for interest rate is lowered
+as a result of any change to the Money Lenders Ordinance (Chapter 163 of the Laws of Hong Kong) and/or any relevant laws and regulations,
+thus limiting and lowering the interest rate we can offer to our customers, our financial performance, operational results and profitability
+may be materially and adversely affected. 
+
+Unfavourable financial market and economic
+conditions in Hong Kong, China, and elsewhere in the world could materially and adversely affect our asset management business. 
+
+JA is planning to apply for fund management licenses
+in Hong Kong or in other jurisdiction, aiming to provide fund management services globally. During a market or general economic downturn,
+we may derive lower revenue from our asset management business due to lower mark-to-market or fair value of the assets that we manage.
+In addition, due to uncertainty or volatility in the market or in response to difficult market conditions, our customers or prospective
+customers may withdraw funds from, or hesitate to allocate assets to, our asset management business in favor of investments they perceive
+as offering greater opportunity or lower risk. Difficult market conditions can also materially and adversely affect our ability to launch
+new products or offer new services in our asset management business, which could negatively affect our financial performance, operational
+results and profitability. 
+
+The loss of the services of any key member
+of management team, our Chief Executive Officer and Chairman of the Board of Directors, or our failure to timely identify and retain competent
+personnel could negatively impact our ability to develop our business and sell our services. 
+
+The decision making is based on a team of management,
+which consists of at least 5 directors and/or managers. The board of directors consists of 6 members. We are not highly dependent on any
+manager or director for any business decisions. Our future success depends upon the continued services of our executive officers who are
+developing our business, and on our ability to identify and retain competent consultants and employees with the skills required to execute
+our business objectives. The loss of the services of any executive officer or director or our failure to timely identify and retain competent
+personnel would have small impact our ability to develop our business and license our brand, and have minimal effect on our financial
+results and impair our growth. 
+
+10 
+
+Our success depends on good business relationship
+with clients and banks and other financial institutions. 
+
+Our success depends on
+good business relationship with clients and banks and other financial institutions. Our business would be adversely affected if: 
+
+the
+major banks in Hong Kong such as HSBC, Bank of China, Hang Seng Bank, suspend or terminate their mortgage business, our revenue generated
+from mortgage referral business will be substantially impacted; 
+
+our
+major business partner, Savills (Hong Kong), has any negative impact on their business or their reputation, our revenue generated from
+property agency business will be affected; 
+
+we
+fail to raise capital for the development of initial customer base and reputation; 
+
+we
+fail to implement our business model and strategy; and 
+
+we
+are not able to retain our management team who have extensive working experience in the banking and finance sectors. 
+
+We incur costs associated with SEC reporting
+compliance, which may significantly affect our financial condition. 
+
+The Company made the decision to become an SEC
+ reporting company in order to comply with applicable laws and regulations. We incur certain costs of compliance with applicable
+SEC reporting rules and regulations including, but not limited to attorneys fees, accounting and auditing fees, other professional
+fees, financial printing costs and Sarbanes-Oxley compliance costs in an amount estimated at approximately US 100,000 per year. On balance,
+the Company determined that the incurrence of such costs and expenses was preferable to the Company being in a position where it had very
+limited access to additional capital funding. 
+
+We have identified material weaknesses in our
+internal control over financial reporting. If we fail to remediate the material weaknesses or maintain an effective system of internal
+control over financial reporting, we may be unable to accurately report our financial results or prevent fraud, and investor confidence
+and the market price of our shares may be adversely affected. 
+
+To implement Section 404 of the Sarbanes-Oxley
+Act of 2002, or SOX 404, the SEC adopted rules requiring public companies to include a report of management on the company s internal
+control over financial reporting in their annual reports on Form 10-K. Under current law, we are subject to the requirement that we maintain
+internal controls and that management perform periodic evaluation of the effectiveness of the internal controls, assuming our filing status
+remains as a smaller reporting company. A report of our management is included under Item 9A of this Annual Report on Form 10-K. Our management
+has identified the following material weaknesses in our internal control over financial reporting: 
+
+(1) 
+ We do not have an audit committee While we are not obligated to have an audit committee, it is management s view that such a committee, including a financial expert member, is an utmost important entity level control over the Company s financial reporting. Currently, our Chief Executive Officer and directors act in the capacity of the audit committee, and do not include a member that is considered to be independent of management to provide the necessary oversight over management s activities. 
+
+(2) 
+ We do not have adequate written policies and procedures Due to lack of adequate written policies and procedures for accounting and financial reporting, we did not establish a formal process to close our books monthly and account for all transactions in a timely manner. 
+
+(3) 
+ We did not implement appropriate information technology controls As at August 31, 2021, we retained copies of all financial data and material agreements; however, there is no formal procedure or evidence of normal backup of our data or off-site storage of the data in the event of theft, misplacement, or loss due to unmitigated factors. 
+
+(4) 
+ We do not have sufficient and skilled accounting personnel with an appropriate level of technical accounting knowledge and experience in the application of accounting principles generally accepted in the United States commensurate with our financial reporting requirements. 
+
+11 
+
+A material weakness is a deficiency,
+or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material
+misstatement of the company s annual or interim financial statements will not be prevented or detected on a timely basis. We have
+taken measures and plan to continue to take measures to remedy this material weakness. However, the implementation of these measures may
+not fully address the material weakness in our internal control over financial reporting. Our failure to address any control deficiency
+could result in inaccuracies in our financial statements and could also impair our ability to comply with applicable financial reporting
+requirements and related regulatory filings on a timely basis. Moreover, effective internal control over financial reporting is important
+to prevent fraud. As a result, our business, financial condition, results of operations and prospects, as well as the trading price of
+our shares, may be materially and adversely affected. 
+
+Our independent registered auditors have expressed
+substantial doubt about our ability to continue as a going concern. 
+
+Our audited financial statements included in this
+report include an explanatory paragraph that indicates that they were prepared assuming that we would continue as a going concern. 
+As of August 31, 2021, we have suffered recurring losses from operations, and records an accumulated deficit and a working capital deficit
+of 962,330 and 511,049, respectively. These factors raise substantial doubts about our ability to continue as a going concern. Our continuation
+as a going concern is dependent upon improving our profitability and the continuing financial support from our shareholders or other debt
+or capital sources. Management believes the existing shareholders or external financing will provide the additional cash to meet our obligations
+as they become due. There can be no assurance that we will be successful in our plans described above or in attracting equity or alternative
+financing on acceptable terms, or if at all. These financial statements do not include any adjustments to reflect the possible future
+effects on the recoverability and classification of assets and liabilities that may result in our inability to continue as a going concern. 
+
+The audit report included in this report have
+been prepared by auditors whose work may not be inspected fully by the Public Company Accounting Oversight Board and, as such, you may
+be deprived of the benefits of such inspection. 
+
+As a public company with securities quoted on
+the OTCQB, we will be required to have our financial statements audited by an independent registered public accounting firm registered
+with the PCAOB. A requirement of being registered with the PCAOB is that if requested by the SEC or PCAOB, such accounting firm is required
+to make its audits and related audit work papers be subject to regular inspections to assess its compliance with the applicable professional
+standards. 
+
+Since our auditor is located in Hong Kong and
+China, jurisdictions where the PCAOB has been unable to conduct inspections without the approval of the Chinese authorities due to various
+state secrecy laws and the revised PRC Securities Law, the PCAOB currently does not have free access to inspect the work of our auditor.
+This lack of the PCAOB inspections in Hong Kong and China prevents the PCAOB from fully evaluating audits and quality control procedures
+of our auditor. As a result, we and our stockholders are deprived of the benefits of such PCAOB inspections, which could cause investors
+in our stock to lose confidence in our audit procedures and the quality of our financial statements. 
+
+On December 18, 2020, the Holding Foreign Companies
+Accountable Act, or HFCAA, was enacted. In essence, the act requires the SEC to prohibit securities of any foreign companies from being
+listed on U.S. securities exchanges or traded over-the-counter if a company retains a foreign accounting firm that cannot
+be inspected by the PCAOB for three consecutive years, beginning in 2021. Our independent registered public accounting firm is located
+in and organized under the laws of Hong Kong and China, jurisdictions where the PCAOB is currently unable to conduct inspections without
+the approval of the Chinese authorities, and therefore our auditors are not currently inspected by the PCAOB. 
+
+12 
+
+On March 24, 2021, the SEC adopted interim final
+amendments, relating to the implementation of certain disclosure and documentation requirements of the HFCAA, and on December 2, 2021,
+adopted amendments to finalize rules implementing the submission and disclosures in the HFCAA. The final amendments applied to registrants
+that the SEC identifies as having filed an annual report with an audit report issued by a registered public accounting firm that is located
+in a foreign jurisdiction and that the PCAOB has determined it is unable to inspect or investigate completely because of a position taken
+by an authority in that jurisdiction. Before any registrant will be required to comply with the final amendments, the SEC must implement
+a process for identifying such registrants. Consistent with the HFCAA, the amendments require any identified registrant to submit documentation
+to the SEC establishing that the registrant is not owned or controlled by a government entity in that jurisdiction, and also require,
+among other things, disclosure in the registrant s annual report regarding the audit arrangements of, and government influence on,
+such registrant. If a registrant is identified as a commission-identified issuer based on its annual report for the fiscal year ended
+December 31, 2021, the registrant will be required to comply with the submission or disclosure requirements in its annual report filing
+covering the fiscal year ended December 31, 2022. 
+
+Furthermore, on June 22, 2021, the U.S. Senate
+passed a bill which, if passed by the U.S. House of Representatives and signed into law, would reduce the number of consecutive non-inspection
+years required for triggering the prohibitions under the HFCAA from three years to two. 
+
+The SEC may propose additional rules or guidance
+that could impact us if our auditor is not subject to PCAOB inspection. For example, on August 6, 2020, the President s Working
+Group on Financial Markets, or the PWG, issued the Report on Protecting United States Investors from Significant Risks from Chinese Companies
+to the then President of the United States. This report recommended that the SEC implement five recommendations to address companies from
+jurisdictions that do not provide the PCAOB with sufficient access to fulfil its statutory mandate. Some of the concepts of these recommendations
+were implemented with the enactment of the HFCAA. However, some of the recommendations were more stringent than the HFCAA. For example,
+if a company was not subject to PCAOB inspection, the report recommended that the transition period before a company would be delisted
+would end on January 1, 2022. 
+
+The enactment of the HFCAA and the implications
+of any additional rulemaking efforts to increase U.S. regulatory access to audit information in Hong Kong and China could cause investor
+uncertainty for affected SEC registrants, including us, and the market price of our stock could be materially adversely affected. Additionally,
+whether the PCAOB will be able to conduct inspections of our auditors in the next three years, or at all, is subject to substantial uncertainty
+and depends on a number of factors out of our control. If we are unable to meet the PCAOB inspection requirement in time, our stock will
+not be permitted for trading over-the counter either. Such prohibition would substantially impair your ability to sell or
+purchase our stock when you wish to do so, and the risk and uncertainty associated with delisting would have a negative impact on the
+price of our stock. Also, such a delisting would significantly affect our ability to raise capital on terms acceptable to us, or at all,
+which would have a material adverse impact on our business, financial condition and prospects. 
+
+On November 5, 2021, the SEC approved PCAOB Rule
+6100, Board Determination Under the Holding Foreign Companies Accountability Act, effective immediately. The rule establishes a
+framework for the PCAOB s determinations under the HFCAA that the PCAOB is unable to inspect or investigate completely registered
+public accounting firms located in a foreign jurisdiction because of a position taken by an authority in that jurisdiction. 
+
+13 
+
+Proceedings instituted by the SEC against five
+PRC-based accounting firms could result in financial statements being determined to be not in compliance with the requirements of the
+Securities Exchange Act of 1934. 
+
+Starting in 2011, the China-based big four 
+accounting firms were affected by a conflict between U.S. and Chinese law. Specifically, for certain U.S.-listed companies operating and
+audited in mainland China, the SEC and the PCAOB sought to obtain from the Chinese firms access to their audit work papers and related
+documents. The firms were, however, advised and directed that under Chinese law, they could not respond directly to the U.S. regulators
+on those requests, and that requests by foreign regulators for access to such papers in China had to be channeled through the Chinese
+Securities Regulatory Commission, or CSRC. 
+
+In late 2012, this impasse led the SEC to commence
+administrative proceedings under Rule 102(e) of its Rules of Practice and also under the Sarbanes-Oxley Act of 2002 against the Chinese
+accounting firms, including our independent registered public accounting firm. A first instance trial of the proceedings in July 2013
+in the SEC s internal administrative court resulted in an adverse judgment against the firms. The administrative law judge proposed
+penalties on the firms including a temporary suspension of their right to practice before the SEC, although that proposed penalty did
+not take effect pending review by the Commissioners of the SEC. On February 6, 2015, before a review by the Commissioner had taken place,
+the firms reached a settlement with the SEC. Under the settlement, the SEC accepts that future requests by the SEC for the production
+of documents will normally be made to the CSRC. The firms will receive matching Section 106 requests, and are required to abide by a detailed
+set of procedures with respect to such requests, which in substance require them to facilitate production via the CSRC. If they fail to
+meet specified criteria, the SEC retains authority to impose a variety of additional remedial measures on the firms depending on the nature
+of the failure. Remedies for any future noncompliance could include, as appropriate, an automatic six-month bar on a single firm s
+performance of certain audit work, commencement of a new proceeding against a firm, or, in extreme cases, the resumption of the current
+proceeding against all four firms. 
+
+In the event that the SEC restarts the administrative
+proceedings, depending upon the final outcome, listed companies in the U.S. with major PRC operations may find it difficult or impossible
+to retain auditors in respect of their operations in the PRC, which could result in financial statements being determined to not be in
+compliance with the requirements of the Exchange Act, including possible delisting. Moreover, any negative news about the proceedings
+against these audit firms may cause investor uncertainty regarding PRC-based, U.S.-listed companies and the market price of our common
+stock may be adversely affected. 
+
+If our independent registered public accounting
+firm was denied, even temporarily, the ability to practice before the SEC and we were unable to timely find another registered public
+accounting firm to audit and issue an opinion on our financial statements, our financial statements could be determined not to be in compliance
+with the requirements of the Exchange Act. 
+
+We, our customers, our suppliers and other
+partners may be adversely affected by disaster or health epidemics, including the recent COVID-19 outbreak. 
+
+In general, our business
+could be adversely affected by the effects of epidemics, including, but not limited to, the COVID-19, avian influenza, severe acute respiratory
+syndrome (SARS), the influenza A virus, Ebola virus, severe weather conditions such as storm, flood or hazardous air pollution, or other
+outbreaks. In recent years, there have been outbreaks of epidemics in various countries. Recently, there was an outbreak of a novel strain
+of coronavirus (COVID-19) in the PRC, which has spread rapidly across the world. In March 2020, the World Health Organization declared
+the COVID-19 a pandemic. In 2021, COVID-19 still affects the world. 
+
+14 
+
+As all of our revenues are generated in Hong Kong,
+our results of operations will likely be adversely, and may be materially, affected, to the extent that the COVID-19 or any other epidemic
+harms the Hong Kong s and global economy. Any potential impact to our results of operations will depend on, to a large extent, future
+developments and new information that may emerge regarding the duration and severity of the COVID-19. The actions taken by government
+authorities and other organizations to contain the spread of COVID-19 are beyond our control. Potential impacts include, but are not limited
+to, the following: 
+
+temporary
+closure of offices and the implement of temporary travel restrictions; 
+
+our customers that are negatively impacted by the outbreak of COVID-19 may reduce their budgets to purchase our services, which may materially adversely impact our revenue. We may have to provide significant sales incentives to our customers in response to boost our sales, which may in turn materially adversely affect our financial condition and operating results; 
+
+our customers may delay the payment or fail to pay us at all, which could significantly increase the amount of accounts receivable and require us to record additional allowances for doubtful accounts; 
+
+the business operations of our customers have been and could continue to be negatively impacted by the outbreak of COVID-19, which may result in loss of customers or disruption of our business or services, which may in turn materially adversely affect our financial condition and operating results; and 
+
+some of our customers, suppliers and other partners are small and medium-sized enterprises (SMEs), which may not have strong cash flows or be well capitalized, and may be vulnerable to an epidemic outbreak and slowing macroeconomic conditions. Our results of operations and financial results may be materially and adversely affected if the SMEs that we work with fail to resume normal business operations as a result of economic impact or the outbreak of COVID-19. 
+
+In response to the outbreak of COVID-19, government
+and other organizations may adopt regulations and policies that could lead to severe disruption to our daily operations, including but
+not limited to: 
+
+the reduction of economic activity and close our office for all our employees to work from home has resulted in a significant reduction in productivity. As a result of these effects, our cumulative revenues for the years ended August 31, 2020 were lower than our revenues for the same period in 2019 with the major negative impact identified in May 2020. Although our revenues increased in fiscal 2021, we continued to incur losses. Our liquidity is likely to be negatively impacted and additional funding may be needed in the future; 
+
+Since the year ended August 31, 2019, the Group has furthermore incurred losses. Depending on the duration of the COVID-19 crisis and continued negative impact on economic activity, the Group may experience further negative results, liquidity restraints and incur additional impairments on its assets going forward, which may result in material adverse impact to our financial condition and results of operations. 
+
+RISKS ASSOCIATED WITH OUR SECURITIES 
+
+Our shares of common stock do not presently
+trade, and the price may not reflect our value and there can be no assurance that there will be an active market for our shares of common
+stock either now or in the future. 
+
+Although our common stock is quoted on the OTC
+Markets, our shares of common stock do not trade and the price of our common stock, if traded, may not reflect our value. There can be
+no assurance that there will be an active market for our shares of common stock either now or in the future. Market liquidity will depend
+on the perception of our operating business and any steps that our management might take to bring us to the awareness of investors. There
+can be no assurance given that there will be any awareness generated. Consequently, investors may not be able to liquidate their investment
+or liquidate it at a price that reflects the value of the business. As a result holders of our securities may not find purchasers our
+securities should they to sell securities held by them. Consequently, our securities should be purchased only by investors having no need
+for liquidity in their investment and who can hold our securities for an indefinite period of time. 
+
+15 
+
+If a more active market should develop, the price
+of our shares of common stock may be highly volatile. Because there may be a low price for our shares of common stock, many brokerage
+firms may not be willing to effect transactions in our securities. Even if an investor finds a broker willing to effect a transaction
+in the shares of our common stock, the combination of brokerage commissions, transfer fees, taxes, if any, and any other selling costs
+may exceed the selling price. Further, many lending institutions will not permit the use of such shares of common stock as collateral
+for any loans. 
+
+We may, in the future, issue additional common
+shares, which would reduce investors percent of ownership and may dilute our share value. 
+
+Our Articles of Incorporation authorize the issuance
+of 75,000,000 shares of common stock. As of August 31, 2021, and taking into consideration the cancellation of 930,233 shares of
+common stock in relation to the SPA Termination agreement of acquiring shareholding in Bac Giang International Logistics Co., Ltd, the
+Company had 6,692,187 shares of common stock issued and outstanding. Accordingly, we may issue up to an additional 68,307,818 shares of
+common stock. The future issuance of common stock and/or preferred stock will result in substantial dilution in the percentage of our
+common stock held by our then existing shareholders. We may value any common stock issued in the future on an arbitrary basis. The issuance
+of common stock for future services or acquisitions or other corporate actions may have the effect of diluting the value of the shares
+held by our investors, and might have an adverse effect on any trading market for our common stock. 
+
+Our officers and directors collectively beneficially
+own a majority of our stock, and accordingly, collectively have control over stockholder matters, our business and management. 
+
+As of December 9, 2021, Mr. Roy Chan, the Company s
+President is holder of 4,747,532 shares, Mr. Mark Yip, the director, is holder of 1,250 shares and Mr. Brian Wong, Chief Executive
+officer, is holder of 244,630 shares of common stock of the Company. Therefore, our officers and directors collectively hold approximately
+74.62 of our issued and outstanding shares of common stock. As a result, our officers and directors will collectively have the discretion
+to: 
+
+Elect
+or defeat the election of our directors; 
+
+Amend
+or prevent amendment of our Articles of Incorporation or Bylaws; 
+
+Effect
+or prevent a merger, sale of assets or other corporate transaction; and 
+
+Affect
+the outcome of any other matter submitted to the stockholders for vote. 
+
+Moreover, because of the significant ownership
+position held by our insiders, new investors may not be able to effect a change in our business or management, and therefore, shareholders
+would have no recourse as a result of decisions made by management. 
+
+In addition, sales of significant amounts of shares
+held by our officers and directors, or the prospect of these sales, could adversely affect the market price of our common stock. Management s
+stock ownership may discourage a potential acquirer from making a tender offer or otherwise attempting to obtain control of us, which
+in turn could reduce our stock price or prevent our stockholders from realizing a premium over our stock price. 
+
+16 
+
+State securities laws may limit secondary trading,
+which may restrict the states in which and conditions under which you can sell the shares offered by this prospectus. 
+
+Secondary trading in common stock sold in this
+offering will not be possible in any state until the common stock is qualified for sale under the applicable securities laws of the state
+or there is confirmation that an exemption, such as listing in certain recognized securities manuals, is available for secondary trading
+in the state. If we fail to register or qualify, or to obtain or verify an exemption for the secondary trading of, the common stock in
+any particular state, the common stock could not be offered or sold to, or purchased by, a resident of that state. In the event that a
+significant number of states refuse to permit secondary trading in our common stock, the liquidity for the common stock could be significantly
+impacted thus causing you to realize a loss on your investment. 
+
+The Company does not intend to seek registration
+or qualification of its shares of common stock the subject of this offering in any State or territory of the United States. Aside from
+a secondary trading exemption, other exemptions under state law and the laws of US territories may be available to purchasers
+of the shares of common stock sold in this offering, 
+
+Anti-takeover effects of certain provisions
+of Nevada state law hinder a potential takeover of us. 
+
+Though not now, we may be or in the future we
+may become subject to Nevada s control share law. A corporation is subject to Nevada s control share law if it has more than
+200 stockholders, at least 100 of whom are stockholders of record and residents of Nevada, and it does business in Nevada or through an
+affiliated corporation. The law focuses on the acquisition of a controlling interest which means the ownership of outstanding
+voting shares sufficient, but for the control share law, to enable the acquiring person to exercise the following proportions of the voting
+power of the corporation in the election of directors: 
+
+(i) one-fifth or more but less than one-third,
+(ii) one-third or more but less than a majority, or (iii) a majority or more. The ability to exercise such voting power may be direct
+or indirect, as well as individual or in association with others. 
+
+The effect of the control share law is that the
+acquiring person, and those acting in association with it, obtains only such voting rights in the control shares as are conferred by a
+resolution of the stockholders of the corporation, approved at a special or annual meeting of stockholders. The control share law contemplates
+that voting rights will be considered only once by the other stockholders. Thus, there is no authority to strip voting rights from the
+control shares of an acquiring person once those rights have been approved. If the stockholders do not grant voting rights to the control
+shares acquired by an acquiring person, those shares do not become permanent non-voting shares. The acquiring person is free to sell its
+shares to others. If the buyers of those shares themselves do not acquire a controlling interest, their shares do not become governed
+by the control share law. 
+
+If control shares are accorded full voting rights
+and the acquiring person has acquired control shares with a majority or more of the voting power, any stockholder of record, other than
+an acquiring person, who has not voted in favor of approval of voting rights is entitled to demand fair value for such stockholder s
+shares. 
+
+Nevada s control share law may have the
+effect of discouraging takeovers of the corporation. 
+
+17 
+
+In addition to the control share law, Nevada has
+a business combination law which prohibits certain business combinations between Nevada corporations and interested stockholders 
+for three years after the interested stockholder first becomes an interested stockholder, unless the corporation s
+board of directors approves the combination in advance. For purposes of Nevada law, an interested stockholder is any person
+who is (i) the beneficial owner, directly or indirectly, of ten percent or more of the voting power of the outstanding voting shares of
+the corporation, or (ii) an affiliate or associate of the corporation and at any time within the three previous years was the beneficial
+owner, directly or indirectly, of ten percent or more of the voting power of the then outstanding shares of the corporation. The definition
+of the term business combination is sufficiently broad to cover virtually any kind of transaction that would allow a potential
+acquiror to use the corporation s assets to finance the acquisition or otherwise to benefit its own interests rather than the interests
+of the corporation and its other stockholders. 
+
+The effect of Nevada s business combination
+law is to potentially discourage parties interested in taking control of us from doing so if it cannot obtain the approval of our board
+of directors. 
+
+Because we do not intend to pay any cash dividends
+on our common stock, our stockholders will not be able to receive a return on their shares unless they sell them. 
+
+We intend to retain any future earnings to finance
+the development and expansion of our business. We do not anticipate paying any cash dividends on our common stock in the foreseeable future.
+Unless we pay dividends, our stockholders will not be able to receive a return on their shares unless they sell them. Stockholders may
+never be able to sell shares when desired. Before you invest in our securities, you should be aware that there are various risks. You
+should consider carefully these risk factors, together with all of the other information included in this annual report before you decide
+to purchase our securities. If any of the following risks and uncertainties develop into actual events, our business, financial condition
+or results of operations could be materially adversely affected. 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+None. 
+
+ITEM 2. PROPERTIES 
+
+We do not own any property. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+We are not currently involved in any legal proceedings
+and we are not aware of any pending or potential legal actions. 
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF
+SECURITY HOLDERS 
+
+No report required. 
+
+18 
+
+PART II 
+
+ITEM 5. MARKET FOR COMMON EQUITY AND RELATED
+STOCKHOLDER MATTERS 
+
+MARKET INFORMATION 
+
+As of August 31, 2021 the 7,622,415 issued and
+outstanding shares of common stock were held by a total of 62 shareholders of record. 
+
+DIVIDENDS 
+
+We have never paid or declared any dividends on
+our common stock and do not anticipate paying cash dividends in the foreseeable future. 
+
+SECURITIES AUTHORIZED FOR ISSUANCE UNDER EQUITY
+COMPENSATION PLANS 
+
+We currently do not have any equity compensation
+plans. 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+
+As a smaller reporting company, we are not required
+to provide the information called for by Item 6 of Form 10-K. 
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULT OF OPERATIONS 
+
+The following discussion should be read in conjunction
+with our financial statements, including the notes thereto, appearing elsewhere in this annual report. The following discussion contains
+forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ materially from
+those discussed in the forward looking statements. Factors that could cause or contribute to such differences include, but
+are not limited to those discussed below and elsewhere in this Annual Report. Our audited financial statements are stated in United
+States Dollars and are prepared in accordance with United States Generally Accepted Accounting Principles. 
+
+Overview 
+
+We are a corporation established under the corporation
+laws in the State of Nevada on May 19, 2016. The Company commenced operations in tourism. Temir Corp. was a travel agency that organized
+individual and group tours in Kyrgyzstan, such as cultural, recreational, sport, business, ecotours and other travel tours. The company s
+principal executive offices are located at 54 Frukovaya Street, Bishkek, Kyrgyzstan 720027. 
+
+On July 15, 2019, the Company s principal
+office relocated to Room 1204-06, 12/F, 69 Jervois Street, Sheung Wan, Hong Kong. On January 15, 2020, the Company s principal office
+has been relocated to Suite 1802-03, 18/F, Strand 50, 50 Bonham Strand, Sheung Wan, Hong Kong. The management of Temir Corp is planning
+to restructure the Company s business from travel agency to a Fintech Company with major business focusing on financials services
+and using the internet, mobile devices, software technology or cloud services to perform or connect with financial services. 
+
+19 
+
+JTI Group 
+
+On April 2, 2020, the Company entered into a Sale
+and Purchase Agreement, by and among the Company, JTI, a Hong Kong corporation, and the Vendor. 
+
+Under the terms and conditions of the Agreement
+(and supplemented by the Amendment, the Second Amendment and the Third Amendment), the Company offered, sold and will issue 4,118,182 shares
+of common stock in consideration for all the issued and outstanding shares in JTI. The effect of the issuance is that the Vendor now hold
+approximately 61.54 of the issued and outstanding shares of common stock of the Company. 
+
+Mr. Roy Chan, the founder of JTI, and Chairman
+of the board of directors is the holder of 629,350 shares of common stock of the Company prior to the Transaction. The Company s
+officers and directors, Mr. Roy Chan, Mr. Mark Yip and Mr. Brian Wong therefore, control an aggregate of 4,993,412 or 74.62 of the outstanding
+common stock of the Company, on a fully diluted basis, after the Transaction. 
+
+As a result of the agreement, JTI is now a wholly-owned
+subsidiary of the Company. 
+
+The transaction with JTI was treated as a reverse
+acquisition, with JTI as the acquirer and the Company as the acquired party. As a result of the controlling financial interest of
+the former stockholders of JTI, for financial statement reporting purposes, the merger between the Company and JTI was treated as a reverse
+acquisition, with JTI deemed the accounting acquirer and the Company deemed the accounting acquiree under the acquisition method of accounting
+in accordance with the Section 805-10-55 of the FASB Accounting Standards Codification. The reverse acquisition is deemed a capital transaction
+in substance whereas the assets and liabilities of JTI. (the accounting acquirer) are carried forward to the Company (the legal acquirer
+and the reporting entity) at their carrying value before the combination and the equity structure (the number and type of equity interests
+issued) of JTI is being retroactively restated using the exchange ratio established in the Share Purchase Agreement to reflect the number
+of shares of the Company issued to effect the acquisition. The number of common shares issued and outstanding and the amount recognized
+as issued equity interests in the consolidated financial statements is determined by adding the number of common shares deemed issued
+and the issued equity interests of JTI immediately prior to the business combination to the unredeemed shares and the fair value of the
+Company determined in accordance with the guidance in ASC Section 805-40-55 applicable to business combinations, i.e. the equity structure
+(the number and type of equity interests issued) in the consolidated financial statements immediately post combination reflects the equity
+structure of the Company, including the equity interests the legal acquirer issued to effect the combination. 
+
+JTI has four wholly owned operating subsidiaries,
+namely, JTI Finance Limited, Concept We Mortgage Broker Limited, JTI Property Agency Limited and JTI Asset Management Limited. On May
+17 2021, TEMIR CORP. incorporated Temir Logistics Industrial Park Limited, which is incorporated in Hong Kong and principally engaged
+in investment holding. The principal activities of JTI are provision of diversified financial services through its wholly owned subsidiaries
+incorporated in Hong Kong. 
+
+JF is a licensed money lender in Hong Kong, holding
+a money lender license no. 1662/2021 granted by the licensing court of Hong Kong. JF offers various types of loans including but not limited
+to personal loan, business loan, credit card consolidation loan and equity pledge loan to its customers in Hong Kong. 
+
+CW is one of the active mortgage brokers in Hong
+Kong. Its revenue is mainly derived from the referral fee from the banks and financial institutions for the mortgage referral. 
+
+JP is a licensed property agent in Hong Kong,
+holding an estate agent s license granted by Estate Agents Authority of Hong Kong. Its revenue is mainly derived from the commission
+provided by the landlord for facilitating the sales or lease of commercial properties. 
+
+JA is a consultancy services company. After the
+completion of the Agreement, JA is planning to apply for fund management licenses in Hong Kong or in other jurisdiction, aiming to provide
+fund management services globally. 
+
+20 
+
+Impact of COVID-19 
+
+The spread of the coronavirus COVID-19 around the world has caused significant business disruption in year 2020. In March 2020, the World Health Organization declared the outbreak
+of COVID-19 as a global pandemic, which continues to spread around the world. There is significant uncertainty around the breadth and
+duration of business disruptions related to COVID-19, as well as its impact on the Hong Kong s and global economy. While it is difficult
+to estimate the financial impact of COVID-19 on the Company s operations, management believes that COVID-19 could have a material
+impact on its financial results in years 2021 and 2022. 
+
+Results of operations 
+
+The following table sets forth key components of our results of operations
+for the years ended August 31, 2021 and 2020: 
+
+Year ended 
+
+August 31, 2021 
+ August 31, 2020 
+
+REVENUE 
+ 219,702 
+ 26,631 
+
+Cost of revenue 
+ (205,923 
+ (2,371 
+
+GROSS PROFIT 
+ 13,779 
+ 24,260 
+
+General and administrative expenses 
+ (283,315 
+ (299,474 
+
+LOSS FROM OPERATIONS 
+ (269,536 
+ (275,214 
+
+Other income 
+ 2,674 
+ 9,487 
+
+Loss before income tax 
+ (266,862 
+ (265,727 
+ 
+ Income tax credit (expense) 
+ - 
+ 634 
+
+NET LOSS 
+ (266,862 
+ (265,093 
+
+As of August 31, 2021, our accumulated deficit
+was 962,330. 
+
+Year ended August 31, 2021 compared to the
+year ended August 31, 2020 
+
+Revenue and cost of revenue 
+
+During the year ended August 31, 2021, the Company
+generated revenue of 219,702 compared to 26,631 for the year ended August 31, 2020. Cost of revenue was 205,923 for the year ended
+August 31, 2021 compared to 2,371 for the year ended August 31, 2020. Our agency revenues were 3,385 the year ended August 31, 2021
+while such revenue was 1,218 in 2020. On the other hand, mortgage referral fee income was 216,317 in the year ended August 31, 2021.
+We earned 25,413 mortgage referral fee in last year. Included in cost of revenue were referral fees of 1,523 and nil incurred in relation
+to our property agency business, while 204,400 and 2,371 incurred in relation to our mortgage referral services in 2021 and 2020 respectively. 
+
+General and administrative expenses 
+
+During the year ended August 31, 2021, we incurred
+ 283,315 general and administrative expenses compared to 299,474 for the year ended August 31, 2020. General and administrative expenses
+incurred generally related to corporate overhead, director fee, financial and administrative contracted services, such as legal and accounting
+and developmental costs. 
+
+Net loss 
+
+As a result of the cumulative effect of the factors
+described above, our net loss for the year ended August 31, 2021 was 266,862 compared to net loss of 265,093 for the year ended August
+31, 2020. 
+
+21 
+
+Going concern 
+
+Our consolidated financial statements have been
+prepared using the going concern basis of accounting, which contemplates the realization of assets and the satisfaction of liabilities
+in the normal course of business. 
+
+As of August 31, 2021, we have suffered recurring
+losses from operations, and record an accumulated deficit and a working capital deficit of 962,330 and 511,049, respectively. These
+conditions raise substantial doubt about our ability to continue as a going concern. The continuation of our company as a going concern
+is dependent upon improving our profitability and the continuing financial support from our shareholders or other debt or capital sources.
+Management believes the existing shareholders or external financing will provide the additional cash to meet our obligations as they become
+due. 
+
+The continuation of our company as a going concern
+is dependent upon improving its profitability and the continuing financial support from our shareholders or other debt or capital sources.
+Management believes the existing shareholders or external financing will provide the additional cash to meet our obligations as they become
+due. No assurance can be given that any future financing, if needed, will be available or, if available, that it will be on terms that
+are satisfactory to us. Even if we are able to obtain additional financing, if needed, it may contain undue restrictions on our operations,
+in the case of debt financing, or cause substantial dilution for our stock holders, in the case of equity financing. 
+
+In March 2020, the World Health Organization declared
+the outbreak of COVID-19 as a global pandemic, which continues to spread around the world. There is significant uncertainty around the
+breadth and duration of business disruptions related to COVID-19, as well as its impact on the Hong Kong s and global economy. While
+it is difficult to estimate the financial impact of COVID-19 on our operations, management believes that COVID-19 could have a material
+impact on our financial results at this time. 
+
+Our consolidated financial statements do not include
+any adjustments to reflect the possible future effects on the recoverability and classification of assets and liabilities that may result
+in our company not being able to continue as a going concern. 
+
+Segment Information 
+
+The following table set forth our results of operations
+by segments: 
+
+For the year ended August 31, 2021 
+ Money lending 
+ Property agency services 
+ Mortgage referral services 
+ Corporate unallocated 
+ Consolidated 
+
+Revenue 
+ - 
+ 3,385 
+ 216,317 
+ - 
+ 219,702 
+ 
+ Cost of revenue 
+ - 
+ (1,523 
+ (204,400 
+ - 
+ (205,923 
+ 
+ Gross profit 
+ - 
+ 1,862 
+ 11, 917 
+ - 
+ 13,779 
+ 
+ General and administrative expenses 
+ (82,704 
+ - 
+ (85,705 
+ (114,906 
+ (283,315 
+ 
+ Profit (loss) from operations 
+ (82,704 
+ 1,862 
+ (73,788 
+ (114,906 
+ (269,536 
+ 
+ Other income 
+ - 
+ - 
+ - 
+ 2,674 
+ 2,674 
+ 
+ Profit (loss) before income tax 
+ (82,704 
+ 1,862 
+ (73,788 
+ (112,232 
+ (266,862 
+ 
+ Income tax 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ Net profit (loss) 
+ (82,704 
+ 1,862 
+ (73,788 
+ (112,232 
+ (266,862 
+
+For the year ended August 31, 2020 
+ Money lending 
+ Property agency services 
+ Mortgage referral services 
+ Corporate unallocated 
+ Consolidated 
+
+Revenue 
+ - 
+ 1,218 
+ 25,413 
+ - 
+ 26,631 
+ 
+ Cost of revenue 
+ - 
+ - 
+ (2,371 
+ - 
+ (2,371 
+ 
+ Gross profit 
+ - 
+ 1,218 
+ 23,042 
+ - 
+ 24,260 
+ 
+ General and administrative expenses 
+ (133,368 
+ (283 
+ (4,230 
+ (161,593 
+ (299,474 
+ 
+ Profit (loss) from operations 
+ (133,368 
+ 935 
+ 18,812 
+ (161,593 
+ (275,214 
+ 
+ Other income 
+ 1,282 
+ - 
+ - 
+ 8,205 
+ 9,487 
+ 
+ Profit (loss) before income tax 
+ (132,086 
+ 935 
+ 18,812 
+ (153,388 
+ (265,727 
+ 
+ Income tax 
+ - 
+ 634 
+ - 
+ - 
+ 634 
+ 
+ Net profit (loss) 
+ (132,086 
+ 1,569 
+ 18,812 
+ (153,388 
+ (265,093 
+
+22 
+
+We do not allocate our assets located and expenses
+incurred outside Hong Kong to our reportable segments because these assets and activities are managed at a corporate level. 
+
+We primarily operate in Hong Kong. Substantially
+all our long-lived assets are located in Hong Kong. 
+
+Liquidity and capital resources 
+
+Working Capital 
+
+August 31, 
+
+2021 
+ 2020 
+ 
+ Cash and cash equivalents 
+ 9,727 
+ 2,580 
+ 
+ Total current assets 
+ 51,908 
+ 2,882 
+ 
+ Total assets 
+ 51,909 
+ 2,882 
+ 
+ Total liabilities 
+ 562,957 
+ 247,068 
+ 
+ Accumulated deficit 
+ 962,330 
+ 695,468 
+ 
+ Total deficit 
+ 511,048 
+ 244,186 
+
+The following table provides detailed information
+about our net cash flow for all financial statement periods presented in this report: 
+
+Year ended 
+
+August 31, 2021 
+ August 31, 2020 
+
+Net cash used in operating activities 
+ (124,791 
+ (234,138 
+ 
+ Net cash from investing activities 
+ - 
+ - 
+ 
+ Net cash provided by financing activities 
+ 131,938 
+ 226,466 
+
+Net increase (decrease) in cash and cash equivalents 
+ 7,147 
+ (7,672 
+ 
+ Cash and cash equivalents, beginning of year 
+ 2,580 
+ 10,252 
+ 
+ CASH AND CASH EQUIVALENTS, END OF YEAR 
+ 9,727 
+ 2,580 
+
+Cash Flows from Operating Activities 
+
+For the year ended August 31, 2021, net cash flows
+used in operating activities was 124,791 consisting primarily of net loss of 266,862 with increase of accounts receivable of 40,898,
+partially offset by increase of accounts payable, other payables and accrued liabilities of 66,276 and amount due to a related company
+of 118,056. For the year ended August 31, 2020, net cash flows used in operating activities was 234,137 consisting primarily of net
+loss of 265,093 partially offset by the decrease of accounts receivable of 3,298, decrease of prepaid expenses, deposits and other current
+assets of 16,410 and increase of accrued liabilities of 9,008. 
+
+Cash Flows from Investing Activities 
+
+Cash flows used in investing activities was nil
+during years ended August 31, 2021 and 2020. 
+
+Cash Flows from Financing Activities 
+
+Cash flows provided by financing activities during
+the year ended August 31, 2021 were 131,938, consisting of 393,334 advances from a shareholder and partially offset by 251,011 repayment
+to a shareholder and 10,385 repayment to a related company Cash flows provided by financing activities during the year ended August 31,
+2020 were 226,465, consisting of 661,643 advances from a shareholder and partially offset by 435,178 repayment to a shareholder. 
+
+23 
+
+Contractual Obligations and Commercial Commitments 
+
+We had the following contractual obligations and
+commercial commitments as of August 31, 2021: 
+
+Payment Due by Period 
+
+Total 
+ Less than 1 Year 
+ 1-3 Years 
+ 3-5 Years 
+ More than 5 Years 
+ 
+ Amount due to a shareholder 
+ 316,120 
+ - 
+ 316,120 
+ - 
+ - 
+ 
+ Amount due to a related company 
+ 163,988 
+ - 
+ 163,988 
+ - 
+ - 
+ 
+ Total 
+ 480,108 
+ - 
+ 480,108 
+ - 
+ - 
+
+We believe that our current cash and financing
+from our existing stockholders are adequate to support operations for at least the next 12 months. We may, however, in the future, require
+additional cash resources due to changed business conditions, implementation of our strategy to expand our business or other investments
+or acquisitions we may decide to pursue. If our own financial resources are insufficient to satisfy our capital requirements, we may seek
+to sell additional equity or debt securities or obtain additional credit facilities. The sale of additional equity securities could result
+in dilution to our stockholders. The incurrence of indebtedness would result in increased debt service obligations and could require us
+to agree to operating and financial covenants that would restrict our operations. Financing may not be available in amounts or on terms
+acceptable to us, if at all. Any failure by us to raise additional funds on terms favorable to us, or at all, could limit our ability
+to expand our business operations and could harm our overall business prospects. 
+
+Capital Expenditures 
+
+We did not incur any capital expenditures in the periods presented. 
+
+Inflation 
+
+Inflation and changing prices have not had a material
+effect on our business and we do not expect that inflation or changing prices will materially affect our business in the foreseeable future.
+However, our management will closely monitor price changes in our industry and continually maintain effective cost control in operations. 
+
+Off Balance Sheet Arrangements 
+
+We do not have any off balance sheet arrangements
+that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues
+or expenses, results of operations, liquidity or capital expenditures or capital resources that is material to an investor in our securities. 
+
+Seasonality 
+
+Our operating results and operating cash flows
+historically have not been subject to significant seasonal variations. This pattern may change, however, as a result of new market opportunities
+or new product introductions. 
+
+Critical Accounting Policies and Estimates 
+
+We regularly evaluate the accounting policies
+and estimates that we use to make budgetary and financial statement assumptions. A complete summary of these policies is included in the
+notes to our financial statements. In general, management s estimates are based on historical experience, on information from third
+party professionals, and on various other assumptions that are believed to be reasonable under the facts and circumstances. Actual results
+could differ from those estimates made by management. The discussion of our critical accounting policies contained in Note 2 to our consolidated
+financial statements, Summary of Significant Accounting Policies, is incorporated herein by reference. 
+
+Recent Accounting Pronouncements 
+
+For further information on recently issued accounting
+pronouncements, see Note 2 Summary of Significant Accounting Policies in the accompanying notes to consolidated financial statements
+included in Part II, Item 8, Financial Statements and Supplementary Data of this Annual Report on Form 10-K. 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not applicable. 
+
+24 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+Financial
+ Statements: 
+
+Report
+ of Independent Registered Public Accounting Firm 
+ 
+ F-2 
+ 
+ Consolidated
+ Balance Sheets as of August 31, 2021 and 2020 
+ 
+ F-4 
+ 
+ Consolidated
+ Statements of Comprehensive Loss for the years ended August 31, 2021 and 2020 
+ 
+ F-5 
+ 
+ Consolidated
+ Statements of Stockholders Equity (Deficit) for the years ended August 31, 2021 and 2020 
+ 
+ F-6 
+ 
+ Consolidated
+ Statements of Cash Flows for the years ended August 31, 2021and 2020 
+ 
+ F-7 
+ 
+ Notes
+ to Consolidated Financial Statements 
+ 
+ F-8 
+
+F- 1 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and Stockholders of 
+
+Temir
+Corp. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheets of Temir Corp. and its subsidiaries (the Company as of August
+31, 2021 and 2020, and the related consolidated statements of operations and comprehensive loss, changes in stockholders equity
+(deficit) and cash flows for each of the two years in the period ended August 31, 2021, and the related notes (collectively referred
+to as the consolidated financial statements ). In our opinion, the consolidated financial statements present fairly, in
+all material respects, the consolidated financial position of the Company as of August 31, 2021 and 2020, and the consolidated results
+of its operations and its cash flows for each of the two years in the period ended August 31, 2021, in conformity with accounting principles
+generally accepted in the United States. 
+
+Consideration
+of the Company s Ability to Continue as a Going Concern 
+
+The
+accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern. As discussed
+in Note 2 to the consolidated financial statements, the Company has suffered recurring losses from
+operations, and recorded an accumulated deficit as of August 31, 2021, and the Company currently has net working capital deficit. These
+conditions raise substantial doubt about the Company s ability to continue as a going concern. Management s
+plans in regard to these matters are also described in Note 2. These consolidated financial statements do not include any adjustments
+that might result from the outcome of this uncertainty. 
+
+Basis
+for Opinion 
+
+These
+consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion
+on the Company s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public
+Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company
+in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission
+and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether
+due to error fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles
+used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe
+that our audits provide a reasonable basis for our opinion. 
+
+F- 2 
+
+Critical Audit Matters 
+
+The critical audit matters communicated below
+are matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated
+to the audit committee and that: (i) relate to accounts or disclosures that are material to the consolidated financial statements and
+(ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not
+alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical
+audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+Basis of Presentation and Going Concern 
+Disclosure 
+
+The accompanying consolidated financial statements
+have been prepared assuming that the Company will continue as a going concern. As discussed in Note 2 to the consolidated financial statements,
+the Company has suffered recurring losses from operations, and recorded an accumulated deficit as of August 31, 2021, and the Company
+currently has net working capital deficit. Currently management s forecasts and related assumptions illustrate their ability to
+meet the obligations through management of expenditures and, if necessary, obtaining additional debt financing, loans from existing directors
+and shareholders and private placements of capital stock for additional funding to meet its operating needs. Should there be constraints
+on the ability to access such financing, the Company can manage cash outflows to meet the obligations through reductions in capital expenditures
+and other operating expenditures. 
+
+We identified management s assessment of
+the Company s ability to continue as a going concern as a critical audit matter. Management made judgments to conclude that it is
+probable that the Company s plans will be effectively implemented and will provide the necessary cash flows to fund the Company s
+obligations as they become due. Specifically, the judgments with the highest degree of impact and subjectivity in determining it is probable
+that the Company s plans will be effectively implemented included its ability to reduce capital expenditures and other operating
+expenditures, its ability to access funding from the capital market and its ability to obtaining loans from existing directors and shareholders.
+Auditing the judgments made by management required a high degree of auditor judgment, subjectivity and effort in performing procedures
+and evaluating the relevant audit evidence. 
+
+Addressing the matter involved performing procedures
+and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures
+included the following, among others: (i) evaluating the probability that the Company will be able to access funding from the capital
+market (ii) evaluating the probability that the Company will be able to reduce capital expenditures and other operating expenditures
+if required (iii) evaluating the probability that the Company will be able to obtain the loan from existing directors and shareholders
+and (iv) assessing the adequacy of the Company s going concern disclosures included in Note 2 to the consolidated financial statements. 
+
+/s/ Centurion ZD CPA Co. 
+
+Centurion ZD CPA Co. 
+
+We have served as the Company s auditor since 2020. 
+
+Hong
+ Kong, China 
+
+December
+ 14, 2021 
+
+F- 3 
+
+TEMIR
+CORP. 
+CONSOLIDATED BALANCE SHEETS 
+As of August 31, 2021 and 2020 
+(In U.S. dollars) 
+
+August 31, 
+
+2021 
+ 2020 
+
+CURRENT ASSETS 
+
+Cash 
+
+Accounts receivable, net of nil provision for doubtful accounts 
+ 
+ -
+
+Tax recoverable 
+ 
+ -
+
+Prepaid expenses, deposits and other current assets 
+
+Total current assets 
+
+NON-CURRENT ASSETS 
+
+Non-marketable equity securities 
+ 
+ - 
+
+TOTAL ASSETS 
+
+CURRENT LIABILITIES 
+
+Accounts payable, other payables and accrued liabilities 
+
+Tax payable 
+ -
+
+Amount due to a related company 
+
+Amount due to a shareholder 
+
+Total liabilities 
+
+STOCKHOLDERS DEFICIT 
+
+Common stock, par value shares authorized; shares issued and outstanding as of August 31, 2021 and 2020 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+TOAL STOCKHOLDERS DEFICIT 
+
+TOTAL LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 4 
+
+TEMIR
+CORP. 
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS 
+For the Years Ended August 31, 2021 and 2020 
+(In U.S. dollars) 
+
+Year ended 
+
+August 31, 
+2021 
+ August 31, 
+2020 
+
+REVENUE 
+
+Cost of revenue 
+
+GROSS PROFIT 
+
+General and administrative expenses 
+
+LOSS FROM OPERATIONS 
+
+Other income 
+
+LOSS BEFORE INCOME TAX 
+
+Income tax credit 
+ - 
+
+NET LOSS AND TOTAL COMPREHENSIVE LOSS FOR THE YEAR 
+
+Loss per common share: 
+
+Basic and diluted 
+
+Weighted Average Number of Common Shares Outstanding: 
+
+Basic and diluted 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 5 
+
+TEMIR
+CORP. 
+CONSOLDIATED STATEMENTS OF STOCKHOLDERS DEFICIT 
+For the Years Ended August 31, 2021 and 2020 
+ (In U.S. dollars) 
+
+Number of 
+Common 
+shares 
+ Amount 
+ Additional 
+Paid-in 
+Capital 
+ Accumulated 
+Deficit 
+ Total 
+Stockholders 
+Deficit 
+
+Balance as of September 1, 2019 
+
+Net loss 
+ - 
+ -
+ 
+ -
+
+Balance as of August 31, 2020 
+
+Net loss 
+ - 
+ -
+ 
+ -
+
+Shares issued for acquisition of non-marketable equity securities (notes 1 and 9) 
+
+-
+
+Shares to be canceled (notes 1 and 9) 
+
+-
+
+Balance as of August 31, 2021 
+
+The accompanying notes are an integral part of these financial statements. 
+
+F- 6 
+
+TEMIR
+CORP. 
+CONSOLDIATED STATEMENTS OF CASH FLOWS 
+For the Years Ended August 31, 2021 and 2020 
+(In U.S. dollars) 
+
+Year ended 
+ Year ended 
+
+August 31, 
+ 2021 
+ August 31, 
+ 2020 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net loss 
+
+Change in operating assets and liabilities 
+
+Loans receivable 
+ -
+
+Account receivable 
+
+Prepaid expenses, deposits and other current assets 
+ -
+
+Accounts payable, other payables and accrued liabilities 
+
+Amount due to a related company 
+ 
+ -
+
+Tax payable 
+
+Net cash used in operating activities 
+
+CASH FLOWS FROM FINANCING ACITIVITIES 
+
+Advances from a shareholder 
+
+Repayment to a shareholder 
+
+Repayment to a related company 
+ 
+ -
+
+Net cash provided by financing activities 
+
+Net increase (decrease) in cash and cash equivalents 
+
+Cash and cash equivalents, beginning of year 
+
+CASH AND CASH EQUIVALENTS, END OF YEAR 
+
+SUPPLEMENTAL CASH FLOWS INFORMATION 
+
+Investment in non-marketable equity securities 
+ 
+ -
+
+Income tax paid 
+ - 
+ -
+
+Issuance and cancellation of common stock 
+
+NON-CASH INVESTING ACTIVITIES 
+
+- Deposit paid for acquisition of non-marketable equity securities (notes 1 and 9) 
+ 
+ - 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 7 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+, which would be satisfied by the allotment and issuance of the shares of the Company.. 
+
+shares of common stock of the Company as consideration shares (the
+ Consideration Shares at the issue price of per Consideration Share for the acquisition of all the issued share capital
+of JTI. 
+
+. 
+
+shares of common stock of the Company prior to the Transaction. 
+
+Consideration
+Shares, Vendor holds issued and outstanding shares of Temir and collectively with Mr. Roy Chan and Mr. Chan Hip Fong (father of
+Mr Roy Chan) together hold issued and outstanding shares of Temir. 
+
+shares of the Company at a price of per share, valued at or in exchange
+of shareholding in Bac Giang International Logistics Co., Ltd. Bac Giang is a company incorporated in the Socialist Republic of Vietnam,
+the principal business of which is to build and run a modern international logistics park in Bac Giang Province, Vietnam. shares
+of the Company were issued to the nominee of Hainan on June 8, 2021. Based on the SPA, shares were issued within one month from
+the signing date of SPA. The transfer of shares of Bac Giang will be completed within years from the date of SPA. 
+
+F- 8 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+shares issued to the nominee. shares were cancelled
+on September 16, 2021. 
+
+(HK ), representing a shareholding of
+eDDA. eDDA has not commenced operations as of the date of approval of these financial statements. . 
+
+ordinary share at HK to Mr. Roy Kong Hoi Chan. On March
+20, 2019, JTI issued shares of the Company to Ace Vantage Investments Limited Ace Vantage at a total cash consideration
+of HK ), resulting a total share capital of shares at HK ). Ace Vantage was 
+owned by Mr. Roy Kong Hoi Chan and owned by Mr. Chan Hip Fong, father of Mr. Roy Kong Hoi Chan. The Company is owned and controlled
+by the same control group as JF, CW, JP and JA. On March 29, 2019, the beneficial shareholders of JF, CW, JP and JA exchanged of
+their shareholding of JF, CW, JP and JA for the shares of the Company (the Share Exchange ). The Share Exchange has been
+accounted for as a common control transaction. Other than its ownership of JF, CW, JP and JA, JTI has no significant assets and no
+other business operations. 
+
+ordinary share to Ace Vantage at HK .
+On March 29, 2019, Ace Vantage transferred of their shareholding of JF to JTI. 
+
+ordinary shares to Century Crown
+Investment Limited at HK each. Century Crown Investment Limited was incorporated in Hong Kong, China and held by Ace Vantage. On
+March 29, 2019, Century Crown Investment Limited transferred of their shareholding of CW to JTI. 
+
+ordinary share to Ace Vantage at HK .
+On March 29, 2019, Ace Vantage transferred of their shareholding of JP to JTI. 
+
+ordinary share to Ace Vantage at HK . On March
+29, 2019, Ace Vantage transferred of their shareholding of JA to JTI 
+
+F- 9 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+and ,
+respectively. These conditions raise substantial doubt about the Company s ability to continue as a going concern .
+The continuation of the Company as a going concern is dependent upon improving its profitability and the continuing financial support
+from its shareholders or other debt or capital sources. Management believes the existing shareholders or external financing will provide
+the additional cash to meet the Company s obligations as they become due. 
+
+F- 10 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+F- 11 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+Mortgage referral services 
+
+F- 12 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+F- 13 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+F- 14 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+Weighted average number of common shares outstanding - Basic and diluted 
+
+Net loss per share - Basic and diluted 
+
+F- 15 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+F- 16 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+F- 17 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+as of August 31, 2021 and 2020. The balance represented utility deposits paid. 
+
+(HK ), representing
+a shareholding of eDDA. eDDA has not commenced operations as of the date of approval of these financial statements 
+
+Accrued expenses 
+
+Deferred income tax benefit 
+ -
+ 
+ -
+
+Income tax credit 
+ -
+
+, effective January 1, 2018. No provision for income taxes
+in the United States has been made as the Company had no taxable income for the years ended August 31, 2021 and 2020. 
+
+on estimated assessable profit derived from
+their activities conducted in Hong Kong subject to a waiver of of the profits tax under a cap of (HK ). 
+
+F- 18 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+Statutory income tax rate 
+
+Income tax credit computed at statutory income tax rate 
+
+Reconciling items: 
+
+Rate differential in different tax jurisdictions 
+
+Non-deductible expenses 
+
+Tax effect of tax relief 
+
+Tax effect of utilization of tax losses 
+ -
+
+Over-provision of income tax in prior year 
+ - 
+
+Valuation allowance on deferred tax assets 
+
+Income tax (credit) expenses 
+ - 
+
+and as of August 31, 2021 and 2020, respectively, available for offset
+against future profits, may be carried forward indefinitely. Management believes it is more likely than not that the Company will not
+realize these potential tax benefits as these operations will not generate operating profits in the foreseeable future. As a result,
+a valuation allowance was provided against the full amount of the potential tax benefits. 
+
+Valuation allowance 
+
+-
+ 
+ -
+
+Amount due to a related company 
+
+Century Crown Investments Limited 
+ (a) 
+
+- Other payable 
+
+- Rental payable 
+ (b) 
+ 
+ -
+
+(a) (c) 
+
+F- 19 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+shareholder of Century Crown Investments Limited. Century Crown Investments Limited is a wholly-owned subsidiary of Ace Vantage Investments Limited. 
+
+per month. For the years ended August 31, 2021 and 2020, the Company recorded and nil rental expenses to Century Crown Investments Limited, respectively. 
+
+per month. 
+
+(HK and nil to Mr. Roy Kong Hoi Chan as director fee
+of JTI Property Agency Limited, respectively. 
+
+(HK to Mr. Roy Kong Hoi Chan as director fee
+of JTI Finance Limited, respectively, and nil and (HK to Mr. Chan Hip Fong as director fee of JTI Asset Management Limited. 
+
+(HK and (HK services fees to High Flyers
+Info Limited, respectively. The executive director of the Company, Mark Ko Chiu Yip was a director of High Flyers Info Limited for the
+period from May 7, 2020 to September 15, 2020. 
+
+and as of August 31, 2021 and 2020, respectively, were payable to High Flyers Info Limited. 
+
+-
+
+Cost of revenue 
+ -
+
+-
+
+Gross profit 
+ -
+
+-
+
+General and administrative expense 
+ 
+ -
+
+Profit (loss) from operations 
+
+Other income 
+ -
+ 
+ -
+ 
+ -
+
+Profit (loss) before income tax 
+
+Income tax 
+ -
+ 
+ -
+ 
+ -
+ 
+ -
+ 
+ -
+
+Net profit (loss) 
+
+As of August 31, 2021 
+
+Total assets 
+
+F- 20 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+-
+
+Cost of revenue 
+ -
+ 
+ -
+
+-
+
+Gross profit 
+ -
+
+-
+
+General and administrative expense 
+
+Profit (Loss) from operations 
+
+Other income 
+ 
+ -
+ 
+ -
+
+Profit (Loss) before income tax 
+
+Income tax 
+ -
+
+-
+ 
+ -
+
+Net profit (loss) 
+
+As of August 31, 2020 
+
+Total assets 
+
+shares of common stock
+with a par value of per share. 
+
+shares of the Company at a price of 
+per share, valued at or in exchange of shareholding in Bac Giang International Logistics Co., Ltd. Bac Giang is a company
+incorporated in the Socialist Republic of Vietnam, the principal business of which is to build and run a modern international logistics
+park in Bac Giang Province, Vietnam. shares of the Company were issued to the nominee of Hainan on June 8, 2021. Based on the
+SPA, shares were issued within one month from the signing date of SPA. The transfer of shares of Bac Giang will be completed
+within years from the date of SPA. 
+
+shares issued to the nominee.
+ shares were cancelled on September 16, 2021 
+
+and nil for the years ended August 31, 2021 and 2020, respectively. 
+
+For the year ended August 31, 2021, the Company recorded 
+rental payable to Century Crown Investments Limited. 
+
+payable in the twelve
+months ending August 31, 2022. 
+
+F- 21 
+
+TEMIR
+CORP. 
+
+NOTES
+TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+
+FOR
+THE YEARS ENDED AUGUST 31, 2021 AND 2020 
+
+(In
+U.S. dollars) 
+
+customer accounted for all of the Company s income from property agency services for the year ended August 31, 2021 and 2020. 
+
+customers accounted for , , and of the Company s income from mortgage referral services for the year ended
+August 31, 2021. customers accounted for all , , and of the Company s income from mortgage referral services
+for the year ended August 31, 2020. 
+
+customers accounted for and of the Company s accounts receivable as of August 31, 2021. There was no accounts receivable
+as of August 31, 2020. 
+
+suppliers accounted for and of the Company s cost of revenue for the year ended August 31, 2021. supplier accounted
+for of the Company s cost of revenue for the year ended August 31, 2020. 
+
+suppliers accounted for and of the Company s accounts payable as of August 31, 2021 and supplier accounted for
+all of the Company s accounts payable as of August 31, 2020. 
+
+F- 22 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS
+ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+On January 14, 2020, the Board of directors
+of the Company decided to terminate the appointment of Michael Gillespie Associates, PLLC as the auditor of the Company and appointed
+Centurion ZD CPA Co as our independent registered public accounting firm, effective immediately. 
+
+The disclosure required under this section was
+previously reported as such term is defined in Rule 12b-2 under the Securities Exchange Act of 1934, as amended, on a current report on
+Form 8-K filed with the Securities and Exchange Commission on January 15, 2020. 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure Controls and Procedures 
+
+We maintain disclosure controls and procedures,
+as defined in Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934 (the Exchange Act ), that are designed
+to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed,
+summarized and reported within the time periods specified in the Securities and Exchange Commission s rules and forms and that such
+information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate
+to allow timely decisions regarding required disclosure. In designing and evaluating our disclosure controls and procedures, management
+recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving
+the desired control objectives, and management is required to apply its judgment in evaluating and implementing possible controls and
+procedures. 
+
+Management conducted its evaluation of disclosure
+controls and procedures under the supervision of our Chief Executive Officer and our Interim Chief Financial Officer. Based upon, and
+as of the date of this evaluation, our Chief Executive Officer and Interim Chief Financial Officer concluded that our disclosure controls
+and procedures were not effective as of August 31, 2021 due to the material weaknesses in our internal control over financial reporting,
+which are described below. 
+
+Management s Report on Internal Control
+Over Financial Reporting 
+
+Management is responsible for establishing and
+maintaining adequate internal control over financial reporting, as defined in Exchange Act Rule 13a-15(f). The Company s internal
+control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance with accounting principles generally accepted in the United
+States of America. 
+
+Because of its inherent limitations, internal
+control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future
+periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance
+with the policies or procedures may deteriorate. 
+
+Under the supervision and with the participation
+of management, including the Chief Executive Officer and Interim Chief Financial Officer, the Company conducted an evaluation of the effectiveness
+of the Company s internal control over financial reporting as of August 31, 2021, using the criteria established in Internal
+Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO (2013 framework). 
+
+A material weakness is a deficiency, or combination
+of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement
+of the Company s annual or interim financial statements will not be prevented or detected on a timely basis. 
+
+25 
+
+Based on our assessment, as a result of the material
+weaknesses described below, our Chief Executive Officer and Chief Financial Officer determined that, as of August 31, 2021, our internal
+control over financial reporting was not effective because of the following material weaknesses in our internal control over financial
+reporting has been identified. 
+
+1. 
+ We do not have an Audit Committee While not being legally obligated to have an audit committee, it is the management s view that such a committee, including a financial expert member, is of the utmost importance for entity-level control over the Company s financial statement. Currently, the Board of Directors acts in the capacity of the Audit Committee. 
+
+2. 
+ We currently lack sufficient accounting personnel with the appropriate level of knowledge, experience and training in U.S. GAAP and SEC reporting requirements. 
+
+3. 
+ We did not maintain appropriate cash controls As of August 31, 2021, the Company had not maintained sufficient internal controls over financial reporting for the cash process, including failure to segregate cash handling and accounting functions. However, the Company maintained controls on dual signature on the Company s bank accounts. However, the effects of poor cash controls were mitigated in part by the fact that the Company had limited transactions in their bank accounts. 
+
+4. 
+ We did not implement appropriate information technology controls As of August 31, 2021, the Company was retaining copies of all financial data and material agreements; however there is no formal procedure or evidence of normal backup of the Company s data or off-site storage of the data in the event of theft, misplacement, or loss due to unmitigated factors. 
+
+Notwithstanding these material weaknesses, however,
+management has concluded that the consolidated financial statements included in this Annual Report present fairly, in all material respects,
+our financial position, results of operations and cash flows for the periods presented in conformity with U.S. GAAP. 
+
+Continuing Remediation Efforts to address
+deficiencies in Company s Internal Control over Financial Reporting 
+
+We plan to take steps to remediate these material
+weaknesses as soon as practicable by implementing a plan to improve our internal control over financial reporting including, but not limited
+to: 
+
+- 
+ Create a position to segregate duties consistent with control objectives and increase our personnel resources and technical accounting expertise within the accounting function when funds are available to us. 
+
+- 
+ Prepare written policies and procedures for accounting and financial reporting to establish a formal process to close our books monthly on an accrual basis and account for all transactions, including equity and debt transactions, in a timely manner. 
+
+- 
+ Add staff members to our management team to make sure that information required to be disclosed in our reports filed and submitted under the Exchange Act is recorded, processed, summarized and reported as and when required and the staff members will have segregated responsibilities with regard to these responsibilities. 
+
+Changes in Internal Control over Financial
+Reporting 
+
+Except for
+the matters described above, there were no changes in our internal controls over financial reporting during the fourth quarter of our
+fiscal year ended August 31, 2021 that have materially affected, or are reasonably likely to materially affect, our internal control over
+financial reporting. 
+
+This Annual Report does not include an attestation
+report of the Company s registered public accounting firm regarding internal control over financial reporting. Management s
+report was not subject to attestation by the Company s registered public accounting firm pursuant to the rules of the SEC that permit
+the Company to provide only management s report in this annual report. 
+
+ITEM 9B. OTHER INFORMATION 
+
+None. 
+
+ITEM 9C. DISCLOSURE REGARDING FOREIGN JURISDICTIONS
+THAT PREVENT INSPECTIONS 
+
+None. 
+
+26 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, PROMOTERS
+AND CONTROL PERSONS OF THE COMPANY 
+
+Name of Executive Officer and/or Director 
+ Age 
+ Position 
+ 
+ Roy Kong Hoi Chan 
+ 43 
+ Executive director and President 
+ 
+ Alex Kwok Fai Yuen 
+ 42 
+ Executive director and Secretary 
+ 
+ Mark Ko Chiu Yip 
+ 39 
+ Executive director 
+ 
+ Bon Pok Yin Cheung 
+ 43 
+ Independent non-executive director 
+ 
+ Alan Yuk Lun Wong 
+ 47 
+ Independent non-executive director 
+ 
+ Siu Nam Hau 
+ 50 
+ Independent non-executive director 
+ 
+ Brian Hung Ngok Wong 
+ 55 
+ Chief Executive Officer 
+ 
+ Brian Kong Wai Chan 
+ 41 
+ Chief Financial Officer 
+
+Roy Chan appointed as our President
+on July 15, 2019. Roy is the founder of JTI Securities Limited and JTI Financial Services Group Limited. He has held senior management
+roles of JTI since 2011. Prior to joining JTI group, He has over 10 years working experience in banking and finance sectors. 
+
+Alex Yuen appointed as our executive
+director on July 15, 2019. Alex is a sole owner of professional consultancy firm which provide corporate advisory services. He started
+his career at Deloitte Touche Tohmatsu and has been focusing on risk management and regulatory compliance for more than 10 years. Alex
+is an expert in corporate governance, anti-money laundering and regulatory compliance. Others than Deloitte, he worked at different financial
+institutions as compliance and risk experts, including asset management firms, securities brokerage firms, private banks and investment
+banks. 
+
+Mark Yip appointed as our independent
+non-executive director on July 15, 2019 and re-designated as executive director on September 26, 2019. He was the general manager of Cybernetics
+Property Mortgage Limited since 2013. Mark is a specialist on mortgage and personal loan consulting services with over 11 years 
+experience. Mark has good business relationship with banks and property agencies in Hong Kong. Before he took the senior management role
+in Cybernetics, he held executive position in mReferral Corporation (HK) Limited. 
+
+Bon Cheung appointed as our non-executive
+director on July 15, 2019. He is the founder and principal solicitor of Messrs. P. Y. Cheung Co., a law firm in Hong Kong focusing
+on commercial company law and civil criminal litigations. Bon admitted to practice as a solicitor in Hong Kong in 2014. Other
+than being a legal practitioner, He was a software engineer with experience on computer software programming, computer system design and
+project management. 
+
+Alan Wong appointed as our non-executive
+director on July 15, 2019. He is an independent non-executive director of each of TUS International Limited, Huisheng International Holding
+Limited and Tech Pro Technology Development Limited, all of which are companies listed on The Stock Exchange of Hong Kong Limited. Alan
+had been working with various accounting firms and commercial companies for about 20 years of working experience and was responsible for
+works related to financial management, taxation, audit and non-audit services. 
+
+Siu Nam Hau appointed as our non-executive
+director on September 26, 2019. Hau was educated in Hong Kong with over 20 years of experience in finance, direct investment and provision
+of consultancy services for large multinational companies. At present, he is developing the Vietnamese market. Over
+the past years, Hau has completed the following projects associated with Vietnam: (i) joined with Sumitomo Corporation and introduce Honda
+motorcycles to Vietnam; (ii) discussed with the chief of the Central Bank of Vietnam to explore the establishment of the Vietnam Stock
+Exchange; (iii) assisted JP Morgan to establish a Vietnamese bond market; (iv) established an office with the state-owned Beijing Foreign
+Trade in Ho Chi Minh City; (v) acquisition of Vietnam Pacific Airlines with AVIC Group. 
+
+Brian Wong appointed as our chief
+executive officer on July 15, 2019. He is the director and chief financial officer of Murchison Holdings Limited and Quest Investments
+Limited. Brian has held senior management roles of Quest and Murchison since 2004. Brian has over 30 years working experience in
+banking, equities market and corporate finance including at Hang Seng Bank Limited and Citibank Investment Banking Group. 
+
+27 
+
+Brian Chan appointed as our chief
+financial officer on July 15, 2019. He is the brother of Roy Chan, the Co-founder of JTI Financial Services Group Limited. Brian has held
+senior role of the Group since 2011. Before joining JTI Group, Brian has over 10 years working experience in renowned certified
+public accounting firm as companies auditors. 
+
+During the past ten years, all directors and executive
+officers have not been the subject to any of the following events: 
+
+1. Any bankruptcy petition
+filed by or against any business of which all directors or executive officer either at the time of the bankruptcy or within two years
+prior to that time. 
+
+2. Any conviction in a criminal
+proceeding or being subject to a pending criminal proceeding. 
+
+3. An order, judgment, or
+decree, not subsequently reversed, suspended or vacated, or any court of competent jurisdiction, permanently or temporarily enjoining,
+barring, suspending or otherwise limiting all directors involvement in any type of business, securities or banking activities. 
+
+4. Found by a court of competent
+jurisdiction (in a civil action), the Securities and Exchange Commission or the Commodity Future Trading Commission to have violated a
+federal or state securities or commodities law, and the judgment has not been reversed, suspended or vacated. 
+
+5. Was the subject of any
+order, judgment or decree, not subsequently reversed, suspended or vacated, of any Federal or State authority barring, suspending or otherwise
+limiting for more than 60 days the right to engage in any activity described in paragraph (f)(3)(i) of this section, or to be associated
+with persons engaged in any such activity; 
+
+6. Was found by a court of
+competent jurisdiction in a civil action or by the Commission to have violated any Federal or State securities law, and the judgment in
+such civil action or finding by the Commission has not been subsequently reversed, suspended, or vacated; 
+
+7. Was the subject of, or
+a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended
+or vacated, relating to an alleged violation of: 
+
+i. 
+ Any Federal or State securities or commodities law or regulation; or 
+
+ii. 
+ Any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order; or 
+
+iii. 
+ Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+
+8. Was the subject of, or
+a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in
+Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange
+Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members
+or persons associated with a member. 
+
+Code of Ethics 
+
+Because the Company has a small number of persons
+serving as directors and executive officers, we have not adopted a code of ethics for our principal executive and financial officers.
+Our Board will revisit this issue in the future to determine if, and when, adoption of a code of ethics is appropriate. In the meantime,
+our management intends to promote honest and ethical conduct, full and fair disclosure in our reports to the SEC, and comply with applicable
+governmental laws and regulations. 
+
+Section 16(a) Beneficial Ownership Reporting Compliance 
+
+Section 16(a) of the Securities Exchange Act of
+1934, requires our directors, executive officers and persons who own more than 10 of our common stock to file with the SEC initial reports
+of ownership and reports of changes in ownership of common stock and other of our equity securities. No officer or director was delinquent
+in filing reports pursuant to Section 16(a). 
+
+28 
+
+COMMITTEE 
+
+We do not have an audit committee financial expert.
+We do not have an audit committee financial expert because we believe the cost related to retaining a financial expert at this time is
+prohibitive. 
+
+SIGNIFICANT EMPLOYEES 
+
+Other than our directors and executive officers,
+we do not expect any other individuals to make a significant contribution to our business. 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+The following tables set forth certain information
+about compensation paid, earned or accrued for services by our Executive Officer for the years ended August 31, 2021 and August 31, 2020: 
+
+Summary Compensation Table 
+
+Name and Principal Position 
+ Year 
+ Salary ) 
+ Fee ) 
+ Stock Awards ) 
+ Option Awards ) 
+ Non-Equity Incentive Plan Compensation ) 
+ Nonqualified Deferred Compensation ) 
+ All Other Compensation ) 
+ Total ) 
+
+Roy Kong Hoi Chan, 
+ 2021 
+ - 
+ 61,538 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ 61,538 
+ 
+ President (1) 
+ 2020 
+ - 
+ 123,077 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ -0- 
+ 123,077 
+
+(1) 
+ On July 6, 2020, we acquired JTI in a reverse acquisition transaction that was structured as a share exchange. The annual, long term and other compensation shown in this table include the amounts that received from JTI and / or its subsidiaries prior to the consummation of the reverse acquisition. 
+
+There has been no compensation awarded to, earned
+by, or paid to the executive officers by any person for services rendered in all capacities to us for the fiscal period ended August 31,
+2021 and 2020 except for the above, and through the date of filing of this Annual Report. 
+
+Option Grants 
+
+There has been no stock option grants and compensation
+for the fiscal year ended August 31, 2021 and 2020. 
+
+Option Exercises and Fiscal Year-End Option
+Value Table 
+
+There were no stock options exercised by the named
+executive officers as of the end of the fiscal period ended August 31, 2021 and 2020. 
+
+Long-Term Incentive Plans and Awards 
+
+There were no awards made to a named executive
+officer, under any long-term incentive plan, as of the end of the fiscal period ended August 31, 2021 and 2020. 
+
+Other Compensation 
+
+There are no annuity, pension or retirement benefits
+proposed to be paid to officers, directors, or employees of our company in the event of retirement at normal retirement date as there
+was no existing plan as of the end of the fiscal year ended August 31, 2021 and 2020, and through the date of filing of this Form 8-K,
+provided for or contributed to by our company. 
+
+29 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The following table sets forth information as
+of December 9, 2021 regarding the ownership of our common stock by each shareholder known by us to be the beneficial owner of more than
+five percent of our outstanding shares of common stock, each director and all executive officers and directors as a group. Except as otherwise
+indicated, each of the shareholders has sole voting and investment power with respect to the shares of common stock beneficially owned. 
+
+Name and Address of Beneficial Owner (5) 
+ Amount and Nature of Beneficial Ownership 
+ Percentage of 
+Common Stock (1) 
+ 
+ Roy Kong Hoi Chan (2 6) 
+ 629,350 
+ 9.40 
+ 
+ Brian Hung Ngok Wong (3) 
+ 244,630 
+ 3.66 
+ 
+ Mark Ko Chiu Yip (4) 
+ 1,250 
+
+All officers and directors as a group (3 persons named above) 
+ 875,230 
+ 13.08 
+
+Ace Vantage Investments Limited (6) 
+ 4,118,182 
+ 61.54 
+ 
+ Total 
+ 4,993,412 
+ 74.62 
+
+Denotes
+less than 1 of the outstanding shares of Common Stock. 
+
+Notes: 
+
+(1) After
+completion of the acquisition of JTI, acquisition of Bac Giang and termination of Bac Giang, we had 6,692,182 shares of common stock
+outstanding. 
+
+(2) Appointed
+President, director and Chairman of the Board of Directors, on July 15, 2019. 
+
+(3) Appointed
+Chief Executive Officer on July 15, 2019. 
+
+(4) Appointed
+director on July 15, 2019. 
+
+(5) Unless
+otherwise noted, the address of each person listed is c/o JTI, Suite 1802-03, 18/F, Strand 50, 50 Bonham Strand, Sheung Wan, Hong Kong. 
+
+(6) Roy
+Kong Hoi Chan Hip Fong Chan each owns 50 equity interest of Ace Vantage Investments Limited. Roy Kong Hoi Chan is the son of Hip
+Fong Chan. 
+
+ITEM 13. CERTAIN RELATIONSHIPS, RELATED TRANSACTIONS AND DIRECTOR
+INDEPENDENCE 
+
+For the year ended August 31, 2021, we recorded
+ 137,465 (HK 1,072,224) services fees to High Flyers Info Limited, which our executive director Mark Ko Chiu Yip was a director of High
+Flyers Info Limited for the period from May 7, 2020 to September 15, 2020. For the year ended August 31, 2020, we paid 2,371 (HK 18,494)
+services fees to High Flyers Info Limited. 
+
+Board Independence 
+
+As of the date of this Annual Report, Bon Pok
+Yin Cheung, Alan Yuk Lun Wong and Siu Nam Hau are the only directors of the Company who are independent under the independence requirements
+of Rule 10A-3 promulgated under the Securities Exchange Act of 1934. This rule defines persons as independent who are neither
+officers nor employees of the company and have no relationships that, in the opinion of the Board, would interfere with the exercise of
+independent judgment in carrying out their responsibilities as directors. 
+
+30 
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+The following table represents fees billed for
+each of the last two fiscal years for professional audit services rendered by our independent registered public accounting firm: 
+
+2021 
+ 2020 
+
+Audit fees (1) 
+ 64,000 
+ 99,000 
+ 
+ Audit-related fees 
+ - 
+ - 
+ 
+ Tax fees 
+ - 
+ - 
+ 
+ All other fees 
+ - 
+ - 
+ 
+ Total 
+ 64,000 
+ 99,000 
+
+(1) Audit Fees consisted of the aggregate fees billed
+for professional services rendered for the audit of our annual financial statements and the reviews of the financial statements included
+in our Forms 10-Q and for any other services that were normally provided in connection with our statutory and regulatory filings or engagements. 
+
+The audit fees of 64,000 and 99,000 for the years ended August 31, 2021 and August 31, 2020 respectively was billed by Centurion ZD CPA Co., our current independent registered public accounting firm, for professional services rendered for the integrated audits and review of our financial statements. 
+
+Audit-related fees 
+
+There were no fees were billed or incurred for
+assurance or related services by our auditors that were reasonably related to the audit or review of financial statements reported above. 
+
+Tax fees 
+
+There were no tax preparation fees billed for
+the Annual Period. 
+
+All other fees 
+
+There were no other fees were billed or incurred
+for services by our auditors other than the fees noted above. Our board, acting as an audit committee, deemed the fees charged to be compatible
+with maintenance of the independence of our auditors. 
+
+Audit Committee s Pre-Approval Process 
+
+The Company does not have a standing audit committee
+or a committee performing similar functions. 
+
+31 
+
+PART IV 
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+The following exhibits are filed as part of this Form 10-K: 
+
+(a) 
+ Financial Statements 
+
+1. 
+ Index to Consolidated Financial Statements: 
+
+Report of Centurion ZD CPA Co., Independent Registered Public Accounting Firm 
+
+Consolidated Balance Sheets as of August 31, 2021 and 2020 
+
+Consolidated Statements of Operations and Comprehensive Income (Loss) for the years ended August 31, 2021 and 2020 
+
+Consolidated Statements of Changes in Stockholders Equity for the years ended August 31, 2021 and 2020 
+
+Consolidated Statements of Cash Flows for the years ended August 31, 2021 and 2020 
+
+Notes to Consolidated Financial Statements 
+
+2. 
+ Financial Statement Schedules 
+
+All schedules have been omitted because they are
+not required, not applicable, not present in amounts sufficient to require submission of the schedule, or the required information is
+otherwise included 
+
+(b) 
+ Exhibits: 
+
+7.1 
+ 
+ Sale and Purchase Agreement dated May 20, 2021 by and among Temir Corp., Hainan Qicheng Asset Management Joint Stock Company and Temir Logistics Industrial Park Limited (incorporated by reference to Exhibit 10.1 of the Form 8-K filed on May 25, 2021) 
+ 
+ 7.2 
+ 
+ SPA Termination Agreement dated August 25, 2021 by and among Temir Corp., Hainan Qicheng Asset Management Joint Stock Company and Temir Logistics Industrial Park Limited (incorporated by reference to Exhibit 10.1 of the Form 8-K filed on August 31, 2021) 
+ 
+ 31.1 
+ 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a) 
+ 
+ 32.1 
+ 
+ Certifications pursuant to Securities Exchange Act of 1934 Rule 13a-14(b) or 15d-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes- Oxley Act of 2002 
+ 
+ 101.INS 
+ 
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ XBRL Taxonomy Extension Definition Document 
+ 
+ 101.LAB 
+ 
+ XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+
+32 
+
+SIGNATURES 
+
+In accordance with the requirements of the Exchange
+Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+TEMIR CORP. 
+
+Dated: December 14, 2021 
+ By: 
+ /s/ Roy Kong Hoi Chan 
+
+Roy Kong Hoi Chan 
+ President 
+
+This report has been signed below by the following
+persons on behalf of the registrant and in the capacities and on the dates indicated: 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Roy Kong Hoi Chan 
+ 
+ Executive director and President 
+ 
+ December 14, 2021 
+ 
+ Roy Kong Hoi Chan 
+
+/s/ Alex Kwok Fai Yuen 
+ 
+ Executive director and Secretary 
+ 
+ December 14, 2021 
+ 
+ Alex Kwok Fai Yuen 
+
+/s/ Mark Ko Chiu Yip 
+ 
+ Executive director 
+ 
+ December 14, 2021 
+ 
+ Mark Ko Chiu Yip 
+
+/s/ Bon Pok Yin Cheung 
+ 
+ Independent non-executive director 
+ 
+ December 14, 2021 
+ 
+ Bon Pok Yin Cheung 
+
+/s/ Alan Yuk Lun Wong 
+ 
+ Independent non-executive director 
+ 
+ December 14, 2021 
+ 
+ Alan Yuk Lun Wong 
+
+/s/ Siu Nam Hau 
+ 
+ Independent non-executive director 
+ 
+ December 14, 2021 
+ 
+ Siu Nam Hau 
+
+/s/ Brian Hung Ngok Wong 
+ 
+ Chief Executive Officer 
+ 
+ December 14, 2021 
+ 
+ Brian Hung Ngok Wong 
+
+/s/ Brian Kong Wai Chan 
+ 
+ Chief Financial Officer 
+ 
+ December 14, 2021 
+ 
+ Brian Kong Wai Chan 
+ 
+ (Principal Financial and Accounting Officer) 
+
+33 
+
+<EX-31.1>
+ 2
+ f10k2021ex31-1_temircorp.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+CERTIFICATION 
+
+We, Roy Chan and Brian Chan, being Principal Executive
+Officer and Chief Financial Officer of TEMIR CORP., certify that: 
+
+1. We have reviewed this Annual Report on Form 10-K of TEMIR CORP.; 
+
+2. Based on my knowledge, this report does not contain any untrue
+statement of material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under
+which such statements were made, not misleading with respect to the period covered by annual report; 
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this Report, fairly present in all material respects the financial condition, results of operations and cash
+flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are
+responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-
+15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and
+have: 
+
+a) designed such disclosure controls and procedures, or caused
+such disclosure control and procedures to be designed under our supervision, to ensure that material information relating to the registrant,
+including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which
+this report is being prepared; 
+
+b) designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+c) evaluated the effectiveness of the registrant s disclosure
+controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures,
+as of the end of the period covered by this report based on such evaluation; 
+
+d) disclosed in this report any change in the registrant s
+internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer(s) and we have
+disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the
+audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) all significant deficiencies and material weaknesses in the
+design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s
+ability to record, process summarize and report financial information; and 
+
+b) any fraud, whether or not material, that involves management
+or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: December 14, 2021 
+
+/s/ Roy Chan 
+
+Roy Chan 
+
+President (principal executive officer) 
+
+/s/ Brian Chan 
+
+Brian Chan 
+
+Chief Financial Officer 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ f10k2021ex32-1_temircorp.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of TEMIR
+CORP.(the Company on Form 10-K for the period ended August 31, 2021 as filed with the Securities and Exchange Commission
+on the date hereof (the Report ), the undersigned, in the capacities and on the dates indicated below, hereby certifies pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to his knowledge: 
+
+1. The Report fully complies with the requirements of Section
+13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. The information contained in the Report fairly presents,
+in all material respects, the financial condition and results of operations of the Company. 
+
+Date: December 14, 2021 
+
+/s/ Roy Chan 
+
+Roy Chan 
+
+President 
+
+/s/ Brian Chan 
+
+Brian Chan 
+
+Chief Financial Officer 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 6
+ tmrr-20210831.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ tmrr-20210831_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ tmrr-20210831_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ tmrr-20210831_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ tmrr-20210831_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

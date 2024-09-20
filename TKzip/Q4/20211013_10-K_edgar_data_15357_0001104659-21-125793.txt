@@ -1,0 +1,3254 @@
+<Header>
+<FileStats>
+    <FileName>20211013_10-K_edgar_data_15357_0001104659-21-125793.txt</FileName>
+    <GrossFileSize>4166820</GrossFileSize>
+    <NetFileSize>97950</NetFileSize>
+    <NonText_DocumentType_Chars>223428</NonText_DocumentType_Chars>
+    <HTML_Chars>1569281</HTML_Chars>
+    <XBRL_Chars>1222320</XBRL_Chars>
+    <XML_Chars>930596</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-21-125793.hdr.sgml : 20211013
+<ACCEPTANCE-DATETIME>20211013161100
+ACCESSION NUMBER:		0001104659-21-125793
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		59
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20211013
+DATE AS OF CHANGE:		20211013
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHASE GENERAL CORP
+		CENTRAL INDEX KEY:			0000015357
+		STANDARD INDUSTRIAL CLASSIFICATION:	SUGAR & CONFECTIONERY PRODUCTS [2060]
+		IRS NUMBER:				362667734
+		STATE OF INCORPORATION:			MO
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	002-05916
+		FILM NUMBER:		211321335
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3600 LEONARD RD
+		CITY:			ST JOSEPH
+		STATE:			MO
+		ZIP:			64503
+		BUSINESS PHONE:		8162791625
+
+	MAIL ADDRESS:	
+		STREET 1:		3600 LEONARD RD
+		CITY:			ST JOSEPH
+		STATE:			MO
+		ZIP:			64503
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHASE CANDY CO
+		DATE OF NAME CHANGE:	19660911
+
+</SEC-Header>
+</Header>
+
+ 0001104659-21-125793.txt : 20211013
+
+10-K
+ 1
+ tm2124269d1_10k.htm
+ FORM 10-K
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 10-K 
+
+Annual Report Pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 
+
+For
+the Fiscal Year Ended June 30, 2021 
+
+Transaction Report Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934 
+
+For transition period from to 
+
+Commission File Number: 2-5916 
+
+Chase General Corporation 
+
+(Exact name of registrant
+as specified in its charter) 
+
+MISSOURI 
+ 36-2667734 
+ 
+ (State or other jurisdiction of 
+ Incorporation or organization 
+ (IRS Employer Identification No.) 
+
+1307 South 59th, St. Joseph, Missouri
+64507 
+
+ (Address of principal
+executive offices, Zip Code) 
+
+(816) 279-1625 
+
+ (Issuer s telephone number, including area
+code) 
+
+Securities registered pursuant to Section 12(b)
+of the Act: 
+
+Title of each class 
+ Ticker symbol(s) 
+ Name of each exchange on which registered 
+ 
+ None 
+ Not Applicable 
+ Not Applicable 
+
+Indicate by check mark if the registrant is a
+well-known issuer, as defined in Rule 405 of the Securities Act. Yes No 
+
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 of Section 15(d) of the Act. 
+Yes No 
+
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 12, 13, or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes No 
+
+Indicate by check mark whether the registrant
+(1) has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+Yes No 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a nonaccelerated filer, or a smaller reporting company. See the definitions of large
+accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ Accelerated filer 
+
+Nonaccelerated filer 
+ Smaller reporting company 
+
+Emerging Growth Company 
+
+If an emerging growth company that prepares its
+financial statements in accordance with U.S. GAAP, indicate by check mark if the registrant has elected not to use the extended transition
+period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. Yes
+ No 
+
+Indicate by check mark whether the
+registrant is a shell company (as defined in Rule 12b-2 of the Securities Exchange Act of 1934) Yes 
+No 
+
+As of
+October 13, 2021, there were 969,834 shares of common stock, 1.00 par value, outstanding. 
+
+Chase
+General Corporation and Subsidiary 
+
+ ANNUAL REPORT ON FORM 10-K 
+
+ FOR THE YEAR ENDED JUNE 30, 2021 
+
+PART I 
+
+ITEM 1. BUSINESS 
+ 2 
+
+ITEM 1A. RISK FACTORS 
+ 6 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+ 6 
+
+ITEM 2. PROPERTIES 
+ 6 
+
+ITEM 3. LEGAL PROCEDINGS 
+ 6 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+ 6 
+
+PART II 
+
+ITEM
+ 5. MARKET
+ FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF
+ EQUITY SECURITIES 
+ 7 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+ 7 
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 8 
+
+ITEM 7A. QUANTITATIVE QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 16 
+
+ITEM 8. CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+ 16 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+ 37 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+ 37 
+
+ITEM 9B. OTHER INFORMATION 
+ 38 
+
+PART III 
+
+ITEM
+ 10. DIRECTORS,
+ EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE 
+ 39 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+ 40 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND STOCKHOLDER MATTERS 
+ 42 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ 43 
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+ 43 
+
+PART IV 
+
+ITEM
+ 15. EXHIBITS
+ AND CONSOLIDATED FINANCIAL STATEMENT SCHEDULES 
+ 44 
+
+SIGNATURES 46 
+
+1 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ ANNUAL REPORT ON FORM 10-K 
+
+ FOR THE YEAR ENDED JUNE 30, 2021 
+
+PART I 
+
+ITEM 1 BUSINESS 
+
+Chase General Corporation was incorporated
+November 6, 1944 for the purpose of manufacturing confectionery products. In 1970, Chase General Corporation acquired a 100 interest
+in its wholly-owned subsidiary, Dye Candy Company. (Chase General Corporation and Dye Candy Company are sometimes referred herein as the
+Company). This subsidiary is the main operating company for the reporting entity. 
+
+Principal Products and Methods
+of Distribution 
+
+ The subsidiary, Dye Candy Company,
+operates two divisions, Chase Candy Products and Seasonal Candy Products. Chase Candy Products involve production and sale of a candy
+bar marketed under the trade name Cherry Mash . The Seasonal Candy Products involve production and sale of coconut, peanut,
+chocolate, and fudge confectioneries. The products of both divisions are sold to the same type of customers in the same geographical areas.
+In addition, both divisions share a common labor force and utilize the same basic equipment and raw materials. Management considers these
+two divisions as one reportable segment for inclusion in this filing. 
+
+The principal products produced are
+as follows: 
+
+Chase
+Candy Products of Dye Candy Company produces a candy bar under the trade name of Cherry Mash . The bar is distributed
+in the following case sizes: 
+
+(1) 60 count pack 
+
+(2) 12 boxes of 24 bars per box 
+
+(3) 200 count shipper box 
+
+(4) 100 count shipper box 
+
+(5) 100 # 2 box Counter Display 
+
+In addition to the regular size bar,
+a mini-mash is distributed in the following case sizes: 
+
+(1) 24 - 12 oz. bags 
+
+(2) 3 jars - 60 bars per jar 
+
+(3) 23 # wrapped bars 
+
+(4) 22 # unwrapped bars 
+
+(5) 12 - 12 oz. bags 
+
+(6) 3 - 4 # jars 
+
+(7) 24 - 12 oz. clamshell containers 
+
+(8) 9 - 8 oz. clamshell containers 
+
+2 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ ANNUAL REPORT ON FORM 10-K 
+
+ FOR THE YEAR ENDED JUNE 30, 2021 
+
+ITEM 1 BUSINESS (CONTINUED) 
+
+Principal Products and Methods
+of Distribution (Continued) 
+
+ Seasonal
+Candy Products of Dye Candy Company produces coconut, peanut, chocolate, and fudge confectioneries and purchases other outsourced
+products. These products are distributed in bulk or packaged. Principal products include: 
+
+(1) Coconut Bon-Bons 
+ (6) 
+ Peanut Brittle 
+
+(2) Coconut Stacks 
+ (7) 
+ Peanut Clusters 
+
+(3) Home Style Poe Fudge 
+ (8) 
+ Champion Cr me Drops 
+
+(4) Peco Flake 
+ (9) 
+ Jelly Candies 
+
+(5) Peanut Squares 
+ (10) 
+ Frosted Pretzels 
+
+The Champion Cr me Drops, Frosted
+Pretzels, and Jelly Candies are not produced by the Company. 
+
+All products are shipped to customers
+by commercial haulers. 
+
+Competition and Market Area 
+
+ The Chase Candy Products division bars
+are sold primarily to wholesale candy and tobacco jobbing houses, grocery accounts, vendors, and repackers. Cherry Mash 
+bars are marketed in the Midwest region of the United States. For the years ended June 30, 2021 and 2020, this division accounted for
+63 and 57 , respectively, of the consolidated sales of Dye Candy Company. 
+
+The Seasonal Candy Products division
+is sold primarily on a Midwest regional basis to national syndicate accounts, repackers, and grocery accounts. For the years ended June
+30, 2021 and 2020, this division accounted for 37 and 43 , respectively of the consolidated sales of Dye Candy Company. 
+
+The Company has no government contracts,
+foreign operations or export sales. In addition, all domestic sales are primarily in the Midwest region of the United States. 
+
+The Company is a seasonal business
+whereby the largest volume of sales occur in August through December of each year. The earnings per quarter of the Company varies in direct
+proportion to the seasonal sales volume. 
+
+Due to the seasonal nature of the business,
+there is a heavier demand on working capital in the fall and winter months of the year when the Company is building its inventories in
+anticipation of August through December sales. The fluctuation of demand on working capital due to the seasonal nature of the business
+is common to the confectionery industry. If necessary, the Company has the ability to borrow short-term funds to finance operations prior
+to receiving cash collections from fall sales. The Company occasionally offers extended payment terms of up to sixty days. Since this
+practice is infrequent, the effect on working capital is minimal. 
+
+3 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ ANNUAL REPORT ON FORM 10-K 
+
+ FOR THE YEAR ENDED JUNE 30, 2021 
+
+ITEM 1 BUSINESS (CONTINUED) 
+
+Competition and Market Area
+(Continued) 
+
+ Prompt service and efficient service
+are traits demanded in the confectionery industry, which results in a continual low volume of back-orders. Therefore, at no time during
+the year does the Company have a significant amount of back-orders. 
+
+The confectionery (candy) market for
+the type of product produced by the divisions of Dye Candy Company is very competitive and quality minded. The confectionery industry
+in which the divisions operate is highly competitive with many small companies and, within certain specialized areas, a few competitors
+dominate. In the United States, the dominant competitors in the coconut candy industry are Crown Candy Company, Vermico Candy Company,
+and the Seasonal Candy Products division of Dye Candy Company with approximately 70 of the market share among them. In the United States,
+Old Dominion has approximately 80 of the market share of the peanut candy business in which the Seasonal Candy Products division operates.
+Dye Candy Company sells approximately 95 of its products in the Midwest region with seasonal orders being shipped to the Southern and
+Eastern regions of the United States. Except for the coconut candy industry, Dye Candy Company is not a dominant competitor in any of
+the candy industries in which it competes. Dye Candy Company s market share in the coconut industry does not vary significantly
+from year to year. 
+
+Principal methods of competition the
+Company uses include quality of product, price, reduced transportation costs due to central location, and service. The Company s
+competitive position is positively influenced by labor costs being lower than industry average. Chase General Corporation is firmly established
+in the confectionery market and through its operating divisions has many years of experience associated with its name. 
+
+Research and Development 
+
+ The Company has not developed any new
+products for the years ended June 30, 2021 and 2020. 
+
+Raw Materials and Principal
+Suppliers 
+
+ Raw materials and packaging materials
+are produced on a national basis with products coming from locations throughout the United States. Raw materials and packaging materials
+are generally widely available, depending on common market influences. No suppliers accounted for more than 10 of the Company s
+cost of sales for the years ended June 30, 2021 and 2020. 
+
+Patents and Trademarks 
+
+ The largest single revenue producing
+product, the Cherry Mash bar, is protected by a trademark registered with The United States Patent and Trademark Office.
+The Company considers this trademark significant to operations. This trademark expires in the year 2023. The Company and its legal representatives
+do not expect any impediment to renewing this trademark prior to its expiration. 
+
+4 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ ANNUAL REPORT ON FORM 10-K 
+
+ FOR THE YEAR ENDED JUNE 30, 2021 
+
+ITEM 1 BUSINESS (CONTINUED) 
+
+Employees 
+
+ As of June 30, 2021, the Company had
+19 full time employees. This expands to approximately 30 full time personnel during the busy production months of August through December. 
+
+Customers 
+
+ For the years ended June 30, 2021 and
+2020, one customer accounted for 41 and 45 , respectively, of sales. As of June 30, 2021 and 2020, that same customer accounted for 24 
+and 14 , respectively, of trade receivables. For the years ended June 30, 2021 and 2020, another customer and its affiliates accounted
+for 8 , respectively, of sales. As of June 30, 2021 and 2020, that same customer and its affiliates accounted for 28 and 23 , respectively,
+of trade receivables. No other customer accounted for more than 10 of the Company s sales for the years ended June 30, 2021 and
+2020. No other customers accounted for more than 10 of the Company s trade receivables for the years ended June 30, 2021 and 2020. 
+
+Environmental Protection and
+the Effect on Probable Government Regulations on the Business 
+
+ To
+the best of management s knowledge, the Company is presently in compliance with all environmental laws and regulations and does
+not anticipate any future expenditures in this regard. The Company has evaluated the requirements
+of the Food Safety Modernization Act (FSMA). The FSMA aims to ensure the U.S. food supply is safe by shifting the focus of federal regulators
+from responding to contamination to preventing it. The FSMA has given the Food and Drug Administration (FDA) new authorities to regulate
+the way foods are grown, harvested, and processed. As of the fiscal year ended June 30, 2021 and through
+the filing of this form, management believes the Company is compliant with all FSMA requirements. Another inspection for compliance will
+be conducted by a third-party within 12 months of year-end. Management does not anticipate any future significant expenditures in the
+next twelve months in this regard. 
+
+Need for Government Approval
+of Principal Products or Services 
+
+ The
+Company is required to meet the Food and Drug Administration guidelines for proper labeling of its products and for contents of its products.
+ Management does not anticipate any future significant expenditures in the next twelve months in
+this regard. 
+
+Reports to Security Holders 
+
+ The Registrant is not required to send
+the annual audit report, annual 10-K report and quarterly 10-Q reports to security holders since the stock is not actively traded. These
+reports are available at the Registrant s registered office or they are available on-line on the SEC s EDGAR website. 
+
+5 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ ANNUAL REPORT ON FORM 10-K 
+
+ FOR THE YEAR ENDED JUNE 30, 2021 
+
+Item 1A RISK FACTORS 
+
+Not applicable to a smaller reporting
+company. 
+
+ITEM 1B UNRESOLVED STAFF COMMENTS 
+
+The Company has no unresolved SEC staff
+comments at June 30, 2021. 
+
+Item 2 PROPERTIES 
+
+We conduct our operations from two
+buildings as follows: 
+
+Chase
+Warehouse This building is located in St. Joseph, Missouri and is owned by Dye Candy Company, a wholly-owned subsidiary
+of the registrant. The facility is currently devoted entirely to the storage of supplies, and the warehousing and shipping of candy products.
+This warehouse is over seventy years old, is in fair condition and adequate to meet present requirements. The warehouse has approximately
+15,000 square feet and is not encumbered. 
+
+Chase
+General Office and Dye Candy Company Operating Plant This building is located in St. Joseph, Missouri and contains
+the general offices (of approximately 2,000 square feet) for Chase General Corporation, Dye Candy Company and its divisions. The production
+plant of Dye Candy Company occupies the remainder of the building or 18,000 square feet. The building, specifically designed for the Company,
+is leased from an entity that is partially owned by the son of the Chief Executive Officer of the Company. The annual rental expense of
+this facility was 78,000 for each year ended June 30, 2021 and 2020. 
+
+The
+net book value of our premises, land and office, and production equipment totaled 132,387 and 156,494 at June 30, 2021 and 2020,
+respectively. 
+
+We believe both facilities are adequately
+covered by insurance. 
+
+Item 3 LEGAL PROCEEDINGS 
+
+None. 
+
+Item 4 MINE SAFETY DISCLOSURES 
+
+Not applicable. 
+
+6 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ ANNUAL REPORT ON FORM 10-K 
+
+ FOR THE YEAR ENDED JUNE 30, 2021 
+
+PART II 
+
+Item 5 MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY
+SECURITIES 
+
+Market
+information 
+
+ There is no established public trading
+market for the common stock (par value 1 per share) of the Company. 
+
+Security
+holders 
+
+ As of October 13, 2021, the
+latest practicable date, the approximate number of record holders of common stock was 1,869, including individual participants in
+security listings. 
+
+Dividends 
+
+(1) Dividend history and restrictions 
+
+No dividends have been paid during the
+past two fiscal years and there are no dividend restrictions. Preferred stock dividends in arrears are accumulated. 
+
+(2) Dividend policy 
+
+There is no set policy on the payment
+of dividends due to the financial condition of the Company and other factors. It is not anticipated that cash dividends will be paid in
+the foreseeable future. 
+
+Securities
+authorized for issuance under equity compensation plans 
+
+ The Company does not have any equity
+compensation plans. 
+
+Item 6 SELECTED FINANCIAL DATA 
+
+Not applicable to a smaller reporting
+company. 
+
+7 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ ANNUAL REPORT ON FORM 10-K 
+
+ FOR THE YEAR ENDED JUNE 30, 2021 
+
+Item 7 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward-Looking Statements 
+
+ This
+report contains statements that plan for or anticipate the future. Forward-looking statements may include statements about the future
+of our products and the industry, statements about our future business plans and strategies, and other statements that are not historical
+in nature. In this report, forward-looking statements are generally identified by the words estimate, project, 
+ anticipate, expect, intend, believe, and the like. Readers should carefully
+review these cautionary statements as they identify certain important factors that could cause actual results to differ materially from
+those in the forward-looking statements and from historical trends, including the impact of the COVID-19 pandemic. These forward-looking
+statements are based on the information available to, and the expectations and assumptions deemed reasonable by, the Company at the time
+the statements are made. These expectations, assumptions, and uncertainties include: the Company s expectation of heavier demand
+on working capital in the fall and winter months in anticipation of August through December sales; our belief that the Company has stabilized
+its customer base; will continue its efforts to expand the existing market area and increase sales to customers; and maintain tight control
+of all expenditures. 
+
+Overview 
+
+ During
+fiscal year ended June 30, 2021, the Company s sales were 2,960,357, as compared to sales of 2,576,311 for fiscal year
+ended June 30, 2020. The 14.9 increase in volume, 1.5 decrease in cost of sales and 10.5 increase in operating expenses resulted in
+a change in profitability during the year, as reflected in the income from operations of 186,160 for fiscal year 2021 compared to the
+loss from operations of 144,491 for fiscal year 2020. Working capital increased 279,057 to 568,676 for the fiscal year 2021 from 289,619
+for the fiscal year 2020 due primarily to an increase in inventory and accounts receivable. 
+
+The following information should be
+read together with the consolidated financial statements and notes thereto included elsewhere herein. 
+
+8 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ ANNUAL REPORT ON FORM 10-K 
+
+ FOR THE YEAR ENDED JUNE 30, 2021 
+
+Item 7 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (CONTINUED) 
+
+Critical Accounting Policies
+and Estimates 
+
+General 
+
+ Management s discussion and analysis
+of financial condition and results of operations are based upon the Company s consolidated financial statements, which have been
+prepared in accordance with accounting principles generally accepted in the United States of America (U.S. GAAP). The preparation of these
+consolidated financial statements requires the Company to make estimates and judgments that affect the reported amounts of assets, liabilities,
+revenues, and expenses. The Company bases its estimates on historical experience and on various other assumptions that are believed to
+be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and
+liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions
+or conditions. 
+
+The Company believes the following critical
+accounting policies affect its more significant judgments and estimates used in the preparation of its consolidated financial statements. 
+
+There have been no other events that have
+occurred subsequent to June 30, 2021, through the date of filing this form, that would require disclosure in the Form 10-K or would be
+required to be recognized in the consolidated financial statements as of or for the year ended June 30, 2021. 
+
+Revenue Recognition 
+
+ The Company recognizes revenues as product
+is shipped to customers. Sales are comprised of the total sales billed during the period, including shipping and handling charges to the
+customer, less the estimated returns, customer allowances, and customer discounts. 
+
+9 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEAR ENDED JUNE 30, 2021 
+
+Item 7 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (CONTINUED) 
+
+Inventories 
+
+ Inventories are carried at the lower
+of cost or net realizable value, with cost being determined on the first-in, first-out basis of accounting. The cost
+of goods in process include an estimate for manufacturing overhead. Finished goods inventory are valued using the lower of cost or market
+value, determined by the retail inventory method. Under the retail inventory method, the valuation of finished goods inventory at cost
+and the resulting gross margins are calculated by applying a cost-to-retail ratio to the retail value of inventories. 
+
+New Accounting Guidance 
+
+ See Note 1 , RECENTLY ISSUED
+ACCOUNTING PRONOUNCEMENTS, to the consolidated financial statements for a discussion of new accounting standards. 
+
+Results of Operations 
+
+ The following table sets forth for the
+years indicated, the percentage of sales of certain items in the Company s consolidated statements of operations for the years ended
+June 30, 2021 and 2020, respectively: 
+
+For the Years Ended 
+
+June 30th 
+
+2021 
+ 2020 
+ 
+ Sales 
+ 100 
+ 100 
+ 
+ Cost of Sales 
+ 65 
+ 75 
+ 
+ Gross Profit on Sales 
+ 35 
+ 25 
+ 
+ Operating Expenses 
+ 29 
+ 30 
+ 
+ Income (Loss) from Operations 
+ 6 
+ (6 
+ 
+ Other Income, Net 
+ 6 
+ (0 
+ 
+ Net Income (Loss) before Income Taxes 
+ 12 
+ (6 
+ 
+ Income Tax Provision (Benefit) 
+ - 
+ - 
+ 
+ Net Income (Loss) 
+ 12 
+ (6 
+
+10 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEAR ENDED JUNE 30, 2021 
+
+Item 7 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (CONTINUED) 
+
+Fiscal Year 2021 Compared to
+Fiscal Year 2020 
+
+Sales 
+
+ During the year ended June 30, 2021, sales,
+net of returns and allowances, increased 384,046 or 14.9 as compared to the year ended June 30, 2020. Sales for Chase Candy products
+increased 388,613 or 26.3 to 1,868,899 for the year ended June 30, 2021 compared to 1,480,286
+for the year ended June 30, 2020. Sales for Seasonal Candy products decreased 4,567 or .4 to 1,091,458 for the year ended June 30,
+2021 as compared to 1,096,025 for the year ended June 30, 2020. 
+
+Sales for Chase Candy consisted of the
+following divisions: L276 Cherry Mash Distributor Pack division, Cherry Mash Merchandisers division, L260 Changemaker Jar division, L279/L299
+Bulk Mini Mash division, and L278/L212 Mini Mash division. The 14.9 increase in sales of Chase Candy of 388,613 for the year ended June 30,
+2021 over the same period ended June 30, 2020, is primarily due to the following: 1) increased sales of Cherry Mash Merchandisers
+division by approximately 49,000 versus the same period a year ago, primarily due to an increase in orders from existing customers, 2)
+increased sales of the L278/L212 Mini Mash division by approximately 71,000 versus the same period a year ago, primarily due to an increase
+in orders from existing customers, 3) increased sales of the L276 Cherry Mash Distributor Pack division by approximately 257,000 versus
+the same period a year ago, primarily due to an increase in orders from existing customers, 4) increased sales of the Cherry Mash internet
+sales via the Company s website by approximately 26,000 versus the same period a year ago, primarily due to an increase in orders
+from existing customers; offset by 5) decreased sales of the L279/L299 Bulk Mini Mash division by approximately 12,000 versus the same
+period a year ago, primarily due to a decrease in orders from existing customers and 6) an increase in promotions expenses allocated to
+the Chase Candy division of approximately 6,000 primarily due to selling more items with higher promotion fees associated with them. 
+
+Sales
+for Seasonal Candy consisted of the following divisions: bulk seasonal division, clamshell seasonal division, and the generic seasonal
+division. The .4 decrease in sales of Seasonal Candy of 4,567 for the year ended June 30, 2021 over the same period ended June 30, 2020,
+ is primarily due to the net effect of the following: 1) decreased sales in the Chase clamshell seasonal division by approximately
+ 17,000 versus the same period a year ago, primarily due to decreased orders from existing customers 2) decreased sales in the bulk seasonal
+division by approximately 28,000 versus the same period a year ago, primarily due to decreased orders from existing customers, offset
+by 3) increased sales in the generic seasonal division by approximately 30,000 due to increased orders from existing customers and 4)
+decrease in sales allowances and discounts taken by customers of approximately 10,000. 
+
+11 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEAR ENDED JUNE 30, 2021 
+
+Item 7 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (CONTINUED) 
+
+Fiscal Year 2021 Compared to
+Fiscal Year 2020 (Continued) 
+
+Cost of Sales 
+
+ Cost of sales for the year ended June
+30, 2021, as compared to the year ended June 30, 2020, decreased by 1.5 . The cost of sales decreased 28,414 
+to 1,911,697 while decreasing to 64.6 of sales for the year ended June 30, 2021, compared
+to 1,940,111 or 75.3 of sales for the year ended June 30, 2020. 
+
+The 1.5 decrease in cost of sales of
+ 28,414 is primarily due to adverse effect the COVID-19 pandemic had on the cost of sales for the fourth quarter of fiscal year ended
+June 30, 2020. Cost of sales for the fourth quarter ended June 30, 2020 increased 35 or 84,787 due to the costs associated with repurposing
+of finished goods inventory to adequately fill customer orders and realignment of staff during a period of decreased production. This
+cost was not applicable to the year ended June 30, 2021. 
+
+Labor costs, including wages, vacation
+pay and payroll taxes of 672,879 for the year ended June 30, 2021, increased 7.8 or 48,827 as compared to 624,052 for the year ended
+June 30, 2020 primarily due to increased production wages due to increased hours, bonuses, and pay rates compared to the same period ended
+June 30, 2020. 
+
+Freight expense, including shipping and
+handling costs on goods shipped of 115,587 for the year ended June 30, 2021, decreased 18.7 or 26,633 as compared to 142,220 for the
+year ended June 30, 2020 due primarily to changing carriers during the fiscal year. 
+
+Gross Profit on Sales 
+
+ The gross profit increased 64.8 or 412,460
+to 1,048,660 increasing to 35.4 of related sales for the year ended June 30, 2021, as compared to 636,200 or 24.7 of related sales
+for the year ended June 30, 2020, as a net result of the 1.5 decrease in cost of sales described above, the 14.9 increase in sales and
+a price increase that was effective in early 2021. 
+
+Finished goods inventory as of June 30,
+2021 of 287,245 increased 201,613 or 235.44 from the June 30, 2020 finished goods inventory of 85,632. Raw materials inventory as
+of June 30, 2021 of 97,324 increased 31,769 or 48.5 from the June 30, 2020 raw materials inventory of 65,555. Packaging materials
+inventory as of June 30, 2021 of 224,318 increased 68,280 or 43.8 from June 30, 2020 packaging materials inventory of 156,038. Goods
+in process inventory as of June 30, 2021 of 11,254 increased 4,993 or 79.8 from the June 30, 2020 goods in process inventory of 6,261.
+Inventory levels vary based primarily on sales and purchases. 
+
+12 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEAR ENDED JUNE 30, 2021 
+
+Item 7 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (CONTINUED) 
+
+Fiscal Year 2021 Compared to
+Fiscal Year 2020 (Continued) 
+
+Selling Expenses 
+
+ Selling expenses for the year ended June
+30, 2021 increased 20,831 to 320,775, which is 10.8 of sales, compared to 299,944 or 11.6 of sales for the year June 30, 2020.
+This increase is primarily due to higher commissions, and shipping costs. Commission expense increased 17,560 to 119,288 for the year
+ended June 30, 2021, as compared to 101,278 for the year ended June 30, 2020 primarily due to an increase in sales of items where
+the Company pays commissions. Shipping costs associated with selling expenses increased 14,771 to 47,425 for the year ended June 30,
+2021, as compared to 32,654 for the year ended June 30, 2020 primarily due to an increase in orders placed. The above increases were
+offset by a decrease in depreciation expense of 12,554 for the year ended June 30, 2021. 
+
+General and Administrative Expenses 
+
+ General and administrative expenses for
+the year ended June 30, 2021 increased 60,978 to 541,725, which is 18.3 of sales, compared to 480,747 or 18.7 of sales for the year
+ended June 30, 2020. The increase is primarily due to higher professional fees and insurance expense. Professional fees increased 44,739
+to 200,741 for the year ended June 30, 2021, as compared to 156,002 for the year ended June 30, 2020 primarily due to increased audit
+and consulting fees. Insurance expense increased 15,181 to 146,161 for the year ended June 30, 2021, as compared to 130,980 for the
+year ended June 30, 2020 primarily due to the increase in insurance premiums. 
+
+Income (Loss) from Operations 
+
+ Income from operations for the year ended
+June 30, 2021 was 6.3 of sales, as compared to a loss from operations which was (5.6) of sales for the year ended June 30, 2020,
+for the reasons previously described. 
+
+Other Income (Expense) 
+
+ Other
+income reflects a net of income of 177,573 for the year ended June 30, 2021 , as compared
+to a net of expense of (1,558) for the year ended June 30, 2020 . This increase of
+ 179,131 in other income was primarily due to the gain on extinguishment of debt related to the Paycheck Protection Program Promissory
+Note. 
+
+Income (Loss) before Income Taxes 
+
+ Income before income taxes was 363,733
+for the year ended June 30, 2021, as compared to a loss before income taxes of 146,049 for the year ended June 30, 2020. The reasons
+for the increase of 509,782 have been previously discussed. 
+
+13 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEAR ENDED JUNE 30, 2021 
+
+Item 7 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (CONTINUED) 
+
+Fiscal Year 2021 Compared to
+Fiscal Year 2020 (Continued) 
+
+Income Tax Benefit (Provision) 
+
+ The Company recorded no income tax benefit
+for the years ended June 30, 2021 and 2020. Additionally, the Company has placed a valuation allowance
+on the net deferred tax asset of 25,400 for the current year after it was determined that the Company would not be likely to use the
+remaining balance in the near future. 
+
+Net Income (Loss) 
+
+ Net income for the year ended June 30,
+2021 was 363,733, compared to a net loss for the year ended June 30, 2020 of (146,049). This increase of 509,782 is the result of those
+items previously discussed. 
+
+Liquidity and Sources of Capital 
+
+ The table below presents the summary of
+cash flow for the fiscal year indicated. 
+
+For the Years Ended 
+
+June 30th 
+
+2021 
+ 2020 
+ 
+ Net Cash Used in Operating Activities 
+ (134,716 
+ (39,778 
+ 
+ Net Cash Used in Investing Activities 
+ (15,880 
+ - 
+ 
+ Net Cash Provided by Financing Activities 
+ 104,321 
+ 74,368 
+
+Operating Activities 
+
+ The
+negative cash flow of 134,716 generated from operations is a result of increases in inventory, increases in trade receivables and the
+gain on extinguishment of the PPP loan of 171,500. Total inventory as of June 30, 2021 of 620,141 increased 306,655 or 97.8 from
+the June 30, 2020 total inventory of 313,486. Trade receivables as of June 30, 2021 of 192,945 increased 48,706 or 33.7 from the June
+30, 2020 trade receivables of 144,239. These reductions in cash flow were offset by the net income amount of 363,733 for the year ended
+June 30, 2021. The increase in inventory and the gain on extinguishment of debt had the most impact on the negative cash flow from operations. 
+
+Investing Activities 
+
+ The
+negative cash flow of 15,880 from investing is a result of equipment purchases made during the year ended June 30, 2021. 
+
+14 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEAR ENDED JUNE 30, 2021 
+
+Item 7 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+AND RESULTS OF OPERATIONS (CONTINUED) 
+
+Fiscal Year 2021 Compared to
+Fiscal Year 2020 (Continued) 
+
+Financing Activities 
+
+ The Company borrowed 395,000 and 227,000,
+respectively, on its line-of-credit during fiscal 2021 and the fall of 2019 (fiscal 2020) busy seasons. Payments of 275,000 and 312,000,
+respectively, were paid for years ended June 30, 2021 and 2020. The Company entered into a 350,000 line-of-credit agreement expiring
+on January 4, 2022, with a variable interest rate at prime but not less than 5 . The line-of-credit
+is collateralized by substantially all assets of the Company. Management anticipates renewal of the line-of-credit agreement at similar
+terms upon expiration. 
+
+Notes payable principal payments were
+ 15,679 and 12,132 for years ended June 30, 2021 and 2020, respectively. 
+
+The Company received a loan in the
+amount of 171,500 during the year ended June 30, 2020 to fund payroll, rent, utilities and interest on mortgages and existing debt through
+the federal Paycheck Protection Program (PPP). The PPP note has a 1.00 per annum interest rate and is subject to terms and conditions
+applicable to loans administered by the SBA under the CARES act, as amended by the PPP Flexibility Act. Monthly principal and interest
+payments, less the amount of any potential forgiveness (as discussed below) will commence on November 10, 2020. This loan was fully forgiven
+during December 2020. A gain on extinguishment of debt has been recognized as other income. 
+
+Overall cash and cash equivalents decreased
+ 46,275 to 7,115 at June 30, 2021 from 53,390 at June 30, 2020. 
+
+At June 30, 2021, the Company s
+accumulated deficit was 5,705,366, compared to an accumulated deficit of 6,069,099 as of June 30, 2020. Working capital as of June 30,
+2021 increased 279,057 to 568,676 from 289,619 as of June 30, 2020. 
+
+The Company s lease on its office
+and plant facility is effective through March 31, 2025, with an option to extend for an additional term of five years, and currently
+requires payments of 6,500 per month. At the end of each five year period, the base rent may be increased an amount not greater than
+30 , at the sole discretion of lessor. The facility is leased from an entity that is partially owned by the son of the Chief Executive
+Officer of the Company. 
+
+In
+order to maintain funds to finance operations and meet debt obligations, it is the intention of management to continue its efforts to
+expand the present market area and increase sales to its customers. Management also intends to continue tight control on all expenditures.
+ Due to volatility in the regions where these raw materials are grown, management anticipates the prices of these raw materials
+to continue to fluctuate primarily based on supply and demand. Primarily due to the fluctuations in these raw material prices, gross margins
+have decreased due to unchanged sales prices during the period. Management intends to make sales price adjustments in the future to correspond
+with changes in raw material prices. 
+
+15 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEAR ENDED JUNE 30, 2021 
+
+Item 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not applicable to a smaller reporting
+company. 
+
+Item 8 CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+The Consolidated Financial Statements
+meeting the requirements of Regulation S-B are contained on pages 17 through 37 of this Form 10-K. 
+
+16 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+CONSOLIDATED FINANCIAL REPORT 
+TABLE OF CONTENTS 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Report
+ of Independent Registered Public Accounting Firm 
+ 18 
+
+Consolidated Financial Statements 
+
+Consolidated
+ Balance Sheets 
+ 19 
+
+Consolidated
+ Statements of operations 
+ 21 
+
+Consolidated
+ Statements of Stockholders Equity 
+ 22 
+
+Consolidated
+ Statements of Cash Flows 
+ 23 
+
+Notes
+ to Consolidated Financial Statements 
+ 24 
+
+17 
+
+Report of Independent Registered Public Accounting
+Firm 
+
+To the Board of Directors 
+
+ Chase General Corporation and Subsidiary 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying
+consolidated balance sheets of Chase General Corporation and Subsidiary Company as of June 30, 2021 and 2020, and the
+related consolidated statements of operations, stockholders equity, and cash flows for each of the years then ended and the related
+notes (collectively referred to as the financial statements ). In our opinion, the financial statements present fairly, in
+all material respects, the financial position of the Company as of June 30, 2021 and 2020, and the results of its operations and its cash
+flows for each of the two years in the period ended June 30, 2021, in conformity with accounting principles generally accepted in the
+United States of America. 
+
+Basis for Opinion 
+
+These consolidated financial statements
+are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance
+with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether
+the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to
+have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required
+to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness
+of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures
+to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by
+management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide
+a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+Critical audit matters are matters
+arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated to
+the audit committee and that: (1) relate to accounts or disclosures that are material to the consolidated financial statements and (2)
+involved our especially challenging, subjective, or complex judgments. We determined that there are no critical audit matters. 
+
+/s/
+Mayer Hoffman McCann P.C. 
+
+We have served as the Company's auditor since 2008 
+
+ Kansas City, Missouri 
+
+ October 13, 2021 
+
+18 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+ JUNE 30, 2021 AND 2020 
+
+June 30, 
+ June 30, 
+
+2021 
+ 2020 
+ 
+ ASSETS 
+
+CURRENT ASSETS 
+
+Cash and Cash Equivalents 
+ 7,115 
+ 53,390 
+ 
+ Trade Receivables, Net of Allowance for Doubtful Accounts of 14,948 and 13,171, Respectively 
+ 196,802 
+ 144,239 
+ 
+ Inventories: 
+
+Finished Goods 
+ 287,245 
+ 85,632 
+ 
+ Goods in Process 
+ 11,254 
+ 6,261 
+ 
+ Raw Materials 
+ 97,324 
+ 65,555 
+ 
+ Packaging Materials 
+ 224,318 
+ 156,038 
+ 
+ Prepaid Expenses 
+ 10,137 
+ 7,653 
+ 
+ Total Current Assets 
+ 834,195 
+ 518,768 
+
+PROPERTY AND EQUIPMENT 
+
+Land 
+ 35,000 
+ 35,000 
+ 
+ Buildings 
+ 77,348 
+ 77,348 
+ 
+ Machinery and Equipment 
+ 867,691 
+ 851,791 
+ 
+ Trucks and Autos 
+ 158,632 
+ 158,632 
+ 
+ Office Equipment 
+ 33,025 
+ 33,025 
+ 
+ Leasehold Improvements 
+ 72,068 
+ 72,068 
+ 
+ Total 
+ 1,243,764 
+ 1,227,864 
+ 
+ Less: Accumulated Depreciation 
+ 1,111,377 
+ 1,071,370 
+ 
+ Total Property and Equipment, Net 
+ 132,387 
+ 156,494 
+
+Other Long-Term Assets: 
+
+Right of Use Assets 
+ 259,293 
+ 318,537 
+ 
+ Total Long-Term Assets 
+ 391,680 
+ 475,031 
+
+Total Assets 
+ 1,225,875 
+ 993,799 
+
+The accompanying notes are an integral part
+of the consolidated financial statements. 
+
+19 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ CONSOLIDATED
+BALANCE SHEETS (CONTINUED) 
+
+ JUNE 30, 2021 AND 2020 
+
+June 30, 
+ June 30, 
+
+2021 
+ 2020 
+ 
+ LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+CURRENT LIABILITIES 
+
+Accounts Payable 
+ 40,274 
+ 47,905 
+ 
+ Current Maturities of Notes Payable 
+ 124,730 
+ 88,318 
+ 
+ Current Maturities of Lease Liability 
+ 63,137 
+ 59,244 
+ 
+ Accrued Expenses 
+ 26,285 
+ 22,207 
+ 
+ Refund Liability Owed to Customers 
+ 9,794 
+ 10,176 
+ 
+ Deferred Income 
+ 1,299 
+ 1,299 
+ 
+ Total Current Liabilities 
+ 265,519 
+ 229,149 
+
+LONG-TERM LIABILITIES 
+
+Notes Payable, Less Current Maturities 
+ - 
+ 103,591 
+ 
+ Lease Liabilities, Less Current Maturities 
+ 196,156 
+ 259,293 
+ 
+ Deferred Income 
+ 3,570 
+ 4,869 
+ 
+ Total Long-Term Liabilities 
+ 199,726 
+ 367,753 
+
+Total Liabilities 
+ 465,245 
+ 596,902 
+
+COMMITMENTS AND CONTINGENCIES (NOTE 8) 
+
+STOCKHOLDERS' EQUITY 
+
+Capital Stock Issued and Outstanding: 
+
+Prior Cumulative Preferred Stock, 5 Par Value: 
+
+Series A (Liquidation Preference 2,400,000 and 2,370,000, Respectively) 
+ 500,000 
+ 500,000 
+ 
+ Series B (Liquidation Preference 2,355,000 and 2,325,000, Respectively) 
+ 500,000 
+ 500,000 
+ 
+ Cumulative Preferred Stock, 20 Par Value: 
+
+Series A (Liquidation Preference 5,370,395 and 5,311,862, Respectively) 
+ 1,170,660 
+ 1,170,660 
+ 
+ Series B (Liquidation Preference 875,211 and 865,672, Respectively) 
+ 190,780 
+ 190,780 
+ 
+ Common Stock, 1 Par Value 
+ 969,834 
+ 969,834 
+ 
+ Paid-In Capital in Excess of Par 
+ 3,134,722 
+ 3,134,722 
+ 
+ Accumulated Deficit 
+ (5,705,366 
+ (6,069,099 
+ 
+ Total Stockholders' Equity 
+ 760,630 
+ 396,897 
+
+Total Liabilities and Stockholders' Equity 
+ 1,225,875 
+ 993,799 
+
+The accompanying notes are an integral part
+of the consolidated financial statements. 
+
+20 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ CONSOLIDATED STATEMENTS
+OF OPERATIONS 
+
+ JUNE 30, 2021 AND 2020 
+
+For the Years Ended 
+
+June 30th 
+
+2021 
+ 2020 
+ 
+ SALES 
+ 2,960,357 
+ 2,576,311 
+
+COST OF SALES 
+ 1,911,697 
+ 1,940,111 
+ 
+ Gross Profit on Sales 
+ 1,048,660 
+ 636,200 
+
+OPERATING EXPENSES 
+
+Selling 
+ 320,775 
+ 299,944 
+ 
+ General and Administrative 
+ 541,725 
+ 480,747 
+ 
+ Total Operating Expenses 
+ 862,500 
+ 780,691 
+
+Income (Loss) from Operations 
+ 186,160 
+ (144,491 
+
+OTHER INCOME (EXPENSE) 
+
+Miscellaneous Income 
+ 8,758 
+ 4,377 
+ 
+ Gain
+ on Extinguishment of Debt Note 3 
+ 171,500 
+ - 
+ 
+ Interest Expense 
+ (2,685 
+ (5,935 
+ 
+ Total Other Income (Expense) 
+ 177,573 
+ (1,558 
+
+Income (Loss) before Income Taxes 
+ 363,733 
+ (146,049 
+
+INCOME TAX BENEFIT (PROVISION) 
+ - 
+ - 
+
+NET INCOME (LOSS) 
+ 363,733 
+ (146,049 
+
+EARNINGS (LOSS) PER SHARE 
+
+Basic 
+ 0.24 
+ (0.28 
+
+Diluted 
+ 0.12 
+ (0.28 
+
+The accompanying notes are an integral part
+of the consolidated financial statements. 
+
+21 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Prior
+ Cumulative 
+ Cumulative 
+
+Preferred
+ Stock 
+ Preferred
+ Stock 
+ Common 
+ Paid-In 
+ Accumulated 
+
+Series
+ A 
+ Series
+ B 
+ Series
+ A 
+ Series
+ B 
+ Stock 
+ Capital 
+ Deficit 
+ Total 
+ 
+ BALANCE,
+ JULY 1, 2019 
+ 500,000 
+ 500,000 
+ 1,170,660 
+ 190,780 
+ 969,834 
+ 3,134,722 
+ (5,923,050 
+ 542,946 
+
+Net
+ Loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (146,049 
+ (146,049 
+
+BALANCE,
+ JUNE 30, 2020 
+ 500,000 
+ 500,000 
+ 1,170,660 
+ 190,780 
+ 969,834 
+ 3,134,722 
+ (6,069,099 
+ 396,897 
+
+Net
+ Income 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 363,733 
+ 363,733 
+
+BALANCE,
+ JUNE 30, 2021 
+ 500,000 
+ 500,000 
+ 1,170,660 
+ 190,780 
+ 969,834 
+ 3,134,722 
+ (5,705,366 
+ 760,630 
+
+The accompanying notes are an integral part of
+the consolidated financial statements. 
+
+22 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+For the Years Ended 
+
+June 30th 
+
+2021 
+ 2020 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Collections from Customers 
+ 2,906,017 
+ 2,569,941 
+ 
+ Cost of Sales, Selling, General and Administrative Expenses Paid 
+ (3,038,048 
+ (2,603,784 
+ 
+ Interest Paid 
+ (2,685 
+ (5,935 
+ 
+ Net Cash Used by Operating Activities 
+ (134,716 
+ (39,778 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Purchases of Property and Equipment 
+ (15,880 
+ - 
+ 
+ Net Cash Used by Investing Activities 
+ (15,880 
+ - 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Proceeds from Line-of-Credit 
+ 395,000 
+ 227,000 
+ 
+ Proceeds from Notes Payable 
+ - 
+ 171,500 
+ 
+ Principal Payments on Line-of-Credit 
+ (275,000 
+ (312,000 
+ 
+ Principal Payments on Notes Payable 
+ (15,679 
+ (12,132 
+ 
+ Net Cash Provided by Financing Activities 
+ 104,321 
+ 74,368 
+
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS 
+ (46,275 
+ 34,590 
+
+Cash and Cash Equivalents - Beginning of Period 
+ 53,390 
+ 18,800 
+
+CASH AND CASH EQUIVALENTS - END OF PERIOD 
+ 7,115 
+ 53,390 
+
+RECONCILIATION OF NET INCOME (LOSS) TO NET CASH USED BY OPERATING ACTIVITIES 
+
+Net Income (Loss) 
+ 363,733 
+ (146,049 
+ 
+ Adjustments to Reconcile Net Income (Loss) to Net Cash Used by 
+
+Operating Activities: 
+
+Depreciation and Amortization 
+ 39,987 
+ 54,606 
+ 
+ Allowance for Bad Debts 
+ 1,777 
+ (540 
+ 
+ Deferred Income Amortization 
+ (1,299 
+ (1,299 
+ 
+ Gain on Extinguishment of Debt 
+ (171,500 
+ - 
+ 
+ Effects of Changes in Operating Assets and Liabilities: 
+
+Trade Receivables 
+ (54,340 
+ (5,830 
+ 
+ Inventories 
+ (306,655 
+ 96,849 
+ 
+ Prepaid Expenses 
+ (2,484 
+ - 
+ 
+ Accounts Payable 
+ (7,631 
+ (30,644 
+ 
+ Refund Liability Owed to Customers 
+ (382 
+ (227 
+ 
+ Accrued Expenses 
+ 4,078 
+ (6,644 
+
+NET CASH USED BY OPERATING ACTIVITIES 
+ (134,716 
+ (39,778 
+
+The accompanying notes are an integral part
+of the consolidated financial statements. 
+
+23 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE
+ 1 NATURE OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES 
+
+Nature of Business 
+
+Chase
+ General Corporation (the Company) was incorporated on November 6, 1944 in the state of Missouri
+ for the purpose of manufacturing confectionery products. The Company grants credit terms
+ to substantially all customers, consisting of repackers, grocery accounts, and national syndicate
+ accounts, who are primarily located in the Midwest region of the United States. 
+
+Significant
+ accounting policies are as follows: 
+
+Principles of Consolidation 
+
+The consolidated financial statements include the accounts of
+the Company and its wholly-owned subsidiary, Dye Candy Company. All intercompany transactions and balances have been eliminated in consolidation. 
+
+Segment Reporting of the Business 
+
+The subsidiary, Dye Candy Company, operates two divisions, Chase
+Candy Products and Seasonal Candy Products. Chase Candy Products involve production and sale of a candy bar marketed under the trade
+name Cherry Mash . The Seasonal Candy Products involve production and sale of coconut, peanut, chocolate, and fudge confectioneries.
+The products of both divisions are sold to the same type of customers in the same geographical areas. In addition, both divisions share
+a common labor force and utilize the same basic equipment and raw materials. Management considers these two divisions as one reportable
+segment in these consolidated financial statements. 
+
+Use of Estimates 
+
+The preparation of consolidated financial statements in conformity
+with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities, and disclosure of contingent assets and liabilities at the date of the consolidated
+financial statements, and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from
+those estimates. 
+
+Cash and Cash Equivalents 
+
+The Company considers all liquid investments with a maturity
+of three months or less when purchased to be cash equivalents. 
+
+24 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE 1 nature
+ of business and SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+
+Shipping and Handling Costs 
+
+Shipping
+and handling costs for freight expense on goods shipped are included in cost of sales. Freight expense on goods shipped for the years
+ended June 30, 2021 and 2020 was 115,587 and 142,220, respectively. 
+
+Trade Receivables 
+
+Trade receivables are uncollateralized customer obligations
+which generally require payment within thirty days from the invoice date. Trade receivables are stated at the invoice amount as no interest
+is charged to the customer for any past due amounts. Payments of trade receivables are applied to the specific invoices identified on
+the customer s remittance advice or, if unspecified, to the earliest unpaid invoices. 
+
+The carrying amount of trade receivables is reduced by a valuation
+allowance that reflects management s best estimate of amounts that will not be collected. The allowance for doubtful accounts is
+based on management s assessment of the collectability of specific customer accounts and the aging of the trade receivables. If
+there is a deterioration of a major customer s credit worthiness or actual defaults are higher than the historical experience,
+management s estimates of the recoverability of amounts due to the Company could be adversely affected. All accounts or portions
+thereof deemed to be uncollectible, or that require an excessive collection cost, are written off to the allowance for doubtful accounts. 
+
+Inventories 
+
+Finished good, raw material and packaging material inventories
+are carried at the lower of cost or net realizable value, with cost being determined on the first-in, first-out 
+basis of accounting. The cost of goods in process include an estimate for manufacturing overhead. Finished goods inventory are valued
+using the lower of cost or market value, determined by the retail inventory method. Under the retail inventory method, the valuation
+of finished goods inventory at cost and the resulting gross margins are calculated by applying a cost-to-retail ratio to the retail value
+of inventories. 
+
+Property and Equipment 
+
+The Company s property and equipment is recorded at cost
+and is being depreciated on straight-line and accelerated methods over the following estimated useful lives: 
+
+Buildings 
+ 39 years 
+
+Machinery and equipment 
+ 5 7 years 
+
+Trucks and autos 
+ 5 years 
+
+Office equipment 
+ 5 7 years 
+
+Leasehold improvements 
+ Lesser of estimated 
+
+useful life or the 
+
+lease term 
+
+25 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE 1 NATURE OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+
+Impairment of Long-Lived Assets 
+
+Long-lived assets are reviewed for impairment whenever events
+or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Recoverability of assets to be held
+and used is measured by a comparison of the carrying amount of an asset to future net cash flows expected to be generated by the asset.
+If such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying amount
+of the assets exceed the fair value of the assets. 
+
+Notes Payable 
+
+The Small Business Administration Paycheck Protection Program
+Promissory Note further discussed in Note 3 is being accounted for under Accounting Standards Codification (ASC) 470, Debt. Under ASC
+470, the initial recognition of the debt is a financial liability that accrues interest. Under ASC 470, derecognition of the liability
+will occur when the Company has been legally released or pays off the loan at which time forgiveness will be recorded as
+a gain on extinguishment. 
+
+Income Taxes 
+
+Deferred income taxes are provided using the liability method for temporary differences between
+ financial statement and income tax reporting. Temporary differences are differences between the amounts of assets and liabilities
+ reported for financial statement purposes and their tax bases. Deferred income tax assets are recognized for temporary differences
+ that will be deductible in future years tax returns and for operating loss and tax credit carryforwards. Deferred income tax
+ assets are only recognized if it is more likely than not that a tax position will be realized or sustained upon examination by the
+ relevant taxing authority. Deferred income tax assets are reduced by a valuation allowance when, in the opinion of management, it is
+ more likely than not that some or all of the deferred income tax assets will not be realized. A tax position that meets the
+ more-likely-than-not recognition threshold is initially and subsequently measured as the largest amount of tax benefit that has a
+ greater than 50 likelihood of being realized upon settlement with a taxing authority that has full knowledge of relevant
+ information. Deferred income tax liabilities are recognized for temporary differences that will be taxable in future years 
+ tax returns. Deferred income tax assets and liabilities are adjusted for the effects of changes in tax laws and rates on the dates
+ of enactment. Based on the facts, the Company has determined it necessary to reduce their deferred income tax asset with a valuation
+ allowance due to it being more likely than not that the Company will be able to realize all of the deferred income tax asset. 
+
+The Company s policy is to evaluate uncertain tax positions
+under the guidance as prescribed by Accounting Standards Codification (ASC) 740, Income Taxes . As of June 30, 2021 and 2020, the
+Company has not identified any uncertain tax positions requiring recognition in the consolidated financial statements. The Company had
+no accruals for interest or penalties as of June 30, 2021 and 2020. 
+
+26 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Earnings Per Common Share 
+
+ Basic earnings per common share is
+computed by dividing income available to common stockholders by the weighted average number of common shares outstanding during the period.
+Diluted earnings per common share shall be computed by including contingently issuable shares with the weighted average shares outstanding
+during the period. When inclusion of the contingently issuable shares would have an antidilutive effect upon earnings per share, diluted
+earnings per share will be calculated in the same manner as basic earnings per share. 
+
+The following table details out the
+contingently issuable shares for the years ended June 30, 2021 and 2020. For 2020, the contingently issuable shares were not included
+in diluted earnings per common share as they would have an antidilutive effect upon earnings per share. 
+
+2021 
+ 2020 
+ 
+ Shares Issuable Upon Conversion of Series A 
+
+Prior Cumulative Preferred Stock 
+ 400,000 
+ 400,000 
+ 
+ Shares Issuable Upon Conversion of Series B 
+
+Prior Cumulative Preferred Stock 
+ 375,000 
+ 375,000 
+ 
+ Shares Issuable Upon Conversion of Series A 
+
+Cumulative Preferred Stock 
+ 222,133 
+ 222,133 
+ 
+ Shares Issuable Upon Conversion of Series B 
+
+Cumulative Preferred Stock 
+ 36,201 
+ 36,201 
+ 
+ Total Dilutive Effect of Contingently Issuable Shares 
+ 1,033,334 
+ 1,033,334 
+
+Advertising Expense 
+
+ Advertising is expensed when incurred.
+Advertising expense was 18,011 and 19,019 for the years ended June 30, 2021 and 2020, respectively. 
+
+Going Concern 
+
+ The Company follows ASU No. 2014-15,
+ Presentation of Financial Statements Going Concern (Subtopic 205-40) . ASU 2014-15 provides guidance related to management s
+responsibility to evaluate whether there is substantial doubt about an entity s ability to continue as a going concern and to provide
+related footnote disclosure for the years ended June 30, 2021 and 2020. Management determined that, when considered in the aggregate,
+the current conditions and events, including the COVID-19 pandemic impact, do not raise substantial doubt about the Company s ability
+to continue as a going concern for at least one year after the date the consolidated financial statements are available for issuance. 
+
+27 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE 1 
+ NATURE OF BUSINESS AND SIGNIFICANT ACCOUNTING
+ POLICIES (CONTINUED) 
+
+Revenue Recognition 
+
+ The majority of our revenue is derived
+by fulfilling customer orders for the purchase of our products, including 1) a candy bar marketed under the trade name Cherry Mash and
+2) coconut, peanut, chocolate, and fudge confectioneries. The Company recognizes revenue at the point in time that control of the ordered
+product(s) is transferred to the customer, which is typically upon shipment to the customer. Shipping and handling costs incurred to
+ship product to the customer are recorded within cost of sales. Amounts billed and due from our customers are classified as accounts
+receivables on the balance sheet and require payment on a short-term basis. Generally, individual orders from customers are accounted
+for as a single performance obligation. 
+
+Revenue
+is measured as the amount of consideration we expect to receive in exchange for fulfilling product orders. Sales, value add, and other
+taxes we collect concurrent with revenue-producing activities are excluded from revenue. The amount of consideration the Company expects
+to receive and revenue the Company recognizes includes estimates of variable consideration, including costs for trade promotional programs,
+customer incentives, and allowances and discounts associated with aged or potentially unsaleable products. These estimates are based upon
+our analysis of the programs offered, historical trends, and expectations regarding customer and consumer participation, sales and payment
+trends and our experience with payment patterns associated with similar programs offered in the past. The Company reviews and updates
+these estimates regularly and the impact of any adjustments are recognized in the period the adjustments are identified. The adjustments
+recognized for the year ended June 30, 2021 and 2020 resulting from updated estimates of revenue for prior year product sales were not
+significant. The Company has elected a practical expedient to recognize incremental costs incurred to obtain contracts, which primarily
+represent sales commissions where the amortization period would be less than one year, as a selling expense when incurred in the financial
+statements 
+
+The majority of the Company s
+products are confectionery and confectionery-based and, therefore, exhibit similar economic characteristics, such that they are based
+on similar ingredients and are marketed and sold through the same channels to the same customers. The Company operates two divisions,
+Chase Candy Products and Seasonal Candy Products. Chase Candy Products involve production and sale of a candy bar marketed under the trade
+name Cherry Mash . The Seasonal Candy Products involve production and sale of coconut, peanut, chocolate, and fudge confectioneries.
+Both divisions share a common labor force and utilize the same basic equipment and raw materials. Management considers these two divisions
+as one reportable segment. The various divisions of revenue are as follows: 
+
+2021 
+ 2020 
+ 
+ Sales - Chase Candy 
+ 1,868,899 
+ 1,480,286 
+ 
+ Sales - Seasonal Candy 
+ 1,091,458 
+ 1,096,025 
+ 
+ Sales 
+ 2,960,357 
+ 2,576,311 
+
+28 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE 1 
+ NATURE OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+
+Recently Adopted Pronouncements
+
+The
+Company adopted the guidance of ASU No. 2016-02, Leases, (ASC 842) as of July 1, 2019 using the modified retrospective transition
+approach with the cumulative effect recognized at the date of initial application. The new standard establishes a right-of-use model (ROU)
+that requires a lessee to recognize a ROU asset and lease liability on the balance sheet for all, and disclose key leasing information.
+The Company elected a package of practical expedients permitted under the transition guidance, which among other things, allows us to
+carryforward the historical lease classification, and exclude from balance sheet reporting those leases with initial terms of 12 months
+or less. Leases are classified as finance or operating, with classification affecting the pattern and classification of expense recognition
+in the income statement. Adoption of the new standard on July 1, 2019 resulted in the recording of operating lease ROU assets and lease
+liabilities in the amount of 376,105. The standard did not materially affect the Company s consolidated net income or cash flows.
+See Note 8 Commitments, Contingencies, and Related Party Transactions for the required disclosures of the nature, amount,
+timing, and uncertainty of cash flows arising from leases. 
+
+Recently Issued Pronouncements 
+
+ There have been no newly issued or
+newly applicable accounting pronouncements that have, or are expected to have, a significant impact on the Company s consolidated
+financial statements. 
+
+NOTE 2 FORGIVABLE LOAN AND DEFERRED INCOME 
+
+During 2004, the Company received a
+ 25,000 economic development incentive from Buchanan County, which is a five-year forgivable loan at a rate of 5,000 per year. The Nodaway
+Valley Bank established an Irrevocable Standby Letter of Credit in the amount of 25,000 as collateral for this loan, with a maturity
+date of January 3, 2010. The Company met the criteria of occupying a 20,000 square foot building and creating a minimum of two new full-time
+equivalent jobs during the first year of operation in the new facility. In addition, the Company maintained 19 existing jobs during the
+five-year term. Notice was received February 6, 2009 from the Buchanan County Commission, that the Company had fulfilled its minimum loan
+requirements so that the loan was forgiven in full and has no further obligations. Since the Company was no longer legally required to
+return the monies, the liability was reclassified as deferred revenue and amortized into income over the life of the lease term of the
+new facility. Deferred revenue is recognized on a straight line basis over the lease term of 20 years. During the years ended June 30,
+2021 and 2020, deferred revenue of 1,299 was amortized into income. 
+
+29 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE 3 NOTES
+PAYABLE 
+
+The Company s long-term debt
+at June 30, 2021 and 2020 consists of: 
+
+June 30, 
+ 2021 
+
+June 30, 
+ 2020 
+ 
+ Payee 
+ 
+ Terms 
+
+Nodaway Valley Bank 
+ 
+ 350,000 line-of-credit agreement expiring on January 4, 2022, with a variable interest rate at prime but not less than 5 . The line-of-credit is collateralized by substantially all assets of the Company. Management anticipates renewal of the line-of-credit agreement at similar terms upon expiration. 
+
+120,000 
+
+- 
+
+Ford Credit 
+ 
+ 705 monthly payments, interest of 5.8 ; final payment due October 2021, secured by a vehicle. Note paid in full during year ended June 30, 2021. 
+
+- 
+
+10,824 
+
+Toyota Credit 
+ 
+ 444 monthly payments, interest of 6.49 ; final payment due May 2022, secured by a vehicle. 
+
+4,730 
+
+9,585 
+
+Nodaway Valley Bank 
+ 
+ Small Business Administration Paycheck Protection Program (PPP) Promissory Note, interest of 1 , beginning November 10, 2020 monthly payments of 9,652 including interest are due; final payment due April 10, 2022, under the terms of the PPP program, this loan was fully forgiven during December 2020. A gain on extinguishment of debt has been recognized as other income. 
+
+- 
+
+171,500 
+
+Total 
+
+124,730 
+
+191,909 
+
+Less Current Portion 
+
+124,730 
+
+88,318 
+
+Long-Term Portion 
+
+- 
+
+103,591 
+
+30 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE 4 CAPITAL
+STOCK 
+
+Capital stock authorized, issued, and
+outstanding as of June 30, 2021 is as follows: 
+
+Shares 
+
+Issued and 
+
+Authorized 
+ Outstanding 
+ 
+ Prior Cumulative Preferred Stock, 5 Par Value: 
+
+6 Convertible 
+ 240,000 
+
+Series A 
+ 
+ 100,000 
+ 
+ Series B 
+ 
+ 100,000 
+
+Cumulative Preferred Stock, 20 Par Value: 
+
+5 Convertible 
+ 150,000 
+
+Series A 
+ 
+ 58,533 
+ 
+ Series B 
+ 
+ 9,539 
+
+Common Stock, 1 Par Value: 
+
+Reserved for Conversion of 
+
+Preferred Stock - 1,030,166 shares 
+ 2,000,000 
+ 969,834 
+
+Cumulative Preferred Stock dividends
+in arrears at June 30, 2021 and 2020 totaled 8,589,166 and 8,461,094, respectively. Total dividends in arrears, on a per share basis,
+consist of the following at June 30, 2021 and 2020: 
+
+For the Years Ended 
+
+June 30th 
+
+2021 
+ 2020 
+ 
+ 6 Convertible: 
+
+Series A 
+ 18.75 
+ 18.45 
+ 
+ Series B 
+ 18.30 
+ 18.00 
+ 
+ 5 Convertible: 
+
+Series A 
+ 71.75 
+ 70.75 
+ 
+ Series B 
+ 71.75 
+ 70.75 
+
+The 6 convertible prior cumulative
+preferred stock may, upon 30 days prior notice, be redeemed by the Corporation at 5.25 a share plus unpaid accrued dividends to date
+of redemption. In the event of voluntary liquidation, holders of this stock are entitled to receive 5.25 per share plus accrued dividends.
+Cumulative preferred stock may be exchanged for common stock at the option of the shareholders in the ratio of four common shares for
+one share of Series A and 3.75 common shares for one share of Series B. 
+
+The Company has the privilege of redemption
+of 5 convertible cumulative preferred stock at 21.00 a share plus unpaid accrued dividends. In the event of voluntary or involuntary
+liquidation, holders of this stock are entitled to receive 20.00 a share plus unpaid accrued dividends. It may be exchanged for common
+stock at the option of the shareholders, in the ratio of 3.795 common shares for one of preferred. 
+
+31 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE 5 INCOME TAXes 
+
+Management believes the income tax
+positions taken for open years are appropriately stated and supported for all open years. The Company s federal tax returns for
+the years ended June 30, 2020, 2019, and 2018 are subject to examination by the Internal Revenue Service taxing authority. 
+
+The sources of deferred income tax
+assets and liability at June 30, 2021 and 2020 are as follows: 
+
+June 30, 
+ June 30, 
+
+2021 
+ 2020 
+ 
+ Deferred tax assets: 
+
+Bad Debt Allowance 
+ 3,600 
+ 3,416 
+ 
+ Deferred Income 
+ 1,200 
+ 1,600 
+ 
+ Contribution Carryover 
+ - 
+ 1,748 
+ 
+ Net operating loss carryforwards 
+ 38,600 
+ 93,681 
+
+43,400 
+ 100,445 
+ 
+ Deferred tax liabilities: 
+
+Book/Tax Difference on Fixed Assets 
+ (18,000 
+ (23,213 
+
+(18,000 
+ (23,213 
+
+Net deferred tax asset before valuation allowance 
+ 25,400 
+ 77,232 
+
+Valuation allowance: 
+
+Beginning balanace 
+ (77,232 
+ (39,682 
+ 
+ Increase during the period 
+ 51,832 
+ (37,550 
+ 
+ Ending balance 
+ (25,400 
+ (77,232 
+
+Net deferred tax asset 
+ - 
+ - 
+
+32 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE 5 
+ income taxes (CONTINUED) 
+
+The income tax provision differs from
+the amount of income tax determined by applying the statutory federal income tax rate to pretax income (loss) for the years ended June 30, 2021
+and 2020 due to the following: 
+
+For the Years Ended 
+
+June 30th 
+
+2021 
+ 2020 
+ 
+ Computed at statutory rate 
+ 76,384 
+ (30,670 
+
+Increase (decrease) resulting from: 
+
+Nondeductible Meals Entertainment 
+ 9 
+ 9 
+ 
+ PPP Loan Forgivenss Income 
+ (36,015 
+ - 
+ 
+ State income taxes - net of federal tax benefit 
+ 6,076 
+ - 
+ 
+ Change in deferred tax asset valuation allowance 
+ (51,832 
+ 30,661 
+ 
+ Other 
+ 5,378 
+ - 
+
+Actual tax provision 
+ - 
+ - 
+
+The Company has available at June 30,
+2021, 159,947 of unused operating loss that may be carried forward and applied against future taxable income. Of the net operating loss
+carryforward, 15,902 expires on June 30, 2038, the remaining balance does not expire. 
+
+33 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE 6 
+ Earnings (LOSS) PER SHARE 
+
+The loss per share for the years ended
+June 30, 2021 and 2020, respectively, was computed on the weighted average of outstanding common shares during the year as follows: 
+
+For the Years Ended 
+
+June 30th 
+
+2021 
+ 2020 
+ 
+ Net Income (Loss) 
+ 363,733 
+ (146,049 
+
+Preferred Dividend Requirements: 
+
+6 Prior Cumulative Preferred, 
+
+5 Par Value 
+ 60,000 
+ 60,000 
+ 
+ 5 Convertible Cumulative 
+
+Preferred, 20 Par Value 
+ 68,072 
+ 68,072 
+ 
+ Total Dividend Requirements 
+ 128,072 
+ 128,072 
+
+Net Income (Loss) - Common 
+
+Stockholders 
+ 235,661 
+ (274,121 
+
+Weighted Average Shares - Basic 
+ 969,834 
+ 969,834 
+ 
+ Dilutive Effect of Contingently 
+
+Issuable Shares 
+ 1,033,334 
+ 1,033,334 
+ 
+ Weighted Average Shares Diluted 
+ 2,003,168 
+ 2,003,168 
+
+Basic Earnings (Loss) per Share 
+ 0.24 
+ (0.28 
+
+Diluted Earnings (Loss) per Share 
+ 0.12 
+ (0.28 
+
+Contingently issuable shares were not included in the 2020 diluted earnings per common share as they would have an antidilutive effect upon earnings per share. 
+
+NOTE 7 
+ SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION 
+
+For the Years Ended 
+
+June 30th 
+
+2021 
+ 2020 
+ 
+ Cash Paid for: 
+
+Interest 
+ 2,685 
+ 5,935 
+
+34 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE 8 
+ COMMITMENTS, CONTINGENCIES AND RELATED PARTY TRANSACTIONS 
+
+The Company leases its office and manufacturing
+facility, located at 1307 South 59th, St. Joseph, Missouri under an operating lease from an entity that is partially owned by the son
+of the Chief Executive Officer of the Company. The lease term is from February 1, 2005 through March 31, 2025 with an option to extend
+for an additional term of five years. The Company does not believe that exercise of the renewal option is reasonably assured, and has
+not included the additional five years in the lease term. The lease currently requires payments of 6,500 per month. 
+
+Operating lease right-of-use assets
+and lease liabilities were recognized upon adoption of the lease standard based on the present value of minimum lease payments over the
+remaining lease term. The Company s operating lease has a remaining term of 5.5 years and the present value of the lease payments
+is calculated using the lessor s implicit rate of 6.43 . Operating lease expense is recognized on a straight-line basis over the
+lease term. 
+
+The Company s lease agreement
+does not contain any residual value guarantees. Additionally, any other short-term leases are immaterial. The Company elected the practical
+expedient to not separate lease and nonlease components and also elected the short-term practical expedient for all leases that qualify.
+As a result, the Company will not recognize right-of-use assets or liabilities for short-term leases that qualify for the short-term practical
+expedient, but instead will recognize the lease payments as lease cost on a straight-line basis over the lease term. Operating lease expenses
+and cash paid for operating lease liabilities were 78,000 for the year ended June 30, 2021, of which, 71,565 is included in cost of
+sales and 6,435 is included in general and administrative expenses. 
+
+Minimum annual payments required under
+existing operating lease liabilities that have initial or remaining noncancelable terms in excess of one year as of June 30, 2021 are
+as follows: 
+
+Years Ending June 30, 
+ Amount 
+ 
+ 2022 
+ 78,000 
+ 
+ 2023 
+ 78,000 
+ 
+ 2024 
+ 78,000 
+ 
+ 2025 
+ 58,500 
+ 
+ Total Lease Payments 
+ 292,500 
+ 
+ Less: Imputed Interest 
+ 33,207 
+ 
+ Total Lease Liabilities 
+ 259,293 
+
+As of June 30, 2021, the Company had
+raw materials purchase commitments with one vendor totaling approximately 9,000. 
+
+35 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE 9 
+ DISCLOSURES ABOUT FAIR VALUE OF FINANCIAL INSTRUMENTS 
+
+The Company s financial instruments
+consist principally of cash and cash equivalents, trade receivables and payables, and notes payable. There are no significant differences
+between the carrying value and fair value of any of these consolidated financial instruments. As of June 30, 2021, the amount of the
+Company s long-term debt approximates fair value based on the present value of estimated future cash flows using a discount rate
+commensurate with a borrowing rate available to the Company. 
+
+NOTE 10 
+ CONCENTRATION OF CREDIT RISK 
+
+For the years ended June 30, 2021 and
+2020, two customers accounted for 49 and 53 , respectively, of the sales. As of June 30, 2021 and 2020, two customers accounted for 52 
+and 36 , respectively, of trade receivables. The effects of the COVID-19 pandemic are further discussed below in Note 11 . After
+considering the impact of the COVID-19 pandemic, the Company does not anticipate significant changes to the concentration of credit risk
+in the next 12 months. 
+
+NOTE 11 
+ SUBSEQUENT EVENTS 
+
+The COVID-19 pandemic is having significant
+effects on global markets, supply chains, businesses, and communities. The Company put preparedness plans in place at the manufacturing
+facility. They have adjusted the number of people allowed at their facilities, enforced social distancing, maintained proper sanitation
+protocol and have asked that any high risk or employees feeling ill to not come in. The office and sales staff continues to work, while
+adhering to social distancing guidelines, implementing flexible hours, reducing person-to-person interaction and increasing safety measures. 
+
+To date, there has been minimal disruption
+to the supply chain network, including the supply of ingredients, packaging or other sourced materials, though it is possible that more
+disruptions could occur if the COVID-19 pandemic continues to impact markets around the world. The Company has repackaged inventory to
+continue to fill orders as needed and repurposed employees to better meet the current needs. Cost measures have been put in place to limit
+any nonessential needs. 
+
+The Company believes they have sufficient
+liquidity to satisfy current cash needs, however, they continue to evaluate and take action, as necessary, to preserve adequate liquidity
+and ensure that the business can continue to operate during these uncertain times. 
+
+The potential impact to the Company s
+consolidated financial statements could occur as early as the first quarter of fiscal year ending June 30, 2022 and include, but not limited
+to: impairment of long lived assets; including property and equipment and operating lease right-of-use assets related to the Company s
+fair value and collectability of receivables and other financial assets. 
+
+36 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+NOTE 12 SUBSEQUENT
+EVENTS (CONTINUED) 
+
+The Company monitors significant events
+occurring after June 30, 2021 and prior to the issuance of the financial statements to determine the impact, if any, of the events on
+the financial statements to be issued. All subsequent events of which the Company is aware were evaluated through the filing date of this
+Form 10-K. 
+
+Item 9 CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+Not applicable 
+
+Item 9A CONTROLS AND PROCEDURES 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+The Company s principal
+executive officer, who is also the chief financial and accounting officer, has evaluated the effectiveness of the Company s
+disclosure controls and procedures, as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of
+1934, as amended (the Exchange Act), as of the end of the period covered by this report. Based on such evaluation, such officer has
+concluded that the Company s disclosure controls and procedures are not effective as a result of a weakness in the design of
+internal control over financial reporting identified below. 
+
+Disclosure controls and procedures include controls and procedures
+designed to provide reasonable assurance that information required to be
+disclosed in periodic filings under the Exchange Act is accumulated and communicated to Management, including those officers, and to
+members of the board of directors, to allow timely decisions regarding required disclosure. 
+
+Management s Report on
+Internal Control over Financial Reporting 
+
+The Company s management is responsible
+for establishing and maintaining effective internal control over financial reporting as defined in Rule 13a-15(f) under the Exchange Act.
+Management has assessed the Company s internal control over financial reporting in relation to criteria described in Internal
+Control-Integrated Framework (2013) , issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Based
+on this assessment using those criteria, management concluded that, as of June 30, 2021, the Company s internal control over financial
+reporting was not effective. 
+
+A material weakness was identified in our internal control over financial
+reporting due to a lack of accounting personnel with the appropriate level of knowledge, experience and training to perform an assessment
+of its internal controls. This has also resulted in a failure to maintain appropriate segregation of duties over system access. Management
+believes that this material weakness did not have an adverse effect on the Company s financial results reported herein. We believe
+that this material weakness can be remedied or mitigated through further use of our outside, independent financial consultant. 
+
+This Annual Report does not include
+an attestation report of the Company s independent registered public accounting firm regarding internal control over financial reporting.
+Management s report was not subject to attestation by the Company s independent registered public accounting firm pursuant
+to the temporary rules of the Securities and Exchange Commission that permit the Company to provide only management s report in
+this Annual Report. 
+
+37 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Item 9A CONTROLS AND PROCEDURES (CONTINUED) 
+
+Changes in Internal Controls 
+
+There were no significant changes in
+the Company s internal controls over financial reporting or in other factors that in management s estimates are reasonably
+likely to materially affect the Company s internal controls over financial reporting subsequent to the date of the evaluation. 
+
+Item 9B OTHER INFORMATION 
+
+None 
+
+38 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+ PART III 
+
+Item 10 DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE 
+
+(a) Directors 
+
+Name 
+ Age 
+ Periods of Service as Director 
+ Terms 
+ 
+ Barry M. Yantis 
+ 76 
+ 1980 to Present 
+ One Year 
+ 
+ Brian A. Yantis 
+ 73 
+ July 16, 1986 to Present 
+ One Year 
+
+Years of 
+
+Service as 
+
+Name 
+ 
+ Age 
+ 
+ an Officer 
+ 
+ Term 
+ 
+ Barry M. Yantis 
+ 
+ 76 
+ 
+ 42 
+ 
+ Until Successor Elected 
+ 
+ Brian A. Yantis 
+ 
+ 73 
+ 
+ 29 
+ 
+ Until Successor Elected 
+
+(b) Certain Significant Employees 
+
+There are no significant employees other
+than above. 
+
+(c) Family Relationships 
+
+Barry M. Yantis and Brian A. Yantis are
+brothers. 
+
+Business Experience 
+
+(1) Barry M. Yantis, President and Treasurer has been an officer of the Company for 42 years, 13 years as
+Vice-President and 29 years as President. He has been on the board of directors for 42 years and has been associated with the candy business
+for 46 years. 
+
+Brian A. Yantis, Secretary has been
+an officer of the Company since May 1992. Until retiring in 2011, he had been associated with the insurance business for 37 years and
+was a Vice-President of Aon Risk Services in Chicago, Illinois for 22 years. 
+
+(2) The directors and executive officers listed above are also the directors and executive officers of Dye
+Candy Company. 
+
+(d) Involvement in Certain Legal Proceedings 
+
+Not applicable 
+
+(e) Audit Committee Financial Expert 
+
+Registrant is not required to have an
+audit committee since the stock is not actively traded. The board of directors are not considered audit committee financial experts, but
+do effectively operate as the audit committee. 
+
+39 
+
+CHASE
+GENERAL CORPORATION AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Item 10 DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE 
+
+(f) Code of Ethics 
+
+The Company has adopted a Code of Business
+Conduct and Ethics that applies to all executive officers, directors, and employees of the Company. The Code of Business Conduct and Ethics
+will be provided to any person without charge upon request. 
+
+Item 11 EXECUTIVE COMPENSATION 
+
+(a) General 
+
+Executive officers are compensated for
+their services as set forth in the Summary Compensation Table. These salaries are approved yearly by the board of directors. 
+
+(b) Summary Compensation Table 
+
+Long-Term
+ Compensation 
+
+112819 
+
+Name and 
+
+Other 
+ Restricted 
+
+Principal 
+ 
+ Fiscal 
+
+Annual 
+ Stock 
+ Option 
+ LTIP 
+
+All Other 
+
+Position 
+ 
+ Year
+ End 
+ Salary 
+ Bonus 
+ Compensation 
+ Award
+ (s) 
+ SARs
+ (#) 
+ Payouts 
+
+Compensation 
+
+Barry M. Yantis 
+ 
+ 1)06-30-21 
+ 102,500 
+ - 
+ 2,240 
+
+Barry M. Yantis 
+ 
+ 1)06-30-20 
+ 116,507 
+ - 
+ 2,340 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Barry M. Yantis 
+ 
+ 1)06-30-19 
+ 127,300 
+ - 
+ 2,900 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Barry M. Yantis 
+ 
+ 1)06-30-18 
+ 134,300 
+ - 
+ 3,300 
+ - 
+ - 
+ - 
+ 
+ - 
+
+1)
+ CEO, President and Treasurer 
+
+2)
+ No other compensation than that which is listed in compensation table. 
+
+3)
+ No other officers have compensation over 100,000 for their services besides those listed in this compensation table. 
+
+(c) Option/SAR grants table 
+
+Not applicable 
+
+(d) Aggregated option/SAR exercises and fiscal year-end option/SAR
+value table 
+
+Not applicable 
+
+(e) Long-term incentive plan awards table 
+
+Not applicable 
+
+(f) Compensation of Directors 
+
+Directors are not compensated for services
+on the board. The directors are reimbursed for travel expenses incurred in attending board meetings. 
+
+40 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+ITEM 11 
+ EXECUTIVE COMPENSATION (CONTINUED) 
+
+(g) Employment contracts and termination of employment and change in control arrangements 
+
+No employment contracts exist with any
+executive officers. In addition, there are no contracts currently in place regarding termination of employment or change in control arrangements. 
+
+(h) Report on repricing of option/SARs 
+
+Not applicable 
+
+(i) Additional information with respect to compensation committee interlocks and insider participation
+in compensation decisions 
+
+The registrant has no formal compensation
+committee. The board of directors, Brian A. Yantis and Barry M. Yantis (all current officers of the Company) annually approve the compensation
+of Barry M. Yantis, CEO, President and Treasurer. 
+
+(j) Board compensation committee report on executive compensation 
+
+The board bases the annual salary of the
+CEO on the Company's prior year performance. The criteria is based upon, but is not limited to, market area expansion, gross profit improvement,
+control of operating expenses, generation of positive cash flow, and hours devoted to the business during the previous fiscal year. 
+
+41 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Item 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND STOCKHOLDER MATTERS 
+
+Title of Class 
+ Name and Address 
+ Amounts 
+and 
+ Nature of 
+ Beneficial 
+ Ownership 
+ 
+ of Class 
+
+Security Ownership of Certain 
+
+Beneficial Owners 
+
+Common; Par Value 1 per Share 
+ Barry Yantis, CEO Director 
+5605 Osage Drive 
+St. Joseph, MO 64503 
+ 194,385 (1) 
+ 
+ 16.90 (2) 
+
+Brian Yantis, Officer Director 
+ 1210 E. Clarendon Arlington 
+ Heights, IL 60004 
+ 97,192 (1) 
+ 
+ 8.40 (2) 
+
+(b) 
+ Security Ownership of Management 
+
+Common; Par Value 1 per Share 
+ Two Directors and CEO as a Group 
+ 110,856 
+ 
+ 11.40 
+
+Prior Cumulative Preferred, 5 Par 
+ Two Directors and CEO as a Group 
+ 21,533 
+ 
+ 21.50 
+
+Value: Series A, 6 Convertible 
+
+Prior Cumulative Preferred, 5 Par 
+ Two Directors and CEO as a Group 
+ 21,533 
+ 
+ 21.50 
+
+Value: Series B, 6 Convertible 
+
+Cumulative Preferred, 20 Par 
+ Two Directors and CEO as a Group 
+ 3,017 
+ 
+ 5.20 
+
+Value: Series A, 5 Convertible 
+
+Cumulative Preferred, 20 Par 
+ Two Directors and CEO as a Group 
+ 630 
+ 
+ 6.60 
+
+Value: Series B, 5 Convertible 
+
+(1) 
+ Includes 120,477 and 60,244 shares, respectively, which could be received within 30 days upon conversion of preferred stock. 
+
+(2) 
+ Reflects the percentage assuming the preferred shares above were converted into common stock. 
+
+(c) 
+ No Known Change of Control is Anticipated 
+
+42 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Item 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+
+(a) 
+ Transactions with management and others 
+
+The registrant s subsidiary, Dye Candy Company entered into an operating lease agreement during the 2005 fiscal year to provide
+office and manufacturing facilities with a limited liability company that is partially owned by the son of the Chief Executive Officer
+of the Company. The annual rent is 78,000. 
+
+(b) 
+ Certain business relationships 
+
+Not applicable 
+
+(c) 
+ Indebtedness of management 
+
+Not applicable 
+
+(d) 
+ Transactions with promoters 
+
+Not applicable 
+
+ITEM 14 PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+The following table shows the aggregate
+fees billed to the Company for professional services for the years ended June 30, 2021 and 2020: 
+
+2021 
+ 2020 
+ 
+ Audit Fees: 
+
+Mayer Hoffman McCann P.C. (MHM) 
+ 112,819 
+ 83,656 
+ 
+ Audit Related Fees 
+ - 
+ - 
+ 
+ Tax Fees 
+ - 
+ - 
+ 
+ All Other Fees 
+ - 
+ - 
+
+Substantially all MHM s personnel,
+who work under the control of MHM shareholders, are employees of wholly-owned subsidiaries of CBIZ, Inc., which provides personnel and
+various services to MHM in an alternative practice structure. 
+
+43 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+PART IV 
+
+Item 15 EXHIBITS AND CONSOLIDATED FINANCIAL STATEMENT SCHEDULES 
+
+The following documents are filed as part of this report. 
+
+1. 
+ Consolidated Financial Statements: 
+ Page 
+
+Index to Consolidated Financial Statements 
+ 17 
+
+Report of the Independent Registered Public Accounting Firm 
+ 18 
+
+Consolidated Balance Sheets 
+ 19 - 20 
+
+Consolidated Statements of Operations 
+ 21 
+
+Consolidated Statements of Stockholders Equity 
+ 22 
+
+Consolidated Statements of Cash Flows 
+ 23 
+
+Notes to Consolidated Financial Statements 
+ 24 - 37 
+
+2. 
+ Consolidated Financial Statement Schedules: 
+
+None 
+
+3. 
+ Exhibits: 
+
+The exhibits listed below are filed with or incorporated by
+reference in this report. 
+
+The following have been previously filed and are incorporated
+by reference to prior years' Forms 10-K filed by the Registrant: 
+
+3.1 
+ Articles of Incorporation of Chase General Corporation 
+
+3.2 
+ Bylaws 
+
+The following are Exhibits attached or explanations included
+in Notes to Consolidated Financial Statements in Part II of this report: 
+
+4. Instruments defining the rights of security holders including indentures - Refer to Note 4. 
+
+11. 
+ Computation of loss per share - Refer to Note
+6. 
+
+21. Subsidiaries of registrant - Refer to Note 1 of Notes to Consolidated Financial Statements. 
+
+31.1 Certification of Chief Executive Officer and Chief Financial Officer pursuant to Rule 13a-14(a)/15d 
+14(a) of the Securities Exchange Act of 1934, as amended, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1 Certification of Chairman of the Board, Chief Executive Officer and Chief Financial Officer pursuant to
+18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+44 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Item 15 EXHIBITS AND CONSOLIDATED FINANCIAL STATEMENT SCHEDULES (CONTINUED) 
+
+101 The following financial statements for the year ended June 30, 2021, formatted in XBRL: (i) Consolidated
+Balance Sheets as of June 30, 2021 and 2020, (ii) Consolidated Statements of Operations for the years ended June 30, 2021 and 2020,
+(iii) Consolidated Statement of Stockholders Equity for the years ended June 30, 2021 and 2020, (iv) Consolidated Statements of
+Cash Flows for the years ended June 30, 2021 and 2020, and (v) the Notes to Condensed Consolidated Financial Statements, tagged as blocks
+of text. 
+
+45 
+
+CHASE GENERAL CORPORATION AND SUBSIDIARY 
+ANNUAL REPORT ON FORM 10-K
+ 
+FOR THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or
+15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+CHASE GENERAL CORPORATION 
+(Registrant) 
+
+Date: 
+ October 13, 2021 
+ By: 
+ /s/ Barry M. Yantis 
+
+Barry M. Yantis 
+
+Chairman of the Board, Chief Executive Officer, 
+
+President and Treasurer 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and
+on the dates indicated below. 
+
+Signatures 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Barry M. Yantis 
+
+October 13, 2021 
+
+Barry M. Yantis 
+ 
+ Chairman of the Board, Chief Executive Officer and Chief Financial Officer, President, Treasurer and
+ Director 
+
+/s/ Brian A. Yantis 
+
+October 13, 2021 
+
+Brian A. Yantis 
+ 
+ Secretary and Director 
+
+46 
+
+<EX-31.1>
+ 2
+ tm2124269d1_ex31-1.htm
+ EXHIBIT 31.1
+
+EXHIBIT 31.1 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+
+ ANNUAL REPORT ON FORM
+10-K 
+
+ FOR THE YEARS ENDED JUNE
+30, 2021 AND 2020 
+
+CERTIFICATION OF CHIEF EXECUTIVE AND FINANCIAL
+OFFICER REQUIRED BY RULE 13a-14(a)/15d-14(a) 
+
+CERTIFICATION 
+
+I Barry Yantis, certify that: 
+
+1. 
+ I have reviewed this Annual Report on Form 10-K of Chase General Corporation; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this annual report; 
+
+3. 
+ Based on my knowledge, the consolidated financial statements, and other financial information included in this annual report, fairly present in all material respects the financial condition, results of operations and cash flows of the small business issuer as of, and for, the periods presented in this annual report; 
+
+4. 
+ I am the small business issuer s certifying officer and am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for Chase General Corporation and we have: 
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to
+be designed under my supervision, to ensure that material information relating to Chase General Corporation, including its consolidated
+subsidiary, is made known to me by others within that entity, particularly during the period in which this report is being prepared; 
+
+b) Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of consolidated financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) Evaluated the effectiveness of Chase General Corporation s disclosure controls and procedures and
+presented in this annual report my conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this annual report based on such evaluation; and 
+
+d) Disclosed in this report any change in Chase General Corporation s internal control over financial
+reporting that occurred during Chase General Corporation s fourth fiscal quarter that has materially affected, or is reasonably
+likely to materially affect, Chase General Corporation s internal control over financial reporting; 
+
+47 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+
+ ANNUAL REPORT ON FORM
+10-K 
+
+ FOR THE YEARS ENDED JUNE
+30, 2021 AND 2020 
+
+5. 
+ I have disclosed, based on my most recent evaluation of internal control over financial reporting, to Chase General Corporation s auditors and our board of directors (acting as the audit committee): 
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over
+financial reporting, which are reasonably likely to adversely affect the small business issuer s ability to record, process, summarize
+and report financial information; and 
+
+b) Any fraud, whether or not material, that involves management or other employees who have a significant
+role in the small business issuer s internal control over financial reporting. 
+
+October 13, 2021 
+ /s/ Barry M. Yantis 
+ 
+ Date 
+ Barry M. Yantis 
+
+Chief Executive Officer and
+ Chief Financial Officer, President and Treasurer 
+
+48 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ tm2124269d1_ex32-1.htm
+ EXHIBIT 32.1
+
+EXHIBIT
+ 32.1 
+
+CHASE GENERAL CORPORATION
+AND SUBSIDIARY 
+
+ ANNUAL REPORT ON FORM
+10-K 
+
+ FOR THE YEARS ENDED JUNE
+30, 2021 AND 2020 
+
+CHASE GENERAL
+CORPORATION 
+
+CERTIFICATION
+PURSUANT TO 
+
+18 U.S.C. SECTION
+1350, 
+
+AS ADOPTED
+PURSUANT TO 
+
+SECTION 906
+OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Chase
+General Corporation (the Company) on Form 10-K for the year ending June 30, 2021 as filed with the Securities and Exchange Commission
+on the date hereof (the Report), I, Barry Yantis, President, Chief Executive Officer, and Treasurer of the Company, certify, pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge: 
+
+1) The
+ Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange
+ Act of 1934; and 
+
+2) The
+ information contained in the Report fairly presents, in all material respects, the financial
+ condition and results of operations of the Company. 
+
+October 13, 2021 
+ /s/
+ Barry M. Yantis 
+ 
+ Date 
+ Barry M. Yantis 
+
+Chairman of the Board, Chief Executive Officer
+ and Chief Financial Officer, President and Treasurer 
+
+49 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 4
+ csgn-20210630.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 5
+ csgn-20210630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ csgn-20210630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ csgn-20210630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ csgn-20210630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ csgn-20210630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

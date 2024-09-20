@@ -1,0 +1,2452 @@
+<Header>
+<FileStats>
+    <FileName>20211012_10-K_edgar_data_1683131_0001607062-21-000399.txt</FileName>
+    <GrossFileSize>3221005</GrossFileSize>
+    <NetFileSize>73240</NetFileSize>
+    <NonText_DocumentType_Chars>567951</NonText_DocumentType_Chars>
+    <HTML_Chars>1120222</HTML_Chars>
+    <XBRL_Chars>638080</XBRL_Chars>
+    <XML_Chars>740516</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001607062-21-000399.hdr.sgml : 20211012
+<ACCEPTANCE-DATETIME>20211012164154
+ACCESSION NUMBER:		0001607062-21-000399
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		51
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20211012
+DATE AS OF CHANGE:		20211012
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Forza Innovations Inc
+		CENTRAL INDEX KEY:			0001683131
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL DOORS, SASH, FRAMES, MOLDING & TRIM [3442]
+		IRS NUMBER:				300852686
+		STATE OF INCORPORATION:			WY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-56131
+		FILM NUMBER:		211319026
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 FORZANI WAY NW
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T3Z1L5
+		BUSINESS PHONE:		702-205-2064
+
+	MAIL ADDRESS:	
+		STREET 1:		30 FORZANI WAY NW
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T3Z1L5
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Genesys Industries, Inc.
+		DATE OF NAME CHANGE:	20160825
+
+</SEC-Header>
+</Header>
+
+ 0001607062-21-000399.txt : 20211012
+
+10-K
+ 1
+ forza063021form10k.htm
+ 10-K
+
+UNITED
+STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+
+ _________________ 
+
+ FORM
+
+_________________ 
+
+ ANNUAL
+REPORT PURSUANT TO SECTION 13 OR 15(d) 
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ For
+the fiscal year ended: 
+
+ or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+ For
+the transition period from: _____________ to _____________ 
+
+_________________ 
+
+(State
+ or Other Jurisdiction 
+ (Commission 
+ (I.R.S.
+ Employer 
+ 
+ of
+ Incorporation or Organization) 
+ File
+ Number) 
+ Identification
+ No.) 
+
+, , (Address of Principal Executive Offices) (Zip Code) 
+
+(Registrant s telephone number, including area code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+ Not
+Applicable 
+
+Securities
+registered pursuant to Section 12(g) of the Act: 
+
+ Title
+of each class 
+
+Common
+stock, par value of 0.001 
+
+ _________________ 
+
+ Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+ Yes 
+
+ Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Securities Act. 
+
+ Yes 
+
+ Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to the filing requirements for the past 90 days. 
+
+ No 
+
+ Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). 
+
+ No 
+
+ Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company
+or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller
+reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act.: 
+
+Large Accelerated Filer 
+
+Accelerated Filer 
+
+Smaller Reporting Company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act 
+
+ Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+ Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act.) 
+
+ Yes 
+
+ As
+of December 31, 2020, the last day of the registrant s most recently completed second fiscal quarter, the aggregate market value
+of the Common Stock held by non-affiliates of the registrant was approximately .35 based on the closing price of 0.0275 of the
+registrant s common stock. The calculation excludes shares of the registrant s common stock held by current executive
+officers, directors and stockholders that the registrant has concluded are affiliates of the registrant. This determination
+of affiliate status is not a determination for other purposes. 
+
+ As
+of October 7, 2021, there were shares of common stock outstanding. 
+
+1 
+
+PART
+ I 
+
+Item
+ 1. Business 
+ 3 
+ 
+ Item
+ 1A. Risk Factors 
+ 5 
+ 
+ Item
+ 1B. Unresolved Staff Comments 
+ 5 
+ 
+ Item
+ 2. Properties 
+ 5 
+ 
+ Item
+ 3. Legal Proceedings 
+ 5 
+ 
+ Item
+ 4. Mine Safety Disclosures 
+ 5 
+
+PART
+ II 
+
+Item
+ 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 6 
+ 
+ Item
+ 6. Selected Financial Data 
+ 7 
+ 
+ Item
+ 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 10 
+ 
+ Item
+ 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 10 
+ 
+ Item
+ 8. Financial Statements and Supplementary Data 
+ 10 
+ 
+ Item
+ 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 10 
+ 
+ Item
+ 9A. Controls and Procedures 
+ 10 
+ 
+ Item
+ 9B. Other Information 
+ 10 
+
+PART
+ III 
+
+Item
+ 10. Directors, Executive Officers and Corporate Governance 
+ 11 
+ 
+ Item
+ 11. Executive Compensation 
+ 12 
+ 
+ Item
+ 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 14 
+ 
+ Item
+ 13. Certain Relationships and Related Transactions, and Director Independence 
+ 14 
+ 
+ Item
+ 14. Principal Accounting Fees and Services 
+ 14 
+
+PART
+ IV 
+
+Item
+ 15. Exhibits, Financial Statement Schedules 
+ 16 
+
+2 
+
+Forward-Looking
+Information 
+
+Statements
+in this report may be forward-looking statements. Forward-looking statements include, but are not limited to, statements
+that express our intentions, beliefs, expectations, strategies, predictions or any other statements relating to our future activities
+or other future events or conditions. These statements are based on current expectations, estimates and projections about our business
+based, in part, on assumptions made by management. These statements are not guarantees of future performance and involve risks, uncertainties
+and assumptions that are difficult to predict. Therefore, actual outcomes and results may, and are likely to, differ materially from
+what is expressed or forecasted in the forward-looking statements due to numerous factors, including those described above and those
+risks discussed from time to time in this report, including the risks described under Risk Factors and any risks described
+in any other filings we make with the SEC. Any forward-looking statements speak only as of the date on which they are made, and we do
+not undertake any obligation to update any forward-looking statement to reflect events or circumstances after the date of this report. 
+
+Management s
+discussion and analysis of financial condition and results of operations are based upon our financial statements, which have been prepared
+in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires
+us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses. On an on-going basis,
+we evaluate these estimates, including those related to useful lives of real estate assets, cost reimbursement income, bad debts, impairment,
+net lease intangibles, contingencies and litigation. We base our estimates on historical experience and on various other assumptions
+that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying
+values of assets and liabilities that are not readily apparent from other sources. There can be no assurance that actual results will
+not differ from those estimates. 
+
+PART
+1 
+
+ITEM
+1. BUSINESS 
+
+The
+Company was incorporated on December 9, 2014 in the state of Florida. On February 17, 2021, the Company filed Articles of Continuance
+with the Secretary of State for the state of Wyoming. Accordingly, the Company transferred its state of formation from Florida to Wyoming
+and became a Wyoming entity and is, now, subject to the provisions of the Wyoming Business Corporation Act. No other corporate actions
+were made. 
+
+As
+at June 30, 2021, the Company is in the health-tech wearable performance business. The Company has acquired the ownership and rights
+to certain late developmental stage products, including the WarmUp product line which is comprised of the J4 Sport, J4 X and J4 Fitbelt.
+These products are wearable back compression devices, used to relax, warmup, loosen, or relax stiff sore muscles. The therapeutic
+application of heat causes a change in temperature of the soft tissues which decreases joint stiffness and relieves inflammation. 
+
+Products
+and Services 
+
+As
+at June 30, 2021, the Company has developed the WarmUp series product line designed as WarmUp. It is a cutting edge, innovative, wearable
+back compression device, used to relax, WarmUp, loosen, or relax stiff sore muscles. The therapeutic application of heat causes
+a change in temperature of the soft tissues which decreases joint stiffness and relieves inflammation. When combined with the strategic
+placement of our medical grade support ribs ergonomic design, WarmUp s Thermal Therapy is unmatched. Warmup was originally
+designed to help aid marquee Pro Athletes perform at their best. However, the WarmUp Series will be for everyone. Ideal
+for a chilly day on the links, Ski/Snowboarding, Hunter/Fishers, Outdoor work force, Medical, Military, everything in between! 
+
+The
+product line utilizes a low-cost technology that has multi-functional use servicing all kinds of people, ranging from marquee pro athletes.
+WarmUp is a low cost, yet highly efficient, multi-use heating technology. WarmUp uses next gen, carbon micro fibers combined with powerful,
+safe rechargeable Lithium Batteries. 
+
+3 
+
+The
+cutting-edge, technical, innovative, and wearable back compression devices are used to warmup, loosen, or relax stiff and sore muscles.
+Our technology is designed to maximize the benefits of strategically applying heat to your target areas of pain, providing fast relief. 
+
+Our
+WarmUp product line currently consists of the following three products: 
+
+J4
+Core 
+
+The
+Original. Sleek ergonomic design that you can wear while playing, recovering, or performing daily activities at work, home or on the
+road. 
+
+J4
+Sport 
+
+1
+of 1 Dual Zone Patent Pending Heating Tech. Undergoing Class 1 Medical Device Evaluation From FDA. 
+
+ Ideal
+for patients with Chronic Back Pain Conditions such as Arthritis, Osteoporosis, Fibromyalgia, Ligament strains. 
+
+J4
+X 
+
+Fitbelt
+is an innovative, high intensity, core toning wearable. Powered by a new EMS nano tech unfamiliar to all current products on the market.
+FitBelt has dual functionality, so the user can choose to target both the abdominal and lower back muscles or just one of the muscle
+groups. 
+ 
+ Built-in LED interface with pre-programed settings that targets specific muscle types by adjusting
+the frequencies, which can all be controlled via Bluetooth through your phone. 
+ 
+ Whether looking for a tool to boost your fitness and strength or recover from an injury quickly,
+electric muscle stimulation (EMS) can help you achieve your goal. 
+
+Sales
+ Marketing 
+
+As
+at June 30, 2021, the Company is actively working with current and former professional athletes who are not only using the product, but
+investing its future success. It is no secret that athlete endorsement is both tried and tested marketing strategy to appeal to the masses.
+Our athlete ambassadors and investors will actively leverage their social media profiles to promote the product Online. With tens of
+millions combined followers between them, the opportunities for exponential growth are pronounced. 
+
+Customers 
+
+As
+at June 30, 2021 we are in developmental stages and do not have any customers. 
+
+Competition
+
+The
+Company faces competition in the health-tech wearable performance business markets. Most of its competitors are larger and have greater
+financial resources. The Company competes on the basis of price, technological expertise, manufacturing know-how and the quality of its
+products. 
+
+Some
+of our closest competitors are as follows: Venom by Hyperice, Powerdot 2.0, Comped Waist Trainer and SlenderTone Waist Trainer. 
+
+The
+Company faces direct competition from companies with far greater financial, technological, manufacturing and personnel resources. Competition
+is primarily based on product quality, service, timely delivery, and price. 
+
+4 
+
+Research
+and Development; Intellectual Property 
+
+As
+at June 30, 2021, the Company is developing proprietary technologies that will give it an edge in competing with its competitors. We
+are in the process of filing patents to protect our IP. File utility, design, full spectrum patents on the created IP. The Company will
+also register product as Medical Device so patients with chronic pain can get the product free through insurance. 
+
+Suppliers
+
+As
+at June 30, 2021, the company currently has developed beta samples in China that have patentable IP. Our V1 base version is manufacture/retail
+ready. 
+
+Employees
+
+As
+at June 30, 2021, we had 1 employee, our sole officer. 
+
+Foreign
+and Domestic Operations and Export Sales 
+
+As
+at June 30, 2021, the Company has no operations or any significant sales in any foreign country. 
+
+Government
+Regulation 
+
+The
+Company s operations are subject to certain foreign, federal, state and local regulatory requirements relating to, among others,
+environmental, waste management, labor and health and safety matters. As at June 30, 2021, management believes that the Company s
+business is operated in material compliance with all such regulations. 
+
+ITEM
+1A. RISK FACTORS 
+
+Not
+required for smaller reporting companies. 
+
+1B.
+UNRESOLVED STAFF COMMENTS 
+
+None 
+
+ITEM
+2. PROPERTIES 
+
+As
+of June 30, 2021, our office was located at 30 Forzani Way NW, Calgary, Alberta T3Z 1L5. An affiliate makes this space available to the
+Company at zero cost for lease on a month to month basis. There is no written agreement documenting this arrangement. We believe this
+space is adequate for our current needs. 
+
+ITEM
+3. LEGAL PROCEEDINGS 
+
+None 
+
+ITEM
+4. MINE SAFETY DISCLOSURES 
+
+Not
+Applicable 
+
+5 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED SHAREHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+
+MARKET
+INFORMATION 
+
+Our
+common stock is not traded on any exchange. Our common stock is quoted on the OTC Markets, under the trading symbol FORZ .
+ The market for our stock is highly volatile. We cannot assure you that there will be a market in the future for our common
+stock. OTC Markets securities are not listed and traded on the floor of an organized national or regional stock exchange. Instead,
+they are securities transactions are conducted through a telephone and computer network connecting dealers in stocks. 
+
+Our
+common stock became eligible for trading on the OTC Markets on June 19, 2017, although it did not start trading until October 17, 2019.
+We executed a 10 for 1 forward split of our common stock that went effective June 17, 2021. The following table shows the high and low
+prices of our common shares on the OTC Markets or each quarter within the two most recent fiscal years. The following quotations
+reflect inter-dealer prices, without retail mark-up, mark-down or commission and may not necessarily represent actual transactions: 
+
+Fiscal
+ Year Ending June 2021 
+ HIGH 
+ LOW 
+ 
+ Quarter Ending September
+ 30, 2020 
+ 0.035 
+ 0.003 
+ 
+ Quarter
+ Ending December 31, 2020 
+ 0.05 
+ 0.003 
+ 
+ Quarter
+ Ending March 31, 2021 
+ 0.70 
+ 0.014 
+ 
+ Quarter
+ Ending June 30, 2021 
+ 4.82 
+ 0.11 
+
+Fiscal
+ Year Ending June 2020 
+ HIGH 
+ LOW 
+ 
+ Quarter Ending September
+ 30, 2019 
+
+Quarter
+ Ending December 31, 2019 
+ 0.102 
+ 0.047 
+ 
+ Quarter
+ Ending March 31, 2020 
+ 0.077 
+ 0.005 
+ 
+ Quarter
+ Ending June 30, 2020 
+ 0.045 
+ 0.007 
+
+HOLDERS
+
+The
+approximate number of registered stockholders of record as of June 30, 2021 is 19. The number of stockholders of record does
+not include beneficial owners of our common stock, whose shares are held in the names of various dealers, clearing agencies, banks, brokers
+and other fiduciaries. 
+
+DIVIDEND
+POLICY 
+
+We
+have never paid any cash dividends on our common stock. We anticipate that we will retain funds and future earnings to support operations
+and to finance the growth and development of our business. Therefore, we do not expect to pay cash dividends in the foreseeable future.
+Any future determination to pay dividends will be at the discretion of our board of directors and will depend on our financial condition,
+results of operations, capital requirements and other factors that our board of directors deems relevant. In addition, the terms of any
+future debt or credit financings may preclude us from paying dividends. 
+
+RECENT
+SALES OF UNREGISTERED SECURITIES 
+
+None. 
+
+6 
+
+PENNY
+STOCK REGULATION 
+
+Shares
+of our common stock is subject to rules adopted the SEC that regulate broker-dealer practices in connection with transactions in penny
+stocks. Penny stocks are generally equity securities with a price of less than 5.00 (other than securities registered
+on certain national securities exchanges or quoted on the NASDAQ system, provided that current price and volume information with respect
+to transactions in those securities is provided by the exchange or system). The penny stock rules require a broker-dealer,
+prior to a transaction in a penny stock not otherwise exempt from those rules, deliver a standardized risk disclosure document prepared
+by the SEC, which contains the following: 
+
+a
+ description of the nature and level of risk in the market for penny stocks in both public offerings and secondary trading; 
+
+a
+ description of the broker s or dealer s duties to the customer and of the rights and remedies available to the customer
+ with respect to violation to such duties or other requirements of securities laws; 
+
+a
+ brief, clear, narrative description of a dealer market, including bid and ask prices for penny stocks
+ and the significance of the spread between the bid and ask price; 
+
+a
+ toll-free telephone number for inquiries on disciplinary actions; 
+
+definitions
+ of significant terms in the disclosure document or in the conduct of trading in penny stocks; and 
+
+such
+ other information and is in such form (including language, type, size and format), as the SEC shall require by rule or regulation. 
+
+Prior
+to effecting any transaction in penny stock, the broker-dealer also must provide the customer the following: 
+
+the
+ bid and offer quotations for the penny stock; 
+
+the
+ compensation of the broker-dealer and its salesperson in the transaction; 
+
+the
+ number of shares to which such bid and ask prices apply, or other comparable information relating to the depth and liquidity of the
+ market for such stock; and 
+
+monthly
+ account statements showing the market value of each penny stock held in the customer s account. 
+
+In
+addition, the penny stock rules require that prior to a transaction in a penny stock not otherwise exempt from those rules, the broker-dealer
+must make a special written determination that the penny stock is a suitable investment for the purchaser and receive the purchaser s
+written acknowledgment of the receipt of a risk disclosure statement, a written agreement to transactions involving penny stocks, and
+a signed and dated copy of a written suitability statement. These disclosure requirements may have the effect of reducing
+the trading activity in the secondary market for a stock that becomes subject to the penny stock rules. Holders of shares
+of our common stock may have difficulty selling those shares because our common stock will probably be subject to the penny stock rules. 
+
+ITEM
+6. SELECTED FINANCIAL DATA 
+
+Not
+applicable. 
+
+ITEM
+7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION 
+
+The
+following discussion and analysis of our financial condition and results of operations should be read together with our financial statements
+and the related notes and the other financial information included elsewhere in this report. This discussion contains forward-looking
+statements that involve risks and uncertainties. Our actual results could differ materially from those anticipated in these forward-looking
+statements as a result of various factors, including those discussed below and elsewhere in this report, particularly those under Risk
+Factors. Dollars in tabular format are presented in thousands, except per share data, or otherwise indicated. 
+
+7 
+
+Overview 
+
+The
+Company was incorporated on December 9, 2014 in the state of Florida. On February 17, 2021, the Company filed Articles of Continuance
+with the Secretary of State for the state of Wyoming. Accordingly, the Company transferred its state of formation from Florida to Wyoming
+and became a Wyoming entity and is, now, subject to the provisions of the Wyoming Business Corporation Act. No other corporate actions
+were made. 
+
+As
+at June 30, 2021, the Company is in the health-tech wearable performance business. The Company has acquired the ownership and rights
+to certain late developmental stage products, including the J4 Sport, J4 X and J4 Fitbelt. These products are wearable back compression
+devices, used to relax, warmup, loosen, or relax stiff sore muscles. The therapeutic application of heat causes a change in temperature
+of the soft tissues which decreases joint stiffness and relieves inflammation. 
+
+Results
+of Operation for the Year Ended June 30, 2021 Compared to the Year Ended June 30, 2020 
+
+Revenues
+and Cost of Revenue 
+
+Due
+to the termination of our CNC manufacturing and fabrication business, we did not have any revenue or cost of revenue from continuing
+operations for the years ended June 30, 2021 and 2020. 
+
+Operating
+Expenses from Continuing Operations 
+
+Operating
+expenses from continuing operations for the years ended June 30, 2021 and 2020, consisted of general and administrative expenses of 60,165
+and 33,255, respectively, General and administrative expenses consisted primarily of accounting and audit fees. During the year ended
+June 30, 2021, we incurred 21,200 of audit fees, 8,100 for accounting and 1,500 for legal. We also had 10,931 of depreciation and
+amortization expense and 14,437 of miscellaneous general and administrative expense. In the prior year operating expenses from continuing
+operations consisted of mostly of accounting and audit expense. 
+
+Other
+Income from Continuing Operations 
+
+During
+the year ended June 30, 2021, we incurred 26,033 of interest expense, 12,500 of debt discount amortization, recognized a 365,019 loss
+on the disposition of assets and liabilities and a loss of 2,704,865 on the acquisition of assets from a related party. During the year
+ended June 30, 2020, we incurred 5,484 of interest expense, 137,500 of debt discount amortization, recognized a 40,000 loss on the
+issuance of common stock and a loss of 75,000 on the issuance of convertible debt. 
+
+Net
+Loss from Continuing Operations 
+
+Our
+net loss from continuing operations for the years ended June 30, 2021 was 3,168,582 compared to 291,239 for the year. The large increase
+in our net loss in mainly due to the loss on asset acquisition and the loss on the disposition of the assets and liabilities. 
+
+Liquidity
+and Capital Resources 
+
+As
+reflected in the accompanying financial statements, the Company has an accumulated deficit of 3,494,730 at June 30, 2021, and had a
+net loss from continuing operations of 3,168,582 for year ended June 30, 2021. 
+
+For
+the year ended June 30, 2021, we netted 66,297 of cash from operating activities, compared to 21,613 for the year ended June 30, 2020. 
+
+Net
+cash used in investing activities for the year ended June 30, 2021 and 2020 was 110,117 and 256,227, respectively, for the purchase
+of property and equipment. 
+
+Net
+cash received from financing activities for the year ended June 30, 2021 was 57,497 compared to 239,288 provided by financing activities
+in the prior period. 
+
+8 
+
+On
+January 2, 2020, the Company executed a 10 convertible promissory note in which it agreed to borrow up to 300,000. The note is convertible
+at a price per share equal to the lower of (a) the Fixed Conversion Price (which is fixed at a
+price equal to 0.30); or (b) 80 of the lowest trading price of the Company s common stock during the 5 consecutive trading days
+prior to the date on which lender elects to convert all or part of the Note. The initial deposit of 125,000 was made on January
+15, 2020 and included a 25,000 OID. As of June 30, 2021, there is 150,000 and 40,250 of principal and interest due on this loan, respectively. 
+
+On
+November 5, 2017, to fund its working capital requirements the Company obtained a Special Line of Credit LOC also
+recognized as a Blanket Secured Promissory Note for the total draw down amount of up to 500,000, from Twiga Capital Partners, LLC TCP ),
+an entity controlled by the Company s former sole officer and largest stockholder, Shefali Vibhakar. This Note is secured by all
+of the assets of the Company in accordance with the Security Agreement by and between the Company and the Holder dated as of November
+5, 2017. The LOC bears interest at 5 per annum and is due on demand. On January 21, 2021, TCP assigned all of its rights, title and
+interest in the debt to Front Row Seating Inc. As of June 30, 2021 the Company owes 122,729 of principal and 17,339 of accrued interest
+on the LOC. 
+
+Critical
+Accounting Estimates and Policies 
+
+The
+preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires
+management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent
+assets and liabilities of the date of the financial statements and the reported amounts of revenues and expenses during the reporting
+period. Note 2 to the Financial Statements describes the significant accounting policies and methods used in the preparation of
+the Financial Statements. Estimates are used for, but not limited to, contingencies and taxes. Actual results could differ materially
+from those estimates. The following critical accounting policies are impacted significantly by judgments, assumptions, and estimates
+used in the preparation of the Financial Statements. 
+
+We
+are subject to various loss contingencies arising in the ordinary course of business. We consider the likelihood of loss or impairment
+of an asset or the incurrence of a liability, as well as our ability to reasonably estimate the amount of loss in determining loss contingencies.
+An estimated loss contingency is accrued when management concludes that it is probable that an asset has been impaired or a liability
+has been incurred and the amount of the loss can be reasonably estimated. We regularly evaluate current information available to
+us to determine whether such accruals should be adjusted. 
+
+We
+recognize deferred tax assets (future tax benefits) and liabilities for the expected future tax consequences of temporary differences
+between the book carrying amounts and the tax basis of assets and liabilities. The deferred tax assets and liabilities represent the
+expected future tax return consequences of those differences, which are expected to be either deductible or taxable when the assets and
+liabilities are recovered or settled. Future tax benefits have been fully offset by a 100 valuation allowance as management is
+unable to determine that it is more likely than not that this deferred tax asset will be realized. 
+
+Off-Balance
+Sheet Arrangements 
+
+We
+do not have any off-balance sheet arrangements (as that term is defined in Item 303 of Regulation S-K) that are reasonably likely to
+have a current or future material effect on our financial condition, revenue or expenses, results of operations, liquidity, capital expenditures
+or capital resources. 
+
+Recently
+Issued Accounting Standards 
+
+The
+Company has implemented all new accounting pronouncements that are in effect. These pronouncements did not have any material impact on
+the financial statements unless otherwise disclosed, and the Company does not believe that there are any other new accounting pronouncements
+that have been issued that might have a material impact on our financial position or results of operations. 
+
+9 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Not
+applicable. 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+The
+financial statements required to be included in this report appear as indexed in the appendix to this report beginning on page F-1. 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+We
+maintain disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended
+(the Exchange Act that are designed to be effective in providing reasonable assurance that information required to be
+disclosed in our reports under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in
+the rules and forms of the SEC, and that such information is accumulated and communicated to our management to allow timely decisions
+regarding required disclosure. 
+
+In
+designing and evaluating disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well
+designed and operated, can provide only reasonable, not absolute assurance of achieving the desired objectives. Also, the design of a
+control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to
+their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that
+all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments
+in decision-making can be faulty and that breakdowns can occur because of simple error or mistake. The design of any system of controls
+is based, in part, upon certain assumptions about the likelihood of future events and there can be no assurance that any design will
+succeed in achieving its stated goals under all potential future conditions. As of the end of the period covered by this report, we carried
+out an evaluation, under the supervision and with the participation of management, including our chief executive officer and principal
+financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures. Based upon that evaluation,
+management concluded that our disclosure controls and procedures were not effective as of June 30, 2021 to cause the information
+required to be disclosed by us in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported
+within the time periods prescribed by SEC, and that such information is accumulated and communicated to management, including our chief
+executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. 
+
+Management's
+Report on Internal Control Over Financial Reporting 
+
+This
+annual report does not include a report of management s assessment regarding internal control over financial reporting or an attestation
+report of the Company s registered public accounting firm due to a transition period established by rules of the Securities and
+Exchange Commission for newly public companies. 
+
+Changes
+in Internal Control Over Financial Reporting 
+
+There
+were no significant changes in our internal control over financial reporting during the year ended June 30, 2021, that have materially
+affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+Item
+9B. Other Information. 
+
+None 
+
+10 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+
+All
+directors and officers are appointed by our board of directors and serve at the discretion of the board, subject to applicable employment
+agreements. The following table sets forth information regarding our executive officers and the members of our board of directors. 
+
+Name 
+ Age 
+ Position 
+ 
+ Johnny
+ Forzani 
+ 33 
+ President,
+ CEO, Treasurer, CFO, Secretary and Director 
+ 
+ Tom
+ Forzani 
+ 70 
+ Director 
+ 
+ Geoff
+ Stanbury 
+ 70 
+ Director 
+
+Johnny
+Forzani, is a former Professional Football Player and is an Entrepreneur and Inventor. Mr. Forzani played Division 1 NCAA Football
+at Washington State University, where he set an NCAA record for the longest touchdown reception. During his professional football career,
+playing with his hometown Calgary Stampeders, Mr. Forzani started creating his first invention. In 2017, Mr. Forzani s founded,
+G-Tech Apparel USA Inc. and G-Tech Apparel Canada Inc. and was issued a Utility Design Patent from the USPTO, for G-Tech s
+Battery Powered Thermal Handwarmer. 
+
+Mr.
+Forzani has been the founder of G-Tech Apparel USA Inc. and G-Tech Apparel Canada Inc since 2014. From, 2014 to 2020, Mr. Forzani acted
+as CEO and CTO of both companies. He has been our President, CEO, Treasurer, CFO, Secretary and a Director since January 21, 2021. 
+
+Tom
+Forzani , is a one of three brothers to play for the Calgary Stampeders of the CFL. Described as one of the best wide receivers to
+ever play at Utah State, Mr. Forzani earned honorable mention All-America honors from The Associated Press as a senior in 1972 as he
+led the nation with receptions, while adding 1,169 receiving yards to set then-single-season school records in both categories. 
+
+Following
+his Utah State career, Mr. Forzani played professionally for the Calgary Stampeders from 1972-83 and was a five-time CFL All-Star. He
+finished his CFL career ranking second all-time in Stampeders history in receptions (553), receiving yards (8,825) and receiving touchdowns
+(62). Mr. Forzani was named to Utah State's All-Century Football Team in 1993. 
+
+Mr.
+Forzani began his business career towards the end of his football career, earning his realtors license in 1979. Mr. Forzani started Kelvion
+Properties in 1990, which specialized in most aspects of the Real Estate business including Land Purchase, Land Zoning, House Building,
+Land Sub Division, Mortgage Loaning and Renovations. 
+
+In
+1974, Mr. Forzani was one of the Original Founders and Owners of Forzani Locker Room which became the Canadian publicly traded company
+The Forzani Group in 1993. The Forzani Group went from one store in 1974, to a retail empire encompassing more than 500 retail locations
+and over 13,000 employees. In 2011, The Forzani Group sold to Canadian conglomerate Canadian Tire Corporation for 800,000,000 (Canadian
+Dollars). Tom Forzani has been a Director since January 21, 2021. 
+
+Geoff
+Stanbury , was born and raised in South West England and immigrated to North America at 19. In 1981 shortly after settling in Alberta,
+Mr. Stanbury founded his company Good Earth Environs which specializes in Land, Snow, and Erosion management. Good Earth has maintained
+contracts with some of Alberta s largest Residential companies including Brookfeild RP, for over 20 years. 
+
+Today,
+Mr. Stanbury is a seasoned Investor with a portfolio ranging in both the private and public sector. Mr. Stanbury is passionate about
+entrepreneurship and innovation. He looks forward to providing veteran leadership to the board, assisting in the best way possible, on
+the path to success. Mr. Stanbury has been a Director since January 21, 2021. 
+
+11 
+
+Involvement
+in Certain Legal Proceedings 
+
+To
+our knowledge, during the past ten years, none of our directors, executive officers, promoters, control persons, or nominees has: 
+
+been
+ convicted in a criminal proceeding or been subject to a pending criminal proceeding (excluding traffic violations and other minor
+ offenses); 
+
+had
+ any bankruptcy petition filed by or against the business or property of the person, or of any partnership, corporation or business
+ association of which he was a general partner or executive officer, either at the time of the bankruptcy filing or within two years
+ prior to that time; 
+
+been
+ subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction
+ or federal or state authority, permanently or temporarily enjoining, barring, suspending or otherwise limiting, his involvement in
+ any type of business, securities, futures, commodities, investment, banking, savings and loan, or insurance activities, or to be
+ associated with persons engaged in any such activity; 
+
+been
+ found by a court of competent jurisdiction in a civil action or by the SEC or the Commodity Futures Trading Commission to have violated
+ a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated; 
+
+been
+ the subject of, or a party to, any federal or state judicial or administrative order, judgment, decree, or finding, not subsequently
+ reversed, suspended or vacated (not including any settlement of a civil proceeding among private litigants), relating to an alleged
+ violation of any federal or state securities or commodities law or regulation, any law or regulation respecting financial institutions
+ or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution,
+ civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order, or any law or regulation prohibiting
+ mail or wire fraud or fraud in connection with any business entity; or 
+
+been
+ the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization
+ (as defined in Section 3(a)(26) of the Exchange Act), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange
+ Act), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons
+ associated with a member. 
+
+Board
+Committees 
+
+As
+at June 30, 2021, the Company did not currently maintain a board of directors that is composed of a majority of independent 
+directors. The Company does not expect to initially appoint an audit committee, nominating committee and/or compensation committee, or
+to adopt charters relative to each such committees. 
+
+Code
+of Business Conduct and Ethics 
+
+We
+have not adopted a Code of Business Conduct and Ethics. 
+
+Limitation
+of Directors Liability and Indemnification 
+
+We
+do not have director and officer liability insurance to cover liabilities our directors and officers may incur in connection with their
+services to us, including matters arising under the Securities Act, although we intend to acquire such insurance. Florida law and our
+bylaws provide that we will indemnify our directors and officers who, by reason of the fact that he or she is one of our officers or
+directors, is involved in a legal proceeding of any nature. 
+
+There
+is no pending litigation or proceeding involving any of our directors, officers, employees or agents in which indemnification will be
+required or permitted. We are not aware of any threatened litigation or proceeding that may result in a claim for such indemnification. 
+
+12 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+Summary
+Compensation Table 
+
+The
+following table presents information regarding the total compensation awarded to, earned by, or paid to our chief executive officer and
+the most highly-compensated executive officers (other than the chief executive officer) who were serving as executive officers as of
+June 30, 2021 for services rendered in all capacities to us for the fiscal years ended June 30, 2021, 2020 and 2019. 
+
+Name and Principal
+ Position 
+ 
+ Year
+
+Salary
+ 
+ ) 
+ 
+ Bonus
+ 
+ ) 
+ 
+ Option
+ Awards 
+ ) 
+ 
+ Non-equity 
+ 
+ incentive plan compensation 
+ ) 
+ 
+ Change
+ in pension value and nonqualified deferred compensation earnings 
+ ) 
+ 
+ All Other
+ Compensation 
+ ) 
+ 
+ Total
+ 
+ ) 
+ 
+ Johnny
+ Forzani 
+
+2021 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+CEO,
+ CFO, Director 
+
+2020 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2019 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Tom
+ Forzani 
+
+2021 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Director 
+
+2020 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2019 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Geoff
+ Stanbury 
+
+2021 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Director 
+
+2020 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2019 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Employment
+and Consulting Agreements 
+
+None 
+
+Outstanding
+Equity Awards at Fiscal Year-End Table 
+
+The
+following table summarizes, for each of the named executive officers, the number of shares of common stock underlying outstanding stock
+options held as of June 30, 2021. 
+
+Option
+ Awards 
+
+Name 
+ 
+ Number
+ of 
+ securities 
+ underlying 
+ unexercised 
+ options (#) 
+ exercisable 
+
+Number
+ of 
+ securities 
+ underlying 
+ unexercised 
+ options (#) 
+ unexercisable 
+
+Option
+ 
+ exercise 
+ price ) 1 
+
+Option
+ 
+ expiration 
+ date 
+ 
+ Johnny
+ Forzani 
+ 
+ 0 
+
+0 
+
+0 
+
+None 
+ 
+ Tom
+ Forzani 
+ 
+ 0 
+
+0 
+
+0 
+
+None 
+ 
+ Geoff
+ Stanbury 
+ 
+ 0 
+
+0 
+
+0 
+
+None 
+
+13 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+The
+following table sets forth the number of shares of common stock beneficially owned as of June 30, 2021 by: 
+
+each
+ of our stockholders who is known by us to beneficially own 5 or more of our common stock; 
+
+each
+ of our executive officers; 
+
+each
+ of our directors; and 
+
+all
+ of our directors and current executive officers as a group. 
+
+Beneficial
+ownership is determined based on the rules and regulations of the Commission. A person has beneficial ownership of shares if such individual
+has the power to vote and/or dispose of shares. This power may be sole or shared and direct or indirect. Applicable percentage ownership
+in the following table is based on the total of 18,100,000 shares of common stock outstanding as of June 30, 2021. In computing the number
+of shares beneficially owned by a person and the percentage ownership of that person, shares of common stock that are subject to options
+or warrants held by that person and exercisable as of, or within 60 days of, June 30, 2021. These shares, however, are not counted as
+outstanding for the purposes of computing the percentage ownership of any other person(s). Except as may be indicated in the footnotes
+to this table and pursuant to applicable community property laws, each person named in the table has sole voting and dispositive power
+with respect to the shares of common stock set forth opposite that person s name. Unless indicated below, the address of each individual
+listed below is c/o Forza Innovations, Inc. 30 Forzani Way NW, Calgary, Alberta T3Z 1L5. 
+
+Name
+ of Beneficial Owner 
+ Number
+ of Shares Beneficially Owned 
+ Percentage
+ of Shares Beneficially Owned 
+ 
+ Johnny
+ Forzani 
+ 270,000,000 
+ 95.9 
+ 
+ Tom
+ Forzani 
+
+Geoff
+ Stanbury 
+
+All
+ Officers and Directors (1) 
+ 270,000,000 
+ 95.9 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+
+None. 
+
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+BF
+Borgers CPA PC served as our independent registered public accounting firm for the 2021 fiscal year and Michael Gillespie Associates,
+PLLC served as our independent registered public accounting firm for the 2020 fiscal year. The following table shows the fees
+that were billed for the audit and other services provided by these firms for 2021 and 2020 fiscal years. 
+
+2021 
+ 2020 
+ 
+ Audit
+ Fees 
+ 21,200 
+ 22,850 
+ 
+ Audit-Related
+ Fees 
+ -0- 
+ -0- 
+ 
+ Tax
+ Fees 
+ -0- 
+ -0- 
+ 
+ All
+ Other Fees 
+ -0- 
+ -0- 
+ 
+ Total 
+ 21,200 
+ 22,850 
+
+14 
+
+Audit
+Fees This category includes the audit of our annual financial statements, review of financial statements included in our
+Quarterly Reports on Form 10-Q and services that are normally provided by the independent registered public accounting firm in connection
+with engagements for those fiscal years. This category also includes advice on audit and accounting matters that arose during, or as
+a result of, the audit or the review of interim financial statements. 
+
+Audit-Related
+Fees This category consists of assurance and related services by the independent registered public accounting firm that are
+reasonably related to the performance of the audit or review of our financial statements and are not reported above under Audit
+Fees. The services for the fees disclosed under this category include consultation regarding our correspondence with the Securities
+and Exchange Commission and other accounting consulting. 
+
+Tax
+Fees This category consists of professional services rendered by our independent registered public accounting firm for tax
+compliance and tax advice. The services for the fees disclosed under this category include tax return preparation and technical tax advice. 
+
+All
+Other Fees This category consists of fees for other miscellaneous items. 
+
+Our
+Board of Directors has adopted a procedure for pre-approval of all fees charged by our independent registered public accounting firm. Under
+the procedure, the Board approves the engagement letter with respect to audit, tax and review services. Other fees are subject
+to pre-approval by the Board, or, in the period between meetings, by a designated member of Board. Any such approval by the
+designated member is disclosed to the entire Board at the next meeting. 
+
+15 
+
+PART
+IV 
+
+ ITEM
+15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+
+ (a)(1)
+Financial Statements. 
+
+ The
+response to this portion of Item 15 is set forth under Item 8 hereof. 
+
+ (a)(2)
+Financial Statement Schedules. 
+
+ All
+schedules have been omitted because they are not required or because the required information is given in the Financial Statements or
+Notes thereto. 
+
+ (a)(3)
+Exhibits. 
+
+ The
+exhibits listed below are filed as part of this Annual Report on Form 10-K. 
+
+Exhibit
+ No. 
+ Description 
+ 
+ 3.1 
+ Articles
+ of Incorporation of the Registrant (1) 
+ 
+ 3.2 
+ Articles
+ of Amendment (1) 
+ 
+ 3.3 
+ Bylaws
+ of the Registrant (1) 
+ 
+ 10.1 
+ Form
+ of Share Lock Up Period (1) 
+ 
+ 23.1 
+ Consent
+ of PCAOB registered Audit Firm 
+ 
+ 31.1 
+ Certification by the Chief Executive Officer and Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 and Rules 13a-14 and 15d-14 under the Securities Exchange Act of 1934 
+ 
+ 32.1 
+ Certification by the Chief Executive Officer and Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 and Rules 13a-14 and 15d-14 under the Securities Exchange Act of 1934 
+ 
+ 101.INS 
+ XBRL
+ Instance Document 
+ 
+ 101.SCH 
+ XBRL
+ Taxonomy Extension Schema 
+ 
+ 101.CAL 
+ XBRL
+ Taxonomy Extension Calculation Linkbase 
+ 
+ 101.DEF 
+ XBRL
+ Taxonomy Extension Definition Linkbase 
+ 
+ 101.LAB 
+ XBRL
+ Taxonomy Extension Label Linkbase 
+ 
+ 101.PRE 
+ XBRL
+ Taxonomy Extension Presentation Linkbase 
+
+Filed herewith 
+
+ (1)
+Incorporated by reference from Form S-1 filed on August 31, 2016 and as amended until December 23, 2016. 
+
+ (2)
+Incorporated by reference from Form 8-K filed on November 20, 2016. 
+
+ (3)
+Incorporated by reference from Form 8-K filed on November 22, 2016. 
+
+16 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+Forza
+ Innovations, Inc. 
+
+Date:
+ October 8, 2021 
+ By:
+ /s/ Johnny Forzani 
+
+Johnny
+ Forzani 
+
+President,
+ Chief Financial Officer, Treasurer, Chief Financial Officer, Secretary 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report on Form 10-K has been signed below by the following persons on
+behalf of the registrant and in the capacities and on the dates indicated. 
+
+Signature 
+ Title 
+ Date 
+
+/s/
+ Johnny Forzani 
+ President,
+ Chief Financial Officer, Treasurer, Chief Financial Officer, Secretary, Director 
+ October
+ 8, 2021 
+ 
+ Johnny
+ Forzani 
+
+/s/
+ Tom Forzani 
+ Director 
+ October
+ 8, 2021 
+ 
+ Tom
+ Forzani 
+
+/s/
+ Geoff Stanbury 
+ Director 
+ October
+ 8, 2021 
+ 
+ Geoff
+ Stanbury 
+
+17 
+
+FORZA
+INNOVATIONS, INC. 
+
+ INDEX
+TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+JUNE
+30, 2021 
+
+Reports
+ of Independent Registered Public Accounting Firm 
+ F-1 
+ 
+ Consolidated
+ Balance Sheets as of June 30, 2021 and 2020 
+ F-3 
+ 
+ Consolidated
+ Statements of Operations for the Years Ended June 30, 2021 and 2020 
+ F-4 
+ 
+ Consolidated
+ Statement of Stockholders Equity (Deficit) for the Years Ended June 30, 2021 and 2020 
+ F-5 
+ 
+ Consolidated
+ Statements of Cash Flows for the Years Ended June 30, 2021 and 2020 
+ F-6 
+ 
+ Notes
+ to the Consolidated Financial Statements 
+ F-7 
+
+18 
+
+Report
+of Independent Registered Public Accounting Firm 
+
+To
+the shareholders and the board of directors of Forza Innovations, Inc. 
+
+ Opinion
+on the Financial Statements 
+
+ We
+have audited the accompanying balance sheet of Forza Innovations, Inc. (the Company as of June 30, 2021, the related statement
+of operations, stockholders' equity (deficit), and cash flows for the year then ended, and the related notes (collectively referred to
+as the financial statements ). In our opinion, the financial statements present fairly, in all material respects, the financial
+position of the Company as of June 30, 2021, and the results of its operations and its cash flows for the year then ended, in conformity
+with accounting principles generally accepted in the United States. 
+
+ Substantial
+Doubt about the Company s Ability to Continue as a Going Concern 
+
+ The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note
+3 to the financial statements, the Company s significant operating losses raise substantial doubt about its ability to continue
+as a going concern. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+ Basis
+for Opinion 
+
+ These
+financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's
+financial statements based on our audit. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+ We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+ Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or
+fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audit provides
+a reasonable basis for our opinion. 
+
+ /s
+BF Borgers CPA PC 
+
+ BF
+Borgers CPA PC 
+
+We
+have served as the Company's auditor since 2021 
+
+ Lakewood,
+CO 
+
+ October
+8, 2021 
+
+F- 1 
+
+MICHAEL GILLESPIE ASSOCIATES, PLLC 
+
+ CERTIFIED PUBLIC ACCOUNTANTS 
+
+ 10544 ALTON AVE NE 
+
+ SEATTLE, WA 98125 
+
+ 206.353.5736 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+To the Shareholders Board of Directors 
+
+ Genesys Industries, Inc. 
+
+Opinion on the Financial Statements 
+
+ We have audited the accompanying balance sheet of Genesys Industries, Inc.
+as of June 30, 2020 and the related statements of operations, changes in stockholders deficit, cash flows, and the related notes
+(collectively referred to as financial statements for the period ended June 30, 2020. In our opinion, the financial statements
+present fairly, in all material respects, the financial position of the Company as of June 30, 2020 and the results of its operations
+and its cash flows for the periods then ended in conformity with accounting principles generally accepted in the United States of America. 
+
+Going Concern 
+
+ The accompanying financial statements have been prepared
+assuming the Company will continue as a going concern. As discussed in Note #3 to the financial statements, although the Company has limited
+operations it has yet to attain profitability. This raises substantial doubt about its ability to continue as a going concern. Management s
+plan in regard to these matters is also described in Note #3. The financial statements do not include any adjustments that might result
+from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+ These financial statements are the responsibility of the Company s
+management. Our responsibility is to express an opinion on the Company s financial statements based on our audit. We are a public
+accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent
+with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities
+and Exchange Commission and the PCAOB. 
+
+ We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audit, we are required to obtain an understanding
+of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+ Our audit included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audit also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audit provides a reasonable basis for our opinion. 
+
+/S/ MICHAEL GILLESPIE ASSOCIATES, PLLC 
+
+ We have served as the Company s auditor since 2016. 
+
+Seattle, Washington 
+
+ April 26, 2021 
+
+F- 2 
+
+FORZA
+INNOVATIONS INC. 
+
+ (formerly
+Genesys Industries, Inc) 
+
+ BALANCE
+SHEETS 
+
+June
+ 30, 2021 
+ June
+ 30, 2020 
+ 
+ ASSETS 
+
+Current
+ assets: 
+
+Cash 
+
+Assets
+ of discontinued operations 
+
+Total
+ current assets 
+
+Machinery
+ and equipment, net 
+
+Website,
+ net 
+
+Assets
+ of discontinued operations 
+
+Total
+ Assets 
+
+LIABILITIES
+ AND STOCKHOLDERS' EQUITY (DEFICIT) 
+
+Current
+ liabilities: 
+
+Accounts
+ payable 
+
+Accrued
+ interest 
+
+Convertible
+ note payable, net of discount of and , respectively 
+
+Loan
+ Payable 
+
+Due
+ to related party 
+
+Liabilities
+ of discontinued operations 
+
+Total
+ current liabilities 
+
+Long
+ term liabilities: 
+
+Liabilities
+ of discontinued operations 
+
+Total
+ liabilities 
+
+Commitments
+ and contingencies 
+
+Stockholders'
+ equity (deficit): 
+
+Class
+ B Preferred stock, par value, shares authorized, and issued and outstanding,
+ respectively 
+
+Common
+ stock, par value, shares authorized; and shares issued and outstanding, respectively 
+
+Additional
+ paid-in capital 
+
+Accumulated
+ deficit 
+
+Total
+ stockholders' (deficit) equity 
+
+Total
+ Liabilities and Stockholders' Equity 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 3 
+
+FORZA
+INNOVATIONS INC. 
+
+ (formerly
+Genesys Industries, Inc) 
+
+ STATEMENTS
+OF OPERATIONS 
+
+For
+ the Years Ended June 30, 
+
+2021 
+ 2020 
+ 
+ Operating
+ Expenses: 
+
+General
+ administrative expenses 
+
+Total
+ operating expenses 
+
+Loss
+ from operations 
+
+Other
+ expense: 
+
+Interest
+ expense 
+
+Debt
+ discount amortization 
+
+Loss
+ on issuance of common stock 
+
+Loss
+ on issuance of convertible debt 
+
+Loss
+ on asset acquisition related party 
+
+Loss
+ on disposition of assets and liabilities 
+
+Total
+ other expense 
+
+Loss
+ before income taxes 
+
+Provision
+ for income taxes 
+
+Net
+ loss from continuing operations 
+
+Net
+ income (loss) from discontinued operations 
+
+Net
+ Loss 
+
+Net
+ loss per common share, basic diluted from continuing operations 
+
+Net
+ income (loss) per common share, basic diluted from discontinued operations 
+
+Net
+ Loss Per Common Share, basic diluted 
+
+Weighted
+ Common Shares Outstanding, basic diluted 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 4 
+
+FORZA
+INNOVATIONS INC. 
+
+ (formerly
+Genesys Industries, Inc) 
+
+ STATEMENT
+OF STOCKHOLDERS' EQUITY (DEFICIT) 
+
+ FOR
+THE YEARS ENDED JUNE 30, 2021 AND 2020 
+
+Common
+ Shares 
+ Common
+ Stock 
+ Preferred
+ Shares 
+ Preferred 
+ Paid
+ in Capital 
+ Accumulated
+ Deficit 
+ Total 
+ 
+ Balance,
+ June 30, 2019 
+
+Common
+ stock issued for services 
+
+Beneficial
+ conversion feature 
+
+Net
+ loss 
+
+Balance,
+ June 30, 2020 
+
+Stock
+ issued for asset acquisitions 
+
+Net
+ loss 
+
+Balance,
+ June 30, 2021 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 5 
+
+FORZA
+INNOVATIONS INC. 
+
+ (formerly
+Genesys Industries, Inc) 
+
+ STATEMENTS
+OF CASH FLOWS 
+
+For
+ the Years Ended June 30, 
+
+2021 
+ 2020 
+ 
+ Cash
+ flows from operating activities: 
+
+Net
+ Income 
+
+Less:
+ net (income) loss from discontinued operations 
+
+Adjustments
+ to reconcile net income to net cash used in operating activities: 
+
+Depreciation
+ and amortization 
+
+Debt
+ discount amortization 
+
+Loss
+ on issuance of common stock 
+
+Loss
+ on issuance of convertible debt 
+
+Debt
+ discount amortization 
+
+Loss
+ on asset acquisition related party 
+
+Loss
+ on disposition of assets and liabilities 
+
+Changes
+ in operating assets and liabilities: 
+
+Accounts
+ payable 
+
+Accrued
+ interest 
+
+Operating
+ cash flow from discontinued operations 
+
+Net
+ cash provided by operating activities 
+
+Cash
+ flows from investing activities: 
+
+Purchase
+ of property and equipment 
+
+Purchase
+ of website 
+
+Investing
+ cash flow from discontinued operations 
+
+Net
+ cash used in investing activities 
+
+Cash
+ flows from financing activities: 
+
+Advances
+ from related party 
+
+Proceeds
+ from convertible dent 
+
+Financing
+ cash flow from discontinued operations 
+
+Net
+ cash provided by financing activities 
+
+Net
+ increase in cash 
+
+Cash,
+ beginning of period 
+
+Less:
+ cash of discontinued operations, end of period 
+
+Cash
+ of continuing operations at end of period 
+
+Supplemental
+ disclosure of cash flow information: 
+
+Cash
+ paid for interest 
+
+Cash
+ paid for taxes 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 6 
+
+FORZA
+INNOVATIONS INC. 
+
+ (formerly
+Genesys Industries, Inc) 
+
+ NOTES
+TO FINANCIAL STATEMENTS 
+
+ JUNE
+30, 2021 
+
+common shares and preferred shares to Johnny Forzani for cash
+consideration of . 
+
+ Further,
+as part of the Agreement, Ms. Vibhakar agrees to spin out all of the Company s assets (except for certain machinery valued at 40,000
+ which is subject to a separate purchase agreement) as well as all of the Company s liabilities (except the Company s
+note with Tangiers Capital, LLC). The value date of the assets and liabilities will be January 21, 2021. 
+
+ On
+January 21, 2021, a change in control of the Company occurred pursuant to the Agreement. 
+
+ On
+January 21, 2021, the Company received the resignation of Shefali Vibhakar as the Company s President, Chief Executive Officer,
+Treasurer, Chief Financial Officer, Secretary and Director and appointed Johnny Forzani as its President, Chief Executive Officer, Treasurer,
+Chief Financial Officer and Secretary. 
+
+ Effective
+January 21, 2021, the Company s new address is 30 Forzani Way NW, Calgary, Alberta, Canada T3Z 1L5. 
+
+ On
+February 17, 2021, the Company filed Articles of Continuance with the Secretary of State for the state of Wyoming. Accordingly, the Company
+transferred its state of formation from Florida to Wyoming and became a Wyoming entity. 
+
+On
+February 18, 2021, the Company filed a Certificate of Dissolution with the Secretary of State for the State of Florida, effectively dissolving
+the Company's existence in Florida. 
+
+As
+of June 30, 2021, Forza Innovations has moved out of the precision CNC manufacturing and fabrication business and has moved into the
+health-tech wearable performance business. The Company has acquired the ownership and rights to certain late developmental stage
+products, including the J4 Sport, J4 X and J4 Fitbelt. These products are wearable back compression devices, used to relax, warmup,
+loosen, or relax stiff sore muscles. The therapeutic application of heat causes a change in temperature of the soft tissues which
+decreases joint stiffness and relieves inflammation. 
+
+cash equivalents for the year ended June 30, 2021 or 2020. 
+
+of which is from the FY 2021 loss on the asset acquisition and disposition
+of assets). 
+
+While
+the Company is successfully executing its growth strategy, its cash position may not still be sufficient to support the Company s
+daily operations without additional financing. While the Company believes in the viability of its strategy to produce sales volume and
+in its ability to raise additional funds, there can be no assurances to that effect. The ability of the Company to continue as a going
+concern is dependent upon the Company s ability to further implement its business plan and generate sufficient revenues. The financial
+statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern. Management
+believes that the actions presently being taken to further implement its business plan and generate revenues provide the opportunity
+for the Company to continue as a going concern. 
+
+Machinery
+ and Equipment 
+
+Real
+ Property Plant 
+
+Less:
+ accumulated depreciation 
+
+Fixed
+ assets, net 
+
+Depreciation
+expense 
+
+ Depreciation
+expense for the years ended June 30, 2021 and 2020 was and , respectively. 
+
+Our
+capitalized software cost, less accumulated amortization consisted of the following: 
+
+Less:
+ accumulated depreciation 
+
+Software,
+ net 
+
+Amortization
+expense 
+
+ Amortization
+expense for the years ended June 30, 2021 and 2020 was and , respectively. 
+
+The initial deposit of was made on January
+15, 2020 and included a OID. As required by ASC 470-20-30-6 the Company recognized and measured the embedded beneficial
+conversion feature at the commitment date of which was credited to paid in capital, a debt discount and a loss
+on the issuance of convertible debt. As of June 30, 2021, all of the debt discount has been amortized to interest expense. As of June
+30, 2021, there is and of principal and interest due on this loan, respectively. 
+
+, from Twiga Capital Partners, LLC TCP ),
+an entity controlled by the Company s former sole officer and largest stockholder, Shefali Vibhakar. This Note is secured by all
+of the assets of the Company in accordance with the Security Agreement by and between the Company and the Holder dated as of November
+5, 2017. The LOC bears interest at per annum and is due on demand. On January 21, 2021, TCP assigned all of its rights, title and
+interest in the debt to Front Row Seating Inc. As of June 30, 2021 and 2020, the Company owed and of principal and
+ and of accrued interest on the LOC, respectively. 
+
+to (the Share Increase 
+and, (3) to increase the number of the Company's total issued and outstanding shares of Class A Common Stock by conducting a forward
+stock split at the rate of currently issued and outstanding (the Forward Split ). FINRA has
+reviewed the Company s submission of the Name Change, the Share Increase and the Forward Split and is waiting to process as soon
+as the Company becomes current with its SEC filings. 
+
+Preferred
+stock 
+
+Preferred
+stock includes 25,000,000 shares of authorized at a par value of 0.001. Preferred stock includes shares of Class B authorized
+at a par value of . 
+
+common
+shares. The shares were valued at , the closing stock price on the date of the agreement, for a total value of . The assets
+were valued at cost of , resulting in a loss on asset acquisition of . As a result of this acquisition, the Company
+is moving out of the precision CNC manufacturing and fabrication business and moving into the health-tech wearable performance business. 
+
+ During
+the year ended June 30, 2021, Mr. Forzani advanced the Company , for general operating expenses, the advance is non-interest bearing
+and due on demand. 
+
+ common shares and preferred shares to Johnny Forzani for cash
+consideration of . 
+
+Further,
+as part of the Agreement, Ms. Vibhakar agrees to spin out all of the Company s assets (except for certain machinery valued at 40,000
+ which is subject to a separate purchase agreement) as well as all of the Company s liabilities (except the Company s
+note with Tangiers Capital, LLC and Twiga Capital). The value date of the assets and liabilities will be January 21, 2021. 
+
+In
+accordance with the provisions of ASC 205-20, Presentation of Financial Statements , we have separately reported the assets and
+liabilities of the discontinued operations in the consolidated balance sheets. The assets and liabilities have been reflected as discontinued
+operations in the balance sheets as of June 30, 2021 and 2020, and consist of the following: 
+
+Accounts
+ receivable 
+
+Total
+ Current Assets of Discontinued Operations: 
+
+Machinery
+ and equipment, net 
+
+Real
+ property plant, net 
+
+Total
+ Non-Current Assets of Discontinued Operations: 
+
+Current
+ Liabilities of Discontinued Operations: 
+
+Accounts
+ payable and accrued liabilities 
+
+Accrued
+ interest, related party 
+
+Accrued
+ compensation 
+
+Lines
+ of credit 
+
+Loans
+ payable 
+
+Due
+ to related party 
+
+Total
+ Current Liabilities of Discontinued Operations 
+
+Non-Current
+ Liabilities of Discontinued Operations: 
+
+Line
+ of credit 
+
+Loans
+ payable 
+
+Total
+ Non-Current Liabilities of Discontinued Operations 
+
+In
+accordance with the provisions of ASC 205-20, Presentation of Financial Statements , we have separately reported the assets and
+liabilities of the discontinued operations in the consolidated balance sheets. The income and expenses have been reflected as discontinued
+operations in the consolidated Statements of Operations for the years ended June 30, 2021 and 2020, and consist of the following: 
+
+For
+ the Years Ended June 30, 
+
+2021 
+ 2020 
+ 
+ Revenue 
+
+Cost
+ of revenue 
+
+Gross
+ Margin 
+
+Operating
+ Expenses: 
+
+Professional
+ fees 
+
+Payroll
+ expense 
+
+General
+ administrative expenses 
+
+Total
+ operating expenses 
+
+Income
+ from operations 
+
+Total
+ other expense 
+
+Net
+ income (loss) from discontinued operations 
+
+is being used for the fiscal year ended June 30, 2021 and 2020. 
+
+Net
+deferred tax assets consist of the following components as of June 30: 
+
+Deferred
+ tax liabilities: 
+
+Less
+ valuation allowance 
+
+Net
+ deferred tax assets 
+
+The
+income tax provision differs from the amount of income tax determined by applying the U.S. federal income tax rate to pretax income from
+continuing operations for the period ended June 30, due to the following: 
+
+Less:
+ Valuation allowance 
+
+Net
+ provision for Federal income taxes 
+
+At
+June 30, 2021, the Company had net operating loss carry forwards of approximately that may be offset against future taxable
+income from the year 2022 to 2040. No tax benefit has been reported in the June 30, 2021 financial statements since the potential tax
+benefit is offset by a valuation allowance of the same amount. 
+
+Due
+to the change in ownership provisions of the Tax Reform Act of 1986, net operating loss carry forwards for Federal Income tax reporting
+purposes are subject to annual limitations. Should a change in ownership occur, net operating loss carry forwards may be limited as to
+use in future years. 
+
+F- 13 
+
+<EX-31.1>
+ 2
+ ex31_1.htm
+ EXHIBIT 31.1
+
+EXHIBIT 31.1 
+
+ CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ I, Johnny Forzani, certify that: 
+
+1. I have reviewed this Annual Report on Form 10-K of Forza Innovations Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to
+state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for,
+the periods presented in this report; 
+
+4. I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange
+Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f))
+for the registrant and have: 
+
+a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to
+be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this
+report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+d. Disclosed in this report any change in the registrant's internal control over financial reporting that
+occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that
+has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. I have disclosed, based on my most recent evaluation of internal control over financial reporting, to
+the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+a. All significant deficiencies and material weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report
+financial information; and 
+
+b. Any fraud, whether or not material, that involves management or other employees who have a significant
+role in the registrant's internal control over financial reporting. 
+
+Date: October 12, 2021 
+
+/s/ Johnny Forzani 
+ 
+ Johnny Forzani President, Chief Executive Officer, Chief Financial Officer, Treasurer and Director (Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex32_1.htm
+ EXHIBIT 32.1
+
+EXHIBIT 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Johnny Forzani, hereby certify, pursuant to 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) the Annual Report on Form 10-K of Forza Innovations Inc. for the year ended June 30, 2021 (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) the information contained in the Report fairly presents, in all material respects, the financial condition
+and results of operations of Forza Innovations Inc. 
+
+Dated: October 12, 2021 
+
+/s/ Johnny Forzani 
+ 
+ Johnny Forzani 
+ 
+ President, Chief Executive Officer, Chief Financial Officer, Treasurer and Director 
+ 
+ (Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 4
+ forz-20210630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ forz-20210630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ forz-20210630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ forz-20210630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

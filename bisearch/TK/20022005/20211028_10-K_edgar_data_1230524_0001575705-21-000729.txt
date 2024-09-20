@@ -1,0 +1,2112 @@
+<Header>
+<FileStats>
+    <FileName>20211028_10-K_edgar_data_1230524_0001575705-21-000729.txt</FileName>
+    <GrossFileSize>1783452</GrossFileSize>
+    <NetFileSize>72970</NetFileSize>
+    <NonText_DocumentType_Chars>378372</NonText_DocumentType_Chars>
+    <HTML_Chars>435403</HTML_Chars>
+    <XBRL_Chars>368719</XBRL_Chars>
+    <XML_Chars>490483</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001575705-21-000729.hdr.sgml : 20211028
+<ACCEPTANCE-DATETIME>20211028142721
+ACCESSION NUMBER:		0001575705-21-000729
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		33
+CONFORMED PERIOD OF REPORT:	20210731
+FILED AS OF DATE:		20211028
+DATE AS OF CHANGE:		20211028
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cyber Apps World
+		CENTRAL INDEX KEY:			0001230524
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MANAGEMENT CONSULTING SERVICES [8742]
+		IRS NUMBER:				900314205
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50693
+		FILM NUMBER:		211357235
+
+	BUSINESS ADDRESS:	
+		STREET 1:		420 N. NELLIS BLVD., SUITE A3-146
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89110
+		BUSINESS PHONE:		702-425-6153
+
+	MAIL ADDRESS:	
+		STREET 1:		420 N. NELLIS BLVD., SUITE A3-146
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CLEAN ENVIRO TECH CORP
+		DATE OF NAME CHANGE:	20140530
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SKY POWER SOLUTIONS CORP.
+		DATE OF NAME CHANGE:	20110428
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Superlattice Power, Inc.
+		DATE OF NAME CHANGE:	20081215
+
+</SEC-Header>
+</Header>
+
+ 0001575705-21-000729.txt : 20211028
+
+10-K
+ 1
+ cyberappsworld_10k.htm
+ 10-K
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+(Mark
+One) 
+
+A NNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the Fiscal Years Ended and 2020 
+
+Or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from to 
+
+Commission
+file number 
+
+. 
+
+ (Name
+of Registrant as Specified in Its Charter) 
+
+(State
+ or Other Jurisdiction of 
+ Incorporation or Organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification
+ No.) 
+
+, , , 
+
+(Address
+ of Principal Executive Offices) 
+ 
+ (Zip
+ Code) 
+
+(Issuer s
+Telephone Number, Including Area Code) 
+
+Securities
+registered under Section 12(b) of the Exchange Act: 
+
+ None 
+
+Securities
+registered under Section 12(g) of the Exchange Act: 
+
+ Common
+Stock, Par value 0.00075 per share 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Indicate
+by checkmark if the registrant is not required to file reports pursuant to Section 13 or 15(d) Of the Act. Yes 
+
+Indicate
+by check mark whether the issuer: (1) filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the past
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files) No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company 
+in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated
+ filer 
+ Accelerated
+ filer 
+
+Smaller reporting
+ company 
+
+Emerging growth
+ company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+The
+aggregate market value of voting and non-voting common equity held by non-affiliates as of was based on the closing price
+of the issuer s common stock on January 29, 2021, the last business day of the registrant s most recently completed second
+fiscal quarter. 
+
+shares of common stock are issued and
+outstanding as of July 31, 2021 
+
+Table
+of Contents 
+
+Page 
+ 
+ Item
+ 1. Business 
+ 
+ 1 
+ 
+ Item
+ 1A. Risk Factors 
+ 
+ 5 
+ 
+ Item
+ 1B. Unresolved Staff Comments 
+ 
+ 5 
+ 
+ Item
+ 2. Properties 
+ 
+ 5 
+ 
+ Item
+ 3. Legal Proceedings 
+ 
+ 5 
+ 
+ Item
+ 4. Mine Safety Disclosures 
+ 
+ 5 
+ 
+ Item
+ 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ 6 
+ 
+ Item
+ 6. Selected Financial Data 
+ 
+ 6 
+ 
+ Item
+ 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 6 
+ 
+ Item
+ 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ 8 
+ 
+ Item
+ 8. Financial Statements and Supplementary Data 
+ 
+ F-1 
+ 
+ Item
+ 9. Changes In and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 
+ 9 
+ 
+ Item
+ 9A (T). Controls and Procedures 
+ 
+ 9 
+ 
+ Item
+ 9B. Other Information 
+ 
+ 9 
+ 
+ Item
+ 10. Directors, Executive Officers and Corporate Governance 
+ 
+ 10 
+ 
+ Item
+ 11. Executive Compensation 
+ 
+ 10 
+ 
+ Item
+ 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ 11 
+ 
+ Item
+ 13. Certain Relationships and Related Transactions, and Director Independence 
+ 
+ 12 
+ 
+ Item
+ 14. Principal Accountant Fees and Services 
+ 
+ 12 
+ 
+ Item
+ 15. Exhibits and Financial Statement Schedules 
+ 
+ 12 
+
+i 
+
+PART
+I 
+
+NOTE
+REGARDING FORWARD LOOKING STATEMENTS 
+
+ CAUTIONARY
+STATEMENT FOR PURPOSES OF THE SAFE HARBOR PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995 
+
+This
+Annual Report contains historical information as well as forward-looking statements. Statements looking forward in time are included
+in this Annual Report pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements
+involve known and unknown risks and uncertainties that may cause our actual results in future periods to be materially different from
+any future performance suggested herein. We wish to caution readers that in addition to the important factors described elsewhere in
+this Form 10-K, the following forward looking statements, among others, sometimes have affected, and in the future could affect, our
+actual results and could cause our actual results during 2021 and beyond, to differ materially from those expressed in any forward-looking
+statements made by or on our behalf. 
+
+Item
+1. Business. 
+
+Prior
+Operations 
+
+We
+were incorporated on July 15, 2002 under the laws of the State of Nevada under the name Titan Web Solutions, Inc. with a view to offering
+a full range of business consulting services in the retail specialty coffee industry in China. 
+
+On
+April 9, 2015 we merged with our wholly-owned subsidiary Cyber Apps World Inc. and concurrently changed our name to Cyber Apps World
+Inc. Our business focused on the development of mobile applications focusing on allowing users around the world to save money on products
+and services from member merchants and suppliers instantly with mobile coupons, using their desktops and/or mobile devices, including
+smartphones. We have not been successful in developing revenue from our operations. 
+
+SmartSaveNow
+Website 
+
+We
+completed the acquisition of a website originally located at www.savinstultra.com and now to be located at www.smartsavenow.com (the
+ Website ), including, without limitation, the website domain, content, data, and all incorporated technology on April 19,
+2019. We acquired a 100 undivided interest in and to the Website in consideration of us issuing 11,500,000 shares of our common stock
+to the vendor at closing. 
+
+The
+Website consists of a search engine that users access in order to compare the prices of different consumer products, which is known as
+a price comparison website. The initial version of the website is published and is undergoing further development. It currently features
+consumer items in various product categories, such as electronics, computers, cellular phones, office equipment, clothing, books, toys,
+and jewelry. As well, the Website includes a search function that allows users to input key words and receive a list of available consumer
+items that include those words. The Website was developed in the Ukraine and India. 
+
+A
+price comparison website is a search engine, which consumers use to compare the prices of different products. These websites are also
+known as comparison shopping websites, price analysis tools, comparison shopping agents, and shopbots. Users can compare products using
+relevant criteria, including price, product ratings, brand names, features, and consumer quality ratings. Such websites allow consumers
+to review products and determine the retailer that sell desired items at the lowest price. Price comparison websites offer benefits to
+consumers, when they navigate potentially complex purchases, and they reduce the search time by comparing similar products in one place.
+There are also advantages for the product or service providers because they bring together shoppers and firms more easily and, in some
+cases, more inexpensively than other acquisition channels. This can reduce entry barriers that providers might otherwise face. As well,
+it can stimulate stronger competition and innovation between firms and encourage new entrants, resulting in further benefits for consumers.
+Most price comparison websites use a method called scraping, which basically scours vendor websites for content. Often
+these basic price comparison websites earn their revenue by a service called a clickthrough or referral fee, 
+which means each time a consumer clicks on specific vendors, the price comparison site makes a small commission. In the past few years
+this service has been supplemented by other services and more advanced services that automatically checks companies websites for
+prices. 
+
+The
+price comparison website market is expected to increase at a significant growth rate during the upcoming years. The global price comparison
+website market is supported by various growth drivers, such as increased internet penetration and an increase in smartphone users. Price
+comparison websites have become increasingly popular around the world over the last ten years. In the United Kingdom and the United States,
+market research groups have estimated that annually 1.5 billion transactions pass through this well-established industry, according
+to Wize Commerce. Because of the ease of use and straight-forward manner of these numerous websites, western consumers use price comparison
+websites for different price-checking exercises, including shopping, vacations, and home utilities. 
+
+1 
+
+We
+intend to further develop the Website to specifically market to American consumers by providing real-time pricing for items that major
+U.S. retailers, including Wal-Mart, Best Buy, EBay, and Target, publish on their company websites. The Website will show products available
+at the lowest price among all sellers and incorporate this automatically into its digital marketing advertising. In order to access the
+content of the Website, consumers must register and establish an account with us and provide us with contact information, including a
+name, email address, and telephone number. Account holders who consent to the receipt of electronic correspondence from us will receive
+periodic emails from us that highlight sales items for specific consumer products that reflect their Website search interests. 
+
+During
+initial development, the vendor of the Website is able to offer products from 86 existing sellers and has agreements with an additional
+420 sellers. As with other price comparison websites, we will not charge users anything to use the Website. We intend to generate revenue
+by securing commission payments from retailers and other sellers. These payments will vary from seller to seller, but will either consist
+of a fee for each time one of our users accesses a retail website through our website, a fee for each time one of our users buys an item
+from a retailer or register with their website, or a flat fee for inclusion on our website. Each fee arrangement with a retailer will
+be negotiated separately. 
+
+Since
+our acquisition of the Website and related technology, we have retained software developers in India that have continued development
+of the Website for commercial deployment. Given the relative low cost of using Indian software developers, we anticipate being able to
+expand the development of our website at a reasonable cost compared to competitors that employ software developers in developed countries
+while still maintaining Website quality. The recorded value of the Website and related technology on our balance sheet at July 31, 2021
+consists of the fair value of the assets based on an independent business valuation at the time of acquisition, as well as additional
+capital that we have expended on the Website since the acquisition. We expect that the Website will be formally launched in 2022. 
+
+WarpSpeedTaxi
+App 
+
+We
+intend to complete the development of and operate a ride-hailing and food delivery computer and mobile device application known as WarpSpeed
+Taxi . A ride-hailing service, also known as app-taxi, e-taxi, or a mobility service provider, is a service that, via websites
+and mobile apps, matches passengers with drivers of vehicles for hire that are not licensed taxi drivers. The computer application that
+we are developing is intended to provide travelers with convenient door-to-door transport that leverages smart mobility platforms to
+connect drivers with passengers and lets drivers use their personal vehicles. Ride-hailing, like a traditional taxi service, facilitates
+drivers providing rides to customers for a fee. However, ride-hailing offers additional capabilities, such as efficient pricing tools,
+matching platforms, rating systems, and food delivery. We acquired the WarpSpeedTaxi application in its current phase of development
+from a private Wyoming corporation for total consideration of 300,000 payable in stages. To date, we have paid the vendor 10,000. We
+owe the vendor an additional 40,000 upon its delivery of a working prototype of the application to us, which development we will fund.
+We anticipate that we will need to spend an additional 10,000 in order to complete the computer application. We have also issued the
+vendor a promissory note for the balance of the purchase price of 250,000, which is due upon demand provided that the vendor cannot
+demand payment of the note until after December 31, 2023. The note bears simple interest at a rate of 5 per year. There is no penalty
+if we decide to pay the note at any time prior to December 31, 2023. 
+
+We
+anticipate that our WarpSpeedTaxi application will allow customers to hire a standard and luxury motor vehicles via a smartphone or personal
+computer for both one-way and round-trips with the price based on the distance travelled and the current level of demand for vehicles.
+In addition to transporting passengers, the application may also be used for deliveries of goods from restaurants, grocery stores, and
+other businesses that typically utilize local vehicle courier services. 
+
+Customers
+will use the application to request a ride or the delivery of goods. Drivers that we recruit and approve, through confirmation of no
+criminal record, a clean driving history, and access to a suitable insured vehicle, will act as independent contractors and set their
+own work hours. They will connect with customers via our application, pick up customers or goods to be delivered in accordance with the
+customer s request, and then drive the customers or goods to their destination. Customers will pay for the transportation through
+the application by way of credit card. Drivers will receive payments for each ride or delivery they complete via a weekly direct deposit
+to their bank accounts. 
+
+2 
+
+Privacy
+and Value Software 
+
+On
+March 15, 2021, we entered into an agreement to acquire employee monitoring software known as Privacy and Value . The software
+product attempts to balance employer concerns regarding employee efficiency and productivity with employee privacy. 
+
+As
+companies are increasingly attempting to meet the demands of employees that want work environment flexibility and are forced to avoid
+employee congregation in response to the current global Covid-19 pandemic, they are retaining staff that either work from home or they
+rely on outsourcing to retain employees and independent contractors in other countries. One of the primary concerns with having staff
+work in a separate location that removes them from the daily, direct oversight of management is that employee productivity will suffer.
+One of the responses to this concern is for businesses to use some form of worker surveillance in order to ensure that employees are
+utilizing their work time efficiently. However, businesses may face pushback from their staff due to concerns that their personal privacy
+is compromised when they are subject to constant monitoring during work hours. They may resist practices such as webcam surveillance
+or persistent computer screen observation. 
+
+To
+address employer concerns regarding staff efficiency and employee concerns regarding privacy, we intend market and sell the Privacy and
+Value software that has features to monitor worker computer productivity while providing employees with reasonable privacy during their
+work days. The features of the software are as follows: 
+
+the
+software will monitor the employees computer desktops while they are actually working on the system. Surveillance will commence
+when an employee logs on to his or her computer through our software and will continue until the employee logs out of the system. After
+an employee signs out of the software, recording and monitoring will cease and the employee can access his or her computer contents and
+the Internet for personal purposes; 
+
+when
+the employee is logged in, the software will allow management to maintain real-time access to employee activity and to view each employee s
+desktop screen content and the keystrokes that the employee is typing. All of this information will also be recorded and stored for future
+management use with all information time stamped. The file name for each day s recording will be the employee s first name,
+last name, and the year, month, and day, which will allow a manager to identify the appropriate recording without difficulty; and 
+
+based
+on employee actions, the software will calculate the amount of time that the employee was logged into the system based on a searchable
+time period (e.g., a shift, a week, or a month). It will also indicate the length of various time periods during which the employee did
+not make any keystrokes on his or her computer and allow the manager to quickly access the recording of employee s desktop at the
+times when keystrokes commenced and stopped. The software will also provide details of the length of each break that the employee takes
+during the work period analyzed. It will also have tools that the manager can use, in tabular and graphic form, to compare the efficiency
+of employees in terms of keystrokes and time logged in to their computer. 
+
+In
+consideration of the vendor selling the Privacy and Value software to us, we agreed to: 
+
+(a) pay
+ 10,000 to the vendor upon execution of the agreement; and 
+
+(b) pay,
+by June 15, 2021, an amount equal to the estimation of value of a 50 interest in the Software and the related data and databases based
+on an independent business valuation completed by a valuator who is accredited by the American Society of Appraisers and acceptable to
+both parties less the 10,000 cash payment noted above. Notwithstanding the valuation s estimation of value of the software, the
+amount of the additional payment shall not be less than 50,000 and shall not exceed 250,000. We obtained an independent business valuation
+on the Software in June 2021, which indicated that we would have to pay 250,000 to complete the acquisition of a 50 interest in the
+Software. 
+
+We
+did not make the payment due on June 15, 2021 and are attempting to renegotiate the terms of the acquisition. 
+
+Friendly
+and Fast Delivery Service 
+
+We
+are currently developing a delivery computer application known as Friendly and Fast. The application is being designed to allow users
+to order food, groceries, and other courier services. Friendly and Fast s focus will strictly be delivery of goods and will be
+a compliment to the WarpSpeed Taxi app that will also focus on ride-hailing services. 
+
+Friendly
+and Fast will target both individuals and corporate customer segments. For corporate clients, this feature will give discounts to restaurant
+owners, grocery stores, couriers, and similar enterprises so they can affordably provide deliveries to their customers. We are currently
+organizing beta testing of the application in Ahmedabad, India and have commissioned a private company to be primarily responsible for
+the completion of the application development. 
+
+Financial
+Condition 
+
+Our
+financial statements for the period ended July 31, 2021 have been prepared on a going concern basis which contemplates the realization
+of assets and settlement of liabilities and commitments in the normal course of business. We have not generated any revenue as of July
+31, 2021. Management recognizes that our continued existence is dependent upon its ability to obtain needed working capital through additional
+equity and/or debt financing and revenue to cover expenses as we continue to incur losses. 
+
+3 
+
+Since
+our incorporation, we have financed our operations almost exclusively through our sale of equity and through advances from our shareholders.
+Management s plans are to finance operations through the sale of equity or other investments for the foreseeable future, as we
+may not receive significant revenue from our and proposed business operations. There is no guarantee that we will be successful in arranging
+financing on acceptable terms. 
+
+Our
+ability to raise additional capital is affected by trends and uncertainties beyond its control. We do not currently have any arrangements
+for financing and we may not be able to find such financing if required. Obtaining additional financing would be subject to a number
+of factors, including investor sentiment. Market factors may make the timing, amount, terms or conditions of additional financing unavailable
+to us. These uncertainties raise substantial doubt about our ability to continue as a going concern. 
+
+Competition 
+
+SmartSaveNow
+Website 
+
+The
+global e-commerce market, including price comparison website marketing, is highly competitive because of the presence of many large established
+players. Some of the largest competitors are Google Shopping, NexTag, PriceGrabber, Shopping.com, Shopzilla, Become, Bing Shopping, and
+Pronto. As well, there are numerous small competitors that will compete with us. 
+
+Price
+comparison websites and mobile applications are segmented into different types from consumer products comparison sites to some specialist
+sites that focus on specific products. 
+
+WarpSpeed
+Taxi and Friendly and Fast Applications 
+
+There
+is also intense competition between traditional taxi and courier companies, and ride-hailing and delivery services. Companies providing
+ride-hailing services are transitioning from providing traditional taxi services to additional services, such as ride sharing and food
+and consumer goods delivery, in order to expand the overall market for transportation services. 
+
+The
+ride-hailing market is quite fragmented as there is high competition in the market among major players. Since this market is expanding,
+new entrants are emerging as well. We will compete with other ride-hailing companies, including Uber, Lyft, Door Dash, and Grubhub that
+are well-established in North America. In other markets where we may wish to expand, there are also well-established regional companies,
+such as DiDi (China), Ola (India), Grab (southeast Asia), Bolt (Europe, Africa, and the Middle East), and Cabify (South America). These
+companies generally have greater financial and technical resources, industry expertise, and managerial capabilities than we do. Most
+of our competitors benefit from established brand awareness with current and prospective customers. 
+
+We
+believe that industry competition for customers is primarily based on brand recognition, marketing, price, and quality of service. We
+hope to be able to compete effectively based on these factors though we primarily hope to develop a niche market by providing lower commission
+charges to restaurants that agree to utilize our food delivery services and by developing underexplored markets, such as businesses that
+use local courier services for non-food deliveries and rely on traditional vehicle courier companies. 
+
+Privacy
+and Value Software 
+
+The
+software and computer application development business is also extremely fragmented and competitive. The sector includes large, established
+corporations that develop their products in-house and have the capability and financial resources necessary in order to launch and market
+their products, as well as large custom software development companies that design products according to client specifications, such
+as Praxent, Orases, 10Pearls, Fingent, Tack Mobile, and Mercury Development. Additionally, there are smaller niche market participants
+that focus on a single or small number of products that are well-tailored to specific commercial or consumer demands. Many of these competitors
+have international operations and are able to not only compete in terms of software quality, but also based on price given their access
+to software development talent in developing countries, such as India, where skilled labor is less expensive. 
+
+Patents
+and Trademarks 
+
+Due
+to the costs involved and the potential inability to qualify, we have not filed for patent protection of our products and our trademarks.
+We have not sought legal advice regarding whether or not patent protection of our technology is possible. Accordingly, our business is
+subject to the risk that competitors could either copy our technology or release competing products. 
+
+Subject
+to financing, we will seek legal advice regarding the potential to patent our website features and will consider filing for trademark
+protection of our SmartSaveNow and WarpSpeed Taxi trade names, logos, and related website content. 
+
+4 
+
+Government
+Regulation 
+
+We
+are subject to laws that require protection of user privacy and user data. In our processing of account registrations, we will receive
+and store a large volume of personally identifiable data. This data is increasingly subject to laws and regulations in numerous jurisdictions
+around the world, including the United States through its Privacy Act and the Commission of the European Union through its General Data
+Protection Regulation. Such government action is typically intended to protect the privacy of personal data that is collected, processed,
+and transmitted in or from the governing jurisdiction. 
+
+In
+addition, our long-term business strategy may include geographic expansion into additional jurisdictions, many of which regions and countries
+have different legislation, regulatory environments, and tax laws. Compliance with legal, regulatory, and tax requirements around the
+world places demands on our time and resources, and we may nonetheless experience unforeseen and potentially adverse legal, regulatory,
+or tax consequences, which may have an adverse effect on our business. 
+
+Research
+and Development 
+
+We
+have not incurred any expenditures on research and development activities. 
+
+Employees 
+
+As
+of the date of this report, we have no employees. We have retained independent consultants and contractors who are presently completing
+the necessary additional development of our products. 
+
+Subsidiaries 
+
+We
+have a wholly-owned subsidiary, RTsave Inc. that holds our interest in the SmartSaveNow website. We also own a majority interest in WarpSpeedTaxi
+Inc., which holds the WarpSpeedTaxi computer application. 
+
+Item
+1A. Risk Factors. 
+
+Not
+applicable. 
+
+Item
+1B. Unresolved Staff Comments. 
+
+None. 
+
+Item
+2. Properties. 
+
+We
+do not own any interest in real property. Our mailing address is 9436 W. Lake Mead Blvd., Ste. 5-53, Las Vegas NV 89134, for which we
+pay 15.00 per month, on a month-to-month basis. 
+
+Item
+3. Legal Proceedings. 
+
+None
+
+Item
+4. Mine Safety Disclosures. 
+
+None.
+
+5 
+
+PART
+II 
+
+Item
+5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Our
+shares of common stock trade on the OTC Markets Pink Sheets under the symbol CYAP . Over-the-counter market quotations reflect
+inter-dealer prices, without retail mark-up, mark-down or commission and may not necessarily represent actual transactions. The market
+for our common stock maybe illiquid and investors may not be able to sell their shares. 
+
+As
+of October 26, 2021, there were approximately 37 registered owners of record of our common stock. During our previous eight fiscal quarters,
+the high and low trading prices as reported by Yahoo Finance were as follows: 
+
+Period 
+ High 
+ Low 
+ 
+ August 1, 2019 to October 31, 2019 
+ 0.1275 
+ 0.0675 
+ 
+ November 1, 2019 to January 31, 2020 
+ 0.1375 
+ 0.0725 
+ 
+ February 1, 2020 to April 30, 2020 
+ 0.22 
+ 0.075 
+ 
+ May 1, 2020 to July 31, 2020 
+ 0.024 
+ 0.151 
+ 
+ August 1, 2020 to October 31, 2020 
+ 1.00 
+ 0.15 
+ 
+ November 1, 2020 to Jan 31, 2021 
+ 0.70 
+ 0.14 
+ 
+ February 1, 2021 to April 30, 2021 
+ 0.374 
+ 0.017 
+ 
+ May 1, 2021 to July 31, 2021 
+ 0.103 
+ 0.006 
+
+The
+above trading prices have not been adjusted for our forward split, effective February 10, 2020, whereby each pre-split share of common
+stock was exchanged for four post-split shares. 
+
+Holders
+of common stock are entitled to receive such dividends as may be declared by the Board of Directors out of funds legally available therefore
+and, in the event of liquidation, to share pro rata in any distribution of our assets after payment of liabilities. The Board of Directors
+is not obligated to declare a dividend. We have not paid any dividends and we do not have any current plans to pay any dividends. 
+
+Securities
+Authorized for Issuance under Equity Compensation Plans 
+
+None. 
+
+Item
+6. Selected Financial Data. 
+
+Not
+applicable. 
+
+Item
+7. Management s Discussion and Analysis of our Financial Conditions and Results of Operations. 
+
+Introduction
+
+We
+were incorporated on July 15, 2002 under the laws of the State of Nevada. 
+
+Results
+of Operations in Fiscal 2021 
+
+We
+have not earned any revenue from our operations in fiscal 2021. During the fiscal year ended July 31, 2021, we incurred net losses of
+ 541,775 consisting entirely of general and administrative fees. The increase in general and administrative fees in fiscal 2021 is a
+result of increased business activity relating to the development of our SmartSaveNow website, the WarpSpeedTaxi computer application,
+and the Privacy and Value software. 
+
+We
+have not attained profitable operations and are dependent upon obtaining financing to complete our proposed business plan. For these
+reasons our auditors believe that there is substantial doubt that we will be able to continue as a going concern. 
+
+6 
+
+Our
+financial statements have been prepared assuming that we will continue as a going concern and, accordingly, do not include adjustments
+relating to the recoverability and realization of assets and classification of liabilities that might be necessary should we be unable
+to continue in operation. 
+
+LIQUIDITY
+AND CAPITAL RESOURCES 
+
+As
+of July 31, 2021, our current assets consisted of 112,834 in cash and deposits and our total liabilities were 694,368, which consisted
+of convertible notes payable of 392,500, loans payable of 78,079, and accounts payable and accrued expenses of 223,789. 
+
+Cash
+Flows from Operating Activities 
+
+We
+have not generated positive cash flows from operating activities. For the fiscal year ended July 31, 2021, net cash flows used in operating
+activities were 269,347 consisting of our net loss for the period, adjusted for accounts payable of 97,315, notes payable of 202,200
+and deposits of 18,668). 
+
+Cash
+Flows from Financing Activities 
+
+We
+have financed our operations primarily from either third-party or the issuance of equity and debt instruments. For the fiscal year ended
+July 31, 2021, net cash from financing activities was 670,801, which consisted of proceeds from issuance of additional shares of our
+common stock, offset by loans payable of 71,705, which were converted into our shares pursuant to the terms of convertible promissory
+notes. 
+
+Cash
+Flows from Investment Activities 
+
+For
+the fiscal year ended July 31, 2021, we spent 331,387 of our cash for software development and investment in the WarpSpeed Taxi computer
+application. 
+
+We
+have not attained profitable operations and are dependent upon obtaining financing to pursue exploration activities. For these reasons,
+there is substantial doubt that we will be able to continue as a going concern 
+
+Since
+our incorporation, we have financed our operations through advances from our shareholders, and by payments made by a third party. We
+expect to finance operations through the sale of equity or other investments for the foreseeable future, as we do not receive significant
+revenue from our business operations. There is no guarantee that we will be successful in arranging financing on acceptable terms. 
+
+Our
+ability to raise additional capital is affected by trends and uncertainties beyond our control. We do not currently have any arrangements
+for financing and we may not be able to find such financing if required. Obtaining additional financing would be subject to a number
+of factors, including investor sentiment. Market factors may make the timing, amount, terms or conditions of additional financing unavailable
+to us. 
+
+Our
+auditors are of the opinion that our continuation as a going concern is in doubt. Our continuation as a going concern is dependent upon
+continued financial support from our shareholders and other related parties. 
+
+Critical
+Accounting Policies 
+
+Our
+discussion and analysis of its financial condition and results of operations are based upon our financial statements, which have been
+prepared in accordance with accounting principles generally accepted in the United States of America. 
+
+Off-Balance
+Sheet Arrangements 
+
+As
+of the date of this annual report, we do not have any off balance sheet arrangements that have or are reasonably likely to have a current
+or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity,
+capital expenditures or capital resources that are material to investors. 
+
+7 
+
+Use
+of Estimates 
+
+The
+preparation of financial statements in accordance with accounting principles generally accepted in the United States of America requires
+us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and disclosure of
+contingent assets and liabilities. On an on-going basis, we evaluate our estimates and judgments, including those related to revenue
+recognition, inventories, adequacy of allowances for doubtful accounts, valuation of long-lived assets and goodwill, income taxes, litigation
+and warranties. We base its estimates on historical and anticipated results and trends and on various other assumptions that we believe
+are reasonable under the circumstances, including assumptions as to future events. The policies discussed below are considered by management
+to be critical to an understanding of our financial statements. These estimates form the basis for making judgments about the carrying
+values of assets and liabilities that are not readily apparent from other sources. By their nature, estimates are subject to an inherent
+degree of uncertainty. Actual results may differ from those estimates. 
+
+Property
+and Equipment 
+
+Property
+and equipment are recorded at cost. Depreciation of property and equipment are accounted for by accelerated methods over the following
+estimated useful lives: 
+
+Evaluation
+of Long-Lived Assets 
+
+We
+review property and equipment for potential impairment whenever significant events or changes in circumstances indicate the carrying
+value may not be recoverable in accordance with the guidance in ASC 360-15-35 Impairment or Disposal of Long-Lived Assets .
+An impairment exists when the carrying amount of the long-lived assets is not recoverable and exceeds its fair value. The carrying amount
+of a long-lived asset is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual
+disposition of the asset. If an impairment exists, the resulting write-down would be the difference between the fair market value of
+the long-lived asset and the related net book value. 
+
+Net
+Loss Per Common Share 
+
+Classification 
+ 
+ Estimated
+ Useful Lives 
+ 
+ Furniture and
+ Fixtures 
+ 
+ 10
+ years 
+ 
+ Software 
+ 
+ 3-5
+ years 
+ 
+ Computers 
+ 
+ 5
+ years 
+
+Basic
+loss per common share is computed based on the weighted average number of shares outstanding during the year. Diluted earnings per common
+share is computed by dividing net earnings (loss) by the weighted average number of common shares and potential common shares during
+the specified periods. The Company has no outstanding options, warrants or other convertible instruments that could affect the calculated
+number of shares. 
+
+Income
+Taxes 
+
+Deferred
+income tax assets or liabilities are computed based on the temporary differences between the financial statement and income tax bases
+of assets and liabilities using the statutory marginal income tax rate in effect for the years in which the differences are expected
+to reverse. Deferred income tax expenses or credits are based on the changes in the deferred income tax assets or liabilities from period
+to period. A valuation allowance against deferred tax assets is required if, based on the weight of available evidence, it is more likely
+than not that some portion or all of the deferred tax assets will not be realized. The valuation allowance should be sufficient to reduce
+the deferred tax asset to the amount that is more likely than not to be realized. 
+
+Item
+7A. Quantitative and Qualitative Disclosures About Market Risk. 
+
+Not
+applicable 
+
+8 
+
+Item
+8. Financial Statements and Supplementary Data. 
+
+CYBER
+APPS WORLD INC. 
+
+FINANCIAL
+STATEMENTS 
+
+July
+31, 2021 
+
+Index
+to Financial Statements 
+
+Reports
+ of Independent Registered Accounting Firms 
+ F-2 
+
+Balance
+ Sheets as of July 31, 2021 
+ F-3 
+
+Statements
+ of Operations for Years Ended July 31, 2021 
+ F-4 
+
+Statement
+ of Stockholders (Deficiency) for the Year Ended July 31, 2021 
+ F-5 
+
+Statements
+ of Cash Flows for the Years Ended July 31, 2021 
+ F-6 
+
+Notes
+ to Financial Statements for the Years Ended July 31, 2021 
+ F-7 
+
+F- 1 
+
+JACK
+SHAMA, CPA, MA 
+
+ 1498
+East 32 nd Street 
+
+ Brooklyn,
+NY 11234 
+
+ 631-318-0351 
+
+To
+the shareholders and the board of directors of Cyber Apps World Inc. 
+
+Report
+of Independent Registered Public Accounting Firm. 
+
+Opinion
+on the financial statements. 
+
+I
+have audited the accompanying balance sheet of Cyber Apps World Inc. and the related statements of income, stockholders equity, and cash
+flow for the years ending July 31, 2021 and July 31, 2020. In my opinion based on my audit the financial statements present fairly in
+all material respects the financial position of the company as of July 31, 2021 and July 31, 2020 and the results of its operations and
+its cash flows for the years then ended in conformity with principles generally accepted in the United States of America. 
+
+These
+financial statements are the responsibility of the company s management. My responsibility is to express an opinion on the financial
+statements based on my audit. I am a public accounting firm registered with the Public Company Accounting Oversight Board (United States)
+(PCAOB) and are required to be independent with respect to the company in accordance with the US federal securities laws and the applicable
+rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+I
+conducted my audit in accordance with the standards of the PCAOB. Those standards require that I plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud, and performing
+procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures
+in the financial statements. My audit also included evaluating the accounting principles used and significant estimates made by management,
+as well as evaluating the overall presentation of the financial statements. I believe my audit provides a reasonable basis for my opinion. 
+
+/s/
+Jack Shama 
+
+Jack
+Shama, CPA 
+
+ October
+27, 2021 
+
+I
+have served as the company s auditor since March 2019. 
+
+F- 2 
+
+CYBER
+APPS WORLD INC. 
+
+ CONSOLIDATED
+BALANCE SHEET (AUDITED) 
+
+July 31, 
+2021 
+ July 31, 
+2020 
+
+ASSETS 
+
+Current assets: 
+
+Cash 
+
+Deposits prepayments 
+
+Total current assets 
+
+Fixed assets: 
+
+Software 
+ 
+ - 
+ 
+ Total fixed assets 
+ 
+ - 
+ 
+ Other assets: 
+
+Goodwill 
+
+Software Development - WIP 
+
+Total other assets 
+
+Total assets 
+
+LIABILITIES STOCKHOLDER S EQUITY 
+
+LIABILITIES 
+
+Current liabilities: 
+
+Accounts payable and accrued liabilities 
+
+Total current liabilities 
+
+Long term liabilities: 
+
+Convertible Notes Payable 
+
+Loan Payable 
+
+Total Long term liabilities 
+
+Total Liabilities 
+
+STOCKHOLDER S EQUITY 
+
+Preferred stock: par value, authorized, issued and outstanding. 
+
+Common stock: par value, authorized, 
+ issued and
+ outstanding as of July 31, 2021 and issue and outstanding as of July 31, 2020 
+
+issued and outstanding for business combination as of July 31, 2021 
+ 
+ - 
+ 
+ Shares to be issued. 
+
+Additional paid in capital 
+
+Retained earnings 
+
+Minority interest 
+ 
+ - 
+ 
+ Total stockholder s equity 
+
+Total liabilities and stockholder s equity 
+
+(The
+accompanying notes are an integral part of these audited financial statements) 
+
+F- 3 
+
+CYBER
+APPS WORLD INC. 
+
+ CONSOLIDATED
+STATEMENT OF COMPREHENSIVE INCOME (AUDITED) 
+
+For The Year Ended 
+July 31, 
+
+2021 
+ 2020 
+
+Net Sales 
+ - 
+ - 
+
+Cost of Goods Sold 
+
+- 
+ - 
+ 
+ Gross Income 
+ - 
+ - 
+
+Expenses 
+
+General and administrative 
+
+Consolidated loss before interest taxes 
+
+Income tax 
+ - 
+ - 
+ 
+ Consolidated net loss 
+
+Net loss to minority interest 
+ 
+ - 
+ 
+ Net loss attributable to Cyber Apps World Inc. 
+
+Net income per share basic and diluted 
+
+Weighted average shares outstanding basic and diluted 
+
+(The
+accompanying notes are an integral part of these audited financial statements) 
+
+F- 4 
+
+CYBER
+APPS WORLD INC. 
+
+ CONSOLIDATED
+STATEMENT OF STOCKHOLDERS EQUITY (AUDITED) 
+
+ For
+The Year Ended July 31, 2020 And 2021 
+
+Additional 
+
+Common Stock 
+ Paid in 
+ Accumulated 
+ Minority 
+
+Number 
+ Par Value 
+ Capital 
+ Deficit 
+ Interest 
+ Total 
+
+Opening Balance as of August 01, 2019 
+
+- 
+
+Common stock issued for cash during the year 
+ 
+ - 
+ 
+ - 
+
+Net Loss 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Closing Balance as of July 31, 2020 
+
+- 
+
+Opening Balance as of August 01, 2020 
+
+- 
+
+Common stock issued for cash during the year 
+
+- 
+ - 
+
+Shares to be issued 
+ - 
+ 
+ - 
+ - 
+ - 
+
+Share capital for business combination 
+
+Net Loss 
+ - 
+ - 
+ - 
+
+Closing Balance as of July 31, 2021 
+
+(The
+accompanying notes are an integral part of these financial statements) 
+
+F- 5 
+
+CYBER
+APPS WORLD INC. 
+
+ CONSOLIDATED
+STATEMENT OF CASH FLOWS (AUDITED) 
+
+For The Year Ended July 31, 
+
+2021 
+ 2020 
+
+Cash flows from operating activities 
+
+Net income for the period 
+
+Change in operating assets and liabilities 
+
+Deposits Prepayments 
+
+Accounts payable and accrued liabilities 
+
+Notes Payable 
+
+Net cash used in operating activities 
+
+Cash flows from investing activities 
+
+Investment 
+ 
+ - 
+ 
+ Fixed Assets 
+
+Net cash used in investing activities 
+
+Cash flows from financing activities 
+
+Loan Payable 
+
+Shares to be issued 
+
+Proceeds from issuance of additional paid in capital 
+ 
+ - 
+ 
+ Proceeds from issuance of common shares for business combination 
+
+Proceeds from issuance of common shares 
+ 
+ - 
+ 
+ Net cash provided by financing activities 
+
+Change in Cash 
+
+- 
+ - 
+ 
+ Cash beginning of period 
+
+Cash end of period 
+
+Supplemental cash flow disclosures 
+
+Cash paid For: 
+
+Interest 
+ - 
+ - 
+ 
+ Income tax 
+ - 
+ - 
+
+(The
+accompanying notes are an integral part of these audited financial statements) 
+
+F- 6 
+
+CYBER
+APPS WORLD INC. 
+
+NOTES
+TO FINANCIAL STATEMENTS 
+
+ July
+31, 2021 
+
+undivided interest in and to the Website in consideration of issuing shares of
+our common stock to Real-Time Save Online at closing. 
+
+The
+Website consists of a search engine that users may access in order to compare the prices of different consumer products, which is known
+as a price comparison website. The initial version of the website is published and is undergoing further development. It currently features
+consumer items in various product categories, such as electronics, computers, cellular phones, office equipment, clothing, books, toys,
+and jewelry. As well, the Website includes a search function that allows users to input key words and receive a list of available consumer
+items that include those words. The Website was developed in Ukraine and India. 
+
+Under
+a new domain SmartSaveNow.com (previously RtSave.com), we intend to further develop the Website to specifically market to American consumers
+by providing real-time pricing for items that major U.S. retailers, including Wal-Mart, Best Buy, EBay, and Target, publish on their
+company websites. The Website will show products available at the lowest price among all sellers and incorporate this automatically into
+its digital marketing advertising. In order to access the content of the Website, consumers must register and establish an account with
+us and provide us with contact information, including a name, email address, and telephone number. Account holders who consent to the
+receipt of electronic correspondence from us will receive periodic emails from us that highlight sales items for specific consumer products
+that reflect their Website search interests. 
+
+During
+initial development, the vendor of the Website is able to offer products from 86 existing sellers and has agreements with an additional
+420 sellers. As with other price comparison websites users will not be charged anything to use the Website. We intend to generate revenue
+by securing commission payments from retailers and other sellers. These payments will vary from seller to seller, but will either consist
+of a fee for each time one of our users accesses a retail website through our website, a fee for each time one of our 
+
+ users
+buys an item from a retailer or register with their website, or a flat fee for inclusion on our website. Each fee arrangement with a
+retailer will be negotiated separately. 
+
+The
+Company owns the Website through its wholly-owned subsidiary, RTsave Inc., a Wyoming corporation. 
+
+WarpSpeed
+Taxi Application 
+
+The
+Company acquired a ride-hailing and food delivery computer and mobile device application known as WarpSpeed Taxi . The Company
+acquired the WarpSpeedTaxi application in its current phase of development from a private Wyoming corporation for total consideration
+of payable in stages. To date, the Company has paid the vendor . The Company must pay the vendor an additional 
+upon its delivery of a working prototype of the application. The Company have also issued the vendor a promissory note for the balance
+of the purchase price of , which is due upon demand provided that the vendor cannot demand payment of the note until after . The note bears simple interest at a rate of per year. There is no penalty if we decide to pay the note at any time prior
+to December 31, 2023. 
+
+Privacy
+and Value Computer Software 
+
+On
+March 15, 2021, the Company entered into an agreement to acquire employee monitoring software known as Privacy and Value .
+The software product attempts to balance employer concerns regarding employee efficiency and productivity with employee privacy. 
+
+In
+consideration of the vendor selling the Privacy and Value software to the Company, it agreed to: 
+
+(a)
+pay to the vendor upon execution of the agreement (paid); and 
+
+(b)
+pay an additional by June 15, 2021, which was not paid by the deadline. The Company is attempting to renegotiate the terms
+of the acquisition. 
+
+Basis
+of Presentation 
+
+Going
+Concern 
+
+The
+Company s financial statements for the years ended July 31, 2021, have been prepared on a going concern basis which contemplates
+the realization of assets and settlement of liabilities and commitments in the normal course of business. The Company did not have any
+revenue as of July 31, 2021. Management recognized that the Company s continued existence is dependent upon its ability to obtain
+needed working capital through additional equity and/or debt financing and revenue to cover expenses as the Company continues to incur
+losses. 
+
+Since
+its incorporation, the Company financed its operations almost exclusively through advances from its controlling shareholders. Management s
+plans are to finance operations through the sale of equity or other investments for the foreseeable future, as the Company does not receive
+significant revenue from its new business operations. There is no guarantee that the Company will be successful in arranging financing
+on acceptable terms. 
+
+The
+Company s ability to raise additional capital is affected by trends and uncertainties beyond its control. The Company does not
+currently have any arrangements for financing and it may not be able to find such financing if required. Obtaining additional financing
+would be subject to a number of factors, including investor sentiment. Market factors may make the timing, amount, terms or conditions
+of additional financing unavailable to it. These uncertainties raise substantial doubt about the ability of the Company to continue as
+a going concern. The accompanying financial statements do not include any adjustments that might result from the outcome of these uncertainties. 
+
+Software 
+
+Computers 
+
+, including interest and accumulated prepayment expense,
+which is convertible into common stock at deemed prices ranging from 60 to 61 of the lowest market price of the Company s stock
+within the prior 20 trading days prior to conversion. The convertible notes bear interest at rates compounded monthly. 
+
+, from 500,000,000 shares
+to 10,000,000 shares. We have retroactively restated all share amounts to show effects of the Common Stock split. 
+
+On
+January 22, 2015, the Company converted of its debt to various lenders into convertible debt and shares of Common
+Stock were issued as a result of the debt conversion, causing a beneficial conversion in the amount of . 
+
+On
+April 18, 2016, the Company agreed to convert of debt into shares of common stock, which will reduce the debt and notes
+owed. The Company recorded a loss on settlement of debt of . The shares were issued on May 31, 2016. 
+
+On
+February 1, 2019, the Company filed with the Secretary of State of Nevada a Certificate of Change that affected a reverse split,
+effective February 19, 2019, in the Company s outstanding common stock and a concurrent increase in the authorized common stock
+to shares with par value . 
+
+On
+October 23, 2019, the Company s filed with the Secretary of State of Nevada a Certificate of Change that affected a forward
+split, effective February 10, 2020, in the Company s outstanding common stock and a concurrent increase in the authorized common
+stock to shares with par value . 
+
+Subsequent
+to July 31, 2021, the Company increased its authorized capital to shares of common stock with par value . 
+
+and the effective tax rate
+is zero. 
+
+Under
+current tax laws, the cumulative operating losses incurred amounting to approximately 8.8 million and 8.6 million at July 31, 2021
+and July 31, 2020 respectively, will begin to expire in . 
+
+Section
+382 of the U.S. Internal Revenue Code imposes an annual limitation on loss carry-forwards to offset taxable income when an ownership
+change occurs. The Company meets the definition of an ownership change and some of the net operating loss carryforwards will be limited. 
+
+F- 9 
+
+Item
+9. Changes In and Disagreements With Accountants on Accounting and Financial Disclosure. 
+
+None
+
+Item
+9A. Controls and Procedures. 
+
+As
+supervised by our board of directors and our principal executive and principal financial officer, management has established a system
+of disclosure, controls and procedures and has evaluated the effectiveness of that system. The system and its evaluation are reported
+on in the below Management s Annual Report on Internal Control over Financial Reporting. Our principal executive and financial
+officer has concluded that our disclosure, controls and procedures (as defined in Securities Exchange Act of 1934 Exchange Act Rule 13a-15(e)) as of July 31, 2016, were not effective, based on the evaluation of these controls and procedures required by paragraph
+(b) of Rule 13a-15. 
+
+Management s
+Annual Report on Internal Control over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rule 13a-15(f)
+of the Exchange Act. Internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. generally accepted accounting
+principles. 
+
+Management
+assessed the effectiveness of internal control over financial reporting as of July 31, 2021. We carried out this assessment using the
+criteria of the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control Integrated Framework. 
+
+B.
+Management s Report on Internal Control over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over our financial reporting. In order to evaluate the effectiveness
+of internal control over financial reporting, as required by Section 404 of the Sarbanes-Oxley Act, management has conducted an assessment,
+including testing, using the criteria in the Internal Control - Integrated Framework, issued by the Committee of Sponsoring Organizations
+of the Treadway Commission COSO ). 
+
+Our
+system of internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. 
+
+Based
+on our evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our internal controls over financial reporting
+were not effective as of July 31, 2021 and were subject to material weaknesses. 
+
+A
+material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is
+a reasonable possibility that a material misstatement of the company s annual or interim financial statements will not be prevented
+or detected on a timely basis. We have identified the following material weaknesses in our internal control over financial reporting
+using the criteria established in the COSO: 
+
+1. Failing
+to have an audit committee or other independent committee that is independent of management to assess internal control over financial
+reporting; and 
+
+2. Failing
+to have a director that qualifies as an audit committee financial expert as defined in Item 407(d)(5)(ii) of Regulation S-K. 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. In addition, projections
+of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in
+conditions and that the degree of compliance with the policies or procedures may deteriorate. 
+
+This
+annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial
+reporting. Management s report was not subject to attestation by our registered public accounting firm, pursuant to rules of the
+Securities and Exchange Commission that permit us to provide only management s report in this annual report. Management concluded
+in this assessment that as of July 31, 2021, our internal control over financial reporting is not effective. 
+
+There
+have been no significant changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d15(f) under the
+Exchange Act) during the fourth quarter of our 2021 fiscal year that have materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting. 
+
+Item
+9B. Other Information. 
+
+None
+
+9 
+
+PART
+III 
+
+Item
+10. Directors, Executive Officers, and Corporate Governance. 
+
+Our
+executive officers and directors and their respective ages are as follows: 
+
+Name 
+ Position 
+ Age 
+ Term of Office 
+ 
+ Mohammed Irfan Rafimiya Kazi 
+ President, CEO, CFO, and Director 
+ 43 
+ March 10, 2020 to present 
+ 
+ Kateryna Malenko 
+ Secretary and Director 
+ 30 
+ November 2, 2018 to present 
+
+The
+following describes the business experience of our directors and executive officers, including other directorships held in reporting
+companies: 
+
+Mohammed
+Irfan Rafimiya Kazi has acted as our President, CEO, CFO, and as a director since March 10, 2020. From January 2012 to February 2020,
+Mr. Kazi acted as a website developer and technical manager for various companies, including Nuclear Power Corporation of India, E-Digix
+Technologies Pvt. Ltd., and Virtual Height IT Services Pvt. Ltd., all of which are based in India. He earned a Bachelor of Computer Application
+degree from Farah Institute of Computer Science in Hyderabad in 2003. 
+
+Kateryna
+Malenko has acted as our secretary and as a director since November 2, 2018. She has been self-employed as an independent sales and
+business development consultant since 2011. In June 2011, Ms. Malenko graduated from Kharkiv Business Academy with a Bachelor s
+Degree in Business Administration. After graduation, she took an additional course in programming and website development at Kiev State
+Polytechnical University in 2015 and 2016. In 2011, Ms. Malenko was working as a junior business consultant at MMS Group LTD, Kiev, Ukraine
+and then a project manager for the same company. She has also acted a President, CEO, treasurer, and a director of Quantum Business Strategies,
+Inc., a reporting, non-trading company, since December 2016. 
+
+Term
+of Office 
+
+Our
+directors are appointed for a one-year term to hold office until the next annual meeting of our shareholders or until removed from office
+in accordance with our bylaws. Our officers are appointed by our board of directors and hold office until removed by the board. 
+
+Section
+16(A) Beneficial Ownership Reporting Compliance 
+
+Section
+16(a) of the Exchange Act requires the Company s executive officers and directors, and persons who beneficially own more than five
+percent (5 of the Company s equity securities, to file reports of ownership and changes in ownership with the Securities and
+Exchange Commission. Officers, directors and greater than ten percent shareholders are required by SEC regulation to furnish us with
+copies of all Section 16(a) forms they file. Based on its review of the copies of such forms received by it, we believe that during the
+fiscal year ended July 31, 2021, all such filing requirements applicable to its officers and directors were complied with, as required. 
+
+Code
+of Ethics 
+
+We
+have not adopted a Code of Ethics that governs the conduct of our officer. 
+
+Audit
+Committee 
+
+We
+do not have a formal audit committee or an audit committee financial expert. We do not have an audit committee financial expert because
+we believe the cost related to retaining a financial expert at this time is prohibitive. Further, because we have limited operations,
+at the present time, we believe the services of a financial expert are not warranted. 
+
+Item
+11. Executive Compensation. 
+
+The
+following table sets forth the compensation paid by us for the last three completed fiscal years ending for our officer. This information
+includes the dollar value of base salaries, bonus awards and number of stock options granted, and certain other compensation, if any.
+The compensation discussed addresses all compensation awarded to, earned by, or paid to named executive officers. 
+
+10 
+
+EXECUTIVE
+OFFICER COMPENSATION TABLE 
+
+Name
+ and Principal Position 
+ Year 
+ Salary 
+ ) 
+ Bonus 
+ ) 
+ Stock
+ Awards 
+ ) 
+ Option
+ Awards 
+ ) 
+ Non-Equity
+ Incentive Plan Compensation 
+ ) 
+ Change
+ in pension value and nonqualified deferred compensation earnings 
+ ) 
+ All
+ Other Compensation 
+ ) 
+ Total 
+ ) 
+ 
+ Mohammed
+ Ifran Rafimiya Kazi 
+ President
+ and CEO 
+ 2021 
+ 2020 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ Liudmilla
+ Voinarovska 
+ Former
+ President and CEO 
+ 2020 
+ 2019 
+ 
+ 0 
+ 0 
+ 
+ 0 
+ 0 
+ 
+ 0 
+ 0 
+ 
+ 0 
+ 0 
+ 
+ 0 
+ 0 
+ 
+ 0 
+ 0 
+ 
+ 0 
+ 0 
+ 
+ 0 
+ 0 
+
+Kateryna
+ Malenko 
+ Secretary 
+ 2021 
+ 2020 
+ 2019 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+
+The
+compensation discussed herein addresses all compensation awarded to, earned by, or paid to our named executive officers. 
+
+There
+are no stock option plans, retirement, pension, or profit sharing plans for the benefit of our officers and directors. 
+
+Compensation
+of Directors 
+
+Our
+directors are not compensated for their services as directors. The board has not implemented a plan to award options to any directors.
+There are no contractual arrangements with any member of the board of directors. We have no director service contracts. 
+
+Change
+of Control 
+
+We
+do not have any pension plans or compensatory plans or other arrangements which provide compensation in the event of a termination of
+employment or a change in our control. 
+
+Item
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The
+following table sets forth, as October 26, 2021, certain information with respect to the beneficial ownership of our common stock by
+each stockholder known by us to be the beneficial owner of more than 5 of our common stock and by each of our current directors and
+executive officers. Each person has sole voting and investment power with respect to the shares of common stock, except as otherwise
+indicated. Beneficial ownership consists of a direct interest in the shares of common stock, except as otherwise indicated. 
+
+Name and Address of Beneficial Owner 
+ Amount and Nature of Beneficial Ownership 
+ Percentage of Class 
+
+Mohammed Ifran Rafimiya Kazi 
+ 0 
+shares of common stock 
+ 0 
+ 
+ 9436 W. Lake Mead Blvd., Ste. 5-53 
+
+Las Vegas, NV 89134 
+
+Kateryna Malenko, Secretary and Director 
+ 82,240,000 shares of common stock 
+ 28.90 
+ 
+ 18124 Wedge Pkwy Suite 1050 
+
+Reno, NV 89511 
+
+Mehboob Charania 
+ 46,000,000 shares of common stock 
+ 16.17 
+ 
+ 30 North Gould Street, Suite R 
+
+Sheridan, WY, 82801 
+
+All directors and officers as a group that consists of two persons 
+ 82,240,000 shares of common stock 
+ 28.90 
+
+The
+shares that Kateryna Malenko beneficially owns are held in Kat Consulting Corp., a private company that she controls. 
+
+11 
+
+The
+shares that Mehboob Charania beneficially owns are held in Real-Time Save Online Inc., a private company that he controls. 
+
+The
+percent of common stock that each shareholder owns is based on 284,551,302 shares of common stock issued and outstanding as of the date
+of this annual report. 
+
+None
+of the above shareholders have any right to acquire additional shares of our common stock. There are no arrangements that may result
+in our change in control of the Company. 
+
+Item
+13. Certain Relationships and Related Transactions, and Director Independence. 
+
+During
+the Company s most two most recently completed fiscal years ended July 31, 2021 and 2020, and the period since our more recently
+completed fiscal year, we have not entered into any transactions with directors, executive officers, nominees for election as a director,
+any 10 shareholders of our common stock, or any immediate family members of the such persons in which they had a direct or indirect
+material interest in the transaction. 
+
+Director
+Independence 
+
+We
+currently have two directors: Mohammed Irfan Rafimiya Kazi and Kateryna Malenko. Our common stock is quoted on the OTC Markets Pink Sheets,
+which does not impose any director independence requirements. Under NASDAQ rule 5605(a)(2), a director is not independent if he or she
+is also an executive officer or employee of the corporation or was, at any time during the past three years, employed by the corporation.
+Using this definition of independent director, we do not have any independent directors. 
+
+Item
+14. Principal Accountant Fees and Services. 
+
+Audit
+Fees. 
+
+The
+aggregate fees billed by for professional services rendered for the accounting and audit of our financial statement for the fiscal year
+ended July 31, 2021 was 2,000 2,000 in fiscal 2020). 
+
+Audit-Related
+Fees . 
+
+There
+have been no audit-related fees billed by our accountants in the last fiscal year of our Company. 
+
+Tax
+Fees. 
+
+There
+have been no tax fees billed by our accountants in the last fiscal year of our Company. 
+
+All
+Other Fees. 
+
+Our
+independent accountant has billed 4,500 for other fees in each of fiscal 2021 and 2020. 
+
+It
+is the policy of our board of directors that before the accountant is engaged to render audit or non-audit services, the engagement is
+approved by the Board of Directors that is at present acting as the Audit Committee. 
+
+Item
+15. Exhibits and Financial Statement Schedules. 
+
+Exhibit
+
+3.1 
+ 
+ Articles
+of Incorporation of the Company. (Incorporated herein by reference to Exhibit 3.1 to the Company s Registration Statement on Form
+SB-2, filed with the Commission on May 7, 2003.) 
+ 
+ 3.1a 
+ 
+ Certificate
+ of Change, effective October 23, 2019, providing for a 4-for-1 stock split and increase in authorized common stock. (Incorporated
+ herein by reference to Exhibit 3.1a to the Company s Amended Annual report on Form 10-K/A, filed with the Commission on August
+ 13, 2020.) 
+ 
+ 3.2 
+ 
+ By-Laws of the Company. (Incorporated herein by reference to Exhibit 3.2 to the Company s Registration Statement on Form SB-2 filed with the Commission on May 7, 2003.) 
+ 
+ 31. 
+ 
+ Certification of Chief
+ Executive Officer and Principal Financial Officer Pursuant to Section 302 of the Sarbanes- Oxley Act of 2002, filed herewith. 
+ 
+ 32. 
+ 
+ Certification
+ of Chief Executive Officer and Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906
+ of the Sarbanes-Oxley Act of 2002, filed herewith. 
+
+12 
+
+Copies
+of the following documents are included as exhibits to this report pursuant to Item 601 of Regulation S-K. 
+
+SEC
+ Ref. 
+ No. 
+ 
+ Title
+ of Document 
+ 
+ 101.INS 
+ 
+ XBRL Instance
+ Document 
+ 
+ 101.SCH 
+ 
+ XBRL Taxonomy
+ Extension Schema Document 
+ 
+ 101.CAL 
+ 
+ XBRL Taxonomy
+ Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ XBRL Taxonomy
+ Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ XBRL Taxonomy
+ Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ XBRL Taxonomy
+ Presentation Linkbase Document 
+
+The
+XBRL related information in Exhibits 101 to this Annual Report on Form 10-K shall not be deemed filed or a part of a registration
+statement or prospectus for purposes of Section 11 or 12 of the Securities Act of 1933, as amended, and is not filed for purposes of
+Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of those sections. 
+
+13 
+
+SIGNATURES 
+
+In
+accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+CYBER
+APPS WORLD, INC. 
+
+By: 
+ /s/
+ Mohammed Irfan Rafimiya Kazi 
+
+Chief
+ Executive Officer and Principal Financial Officer 
+
+Date: October
+ 27, 2021 
+
+In
+accordance with the Securities Exchange Act, this report has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the dates indicated. 
+
+By: 
+ /s/
+ Mohammed Irfan Rafimiya Kazi 
+
+Mohammed
+ Irfan Rafimiya Kazi 
+ (President,
+ Chief Executive Officer and Director) 
+ 
+ Date:
+ October 27, 2021 
+
+14 
+
+<EX-31>
+ 2
+ cyberappsworld_ex31.htm
+ EX-31
+
+EXHIBIT
+31 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+302 OF THE SARBANES OXLEY ACT OF 2002 
+
+ CERTIFICATION 
+
+I,
+Mohammed Irfan Rafimiya Kazi, certify that: 
+
+1.
+I have reviewed this Annual Report on Form 10-K of Cyber Apps World, Inc.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material
+factnecessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with
+respect to the years covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in
+allmaterial respects the financial condition, results of operations and cash flows of the registrant as of, and for, the years
+presented in this report; 
+
+4.
+I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have: 
+
+a. designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared; 
+
+b. designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+c. evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+d. disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth quarter in the case of an annual report) that has materially affected, or is
+reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant s auditors
+and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a. all
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal
+control over financial reporting; 
+
+DATE: October
+ 27, 2021 
+ /s/ Mohammed
+ Irfan Rafimiya Kazi 
+
+Mohammed Irfan
+ Rafimiya Kazi 
+
+Chief Executive
+ Officer and Principal Financial Officer 
+
+</EX-31>
+
+<EX-32>
+ 3
+ cyberappsworld_ex32.htm
+ EX-32
+
+EXHIBIT
+32 
+
+CERTIFICATION
+PURSUANT TO 
+
+ 18
+U.S.C. SECTION 1350 
+
+ AS
+ADOPTED PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of Cyber Apps World Inc. (the Company on Form 10-K for the years ended July 31, 2021
+and 2019 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Mohammed Irfan Rafimiya
+Kazi, President and Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to section
+906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge: (1) The Report fully complies with the requirements of section
+13(a) or 15(d) of the Securities Exchange Act of 1934; and (2) The information contained in the Report fairly presents, in all material
+respects, the financial condition and result of operations of the Company. 
+
+/s/
+Mohammed Irfan Rafimiya Kazi 
+
+Mohammed
+Irfan Rafimiya Kazi 
+
+ Chief
+Executive Officer and Principal Financial Officer 
+
+October
+27, 2021 
+
+</EX-32>
+
+<EX-101.SCH>
+ 4
+ cetc-20210731.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ cetc-20210731_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ cetc-20210731_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ cetc-20210731_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

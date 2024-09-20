@@ -1,0 +1,1465 @@
+<Header>
+<FileStats>
+    <FileName>20211008_10-K_edgar_data_1753391_0001753391-21-000010.txt</FileName>
+    <GrossFileSize>1303817</GrossFileSize>
+    <NetFileSize>49898</NetFileSize>
+    <NonText_DocumentType_Chars>294429</NonText_DocumentType_Chars>
+    <HTML_Chars>303359</HTML_Chars>
+    <XBRL_Chars>264963</XBRL_Chars>
+    <XML_Chars>355195</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001753391-21-000010.hdr.sgml : 20211008
+<ACCEPTANCE-DATETIME>20211008105220
+ACCESSION NUMBER:		0001753391-21-000010
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		32
+CONFORMED PERIOD OF REPORT:	20210731
+FILED AS OF DATE:		20211008
+DATE AS OF CHANGE:		20211008
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIGEON CORP.
+		CENTRAL INDEX KEY:			0001753391
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-228803
+		FILM NUMBER:		211314303
+
+	BUSINESS ADDRESS:	
+		STREET 1:		MANESOVA 345/13 CESKE BUDEJOVICE,6
+		CITY:			CESKE BUDEJOVICE
+		STATE:			2N
+		ZIP:			37001
+		BUSINESS PHONE:		13212366052
+
+	MAIL ADDRESS:	
+		STREET 1:		MANESOVA 345/13 CESKE BUDEJOVICE,6
+		CITY:			CESKE BUDEJOVICE
+		STATE:			2N
+		ZIP:			37001
+
+</SEC-Header>
+</Header>
+
+ 0001753391-21-000010.txt : 20211008
+
+10-K
+ 1
+ bigeon10k2021.htm
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+
+Form 
+
+Annual Report pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 
+
+For the fiscal year ended 
+
+or 
+
+Transition Report pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 
+
+For the transition period from __________ to __________ 
+
+Commission file number 
+
+(Exact name of registrant
+as specified in its charter) 
+
+7370 
+ 
+ (State or Other Jurisdiction of Incorporation or Organization) 
+
+(I.R.S. Employer 
+ Identification Number) 
+ 
+ (Primary Standard Industrial Classification Code Number) 
+
+Mr. Olegas Tunevicius 
+
+ , 
+ , , 
+
+ Telephone: 
+
+(Address, including Zip Code, and Telephone Number,
+including Area Code, of Registrant's Principal Executive Office) 
+
+Securities registered under Section 12(b) of the Exchange Act: 
+
+Title of each class 
+ 
+ Trading Symbol 
+ 
+ Name of each exchange on which registered 
+ 
+ Common Stock 
+ 
+ BIGN 
+ 
+ OTC Markets 
+
+Securities registered under Section 12(g) of the Exchange Act: 
+
+None 
+ 
+ (Title of Class) 
+
+Indicate by check mark if the registrant is a well-known
+seasoned issuer, as defined in Rule 405 of the Securities Act. Yes [ ] [X] 
+
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act. Yes [ ] [X] 
+
+Indicate by check mark whether the registrant (1) has
+filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. [X] No [ ] 
+
+Indicate by check mark if disclosure of delinquent
+filers pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of registrant s
+knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment
+to this Form 10-K. Yes [ ] [X] 
+
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See
+the definitions of large accelerated filer, accelerated filer , smaller reporting company and
+ emerging growth company in Rule 12b-2 of the Exchange Act: 
+
+Large accelerated Filer 
+ [ ] 
+ Accelerated filer 
+ [ ] 
+
+[ ] 
+ Smaller reporting company 
+
+(Do not check if a smaller reporting company) 
+ Emerging growth company 
+
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Exchange Act). [X] No [ ] 
+
+State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price
+at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the
+registrant s most recently completed second fiscal quarter: . 
+
+State the number of shares outstanding of each of
+the issuer's classes of common equity, as of the latest practicable date: common shares issued and outstanding as of October
+8, 2021. 
+
+TABLE OF CONTENTS 
+
+Page 
+
+PART I 
+
+Item 1. 
+ Business. 
+ 3 
+ 
+ Item 1A. 
+ Risk Factors. 
+ 4 
+ 
+ Item 1B. 
+ Unresolved Staff Comments. 
+ 4 
+ 
+ Item 2. 
+ Properties. 
+ 4 
+ 
+ Item 3. 
+ Legal Proceedings. 
+ 4 
+ 
+ Item 4. 
+ Mine Safety Disclosures. 
+ 4 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 5 
+ 
+ Item 6. 
+ Selected Financial Data. 
+ 5 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 7 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk. 
+ 8 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data. 
+ 8 
+ 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+ 20 
+ 
+ Item 9A (T). 
+ Controls and Procedures. 
+ 20 
+ 
+ Item 9B. 
+ Other Information. 
+ 21 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance. 
+ 21 
+ 
+ Item 11. 
+ Executive Compensation. 
+ 23 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ 24 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence. 
+ 25 
+ 
+ Item 14. 
+ Principal Accounting Fees and Services. 
+ 26 
+
+PART IV 
+
+Item 15. 
+ Exhibits. 
+ 26 
+ 
+ Item 16. 
+ Form 10 K Summary. 
+ 26 
+
+Signatures 
+ 27 
+
+2 
+
+PART I 
+
+ Item 1. Business. 
+
+FORWARD-LOOKING STATEMENTS 
+
+Statements made in this Form 10-K that are not historical
+or current facts are forward-looking statements made pursuant to the safe harbor provisions of Section 27A of the Securities
+Act of 1933 (the Act and Section 21E of the Securities Exchange Act of 1934. These statements often can be identified by
+the use of terms such as may , will , expect , believe , anticipate ,
+ estimate , approximate or continue , or the negative thereof. We intend that such forward-looking
+statements be subject to the safe harbors for such statements. We wish to caution readers not to place undue reliance on any such forward-looking
+statements, which speak only as of the date made. Any forward-looking statements represent management's best judgment as to what may occur
+in the future. However, forward-looking statements are subject to risks, uncertainties and important factors beyond our control that could
+cause actual results and events to differ materially from historical results of operations and events and those presently anticipated
+or projected. We disclaim any obligation subsequently to revise any forward-looking statements to reflect events or circumstances after
+the date of such statement or to reflect the occurrence of anticipated or unanticipated events. 
+
+Financial information contained in this report and
+in our financial statements is stated in United States dollars and are prepared in accordance with United States generally accepted accounting
+principles. 
+
+DESCRIPTION OF BUSINESS 
+
+General 
+
+Bigeon is a Nevada corporation that is developing
+a new kind of messenger application. The product of the Company the App is intended to provide an entirely new way of
+sharing information. The App enables a user to draw a picture or a writing instead of typing the whole message. 
+
+Corporate Organization 
+
+Our registered address is Manesova 345/13 Ceske Budejovice
+6, Ceske Budejovice, Czech Republic, 370 01. Our telephone number is +13212366052. 
+
+Our Product 
+
+Bigeon is now developing an innovative type of a messenger
+application with availability of graphic input. Many of our competitors offer various solutions for messaging applications but none of
+them is anyhow related with graphics. Our company will provide prospective users with advanced graphic features including any combinations
+of colors, variable line width, backgrounds, filling, spraying and many others. 
+
+3 
+
+Regulation 
+
+We are subject to various federal, state and international
+laws and regulations that affect companies conducting business on the Internet and mobile platforms, including those relating to privacy,
+use and protection of user personal information and data (including the collection of data from minors), the Internet, mobile applications,
+content, advertising and marketing activities and anti-corruption. Presently, we do not believe that any such legislation or proposed
+legislation will have a materially adverse impact on our business. 
+
+Employees 
+
+We have no employees other than our director and President,
+Mr. Olegas Tunevicius. There is no formal employment agreement between Mr. Tunevicius and the Company. 
+
+Legal Proceedings 
+
+We are not involved in certain legal claims or proceedings,
+nor have we ever been. 
+
+Item 1A. Risk Factors. 
+
+Not applicable for smaller reporting companies. 
+
+Item 1B. Unresolved Staff Comments. 
+
+Not applicable for smaller reporting companies. 
+
+Item 2. Properties. 
+
+We do not own any real estate or other properties.
+
+Item 3. Legal Proceedings. 
+
+We know of no legal proceedings to which we are a
+party or to which any of our property is the subject which are pending, threatened or contemplated or any unsatisfied judgments against
+us. 
+
+Item 4. Mine Safety Disclosures. 
+
+Not applicable. 
+
+4 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity,
+Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Market Information 
+
+There is a limited public market for our common shares.
+ Our common shares are not quoted on the OTC Bulletin Board at this time. Trading in stocks quoted on the OTC Bulletin
+Board is often thin and is characterized by wide fluctuations in trading prices due to many factors that may be unrelated to a company s
+operations or business prospects. We cannot assure you that there will be a market in the future for our common stock. 
+
+OTC Bulletin Board securities are not listed or traded
+on the floor of an organized national or regional stock exchange. Instead, OTC Bulletin Board securities transactions are conducted
+through a telephone and computer network connecting dealers in stocks. OTC Bulletin Board issuers are traditionally smaller companies
+that do not meet the financial and other listing requirements of a regional or national stock exchange. 
+
+As of July 31, 2021, no shares of our common stock
+are traded. 
+
+Number of Holders 
+
+As of October 8, 2021, the 4,381,550 issued and outstanding
+shares of common stock were held by a total of 26 shareholder of record. 
+
+Dividends 
+
+No cash dividends were paid on our shares of common
+stock during the fiscal years ended July 31, 2021 and 2020. 
+
+Recent Sales of Unregistered Securities 
+
+None. 
+
+Purchase of our Equity Securities by Officers
+and Directors 
+
+None. 
+
+Other Stockholder Matters 
+
+None. 
+
+Item 6. Selected Financial Data. 
+
+Not applicable for smaller reporting companies . 
+
+5 
+
+Item 7. Management's Discussion and Analysis of
+Financial Condition and Results of Operations. 
+
+The following discussion should be read in conjunction
+with the financial statements and related notes that appear elsewhere in this prospectus. This discussion contains forward-looking statements
+that involve significant uncertainties. Our actual results could differ materially from those anticipated in these forward-looking statements
+as a result of various factors, including those discussed in Risk Factor elsewhere in this report. For further information,
+see Risk Relating to Forward-Looking Statement above. 
+
+OVERVIEW 
+
+Bigeon is a Nevada corporation that is developing
+a new kind of messenger application. The product of the Company the App is intended to provide an entirely new way of
+sharing information. The App enables a user to draw a picture or a writing instead of typing the whole message. 
+
+OUR SOURCES OF REVENUE 
+
+We currently plan to market and sell our graphic technology
+solution through popular digital distribution services and platforms (also referred to as app stores) such as Google Play Market, App
+Store, Amazon Appstore and others. We also intend to market to companies that seek graphic solutions across the Internet in order to offer
+them individually developed versions of the App for their needs. The management of the Company expects to attract corporate clients among
+design agencies, bureau of architecture, tattoo studios and similar small companies that deal with creating custom images and/or sketches. 
+
+On June 19, 2018, the Company entered into an interest
+free loan agreement with our President and Director, Olegas Tunevicius. According to it, Mr. Tunevicius will provide funds to the Company,
+on an as-needed basis, in amounts up to 65,000 over the next four years. The Company will use the agreement as a line of credit and will
+use the advanced funds for the purpose of working capital and to perform necessary business operations. 
+
+RESULTS OF OPERATIONS 
+
+Fiscal year ended July 31, 2021, compared to July
+31, 2020: 
+
+Revenues 
+
+During the years ended July 31, 2021, and 2020, we
+have not received any revenues. 
+
+Operating expenses 
+
+Total operating expenses for the year ended July 31,
+2021 were 46,053 compared to 14,077 for the year ended July 31, 2020. Our operating expenses consisted of general and administrative
+costs 22,934 (July 31, 2020 - 366), professional fees 22,764 (July 31, 2020 - 13,350), and rent expense 355 (July 31, 2020 - 361).
+Expenses increased in the current year primarily due to an increase in accrued payroll and DTC processing fees. 
+
+6 
+
+Net Losses 
+
+The net loss for the fiscal
+year ended July 31, 2021 was 46,053, compare to 14,077 for the fiscal year ended July 31, 2020, due to the factors discussed above. 
+
+Liquidity and Capital Resources 
+
+As of July 31, 2021, our total assets were 849 comprised
+of cash 124 and prepaid expenses 725. Our total liabilities were 59,594 comprised of a loan from director 36,794 and payroll liabilities
+ 22,800. As of July 31, 2020, our total assets were 2,452 comprised of cash 1,610, prepaid rent 221, and prepaid expenses 621. Our
+total liabilities were 15,1444 comprised of a loan from director. 
+
+Shareholders deficit has increased from (12,692)
+as of July 31, 2020 to (58,745) as of July 31, 2021. 
+
+The Company has accumulated a deficit of 79,876 as
+of July 31, 2021 compare to 33,823 as of July 31, 2020 and further losses are anticipated in the development of its business. Accordingly,
+there is substantial doubt about the Company s ability to continue as a going concern. 
+
+The ability to continue as a going concern is dependent
+upon the Company generating profitable operations in the future and, or, obtaining the necessary financing to meet its obligations and
+repay its liabilities arising from normal business operations when they come due. Management intends to finance operating costs over the
+next twelve months with loans from director. 
+
+Because of the Company s history of losses,
+its independent auditors, in the reports on the financial statements for the year ended July 31, 2021 and July 31, 2020, expressed substantial
+doubt about the Company s ability to continue as a going concern. The accompanying financial statements have been prepared in conformity
+with accounting principles generally accepted in the United States of America, which contemplate continuation of the Company as a going
+concern. The financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts
+or the amounts and classification of liabilities that could result from the outcome of this uncertainty. 
+
+Management anticipates that the Company will be dependent,
+for the near future, on additional investment capital to fund operating expenses. The Company intends to position itself so that it may
+be able to raise additional funds through the capital markets. In light of management s efforts, there are no assurances that the
+Company will be successful in this or any of its endeavors or become financially viable and continue as a going concern. 
+
+Cash Flows from Operating Activities 
+
+We have not generated positive cash flows from operating
+activities. For the fiscal year ended July 31, 2021, net cash flows used in operating activities was 23,136 compared to 16,146 for July
+31, 2020. The increase is due to a larger net loss in the current period offset by an increase in payroll liabilities. 
+
+7 
+
+Cash Flows from Financing Activities 
+
+For the fiscal year ended July 31, 2021, net cash
+from financing activities was 21,650 consisting of proceeds from a loan from a director. For the fiscal year ended July 31, 2020, net
+cash from financing activities was 16,331 consisting of proceeds from the sale of stock of 16,181 and proceeds from a loan from a director
+of 150. 
+
+PLAN OF OPERATION AND FUNDING 
+
+Our cash reserves are not sufficient to meet our obligations
+for the next twelve months period. As a result, we will need to seek additional funding in the near future. We currently do not have a
+specific plan of how we will obtain such funding; however, we anticipate that additional funding will be in the form of equity financing
+from the sale of shares of our common stock, from selling our products and from our sole officer and director loan. 
+
+OFF-BALANCE SHEET ARRANGEMENTS 
+
+As of the date of this Annual Report, we do not have
+any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes
+in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that are material
+to investors. 
+
+Item 7A. Quantitative and Qualitative Disclosures
+about Market Risk. 
+
+Not applicable for smaller reporting companies. 
+
+Item 8. Financial Statements and Supplementary
+Data . 
+
+8 
+
+BIGEON 
+
+FINANCIAL STATEMENTS 
+
+For the Years Ended July 31, 2021 and July 31, 2020 
+
+Table of Contents 
+
+Page 
+ 
+ Report of Independent Registered Public Accounting Firm 
+ 
+ 10 
+
+Balance Sheets as of July 31, 2021 and July 31, 2020 
+ 
+ 11 
+
+Statements of Operations for the years ended July 31, 2021 and July 31, 2020 
+ 
+ 12 
+
+Statement of Stockholders Deficit as of July 31, 2021 and July 31, 2020 
+ 
+ 13 
+
+Statements of Cash Flows for the years ended July 31, 2021 and July 31, 2020 
+ 
+ 14 
+
+Notes to the Financial Statements 
+ 
+ 15 
+
+9 
+
+Report of Independent Registered
+Public Accounting Firm 
+
+Board of Directors and Shareholders 
+
+ Bigeon 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets of Bigeon as of July 31,
+2021 and 2020, and the related statements of operations, stockholders deficit and cash flows for the years then ended, and the
+related notes to the financial statements. In our opinion, the financial statements present fairly, in all material respects, the financial
+position of Bigeon as of July 31, 2021 and 2020, and the results of its operations and its cash flows for each of the periods then ended,
+in conformity with accounting principles generally accepted in the United States of America. 
+
+Going Concern 
+
+The accompanying financial statements have been prepared assuming that
+the entity will continue as a going concern. As discussed in Note 3 to the financial statements, the Company had no revenue during the
+years ended July 31, 2021 and 2020, has suffered recurring losses from operations, and its total liabilities exceeds its total assets.
+This raises substantial doubt about the Company s ability to continue as a going concern. Management's plans in regard to these
+matters are also described in Note 3 to the financial statements. The financial statements do not include any adjustments that might result
+from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the entity s
+management. Our responsibility is to express an opinion on these financial statements based on our audits. We are a public accounting
+firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are required to be independent
+with respect to Bigeon in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities
+and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of the PCAOB.
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free
+of material misstatement, whether due to error or fraud. Bigeon is not required to have, nor were we engaged to perform, an audit of its
+internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial
+reporting but not for the purpose of expressing an opinion on the effectiveness of the entity's internal control over financial reporting.
+Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess the risks of material
+misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures
+included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included
+evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation
+of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+Critical audit matters are matters arising from the current period audit
+of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts
+or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex judgments.
+We determined that there are no critical audit matters. 
+
+/s/ Mac Accounting Group, LLP 
+
+We have served as Bigeon's auditor since 2018. 
+
+ Midvale, Utah 
+
+ October 8, 2021 
+
+10 
+
+BIGEON 
+
+ BALANCE SHEETS 
+
+July 31, 2021 
+
+July 31, 2020 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash 
+
+Prepaid Rent 
+
+Prepaid Expenses 
+
+Total Current Assets 
+
+TOTAL ASSETS 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+Current Liabilities 
+
+Payroll Liabilities 
+
+Related-party Loan 
+
+Total Current Liabilities 
+
+Total Liabilities 
+
+Stockholders Deficit 
+
+Common Stock, par value authorized, 
+ and shares issued and outstanding as of
+ July 31, 2021 and 2020, respectively 
+
+Additional Paid in Capital 
+
+Accumulated deficit 
+ 
+ ) 
+
+) 
+ 
+ Total Stockholders Deficit 
+ 
+ ) 
+
+) 
+ 
+ TOTAL LIABILITIES STOCKHOLDERS DEFICIT 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+11 
+
+BIGEON 
+STATEMENTS OF OPERATIONS 
+
+Year ended 
+ July 31, 2021 
+ 
+ Year ended 
+ July 31, 2020 
+
+REVENUE 
+
+EXPENSES 
+
+General and Administrative Costs 
+
+Professional fees 
+
+Rent Expense 
+
+Total expenses 
+
+Income (Loss) from Operations 
+ 
+ ) 
+ 
+ ) 
+
+Income Tax Expense 
+
+NET INCOME (LOSS) AFTER TAX 
+ 
+ ) 
+ 
+ ) 
+
+Basic and Diluted Net Loss per Common Share 
+
+Weighted-Average Number of Common Shares Outstanding Basic and Diluted 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+12 
+
+BIGEON 
+
+ STATEMENT OF STOCKHOLDERS DEFICIT 
+
+Common Stock 
+
+Additional 
+ Paid-in 
+ Capital 
+ 
+ Accumulated Deficit 
+ 
+ Total Stockholders' Deficit 
+
+Shares 
+
+Amount 
+
+Balance as of July 31, 2019 
+
+) 
+
+) 
+
+Common stock issued for cash 
+
+Net loss 
+
+) 
+
+) 
+
+Balance as of July 31, 2020 
+
+) 
+
+) 
+
+Net loss 
+
+) 
+
+) 
+
+Balance as of July 31, 2021 
+
+) 
+
+) 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+13 
+
+BIGEON 
+STATEMENTS OF CASH FLOWS 
+
+Year ended 
+ July 31, 2021 
+
+Year ended 
+ July 31, 2020 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net Income 
+ 
+ ) 
+
+) 
+
+Adjustments to reconcile Net Income 
+ to net cash provided by operations: 
+
+Prepaid Expenses 
+
+) 
+ 
+ Prepaid Rent 
+
+) 
+ 
+ Payroll Liabilities 
+
+Accounts Payable 
+
+) 
+ 
+ Net cash used in Operating Activities 
+ 
+ ) 
+
+) 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Related-party loan 
+
+Proceeds from the sale of stock 
+
+Net cash provided by Financing Activities 
+
+Net cash increase for period 
+ 
+ ) 
+
+Cash at beginning of period 
+
+Cash at end of period 
+
+SUPPLEMENTAL CASH FLOW INFORMATION 
+
+Cash paid during the period: 
+
+Interest paid 
+
+Income taxes paid 
+
+Non-cash transaction 
+
+Common stock issued to reduce related party loan 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+14 
+
+BIGEON 
+
+ NOTES TO THE FINANCIAL STATEMENTS 
+
+ As of July 31, 2021 
+
+As reflected in the financial statements, the Company
+had no revenues during the years ended July 31, 2021, and 2020, has reoccurring net losses, and is showing total liabilities in excess
+of total assets. These factors raise substantial doubt about the Company s ability to continue as a going concern. 
+
+The Company is attempting to commence full-scale operations
+and generate sufficient revenue, however the Company s cash position may not be sufficient to support the Company s daily
+operations long-term. Management intends to finance operating costs with loans from director. While the Company believes in the viability
+of its strategy to commence operations and generate sufficient revenue and in its ability to raise additional funds, there can be no assurances
+to that effect. The ability of the Company to continue as a going concern is dependent upon the Company s ability to further
+implement its business plan and generate sufficient revenue and its ability to raise additional funds by way of a public or private offering. 
+
+The financial statements do not include any adjustments
+related to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might
+be necessary should the Company be unable to continue as a going concern. 
+
+Effective tax rate 
+
+21 
+
+21 
+
+Expected Income Tax Benefit from NOL Carry-Forward 
+
+Less: Valuation Allowance 
+
+) 
+
+() 
+ 
+ Deferred Tax Asset, Net of Valuation Allowance 
+
+- 
+
+- 
+
+) 
+ 
+ Change in valuation allowance 
+
+Actual tax expense (benefit) 
+ 
+ - 
+
+- 
+
+18 
+
+19 
+
+Item 9. Changes in and Disagreements with Accountants
+on Accounting and Financial Disclosure. 
+
+None 
+
+Item 9A(T). Controls and Procedures. 
+
+Management s Report on Internal Controls
+over Financial Disclosure Controls and Procedures 
+
+Management is responsible for establishing and maintaining
+adequate internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)). The Company s internal control over
+financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation
+of financial statements for external purposes in accordance with accounting principles generally accepted in the United States of America.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections
+of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in
+conditions, or that the degree of compliance with the policies or procedures may deteriorate. Under the supervision and with the participation
+of management, including the Chief Executive Officer and Chief Financial Officer, the Company conducted an evaluation of the effectiveness
+of the Company s internal control over financial reporting as of July 31, 2021, using the criteria established in Internal
+Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission COSO in 2013. 
+
+A material weakness is a deficiency, or combination
+of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement
+of the Company s annual or interim financial statements will not be prevented or detected on a timely basis. In its assessment of
+the effectiveness of internal control over financial reporting as of July 31, 2021, the Company determined that there were control deficiencies
+that constituted material weaknesses, as described below. 
+
+1. The Company does not have an adequate internal control structure or adequate oversight over financial
+reporting The Company has no employees and only one member of management whom is also the Company s sole director, therefore
+the Company lacks adequate segregation of duties. Further, the Company currently has no Audit Committee. While not being legally obligated
+to have an audit committee, it is the management s view that such a committee, including a financial expert member, is an utmost
+important entity level control over the Company s financial statement. Currently the Board of Directors acts in the capacity of
+the Audit Committee, and does not include a member that is considered to be independent of management to provide the necessary oversight
+over management s activities. 
+
+2. The Company lacks adequate financial reporting capabilities Due to the minimal operations and
+small size of the Company we have not employed individuals that have the necessary accounting knowledge and expertise to ensure accurate
+financial reporting under US GAAP. 
+
+3. The Company lacks appropriate information technology controls As of July 31, 2021, the Company
+retains copies of all financial data and material agreements; however, there is no formal procedure or evidence of normal backup of the
+Company s data or off-site storage of data in the event of theft, misplacement, or loss due to unmitigated factors. 
+
+Accordingly, the Company concluded that these control
+deficiencies resulted in a reasonable possibility that a material misstatement of the annual or interim financial statements will not
+be prevented or detected on a timely basis by the company s internal controls. 
+
+20 
+
+As a result of the material weaknesses described above,
+management has concluded that the Company did not maintain effective internal control over financial reporting as of July 31, 2021, based
+on criteria established in Internal Control- Integrated Framework issued by COSO in 2013. 
+
+System of Internal Control over Financial Reporting 
+
+Our management is responsible for establishing and
+maintaining a system of disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act) that is
+designed to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded,
+processed, summarized and reported, within the time periods specified in the Commission s rules and forms. Disclosure controls and
+procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer
+in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer s management, including
+its principal executive officer or officers and principal financial officer or officers, or persons performing similar functions, as appropriate
+to allow timely decisions regarding required disclosure. 
+
+An evaluation was conducted under the supervision
+and with the participation of our management of the effectiveness of the design and operation of our disclosure controls and procedures
+as of July 31, 2021. Based on that evaluation, our management concluded that our disclosure controls and procedures were not effective
+as of such date to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act, is recorded,
+processed, summarized and reported within the time periods specified in SEC rules and forms. 
+
+Changes in Internal Control over Financial Reporting 
+
+There was no change in the Company s internal
+control over financial reporting during the annual period covered by this report that has materially affected, or is reasonably likely
+to materially affect, the Company s internal control over financial reporting. 
+
+Item 9B. Other Information. 
+
+None. 
+
+ PART III 
+
+Item 10. Directors, Executive Officers and Corporate
+Governance. 
+
+DIRECTORS, EXECUTIVE OFFICERS, PROMOTER AND CONTROL PERSONS 
+
+The name, age and titles of our executive officer and director is
+as follows: 
+
+Name and Address of Executive Officer and/or Director 
+ Age 
+ Position 
+
+Olegas Tunevicius 
+ Manesova 345/13 Ceske Budejovice 6, Ceske Budejovice,
+ Czech Republic, 370 01 
+ 40 
+ 
+ President, Treasurer, Secretary and Director 
+ (Principal Executive, Financial and Accounting Officer) 
+
+21 
+
+Olegas Tunevicius is our President and was appointed
+to the position of the Director, the Secretary and the Treasurer. He established the Company on June 19, 2018. Mr. Tunevicius has been
+fond of IT technologies for the past 10 years and dedicated most of his leisure time to exploring the world tendencies in the field. With
+the degree of Vilnius Gediminas Technical University, the President has been able to understand the process of creating software in detail.
+Mr. Tunevicius s work experience for the past 5 years includes being employed at Egzotika, Lattako and Inter Cars Lietuva. At Egzotika,
+he took position of the head of the department from 2005 to 2015. Mr. Tunevicius s key responsibilities were managing the work of
+the department and controlling the provision of supplies. In February 15, 2015, Mr. Tunevicius joined Latakko in Latvia. At Latakko he
+worked as a sales manager fulfilling such responsibilities as increasing the sales of department, providing the company s customers
+with enjoyable experience and analyzing business strategy of the department for increasing profits. In March 2018 Mr. Tunevicius joined
+Inter Cars Lietuva where he worked as a product group specialist. He had to leave that position in June 2018. 
+
+During the past ten years, Mr. Tunevicius has not
+been the subject to any of the following events: 
+
+Any bankruptcy petition filed by or against any business of which Mr. Tunevicius
+was a general partner or executive officer either at the time of the bankruptcy or within two years prior to that time. 
+
+ Any conviction in a criminal proceeding or being subject to a pending criminal
+proceeding. 
+
+ An order, judgment, or decree, not subsequently reversed, suspended or vacated,
+or any court of competent jurisdiction, permanently or temporarily enjoining, barring, suspending or otherwise limiting Mr. Tunevicius s
+involvement in any type of business, securities or banking activities. 
+
+ Found by a court of competent jurisdiction (in a civil action), the Securities
+and Exchange Commission or the Commodity Future Trading Commission to violate a federal or state securities or commodities law, and the
+judgment has not been reversed, suspended or vacated. 
+
+ Was the subject of any order, judgment or decree, not subsequently reversed,
+suspended or vacated, of any Federal or State authority barring, suspending or otherwise limiting for more than 60 days the right to engage
+in any activity described in paragraph (f)(3)(i) of this section, or to be associated with persons engaged in any such activity; 
+
+ Was found by a court of competent jurisdiction in a civil action or by the
+Commission to have violated any Federal or State securities law, and the judgment in such civil action or finding by the Commission has
+not been subsequently reversed, suspended, or vacated; 
+
+ Was the subject of, or a party to, any Federal or State judicial or administrative
+order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of: 
+
+i. Any Federal or State securities or commodities law or regulation; or 
+
+ii. Any law or regulation respecting financial institutions or insurance companies including, but not limited
+to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist
+order, or removal or prohibition order; or 
+
+iii. Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity;
+or 
+
+22 
+
+8. Was the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated,
+of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity
+(as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or
+organization that has disciplinary authority over its members or persons associated with a member. 
+
+DIRECTOR INDEPENDENCE 
+
+ The Board of Directors has determined that there are
+no independent directors as such term is defined in Section 5605(a)(2) of the Nasdaq listing rules, and meets the criteria
+for independence set forth in Rule 10A-3(b)(1) under the Securities Exchange Act of 1934. The preceding disclosure respecting director
+independence is required under applicable SEC rules. The Board of Directors has determined that at least one member of the board, Mr.
+Tunevicius, is an audit committee financial expert as that term is defined in Regulation S-K promulgated under the Securities
+Exchange Act of 1934. Mr. Tunevicius is not an independent member of the board as described above. The Board of Directors
+has determined that director is able to read and understand fundamental financial statements. 
+
+BOARD AND COMMITTEE MATTERS 
+
+ The Company does not have a standing nominating committee,
+compensation committee or audit committee. Instead, the entire Board of Directors shares the responsibility of identifying potential director-nominees
+to serve on the Board of Directors and performing the functions of an audit committee. The Board believes the engagement of directors
+in these functions is important at this time in the Company s development in light of the Company s recent activities. 
+
+COMMUNICATIONS WITH BOARD MEMBERS 
+
+ Our board of directors has provided the following
+process for shareholders and interested parties to send communications to our board and/or individual directors. All communications should
+be addressed to Bigeon, Manesova 345/13 Ceske Budejovice 6, Ceske Budejovice, Czech Republic, 370 01. Communications to individual directors
+may also be made to such director at our company s address. All communications sent to any individual director will be received
+directly by such individuals and will not be screened or reviewed by any company personnel. Any communications sent to the board in the
+care of the Secretary will be reviewed by the Secretary to ensure that such communications relate to the business of the company before
+being reviewed by the board. 
+
+Item 11. Executive Compensation. 
+
+MANAGEMENT COMPENSATION 
+
+ The following table sets forth certain information about compensation paid,
+earned or accrued for services by our Executive Officer for the fiscal years ended July 31, 2021 and July 31, 2020: 
+
+23 
+
+Summary Compensation Table 
+
+Name and Principal Position 
+ 
+ Year 
+ 
+ Salary ) 
+ 
+ Bonus ) 
+ 
+ Stock Awards ) 
+ 
+ Option Awards ) 
+ 
+ Non-Equity Incentive Plan Compensation ) 
+ 
+ All Other Compensation ) 
+
+Total ) 
+
+Olegas Tunevicius 
+ President, Secretary and Treasurer 
+ 
+ 2021 
+ 
+ 22,800 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+
+22,800 
+
+2020 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+ 
+ -0- 
+
+-0- 
+
+There are no current employment agreements between
+the company and its officer. 
+
+Mr. Tunevicius currently devotes approximately
+twenty hours per week to manage the affairs of the Company. He has agreed to work with no remuneration until such time as the company
+receives sufficient revenues necessary to provide management salaries. At this time, we cannot accurately estimate when sufficient revenues
+will occur to implement this compensation, or what the amount of the compensation will be. 
+
+There are no annuity, pension or retirement benefits
+proposed to be paid to the officer or director or employees in the event of retirement at normal retirement date pursuant to any presently
+existing plan provided or contributed to by the company or any of its subsidiaries, if any. 
+
+Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters. 
+
+The following table sets forth certain
+information relating to the beneficial ownership of our common stock as of July 31, 2021, by: 
+
+each person, or group of
+affiliated persons, known by us to beneficially own more than five percent of the outstanding shares of our common stock; 
+
+each of our directors; 
+
+each of our named executive
+officers; and 
+
+all directors and executive
+officers as a group. 
+
+24 
+
+Title of Class 
+ Name and Address of Beneficial Owner 
+ Amount and Nature of Beneficial Ownership 
+ Percentage 
+ 
+ Common Stock 
+ 
+ Olegas Tunevicius 
+ Manesova 345/13 Ceske Budejovice 6, Ceske Budejovice, Czech
+ Republic, 370 01 
+ 3,500,000 shares of common stock (direct) 
+ 79.88 
+
+The number of shares beneficially owned by each entity,
+person, director or executive officer is determined in accordance with the rules of the SEC, and the information is not necessarily indicative
+of beneficial ownership for any other purpose. Under such rules, beneficial ownership includes any shares over which the individual has
+sole or shared voting power or dispositive power as well as any shares that the individual has the right to acquire within 60 days of
+the date through the exercise of any stock option, warrants or other rights. Except as otherwise indicated, and subject to applicable
+community property laws, the persons named in the table have sole voting and dispositive power with respect to all shares of common stock
+held by that person. The percentage of shares beneficially owned is computed on the basis of 4,381,550 shares of our common stock outstanding
+as of the date of this annual report. 
+
+Shares of common stock that a person has the right
+to acquire within 60 days of the date are deemed outstanding for purposes of computing the percentage ownership of the person holding
+such rights, but are not deemed outstanding for purposes of computing the percentage ownership of any other person, except with respect
+to the percentage ownership of all directors and executive officers as a group. Unless otherwise noted below, the address of the persons
+listed on the table is Manesova 345/13 Ceske Budejovice 6, Ceske Budejovice, Czech Republic, 370 01. 
+
+Item 13. Certain Relationships and Related Transactions. 
+
+On June 19, 2018, the Company entered into an interest
+free loan agreement with our President and Director, Olegas Tunevicius. According to it, Mr. Tunevicius will provide funds to the Company,
+on an as-needed basis, in amounts up to 65,000 over the next four years. The Company will use the agreement as a line of credit and will
+use the advanced funds for the purpose of working capital and to perform necessary business operations. In accordance with the interest
+free loan agreement, for the year ended July 31, 2019, Mr. Tunevicius advanced 16,862 for operating expenses. Additionally, on September
+4, 2018, the Company issued a total of 3,500,000 shares of their restricted common stock to Mr. Tunevicius to reduce the related party
+loan by 3,500. For the year ended July 31, 2021, Mr. Tunevicius advanced 21,650 to the Company for operating expenses. As of July 31,
+2021, the related party loan balance was 36,794. In conjunction with the loan agreement the amounts advanced by Mr. Tunevicius are to
+be repaid by June 19, 2022. The Company plans to repay Mr. Tunevicius from revenues of operations if and when the Company generates enough
+revenues to pay the obligation. There is no assurance that we ever will generate revenues from our operations. 
+
+25 
+
+Item 14. Principal Accountant Fees and Services. 
+
+The following is a summary of the fees billed to us by our independent
+auditors for professional services rendered related to the fiscal years ended July 31, 2021 and 2020: 
+
+2021 
+
+2020 
+
+Audit Fees 
+
+11,000 
+
+11,700 
+
+Audit Related Fees 
+
+- 
+
+- 
+
+Tax Fees 
+
+- 
+
+- 
+
+All Other Fees 
+
+- 
+
+- 
+
+Total 
+
+11,000 
+
+11,700 
+
+Audit Fees. Consists of fees billed for professional
+services rendered for the audit of our financial statements and review of the interim financial statements included in quarterly reports
+and services in connection with registration statement filings and statutory and regulatory filings or engagements. 
+
+Audit-Related Fees. Consists of fees billed
+for assurance and related services that are reasonably related to the performance of the audit or review of our financial statements and
+are not reported under Audit Fees. 
+
+Tax Fees. Consists of fees billed for professional
+services for tax compliance, tax advice, and tax planning. 
+
+All Other Fees. Consists of fees for products
+and services other than the services reported above. 
+
+PART IV 
+
+Item 15. Exhibits. 
+
+Exhibit No. 
+ 
+ Description 
+ 
+ 31.1 
+ 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to Securities Exchange Act of 1934 Rule 13a-14(a) or 15d-14(a) . 
+
+32.1 
+ 
+ Certifications pursuant to Securities Exchange Act of 1934 Rule 13a-14(b) or 15d-14(b) and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes- Oxley Act of 2002. 
+
+Item 16. Form 10-K
+Summary. 
+
+As permitted, the registrant has
+elected not to supply a summary of information required by Form 10-K. 
+
+26 
+
+SIGNATURES 
+
+ Pursuant to the requirements of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+BIGEON 
+
+Date: October 8, 2021 
+ By: 
+ /s/ Olegas Tunevicius 
+
+Name: Olegas Tunevicius 
+ Title: Chief Executive Officer (Principal Executive
+ Officer) and Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+27 
+
+<EX-31.1>
+ 2
+ ex31.htm
+
+Exhibit 31.1 
+
+Certification
+of Chief Executive Officer pursuant to Securities Exchange 
+
+ Act of 1934
+Rule 13a-14(a) or 15d-14(a) 
+
+1. I, Olegas Tunevicius, have
+reviewed this Annual Report on Form 10-K of Bigeon Corp.; 
+
+2. Based on my knowledge, this report
+does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light
+of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial
+statements, and other financial information included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying
+officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant
+and we have: 
+
+a) 
+ 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+designed such internal control over financial reporting, or caused such
+ internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability
+ o 
+ 
+ f financial reporting and the preparation of financial statements for external
+ purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ 
+ evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+ 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+ 
+ all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+ 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+October 8, 2021 
+ 
+ By: 
+ /S/ Olegas
+Tunevicius 
+
+Name: 
+ Olegas Tunevicius 
+
+Title: President,
+ treasurer, secretary and director 
+ 
+ (Principal Executive, Financial and Accounting Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex32.htm
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Bigeon Corp. (the
+ Company on Form 10-Q for the fiscal year ended July 31, 2021, as filed with the Securities and Exchange Commission
+on the date hereof (the Report ), I, Olegas Tunevicius, Principal Executive, Financial and Accounting Officer of
+the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+
+October 8, 2021 By: 
+ /S/ Olegas Tunevicius 
+
+Name: Olegas Tunevicius 
+
+Title: President,
+ treasurer, secretary and director 
+ 
+ (Principal Executive, Financial and Accounting Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 4
+ none-20210731.xsd
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 6
+ none-20210731_def.xml
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 7
+ none-20210731_lab.xml
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 8
+ none-20210731_pre.xml
+
+</EX-101.PRE>
+

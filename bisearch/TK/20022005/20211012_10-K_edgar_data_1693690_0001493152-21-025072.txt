@@ -1,0 +1,3944 @@
+<Header>
+<FileStats>
+    <FileName>20211012_10-K_edgar_data_1693690_0001493152-21-025072.txt</FileName>
+    <GrossFileSize>5348669</GrossFileSize>
+    <NetFileSize>135856</NetFileSize>
+    <NonText_DocumentType_Chars>1376047</NonText_DocumentType_Chars>
+    <HTML_Chars>1286070</HTML_Chars>
+    <XBRL_Chars>1243212</XBRL_Chars>
+    <XML_Chars>1146929</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-21-025072.hdr.sgml : 20211012
+<ACCEPTANCE-DATETIME>20211008185719
+ACCESSION NUMBER:		0001493152-21-025072
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		75
+CONFORMED PERIOD OF REPORT:	20201231
+FILED AS OF DATE:		20211012
+DATE AS OF CHANGE:		20211008
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Veroni Brands Corp.
+		CENTRAL INDEX KEY:			0001693690
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-GROCERIES & RELATED PRODUCTS [5140]
+		IRS NUMBER:				814664596
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55735
+		FILM NUMBER:		211316344
+
+	BUSINESS ADDRESS:	
+		STREET 1:		650 FOREST EDGE DRIVE
+		CITY:			VERNON HILLS
+		STATE:			IL
+		ZIP:			60061
+		BUSINESS PHONE:		847-505-0489
+
+	MAIL ADDRESS:	
+		STREET 1:		650 FOREST EDGE DRIVE
+		CITY:			VERNON HILLS
+		STATE:			IL
+		ZIP:			60061
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	European CPG Acquisition Corp
+		DATE OF NAME CHANGE:	20170831
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Echo Sound Acquisition Corp
+		DATE OF NAME CHANGE:	20170104
+
+</SEC-Header>
+</Header>
+
+ 0001493152-21-025072.txt : 20211012
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+10-K 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the Fiscal Year Ended December 31, 2020 
+
+TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission
+file number: 000-55735 
+
+VERONI
+BRANDS CORP. 
+
+ (Exact
+name of registrant as specified in its charter) 
+
+Delaware 
+ 
+ 81-4664596 
+ 
+ (State
+ or other jurisdiction of 
+ incorporation
+ or organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification
+ No.) 
+
+2275
+Half Day Rd. Suite 346 , Bannockburn,
+IL 
+ 
+ 60015 
+ 
+ (Address
+of principal executive offices) 
+ 
+ (Zip
+ Code) 
+
+Registrant s
+telephone number, including area code: (888)794-2999 
+
+Securities
+registered pursuant to Section 12(b) of the Act: None 
+
+Title
+ of each class 
+ 
+ Trading
+ symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+
+Securities
+registered pursuant to Section 12(g) of the Act: Common Stock, 0.0001 par value 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+
+ Yes
+ No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large
+ accelerated filer 
+ Accelerated
+ filer 
+ 
+ Non-accelerated
+ filer 
+ Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No
+
+State
+the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which
+the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s
+most recently completed second fiscal quarter: -0- as of June 30, 2020. 
+
+Indicate
+the number of shares outstanding of each of the registrant s classes of common stock, as of the latest practicable date: 27,112,028
+shares as of October 5, 2021. 
+
+SPECIAL
+NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This
+report contains, in addition to historical information, certain information, assumptions and discussions that may constitute forward-looking
+statements. Such statements are subject to certain risks and uncertainties which could cause actual results to differ materially than
+those projected or anticipated. Actual results could differ materially from those projected in the forward-looking statements. Although
+the Company believes its assumptions underlying the forward-looking statements are reasonable, the Company cannot assure a reader that
+the forward-looking statements set out in this report will prove to be accurate. The Company s business can be affected by, without
+limitation, such things as natural disasters, economic trends, international strife or upheavals, consumer demand patterns, labor relations,
+existing and new competition, consolidation, and growth patterns within the industries in which the Company competes and any deterioration
+in the economy may individually or in combination impact future results. 
+
+VERONI
+BRANDS CORP. 
+
+ANNUAL
+REPORT ON 
+
+ FORM
+10-K 
+
+ FOR
+THE YEAR ENDED 
+
+ DECEMBER
+31, 2020 
+
+INDEX 
+
+Page 
+ 
+ PART I 
+
+Item
+ 1. 
+ Business 
+ 3 
+ 
+ Item
+ 1A. 
+ Risk Factors 
+ 7 
+ 
+ Item
+ 1B. 
+ Unresolved Staff Comments 
+ 7 
+ 
+ Item
+ 2. 
+ Properties 
+ 7 
+ 
+ Item
+ 3. 
+ Legal Proceedings 
+ 8 
+ 
+ Item
+ 4. 
+ Mine Safety Disclosures 
+ 8 
+
+PART II 
+
+Item
+ 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 8 
+ 
+ Item
+ 6. 
+ Selected Financial Data 
+ 8 
+ 
+ Item
+ 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 9 
+ 
+ Item
+ 7A. 
+ Quantitative and Qualitative Disclosure About Market Risk 
+ 12 
+ 
+ Item
+ 8. 
+ Financial Statements and Supplementary Data 
+ 13 
+ 
+ Item
+ 9. 
+ Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 14 
+ 
+ Item
+ 9A. 
+ Controls and Procedures 
+ 14 
+ 
+ Item
+ 9B. 
+ Other Information 
+ 16 
+
+PART III 
+
+Item
+ 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 16 
+ 
+ Item
+ 11. 
+ Executive Compensation 
+ 17 
+ 
+ Item
+ 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 18 
+ 
+ Item
+ 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 19 
+ 
+ Item
+ 14. 
+ Principal Accounting Fees and Services 
+ 20 
+
+PART IV 
+
+Item
+ 15. 
+ Exhibits, Financial Statement Schedules 
+ 21 
+ 
+ Item
+ 16 
+ Form 10-K Summary 
+ 21 
+
+SIGNATURES 
+ 22 
+
+2 
+
+PART
+I 
+
+Item
+ 1. 
+ Business. 
+
+Corporate
+History and General Information 
+
+Veroni
+Brands Corp. Veroni or the Company was incorporated as Echo Sound Acquisition Corporation 
+on December 7, 2016 under the laws of the State of Delaware. In September 2017, the Company implemented a change of control by issuing
+shares to new stockholders, redeeming shares of existing stockholders, electing a new officer and director and accepting the resignations
+of its then existing officers and directors. 
+
+In
+connection with the change in control, the stockholders of the Company and its board of directors unanimously approved the change of
+the Company s name from Echo Sound Acquisition Corporation to European CPG Acquisition Corporation. In November 2017, the stockholders
+of the Company and its board of directors unanimously approved the change of the Company s name to Veroni Brands Corp. 
+
+The
+Company is located at 2275 Half Day Road, Suite 346, Bannockburn, Illinois 60015. The Company s main phone number is 888-794-2999.
+The Company s fiscal year end is December 31. Neither the Company nor its predecessors have filed for bankruptcy, receivership
+or any similar proceedings nor are in the process of filing for bankruptcy, receivership or any similar proceedings. 
+
+Summary 
+
+The
+Company is an importer, seller and distributor of premium chocolate and snack products produced in Europe, engaging with both domestic
+and international well-known retailers so that its products are sold in thousands of stores in the United States. Veroni is also a supplier
+of confectionery products for major U.S. retailers under private label brands. Since adopting its current business plan in late 2017,
+the Company has been able to obtain and grow a distribution network, as well as contract with reliable suppliers. Veroni prides itself
+on its extensive market research with premium products, superior customer service, steady relationships with suppliers and retailers,
+and its success in developing private label collaborations and co-branded chocolate products. 
+
+The
+Company handles the product design and development phases in-house, while manufacturing is outsourced in Europe, with the whole cycle
+being strictly supervised by the Company in order to guarantee the highest quality products. 
+
+The
+business of the Company in 2018 focused on the import, sales and distribution of premium beverage products, primarily produced in Europe.
+Within this strategy, Veroni secured a long-term exclusive import and distribution agreement with a major European supplier, FoodCare
+Sp. z o,o., a company organized under the laws of Poland FoodCare ). Under that agreement, FoodCare made Veroni the sole
+and exclusive importer and distributor of Iron Energy in the U.S., an energy drink sponsored by celebrity boxer Mike Tyson, with access
+to numerous other beverage brands through this partnership. From the summer of 2018 to the end of 2019, the Company introduced the Iron
+Energy beverage to various retailers and distributors nationwide and worked with many retailers and distributors to bring the product
+to market. In 2020, Veroni decided to exit the highly competitive energy drink market and focus on its chocolate and confectionery products
+due to the lack of marketing support of Iron Energy by the supplier. 
+
+In
+January 2019, the Company expanded its product offerings and established a relationship with another manufacturer, Millano Group, to
+import chocolate products, as well as snacks, for distribution to major retailers throughout the United States. The Company became the
+vendor of record and successfully delivered these products to several well-known national and international retailers. Veroni s
+current marketing strategy for its chocolate segment centers on supplying customers premium European chocolate products, in both private
+label and various branded products. 
+
+In
+February 2019, the Company engaged Tyler Distribution Center, Inc. and Continental Logistics, two operating companies of Port Jersey
+Logistics, to better serve its customers throughout the United States. Management believes that this partnership will give the Company
+a tremendous opportunity to support its growth, as it will be able to store and ship products and fulfill its purchase orders received
+from its customers. 
+
+3 
+
+The
+Company has also established relationships with other European manufacturers that can provide a wide range of panned products,
+meaning those that are coated with a sugar syrup, chocolate, or both, such as nuts, raisins, pretzels, and fruit, as well as healthy
+snack items, and specialty confection goods. 
+
+In
+June 2021, the Company engaged Roadtex Transportation Corporation with 31 facilities nationwide that handles less than truckload (LTL)
+logistics to better serve its customers throughout the United States. Management believes that this partnership will give the Company
+a tremendous opportunity to support its growth, as it will be able to store and ship products and fulfill its purchase orders received
+from its customers. 
+
+Growth
+Strategy 
+
+The
+Company plans to implement a multi-layered growth strategy, focusing on product enhancement and operational expansion. Veroni proposes
+to enhance its product offering by partnering with reputable suppliers. It also plans to scale the import, sale, and distribution of
+premium European chocolate and confectionery items to operate efficiently within key U.S. markets. The strategy focuses on: 
+
+Widening
+ the product portfolio by introducing a healthy snack segment comprised of items such as fruit and nut bars, and protein and grain
+ bars. These products will have no GMOs, zero trans-fat, no artificial colors or flavors, and will be Halal and Kosher certified.
+ The Company is approved and licensed by Rainforest Alliance to sell its chocolate products nationwide to its customers. 
+
+Expanding
+ distribution by developing further relationships with national distributors and retailers. The Company has established partnerships
+ with Roadtex Transportation Corporation with 31 facilities nationwide and WCS Distribution to service its customer distribution centers
+ in the Western United States. 
+
+Attracting
+ new customers by growing its network of retailers to drive direct sales. The Company plans to adopt and integrate technologies, specifically
+ e-commerce and direct to consumer platforms, to facilitate customer acquisition, customer retention, and sales growth. Also, Veroni
+ plans to continue to use its business development and sales professionals, as well as contract with third party brokers, to attract
+ new customers, increase product sales, and spur growth. Veroni partnered with CA Fortune, a consumer brands agency, to design, build,
+ and sell branded products that Veroni plans to introduce to its customers nationally. 
+
+Maintaining
+ existing customers by offering products that expand and complement its traditional product line. Veroni plans to introduce fresh
+ and innovative food items to address changes in consumers tastes and preferences, as well as grow revenues on a per customer
+ basis. Also, the Company plans to retain existing customers by ensuring that product quality continues to satisfy customer expectations. 
+
+Scaling
+ through mergers and acquisitions, particularly vertical integration to improve operating profit and margins. If distribution channels
+ can be consolidated, operations can be streamlined and cost inefficiencies can be reduced to achieve economies of scale. Also, a
+ horizontal integration strategy would allow the Company to progressively consolidate the perishable and non-perishable goods within
+ its national market. 
+
+Products 
+
+The
+Company s product mix is comprised of the following: 
+
+CHOCOLATE 
+ SNACKS 
+ 
+ Bars 
+ Muesli 
+ 
+ Bites 
+ Nuts 
+ 
+ Truffles 
+ Oatmeal 
+ 
+ Sticks 
+ Cereal
+ bars 
+ 
+ Candies 
+ Dry
+ fruits 
+ 
+ Cups 
+ Pretzels 
+ 
+ Gummies 
+ Cookies 
+
+For
+2020, the sale of chocolate products accounted for approximately 98 of the revenues. 
+
+4 
+
+Chocolate
+Products. Veroni currently distributes its chocolate products under the Sweet Desire and Baron Chocolatier brands, as well as
+private label chocolate bars, cups and 5bites. The Company s chocolate products are GMO free and Kosher and Halal certified, and
+contain all natural ingredients with zero trans-fat, no artificial flavors or colors. The Company believes that its key competitive advantage
+is that it can provide premium chocolate products at mainstream prices. 
+
+Veroni
+plans to gradually increase chocolate sales by offering products made with all natural ingredients priced at a slight discount to premium
+brand chocolates offered by competitors such as Godiva, Russell Stover, Lindt, and Ghirardelli. It also plans to incrementally grow chocolate
+sales by cross-merchandising chocolate products with its retail partners wine products. 
+
+Certifications.
+ The Company s distributed products are certified according to the ISO 22000 standards, and are in line with BRC and IFS
+food safety requirements. ISO 22000 is a food safety management system that can be applied to any organization in the food chain. IFS
+is a Global Food Safety Initiative recognized standard for certifying the safety and quality of food products and production processes.
+The BRC Global Standard for Food Safety began in the U.K. to help the food industry meet legislative requirements of the European Union
+General Product Safety Directive and the U.K. Food Safety Act. 
+
+Suppliers 
+
+On
+January 30, 2018, the Company entered into a distribution agreement with FoodCare. Under the terms of the Distribution Agreement, the
+Company became the exclusive importer and distributor of FoodCare s products in the United States, Puerto Rico and the U.S. Virgin
+Islands (the U.S. market ). The term of the Distribution Agreement was for a period of 10 years during which Veroni was
+to have the exclusive right to distribute FoodCare products within the U.S. market, so long as Veroni purchased the required quantity
+of product from FoodCare. The Distribution Agreement was terminable upon (1) mutual consent of the parties, (2) by either party in writing
+without justification, if an issue was not amicably resolved in 30 days of such issue, by providing 180 days notice (in which
+case the Company would lose its exclusivity rights), or (3) immediately in the event of notice of an uncured breach in the terms of the
+Distribution Agreement. FoodCare is a manufacturer and supplier of desserts, cereals, energy drinks and other beverage products. Notably,
+FoodCare manufactures the Iron Energy drink, a product sponsored by celebrity and former boxer Mike Tyson. Other brands
+are N-Gine, 4Move, Frugo, Gellwe, and Fitella. Veroni failed to meet the minimum purchase requirements under the agreement, due in part
+to FoodCare s failure to provide promised marketing support. The Company terminated the agreement and relationship with FoodCare
+due to the lack of its ability to support Veroni s brand marketing initiatives. 
+
+In
+January 2019, the Company established a relationship with another manufacturer, Millano Group, a related party (controlled by the father
+of a major shareholder), to import various snacks and chocolate products for distribution to major retailers throughout the United States.
+For the fiscal year ended December 31, 2020, Millano supplied all of the Company s product purchases. 
+
+Operations 
+
+Veroni
+begins its product development process by generating new ideas for products. Product and packaging samples are then commissioned to the
+suppliers for testing and quality assurance. When a product design is finalized and a price is confirmed with suppliers and manufacturers,
+a purchase order is placed. Products are manufactured through suppliers in Europe that procure their own raw materials for finished and
+packaged products. Typically, the manufacturing process takes 4 to 6 weeks. After manufacturing is completed, the Company organizes shipment
+and/or storage, depending on agreements with retailers and third-party distributors. On average, the lead time from order processing
+to product delivery is approximately 13 weeks. 
+
+As
+of the date of this report, the current COVID-19 crisis has resulted in the Company experiencing longer lead times in obtaining product
+from its manufacturers and shipping to its customers. 
+
+5 
+
+At
+December 31, 2020, Veroni has six employees. The Company s corporate office is located in Bannockburn, Illinois and it has arrangements
+with Port Jersey Logistics, a third-party logistics company that provides warehousing, fulfillment and transportation services, and WCS
+Distribution. 
+
+Key
+Markets and Market Overview 
+
+Veroni s
+primary markets include dollar stores, multi-outlets, grocery stores, convenience stores, distributors, and retailers across the U.S.,
+with dollar stores accounting for approximately 50 of sales. As between sales of branded items versus private label products, private
+label currently accounts for approximately 60 of sales. During the year ended December 31, 2020, the Company had two customers whose
+sales accounted for approximately 77 of revenue. As of December 31, 2020, the Company had three customers that comprised approximately
+78 or 631,575 of its combined accounts receivables and contract receivables with recourse. As of December 31, 2019, the Company had
+one customer who comprised approximately 91 or 1,527,976 of its combined accounts receivables and contract receivables with recourse. 
+
+Confectionery
+Market Overview. According to IBISWorld , the revenue of the U.S. confectionery market for 2018 was 51.9 billion, and
+annual revenue growth for the past five years was around 0.7 . Revenue is forecast to grow at an annualized rate of 1.0 over the next
+four years to 2023. The major segments purchasing confectionery products include wholesalers, grocery stores and markets, mass merchandisers
+and convenience stores. The next five years are expected to maintain a positive outlook for the U.S. confectionery industry. Continued
+economic recovery will further boost consumer spending on confectionery and snacks, especially on gourmet, premium dark chocolate and
+gummy candy products. 
+
+Chocolate
+Market Overview. According to Statista , chocolate and confectionery consumption in the U.S. is expected to continue its
+upward trend (from 139.9 billion in 2019 to 165.2 billion by 2023), supported by population growth and rising purchasing power. Consumers
+are becoming more aware of the health effects associated with consuming excessive sugar and fat. As a response to changing preferences,
+low-calorie, reduced-sugar and more nutritious types of chocolate are becoming more popular. Premium, dark and organic chocolates are
+key products benefitting from this trend. 
+
+The
+chocolate production industry is moderately concentrated with the top four players (Hershey, Mars, Ferrero and Lindt) accounting for
+60.6 of market share in 2019, according to IBIS World . The industry has consolidated over the past five years through acquisitions.
+In the past five years, industry producers have experienced stable competition from foreign chocolate producers. Although brand recognition
+is important in this industry, as many brands have been in the market for decades, producers of chocolate compete based on the quality
+of their products, as determined by taste, quality of ingredients and more recently, nutritional value. 
+
+Healthy
+Snacks Market Overview. According to Statista , the global healthy snacks market size is expected to grow to 32.9 billion
+by 2025, with a compound annual growth rate of 5.2 during the forecast period. Increasing awareness regarding health and wellness benefits
+offered by the products among consumers is likely to be a key trend driving the market. The consumption of healthy snacks is growing,
+as such snacks meet various dietary requirements, such as being sugar-free and having low salt and cholesterol content. However, the
+high cost of production, due to volatile prices of raw materials is expected to negatively influence the growth of the market over the
+forecast period. 
+
+Within
+the food industry, the global health and wellness sector is witnessing a healthy boom that shapes the ever-growing market
+as never before. Increasingly, consumers are developing food sensitivities and adopting healthier and more active lifestyles, leading
+them to seek healthier nutritional alternatives and consume fresh and organic food. 
+
+Effect
+of Existing or Probable Governmental Regulation 
+
+For
+the purchase of products harvested or manufactured outside the United States, and for the shipment of products to customers located outside
+the United States, the Company is subject to customs laws regarding the import and export of shipments. Its activities, including working
+with customs brokers and freight forwarders, are subject to regulation by the U.S. Customs and Border Protection, part of the Department
+of Homeland Security. 
+
+6 
+
+The
+FDA Food Safety Modernization Act (FSMA), enacted on January 4, 2011, amended section 415 of the Federal Food, Drug, and Cosmetic Act
+(FD C Act), in relevant part, to require that facilities engaged in manufacturing, processing, packing, or holding food for consumption
+in the United States submit additional registration information to FDA, including an assurance that FDA will be permitted to inspect
+the facility at the times and in the manner permitted by the FD C Act. Section 415 of the FD C Act, as amended by FSMA, also
+requires food facilities required to register with FDA to renew such registrations every other year, and provides FDA with authority
+to suspend the registration of a food facility in certain circumstances. Specifically, if FDA determines that food manufactured, processed,
+packed, received, or held by a registered food facility has a reasonable probability of causing serious adverse health consequences or
+death to humans or animals, FDA may by order suspend the registration of a facility that: 
+
+Created,
+ caused, or was otherwise responsible for such reasonable probability; or 
+
+Knew
+ of, or had reason to know of, such reasonable probability; and packed, received, or held such food. 
+
+The
+Company s operations may be subject to these registration requirements. Compliance with these regulations has not had a material
+impact on the Company s earnings, expenditures, or competitive positioning. 
+
+Intellectual
+Property 
+
+At
+present, the Company has a pending trademark application for its new brand, This and That chocolate. The Company may decide
+in the future to pursue efforts to protect its other intellectual property, trade secrets and proprietary methods and processes. 
+
+Research
+and Development 
+
+The
+Company has not to date undertaken, and does not currently plan to undertake, any material research and development activities. 
+
+Subsidiaries 
+
+The
+Company has no subsidiaries. 
+
+Item
+ 1A. 
+ Risk
+ Factors. 
+
+Not
+applicable to smaller reporting companies. 
+
+Item
+ 1B. 
+ Unresolved
+ Staff Comments. 
+
+Not
+applicable to smaller reporting companies. 
+
+Item
+ 2. 
+ Properties. 
+
+The
+Company entered into a sublease for office space of approximately 2,800 square feet located at 2275 Half Day Road, Suite 346, Bannockburn,
+Illinois 60015 with Kinsale Holdings, Inc. dba Validant, an unrelated party. The sublease commenced February 5, 2019 and expires April
+5, 2022. Rent for the first year is 4,655 per month and escalates by 3 each year. 
+
+The
+Company also entered into storage and procurement distribution agreement with Roadtex Transportation Corporation located at 13 Jensen
+Drive, Somerset, NJ 08873 to store the chocolate products, as well as fulfill the purchase orders from the Company s customers. 
+
+7 
+
+Item
+ 3. 
+ Legal
+ Proceedings. 
+
+On
+June 17, 2019, The Scale Effect Company d/b/a Mant Logistics filed an amended complaint in the United States District Court for the Northern
+District of Illinois naming as defendants the Company, Igor Gabal, Tomasz Kotas, and Baron Chocolatier, Inc. The action was originally
+against Baron Chocolatier only, alleging that Baron did not pay for shipping and logistics services in the amount of 277,233, plus accrued
+interest. The complaint was amended to allege that the Company is a successor corporation and continuation of Baron Chocolatier, thereby
+making the Company liable for the debts and liabilities of Baron, and that Baron is an alter ego for the Company, Igor Gabal and Tomasz
+Kotas. No trial date has been scheduled. The parties are still in the discovery stage. The Company intends to vigorously defend in this
+lawsuit. 
+
+In
+March 2021, Crossmark Inc. initial a lawsuit in the Circuit Court of Cook County, Illinois, against the Company, seeking to collect payment
+for services rendered. The Company had entered into an agreement with Crossmark to promote the sale of the Iron Energy products which
+the Company had distributed. Crossmark alleges that 100,000 plus costs and attorneys fees are owed by the Company. The default
+judgment entered in this case has been vacated and the Company intends to defend in this lawsuit. 
+
+Item
+ 4. 
+ Mine
+ Safety Disclosures. 
+
+Not
+applicable. 
+
+PART
+II 
+
+Item
+ 5. 
+ Market
+ for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Market
+Information 
+
+Currently,
+there is no trading market for the securities of the Company. The Company has applied for admission to quotation of its securities on
+the OTCQB platform and anticipates that the common stock will trade under the symbol VONI . 
+
+Holders 
+
+The
+number of record holders of our common stock, as of August 26, 2021, was 55 according to our transfer agent. 
+
+Dividends 
+
+Holders
+of shares of common stock are entitled to dividends when, and if, declared by the board of directors out of legally available funds.
+To date, we have not declared or paid any dividends on our common stock. We do not intend to declare or pay any dividends on our common
+stock in the foreseeable future, but rather to retain any earnings to finance the growth of our business. Any future determination to
+pay dividends will be at the discretion of our board of directors and will depend on our results of operations, financial condition,
+contractual and legal restrictions and other factors the board of directors deems relevant. 
+
+Recent
+Sales of Unregistered Securities 
+
+During
+the fourth quarter ended December 31, 2020, there were no sales of unregistered securities. 
+
+Item
+ 6. 
+ Selected
+ Financial Data. 
+
+Not
+applicable to smaller reporting companies. 
+
+8 
+
+Item
+ 7. 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations. 
+
+Overview 
+
+Veroni
+Brands Corp. (formerly Echo Sound Acquisition Corporation ( Veroni or the Company was incorporated
+on December 7, 2016, under the laws of the state of Delaware. The business purpose of the Company is to facilitate the sales and distribution
+of premium food products from Europe. 
+
+Prior
+to 2018, the Company s operations were limited to issuing shares to its original stockholders and effecting a change in control
+of the Company. In 2018, the Company commenced its principal operations. The Company originated as a blank check company and qualifies
+as an emerging growth company as defined in the Jumpstart Our Business Startups Act which became law in April 2012. 
+
+On
+January 30, 2018, the Company entered into a distribution agreement with FoodCare. Under the terms of the Distribution Agreement, the
+Company became the exclusive importer and distributor of FoodCare s products in the United States, Puerto Rico and the U.S. Virgin
+Islands (the U.S. market ). FoodCare is a manufacturer and supplier of desserts, cereals, energy drinks and other beverage
+products. Notably, FoodCare manufactures the Iron Energy drink, a product sponsored by celebrity and former boxer Mike
+Tyson. The term of the Distribution Agreement was for a period of 10 years during which Veroni was to have the exclusive right to distribute
+FoodCare products within the U.S. market, so long as Veroni purchased the required quantity of product from FoodCare. The Company failed
+to meet its minimum purchase requirements under the FoodCare agreement in 2018 in part due to FoodCare s failure to provide promised
+marketing support. The Company terminated the agreement and relationship with FoodCare in 2020 due to the lack of its ability to support
+Veroni s brand marketing initiatives. 
+
+In
+summer 2018, the Company introduced the Iron Energy beverage to various retailers and distributors nationwide and since then has been
+working with many retailers and distributors to bring the product to market. 
+
+In
+January 2019, the Company expanded its product offerings and established a relationship with another manufacturer, Millano Group, a related
+party, to import chocolate products, as well as snacks, for distribution to major retailers throughout the United States. The Company
+recently became the vendor of record and successfully delivered these products to several national retailers. 
+
+In
+February 2019, the Company engaged Tyler Distribution and Continental Logistics, two operating companies of Port Jersey Logistics, to
+better serve its customers throughout the United States. Management believes that this partnership will give the Company a tremendous
+opportunity to support its growth, as it will be able to store and ship products and fulfill its purchase orders received from its customers. 
+
+In
+June 2021, the Company engaged Roadtex Transportation Corporation with 31 facilities nationwide that handles LTL logistics to better
+serve its customers throughout the United States. Management believes that this partnership will give the Company a tremendous opportunity
+to support its growth, as it will be able to store and ship products and fulfill its purchase orders received from its customers. 
+
+The
+Company has also established relationships with other European manufacturers that can provide a wide range of panned products,
+meaning those that are coated with a sugar syrup, chocolate, or both, such as nuts, raisins, pretzels, and fruit, as well as healthy
+snack items, and specialty confection goods. 
+
+For
+the fiscal year ended December 31, 2020, the Company s independent auditors issued a report raising substantial doubt about the
+Company s ability to continue as a going concern. For the year ending December 31, 2020, the Company has an accumulated deficit
+of 1,386,108 since its inception. As of December 31, 2020, the Company had a cash balance available of approximately 116,730 and a
+working capital deficit of 342,796, which is not sufficient to meet its operating requirements for the next twelve months. Therefore,
+the Company s ability to continue as a going concern is dependent on its ability to grow its revenue and generate sufficient cash
+flows from operations to meet its obligations and/or obtaining additional financing from its shareholders or other sources, as may be
+required. The accompanying financial statements have been prepared assuming that the Company will continue as a going concern; however,
+the above condition raises substantial doubt about the Company s ability to continue as a going concern. 
+
+9 
+
+Results
+of Operations 
+
+Prior
+to 2018, the Company had focused its efforts on identifying business opportunities, and devoted little attention or resources to sales
+and marketing or generating near-term revenues and profits. During 2018, the Company began distribution of various products and then
+increased its distribution network during 2019. During 2020, the Company s revenues were impacted by the effects of COVID-19 as
+the pandemic affected transportation logistics. Revenues were 5,581,764 for 2020, as compared to 6,678,790 for 2019. 
+
+The
+2020 gross profit of 1,155,331 was not sufficient to cover the Company s operating expenses of 1,534,439, consisting of 359,399
+in warehouse and selling expenses and 1,175,040 in general and administrative expenses, resulting in a net loss from operations of 379,108.
+In comparison, a gross profit of 860,352 was generated in 2019. Due to operating expenses of 1,419,806, consisting of 646,249 in warehouse
+and selling expenses and 773,557 in general and administrative expenses, a net loss from operations of 559,454 resulted. 
+
+The
+increase in general and administrative expenses from 773,557 in 2019 to 1,175,040 in 2020 was due primarily to an increase in officers 
+salaries from 62,500 in 2019 to 552,656 in 2020. 
+
+The
+Company incurred no interest expense in 2020, as compared to 141,359 of interest expense on various promissory notes in 2019, resulting
+in a net loss of 700,813. 
+
+Liquidity
+and Capital Resources 
+
+At
+December 31, 2020, the Company had cash and a working capital deficit of 116,730 and 342,796, respectively, as compared to 99,010
+and 364,784, respectively, at December 31, 2019. During the year ended December 31, 2020, operating activities provided cash of 573,978,
+and financing activities used cash of 556,258. In comparison, during fiscal 2019, operating activities used cash of 1,599,780 with
+ 1,695,791 being provided by financing activities. 
+
+Under
+the Small Business Administration SBA ), the Company applied for the Paycheck Protection Program PPP loan.
+These loans are forgiven if used for payroll, payroll benefits, including health insurance and retirement plans, as well as certain rent
+payments, leases, and utility payments, which are limited to 40 of the loan proceeds, all of which if paid within either 8 weeks or
+24 weeks of the receipt of the loan proceeds. At the time of this filing, we anticipate a significant amount of this loan will be forgiven;
+however, the forgiveness application process is not yet complete. The Company has elected to record these advances under the debt treatment
+for these loans, under GAAP guidance. Unforgiven portions of these loans will be repaid over 5 years, accruing interest at 1 per annum.
+The PPP loan has a loan balance of 56,250 as December 31, 2020. 
+
+On
+August 27, 2020, the Company executed the standard loan documents required for securing a loan (the EIDL Loan from the
+SBA under its Economic Injury Disaster Loan EIDL assistance program in light of the impact of the COVID-19 pandemic on
+the Company s business. Pursuant to that certain Loan Authorization and Agreement (the SBA Loan Agreement ), the principal
+amount of the EIDL Loan is up to 150,000, with proceeds to be used for working capital purposes. On September 2, 2020, the Company received
+ 149,900. Interest accrues at the rate of 3.75 per annum. Installment payments, including principal and interest, are due monthly beginning
+August 27, 2021 (twelve months from the date of the SBA Note (defined below)) in the amount of 720. The balance of principal and interest
+is payable thirty years from the date of the SBA Note. 
+
+In
+connection therewith, the Company executed (i) a note for the benefit of the SBA (the SBA Note ), which contains customary
+events of default and (ii) a Security Agreement, granting the SBA a security interest in all tangible and intangible personal property
+of the Company, which also contains customary events of default (the SBA Security Agreement ). 
+
+The
+Company s proposed activities will necessitate significant uses of capital into and beyond 2021, particularly for the financing
+of inventory. While the Company has a factoring arrangement, sales of equity securities in the Company would result in reduced financing
+costs. Since the beginning of 2018 and through December 31, 2020, the Company has engaged in sales of its equity securities in private
+placements. Through December 31, 2020, 10,531,400 shares have been sold for total gross proceeds of 518,533, 29,997 shares have been
+issued for services rendered valued at 22,497, 186,965 shares valued at 140,223 have been issued in lieu of interest, 286,667 shares
+have been issued upon conversion of a 215,000 promissory note, and a total of 2,270,000 shares were redeemed for 45,200. 
+
+10 
+
+Plan
+of Operations 
+
+During
+2019 and 2020, sales were concentrated in two customers. One of these customers notified the Company that it was not selected as a vendor
+for 2021. Sales in 2021 are expected to decrease by more than 50 . As vendor selection is an annual process with this customer, the Company
+is planning to reapply as a vendor for 2022 and broaden its customer base. For the next few years, the Company will continue to focus
+on obtaining visibility for the products by contacting convenience store locations and small distributors to those types of locations.
+In addition, the Company will also continue to expand the number of products to be imported from Europe and distributed throughout the
+United States. 
+
+Management
+believes that while the current COVID-19 crisis has not affected the volume of sales, it has resulted in the Company experiencing supply
+chain and transportation logistics issues. Manufacturers and those providing shipping and logistics services are increasing prices and/or
+decreasing the amount of product and/or services to the Company, thereby making it more difficult to meet the terms of contracts with
+retailers. Management believes that for the current fiscal year, the Company will experience reduced profit margins as a result. It is
+not known whether the supply chain and transportation logistics issues will continue into the future. 
+
+There
+is no assurance that the Company s activities will generate sufficient revenues to sustain its operations without additional capital,
+or if additional capital is needed, that such funds, if available, will be obtainable on terms satisfactory to the Company. Accordingly,
+given the Company s limited cash and cash equivalents on hand, the Company will be unable to implement its business plans and proposed
+operations unless it obtains additional financing or otherwise is able to generate revenues and profits. In 2019, the Company entered
+into a factoring agreement covering its accounts receivable (see below). The Company may raise additional capital through sales of debt
+or equity, obtain loan financing or develop and consummate other alternative financial plans. In the near term, the Company plans to
+rely on its primary stockholders to continue to fund the Company s continuing operating requirements. The Company will require
+a minimum of 600,000 for the next 12 months to fund its operations, which will be used to fund expenses related to operations, office
+supplies, travel, salaries and other incidental expenses. Management believes that this capital would allow the Company to meet its operating
+cash requirements, and would facilitate the Company s business of selling and distributing its products. Management also believes
+that the acquisition of such assets would generate revenue to cover overhead cost and general liabilities of the Company, and allow the
+Company to achieve overall sustainable profitability. 
+
+Due
+to the above-described difficulties, management is seeking other opportunities outside of the import/distribution business in order to
+bring value to the stockholders. 
+
+Accounts
+Receivable Financing 
+
+On
+February 21, 2019, the Company entered into a factoring agreement with an unrelated third party, Advance Business Capital LLC, dba Interstate
+Capital ICC ), pursuant to which the Company sells the majority of its accounts receivable to ICC for 85 of the value
+of the receivable. The term of the agreement is for 12 months and automatically renews for additional 12-month periods. The accounts
+receivable are sold with recourse back to the Company, meaning that the Company bears the risk of non-payment by the account debtor.
+To secure its obligations to ICC, the Company has granted a blanket security interest in its other assets, such as inventory, equipment,
+machinery, furniture, fixtures, contract rights, and general intangibles. The loan is guaranteed by two major shareholders of the Company.
+On September 11, 2019, the lender (which now does business as Triumph Business Capital) entered into an amended agreement with the Company
+which lowered the interest charged by the lender from 0.49 for every 10 days to prime rate (with a floor of 5.5 plus 3 . As of December
+31, 2020 and 2019, the Company owed 649,502 and 1,414,639, respectively, for advances on is receivables. 
+
+11 
+
+Alternative
+Financial Planning 
+
+The
+Company has no alternative financial plans at the moment. If the Company is not able to successfully raise monies as needed through a
+private placement or other securities offering (including, but not limited to, a primary public offering of securities), the Company s
+ability to survive as a going concern and implement any part of its business plan or strategy will be severely jeopardized. 
+
+Critical
+Accounting Policies 
+
+The
+financial statements of the Company have been prepared in accordance with accounting principles generally accepted in the United States.
+The preparation of these financial statements requires making estimates and judgments that affect the reported amounts of assets, liabilities,
+revenues and expenses, and related disclosure of contingent assets and liabilities. The estimates are based on historical experience
+and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis of making
+judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ
+from these estimates under different assumptions or conditions. 
+
+Off-Balance
+Sheet Arrangements 
+
+The
+Company has no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on its financial
+condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources. 
+
+Item
+ 7A. 
+ Quantitative
+ and Qualitative Disclosure About Market Risk. 
+
+Not
+applicable to smaller reporting companies 
+
+12 
+
+Item
+ 8. 
+ Financial
+ Statements and Supplementary Data. 
+
+VERONI
+BRANDS CORP. 
+
+ Financial
+Statements 
+
+ December
+31, 2020 and 2019 
+
+Financial
+Statements 
+
+Report of Independent Registered Public Accounting Firm 
+ F-1 
+
+Balance Sheets as of December 31, 2020 and 2019 (restated) 
+ F-3 
+
+Statements of Operations for years ended December 31, 2020 and 2019 (restated) 
+ F-4 
+
+Statement of Changes in Stockholders Equity (Deficit) for years ended December 31, 2020 and 2019 (restated) 
+ F-5 
+
+Statements of Cash Flows for years ended December 31, 2020 and 2019 (restated) 
+ F-6 
+
+Notes to Restated Financial Statements 
+ F-7 
+
+13 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and Stockholders 
+
+ Veroni
+Brands Corp. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying balance sheets of Veroni Brands Corp. (the Company) as of December 31, 2020 and 2019, and the related statements
+of operations, changes in stockholders equity (deficit), and cash flows for the years then ended, and the related notes (collectively
+referred to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects,
+the financial position of the Company as of December 31, 2020 and 2019, and the results of its operations and its cash flows for the
+years then ended in conformity with accounting principles generally accepted in the United States of America. 
+
+Going
+Concern 
+
+The
+accompanying financial statements have been prepared assuming the Company will continue as a going concern. As discussed in Note 1 to
+the financial statements, the Company has an accumulated deficit since inception and insufficient working capital to meet its operating
+requirements, which raises substantial doubt about its ability to continue as a going concern. Management s plans regarding these
+matters are also described in Note 1. The financial statements do not include any adjustments that might result from the outcome of this
+uncertainty. 
+
+Restatement
+of the 2019 Financial Statements 
+
+As
+discussed in Note 14 to the consolidated financial statements, the accompanying 2019 financial statements have been restated to correct
+a misstatement. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB . 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and the significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe our audits provide
+a reasonable basis for our opinion. 
+
+F- 1 
+
+Critical
+Audit Matter 
+
+The
+critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated
+or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matter below, providing separate opinions on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+Stock-Based
+Compensation 
+
+As
+discussed in Note 2 to the financial statements, the Company issues stock-based compensation to non-employees. 
+
+Auditing
+management s calculation of the fair value of stock-based compensation can be a significant judgment given the fact that the Company
+uses management s estimates on various inputs to the calculation. 
+
+To
+evaluate the appropriateness of the fair value determined by management, we examined and evaluated the inputs management used in calculating
+the fair value of the stock-based compensation. 
+
+/s/
+M K CPAS, PLLC 
+
+M K
+CPAS, PLLC 
+
+ We
+have served as the Company s auditor since 2021 
+
+Houston,
+TX 
+
+ October
+8, 2021 
+
+F- 2 
+
+Veroni
+Brands Corp. 
+
+ BALANCE
+SHEETS 
+
+ December
+31, 2020 and 2019 
+
+2020 
+ 2019 
+
+(Restated) 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash equivalents 
+ 116,730 
+ 99,010 
+ 
+ Accounts Receivable, net allowance for doubtful accounts of 0 and 2,125 respectively 
+ 14,303 
+ 129,565 
+ 
+ Contract Receivables with recourse 
+ 793,904 
+ 1,554,510 
+ 
+ Inventory 
+ 550,657 
+ 610,647 
+ 
+ Prepaid expenses and other current assets 
+ 5,524 
+ 56,014 
+
+Total Current Assets 
+ 1,481,118 
+ 2,449,746 
+
+Other Assets 
+
+Deposits 
+ 9,310 
+ 9,310 
+ 
+ Right-of-use asset-operating, net 
+ 74,721 
+ 122,856 
+ 
+ Total Other Assets 
+ 84,031 
+ 132,166 
+
+Total Assets 
+ 1,565,149 
+ 2,581,912 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+Current Liabilities 
+
+Accounts payable 
+ 68,869 
+ 184,561 
+ 
+ Accounts payable related party 
+ 783,417 
+ 546,612 
+ 
+ Notes payable 
+ - 
+ 215,000 
+ 
+ Notes payable - related parties including interest 
+ - 
+ 43,370 
+ 
+ Contract receivables liability with recourse 
+ 649,502 
+ 1,414,639 
+ 
+ Accrued liabilities 
+ 134,137 
+ 214,816 
+ 
+ Paycheck protection loans (PPP) 
+ 56,250 
+ - 
+ 
+ Contract liabilities 
+ 74,800 
+ 143,033 
+ 
+ Short-Term lease liability-operating 
+ 56,939 
+ 52,499 
+
+Total Current Liabilities 
+ 1,823,914 
+ 2,814,530 
+
+Long-term Liabilities 
+
+Economic injury disaster loan (EIDL) 
+ 149,900 
+ - 
+ 
+ Long-Term lease liability-operating 
+ 15,134 
+ 72,073 
+
+Total Long-Term Liabilities 
+ 165,034 
+ 72,073 
+
+Total Liabilities 
+ 1,988,948 
+ 2,886,603 
+
+STOCKHOLDERS DEFICIT 
+
+Preferred Stock, 0.0001 par value; 20,000,000 shares authorized; 
+ none outstanding as of December 31, 2020 and 2019 
+ - 
+ - 
+ 
+ Common Stock, 0.0001 par value; 100,000,000 shares authorized;27,085,029 and 26,738,362 shares issued and outstanding as of December 31, 2020 and 2019, respectively 
+ 2,709 
+ 2,674 
+ 
+ Additional paid-in capital 
+ 959,600 
+ 699,635 
+ 
+ ACCUMULATED DEFICIT 
+ (1,386,108 
+ (1,007,000 
+ 
+ Total Stockholders Deficit 
+ (423,799 
+ (304,691 
+
+Total Liabilities and Stockholders Deficit 
+ 1,565,149 
+ 2,581,912 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 3 
+
+Veroni
+Brands Corp. 
+
+ STATEMENTS
+OF OPERATIONS 
+
+ For
+the years ended December 31, 2020 and 2019 
+
+2020 
+ 2019 
+
+(Restated) 
+ 
+ Revenue, net 
+ 5,581,764 
+ 6,678,790 
+
+Cost of sales, related party 
+ 3,961,711 
+ 5,197,938 
+ 
+ Cost of sales 
+ 464,722 
+ 620,500 
+ 
+ Total cost of sales 
+ 4,426,433 
+ 5,818,438 
+ 
+ Gross profit 
+ 1,155,331 
+ 860,352 
+
+Warehouse and selling expenses 
+ 359,399 
+ 646,249 
+ 
+ General and administrative expenses 
+ 1,175,040 
+ 773,557 
+ 
+ Total operating expenses 
+ 1,534,439 
+ 1,419,806 
+
+Net loss from operations 
+ (379,108 
+ (559,454 
+
+Other expense 
+
+Interest expense 
+ - 
+ 140,359 
+ 
+ Interest expense - related party 
+ - 
+ 1,000 
+ 
+ Total interest expense 
+ - 
+ 141,359 
+ 
+ Loss before income taxes 
+ (379,108 
+ (700,813 
+
+Income taxes 
+ - 
+ - 
+
+Net Loss 
+ (379,108 
+ (700,813 
+
+Net loss per share: 
+
+Basic and diluted 
+ (0.01 
+ (0.03 
+
+Weighted average shares outstanding: 
+
+Basic and diluted 
+ 27,062,042 
+ 26,739,853 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 4 
+
+Veroni
+Brands Corp. 
+
+ STATEMENT
+OF CHANGES IN STOCKHOLDERS EQUITY (DEFICIT) 
+
+ December
+31, 2020 and 2019 
+
+Additional 
+ 
+ Total 
+
+Preferred Stock 
+ Common Stock 
+ Paid-in 
+ Accumulated 
+ Stockholders 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Deficit 
+
+Balance, December 31, 2018 
+ - 
+ - 
+ 26,568,400 
+ 2,656 
+ 409,683 
+ (306,187 
+ 106,152 
+
+Issuance of common stock for services 
+ - 
+ - 
+ 29,997 
+ 3 
+ 22,494 
+ 
+ 22,497 
+
+Issuance of common stock for cash 
+ - 
+ - 
+ 203,000 
+ 21 
+ 152,229 
+ - 
+ 152,250 
+
+Issuance of common stock, in lieu of interest 
+ - 
+ - 
+ 186,965 
+ 18 
+ 140,205 
+ - 
+ 140,223 
+
+Redemption and cancellation of shares 
+ - 
+ - 
+ (125,000 
+ (12 
+ (24,988 
+ 
+ (25,000 
+
+Cancellation of shares 
+ - 
+ - 
+ (125,000 
+ (12 
+ 12 
+ 
+ - 
+
+Net Loss for the year 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (700,813 
+ (700,813 
+
+Balance, December 31 2019 (Restated) 
+ - 
+ - 
+ 26,738,362 
+ 2,674 
+ 699,635 
+ (1,007,000 
+ (304,691 
+
+Issuance of common stock for cash 
+ - 
+ - 
+ 60,000 
+ 6 
+ 44,994 
+ - 
+ 45,000 
+
+Conversion of promissory note to common stock 
+ - 
+ - 
+ 286,667 
+ 29 
+ 214,971 
+ 
+ 215,000 
+
+Net Loss for the year 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (379,108 
+ (379,108 
+
+Balance, December 31, 2020 
+ - 
+ - 
+ 27,085,029 
+ 2,709 
+ 959,600 
+ (1,386,108 
+ (423,799 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 5 
+
+Veroni
+Brands Corp. 
+
+ STATEMENTS
+OF CASH FLOW 
+
+ December
+31, 2020 and 2019 
+
+2020 
+ 2019 
+
+(Restated) 
+ 
+ Cash flow from operating activities: 
+
+Net Loss 
+ (379,108 
+ (700,813 
+ 
+ Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Common stock issued for service 
+ - 
+ 22,496 
+ 
+ Amortization of debt discount 
+ - 
+ 112,500 
+
+Changes in: 
+
+Trade accounts receivable 
+ 117,387 
+ (108,582 
+ 
+ Allowance for doubtful accounts 
+ (2,125 
+ (7,823 
+ 
+ Contract Receivables 
+ 760,606 
+ (1,554,510 
+ 
+ Prepaid expenses and other current assets 
+ 50,490 
+ 50,303 
+ 
+ Inventory 
+ 59,990 
+ (402,278 
+ 
+ Deposits 
+ - 
+ (9,310 
+ 
+ Accounts payable 
+ (115,792 
+ 140,981 
+ 
+ Accounts payable related party 
+ 235,806 
+ 546,612 
+ 
+ Accrued liabilities 
+ (80,679 
+ 165,895 
+ 
+ Contract liabilities 
+ (68,233 
+ 143,033 
+ 
+ ROU asset/liability 
+ (4,364 
+ 1,716 
+ 
+ Net cash used in operating activities 
+ 573,978 
+ (1,599,780 
+
+Cash flows from financing activities: 
+
+Repayment of shareholders loans 
+ - 
+ (140,000 
+ 
+ Repayment of notes payable 
+ - 
+ (215,000 
+ 
+ Repayment of notes payable-related party 
+ (62,371 
+ - 
+ 
+ Proceeds of notes payable-related party 
+ 20,000 
+ 26,311 
+ 
+ Proceeds from issuance of notes payable 
+ - 
+ 457,591 
+ 
+ Proceeds from issuance of common stock 
+ 45,000 
+ 152,250 
+ 
+ Proceeds from (repayment of) contract receivables with recourse 
+ (765,137 
+ 1,414,639 
+ 
+ Proceeds from issuance of PPP loan 
+ 56,250 
+ - 
+ 
+ Proceeds from issuance of Economic Injury Disaster loan 
+ 150,000 
+ - 
+ 
+ Net cash provided by financing activities 
+ (556,258 
+ 1,695,791 
+
+Net change in cash 
+ 17,720 
+ 96,011 
+
+Cash at the beginning of the year 
+ 99,010 
+ 2,999 
+
+Cash at the end of the year 
+ 116,730 
+ 99,010 
+
+Supplemental disclosure of cash flow information: 
+
+Cash paid for: 
+
+Interest 
+ - 
+ 1,000 
+
+Non-cash investing and financing activities 
+
+Conversion of promissory note debt discount 
+ 215,000 
+ 112,500 
+ 
+ Redemption and cancellation of shares 
+ - 
+ 25,000 
+ 
+ Interest converted to common stock 
+ - 
+ 27,591 
+ 
+ Adoption of ASC 842 
+ - 
+ 169,655 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 6 
+
+VERONI
+BRANDS CORP. 
+
+ Notes
+to Financial Statements 
+
+ December
+31, 2020 and 2019 (Restated) 
+
+Note
+1 - Nature of Operations and Financial Condition 
+
+Veroni
+Brands Corp. (the Company was incorporated on December 7, 2016 under the laws of the state of Delaware to engage in any
+lawful corporate undertaking, including, but not limited to, selected mergers and acquisition. 
+
+The
+Company has been formed to acquire, operate, develop, grow and import premium European products into the U.S. market. Veroni Brands was
+created to search out desirable premium products across Europe and make them accessible to discerning consumers in the U.S. Veroni Brands
+strives to import the extraordinary and delight its consumers with experiences that had previously only been attainable in Europe. In
+January 2018, the Company became an exclusive importer and distributor of Iron Energy by Mike Tyson. The beverage became
+available to consumers in select Chicago area markets in May 2018 in three different flavors such as Mojito, Zero
+Sugar and Original. During 2019, the Company built the distribution of the Iron Energy product nationwide. Beginning
+in February 2019, the Company expanded its import and distribution network with the distribution of chocolate products and significantly
+grew its sales and distribution volumes. The Company entered into long term supply agreements with major U.S national retailers to import
+chocolate products under Private Label Brands that are currently being sold in over 20,000 retail locations across the
+U.S. The Company takes pride in the variety of consumer products it imports and is proud to share them with its consumers nationwide.
+The Company s recent expansion of the import and distribution of snacks, chocolate and chocolate related products that are currently
+being sold to U.S. national retailers presents the Company with a substantial growth opportunity to introduce to its retail partners
+to many other consumer products and to increase its network of retailers. 
+
+Going
+Concern 
+
+The
+Company has generated revenue this year of approximately 5.6 million and incurred a net loss of 379,108 for the year ending December
+31, 2020 and has an accumulated deficit of 1,386,108 since its inception. As of December 31, 2020, the Company had a cash balance available
+of approximately 116,730 and working capital of 342,796) which is not sufficient to meet its operating requirements for the next twelve
+months. Therefore, the Company s ability to continue as a going concern is dependent on its ability to grow its revenue and generate
+sufficient cash flows from operations to meet its obligations and/or obtaining additional financing from its shareholders or other sources,
+as may be required. 
+
+The
+Company failed to meet its minimum annual purchase requirements under the FoodCare Sp. z.o.o. FoodCare agreement, in
+part due to FoodCare s failure to provide promised marketing support. In 2020, the Company terminated the agreement and relationship
+with FoodCare and no longer had exclusive rights to distribute FoodCare s Iron Energy drinks. The Company has found greater success
+with the distribution of chocolate and snack products instead of beverages. In addition to importing products from ZWC Millano, the Company
+has recently established relationships with other European manufacturers that can manufacture wide range of panned products,
+meaning those that are coated with a sugar syrup and/or chocolate, such as nuts, raisin, pretzels, fruits and many other panned 
+and healthy snacks items as well as chocolate bars, multi-flavor truffles, sticks, chocolate cups, 5-bites, chocolate covered gummies,
+chocolate Easter eggs, custom Christmas chocolate figures as well as Advent calendars and many other products to support demand of the
+Company s national retailers. 
+
+The
+Company is continuing to evaluate various financing options in order to continue the funding of the expansion of its operations, the
+products being offered and its customer base. The Company is also focusing on broadening its customer base. As disclosed below in Accounts
+Receivable and Concentration of Credit Risk , a significant customer did not select the Company as a vendor for 2021. 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern; however, the above condition
+raises substantial doubt about the Company s ability to continue as a going concern. The financial statements do not include any
+adjustments to reflect the possible future effects on the recoverability and classification of assets or the amounts and classifications
+of liabilities that may result should the Company be unable to continue as a going concern. 
+
+F- 7 
+
+VERONI
+BRANDS CORP. 
+
+ Notes
+to Financial Statements 
+
+ December
+31, 2020 and 2019 (Restated) 
+
+Note
+2 Summary of Significant Accounting Policies 
+
+Reclassifications 
+
+Certain
+reclassifications have been made in the 2019 financial statements to conform to the 2020 presentation. These reclassifications have no
+effect on net loss for 2019. 
+
+Advertising 
+
+The
+Company s policy is to expense advertising costs as incurred. Advertising expense for the year ending December 31, 2020 and 2019
+is 30,935 and 50,117, respectively. 
+
+Use
+of Estimates 
+
+The
+preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements, and the
+reported amounts of revenues and expenses during the reporting periods. Significant items subject to such estimates and assumptions include
+the carrying amount of inventory and associated reserves, and allowances and reserves in regards to receivables and revenue. Actual results
+could differ from those estimates. 
+
+Revenue
+Recognition 
+
+The
+Company s significant accounting policy for revenue was updated as a result of the adoption of ASU Topic 606. The Company has adopted
+the new standard on January 1, 2019 and has used the modified retrospective method. The majority of the Company s business is ship
+and bill. Based on our analysis, the Company did not identify a cumulative effect adjustment to retained earnings at December 31, 2018.
+The Company recognizes revenue in accordance with the five-step model as prescribed by ASU 606 in which the Company evaluates the transfer
+of promised goods or services and recognizes revenue when its customer obtains control of promised goods or services in an amount that
+reflects the consideration which the Company expects to be entitled to receive in exchange for those goods or services. To determine
+revenue recognition for the arrangements that the Company determines are within the scope of ASU 606, the Company performs the following
+five steps: (1) identify the contract(s) with a customer, (2) identify the performance obligations in the contract, (3) determine the
+transaction price, (4) allocate the transaction price to the performance obligations in the contract and (5) recognize revenue when (or
+as) the entity satisfies a performance obligation. See Note 12 for revenue disaggregated by product line. 
+
+The
+Company recognizes revenue from the sale of products when title and risk of loss passes and the customer accepts the goods, which generally
+occurs at the time of delivery to a customer warehouse. Customer sales incentives such as volume-based rebates or discounts are treated
+as a reduction of sales at the time the sale is recognized. Shipping and handling costs are treated as fulfillment costs and presented
+in warehouse and selling expenses. 
+
+Payments
+that are received before performance obligations are recorded are shown as current liabilities. 
+
+Cash
+and Cash Equivalents 
+
+Cash
+and cash equivalents include cash on hand and on deposit at banking institutions as well as all highly liquid short-term investments
+with original maturities of 90 days or less. 
+
+Shipping
+Costs 
+
+Costs
+associated with shipping product to customers aggregating approximately 206,052 and 201,561 for the years ended December 31, 2020 and
+2019, respectively, is included in warehouse and selling expenses. 
+
+F- 8 
+
+VERONI
+BRANDS CORP. 
+
+ Notes
+to Financial Statements 
+
+ December
+31, 2020 and 2019 (Restated) 
+
+Note
+2 Summary of Significant Accounting Policies (Continued) 
+
+Concentration
+of Risk 
+
+Financial
+instruments that potentially subject the Company to concentrations of credit risk consist principally of cash. The Company places its
+cash with high quality banking institutions. The Company did not have cash balances in excess of the Federal Deposit Insurance Corporation
+limit as of December 31, 2020 and 2019, respectively. 
+
+Accounts
+Receivable and Concentration of Credit Risk 
+
+Accounts
+receivable are recorded at the invoiced amounts less an allowance for doubtful accounts. The allowance for doubtful accounts is based
+on the Company s estimate of the amount of probable credit losses in its accounts receivable. The Company determines the allowance
+for doubtful accounts based upon an aging of accounts receivable, historical experience and management judgment. Accounts receivable
+balances are periodically reviewed for collectability, and balances are charged off against the allowance when the Company determines
+that the potential for recovery is remote. An allowance for doubtful accounts of approximately -0- and 2,125 is reserved as of December
+31, 2020 and 2019, respectively. 
+
+We
+are exposed to credit risk in the normal course of business, primarily related to accounts receivable. To limit credit risk, management
+periodically reviews and evaluates the financial condition of its customers and maintains an allowance for doubtful accounts. For the
+year ended December 31, 2020, we had one customer who comprised approximately 57 or 617,272 of our contract receivables with recourse
+and two customers who comprised approximately 100 or 14,303 of our accounts receivable. For the year ended December 31, 2019, we had
+one customer who comprised approximately 86 or 1,453,432 of our contract receivables with recourse and one customer who comprised approximately
+57 or 74,544 of our accounts receivable. 
+
+For
+the year ended December 31, 2020, we had two customers with sales in excess of 10 of our revenue and they represented 77 of our revenue.
+For the year ended December 31, 2019, we had two customers with sales in excess of 10 of our revenue and they represented 72 of our
+revenue. 
+
+One
+of these customers had sales of approximately 2,405,000 and 3,887,000 in 2020 and 2019, respectively. Per Note 15, the Company was
+not selected as a vendor for 2021 for this customer. 
+
+Distribution
+Agreements and Supplier Concentration 
+
+In
+January 2018, the Company entered into a distributor agreement with FoodCare, which was amended and restated on January 30, 2018. FoodCare
+is a company organized under the laws of Poland. FoodCare is a manufacturer and supplier of desserts, cereals, energy drinks and other
+beverage products. FoodCare manufactures the Iron Energy drink, a product sponsored by celebrity Mike Tyson. 
+
+Under
+the terms of the distribution agreement, the Company became the exclusive distributor of FoodCare products in the United States, Puerto
+Rico and the U.S. Virgin Islands. FoodCare is the sole supplier of Iron Energy to the Company. The term of the agreement was for ten
+years and gave the Company exclusive rights to distribute FoodCare products within the U.S. market, so long as the Company purchased
+the required quantity of product from FoodCare. 
+
+The
+Company failed to meet its minimum purchases in 2018, due in part to FoodCare s failure to provide marketing support as promised.
+The Company terminated the agreement and relationship with FoodCare in 2020. Sales of Iron Energy were only 33,475 in 2020. The termination
+of the Iron Energy drink distribution agreement did not significantly affect the company or its revenue, as the Company
+has found greater success with the distribution of chocolate and snack products instead of beverages. 
+
+At
+the beginning of 2019, the Company established relationships with other European manufacturers that can manufacture a wide range of panned 
+products such as nuts, raisin, pretzels, fruits and many other panned and healthy snacks items, as well as chocolate bars,
+multi-flavor truffles, sticks, chocolate cups, 5-bites, chocolate covered gummies, chocolate Easter eggs, custom Christmas chocolate
+figures as well as Advent calendars and many other products to support demand from the Company s national retailers. 
+
+F- 9 
+
+VERONI
+BRANDS CORP. 
+
+ Notes
+to Financial Statements 
+
+ December
+31, 2020 and 2019 (Restated) 
+
+Note
+2 Summary of Significant Accounting Policies (Continued) 
+
+Vendor
+Concentration 
+
+Currently,
+the Company is sourcing all its chocolate products and snacks from the Millano Group, a related party. The Company has not entered into
+a distributor agreement but is currently negotiating an agreement with Millano Group. The Company, due to relationships with other European
+manufacturers could find other sources to replace its chocolate and snack products if the Company were to terminate Millano Group as
+its suppler for chocolate products. Total purchases in 2020 and 2019 were approximately 3,961,711 and 5,102,224, respectively which
+represents 100 and 99 of product purchases, respectively. 
+
+Income
+Taxes 
+
+Under
+ASC 740, Income Taxes, deferred tax assets and liabilities are recognized for the future tax consequences attributable to
+temporary differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in
+which those temporary differences are expected to be recovered or settled. Valuation allowances are established when it is more
+likely than not that some or all of the deferred tax assets will not be realized. As of December 31, 2020 and 2019, there were no
+net deferred tax assets, as the Company established a 100 valuation allowance, due to the uncertainty of the realization of net
+operating loss carryforwards prior to their expiration. 
+
+Loss
+Per Common Share 
+
+Basic
+loss per common share excludes dilution and is computed by dividing net loss by the weighted average number of common shares outstanding
+during the period. Diluted loss per common share reflect the potential dilution that could occur if securities or other contracts to
+issue common stock were exercised or converted into common stock or resulted in the issuance of common stock that then shared in the
+loss of the entity. As of December 31, 2020 and 2019, there are no outstanding dilutive securities. 
+
+Fair
+Value of Financial Instruments 
+
+The
+Company follows guidance for accounting for fair value measurements of financial assets and financial liabilities and for fair value
+measurements of nonfinancial items that are recognized or disclosed at fair value in the financial statements on a recurring basis. Additionally,
+the Company adopted guidance for fair value measurement related to nonfinancial items that are recognized and disclosed at fair value
+in the financial statements on a nonrecurring basis. The guidance establishes a fair value hierarchy that prioritizes the inputs to valuation
+techniques used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical
+assets or liabilities (Level 1 measurements) and the lowest priority to measurements involving significant unobservable inputs (Level
+3 measurements). The three levels of the fair value hierarchy are as follows: 
+
+Level
+1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities that the Company has the ability to access
+at the measurement date. 
+
+Level
+2 inputs are inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly
+or indirectly. 
+
+Level
+3 inputs are unobservable inputs for the asset or liability. The carrying amounts of financial assets such as cash approximate their
+fair values because of the short maturity of these instruments. 
+
+The
+carrying amounts of the Company s financial instruments, which include cash and cash equivalents and accounts payable approximate
+their fair values at December 31, 2020 and 2019 due to their short-term nature and management s belief that their carrying amounts
+approximate the amount for which the assets could be sold or the liabilities could be settled. 
+
+F- 10 
+
+VERONI
+BRANDS CORP. 
+
+ Notes
+to Financial Statements 
+
+ December
+31, 2020 and 2019 (Restated) 
+
+Note
+2 Summary of Significant Accounting Policies (Continued) 
+
+Share-Based
+Compensation 
+
+The
+Company accounts for stock-based compensation issued to non-employees and consultants in accordance with the provisions of ASC 505-50,
+ Equity Based Payments to Non-Employees . Measurement of share-based payment transactions with non-employees is based on the
+fair value of whichever is more reliably measurable: (a) the goods or services received; or (b) the equity instruments issued. The fair
+value of the share-based payment transaction is determined at the earlier of performance commitment date or performance completion date.
+In June 2018, the Financial Accounting Standards Board adopted Accounting Standards Update 2018-07 Compensation Stock 
+
+Compensation
+(Topic 718): Improvements to Nonemployee Share-Based Payment Accounting. In that update, ASC 505 has been rescinded in its entirety and
+share based compensation issued to nonemployees will now fall under ASC 718 and its associated fair value measurements. Due to the Emerging
+Growth Company (see below) status of the Company, the Company has adopted the update on January 1, 2020. 
+
+Emerging
+Growth Company 
+
+The
+Company has elected to be an emerging growth company as defined under the Jumpstart Our Business Startups Act of 2012 Jobs Act ).
+Included with this election, the Company has also elected to use the provisions within the Jobs Act that allow companies that go public
+to continue to use the private company adoption date rules for new accounting policies. Should the Company obtain revenues in excess
+of 1 billion on an annual basis, have its non-affiliated market capitalization increase to over 700 million as of the last day of its
+second quarter, or raise in excess of 1 billion in public offerings of its equity or instruments directly convertible into its equity,
+it will forfeit its status under the Jobs Act as an emerging growth company. 
+
+Recent
+Accounting Pronouncements 
+
+In
+February 2016, the FASB issued ASU 2016-02, Leases (Topic 842). The guidance in ASU 2016-02 provides guidance in GAAP about the
+recognition of assets and liabilities by lessees for those leases classified as operating leases under GAAP. The guidance requires that
+a lessee should recognize in the statement of financial position a liability to make lease payments and a right-to-use asset representing
+the company s right to use the underlying assets for the term of the lease. The guidance allows a lessee who enter into a lease
+with a term of 12 months or less to make an accounting policy election to not recognize assets and liabilities. 
+
+In
+January 2017, the FASB issued ASU 2017-04, Intangibles - Goodwill and Other (Topic 350): Simplifying the Test for Goodwill
+Impairment. The update simplifies the measurement of goodwill by eliminating Step 2 from the goodwill impairment test. The annual
+or interim goodwill impairment test is performed by comparing the fair value of a reporting unit with its carrying amount. An impairment
+charge should be recognized for the amount by which the carrying amount exceeds the reporting unit s fair value. The update also
+eliminates the requirements for any reporting unit with a zero or negative carrying amount to perform a qualitative assessment and, if
+it fails that qualitative test, to perform Step 2 of the goodwill impairment test. An entity still has the option to perform the qualitative
+assessment for a reporting unit to determine if the quantitative impairment test is necessary. The update should be applied on a prospective
+basis. The provisions of ASU 2017-04 are effective for the fiscal years beginning after December 15, 2019. Early adoption is permitted.
+The Company has elected this accounting guidance as of January 1, 2020. It has had no effect on the Company s financial statements. 
+
+On
+June 20, 2018, the FASB issued ASU 2018-07, which simplifies the accounting for share based payments granted to nonemployees for goods
+and services. Under the ASU, most of the guidance on such payments to nonemployees would be aligned with the requirements for share-based
+payments granted to employees. For emerging growth companies, the amendments in ASU 2018-07 are effective for fiscal years beginning
+after December 15, 2018. The Company is in the process of reviewing the potential impact of ASU 2018-07. 
+
+F- 11 
+
+VERONI
+BRANDS CORP. 
+
+ Notes
+to Financial Statements 
+
+ December
+31, 2020 and 2019 (Restated) 
+
+Note
+3 Inventory 
+
+Finished
+Goods inventory consist of Iron Energy energy drinks, chocolates, and related products imported from Poland and is stated
+at the lower of actual cost (first-in, first-out method) or net realizable value. Inventory cost includes all freight (ocean, air and
+truck) costs to the warehouse, import duties, regulatory and miscellaneous fees. Inventory is as follows: 
+
+December 31, 2020 
+ December 31, 2019 
+
+Finished goods in transit to warehouse 
+ - 
+ 399,043 
+ 
+ Finished goods in warehouse 
+ 550,657 
+ 211,604 
+ 
+ Finished goods - consignment 
+ - 
+ - 
+
+550,657 
+ 610,647 
+
+During
+2019, the Company removed beverage product totaling approximately 245,000 from inventory due to reaching the end of its shelf life and
+became unsaleable. A proprietary label problem on some chocolate products of approximately 207,900 was identified and removed from inventory
+as the product was unsaleable. The labeling problem was corrected for future products. 
+
+Note
+4 Prepaid Expenses 
+
+Prepaid
+inventory 
+
+The
+Company s foreign suppliers will generally require that the Company pay in advance of an inventory shipment to it from Europe.
+The Company s current agreement with FoodCare includes provisions in which title for the inventory passes upon FoodCare loading
+the product onto truck transport for delivery to the seaport in Poland. Amounts transferred to the Company s suppliers to secure
+future delivery, but prior to transfer of title of those shipments, are recorded as prepaid inventory and are included in prepaid expenses
+and other current assets. 
+
+December 31, 2020 
+ December 31, 2019 
+
+Prepaid services 
+ 5,524 
+ 1,049 
+ 
+ Prepaid Rent 
+ - 
+ 4,655 
+ 
+ Prepaid inventory 
+ - 
+ 50,310 
+
+5,524 
+ 56,014 
+
+Note
+5 Notes Payable Other 
+
+On
+February 6, 2019 the Company issued a promissory note in the amount of 150,000, bearing interest at 4 percent monthly or the equivalent
+of 48 percent per annum rate. The note was repaid in full June 2019. The Company issued to the lender 26,965 shares of the Company s
+common stock value at 20,224 lieu of a cash payment of interest. The shares were valued at 0.75 per share, being the last price at
+which shares had been sold. 
+
+On
+February 22, 2019, the Company entered into a promissory note in the amount of 215,000. The note matured on December 31, 2019 and can
+be converted in shares of the Company s common stock at 0.75 per share during the term of the note. The Company agreed to issue
+to the lender 150,000 shares of the Company s common stock on or before December 31, 2019 as a one-time consideration for making
+the loan in lieu of a cash payment of interest. The common stock issuable under the term of the promissory note was valued at 112,500
+with an effective interest rate of 88.5 and was amortized over the term of the note. Through December 31, 2019 approximately 112,500
+has been amortized and recorded as Interest Expense. The lender in 2020 converted the promissory note into 286,667 shares of the Company s
+common stock at the conversion price of 0.75 per share. 
+
+On
+March 11, 2019, the Company issued a promissory note in the amount of 65,000. The note accrued interest at 5 every 45 days on the unpaid
+principal balance or the equivalent of 40.6 per annum rate. The promissory note was repaid in full on June 11, 2019. The Company issued
+to the lender 10,000 shares of the Company s common stock valued at 7,500 in lieu of a cash payment of interest. 
+
+F- 12 
+
+VERONI
+BRANDS CORP. 
+
+ Notes
+to Financial Statements 
+
+ December
+31, 2020 and 2019 (Restated) 
+
+Note
+5 Notes Payable Other (Continued) 
+
+Under
+the Small Business Administration SBA ), the Company applied for the Paycheck Protection Program PPP loan.
+These loans are forgiven if used for payroll, payroll benefits, including health insurance and retirement plans, as well as certain rent
+payments, leases, and utility payments, which are limited to 40 of the loan proceeds, all of which if paid within either 8 weeks or
+24 weeks of the receipt of the loan proceeds. At the time of this filing, we anticipate a significant amount of this loan will be forgiven;
+however, the forgiveness application process is not yet complete. The Company has elected to record these advances under the debt treatment
+for these loans, under GAAP guidance. Unforgiven portions of these loans will be repaid over 5 years, accruing interest at 1 per annum.
+The PPP loan has a loan balance of 56,250 as December 31, 2020. 
+
+Note
+6 Contract Receivables Liability with Recourse 
+
+On
+February 21, 2019, the Company entered into a factoring agreement with Advance Business Capital d/b/a Interstate Capital for a term of
+one year. On September 11, 2019, the lender (now doing business as Triumph Business Capital), entered into an amended agreement with
+the Company which lowered the interest rate charged by the lender from 0.49 for every 10 days to Prime
+Rate (floor of 5.5 plus 3 . As of December 31, 2020 and 2019 the Company owes 649,502 and 1,414,639, respectively for advances
+on their receivables. The Company bears all credit risk related to the receivables factored. The Company has given a security interest
+in substantially all of its assets and the president of the Company, a major shareholder, have guaranteed the debt. 
+
+Note
+7 Long Term Debt 
+
+On
+August 27, 2020 the Company received an Economic Injury Disaster Loan (EIDL) from the U.S. Small Business Administration SBA) in the
+amount of 150,000. The interest rate is 3.75 with payments of 731 beginning twelve month from the date of the loan. Interest is accrued
+monthly and payments are first applied to interest accrued to the date of receipt of payment and the balance, if any, will be applied
+to the principal. The balance of principal and interest is due 8/27/2050. As of December 31, 2020 the Company owes 149,900. 
+
+The
+maturity of the EIDL loan as of December 31, 2020 is as follows: 
+
+2021 
+ - 
+ 
+ 2022 
+ - 
+ 
+ 2023 
+ 2,181 
+ 
+ 2024 
+ 3,285 
+ 
+ 2025 
+ 3,410 
+ 
+ Thereafter 
+ 141,024 
+
+149,900 
+
+Note
+8 Stockholders Equity 
+
+The
+Board of Directors is authorized to issue preferred stock by series that will establish the number of shares to be included and fix the
+designation, powers, preferences and rights of the shares each such series and the qualifications, limitations or restrictions thereof.
+At December 31, 2020, the Company has not established any series of preferred stock. 
+
+The
+Company is authorized to issue 100,000,000 shares of common stock and 20,000,000 shares of preferred stock. 
+
+From
+January 1 to December 31, 2019 the Company issued 203,000 shares of common stock in consideration of cash proceeds of 152,250. The Company
+also issued 29,997 shares of common stock for services rendered with a value of 22,497 and issued 186,965 shares valued at 140,223
+in lieu of a cash payment of interest. 
+
+During
+2019, the Company redeemed 250,000 shares of common stock for 25,000 from two of the original founders of the Company. These shares
+were cancelled and restored to the status of authorized but unissued shares of common stock. 
+
+F- 13 
+
+VERONI
+ BRANDS CORP. 
+
+ Notes
+to Financial Statements 
+
+ December
+31, 2020 and 2019 (Restated) 
+
+Note
+8 Stockholders Equity (Continued) 
+
+From
+January 1 to December 31, 2020 the Company issued 60,000 shares of common stock in consideration of cash proceeds of 45,000. The Company
+also issued 286,667 shares of common stock for conversion of promissory note with a value of 215,000. 
+
+At
+December 31, 2020, the Company has no outstanding options or warrants. 
+
+Note
+9 Related Party Transactions 
+
+During
+2018, two significant shareholders of the Company advanced the Company 157,059. The advance was evidenced by two individual notes totaling
+ 155,000 which were due on or before August 1, 2019 and a payable of 2,059. The two notes have a fixed interest fee of 1,000 for each
+of the notes. One shareholder was repaid in June 2019 on his promissory note and accrued interest, which totaled 61,000. In December
+2019 that shareholder paid 6,276 of Company expenses and 14,726 of Company liabilities. In January 2020 the Company reimbursed the
+shareholder these amounts. 
+
+The
+due date for the second shareholder note was extended to be due on or before August 1, 2020, and as of December 31, 2019, 78,000 has
+been repaid leaving an outstanding loan balance of 17,000 and a payable of 4,370. Unpaid interest of 1,000 has been accrued as of
+December 31, 2019 for the remaining balance of the promissory note. The Company repaid the remaining principal and accrued interest in
+February 2020 and paid 2,311 of the outstanding payable in March 2020. At December 31, 2020 the related party balances were as follows: 
+
+December 31, 2020 
+ December 31, 2019 
+
+Loans 
+ - 
+ 18,000 
+ 
+ Accounts payable 
+ - 
+ 25,370 
+ 
+ Total related party 
+ - 
+ 43,370 
+
+During
+the year ended December 31, 2020, one of the significant shareholders paid certain expenses on behalf of the Company from time to time.
+These amounts were repaid during the year and no amount was owed to the shareholder at December 31, 2020. 
+
+The
+Company is purchasing all of its chocolate products from Millano Group, a related party (controlled by the father of a major shareholder),
+and owed 783,417 and 546,612 at December 31, 2020 and 2019, respectively. The balance is reflected in accounts payable related party. 
+
+Note
+10 Income Taxes 
+
+The
+Company follows the guidance of FASB ASC 740-10 which relates to the Accounting for Uncertainty in Income Taxes , which seeks to
+reduce the diversity in practice associated with the accounting and reporting for uncertainty in income tax positions. This interpretation
+prescribes a comprehensive model for financial statement recognition, measurement, presentation and disclosure of uncertain tax positions
+taken or expected to be taken in income tax returns. 
+
+F- 14 
+
+VERONI
+BRANDS CORP. 
+
+ Notes
+to Financial Statements 
+
+ December
+31, 2020 and 2019 (Restated) 
+
+Note
+10 Income Taxes (Continued) 
+
+Significant
+components of the Company s deferred tax assets were as follows for the year ended December 31, 2020 and 2019: 
+
+December 31, 2020 
+ December 31, 2019 
+ 
+ Deferred tax assets: 
+
+Net operating loss carryforward 
+ 321,981 
+ 214,359 
+ 
+ Total deferred tax assets 
+ 321,981 
+ 214,359 
+
+Deferred tax liabilities 
+ - 
+ - 
+
+Total deferred tax liabilities 
+ - 
+ - 
+
+Net deferred tax assets (liabilities) 
+ 321,981 
+ 214,359 
+ 
+ Less valuation allowance 
+ (321,981 
+ (214,359 
+ 
+ Net deferred tax assets (liabilities) 
+ - 
+ - 
+
+At
+December 31, 2020 the Company had net operating loss carryforwards for federal and state income tax purposes of approximately 1,264,558.
+The federal and state net operating loss carryforwards will expire beginning in 2037. The income tax expense (benefit) consisted of the
+following for the years ended December 31, 2020 and 2019: 
+
+2020 
+ 2019 
+
+Total current 
+ - 
+ - 
+ 
+ Total deferred 
+ - 
+ - 
+
+Deferred
+income taxes reflect the net tax effects of temporary differences between the carrying amount of assets and liabilities for financial
+reporting purposes and the amounts used for income tax purposes. The following is a reconciliation of the expected statutory federal
+income tax provision (21 percent) to the actual income tax benefit for the years ended December 31, 2020 and 2019: 
+
+2020 
+ 2019 
+
+Federal statutory rate (benefit) 
+ (80,000 
+ (147,000 
+ 
+ State tax (benefit), net of federal benefits 
+ (28,000 
+ (53,000 
+ 
+ Permanent differences 
+ - 
+ - 
+ 
+ Change in valuation allowance 
+ 108,000 
+ 200,000 
+
+- 
+ - 
+
+Under
+ASC 740, Income Taxes, deferred tax assets and liabilities are recognized for the future tax consequences attributable to temporary differences
+between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets
+and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences
+are expected to be recovered or settled. Valuation allowances are established when it is more likely than not that some or all of the
+deferred tax assets will not be realized. As of December 31, 2020 and 2019, there were no deferred taxes due to the uncertainty of the
+realization of net operating loss or carry forward prior to expiration. 
+
+F- 15 
+
+VERONI
+ BRANDS CORP. 
+
+ Notes
+to Financial Statements 
+
+ December
+31, 2020 and 2019 (Restated) 
+
+Note
+11 Office Lease 
+
+On
+February 4, 2019, the Company entered into a sublease for office space located in Bannockburn, Illinois, with an unrelated third party.
+The sublease terminates on May 31, 2022. The sublease requires annual rent of 55,860 for the first year of the sublease, 57,536 for
+the second year, 59,262 for the third year, and 61,040 for the last year. Rent for the years ending December 31, 2020 and 2019 was
+ 53,031 and 52,256, respectively. The Company also paid a security deposit of 9,310, which is reflected in Other Assets - Deposits
+As of December 31, 2020, our right of use asset and related liability was 74,721 and 72,073, respectively. 
+
+In
+determining the present value of our operating lease right-of-use asset and liability, we used a discount rate of 5 (which approximates
+our borrowing rate). The remaining term on the lease is 1.42 years. 
+
+The
+annual rent per the sublease is as follows: 
+
+2021 
+ 59,107 
+ 
+ 2022 
+ 15,110 
+
+74,217 
+
+Note
+12 Revenue 
+
+During
+the year ended December 31, 2020, the Company had two customers whose sales accounted for approximately 77 of revenue. 
+
+The
+following table presents revenues by product line for the years ended December 31: 
+
+2020 
+ 2019 
+ 
+ Chocolate 
+ 5,581,645 
+ 6,570,709 
+ 
+ Energy drinks 
+ 119 
+ 108,081 
+ 
+ Totals 
+ 5,581,764 
+ 6,678,790 
+
+Note
+13 Commitments and Contingencies 
+
+The
+Company s operations are subject to the Federal Food, Drug and Cosmetic Act; the Bioterrorism Act; and regulations created by the
+U.S. Food and Drug Administration FDA ). The FDA regulates manufacturing and holding requirements for foods, specifies
+the standards of identity for certain foods and prescribes the format and content of certain information that must appear on food product
+labels. In addition, the published applicable rules under the Food Safety Modernization Act FSMA regulates food products
+imported into the United States and provides the FDA with mandatory recall authority. 
+
+For
+the purchase of products harvested or manufactured outside the United States, and for the shipment of products to customers located outside
+of the United States, the Company is subject to customs laws regarding the import and export of shipments. The Company s activities,
+including working with customs brokers and freight forwarders, are subject to regulation by U.S. Customs and Border Protection, part
+of the Homeland Security. 
+
+On
+June 17, 2019, The Scale Effect Company d/b/a Mant Logistics filed an amended complaint in the United States District Court for the Northern
+District of Illinois naming as defendants the Company, Baron Chocolatier, Inc. and two significant shareholders of the Company. The action
+was originally against Baron Chocolatier only, alleging that Baron did not pay for shipping and logistics services in the amount of 277,233,
+plus accrued interest. The complaint was amended to allege that the Company is a successor corporation and continuation of Baron Chocolatier,
+thereby making the Company liable for the debts and liabilities of Baron, and that Baron is an alter ego for the Company and the Company s
+two significant shareholders. No trial date has been scheduled. The parties are still in the discovery stage, as the pandemic and a reassignment
+of the case to a new judge caused delays. The Company intends to vigorously defend in this lawsuit. 
+
+F- 16 
+
+VERONI
+BRANDS CORP. 
+
+ Notes
+to Financial Statements 
+
+ December
+31, 2020 and 2019 (Restated) 
+
+Note
+13 Commitments and Contingencies (Continued) 
+
+In
+March 2021, Crossmark Inc. initial a lawsuit in the Circuit Court of Cook County, Illinois, against the Company, seeking to collect payment
+for services rendered. The Company had entered into an agreement with Crossmark to promote the sale of the Iron Energy products which
+the Company had distributed. Crossmark alleges that 100,000 plus costs and attorneys fees are owed by the Company. The default
+judgment entered in this case has been vacated and the Company intends to defend in this lawsuit. The Company has accrued 100,000 in
+2019 as a reserve for this liability. 
+
+Note
+14 Explanation of our Restatement 
+
+The
+Company restating its Annual Report for the Annual period ended December 31, 2019, which was filed with the Securities and Exchange Commission SEC on April 14, 2020 (the Original Report ). The financial statements contained in our Annual Report on
+Form 10-K for the year ended December 31, 2019 require restatement in order to correct the presentation of a note payable that was incorrectly
+classified as equity, record the right-of-use asset to comply with ASC 842 and accrue 100,000 for the Crossmark lawsuit to comply with
+ASC 450 as stated in Note 13. The changes in our consolidated financial statements are summarized, below. 
+
+F- 17 
+
+Veroni
+Brands Corp. 
+
+ BALANCE
+SHEETS 
+
+ December
+31, 2019 
+
+As Originally Reported 
+ Adjusted 
+ As Restated 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash equivalents 
+ 99,010 
+ - 
+ 99,010 
+ 
+ Accounts Receivable, net allowance for doubtful accounts of 0 and 2,125
+ respectively 
+ 129,565 
+ 
+ 129,565 
+ 
+ Contract Receivables with recourse 
+ 1,554,510 
+ 
+ 1,554,510 
+ 
+ Inventory 
+ 610,647 
+ 
+ 610,647 
+ 
+ Prepaid expenses and other current assets 
+ 56,014 
+ 
+ 56,014 
+ 
+ Total Current Assets 
+ 2,449,746 
+ - 
+ 2,449,746 
+
+Other Assets 
+
+Deposits 
+ 9,310 
+ 
+ 9,310 
+ 
+ Right-of-use asset-operating, net 
+ 0 
+ 122,856 
+ 122,856 
+ 
+ Total Other Assets 
+ 9,310 
+ 122,856 
+ 132,166 
+
+Total Assets 
+ 2,459,056 
+ 122,856 
+ 2,581,912 
+
+LIABILITIES AND STOCKHOLDERS DEFICIT 
+
+Current Liabilities 
+
+Accounts payable 
+ 184,561 
+ - 
+ 184,561 
+ 
+ Accounts payable related party 
+ 546,612 
+ 
+ 546,612 
+ 
+ Notes payable 
+ - 
+ 215,000 
+ 215,000 
+ 
+ Notes payable - related parties including interest 
+ 43,370 
+ 
+ 43,370 
+ 
+ Contract receivables liability with recourse 
+ 1,414,639 
+ 
+ 1,414,639 
+ 
+ Accrued liabilities 
+ 114,816 
+ 100,000 
+ 214,816 
+ 
+ Contract liabilities 
+ 143,033 
+ 
+ 143,033 
+ 
+ Short-Term lease liability-operating 
+ - 
+ 52,499 
+ 52,499 
+ 
+ Total Current Liabilities 
+ 2,447,031 
+ 367,499 
+ 2,814,530 
+
+Long-term Liabilities 
+
+Deferred Rent 
+ 1,716 
+ (1,716 
+
+Economic injury disaster loan (EIDL) 
+ - 
+ - 
+ - 
+ 
+ Long-Term lease liability-operating 
+ - 
+ 72,073 
+ 72,073 
+
+Total Long-Term Liabilities 
+ 1,716 
+ 70,357 
+ 72,073 
+
+Total Liabilities 
+ 2,448,747 
+ 437,856 
+ 2,886,603 
+
+STOCKHOLDERS DEFICIT 
+
+Preferred Stock, 0.0001 par value; 20,000,000 shares authorized; none outstanding as of December 31, 2020 and 2019 
+ - 
+ 
+ - 
+ 
+ Common Stock, 0.0001 par value; 100,000,000 shares authorized; 27,085,029 and 26,738,362 shares issued and outstanding as of
+ December 31, 2020 and 2019, respectively 
+ 2,703 
+ (29 
+ 2,674 
+ 
+ Additional paid-in capital 
+ 914,606 
+ (214,971 
+ 699,635 
+ 
+ ACCUMULATED DEFICIT 
+ (907,000 
+ (100,000 
+ (1,007,000 
+ 
+ Total Stockholders Deficit 
+ 10,309 
+ (315,000 
+ (304,691 
+
+Total Liabilities and Stockholders Deficit 
+ 2,459,056 
+ 122,856 
+ 2,581,912 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 18 
+
+Veroni
+Brands Corp. 
+
+ STATEMENTS
+OF OPERATIONS 
+
+ For
+the year ended December 31, 2019 
+
+As Originally Reported 
+ Adjusted 
+ As Restated 
+
+Revenue, net 
+ 6,678,790 
+ - 
+ 6,678,790 
+
+Cost of sales, related party 
+ 5,197,938 
+ 
+ 5,197,938 
+ 
+ Cost of sales 
+ 620,500 
+ 
+ 620,500 
+ 
+ Total cost of sales 
+ 5,818,438 
+ - 
+ 5,818,438 
+ 
+ Gross profit 
+ 860,352 
+ - 
+ 860,352 
+
+Warehouse and selling expenses 
+ 646,249 
+ 
+ 646,249 
+ 
+ General and administrative expenses 
+ 673,557 
+ 100,000 
+ 773,557 
+ 
+ Total operating expenses 
+ 1,319,806 
+ 100,000 
+ 1,419,806 
+
+Net loss from operations 
+ (459,454 
+ (100,000 
+ (559,454 
+
+Other expense 
+
+Interest expense 
+ 140,359 
+ 
+ 140,359 
+ 
+ Interest expense - related party 
+ 1,000 
+ 
+ 1,000 
+ 
+ Total interest expense 
+ 141,359 
+ - 
+ 141,359 
+ 
+ Loss before income taxes 
+ (600,813 
+ (100,000 
+ (700,813 
+
+Income taxes 
+ - 
+ - 
+ - 
+
+Net Loss 
+ (600,813 
+ (100,000 
+ (700,813 
+
+Net loss per share: 
+
+Basic and diluted 
+ (0.02 
+ 1.66 
+ (0.03 
+
+Weighted average shares outstanding: 
+
+Basic and diluted 
+ 26,799,927 
+ (60,074 
+ 26,739,853 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 19 
+
+Veroni
+Brands Corp. 
+
+ STATEMENT
+OF CHANGES IN STOCKHOLDERS EQUITY (DEFICIT) 
+
+ December
+31, 2020 and 2019 
+
+Additional 
+ 
+ Total 
+
+Preferred Stock 
+ Common Stock 
+ Paid-in 
+ Accumulated 
+ Stockholders 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Deficit 
+
+Balance, December 31, 2018 
+ - 
+ - 
+ 26,568,400 
+ 2,656 
+ 409,683 
+ (306,187 
+ 106,152 
+
+Issuance of common stock for services 
+ - 
+ - 
+ 29,997 
+ 3 
+ 22,494 
+ 
+ 22,497 
+
+Issuance of common stock for cash 
+ - 
+ - 
+ 203,000 
+ 21 
+ 152,229 
+ - 
+ 152,250 
+
+Issuance of common stock, in lieu of interest 
+ - 
+ - 
+ 186,965 
+ 18 
+ 140,205 
+ - 
+ 140,223 
+
+Conversion of promissary note to common stock 
+ - 
+ - 
+ 286,667 
+ 29 
+ 214,971 
+ 
+ 215,000 
+
+Redemption and cancellation of shares 
+ - 
+ - 
+ (125,000 
+ (12 
+ (24,988 
+ 
+ (25,000 
+
+Cancellation of shares 
+ - 
+ - 
+ (125,000 
+ (12 
+ 12 
+ 
+ - 
+
+Net Loss for the year 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (700,813 
+ (700,813 
+
+Balance, December 31 2019 (Original) 
+ - 
+ - 
+ 27,025,029 
+ 2,703 
+ 914,606 
+ (1,007,000 
+ (89,691 
+
+Reverse conversion of promissory note to common
+ stock 
+ - 
+ - 
+ (286,667 
+ (29 
+ (214,971 
+ - 
+ (215,000 
+
+Balance, December 31, 2020 (Restated) 
+ - 
+ - 
+ 26,738,362 
+ 2,674 
+ 699,635 
+ (1,007,000 
+ (304,691 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 20 
+
+Veroni
+Brands Corp. 
+
+ STATEMENTS
+OF CASH FLOW 
+
+ December
+31, 2019 
+
+As Originally Reported 
+ Adjusted 
+ As Restated 
+
+Cash flow from operating activities: 
+
+Net Loss 
+ (600,813 
+ (100,000 
+ (700,813 
+ 
+ Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Common stock issued for service 
+ 22,496 
+ 
+ 22,496 
+ 
+ Amortization of debt discount 
+ 140,224 
+ (27,724 
+ 112,500 
+ 
+ Expenses paid by shareholder 
+ 11,586 
+ (11,586 
+ - 
+
+Changes in: 
+
+Trade accounts receivable 
+ (108,582 
+ 
+ (108,582 
+ 
+ Allowance for doubtful accounts 
+ (7,823 
+ 
+ (7,823 
+ 
+ Contract Receivables 
+ (1,554,510 
+ 
+ (1,554,510 
+ 
+ Prepaid expenses and other current assets 
+ 50,303 
+ 
+ 50,303 
+ 
+ Inventory 
+ (402,278 
+ 
+ (402,278 
+ 
+ Deposits 
+ (9,310 
+ 
+ (9,310 
+ 
+ Accounts payable 
+ 155,574 
+ (14,593 
+ 140,981 
+ 
+ Accounts payable related party 
+ 546,612 
+ 
+ 546,612 
+ 
+ Accrued liabilities 
+ 65,894 
+ 100,001 
+ 165,895 
+ 
+ Contract liabilities 
+ 143,033 
+ 
+ 143,033 
+ 
+ ROU asset/liability 
+ 1,716 
+ 
+ 1,716 
+ 
+ Net cash used in operating activities 
+ (1,545,878 
+ (53,902 
+ (1,599,780 
+
+Cash flows from financing activities: 
+
+Repayment of shareholders loans 
+ (140,000 
+ - 
+ (140,000 
+ 
+ Repayment of notes payable 
+ (65,000 
+ (150,000 
+ (215,000 
+ 
+ Proceeds from issuance of notes payable 
+ 280,000 
+ 203,902 
+ 483,902 
+ 
+ Proceeds from issuance of common stock 
+ 152,250 
+ - 
+ 152,250 
+ 
+ Proceeds from (repayment of) contract receivables with recourse 
+ 1,414,639 
+ - 
+ 1,414,639 
+ 
+ Net cash provided by financing activities 
+ 1,641,889 
+ 53,902 
+ 1,695,791 
+
+Net change in cash 
+ 96,011 
+ 
+ 96,011 
+
+Cash at the beginning of the year 
+ 2,999 
+ 
+ 2,999 
+
+Cash at the end of the year 
+ 99,010 
+ - 
+ 99,010 
+
+Supplemental disclosure of cash flow information: 
+
+Cash paid for: 
+
+Interest 
+ 1,000 
+ - 
+ 1,000 
+
+Non-cash investing and financing activities 
+
+Conversion of promissory note debt discount 
+ 112,500 
+ - 
+ 112,500 
+ 
+ Redemption and cancellation of shares 
+ 25,000 
+ - 
+ 25,000 
+ 
+ Interest converted to common stock 
+ 27,591 
+ - 
+ 27,591 
+ 
+ Adoption of ASC 842 
+ 169,655 
+ - 
+ 169,655 
+
+The
+accompanying notes are an integral part of these financial statements 
+
+F- 21 
+
+Note
+15 Subsequent Events 
+
+In
+February 2021, the Company entered into a consulting agreement with a firm to provide strategic business planning services for a period
+of six months in consideration for the issuance of 27,000 restricted shares of common stock. 
+
+In
+April 2021, the Company received a letter from one of its significant customers stating that the Company was not selected as a vendor
+for 2021. 
+
+In
+June 2021, the Company entered into storage and procurement distribution agreement with a transportation company to store the chocolate
+products, as well as fulfill the purchase orders from the Company s customers. The agreement is for a term of two years from the
+date of first inbound receipt and may be terminated at the option of the Company upon 60 days notice. 
+
+F- 22 
+
+Item
+ 9. 
+ Changes
+ in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+
+On
+January 18, 2021, the Company dismissed L J Soldinger Associates, LLC Soldinger as its independent registered public
+accounting firm. Other than as noted in the paragraph below, the report of Soldinger on the Company s financial statements for
+the years ended December 31, 2019 and 2018 did not contain an adverse opinion or disclaimer of opinion, and such reports were not qualified
+or modified as to audit scope, or accounting principles. 
+
+The
+report of Soldinger on the Company s financial statements as of and for the years ended December 31, 2019 and 2018 contained explanatory
+paragraphs which noted that there was substantial doubt as to the Company s ability to continue as a going concern as the Company
+had recurring losses from operations, and an accumulated deficit, low working capital and cash balances that raised substantial doubt
+about its ability to continue as a going concern. 
+
+During
+the fiscal years ended December 31, 2019 and 2018 and through the interim period ended January 18, 2021, there were no disagreements 
+(as such term is defined in Item 304 of Regulation S-K) with Soldinger on any matter of accounting principles or practices, financial
+statement disclosure or auditing scope or procedure, which disagreements, if not resolved to Soldinger s satisfaction, would have
+caused it to make reference thereto in its reports on the Company s financial statements for such periods. 
+
+On
+January 20, 2021, the Company engaged M K CPA, PLLC M K as the registered independent public accountant for the
+fiscal year ended December 31, 2020. The decision to appoint M K was approved by the Company s Board of Directors on January
+20, 2021. 
+
+During
+the Company s two most recent fiscal years and the subsequent interim period up through the date of engagement of M K (January
+20, 2021), neither the Company nor anyone on its behalf consulted M K regarding the application of accounting principles to a specific
+completed or contemplated transaction, or the type of audit opinion that might be rendered on the Company s financial statements.
+Further, M K has not provided the Company with written or oral advice that was an important factor that the Company considered in
+reaching a decision as to any accounting, auditing or financial reporting issues. 
+
+Item
+ 9A. 
+ Controls
+ and Procedures. 
+
+Evaluation
+of Disclosure Controls and Procedures and Changes in Internal Controls 
+
+We
+maintain disclosure controls and procedures designed to provide reasonable assurance that information required to be disclosed in our
+reports filed pursuant to the Securities Exchange Act of 1934, as amended (the Exchange Act ), is recorded, processed, summarized
+and reported within the time periods specified in the Securities and Exchange Commission s rules and forms, and that such information
+is accumulated and communicated to our management, as appropriate, to allow timely decisions regarding required disclosures. A control
+system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance the objectives of the control
+system are met. 
+
+As
+of December 31, 2020, our management carried out an evaluation of the effectiveness of our disclosure controls and procedures as such
+term is defined in Rule 13a-15(e) or 15d-15(e) under the Exchange Act. Based on this evaluation, the President and Chief Financial Officer
+concluded that the Company s disclosure controls and procedures were not effective as of December 31, 2020, because of the identification
+of the material weakness in internal control over financial reporting described below. Notwithstanding the material weakness that existed
+as of December 31, 2020, our President and Chief Financial Officer has concluded that the financial statements included in this Annual
+Report on Form 10-K present fairly, in all material respects, the financial position, results of operations and cash flows of the Company
+and its subsidiaries in conformity with accounting principles generally accepted in the United States of America GAAP ). 
+
+14 
+
+Management s
+Report on Internal Control over Financial Reporting 
+
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting. Internal control over
+financial reporting is a set of processes designed by, or under the supervision of, a company s principal executive and principal
+financial officers, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with GAAP and includes those policies and procedures that: 
+
+Pertain
+ to the maintenance of records that in reasonable detail accurately and fairly reflect our transactions and dispositions of our assets; 
+
+Provide
+ reasonable assurance our transactions are recorded as necessary to permit preparation of our financial statements in accordance with
+ GAAP, and that receipts and expenditures are being made only in accordance with authorizations of our management and directors; and 
+
+Provide
+ reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that
+ could have a material effect on the financial statements. 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. It should be noted that
+any system of internal control, however well designed and operated, can provide only reasonable, and not absolute, assurance that the
+objectives of the system will be met. Also, projections of any evaluation of effectiveness to future periods are subject to the risk
+that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures
+may deteriorate. 
+
+Under
+the supervision and with the participation of our management, we conducted an assessment of the effectiveness of our internal control
+over financial reporting based on criteria established in Internal Control-Integrated Framework issued by the Committee
+of Sponsoring Organizations of the Treadway Commission (COSO) in 1992, as of December 31, 2020. 
+
+As
+a result of our material weakness described below, management has concluded that, as of December 31, 2019, our internal control over
+financial reporting was not effective based on the criteria in Internal Control-Integrated Framework issued by COSO. 
+
+Material
+Weakness in Internal Control over Financial Reporting 
+
+A
+material weakness is a deficiency or combination of deficiencies in internal control over financial reporting, such that there is a reasonable
+possibility, that a material misstatement of the Company s annual or interim financial statements will not be prevented or detected
+on a timely basis. In connection with its assessment, management identified the following material weaknesses at December 31, 2020: 
+
+There
+ is a lack of segregation of duties within the accounting and financial reporting process along with the proper safeguards to prevent
+ the management override of controls, as the Company has only one executive officer. 
+
+Since
+ we use external consultants to prepare our financial statements and provide sufficient documentation of such preparation and review
+ procedures, our officer must rely on such documentation. 
+
+We
+ had only one executive officer at December 31, 2020. 
+
+Due
+to our limited resources, we expect these weaknesses in internal control to continue while we implement our business plan. 
+
+This
+Annual Report does not include an attestation report of our independent registered public accounting firm regarding internal control
+over financial reporting. Management s report was not subject to attestation by our independent registered public accounting firm
+pursuant to the rules of the SEC that permit us to provide only management s report in this annual report. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+During
+the period covered by this annual report, there were no changes in our internal control over financial reporting that have materially
+affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+15 
+
+Item
+ 9B. 
+ Other
+ Information. 
+
+None. 
+
+PART
+III 
+
+Item
+ 10. 
+ Directors,
+ Executive Officers and Corporate Governance. 
+
+The
+following table sets forth information regarding the members of the Company s board of directors and its executive officers: 
+
+Name 
+ 
+ Position 
+ 
+ Year
+ Commenced 
+ 
+ Igor
+ Gabal 
+ 
+ President,
+ Secretary, Chief Financial Officer Director 
+ 
+ 2017 
+
+Igor
+Gabal, age 46, serves as President, Secretary, Chief Financial Officer and Director of the Company. Mr. Gabal has over 15 years of middle-market
+private equity investment experience primarily in real estate, industrial manufacturing, consumer packaged goods distribution or services
+operating industries. He has initiated and overseen add-on acquisitions, debt capital market issues for various companies and has experience
+and relationships with middle-market private equity firms, investment banks and debt financing sources. Prior to founding Veroni Brands,
+Corp. Mr. Gabal served as a board member and managing member for Guterman Partners Companies since 2009. Mr. Gabal was acting as EVP
+for Baron Chocolatier, Inc. the company that has specialized on the import and distribution of chocolate related products throughout
+the United States since 2016. Mr. Gabal received his Bachelor of Science in Business Management degree from DeVry Institute in 2000 and
+also attended Kellogg School of Management 2000-2002. 
+
+Committees
+and Terms 
+
+The
+Board of Directors has not established any committees. Our entire Board of Directors, rather than committees, acts on various items.
+The Board of Directors has determined that it does not have an audit committee financial expert. 
+
+A
+stockholder who wishes to communicate with our Board of Directors may do so by directing a written request addressed to our President
+and Director, at the address appearing on the first page of this filing. 
+
+Code
+of Ethics 
+
+Our
+Board of Directors has not adopted a code of ethics. We anticipate that we will adopt a code of ethics when we increase either the number
+of our Directors or the number of our employees. 
+
+Nominees
+to the Board of Directors 
+
+Since
+our last proxy statement, we have not made any material changes to the procedures by which stockholders may recommend nominees to our
+board of directors. Our Company does not have any defined policy or procedural requirements for stockholders to submit recommendations
+or nominations for Directors. The Board of Directors believes that, given the stage of our development, a specific nominating policy
+would be premature and of little assistance until our business operations develop to a more advanced level. Our Company does not currently
+have any specific or minimum criteria for the election of nominees to the Board of Directors and we do not have any specific process
+or procedure for evaluating such nominees. The Board of Directors will assess all candidates, whether submitted by management or stockholders,
+and make recommendations for election or appointment. 
+
+16 
+
+Section
+16(a) Beneficial Ownership Reporting Compliance 
+
+Section
+16(a) of the Exchange Act requires our officers, directors, and persons who beneficially own more than 10 of our common stock to file
+reports of securities ownership and changes in such ownership with the Securities and Exchange Commission SEC ). Officers,
+directors and greater than 10 beneficial owners are also required by rules promulgated by the SEC to furnish us with copies of all Section
+16(a) forms they file. 
+
+Based
+solely upon a review of the copies of such forms furnished to us, or written representations that no Form 5 filings were required, we
+believe that during the fiscal year ended December 31, 2020, there were no instances where officers, directors, or greater than 10 beneficial
+owners did not comply with Section 16(a) of the Exchange Act. 
+
+Risk
+Oversight 
+
+Effective
+risk oversight is an important priority of the Board of Directors. Because risks are considered in virtually every business decision,
+the Board of Directors discusses risk throughout the year generally or in connection with specific proposed actions. The Board of Directors 
+approach to risk oversight includes understanding the critical risks in the Company s business and strategy, evaluating the Company s
+risk management processes, allocating responsibilities for risk oversight among the full Board of Directors, and fostering an appropriate
+culture of integrity and compliance with legal responsibilities. 
+
+Corporate
+Governance 
+
+The
+Company promotes accountability for adherence to honest and ethical conduct; endeavors to provide full, fair, accurate, timely and understandable
+disclosure in reports and documents that the Company files with the Securities and Exchange Commission and in other public communications
+made by the Company; and strives to be compliant with applicable governmental laws, rules and regulations. The Company has not formally
+adopted a written code of business conduct and ethics that governs the Company s employees, officers and Directors as the Company
+is not required to do so. 
+
+In
+lieu of an Audit Committee, the Company s Board of Directors is responsible for reviewing and making recommendations concerning
+the selection of outside auditors, reviewing the scope, results and effectiveness of the annual audit of the Company s financial
+statements and other services provided by the Company s independent public accountants. The Board of Directors reviews the Company s
+internal accounting controls, practices and policies. 
+
+Item
+ 11. 
+ Executive
+ Compensation. 
+
+The
+following table summarizes all compensation recorded by us in the past two fiscal years for our principal executive officer, who is our
+sole executive officer, during the fiscal years ended December 31, 2020 and 2019. 
+
+Summary
+Compensation Table 
+
+Name
+ and Principal
+ Position 
+ Fiscal
+ Year 
+ Salary ) 
+ Bonus ) 
+ Stock Awards 
+ ) 
+ Option Awards ) 
+ All
+ Other Compensation ) 
+ Total ) 
+ 
+ Igor Gabal, 
+ 2020 
+ 90,000 
+ 361,828 
+
+451,828 
+ 
+ Chief Executive Officer 
+ 2019 
+ 31,250 
+
+31,250 
+
+Narrative
+Disclosure to Summary Compensation Table 
+
+The
+Company entered into an employment agreement with Igor Gabal dated January 2, 2019. The agreement specifies a minimum annual base salary
+of 35,000 for the first year and 450,000 shares of common stock for each of the first two years of his employment. The shares are to
+be issued within 30 days following his second year of employment. For the second year of his employment, the minimum base salary is 90,000
+plus monthly 25,000 bonuses. For the third through fifth years of employment, Mr. Gabal s minimum annual base salary increases
+to 450,000 and he is to receive 270,000 shares of common stock per year. The agreement also grants piggy back registration rights with
+regard to the shares issued as compensation. In the event of termination for any reason other than cause or by Mr. Gabal for good reason
+after two years of employment, the Company is to provide him with severance in an amount equal to one year of his highest total salary
+in any prior full year of employment, unused accrued vacation time and reimbursement for any legitimate Company expenses. In the event
+of a change of control event, Mr. Gabal is to receive payment equal to one and a half times his highest total annual compensation. This
+summary is qualified in its entirety to the complete Employment Agreement, which is an exhibit to this annual report. 
+
+17 
+
+The
+compensation discussed herein addresses all compensation awarded to, earned by, or paid to our named executive officers. There are no
+other stock option plans, retirement, pension, or profit sharing plans for the benefit of our officers and directors other than as described
+herein. 
+
+Outstanding
+Equity Awards at Fiscal Year-End 
+
+There
+are no current outstanding equity awards to our executive officers as of December 31, 2020. 
+
+Executive
+Compensation Philosophy 
+
+Our
+Board of Directors determines the compensation given to our executive officers in its sole determination. Our Board of Directors also
+reserves the right to pay our executives a salary, and/or issue them shares of common stock issued in consideration for services rendered
+and/or to award incentive bonuses which are linked to our performance, as well as to the individual executive officer s performance.
+This package may also include long-term stock-based compensation to certain executives, which is intended to align the performance of
+our executives with our long-term business strategies. Additionally, the Board of Directors reserves the right to grant stock options
+in the future, if the Board in its sole determination believes such grants would be in the best interests of the Company. 
+
+Incentive
+Bonus 
+
+The
+Board of Directors may grant incentive bonuses to our executive officers in its sole discretion, if the Board of Directors believes such
+bonuses are in the Company s best interest, after analyzing our current business objectives and growth, if any, and the amount
+of revenue we are able to generate each month, which revenue is a direct result of the actions and ability of such executives. No incentive
+bonuses had been granted as of December 31, 2020. 
+
+Long-term,
+Stock Based Compensation 
+
+In
+order to attract, retain and motivate executive talent necessary to support the Company s long-term business strategy we may award
+certain executives with long-term, stock-based compensation in the future, in the sole discretion of our Board of Directors, which we
+do not currently have any immediate plans to award. 
+
+Item
+ 12. 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The
+following table sets forth certain information regarding beneficial ownership of our common stock on August 26, 2021 by each person who
+is known by us to own beneficially more than 5 of the outstanding shares of common stock and our current director and executive officer. 
+
+Name and Address of Beneficial Owners (1) 
+ Amount
+ and Nature of Beneficial Ownership 
+ Percent of Class for Vote (2) 
+ 
+ Tomasz Kotas (3) 
+ 12,788,399 
+ 47.1 
+ 
+ Igor Gabal (4) 
+ 12,100,000 
+ 44.6 
+
+(1) 
+ To
+ our knowledge, except as set forth in the footnotes to this table and subject to applicable community property laws, it is anticipated
+ that each person named in the table will have sole voting and investment power with respect to the shares set forth opposite such
+ person s name. 
+ 
+ (2) 
+ Based
+ on 27,112,028 shares of common stock outstanding as of 2021. 
+
+(3) 
+ The
+ address of Mr. Kotas is 1950 Telegraph Road, Lake Forest, IL 60045. Includes 44,000 shares held of record by his wife. 
+ 
+ (4) 
+ Mr.
+ Gabal is the sole officer and director of the Company. Includes 7,200,000 shares held of record by GP Michigan, LLC, a company controlled
+ by Mr. Gabal. Mr. Gabal s address is 6715 N. Sauganash Avenue, Lincolnwood, IL 60712. 
+
+18 
+
+Changes
+in Control 
+
+There
+are no agreements known to management that may result in a change of control of our Company. 
+
+Equity
+Compensation Plan Information 
+
+The
+Company does not have any equity compensation plans. 
+
+Item
+ 13. 
+ Certain
+ Relationships and Related Transactions, and Director Independence. 
+
+Our
+officers and directors are now and may in the future become stockholders, officers or directors of other companies that may be engaged
+in business activities similar to those conducted by us. Accordingly, direct conflicts of interest may arise in the future with respect
+to such individuals acting on our behalf or other entities. Moreover, additional conflicts of interest may arise with respect to opportunities
+which come to the attention of such individuals in the performance of their duties or otherwise. Although we do not currently have a
+right of first refusal pertaining to opportunities that come to management s attention insofar as such opportunities may relate
+to our business operations, we have established a conflict of interest policy intended to ensure timely disclosure and avoidance of activities
+and relationships that conflict with the interests of the Company. 
+
+Our
+officers and directors are subject to the restriction that all opportunities contemplated by our business plan which come to their attention,
+either in the performance of their duties or in any other manner, will be considered opportunities of, and be made available to our Company.
+A breach of this requirement will be a breach of the fiduciary duties of the officer or director. 
+
+All
+future affiliated transactions will be made or entered into on terms that are no less favorable to us than those that can be obtained
+from any unaffiliated third party. To the extent possible, a majority of the independent, disinterested members of our board of directors
+will approve future affiliated transactions. 
+
+On
+October 2, 2018, the Company borrowed 60,000 from Igor Gabal, the sole officer and director of the Company, and on October 3, 2018,
+the Company borrowed 95,000 from Tomasz Kotas, the Company s largest shareholder. Both of the promissory notes evidencing the
+debts had a maturity date of August 1, 2019 and a flat interest amount of 1,000. The Company repaid Mr. Gabal s note in June 2019,
+together with the accrued interest. Mr. Kotas extended the maturity date of his note to August 1, 2020. As of December 31, 2019, 17,000
+of the principal and 1,000 of accrued interest remained outstanding. These amounts were paid in January and February 2020. 
+
+In
+December 2019, Mr. Gabal paid 6,276 of Company expenses and 14,726 of Company liabilities. These amounts were reimbursed in January
+2020. 
+
+On
+February 21, 2019, the Company entered into a factoring agreement with an unrelated third party, Advance Business Capital LLC, dba Interstate
+Capital ICC ), pursuant to which the Company sells its accounts receivable to ICC for 85 of the value of the receivable.
+The term of the agreement is for 12 months and automatically renews for additional 12-month periods. The accounts receivable are sold
+with recourse back to the Company, meaning that the Company bears the risk of non-payment by the account debtor. To secure its obligations
+to ICC, the Company has granted a blanket security interest in its other assets, such as inventory, equipment, machinery, furniture,
+fixtures, contract rights, and general intangibles. Igor Gabal, the sole officer and director of the Company, and Tomasz Kotas, the largest
+shareholder of the Company, have provided their personal guarantees. On September 11, 2019, the lender (which now does business as Triumph
+Business Capital) entered into an amended agreement with the Company which lowered the interest charged by the lender from 0.49 for
+every 10 days to prime rate (with a floor of 5.5 plus 3 . As of December 31, 2020 and 2019, the Company owed 649,502 and 1,414,639,
+respectively, for advances on its receivables. 
+
+19 
+
+The
+Company is currently purchasing all of its chocolate products from Millano Group, a related party (controlled by the father of Tomasz
+Kotas). As of December 31, 2020 and 2019, 783,417 and 546,612, respectively, was owed to Millano Group. The balance is reflected in
+accounts payable related party. 
+
+Director
+Independence 
+
+The
+Board of Directors has determined that it does not have any independent directors as that term is defined by NASDAQ Marketplace Rule
+5605(a)(2). In assessing the independence of the directors, the Board considers any transactions, relationships and arrangements between
+our Company and our independent directors or their affiliated companies. This review is based primarily on responses of the directors
+to questions in a director and officer questionnaire regarding employment, business, familial, compensation and other relationships with
+our Company or our management. 
+
+Item
+ 14. 
+ Principal
+ Accounting Fees and Services. 
+
+Fees
+paid to our principal accountants, M K CPAS, PLLC for the 2020 and 2019 audit are 36,500. Fee paid to LJ Soldinger Associates, LLC
+for the fiscal years ended December 31, 2020 and 2019, were as follows: 
+
+Year Ended December 31, 
+
+2020 
+ 2019 
+ 
+ Audit fees (1) 
+ 36,500 
+ 47,810 
+ 
+ Audit-related fees 
+ - 
+ - 
+ 
+ Tax fees 
+ - 
+ - 
+ 
+ All other fees 
+ - 
+ - 
+ 
+ Total fees 
+ 36,500 
+ 47,810 
+
+(1) 
+ The
+ amount billed or to be billed to us for professional services related to the audit of our annual financial statements for the years
+ ended December 31, 2020 and 2019 included reviews of our quarterly reports on Form 10-Q. 
+
+The
+Board of Directors has considered whether the provision of the non-audit services described above by an external auditor is compatible
+with maintaining the auditor s independence, and determined that these non-audit services are compatible with the required independence.
+The Board of Directors pre-approves all services to be provided to our Company by the independent auditors. This includes the pre-approval
+of (i) all audit services and (ii) any significant (i.e., not de minimis) non-audit services. Before granting any approval, the Board
+of Directors gives due consideration to whether approval of the proposed service will have a detrimental impact on the auditor s
+independence. All services provided by and fees paid to our independent auditors for 2020 and 2019 were pre-approved by the Board of
+Directors. 
+
+20 
+
+PART
+IV 
+
+Item
+ 15. 
+ Exhibits,
+ Financial Statement Schedules. 
+
+Regulation 
+ S-K
+ Number 
+ 
+ Document 
+ 
+ 3.1 
+ 
+ Certificate of Incorporation (1) 
+ 
+ 3.2 
+ 
+ Certificate of Amendment to Certificate of Incorporation (2) 
+ 
+ 3.3 
+ 
+ Bylaws (1) 
+ 
+ 10.1 
+ 
+ Contract between FoodCare Sp. z o.o. and Veroni Brands Corp. dated January 30, 2018 (3) 
+ 
+ 10.2 
+ 
+ Promissory note dated October 2, 2018 to Igor Gabal (4) 
+ 
+ 10.3 
+ 
+ Promissory note dated October 3, 2018 to Tomasz Kotas (4) 
+ 
+ 10.4 
+ 
+ Amendment
+2 to Factoring and Security Agreement with Triumph Business Capital dated September 11, 2019 (5) 
+ 
+ 10.5 
+ 
+ Employment Agreement of Igor Gabal 
+ 
+ 16.1 
+ 
+ Letter from L J Soldinger Associates, LLC (6) 
+ 
+ 31.1 
+ 
+ Rule 13a-14(a) Certification of Igor Gabal 
+ 
+ 32.1 
+ 
+ Certification of Igor Gabal Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ 101 
+ 
+ Financial
+ statements from the Annual Report on Form 10-K of Veroni Brands Corp. for the fiscal year ended December 31, 2020, formatted in XBRL:
+ (i) the Balance Sheets; (ii) the Statements of Operations; (iii) the Statements of Stockholders Deficit; (iv) the Statements
+ of Cash Flows; and (v) the Notes to Financial Statements. 
+
+(1) 
+ Filed
+ as an exhibit to the registration statement on Form 10, filed January 18, 2017, file number 000-55735. 
+
+(2) 
+ Filed
+ as an exhibit to the Current Report on Form 8-K dated November 22, 2017, filed November 30, 2017. 
+
+(3) 
+ Filed
+ as an exhibit to the Current Report on Form 8-K dated February 2, 2018, filed February 2, 2018. 
+
+(4) 
+ Filed
+ as an exhibit to the Annual Report on Form 10-K for the fiscal year ended December 31, 2018, filed April 16, 2019. 
+
+(5) 
+ Filed
+ as an exhibit to the Quarterly Report on Form 10-Q for the quarter ended September 30, 2019, filed November 14, 2019. 
+
+(6) 
+ Filed
+ as an exhibit to the Current Report on Form 8-K dated January 18, 2021, filed January 27, 2021. 
+
+In
+accordance with Rule 406T of Regulation S-T, the information in these exhibits shall not be deemed to be filed for purposes
+of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to liability under that section, and shall not
+be incorporated by reference into any registration statement or other document filed under the Securities Act of 1933, as amended, except
+as expressly set forth by specific reference in such filing. 
+
+Item
+ 16. 
+ Form
+ 10-K Summary. 
+
+None. 
+
+21 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+VERONI
+ BRANDS CORP. 
+
+Dated:
+ October 8, 2021 
+ By: 
+ /s/
+ Igor Gabal 
+
+Igor
+ Gabal, President 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+Company and in the capacities and on the dates indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/
+ Igor Gabal 
+ 
+ Principal
+ Executive, Financial and Accounting Officer and Director 
+ 
+ October
+ 8, 2021 
+ 
+ Igor
+ Gabal 
+
+22 
+
+<EX-10.5>
+ 3
+ ex10-5.htm
+
+Exhibit 10.5 
+
+</EX-10.5>
+
+<EX-31.1>
+ 4
+ ex31-1.htm
+
+Exhibit
+31.1 
+
+RULE
+13a-14(a) CERTIFICATION 
+
+I,
+Igor Gabal, certify that: 
+
+1. 
+ I
+ have reviewed this annual report on Form 10-K of Veroni Brands Corp.; 
+
+2. 
+ Based
+ on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+ respects the financial condition, results of operations and cash flows of the Company as of, and for, the periods presented in this
+ report; 
+
+4. 
+ As
+ t he registrant s sole certifying officer, I am responsible for establishing and
+ maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over
+ financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Company and have: 
+
+a) 
+ designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to
+ ensure that material information relating to the Company is made known to me by others within those entities, particularly during
+ the period in which this report is being prepared; 
+
+b) 
+ designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under my
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ evaluated
+ the effectiveness of the Company s disclosure controls and procedures and presented in this report my conclusions about the
+ effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d) 
+ disclosed
+ in this report any change in the Company s internal control over financial reporting that occurred during the Company s
+ most recent fiscal quarter (the Company s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the Company s internal control over financial reporting; and 
+
+5. 
+ As
+ t he registrant s sole certifying officer, I have disclosed, based on my most recent
+ evaluation of internal control over financial reporting, to the Company s auditors and the audit committee of the Company s
+ board of directors (or persons performing the equivalent functions): 
+
+a) 
+ all
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the Company s ability to record, process, summarize and report financial information;
+ and 
+
+b) 
+ any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the Company s internal
+ control over financial reporting. 
+
+Date:
+ October 8, 2021 
+
+/s/
+ Igor Gabal 
+
+Igor
+ Gabal 
+
+President
+ and Chief Financial Officer 
+
+</EX-31.1>
+
+<EX-32.1>
+ 5
+ ex32-1.htm
+
+Exhibit
+32.1 
+
+CERTIFICATION
+PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Annual Report of Veroni Brands Corp. (the Company on Form 10-K for the year ended December 31, 2020,
+as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Igor Gabal, principal executive
+officer and principal financial officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ The
+ Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The
+ information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+ of the Company. 
+
+Date:
+ October 8, 2021 
+
+/s/
+ Igor Gabal 
+
+Igor
+ Gabal 
+
+President
+ and Chief Financial Officer 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 10
+ voni-20201231.xml
+ INLINE XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 11
+ voni-20201231.xsd
+ INLINE XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 12
+ voni-20201231_cal.xml
+ INLINE XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 13
+ voni-20201231_def.xml
+ INLINE XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 14
+ voni-20201231_lab.xml
+ INLINE XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 15
+ voni-20201231_pre.xml
+ INLINE XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

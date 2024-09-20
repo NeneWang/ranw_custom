@@ -1,0 +1,4392 @@
+<Header>
+<FileStats>
+    <FileName>20211013_10-K_edgar_data_1006840_0001553350-21-000905.txt</FileName>
+    <GrossFileSize>3603010</GrossFileSize>
+    <NetFileSize>168751</NetFileSize>
+    <NonText_DocumentType_Chars>326931</NonText_DocumentType_Chars>
+    <HTML_Chars>998082</HTML_Chars>
+    <XBRL_Chars>1044404</XBRL_Chars>
+    <XML_Chars>944628</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001553350-21-000905.hdr.sgml : 20211013
+<ACCEPTANCE-DATETIME>20211013134945
+ACCESSION NUMBER:		0001553350-21-000905
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		79
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20211013
+DATE AS OF CHANGE:		20211013
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cang Bao Tian Xia International Art Trade Center, Inc.
+		CENTRAL INDEX KEY:			0001006840
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-MOTOR VEHICLES & MOTOR VEHICLE PARTS & SUPPLIES [5010]
+		IRS NUMBER:				470925451
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-31091
+		FILM NUMBER:		211320877
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5-1-1206 HEFENG JIANGAN, NIANQING RD.
+		STREET 2:		MEILAN DISTRICT, HAIKOU
+		CITY:			HAINAN PROVINCE
+		STATE:			F4
+		ZIP:			570203
+		BUSINESS PHONE:		86-898-66186181
+
+	MAIL ADDRESS:	
+		STREET 1:		5-1-1206 HEFENG JIANGAN, NIANQING RD.
+		STREET 2:		MEILAN DISTRICT, HAIKOU
+		CITY:			HAINAN PROVINCE
+		STATE:			F4
+		ZIP:			570203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Zhongchai Machinery, Inc.
+		DATE OF NAME CHANGE:	20101015
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EQUICAP INC
+		DATE OF NAME CHANGE:	20000717
+
+</SEC-Header>
+</Header>
+
+ 0001553350-21-000905.txt : 20211013
+
+10-K
+ 1
+ cbao.htm
+ ANNUAL REPORT
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ WASHINGTON,
+DC 20549 
+
+FORM
+10-K 
+
+ANNUAL REPORT PURSUANT TO SECTION
+ 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the year ended June 30, 2021 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+ OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from __________ to
+ __________ 
+
+Commission
+file number: 000-31091 
+
+CANG
+BAO TIAN XIA INTERNATIONAL ART TRADE CENTER, INC. 
+
+ (Exact
+name of registrant as specified in its charter) 
+
+Nevada 
+ 47-0925451 
+ 
+ (State or other jurisdiction
+ of 
+ (I.R.S. Employer 
+ 
+ incorporation or organization) 
+ Identification No.) 
+
+Unit
+609, Shengda Plaza, No. 61 Guoxing Ave., Meilan District, Hainan Province, China 570203 
+
+ (Address
+of principal executive offices, Zip Code) 
+
+Registrant's
+telephone number, including area code: 86-898-66186181 
+
+Securities
+registered pursuant to Section 12(b) of the Act: None. 
+
+Title
+ of each class 
+ Trading
+ Symbol(s) 
+ Name
+ of each exchange on which registered 
+
+Securities
+registered pursuant to Section 12(g) of the Act: Common
+Stock, 0.001 par value. 
+
+Indicate
+by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). Yes No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer smaller
+reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated
+ filer 
+ 
+ Accelerated
+ filer 
+
+Non-accelerated filer 
+ 
+ Smaller reporting company 
+
+Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+The
+aggregate market value of the voting and non-voting common equity held by non-af liates computed by reference to the price at which
+the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s
+most recently completed second fiscal quarter, was 50,448,375. 
+
+The
+number of shares of registrant s common stock outstanding as of October 13, 2021 was 110,319,245. 
+
+FORM
+10-K 
+
+ CANG
+BAO TIAN XIA INTERNATIONAL ART TRADE CENTER, INC. 
+
+June
+30, 2021 
+
+TABLE
+OF CONTENTS 
+
+PART I 
+
+Item 1. 
+ Business . 
+ 1 
+ 
+ Item 1A. 
+ Risk Factors. 
+ 11 
+ 
+ Item 1B. 
+ Unresolved Staff Comments. 
+ 11 
+ 
+ Item 2. 
+ Properties. 
+ 11 
+ 
+ Item 3. 
+ Legal Proceedings. 
+ 11 
+ 
+ Item 4. 
+ Mine Safety Disclosures. 
+ 11 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 12 
+ 
+ Item 6. 
+ Selected Financial Data. 
+ 13 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ 13 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk. 
+ 15 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data. 
+ 15 
+ 
+ Item 9. 
+ Changes in and Disagreements With Accountants on Accounting and Financial Disclosure. 
+ 16 
+ 
+ Item 9A. 
+ Controls and Procedures. 
+ 16 
+ 
+ Item 9B. 
+ Other Information. 
+ 17 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance. 
+ 18 
+ 
+ Item 11. 
+ Executive Compensation. 
+ 18 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ 19 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence. 
+ 19 
+ 
+ Item 14. 
+ Principal Accounting Fees and Services. 
+ 20 
+
+PART IV 
+
+Item 15. 
+ Exhibits, Financial Statement Schedules. 
+ 21 
+ 
+ Item 16. 
+ Form 10-K Summary. 
+ 21 
+
+i 
+
+FORWARD
+LOOKING STATEMENTS 
+
+Some
+discussions in this Annual Report on Form 10-K contain forward-looking statements that have been made pursuant to the provisions of the
+Private Securities Litigation Reform Act of 1995. These statements involve risks and uncertainties and relate to future events or future
+financial performance. A number of important factors could cause our actual results to differ materially from those expressed in any
+forward-looking statements made by us in this Form 10-K. Forward-looking statements are often identified by words such as believe, 
+ expect, estimate, anticipate, intend, project, plans, 
+ seek and similar expressions or words which, by their nature, refer to future events. In some cases, you can also identify
+forward-looking statements by terminology such as may, will, should, plans, predicts, 
+ potential or continue or the negative of these terms or other comparable terminology. 
+
+These
+forward-looking statements are only predictions and involve known and unknown risks, uncertainties and other factors, which may cause
+our or our industry s actual results, levels of activity, performance or achievements to be materially different from any future
+results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. In addition, you are
+directed to factors discussed in the Management s Discussion and Analysis of Financial Condition and Results of Operations 
+section as well as those discussed elsewhere in this Form 10-K. 
+
+Although
+we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels
+of activity or achievements. Except as required by applicable law, including the securities laws of the United States, we do not intend
+to update any of the forward-looking statements to conform these statements to actual results. However, readers should carefully review
+the reports and documents the Company files from time to time with the Securities and Exchange Commission (the SEC ), particularly
+the Company s Quarterly Reports on Form 10-Q and any Current Reports on Form 8-K. All written and oral forward-looking statements
+made subsequent to the date of this report and attributable to us or persons acting on our behalf are expressly qualified in their entirety
+by this section. 
+
+As
+used in this Form 10-K, we, us, and our refer to Cang Bao Tian Xia International Art Trade
+Center, Inc., which is also sometimes referred to as the Company. 
+
+YOU
+SHOULD NOT PLACE UNDUE RELIANCE ON THESE FORWARD-LOOKING STATEMENTS 
+
+The
+forward-looking statements made in this report on Form 10-K relate only to events or information as of the date on which the statements
+are made in this report on Form 10-K. Except as required by law, we undertake no obligation to update or revise publicly any forward-looking
+statements, whether as a result of new information, future events, or otherwise, after the date on which the statements are made or to
+reflect the occurrence of unanticipated events. You should read this report and the documents that we reference in this report, including
+documents referenced by incorporation, completely and with the understanding that our actual future results may be materially different
+from what we expect or hope. 
+
+ii 
+
+PART
+I 
+
+ITEM
+1. BUSINESS. 
+
+On
+July 27, 2020 (the Closing Date ), we entered into a Share Exchange Agreement (the Exchange Agreement by
+and among (i) the Company, (ii) Zhi Yuan Limited, a Cayman Islands company Cayman Company ), and (iii) the three beneficial
+shareholders of Cayman Company (each, a Cayman Company Shareholder and collectively, the Cayman Company Shareholders ). 
+
+Pursuant
+to the terms of the Exchange Agreement, the Cayman Company Shareholders agreed to sell to Cang Bao, and Cang Bao agreed to purchase,
+all shares of Cayman Company held by them, which shares represent 100 of the issued and outstanding shares of Cayman Company. In exchange,
+Cang Bao agreed to issue to the Cayman Company Shareholders an aggregate of 75,000,000 shares of Cang Bao common stock, representing
+approximately 67.98 of Cang Bao s total issued and outstanding common stock (the Share Exchange ). 
+
+Our
+directors approved the Exchange Agreement and the transactions contemplated thereby. Simultaneously, the directors of Cayman Company
+also approved the Exchange Agreement and the transactions contemplated thereby. The Share Exchange closed on July 27, 2020. Both Yaqin
+Fu, who is the wife of one of our directors, and Mr. Xingtao Zhou, our President, Chief Executive Officer, Chief Financial Officer, Chairman
+of the Board and principal shareholder, were Cayman Company Shareholders who exchanged their Cayman Company shares for shares of the
+Company. After giving effect to the Share Exchange, Mr. Zhou owns 59,839,271 shares of our common stock, which represents 54.24 of our
+outstanding common stock, and 100 of our issued and outstanding preferred shares. 
+
+As
+a result of the Share Exchange, Cayman Company became our wholly owned subsidiary and we are its public holding company. After giving
+effect to the Share Exchange, the Company acquired 100 of the assets and operations of Cayman Company and its subsidiaries, the business
+and operations of which now constitutes our primary business and operations. After giving effect to the Share Exchange, we own 100 of
+the issued and outstanding shares of capital stock of Cayman Company. Cayman Company is a holding company that owns Cangyun (Hong Kong)
+Limited Hong Kong Company ), which in turn owns and controls Shanghai Cangyun Management Consulting Co., Ltd. Management
+Consulting ), which has entered into contractual agreements to control Hainan Cangbao Tianxia Cultural Relic Co., Ltd. Hainan and Cangbao Tianxia (Shanghai) Cultural Relic Co., Ltd. Tianxia Cultural Relic, and together with Hainan, the Target
+Companies or VIEs ). 
+
+The
+Exchange Agreement contains customary representations, warranties, covenants and conditions for a transaction of this type for the benefit
+of the parties. 
+
+For
+federal income tax purposes, it is intended that the Share Exchange qualify as a reorganization under the provisions of Section 368(a)
+of the Internal Revenue Code of 1986, as amended (the Code ). However, we did not obtain any tax opinion and there can be
+no assurance that our intent that the Share Exchange qualify as a reorganization under the provisions of Section 368(a) of the Code is
+correct. Cayman Company is considered the acquirer for accounting and financial reporting purposes. The assets and liabilities of Cayman
+Company have been brought forward at their book value and no goodwill has been recognized. As a result of the acquisition of all the
+issued and outstanding shares of Cayman Company, we assumed Cayman Company s business operations as our own. 
+
+The
+description of the Exchange Agreement and the transactions contemplated by the Exchange Agreement does not purport to be complete and
+is qualified in its entirety by reference to the full text of the Exchange Agreement filed as Exhibit 2.1 to our Form 8-K filed with
+the Securities and Exchange Commission on July 27, 2020, and incorporated herein by reference. 
+
+Immediately
+prior to the closing of the Share Exchange described above pursuant to which Cayman Company became a wholly owned subsidiary of the Company,
+the Company was a shell company, as such term is defined in Rule 12b-2 under the Securities Exchange Act of 1934, as amended
+(the Exchange Act ). As of July 27, 2020, we were no longer a shell. Item 2.01(f) of Form 8-K states that if the registrant
+was a shell company, such as the Company was immediately before the Share Exchange, then the registrant must disclose on
+a Current Report on Form 8-K the information that would be required if the registrant were filing a general form for registration of
+securities on Form 10. Accordingly, this Current Report on Form 8-K includes all of the information that would be included in a Form
+10. 
+
+1 
+
+The
+Share Exchange was accounted as a business combination under common control, in which all of the combining entities or businesses are
+ultimately controlled by the same party or parties, both before and after the business combination, and that control is not transitory.
+The business combination under common control of accounting is based on the historical consolidated financial statements of the Company
+and Cayman Company. In accordance with ASC 805-50-45-5, for transactions between entities under common control, financial statements
+and financial information presented for prior periods have been retroactively adjusted to furnish comparative information. The financial
+statements are presented retrospectively, as though the Share Exchange Agreement between the Company and Cayman Company occurred at the
+beginning of the first period presented. 
+
+Corporate
+History 
+
+Cang
+Bao 
+
+Cang
+Bao was incorporated in the State of Nevada on March 13, 2002, as Equicap, Inc. Equicap ), for the purpose of entering
+into a merger with and re-domiciling its predecessor, Equicap, Inc., a California corporation Equicap California ). Effective
+January 25, 2005, Equicap California was merged with and into Equicap in a statutory merger based on management's belief that Nevada
+law is more advantageous to a corporation than California law. Equicap was considered a blank check company until its March 2007 acquisition
+of Usunco Automotive Limited, a British Virgin Islands company Usunco ). Equicap, Inc. changed its name to Zhongchai Machinery,
+Inc. Zhongchai or the Company on May 21, 2010. 
+
+Zhongchai,
+a Nevada corporation, was a manufacturer and distributor of gears and gearboxes and drive axles that were marketed and sold to equipment
+manufacturers in China. 
+
+On
+July 6, 2007, the Board of Directors of Zhejiang Zhongchai Machinery Co., Ltd. Zhejiang Zhongchai ), the China based and
+75 owned subsidiary of the Company, approved and finalized an Exchange Agreement Exchange Agreement with Xinchang Keyi
+Machinery Co., Ltd., Keyi a corporation incorporated in the People s Republic of China PRC ). Pursuant
+to the Exchange Agreement, Zhejiang Zhongchai purchased all the outstanding equity of Zhejiang Shengte Transmission Co., Ltd. Shengte from Keyi, the sole owner of Shengte, for approximately 3.7 million. 
+
+On
+March 7, 2007, the Company and Usunco Automotive, Ltd. Usunco ), a British Virgin Islands company, entered into an agreement
+(the Usunco Agreement which was consummated on March 9, 2007. Under the terms of the Usunco Agreement, the Company acquired
+all of the outstanding equity securities of Usunco in exchange for 18,323,944 shares of the Company s common stock. 
+
+Because
+the Company had been a public shell company prior to the Usunco Agreement, that share exchange was treated as a recapitalization of the
+Company. As such, the historical financial information prior to that share exchange was that of Usunco and its subsidiaries. Historical
+share amounts were restated to reflect the effect of that share exchange. 
+
+On
+June 18, 2006, Usunco acquired 100 of IBC Automotive Products Inc IBC ), a California Corporation as of May 14, 2004 (date
+of inception), through the issuance of 28 of Usunco s shares. IBC was considered a predecessor business to Usunco
+as its operations constituted the business activities of Usunco formed to consummate the acquisition of IBC. The consolidated financial
+statements reflected all predecessor statements of income and cash flow activities from the inception of IBC in May 2004. 
+
+On
+June 15, 2009, IBC was sold to certain management persons of IBC in exchange for the following: (i) the cancellation of an aggregate
+of 555,994 shares of common stock of the Company which those individuals owned, and (ii) the payment of 60,000 in installments pursuant
+to the terms of an unsecured promissory note, the final payment of which was made on November 15, 2010. As part of the transaction, the
+Company cancelled 428,261 through the closing date, of inter-company debt which funds had been used in the business of IBC prior to
+the transaction. 
+
+On
+September 22, 2009, Xinchang Xian Lisheng Machinery Co., Ltd. Lisheng was incorporated by Zhejiang Zhongchai and two
+individual investors. The total registered capital of Lisheng was RMB 5 million, of which Zhejiang Zhongchai accounted for 60 . The Company
+started production of die casting products in 2010 for use in gearboxes, diesel engines and other machinery products. 
+
+2 
+
+On
+December 16, 2009, Zhongchai Machinery and its wholly owned subsidiaries, Usunco and Zhongchai Holding (Hong Kong) Limited, a Hong Kong
+company Zhongchai Holding ), took action to approve transfer of the shares of Zhejiang Zhongchai Machinery Co., from Usunco
+to Zhongchai Holding. The transfer was completed on December 23, 2009. The purpose of the transfer was to take advantage of the tax treaty
+between the PRC and the Special Administrative Region of Hong Kong which reduces the withholding tax rate of the PRC on payments to entities
+outside of China. Usunco, which no longer had any assets after transferring all of them to Zhongchai Holding, was subsequently dissolved.
+The consolidated financial statements accounted for Zhejiang Zhongchai Machinery Co., in the same manner as before the transfer of the
+ownership. Shareholder approval by the shareholders of Zhongchai Machinery was not required under Nevada law, as there was no sale of
+all or substantially all the assets of the Company. The shareholder ownership and shareholder rights of Zhongchai Machinery remained
+the same as before the transaction. 
+
+On
+April 26, 2010, Zhongchai Holding (Hong Kong) Limited. Zhongchai Holding ), which owned 75 of the equity in Zhejiang Zhongchai
+Machinery Co., Ltd. Zhejiang Zhongchai ), executed an agreement (the Zhejiang Agreement with Xinchang Keyi
+Machinery Co., Ltd., Keyi a corporation incorporated in the PRC. Pursuant to the Zhegiang Agreement, Zhongchai Holding
+purchased the residual 25 equity of Zhejiang Zhongchai Machinery Co., Ltd. Zhejiang Zhongchai from Keyi, for 2.6 million.
+The Zhegiang Agreement was approved by the local government agency and a new business license was issued as a Wholly Foreign Owned Enterprise. 
+
+On
+July 26, 2011, the Company held a Special Meeting of Shareholders. At the Special Meeting, the Company s shareholders approved
+the termination the Company s periodic reporting obligations under the Exchange Act, thereby foregoing many of the expenses associates
+with operating as a public company subject to SEC reporting obligations. Three days later, the Company terminated its registration with
+the Securities and Exchange Commission. Following such termination, the Company became dormant. 
+
+On
+July 27, 2011, the Company approved a 1-for-120 reverse stock split of its then outstanding shares of the Company s Common Stock. 
+
+On
+May 11, 2018, the Eighth Judicial District Court of Nevada appointed Custodian Ventures, LLC as custodian for Zhongchai Machinery, Inc.,
+proper notice having been given to the officers and directors of Zhongchai Machinery, Inc. There was no opposition. 
+
+On
+May 16, 2018, the Company filed a Certificate of Revival with the State of Nevada, appointing David Lazar as President, Secretary, Treasurer
+and sole Director. On June 19, 2018, the Company issued 3,096,200 shares of common stock to David Lazar, at par value of 0.001, for
+services valued at 3,096.20, and issued 10,000,000 shares of Series A Preferred Stock to David Lazar, at par value of 0.001, for services
+valued at 4,000,000. 
+
+On
+December 28, 2018, a change of control of the Company took place. Mr. Xingtao Zhou acquired all 10,000,000 shares of Series A Preferred
+Stock previously owned by Mr. Lazar; and Mr. Zhou and Yaqin Fu acquired, respectively, 2,432,351 and 663,849 common shares previously
+owned by Mr. Lazar, who resigned as an officer and director and appointed Mr. Zhou as a director, CEO and CFO, and appointed Ms. Fu s
+husband, Liang Tan, as a director. 
+
+On
+January 8, 2019, by majority consent of its principal shareholders, the Company changed its corporate name in Nevada from Zhongchai Machinery,
+Inc. to Cang Bao Tian Xia International Art Trade Center, Inc., its current name; and shortly thereafter, the Company s trading
+symbol was changed to TXCB. 
+
+3 
+
+At
+the closing of the Share Exchange on July 27, 2020, Cayman Company became our wholly owned subsidiary and we are its public holding company.
+Prior to the Share Exchange, we were a shell, as defined in Rule 12b-2 under the Securities Exchange Act of 1934. We had
+no active business, and virtually no assets. 
+
+After
+giving effect to the Share Exchange, the Company acquired 100 of the assets and operations of Cayman Company and its subsidiaries, the
+business and operations of which now constitute our primary business and operations. After giving effect to the Share Exchange, we own
+100 of the issued and outstanding shares of capital stock of Cayman Company. Cayman Company is a holding company that owns Hong Kong
+Company, which in turn owns and controls Management Consulting, which has entered into contractual agreements to control the Target Companies. 
+
+Cayman
+Company 
+
+Cayman
+Company was incorporated under the laws of Cayman Islands on April 15, 2019 to serve as an investment holding company, and Hong Kong
+was incorporated under the laws of Hong Kong by Cayman Company on May 22, 2019. 
+
+Overview
+of Cayman Company Business 
+
+Any
+references to the Company, we, us, our or words of similar import in this Overview
+of Cayman Company Business section refer to Cayman Company. 
+
+The
+Cang Bao Tian Xia International Art Trade Center (the Center is a cultural service platform dedicated to creating industry
+standards for art investment and creating a model of online art exchanges and transactions, which allows collectors, artists, art dealers
+and owners to access a much larger art trading market, allowing them to engage with a wide range of collectibles or artwork investors.
+The online platform enables our customers to buy, sell, store and invest in various artworks, mostly antiques and some modern paintings.
+The words Cang Bao Tian Xia in our corporate name mean Treasure World in English. 
+
+We
+currently facilitate trading by individual customers of all kinds of collectibles, artworks and commodities on our online platforms,
+which are owned by the Center. We commenced our operations in March 2019, and our customer trading volume was growing rapidly until the
+advent of COVID-19. We currently have approximately 1000 customers who regularly visit our website. Currently, Shanghai and Hainan are
+the Center s operating branches. 
+
+We
+provide customers of our online platform with comprehensive services, including account opening, art investment education, market information,
+research, real-time customer support, and artwork warehousing services. Most services are delivered online through our proprietary client
+software and call center. Our client software, which has an app version available for both IOS and Android, provides not only market
+information and analysis, but also interactive functions including live auction house, live discussion boards, live video conference
+room, blogs to post and share artwork and instant messaging with other art collectors and customer service representatives, which we
+believe enhances our customers engagement. 
+
+4 
+
+Corporate
+Structure 
+
+Our
+current corporate structure is set forth below: 
+
+Our
+Strategy 
+
+We
+strive to continue building a collectible and artwork trading platform that is highly trusted by individual customers. To achieve this
+objective, we are implementing the following strategies: 
+
+strengthen our brand and
+ market position; 
+
+introduce new collectibles
+ and artwork products; 
+
+explore mini-account business; 
+
+selectively explore acquisition
+ opportunities; and 
+
+continue to attract, cultivate
+ and retain talent. 
+
+Variable
+Interest Entity Arrangements 
+
+In
+establishing our business, we have used a variable interest entity VIE structure. In the PRC, investment activities by
+foreign investors are principally governed by the Guidance Catalog of Industries for Foreign Investment, which was promulgated and is
+amended from time to time by the PRC Ministry of Commerce MOC ), and the PRC National Development and Reform Commission
+(the NDRC ). In June 2018, the Guidance Catalog of Industries for Foreign Investment was replaced by the Special Administrative
+Measures (Negative List) for Foreign Investment Access (2018 Version) (the Negative List ). The Negative List divides industries
+into two categories: restricted and prohibited. Industries not listed in the Negative List are generally open to foreign investment unless
+specifically restricted by other PRC regulations. Our Company and Management Consulting are considered as foreign investors or foreign
+invested enterprises under PRC law. 
+
+5 
+
+Although
+the business we conduct or will conduct through each VIE is not within the category in which foreign investment is currently restricted
+under the Negative List or other PRC Laws, we expect that in the future, the Target Companies will engage in marketing survey services
+for online marketplaces. Marketing survey services are within the category in which foreign investment is restricted pursuant to the
+Negative List. In addition, we intend to centralize our management and operation in the PRC to avoid being restricted in conducting certain
+business activities which are important for our current or future business but are currently restricted or might be restricted in the
+future. As such, we believe the agreements between Management Consulting and each VIE are necessary and essential for our business operation.
+These contractual arrangements with each VIE and its shareholders enable us to exercise effective control over the VIEs and hence consolidate
+their financial results as our VIE. 
+
+In
+our case, Management Consulting effectively assumed management of the business activities of each our VIEs through a series of agreements
+which are referred to as the VIE Agreements. The VIE Agreements are comprised of a series of agreements, including the Management Consultation
+Service Agreement, dated August 8, 2019, by and among Management Consulting, the VIEs and the three Cayman Company Shareholders, (the
+ Management Agreement ), the Equity Pledge Agreement, dated August 8, 2019, by and among Management Consulting, the Target
+Companies and the three Cayman Company Shareholders (the Pledge Agreement ), the Call Option Agreement, dated August 8,
+2019, by and among Management Consulting, the Target Companies and the three Cayman Company Shareholders (the Option Agreement and the Proxy Agreement , dated August 8, 2019, by and among Management Company, the Target Companies and the three Cayman Company Shareholders,
+(the Proxy Agreement ). Through the VIE Agreements, Management Consulting has the right to advise, consult, manage and operate
+the VIEs for an annual consulting service fee in the amount of 100 of the VIEs net profit. The shareholders of the VIEs have
+pledged all of their right, title and equity interest in the VIEs as security for Management Consulting to collect consulting services
+fees provided to the VIEs through the Pledge Agreement. In order to further reinforce Management Consulting s right to control
+and operate the VIEs, the VIEs shareholders have granted Management Consulting an exclusive right and option to acquire all of
+their equity interests in the VIE through the Pledge Agreement. 
+
+Management
+Consulting has entered into a series of VIE agreements with the Target Companies shareholders, upon the same material terms as
+described above. The material terms of the VIE Agreements with the Target Companies are as follows: 
+
+Management
+Consultation Service Agreement. Pursuant to the Management Consultation Service Agreement between (a) Management Consulting, and
+(b) Hainan Cangbao Tianxia Cultural Relic Co., Ltd. and Cangbao Tianxia (Shanghai) Cultural Relic Co. (the Target Companies 
+or VIEs ), dated August 8, 2019, Management Consulting has the exclusive right to provide consultation and services to the
+Target Companies in the areas of funding, human resources, technology and intellectual property rights. For such services, the Target
+Companies have agreed to pay service fees in the amount of 100 of their net income, and also have the obligation to absorb 100 of their
+own losses. Management Consulting exclusively owns any intellectual property rights arising from the performance of this Management Consultation
+Service Agreement. The Management Consultation Service Agreement terminates at the same time as the Equity Pledge Agreement, described
+in the next paragraph. 
+
+Equity
+Pledge Agreement . Pursuant to the Equity Pledge Agreement dated August 8, 2019, among Management Consulting, the Target Companies,
+the Target Companies shareholders, who are our CEO Mr. Zhou, Yaqin Fu (the wife of Liang Tan, a director of the Company), and
+Wei Wang (also, the Pledgors ), each of three persons pledged all of their equity interests in the Target Companies to Management
+Consulting to guarantee the Target Companies performance of relevant obligations and indebtedness under the Management Consultation
+Service Agreement and the other control agreements (collectively, the Control Agreements ). If the Pledgors breach their
+obligations under the Control Agreements, Management Consulting, as pledgee, will be entitled to certain rights, including the right
+to dispose of the pledged equity interests in order to recover the damages associated with such breaches. The Pledgors obligations
+shall be continuously valid until all of the Pledgors are no longer shareholders of the Target Companies, or until the satisfaction of
+all of the Pledgors obligations under the Control Agreements. 
+
+Call
+Option Agreement. Pursuant to the Call Option Agreement among Management Consulting, the Target Companies and the Pledgors, dated
+August 8, 2019, Management Consulting has the exclusive right to require that the Pledgors fulfill and complete all approval and registration
+procedures required under PRC laws for Management Consulting to purchase, or designate one or more persons to purchase, such shareholders 
+equity interests in the Target Companies , in one or multiple transactions, at any time or from time to time, at Management Consulting s
+sole and absolute discretion. The purchase price shall be the lowest price allowed by PRC laws. The Equity Option Agreements shall remain
+effective until all the equity interests in the Target Companies owned by the Pledgors have been legally transferred to Management Consulting
+or its designee(s). 
+
+6 
+
+Proxy
+Agreement. Pursuant to the Proxy Agreement among Management Consulting, the Pledgors and the Target Companies, dated August 8, 2019,
+the Pledgors irrevocably appointed Management Consulting or Management Consulting s designee to exercise all of their rights as
+a shareholder of the Target Companies, including but not limited to the power to exercise all such shareholder s voting rights
+with respect to all matters to be discussed and voted in shareholder meetings of the Target Companies. The Proxy Agreement remains effective
+until all equity interests in the Target Companies owned by the Pledgors have been legally transferred to Management Consulting or its
+designee(s). 
+
+Business
+Model 
+
+Operation
+Description 
+
+ . 
+
+ The
+operation team defined the unique operation mode of 3+1 of Cangbao Tian Xia as the core orientation of the project. The closed
+loop of project operation was achieved through interlocking organic logic, and the revenue generation prospect of the project is being
+realized through the close combination of financial means and member ports. Since its inception, Cang Bao Tian Xia has developed from
+a single offline product line to rapidly growing product diversification in multiple regions in mainland China. The Treasure World-created
+online App is geared to the needs of the market, as a new window to be multiplied by the rapid development of Internet and the Internet
+of things change, to the developing trend of our brand platform, thus effectively expanding the flow ports and enhancing the capacity
+of solid flow, i.e., the flow member , collection flow and capital flow. At the same time, with the
+help of cooperative insurance guarantee social credibility behind the brand influence, our professional appraisal team identifies trading
+opportunities, eventually to form an objects, people, gold ideal situation of the inner loop. 
+
+We
+believe that the characteristics and style of the Chinese consumer market will directly determine the treasure of the Treasure
+World, and will create the financial services needed to get the full extent of the consumer market acceptance and highest market sense
+of affinity, loan products and financial services within the Chinese consumer market demand in the global consumer market. 
+
+Becoming
+a member of the Treasure World is a very low threshold for consumer groups in the market to access the Treasure Circle. We believe that
+the lowering of entry standards will not have an impact on industry or brand endorsements, and instead, it will introduce our Company
+as the most professional collection appraisal agency providing appraisal services for collections on the platform and world-class insurance
+companies providing high-quality assessment guarantees for collections and transactions on the platform. Therefore, with the people-friendly
+standards of the Treasure World, stronger brand endorsements and market recognition and satisfaction will grow. And at the same time,
+with our appraisals, transactions and other links performed inside our brand platform, our membership will continue to grow and reflect
+the significance of the Treasure World. 
+
+7 
+
+We
+believe that the advantages of membership creation are reflected in several aspects: 
+
+First,
+ the new online app and offline access port makes it easier for unfamiliar persons in the
+ market to become members, and the simple and convenient operation process enhances the members'
+ experience and identity multiples. 
+
+Second,
+ with the credibility of world-class insurance brands behind the Treasure World, the pure
+ collection appraisal trading platform service will become a world-class professional collection
+ comprehensive ecosystem. Through professional guarantees, any member, any collection and
+ any transaction can be carried out in a safe, just and strong environment, increase membership,
+ collections and capital market behavior from hierarchy to another level, to enhance the experience
+ and guarantee protection. 
+
+Third,
+ members can make financial investments in any collection in the platform built by the brand,
+ avoiding the situation of collection value-added income that can only be achieved by owning
+ a collection independently. Membership broadens the traditional restrictions of the industry,
+ and allow any member to effectively invest in any collection in which the member is interested,
+ and receive the corresponding benefits brought by the increase in the value of the collection
+ in the market; 
+
+Fourth,
+ transactions of all collections in which all members of the brand platform to
+ which they belong will be conducted under the effective supervision of the platform,
+ which enhances the protection of member transactions, and at the same time, carries out effective
+ regular flow of capital within the platform. The effective flow of collections under the
+ platform can bring non-member consumer groups in the market organically into the platform,
+ and thus become effective registered members of the platform. At the same time, members in
+ the platform display their collections to the platform, thereby forming the mutual promotional
+ effect of members pulling new collections, collections carrying new members positively
+ guiding the organic cycle. 
+
+Fifth,
+ the effective expansion of new members will be guided by the platform's active policy during
+ the operation of the platform, encouraging new members to actively join, thus rapidly growing
+ and changing the platform as currently established. The platform's evaluation of the number
+ of final members is unpredictable, because the openness of the platform will determine that
+ the port to enter the platform is infinite, because the professionalism of the platform will
+ determine that the endorsement of the platform will occupy the mainstream position in the
+ market, and because the circulation of the platform will determine that the amount of resources
+ lost by the platform will be minimal. Therefore, in terms of the acquisition of new members
+ and the reciprocating operation of various links within the platform, we believe that the
+ operation mechanism of Booty World will make it a leading brand in the global consumer market.
+
+Professional
+Appraisal 
+
+Behind
+the brand, there are national and internationally recognized professional appraisal experts to ensure that each piece of collection is
+well-documented and real, after passing the treasure appraisal, and are responsible for each piece of art collection. 
+
+Professional
+Team 
+
+Treasure
+World has what it believes is a very professional appraisal team. We have retained domestic and international talents in the process
+of forming the team, so that Treasure World is filled with world-class talents in all fields and positions. In terms of warehousing and
+storage, financial services, operation planning, cross-industry cooperation, etc., high-quality talents have formed an
+outstanding team. In 2018, the Treasure World section of the treasure track recorded by Treasure World began broadcasting
+on 9 Chinese TV stations across the country, premiering on Saturdays throughout the year and rebroadcasting on Sundays, 
+
+In
+2019, Treasure World launched this section on television stations in various provinces across the country to better serve global collectors. 
+
+8 
+
+The
+industry's first to adopt VR 2.0 technology, 360 + 720 display collections, global collections online touch 
+collection textures, effectively captures the eyes of global collection experts, collection enthusiasts and outsiders, through offline
+
+promotion. This unique model for the industry has effectively reduced the industry threshold for the collection industry. At the same
+time, we use VR 2.0 technology to achieve part of the transparency of the collection information. The most professional technology products
+of the society at this stage are used in the Treasure World industry. Psychology collects a large number of new treasure enthusiasts
+and effectively increases market share. 
+
+Profit
+ M odel 
+
+Our
+member system is an exclusive online service system created by Treasure World, which responds to the original intention of Treasure World:
+standardizing the transactions of the collection industry and providing professional art consulting services for collectors. In order
+to meet the needs of different collectors, Treasure World has comprehensively upgraded its service package system to provide personalized
+ collection- certification-marketing services. 
+
+A. Profit
+ model: service package 
+
+ Including
+the business of appraisal of treasures, consignment of APPs, etc., the situation of packaging services with different types of services,
+civilianization of profit points, allowing more people outside the industry to understand and use treasures through the new service model; 
+
+B. Profit
+ model: collection and storage 
+
+ The
+Company s professional storage and custody service allows those who have treasures in their homes, but are limited by venues and
+conditions, to accept their collections into one of the world's most professional collection
+management systems, lowering the threshold and making them available to everyone; 
+
+C. Profit
+ model: Treasure consignment 
+
+ Our
+Professional appraisal team, professional output resources, etc., enables each piece of collection to be commissioned on the safest,
+most professional and authoritative platform for agency storage and evaluation transactions; 
+
+D. Profit
+ model: financial loan. 
+
+ Our
+authoritative guarantee group and professional financial team can maximize the commercial value of the user's collections within a reasonable
+range, but also connect users with high-quality financial solutions, thus generating the highest quality services will generate maximum
+commercial value; 
+
+E. Profit
+ model: underwriting agreement 
+
+ We
+provide an integrated service, from the examination of a person s collection to the
+docking transaction, and a transaction guarantee after the transaction is completed, to achieve an excellent service experience without
+worry; 
+
+F. Profit
+ model: All-in-one advertising 
+
+ Our
+market resources organically and effectively dock the most cutting-edge market promotion platforms, to maximize market promotion and
+the most innovative publicity ports. We believe that consumers in the hunting market find
+us to be an excellent publicity and promotional resource. 
+
+G. Profit
+ model: VR Museum 
+
+ Our
+offline VR (virtual reality) museum uses high-tech cutting-edge technology to lead consumer groups outside the industry to understand
+the collection industry in depth and expand the channels for consumer sources. 
+
+Employees 
+
+We
+currently employ 33 employees, consisting of 22 who are employed by Hainan and 11 of whom are employed by Shanghai Cangbao. Eight of
+the 33 employees at the two locations are management personnel; 11 are employed by the Company s marketing department, who are
+responsible for developing new customers and maintaining existing customers; and 14 are support and administrative staff. 
+
+9 
+
+Competition
+
+The
+art e-commerce market is highly competitive and many traditional art galleries and auction houses may provide a platform for artwork
+owners to sell their collections. However, we believe that their trading model is substantially different from ours. As of August 31,
+2020, we believe that there were at least five active art e-commerce platforms operating nationwide in China. These trading service providers
+compete with each other for customers and trading volume based on factors including brand, technology, research and customer services. 
+
+Although
+some of our competitors have greater financial resources or larger customer bases than we do, we believe that our proprietary technology
+platform, our comprehensive customer services and strong brand recognition in the industry will enable us to compete effectively in the
+fast evolving art e-commerce trading industry in the PRC. 
+
+Government
+Regulation 
+
+All
+of our operations are located in China. Accordingly, our business, prospects, financial condition and results of operations are influenced
+to a significant degree by political, economic and social conditions in China generally and by continued economic growth in China as
+a whole, as to which there can be no assurance. 
+
+Intellectual
+Property 
+
+The
+Company owns the intellectual property of an APP and a customized tablet, which enable our customers to communicate and list artworks
+to trade, as well as to facilitate membership enrollment and artworks trade. The Company also owns the domain name of www.txcb.com. 
+
+Research
+and Development 
+
+In
+the fiscal year ended June 30, 2021, we spent 0 on research and development of our APP and tablet. Our APP was launched on January
+3, 2020, and was purchased from a third party, after research and development had been completed. The third party also provides ongoing
+technical support and maintenance services. 
+
+Marketing
+Strategy 
+
+Our
+ability to establish effective marketing campaigns is the key to our success. Our advertisements promote our corporate image and our
+services. We believe that effectively developing and maintaining awareness of our brand is critical to attracting new and retaining existing
+clients. Successful promotion of our brand and our ability to attract quality clients depends largely on the effectiveness of our marketing
+efforts and the success of the channels we use to promote our services. 
+
+Corporate
+Information 
+
+Our
+principal executive offices are located at Unit 609, Shengda Plaza, No. 61, Guoxing Ave. Meilan District, Hainan Province, China 570203. 
+
+Our
+telephone number at this address is (86) 898 66186181. Our registered office in the Cayman Islands is located at Sertus Chambers, Governors
+Square, Suite# 5-204,23 Lime Tree Bay Avenue, P.O. Box 2547, Grand Cayman, KY1-1104, Cayman Island. Investors should contact us for any
+inquiries through the address and telephone number of our principal executive offices. 
+
+Our
+website is www.txcb.com. The information contained on, or that can be accessed through, our website is not a part of, and shall not be
+deemed incorporated into, this Annual Report on Form 10-K. 
+
+10 
+
+Reports
+to Security Holders 
+
+We
+intend to furnish our shareholders annual reports containing financial statements audited by our independent registered public accounting
+firm and to make available quarterly reports containing unaudited financial statements for each of the first three quarters of each year.
+We file Quarterly Reports on Form 10-Q, Annual Reports on Form 10-K and Current Reports on Form 8-K with the SEC in order to meet our
+timely and continuous disclosure requirements. We may also file additional documents with the SEC if they become necessary in the course
+of our Company s operations. 
+
+The
+public may read and copy any materials that we file with the SEC at the SEC's Public Reference Room at 100 F Street, NE, Washington,
+D.C. 20549. The public may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The
+SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that
+file electronically with the SEC. The address of that site is www.sec.gov. 
+
+ITEM
+1A. RISK FACTORS. 
+
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information
+under this item. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS. 
+
+None. 
+
+ITEM
+2. PROPERTIES. 
+
+Prior
+to the Share Exchange, the Company s headquarters were located at 5-1-1206 Hefeng Jiangan, Nianqing Rd. Meilan District, Hainan
+Province, China 570203. Since the Share Exchange, the Company no longer uses the foregoing property. 
+
+Effective
+as of the closing of the Share Exchange, the Company s principal office is located at Unit 609, Shengda Plaza, No. 61, Guoxing
+Ave. Meilan District, Hainan Province, China 570203. We rent 2,100 square feet of office space at that location from an unaffiliated
+landlord. Our lease expires on December 31, 2021; annual rent is 40,000. We also rent an office, which is approximately 1,700 square
+feet, in Shanghai from an unaffiliated landlord; the annual rent is 34,600 and the lease expires on July 15, 2022. 
+
+In
+addition, we rent space in Shanghai and Chengdu as storage spaces to display our artworks. Our storage space in Shanghai, which is located
+in the historic town of Zhu Jia Jiao, is approximately 4,300 square feet. Because that space is used as a nonprofit museum, we are able
+to lease the space from the local township at no cost; that lease expires on December 31, 2021. Our VR museum, which is approximately
+7,500 square feet, is located in Chengdu, and is leased from an unaffiliated landlord; the lease expires on March 13, 2022, and annual
+rent is 336,000. 
+
+ITEM
+3. LEGAL PROCEEDINGS. 
+
+None. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES. 
+
+Not
+applicable. 
+
+11 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+
+Market
+Information 
+
+Our
+trading symbol on OTC Markets is TXCB. However, there is no established public trading market for our securities and a regular trading
+market may not develop, or if developed, may not be sustained. A stockholder in all likelihood, therefore, will not be able to resell
+his or her securities should he or he desire to do so when eligible for public resale. Furthermore, it is unlikely that a lending institution
+will accept our securities as pledged collateral for loans unless a regular trading market develops. We have no plans, proposals, arrangements,
+or understandings with any person with regard to the development of a trading market in any of our securities. 
+
+Penny
+Stock Considerations 
+
+Our
+shares likely will be penny stocks as that term is generally defined in the Exchange Act and the rules and regulations
+promulgated thereunder to mean equity securities with a price of less than 5.00. Our shares thus will be subject to rules that impose
+sales practice and disclosure requirements on broker-dealers who engage in certain transactions involving a penny stock. 
+
+Under
+the penny stock regulations, a broker-dealer selling a penny stock to anyone other than an established customer or accredited investor
+must make a special suitability determination regarding the purchaser and must receive the purchaser s written consent to the transaction
+prior to the sale. Generally, an individual with a net worth in excess of 1,000,000 (not including the principal residence) or annual
+income exceeding 200,000 individually or 300,000 together with his or her spouse is considered an accredited investor. In addition,
+under the penny stock regulations the broker-dealer is required to: 
+
+Deliver, prior
+ to any transaction involving a penny stock, a disclosure schedule prepared by the SEC relating to the penny stock market, unless
+ the broker-dealer or the transaction is otherwise exempt; 
+
+Disclose commissions payable
+ to the broker-dealer and our registered representatives and current bid and offer quotations for the securities; 
+
+Send monthly statements
+ disclosing recent price information pertaining to the penny stock held in a customer s account, the account s value and
+ information regarding the limited market in penny stocks; and 
+
+Make a special written
+ determination that the penny stock is a suitable investment for the purchaser and receive the purchaser s written agreement
+ to the transaction, prior to conducting any penny stock transaction in the customer s account. 
+
+Because
+of these regulations, broker-dealers may encounter difficulties in their attempt to sell shares of our Common Stock, which may affect
+the ability of stockholders to sell their shares in the secondary market and have the effect of reducing the level of trading activity
+in the secondary market. These additional sales practice and disclosure requirements could impede the sale of our securities.. In addition,
+the liquidity for our securities may be decreased, with a corresponding decrease in the price of our securities. Our shares in all probability
+will be subject to such penny stock rules and our stockholders will, in all likelihood, find it difficult to sell their securities. 
+
+Stockholders 
+
+As
+of the date of this Annual Report, we had 151 holders of record of our Common Stock. 
+
+12 
+
+Dividends 
+
+We
+have not declared any cash dividends on our Common Stock since our inception and do not anticipate paying such dividends in the foreseeable
+future. Any decisions as to future payments of dividends will depend on our earnings and financial position and such other facts, as
+the Board of Directors deems relevant. 
+
+ITEM
+6. SELECTED FINANCIAL DATA. 
+
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information
+under this item. 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+
+This
+discussion summarizes the significant factors affecting the operating results, financial condition, liquidity and cash flows of the Company
+for the fiscal years ended June 30, 2021 and 2020. The discussion and analysis that follows should be read together with our financial
+statements and the notes to the financial statements included elsewhere in this Annual Report on Form 10-K. Except for historical information,
+the matters discussed in this section are forward looking statements that involve risks and uncertainties and are based upon judgments
+concerning various factors that are beyond the Company s control. Consequently, and because forward-looking statements are inherently
+subject to risks and uncertainties, the actual results and outcomes may differ materially from the results and outcomes discussed in
+the forward-looking statements. You are urged to carefully review and consider the various disclosures made by us in this report. 
+
+Business
+Development 
+
+On
+July 27, 2020 (the Closing Date ), we entered into a Share Exchange Agreement (the Exchange Agreement by
+and among (i) the Company, (ii) Zhi Yuan Limited, a Cayman Islands company Cayman Company ), and (iii) the three beneficial
+shareholders of Cayman Company (each, a Cayman Company Shareholder and collectively, the Cayman Company Shareholders ).
+Pursuant to the Exchange Agreement, we issued to the Cayman Company Shareholders an aggregate of 75,000,000 shares of Cang Bao common
+stock, representing approximately 67.98 of Cang Bao s total issued and outstanding common stock (the Share Exchange ). 
+
+As
+a result of the Share Exchange, Cayman Company became our wholly owned subsidiary and we are its public holding company. After giving
+effect to the Share Exchange, the Company acquired 100 of the assets and operations of Cayman Company and its subsidiaries, the business
+and operations of which now constitutes our primary business and operations. After giving effect to the Share Exchange, we own 100 of
+the issued and outstanding shares of capital stock of Cayman Company. Cayman Company is a holding company that owns Cangyun (Hong Kong)
+Limited Hong Kong Company ), which in turn owns and controls Shanghai Cangyun Management Consulting Co., Ltd. Management
+Consulting ), which has entered into contractual agreements to control Hainan Cangbao Tianxia Cultural Relic Co., Ltd. Hainan and Cangbao Tianxia (Shanghai) Cultural Relic Co., Ltd. Tianxia Cultural Relic, and together with Hainan, the Target
+Companies or VIEs ). 
+
+The
+Company now operates an online and offline cultural exchange service platform, through which we are dedicated to create industry standards
+for art investment and to create a model of online art exchanges and transactions, which allows collectors, artists, art dealers and
+owners to access a much larger art trading market, allowing them to engage with a wide range of collectibles or artwork investors. 
+
+Cang
+Bao Tian Xia International Art Trade Center, Inc. has administrative offices located at Unit 609, Shengda Plaza, No. 61, Guoxing Ave.
+Meilan District, Hainan Province, China 570203. 
+
+The
+Company s fiscal year end is June 30. 
+
+13 
+
+Critical
+accounting policies and estimates 
+
+Our
+condensed consolidated financial statements are prepared in accordance with GAAP. The preparation of these financial statements requires
+us to make estimates and judgments that affect the reported amounts of assets and liabilities, disclosure of contingent assets and liabilities
+at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. We continually
+evaluate our estimates and judgments, our commitments to strategic alliance partners and the timing of the achievement of collaboration
+milestones. We base our estimates and judgments on historical experience and other factors that we believe to be reasonable under the
+circumstances. All estimates, whether or not deemed critical, affect reported amounts of assets, liabilities, revenues and expenses,
+as well as disclosures of contingent assets and liabilities. These estimates and judgments are also based on historical experience and
+other factors that are believed to be reasonable under the circumstances. Materially different results can occur as circumstances change
+and additional information becomes known, even for estimates and judgments that are not deemed critical. 
+
+Going
+Concern 
+
+The accompanying audited consolidated financial statements
+have been prepared assuming that the Company will continue as a going concern; however, the Company has incurred a net loss of 8,445,157
+for the year ended June 30, 2021. As of June 30, 2021, the Company had an accumulated deficit of 33,499,423, working capital deficit
+of 17,113,370. 
+
+The Company plans to continue its expansion and investments,
+which will require continued improvements in revenue, net income, and cash flows. 
+
+Results
+of Operations 
+
+Results
+of Operations for the year ended June 30, 2021 and 2020 
+
+The
+following table sets forth key components of Company s results of operations for the year ended June 30, 2021 and 2020. The discussion
+following the table addresses these results. 
+
+For the year Ended 
+June 30, 
+
+2021 
+
+2020 
+
+Fluctuation 
+
+Net revenues 
+
+1,303,486 
+
+7,153,948 
+
+(5,850,462) 
+
+(81.8) 
+
+Cost of revenues 
+
+1,730,812 
+
+4,005,174 
+
+(2,274,362) 
+
+(56.8) 
+
+Gross margin 
+
+(427,326) 
+
+3,184,774 
+
+(3,576,100) 
+
+(113.6) 
+
+Operating expenses 
+
+7,681,231 
+
+5,039,882 
+
+2,641,349 
+
+52.4 
+
+Loss from operations 
+
+(8,108,557) 
+
+(1,891,108) 
+
+(6,217,449) 
+
+328.8 
+
+Interest income 
+
+7,699 
+
+7,929 
+
+(230) 
+
+(2.9) 
+
+Interest expense 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Other income (expense) 
+
+(342,487) 
+
+(64,139) 
+
+(278,348) 
+
+434.0 
+
+Provision for income taxes expense 
+
+1,812 
+
+12,696 
+
+(10,884) 
+
+85.7 
+
+Net loss 
+
+(8,445,157) 
+
+(1,960,014) 
+
+(6,485,143) 
+
+330.9 
+
+Revenues. For the year ended
+June 30, 2021 and 2020, we had revenue of 1,303,486 and 7,153,948 respectively, representing a decrease of 5,850,462 or 81.8 ,
+which were derived from service package sales for the members and the sales and leasing income from multimedia tablets. The
+significant decrease in revenue was due to there were decrease in revenue from service package in 2021. 
+
+Cost of Revenue. For the year ended
+June 30, 2021 and 2020, we had cost of revenue of 1,730,812 and 4,005,174 respectively, representing an decrease of 2,274,362 or 56.8 .
+The cost of revenue represents costs of maintaining our platform such as network service artwork merchandise and gifts sent to members
+and cost of multimedia tablets. The decrease in cost was in line with the decrease in revenue. 
+
+Gross Margin. We generated gross
+profit of (427,326) and 3,184,774 for the year ended June 30, 2021 and 2020, with a gross margin of (32.8) and 44.0 respectively. 
+
+Operating expenses. The total
+operating expenses was 7,681,231 and 5,039,882 for the year ended June 30, 2021 and 2020, representing an increase of 2,641,349 or
+52.4 . The increase was mainly due to market expansion. 
+
+Loss from Operations. For the year
+ended June 30, 2021 and 2020, we had loss from operations of 8,108,557 and 1,891,108 respectively, representing an increase in loss
+of 6,217,449 or 328.8 . 
+
+Net loss. For the year ended June
+30, 2021 and 2020, we had net loss of 8,445,157 and 1,960,014 respectively, representing a decrease of 6,485,143 or 330.9 . The increase
+in net loss was mainly due to the decrease in sales revenues. 
+
+14 
+
+Liquidity
+and Capital Resources 
+
+Working Capital Deficit. As of
+June 30, 2021 and 2020, the Company a working capital deficit of (17,113,370) and (4,739,357), respectively. 
+
+Cash
+Flows. The following is a summary of the Company s cash flows from operating, investing and financing activities: 
+
+For the year ended 
+June 30, 
+2021 
+ 
+ For the year ended 
+June 30, 
+2020 
+ 
+ Net cash used in operating activities 
+
+(1,595,879) 
+
+(1,567) 
+ 
+ Net cash used in (provided by) investing activities 
+
+(163,156) 
+
+11,654 
+
+Net cash provided by financing activities 
+
+33,748 
+
+78,671 
+
+Effect of exchange rate change on cash 
+
+215,197 
+
+(438,545) 
+ 
+ Net decrease in cash and cash equivalents 
+
+(1,510,090) 
+
+(349,787) 
+
+Operating
+Activities. 
+
+Net cash used
+in operating activities was approximately 1.6 million for the year ended June 30, 2021, as compared
+to approximately 1,567 net cash used in operating activities for the year ended June 30, 2020. Net cash used in operating activities
+for the year ended June 30, 2021 was mainly due to the decrease of approximately 6.2 million accounts payable, the decrease of approximately
+ 3.6 million of accounts receivables, the increase of approximately 6.6 million of prepayments, and the increase of approximately 16.7
+million of customer deposits, and the increase of approximately 1.1 million of other receivable - related party. 
+
+Net cash used
+in operating activities for the year ended June 30, 2020 was mainly due to the increase of approximately 7.8 million accounts payable,
+the increase of approximately 3.4 million of accounts receivables, the increase of approximately 1.1 million of prepayments, and the
+decrease of approximately 1.2 million of other payables and accrued liabilities. 
+
+Investing
+Activities. 
+
+Net cash used
+in investing activities was 163,156 for the year ended
+June 30, 2021. Net cash used in investing activities mainly reflect disposal of intangible assets of 12,812, offset by purchases of equipment
+of 175,968. 
+
+Net cash provided
+by investing activities was 11,654 for the year ended
+June 30, 2020. Net cash provided by investing activities mainly reflect disposal of intangible assets of 5,155, offset by purchases of
+equipment of 16,809. 
+
+Financing
+Activities. 
+
+Net
+cash provided by financing activities was 33,748 and
+ 78,671 for the year ended June 30, 2021 and 2020, respectively, both of which referred
+to the proceeds from related parties. 
+
+Off-Balance
+Sheet Arrangements 
+
+As
+of June 30, 2021 and 2020, we did not have any off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of Regulation S-K
+promulgated under the Securities Act of 1934. 
+
+Contractual
+Obligations and Commitments 
+
+As
+of June 30, 2021 and 2020, we did not have any contractual obligations. 
+
+Critical
+Accounting Policies 
+
+Our
+significant accounting policies are described in the notes to our financial statements for the year ended June 30, 2021 and 2020, and
+are included elsewhere in this report. 
+
+ITEM 7A.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+Not
+applicable. 
+
+ITEM 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+
+Reference
+is made to Pages F-1 through F-34 comprising a portion of this Annual Report on Form 10-K. 
+
+15 
+
+ITEM 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+
+There were no disagreements with our accountants
+related to accounting principles or practices, financial statement disclosure, internal controls or auditing scope or procedure during
+the 2021 fiscal years. 
+
+On April 5, 2021, the Company dismissed JLKZ
+CPA LLP JLKZ ). The report issued by JLKZ dated October 13, 2020 related to its audit of our balance sheet as of June 30,
+2020 and the related statement of operations, stockholder s deficit and cash flows for the year ending June 30, 2020 with an unqualified
+opinion. 
+
+Our decision to dismiss JLKZ is not the result
+of any disagreement between us and JLKZ on matters of accounting principles or practices, financial statement disclosure or auditing scope
+or procedures. During our most recent fiscal years through the date of dismissal of JLKZ, there were no disagreements with JLKZ on any
+matter of accounting principles or practices, financial statement disclosure or auditing scope or procedures, which disagreements, if
+not resolved to the satisfaction of JLKZ, would have caused JLKZ to make a reference to the subject matter of the disagreement in connection
+with its reports. Pursuant to the rules of the SEC applicable to smaller reporting companies, JLKZ was not required to provide an attestation
+as to the effectiveness of our internal control over financial reporting. 
+
+There were no reportable events (as that
+term is defined in Item 304(a)(1)(v) of Regulation S-K) during our most recent fiscal years through the date of dismissal of JLKZ. Our
+Board of Directors discussed the subject matter referred to above with JLKZ. We authorized JLKZ to respond fully and without limitation
+to all requests of our successor accountant concerning all matters related to the annual and interim periods audited and reviewed by JLKZ,
+including with respect to the subject matter of any reportable event. 
+
+Effective on April 5, 2021 and with the approval
+of our Board of Directors, we have engaged WWC, P.C. WWC ), as our new registered independent public accountant. During
+the year ended June 30, 2021, the Company did not consult with WWC regarding (i) the application of accounting principles to a specified
+transaction, (ii) the type of audit opinion that might be rendered on the Company s financial statements by WWC, in either case
+where written or oral advice provided by WWC would be an important factor considered by us in reaching a decision as to any accounting,
+auditing or financial reporting issues or (iii) any other matter that was the subject of a disagreement between us and our former auditor
+or was a reportable event (as described in Items 304(a)(1)(iv) or Item 304(a)(1)(v) of Regulation S-K, respectively). 
+
+ITEM 9A.
+CONTROLS AND PROCEDURES. 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+Under
+the supervision and with the participation of our management, Xingtao Zhou, who is our Chairman, Founder, Chief executive officer and
+Chief financial officer, as of June 30, 2021, we conducted an evaluation of our disclosure controls and procedures, as such term is defined
+under Rule 13a-15(e) and Rule 15d-15(e) promulgated under the Securities Exchange Act of 1934, as amended. Based on this evaluation,
+our Chief Executive Officer has concluded that, based on the material weaknesses discussed below, our disclosure controls and procedures
+were not effective as of such date to ensure that information required to be disclosed by us in reports filed or submitted under the
+Securities Exchange Act were recorded, processed, summarized, and reported within the time periods specified in the Securities and Exchange
+Act Commission's rules and forms and that our disclosure controls are not effectively designed to ensure that information required to
+be disclosed by us in the reports that we file or submit under the Securities Exchange Act is accumulated and communicated to management,
+including our Chief Executive Officer, as appropriate to allow timely decisions regarding required disclosure. 
+
+16 
+
+Management's
+Annual Report on Internal Control over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting. As defined in Rules 13a-15(f) under
+the Securities Exchange Act of 1934, internal control over financial reporting is a process designed by, or under the supervision of,
+Xingtao Zhou, the Company's Chief Executive Officer, and effected by the Company's board of directors, management and other personnel,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with GAAP. 
+
+The
+Company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records,
+that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the Company's assets; (2) provide reasonable
+assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted
+accounting principles, and that receipts and expenditures of the Company are being made only in accordance with authorizations of the
+Company's management and directors; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition,
+use or disposition of the Company's assets that could have a material effect on the financial statements. 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions,
+or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Our
+management, including our principal executive officer and principal financial officer, assessed the effectiveness of our internal control
+over financial reporting at June 30, 2021. In making this assessment, management used the criteria set forth by the Committee of Sponsoring
+Organizations of the Treadway Commission (COSO) in Internal Control Integrated Framework (2013). Based on that assessment under
+those criteria, management has determined that, as of June 30, 2021, our internal control over financial reporting was not effective. 
+
+Our
+internal controls are not effective for the following reasons: (i) there is an inadequate segregation of duties consistent with control
+objectives as management is comprised of only two persons, one of which is the Company's principal executive officer and principal financial
+officer and, (ii) the Company does not have an audit committee with a financial expert, and thus the Company lacks the board oversight
+role within the financial reporting process. 
+
+In
+order to mitigate the foregoing material weakness, we have engaged an outside accounting consultant with significant experience in the
+preparation of financial statements in conformity with GAAP to assist us in the preparation of our financial statements to ensure that
+these financial statements are prepared in conformity with GAAP. We will continue to monitor the effectiveness of this action and make
+any changes that our management deems appropriate. 
+
+We
+would need to hire additional staff to provide greater segregation of duties. Currently, it is not feasible to hire additional staff
+to obtain optimal segregation of duties. Management will continue to reassess this matter to determine whether improvement in segregation
+
+of duty is feasible. In addition, we would need to expand our board to include independent members. 
+
+Going
+forward, we intend to evaluate our processes and procedures and, where practicable and resources permit, implement changes in order to
+have more effective controls over financial reporting. 
+
+This
+Annual Report does not include an attestation report of our registered public accounting firm regarding internal control over financial
+reporting. Management's report was not subject to attestation by the Company's registered public accounting firm pursuant to the exemption
+provided to issuers that are not large accelerated filers nor accelerated filers under the Dodd-Frank Wall Street
+Reform and Consumer Protection Act. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+There
+have been no changes in our internal control over financial reporting that occurred during our fourth fiscal quarter that have materially
+affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+ITEM
+9B. OTHER INFORMATION. 
+
+None 
+
+17 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+
+None
+of our officers or directors have been convicted in, or are subject to, any criminal or bankruptcy proceeding. 
+
+The
+names and ages of the directors and executive officers of the Company and their positions with the Company are as follows: 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Xingtao Zhou 
+ 
+ 41 
+ 
+ President, Chief Executive
+ Officer, Chief Financial Officer (Principal Accounting Officer), Chairman of the Board 
+ 
+ Liang Tan 
+ 
+ 57 
+ 
+ Director 
+
+Xingtao Zhou -- President, Chief Executive Officer, Chief Financial Officer (Principal Accounting Officer), Chairman of the
+Board of Directors. Mr. Zhou has served as the chairman and founder of Hainan Cang Bao Tian Xia Artwork Co. Ltd. since 2017 and
+Cang Bao Ge (Hong Kong) Arts Co., Ltd since 2012. From 2009 to 2012, Mr. Zhou served as the president of Yi Hua Cultural Diffusion Co.,
+Ltd. Mr. Zhou served as the curator of the Yin Yuan Min Su Museum from 2003 to 2009 and as the vice curator from 1999 to 2003. Mr. Zhou
+received a bachelor s degree in International Business from Southwestern University of Finance and Economics. 
+
+Liang
+Tan , Director. Liang Tan has served as the general manager of Shanghai Qingsheng Investment Co., Ltd. since 2017. Mr. Tan served
+as the deputy general manager of Shanghai Daren Asset Management Co., Ltd. from 2013 to 2016. 
+
+ITEM
+11. EXECUTIVE COMPENSATION. 
+
+The
+following table summarizes, for each of 2021 and 2020, the compensation awarded, paid to or earned by our President, CEO, CFO and Chairman
+of the Board of Directors, Xingtao Zhou. 
+
+2020
+Summary Compensation Table 
+
+Name
+ and Principal Position 
+
+Year 
+
+Salary 
+ ) 
+
+Bonus 
+ ) 
+
+Stock
+ Awards 
+ ) 
+
+Option
+ Awards 
+ ) 
+
+Non-Equity
+ Incentive Plan Compensation 
+ ) 
+
+Non-Qualified
+ Deferred Compensation Earnings 
+ ) 
+
+All
+ Other Compensation 
+ ) 
+
+Total 
+ ) 
+
+Xingtao Zhou (1) 
+
+2021 
+
+42,372 
+
+42,372 
+
+President CEO and CFO 
+
+2020 
+
+42,372 
+
+42,372 
+
+(1) Mr.
+ Zhou has received 84,744 in cash compensation from Hainan Cangbao since inception of Hainan
+ Cangbao on March 1, 2019. 
+
+ The
+Company has no stock option, retirement, pension, or profit-sharing programs for the benefit of directors, officers or other employees,
+but our officers and directors may recommend adoption of one or more such programs in the future. We have no employment agreements with
+Mr. Zhou or with any of our employees. 
+
+The
+Company does not have a standing compensation committee, audit committee, nomination committee, or committees performing similar functions.
+We anticipate that we will form such committees of the Board of Directors once we have a full Board of Directors. 
+
+18 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+
+The
+following table sets forth certain information as of the date of this Annual Report on Form 10-K, with respect to the beneficial ownership
+of our common stock and preferred stock for (i) each director and named executive officer, (ii) all of our directors and officers as
+a group, and (iii) each person known to us to own beneficially 5 or more of the outstanding shares of our common stock. As of the date
+of this Annual Report on Form 10-K, there are 110,319,245 shares of common stock issued and outstanding. 
+
+Name
+ and Address of Beneficial Owner (1) 
+ 
+ Class
+ of 
+ Securities 
+ 
+ Shares 
+ Beneficially 
+ Owned 
+ 
+ Percentage 
+ Owned (4) 
+
+Directors and Named Executive Officers 
+
+Xingtao Zhou 
+ 
+ Preferred Stock 
+ 
+ 9,920,000 
+ 
+ 100.0 
+
+Common Stock 
+ 
+ 59,839,271 
+ 
+ 54.2 
+
+Yaqin Fu (2) 
+ 
+ Common Stock 
+ 
+ 15,663,849 
+ 
+ 14.2 
+
+All Officers and Directors as a group (2 persons) 
+ 
+ Common Stock 
+ 
+ 75,503,120 
+ 
+ 68.4 
+
+5 Stockholders 
+
+Wei Wang (3) 
+ 
+ Common Stock 
+ 
+ 18,000,000 
+ 
+ 16.3 
+
+(1) 
+ Beneficial ownership has been determined in accordance
+ with Rule 13d-3 under the Exchange Act. Pursuant to the rules of the SEC, shares of common stock which an individual or group has
+ a right to acquire within 60 days pursuant to the exercise of options or warrants are deemed to be outstanding for the purpose of
+ computing the percentage ownership of such individual or group, but are not deemed to be beneficially owned and outstanding for the
+ purpose of computing the percentage ownership of any other person shown in the table. 
+
+(2) 
+ Yaqin Fu is the wife of Liang Tan, a director of the
+ Company, and therefore Mr. Tan may be deemed to be the beneficial owner of the shares owned by Ms. Fu. 
+
+(3) 
+ Mr. Wang was one of the Cayman Company Shareholders. 
+
+(4) 
+ Based on 110,319,245 shares of our Common Stock issued
+ and outstanding as of the date of this Annual Report on Form 10-K. 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+
+On
+June 15, 2018, the Company entered into a promissory note payable with David Lazar, the former Chief Executive Officer. The note is unsecured,
+noninterest bearing and due in 12 months from the date of issuance. On December 13, 2018, the Company forgave 5,000 of the entire amount
+owed on this promissory note to David Lazar. The gain was recorded in additional paid in capital due to its related party nature. As
+of June 30, 2020 and 2019, 0 remains outstanding. 
+
+On
+June 19, 2018, the Company issued 3,096,200 shares of common stock issued at par value of 0.001, for services valued at 3,096 to Custodian
+Ventures, LLC, the company controlled by David Lazar. 
+
+On
+June 19, 2018 the Company created 10,000,000 shares of Series A Preferred Stock, out of the 10,000,000 shares that were already authorized.
+On that same date, the Company issued 10,000,000 shares of the Series A preferred stock to Custodian Ventures LLC, the company controlled
+by David Lazar, the former Chief Executive Officer, for services valued at 4,000,000. 
+
+On
+December 16, 2018, Custodian Ventures LLC (the Seller ), entered into a Stock Purchase Agreement (the Stock Purchase
+Agreement pursuant to which the Seller agreed to sell to Xingtao Zhou and Yaqin Fu (together, the Purchaser ), the
+3,096,200 common shares and the 10,000,000 preferred shares of the Company (together, the Shares owned by the Seller,
+for a total purchase price of 375,000. As a result of the sale, and David Lazar s resignation as sole officer and director of
+the Company, there was a change of control of the Company. There is no family relationship or other relationship between the Seller and
+the Purchaser. 
+
+19 
+
+During
+the period July 01, 2018 thru December 13, 2018, David Lazar, paid 17,350 of expenses related to accounting, transfer agent, audit and
+legal fees on behalf of the company. On December 13, 2018, the Company forgave 31,446 of the loan payable to David Lazar. The gain was
+
+recorded in additional paid in capital due to its related party nature. As of June 30, 2021 and 2020, 0 remains outstanding. 
+
+During
+the years ended June 30, 2021 and 2020, Mr. Xingtao Zhou, paid a total of 33,748 and 79,189 respectively, in expenses on behalf of
+the Company, for transfer agent, legal, audit and accounting fees. As of June 30, 2021 and 2020, The outstanding balances owed to Mr.
+Zhou are 128,793, and 95,045 respectively. This loan is non-interest bearing and has no specific terms for repayment. 
+
+Conflicts
+of Interest 
+
+Certain
+potential conflicts of interest are inherent in the relationships between our officers and directors, and the Company. 
+
+From
+time to time, one or more of our affiliates may form or hold an ownership interest in and/or manage other businesses both related and
+unrelated to the type of business that we own and operate. These persons expect to continue to form, hold an ownership interest in and/or
+manage additional other businesses which may compete with ours with respect to operations, including financing and marketing, management
+time and services and potential customers. These activities may give rise to conflicts between or among the interests of us and other
+businesses with which our affiliates are associated. Our affiliates are in no way prohibited from undertaking such activities, and neither
+we nor our shareholders will have any right to require participation in such other activities. 
+
+Further,
+because we intend to transact business with some of our officers, directors and affiliates, as well as with firms in which some of our
+officers, directors or affiliates have a material interest, potential conflicts may arise between the respective interests of us and
+these related persons or entities. We believe that such transactions will be completed on terms at least as favorable to us as those
+available from unrelated third parties. 
+
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES. 
+
+The
+following table shows the fees paid or accrued by us for the audit and other services provided by WWC,
+P.C., WWC for the periods ended June 30, 2021 and JLKZ CPA LLP for the periods ended June 30, 2020. 
+
+June 30, 
+
+June 30, 
+
+2021 
+
+2020 
+
+Audit Fees 
+
+240,000 
+
+60,000 
+
+Audit Related Fees 
+
+Tax Fees 
+
+All Other Fees 
+
+Total 
+
+240,000 
+
+60,000 
+
+Audit
+fees consist of fees billed for professional services rendered for the audit of our financial statements and review of the interim financial
+statements included in quarterly reports and services that are normally provided by the above auditors in connection with statutory and
+regulatory fillings or engagements. 
+
+Audit-Related
+Fees are fees for assurance and related services by the principal accountant that are traditionally performed by the principal
+accountant and which are reasonably related to the performance of the audit or review of the registrant's financial statements. 
+
+In
+the absence of a formal audit committee, the full Board of Directors pre-approves all audit and non-audit services to be performed by
+the independent registered public accounting firm in accordance with the rules and regulations promulgated under the Securities Exchange
+Act of 1934, as amended. The Board of Directors pre-approved 100 of the audit, audit-related and tax services performed by the independent
+registered public accounting firm for the fiscal years ended June 30, 2021 and 2020. The percentage of hours expended on the principal
+accountant s engagement to audit the Company s financial statements for the most recent fiscal year that were attributed
+to work performed by persons other than the principal accountant s full-time, permanent employees was 0 . 
+
+20 
+
+PART
+IV 
+
+ITEM 15.
+EXHIBITS, FINANCIAL STATEMENT SCHEDULES. 
+
+The
+following documents are filed as part of this Annual Report: 
+
+(a) Financial
+Statements: 
+
+Page 
+ 
+ Report of Independent Registered Accounting Firm 
+ F-1 
+ 
+ Balance Sheets as of June 30, 2021 and 2020 
+ F-3 
+ 
+ Statements of Operations and Comprehensive Loss for the year ended June 30, 2021 and 2020 
+ F-4 
+ 
+ Statement of Changes in Shareholders Deficit for the year ended June 30, 2021 and 2020 
+ F-5 
+ 
+ Statements of Cash Flows for the years ended June 30, 2021 and 2020 
+ F-6 
+ 
+ Notes to Financial Statements 
+ F-7 
+
+(b) Exhibits: 
+
+Exhibit 
+
+Number 
+ 
+ Name 
+
+31.1 
+ 
+ Certification of Principal Executive Officer and Principal
+ Financial Officer pursuant to Rule 13a-14(a)/15d-14(a). 
+
+32.1 
+ 
+ Certification of Principal Executive Officer and Principal
+ Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101.INS 
+ 
+ XBRL Instance Document 
+
+101.SCH 
+ 
+ XBRL Schema Document 
+
+101.CAL 
+ 
+ XBRL Calculation Linkbase Document 
+
+101.DEF 
+ 
+ XBRL Definition Linkbase Document 
+
+101.LAB 
+ 
+ XBRL Label Linkbase Document 
+
+101.PRE 
+ 
+ XBRL Presentation Linkbase Document 
+
+ITEM
+16. FORM 10-K SUMMARY. 
+
+Not
+applicable. 
+
+21 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized. 
+
+CANG BAO TIAN XIA INTERNATIONAL ART
+ TRADE CENTER, INC. 
+
+Date: October 13, 2021 
+ By: 
+ /s/ Xingtao
+ Zhou 
+
+Xingtao Zhou, Chief
+ Executive Officer and Chief Financial Officer (principal executive officer and principal financial and accounting officer) 
+
+22 
+
+REPORT OF INDEPENDENT
+REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To: The Board of 
+Directors and Stockholders of 
+
+ Cang Bao Tian
+Xia International Art Trade Center Inc. 
+
+Opinion 
+on the Financial Statements 
+
+We 
+have audited the accompanying consolidated balance sheets of Cang Bao Tian Xia International
+Art Trade Center Inc. and its subsidiaries (the Company) as of 
+June 30, 2021 and 2020, and the related consolidated
+statements of operations and comprehensive loss, 
+changes in shareholders equity, and cash flows for 
+the two-year period ended June 30, 2021, and the related notes (collectively referred 
+to as the financial statements). In our opinion, the financial statements present fairly,
+in all material respects, the financial position of the Company as of 
+June 30, 2021 and 2020, and the results of its operations 
+and its cash flows for the two-year period ended
+ June 30, 2021, in conformity with accounting
+principles generally accepted in the United States 
+of America. 
+
+The accompanying financial statements have been 
+prepared assuming that the Company will continue as a going concern. As discussed 
+in Note 3 to the financial statements, the Company had incurred substantial losses during
+the year, and has a working capital deficit, which raises substantial doubt about its ability to continue as a going concern. Management s
+plan in regards to these matters are described in Note 3. These financial statements do not include any 
+adjustments that might result from the outcome of this uncertainty. 
+
+Basis 
+for Opinion 
+
+These financial statements are the responsibility
+of the Company s management. Our responsibility 
+is to express an opinion on the Company s financial 
+statements based on our audits. We are a public accounting
+ firm registered with the Public Company Accounting Oversight Board 
+(United States) (PCAOB) and are required to
+be independent with respect to the Company in 
+accordance with the U.S. federal securities laws and the applicable 
+rules and regulations of the Securities and Exchange Commission 
+and the PCAOB. 
+
+We 
+conducted our audits in accordance with the standards of the PCAOB. 
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial 
+statements are free of material misstatement, whether due to error or
+ fraud. The Company is not required to have, nor
+were we engaged to perform, an audit of its internal 
+control over financial reporting. As part of our 
+audits, we are required to obtain an understanding of internal control over
+financial reporting, but not for the purpose of expressing 
+an opinion on the effectiveness of the Company s internal control 
+over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included
+performing procedures to assess the risks of material misstatement of the financial
+statements, whether due to error or fraud, and performing
+procedures that respond to those risks. Such procedures included examining, on a test
+ basis, evidence regarding the amounts and 
+disclosures in the financial statements. Our audits also included evaluating the accounting
+principles used and significant estimates made by management, as well as evaluating the overall
+presentation of the financial statements. We believe that our audits
+ provide a reasonable basis for our opinion. 
+
+F-1 
+
+Critical Audit 
+Matters 
+
+The critical audit matter communicated 
+below is matter arising from the prior 
+period audit of the consolidated financial statements that were communicated or required
+to be communicated to the audit committee and
+that: (1) relate to accounts or disclosures that
+are material to the consolidated financial statements and (2) involved our especially challenging,
+subjective, or complex judgments. The communication of critical audit matters does not alter
+in any way our opinion on the consolidated financial
+statements, taken as a whole, and we are
+not, by communicating the critical audit matters below, providing separate opinions
+ on the critical audit matters or on the accounts
+ or disclosures to 
+which they relate. 
+
+Evaluation of the accounts 
+receivable and the allowance for doubtful accounts 
+
+The critical audit matter related to the Company s
+accounts receivable. The principal considerations in determining that this was a critical
+audit matter was that the Company had a substantial amount of accounts receivable, and 
+the allowance for doubtful accounts are subject to estimation, which involves judgment. The 
+ability of the Company to collect the accounts
+ receivable is impacted by multiple factors. 
+The audit engagement team addressed this critical accounting matter by reviewing the Company s
+ accounting policies, and perform extended procedures
+ including corroborated with enquiry, examination of
+contracts, and independent analysis of the Company customers historical payment records.
+The engagement team s testing provided adequate evidence to support 
+our audit opinion and to mitigate the risk of
+material misstatement to an acceptable level. The accounts that are affected by this 
+critical audit matter is accounts receivable, and the allowance for doubtful accounts that
+is charged to general and administration expenses,
+if any. 
+
+/s/ WWC, P.C. 
+
+ WWC, P.C. 
+
+ Certified Public Accountants 
+
+We have served as the
+Company s auditor since 2021 San Mateo, California 
+
+October 13, 2021 
+
+F-2 
+
+CANG
+ BAO TIAN XIA INTERNATIONAL ART TRADE CENTER, INC. 
+ 
+ AUDITED
+ CONSOLIDATED BALANCE SHEETS 
+ (Stated
+in US Dollars) 
+
+June 30, 
+ 
+ June 30, 
+
+2021 
+ 
+ 2020 
+ 
+ Assets 
+
+Current assets 
+
+Cash and cash equivalents 
+
+1,200,060 
+
+2,710,150 
+
+Accounts receivable, net 
+
+- 
+
+3,364,041 
+
+Other receivables, net 
+
+38,266 
+
+50,152 
+
+Related party receivable 
+
+1,197,938 
+
+28,055 
+
+Inventories 
+
+109,381 
+
+439,811 
+
+Advance to suppliers 
+
+9,252,512 
+
+2,233,063 
+
+Prepaid taxes 
+
+- 
+
+23,986 
+
+Total current assets 
+
+11,798,157 
+
+8,849,258 
+
+Non-current assets 
+
+Plant and equipment, net 
+
+184,703 
+
+11,681 
+
+Intangible assets, net 
+
+239,066 
+
+319,767 
+
+Right-of-use assets 
+
+8,220,399 
+
+- 
+
+Total non-current assets 
+
+8,644,168 
+
+331,448 
+
+Total Assets 
+
+20,442,325 
+
+9,180,706 
+
+Liabilities and Stockholders Deficit 
+
+Current liabilities 
+
+Accounts payable 
+
+8,160,433 
+
+13,284,912 
+
+Deferred revenues 
+
+121,490 
+
+180,086 
+
+Taxes payable 
+
+4,115 
+
+3,286 
+
+Accrued liabilities and other payables 
+
+6,873 
+
+1,300 
+
+Advance from customers 
+
+17,256,693 
+
+- 
+
+Related party payable 
+
+128,793 
+
+95,045 
+
+Lease payable-current portion 
+
+3,233,130 
+
+- 
+
+Total current liabilities 
+
+28,911,527 
+
+13,564,629 
+
+Lease payable- non-current 
+
+4,987,269 
+
+- 
+
+Total Liabilities 
+
+33,898,796 
+
+13,564,629 
+
+Stockholders Deficit 
+
+Series A Preferred Stock, 10,000,000 shares authorized at 0.001 per share: 9,920,000 shares issued and outstanding as of June 30, 2021 and 2020, respectively 
+
+9,920 
+
+9,920 
+
+Common stock, par value 0.001 per share; 500,000,000 shares authorized; 110,319,245 shares issued and outstanding as of June 30, 2021 and 2020, respectively 
+
+110,319 
+
+110,319 
+
+Additional paid-in capital 
+
+20,434,840 
+
+20,434,840 
+
+Accumulated deficit 
+
+(33,499,423) 
+
+(25,054,266) 
+ 
+ Accumulated other comprehensive (loss) income 
+
+(512,127) 
+
+115,264 
+
+Total Stockholders Deficit 
+
+(13,456,471) 
+
+(4,383,923) 
+ 
+ Total Liabilities and Stockholders Deficit 
+
+20,442,325 
+
+9,180,706 
+
+See Accompanying Notes to the Financial Statements 
+
+F-3 
+
+CANG
+ BAO TIAN XIA INTERNATIONAL ART TRADE CENTER, INC. 
+ AUDITED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE
+ LOSS 
+ (Stated
+in US Dollars) 
+
+For the year ended 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Net revenues 
+ 1,303,486 
+ 7,153,948 
+ 
+ Cost of revenues 
+ 1,730,812 
+ 4,005,174 
+ 
+ Gross profit 
+ (427,326 
+ 3,148,774 
+
+Operating expenses: 
+
+Selling and marketing expenses 
+ 4,651,912 
+ 2,649,541 
+ 
+ General administration expenses 
+ 3,029,319 
+ 2,390,341 
+ 
+ Total operating expenses 
+ 7,681,231 
+ 5,039,882 
+
+Operating loss 
+ (8,108,557 
+ (1,891,108 
+
+Other income (expenses): 
+
+Interest income 
+ 7,699 
+ 7,929 
+ 
+ Interest expense 
+ - 
+ - 
+ 
+ Other income 
+ 5,544 
+ 6,050 
+ 
+ Other expenses 
+ (348,031 
+ (70,189 
+ 
+ Total other income (expenses) 
+ (334,788 
+ (56,210 
+ 
+ Loss before income taxes 
+ (8,443,345 
+ (1,947,318 
+ 
+ Provision for income taxes 
+ 1,812 
+ 12,696 
+ 
+ Net loss 
+ (8,445,157 
+ (1,960,014 
+
+Other comprehensive income: 
+
+Foreign currency translation (loss) gain 
+ (627,391 
+ 115,264 
+ 
+ Comprehensive loss 
+ (9,072,548 
+ (1,844,750 
+
+Loss per share per common stock 
+
+- Basic and diluted 
+ (0.08 
+ (0.02 
+
+Basic and diluted weighted average shares outstanding 
+ 110,319,245 
+ 110,319,245 
+
+See
+Accompanying Notes to the Financial Statements 
+
+F-4 
+
+CANG
+BAO TIAN XIA INTERNATIONAL ART TRADE CENTER INC. 
+
+ AUDITED
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS EQUITY 
+
+ (Stated
+in US Dollars) 
+
+For the
+ year ended June 30, 2020 
+
+Additional 
+ Accumulated
+ Deficit 
+ Accumulated Other 
+
+Preferred
+ Stock 
+ Common
+ Stock 
+ Paid-in 
+ Statutory 
+ 
+ Comprehensive 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Reserves 
+ Unrestricted 
+ Income
+ (Loss) 
+ Total 
+ 
+ BALANCE, July 1, 2019 
+ 9,920,000 
+ 9,920 
+ 110,319,245 
+ 110,319 
+ 20,434,840 
+ - 
+ (23,094,252 
+ - 
+ (2,539,173 
+ 
+ Net loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (1,960,014 
+ - 
+ (1,960,014 
+ 
+ Foreign currency translation 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 115,264 
+ 115,264 
+ 
+ BALANCE, June 30, 2020 
+ 9,920,000 
+ 9,920 
+ 110,319,245 
+ 110,319 
+ 20,434,840 
+ - 
+ (25,054,266 
+ 115,264 
+ (4,383,923 
+
+For the
+ year ended June 30, 2021 
+
+Additional 
+ Accumulated
+ Deficit 
+ Accumulated Other 
+
+Preferred
+ Stock 
+ Common
+ Stock 
+ Paid-in 
+ Statutory 
+ 
+ Comprehensive 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Reserves 
+ Unrestricted 
+ Income
+ (Loss) 
+ Total 
+ 
+ BALANCE, July 1, 2020 
+ 9,920,000 
+ 9,920 
+ 110,319,245 
+ 110,319 
+ 20,434,840 
+ - 
+ (25,054,266 
+ 115,264 
+ (4,383923 
+ 
+ Net loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (8,445,157 
+ - 
+ (8,445,157 
+ 
+ Foreign currency translation 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (627,391 
+ (627,391 
+ 
+ BALANCE, June 30, 2021 
+ 9,920,000 
+ 9,920 
+ 110,319,245 
+ 110,319 
+ 20,434,840 
+ - 
+ (33,499,423 
+ (512,127 
+ (13,456,471 
+
+See
+Accompanying Notes to the Financial Statements 
+
+F-5 
+
+CANG
+ BAO TIAN XIA INTERNATIONAL ART TRADE CENTER, INC. 
+ 
+ AUDITED
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Stated
+ in US Dollars) 
+
+For the 
+ year ended June 30, 
+
+2021 
+ 2020 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net loss 
+ (8,445,157 
+ (1,960,014 
+ 
+ Adjustments to reconcile net loss to net cash provided by (used in) operating activities: 
+
+Depreciation of plant and equipment 
+ 8,405 
+ 2,472 
+ 
+ Amortization of intangible assets 
+ 95,739 
+ 47,576 
+ 
+ Accounts receivables 
+ 3,593,579 
+ (3,364,041 
+ 
+ Other receivables 
+ 16,273 
+ (50,152 
+ 
+ Related party receivable 
+ (1,137,746 
+ (22,180 
+ 
+ Inventories 
+ 363,199 
+ (129,261 
+ 
+ Prepayments 
+ (6,608,026 
+ (1,107,794 
+ 
+ Accounts payable 
+ (6,241,761 
+ 7,790,515 
+ 
+ Other payables and accrued liabilities 
+ 11,740 
+ (1,211,974 
+ 
+ Customer deposits 
+ 16,747,375 
+ - 
+ 
+ Taxes payable 
+ 501 
+ 3,286 
+ 
+ Net cash used in operating activities 
+ (1,595,879 
+ (1,567 
+
+CASH FLOWS FROM INVESTING ACTIVITIES: 
+
+Sales of intangible assets 
+ 12,812 
+ 16,809 
+ 
+ Purchase of equipment 
+ (175,968 
+ (5,155 
+ 
+ Net cash (used in) provided by investing
+ activities 
+ (163,156 
+ 11,654 
+
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+
+Proceeds from related parties 
+ 33,748 
+ 78,671 
+ 
+ Net cash provided by financing
+ activities 
+ 33,748 
+ 78,671 
+
+EFFECT OF EXCHANGE RATE ON CASH 
+ 215,197 
+ (438,545 
+
+NET DECREASE IN CASH 
+ (1,510,090 
+ (349,787 
+ 
+ CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD 
+ 2,710,150 
+ 3,059,937 
+ 
+ CASH AND CASH EQUIVALENTS, END OF PERIOD 
+ 1,200,060 
+ 2,710,150 
+
+SUPPLEMENTAL CASH FLOW INFORMATION: 
+
+Cash paid for income tax 
+ 1,812 
+ 12,696 
+ 
+ Cash paid for interest 
+ - 
+ - 
+
+See
+Accompanying Notes to the Financial Statements 
+
+F-6 
+
+CANG
+BAO TIAN XIA INTERNATIONAL ART TRADE CENTER, INC. 
+
+ NOTES
+TO FINANCIAL STATEMENTS 
+
+ JUNE
+30, 2021 AND 2020 
+
+NOTE
+1 ORGANIZATION AND BASIS OF ACCOUNTING 
+
+Cang
+Bao Tian Xia International Art Trade Center, Inc., formerly Zhongchai Machinery, Inc., and before that Equicap, Inc., a Nevada corporation
+(the Company , was a manufacturer and distributor of gears and gearboxes and drive axles that were marketed and sold to
+equipment manufacturers in China. 
+
+On
+July 6, 2007, the Board of Directors of Zhejiang Zhongchai Machinery Co., Ltd. Zhejiang Zhongchai ), the China based and
+75 owned subsidiary of the Company, approved and finalized a Share Purchase Agreement Share Purchase Agreement with
+Xinchang Keyi Machinery Co., Ltd., Keyi a corporation incorporated in the People s Republic of China. Pursuant
+to the Share Purchase Agreement, Zhejiang Zhongchai purchased all the outstanding equity of Zhejiang Shengte Transmission Co., Ltd. Shengte from Keyi, the sole owner of Shengte for approximately 3.7 million 
+
+On
+March 7, 2007, the Company and Usunco Automotive, Ltd. Usunco ), a British Virgin Islands company, entered into a Share
+Exchange Agreement Exchange Agreement which was consummated on March 9, 2007. Under the terms of the Exchange Agreement,
+the Company acquired all of the outstanding equity securities of Usunco in exchange for 18,323,944 shares of the Company s common
+stock. 
+
+Since
+the Company had been a public shell company prior to the share exchange, the share exchange was treated as a recapitalization of the
+Company. As such, the historical financial information prior to the share exchange was that of Usunco and its subsidiaries. Historical
+share amounts were restated to reflect the effect of the share exchange. 
+
+On
+June 18, 2006, Usunco acquired 100 of IBC Automotive Products Inc IBC ), a California Corporation as of May 14, 2004 (date
+of inception), through a Share Exchange Agreement of 28 of Usunco s shares. IBC was considered a predecessor business
+to Usunco as its operations constituted the business activities of Usunco formed to consummate the acquisition of IBC. The consolidated
+financial statements at that time reflected all predecessor statements of income and cash flow activities from the inception of IBC in
+May 2004. 
+
+On
+June 15, 2009, IBC was sold to certain management persons of IBC in exchange for the following: (i) the cancellation of an aggregate
+of 555,994 shares of common stock of the Company which those individuals owned, and (ii) the payment of 60,000 in installments pursuant
+to the terms of an unsecured promissory note, the final payment of which was made on November 15, 2010. As part of the transaction, the
+Company cancelled 428,261 through the closing date, of inter-company debt which funds had been used in the business of IBC prior to
+the transaction. 
+
+On
+September 22, 2009, Xinchang Xian Lisheng Machinery Co., Ltd. Lisheng was incorporated by Zhejiang Zhongchai and two
+individual investors. Total registered capital of Lisheng was RMB 5 million, of which Zhejiang Zhongchai accounted for 60 . The Company
+started production of die casting products in 2010 for use in gearboxes, diesel engines and other machinery products. 
+
+On
+December 16, 2009, Zhongchai Machinery and its wholly owned subsidiaries, Usunco and Zhongchai Holding (Hong Kong) Limited, a Hong Kong
+company Zhongchai Holding ), took action to approve transfer of the shares of Zhejiang Zhongchai Machinery Co., from Usunco
+to Zhongchai Holding. The transfer was completed on December 23, 2009. The purpose of the transfer was to take advantage of the tax treaty
+between the Peoples Republic of China and the Special Administrative Region of Hong Kong which reduces the withholding tax rate of the
+PRC on payments to entities outside of China. Usunco, which no longer had any assets after transferring all of them to Zhongchai Holding
+was subsequently dissolved. The consolidated financial statements continued to account for Zhejiang Zhongchai Machinery Co., in the same
+manner as before the transfer of the ownership. Shareholder approval by the shareholders of Zhongchai Machinery was not required under
+Nevada law, as there was no sale of all or substantially all the assets of the Company. The shareholder ownership and shareholder rights
+of Zhongchai Machinery remained the same as before the transaction. 
+
+F-7 
+
+On
+April 26, 2010, Zhongchai Holding (Hong Kong) Limited Zhongchai Holding ), which owned 75 of the equity in Zhejiang Zhongchai
+Machinery Co., Ltd. Zhejiang Zhongchai ), executed a Share Purchase Agreement Share Purchase Agreement with Xinchang Keyi Machinery Co., Ltd., Keyi a corporation incorporated in the People s Republic of China. Pursuant
+to the Share Purchase Agreement, Zhongchai Holding purchased the residual 25 equity of Zhejiang Zhongchai Machinery Co., Ltd. Zhejiang
+Zhongchai from Keyi at 2.6 million. The Share Purchase Agreement was approved by the local government agency and a new business
+license was issued as Wholly Foreign Owned Enterprise. 
+
+On
+July 26, 2011, the Company held a Special Meeting of Shareholders. At the special meeting the Company s shareholders approved an
+amendment to cease its periodic reporting obligation under the Securities Exchange Act of 1934 and thereby forego many of the expenses
+associates with operating as a public company subject to SEC reporting obligations. 
+
+On
+July 27, 2011, the Company approved a 1 for 120 reverse stock split of its then outstanding shares of the Company s Common Stock. 
+
+On
+July 29, 2011, the Company terminated its registration as a reporting issuer with the Securities and Exchange Commission. As a result,
+it became unclear when and if the Company ceased conducting business operations, as no further information became publicly available. 
+
+On
+May 11, 2018, the eighth judicial District Court of Nevada appointed Custodian Ventures, LLC as custodian for the Company, then known
+as Zhongchai Machinery, Inc., proper notice having been given to the officers and directors of Zhongchai Machinery, Inc. There was no
+opposition. On May 16, 2018, the Company filed a certificate of revival with the State of Nevada, appointing David Lazar as, President,
+Secretary, Treasurer and Director. On June 19, 2018, the Company issued 3,096,200 shares of common stock issued at par value of 0.001,
+to Custodian Ventures, LLC, for services valued at 3,096.20. On June 19, 2018, the Company issued 10,000,000 shares of Series A Preferred
+Stock issued at par value of 0.001, to Custodian Ventures, LLC, for services valued at 4,000,000. 
+
+On
+July 24, 2018, the Company filed a Form 10 with the Securities and Exchange Commission, to again become a reporting issuer. 
+
+On
+December 16, 2018, Custodian Ventures LLC (the Seller ), entered into a Stock Purchase Agreement (the Stock Purchase
+Agreement pursuant to which the Seller agreed to sell to Xingtao Zhou and Yaqin Fu (together, the Purchaser ), the
+3,096,200 common shares and the 10,000,000 preferred shares of the Company (together, the Shares owned by the Seller,
+for a total purchase price of 375,000. As a result of the sale, and David Lazar s resignation as sole officer and director of
+the Company, there was a change of control of the Company. There is no family relationship or other relationship between the Seller and
+the Purchaser. 
+
+On
+January 08, 2019, the corporate name of the Company was changed to Cang Bao Tian Xia International Art Trade Center, Inc., and shortly
+thereafter the Company s trading symbol was changed to TXCB. 
+
+On
+July 27, 2020 (the Closing Date ), and as reported in the Company s Form 8-K filed with the SEC on that same date,
+we entered into a Share Exchange Agreement (the Exchange Agreement by and among (i) the Company, (ii) Zhi Yuan Limited,
+a Cayman Islands company Cayman Company ), and (iii) the three beneficial shareholders of Cayman Company (each, a Cayman
+Company Shareholder and collectively, the Cayman Company Shareholders ). 
+
+Pursuant
+to the terms of the Exchange Agreement, the Cayman Company Shareholders agreed to sell to Cang Bao, and Cang Bao agreed to purchase,
+all shares of Cayman Company held by them, which shares represent 100 of the issued and outstanding shares of Cayman Company. In exchange,
+Cang Bao agreed to issue to the Cayman Company Shareholders an aggregate of 75,000,000 shares of Cang Bao common stock, representing
+approximately 67.98 of Cang Bao s total issued and outstanding common stock (the Share Exchange ). 
+
+Our
+directors approved the Exchange Agreement and the transactions contemplated thereby. Simultaneously, the directors of Cayman Company
+also approved the Exchange Agreement and the transactions contemplated thereby. The Share Exchange closed on July 27, 2020. Both Yaqin
+Fu, who is the wife of one of our directors, and Mr. Xingtao Zhou, our President, Chief Executive Officer, Chief Financial Officer, Chairman
+of the Board and principal shareholder, were Cayman Company Shareholders who exchanged their Cayman Company shares for shares of the
+Company. After giving effect to the Share Exchange, Mr. Zhou owns 59,839,271 shares of our common stock, which represents 54.24 of our
+outstanding common stock, and 100 of our issued and outstanding preferred shares. 
+
+F-8 
+
+As
+a result of the Share Exchange, Cayman Company became our wholly owned subsidiary and we are its public holding company. After giving
+effect to the Share Exchange, the Company acquired 100 of the assets and operations of Cayman Company and its subsidiaries, the business
+and operations of which now constitutes our primary business and operations. After giving effect to the Share Exchange, we own 100 of
+the issued and outstanding shares of capital stock of Cayman Company. Cayman Company is a holding company that owns Cangyun (Hong Kong)
+Limited Hong Kong Company ), which in turn owns and controls Shanghai Cangyun Management Consulting Co., Ltd. Management
+Consulting ), which has entered into contractual agreements to control Hainan Cangbao Tianxia Cultural Relic Co., Ltd. Hainan and Cangbao Tianxia (Shanghai) Cultural Relic Co., Ltd. Tianxia Cultural Relic, and together with Hainan, the Target
+Companies or VIEs ). 
+
+ The
+Exchange Agreement contains customary representations, warranties, covenants and conditions for a transaction of this type for the benefit
+of the parties. 
+
+ For
+federal income tax purposes, it is intended that the Share Exchange qualify as a reorganization under the provisions of Section 368(a)
+of the Internal Revenue Code of 1986, as amended (the Code ). However, we did not obtain any tax opinion and there can be
+no assurance that our intent that the Share Exchange qualify as a reorganization under the provisions of Section 368(a) of the Code is
+correct. Cayman Company is considered the acquirer for accounting and financial reporting purposes. The assets and liabilities of Cayman
+Company have been brought forward at their book value and no goodwill has been recognized. As a result of the acquisition of all the
+issued and outstanding shares of Cayman Company, we have now assumed Cayman Company s business operations as our own. 
+
+ Immediately
+prior to the closing of the Share Exchange described above pursuant to which Cayman Company became a wholly owned subsidiary of the Company,
+the Company was a shell company, as such term is defined in Rule 12b-2 under the Securities Exchange Act of 1934, as amended
+(the Exchange Act ). As a result of the Share Exchange, we are no longer a shell company. 
+
+ The
+Share Exchange was accounted as a business combination under common control, in which all of the combining entities or businesses are
+ultimately controlled by the same party or parties, both before and after the business combination, and that control is not transitory.
+The business combination under common control of accounting is based on the historical consolidated financial statements of the Company
+and Cayman Company. In accordance with ASC 805-50-45-5, for transactions between entities under common control, financial statements
+and financial information presented for prior periods have been retroactively adjusted to furnish comparative information. 
+
+ Zhi
+Yuan Limited Zhi Yuan was incorporated on April 15, 2019 under the laws of the Cayman Islands as a holding company. On
+May 22, 2019, ZhiYuan incorporated a wholly owned subsidiary Cang Yun (Hong Kong) Limited Cang Yun HK in Hong Kong. On
+July 30, 2019, Cang Yun HK incorporated a wholly foreign owned enterprise WFOE Shanghai Cangyun Management Consulting
+Co., Ltd. Shanghai Cangyun in Shanghai, China. 
+
+ On
+August 8, 2019, Shanghai Cangyun entered into a series of Variable Interest Entity VIE agreements with the owners of
+Hainan Cangbao Tianxia Cultural Relic Co., Ltd. Hainan Cangbao and Cangbao Tianxia (Shanghai) Cultural Relic Co., Ltd. Shanghai Cangbao ). Pursuant to the VIE agreements, Hainan Cangbao and Shanghai Cangbao became Shanghai Cangyun s
+contractually controlled affiliate. The purpose and effect of the VIE Agreements is to provide Shanghai Cangyun with all management control
+and net profits earned by Hainan Cangbao and Shanghai Cangbao. Hainan Cangbao was incorporated on May 30, 2018 and Shanghai Cangbao was
+incorporated on June 28, 2019. The entities operate an online and offline cultural exchange service platform, through which dedicated
+to create industry standards for art investment and creating a model of online art exchanges and transactions, which allows collectors,
+artists, art dealers and owners to access a much larger art trading market, allowing them to engage with a wide range of collectibles
+or artwork investors. Upon executing a series of VIE agreements, Hainan Cangbao and Shanghai Cangbao are considered Variable Interest
+entities VIE and Shanghai Cangbao is the primary beneficiary. Accordingly, Hainan Cangbao and Shanghai Cangbao are consolidated
+under the guidance of FASB Accounting Standards Codification ASC 810, Consolidation. 
+
+Cang
+Bao Tian Xia International Art Trade Center, Inc. and its consolidated subsidiaries and VIE are collectively referred to herein as the
+ Company unless specific reference is made to an entity. 
+
+F-9 
+
+NOTE
+2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis
+of Presentation 
+
+The
+accompanying audited consolidated financial statements have been prepared in conformity with accounting principles generally
+accepted in the United States of America U.S. GAAP ). This basis of accounting differs in certain material respects from
+that used for the preparation of the books of Hainan Cangbao and Shanghai Cangbao, which are prepared in accordance with the accounting
+principles and the relevant financial regulations applicable to enterprises with limited liabilities established in the PRC PRC
+GAAP ), the accounting standards used in the places of their domicile. The accompanying audited consolidated financial
+statements reflect necessary adjustments not recorded in the books of Hainan Cangbao and Shanghai Cangbao to present them in conformity
+with U.S. GAAP. 
+
+Principals
+of Consolidation 
+
+The
+audited consolidated financial statements include the accounts of the Company, its wholly and majority owned subsidiaries,
+and consolidated VIE and its subsidiaries for which the Company is the primary beneficiary. 
+
+All
+transactions and balances among the Company, its subsidiaries and consolidated VIE have been eliminated upon consolidation. 
+
+The
+accompanying audited consolidated financial statements of Cang Bao Tian Xia International Art Trade Center, Inc. reflect
+the activities of the following entities: 
+
+Name 
+ 
+ Background 
+ 
+ Ownership 
+ 
+ Cang Bao Tian Xia International Art Trade Center, Inc.( Cang
+ Bao 
+ 
+ A
+ holding company 
+ A
+ Nevada company 
+
+Zhi Yuan Limited Zhi Yuan 
+ 
+ A
+ Cayman Island company 
+ Incorporated
+ on April 15, 2019 
+ 
+ 100 owned by Cang Bao 
+
+Cang Yun (Hong Kong) Limited Cang Yun HK 
+ 
+ A
+ Hong Kong company 
+ Incorporated
+ on May 22, 2019 
+ A
+ holding company 
+ 
+ 100 owned by Zhi Yuan 
+
+Shanghai Cangyun Management Consulting Co., Ltd. Shanghai
+ Cangyun 
+ 
+ A
+ PRC company and deemed a wholly foreign owned enterprise 
+ Incorporated
+ on July 30, 2019 
+ Subscribed
+ capital of 10,000 
+ A
+ holding company 
+ 
+ 100 owned by Cang Yun HK 
+
+Hainan Cangbao Tianxia Cultural Relic Co., Ltd. Hainan
+ Cangbao 
+ 
+ A
+ PRC limited liability company 
+ Incorporated
+ on May 30, 2018 
+ Subscribed
+ capital of 1,454,491 (RMB 10,000,000) 
+ Operate
+ online and offline cultural exchange service platform 
+ 
+ VIE of Shanghai Cangyun WFOE 
+
+Cangbao Tianxia (Shanghai) Cultural Relic Co., Ltd.
+ Shanghai Cangbao 
+ 
+ A
+ PRC limited liability company 
+ Incorporated
+ on May 30, 2018 
+ Subscribed
+ capital of 4,799,821 (RMB 33,000,000) 
+ Operate
+ online and offline cultural exchange service platform 
+ 
+ VIE of Shanghai Cangyun WFO 
+
+VIE
+Agreements with Shanghai Cangyun 
+
+Under
+the laws and regulations of the PRC, foreign persons and foreign companies are restricted from investing directly in certain businesses
+within the PRC. As such, Hainan Cangbao and Shanghai Cangbao are controlled through VIE Arrangements in lieu of direct equity ownership.
+Such VIE arrangements consist of a series of four agreements (collectively, the VIE Arrangements ), which were
+signed on August 8, 2019. The significant terms of the VIE Arrangements are as follows: 
+
+F-10 
+
+Exclusive
+Management Consultation Service Agreement 
+
+Pursuant
+to the Exclusive Management Consultation Service Agreement between Management Consulting and Hainan Cangbao Tianxia Cultural Relic Co.,
+Ltd. and Cangbao Tianxia (Shanghai) Cultural Relic Co. (the Target Companies or VIEs ), dated August 8, 2019,
+Management Consulting has the exclusive right to provide consultation and services to the Target Companies in the areas of funding, human
+resources, technology and intellectual property rights. For such services, the Target Companies have agreed to pay service fees in the
+amount of 100 of their net income and also have the obligation to absorb 100 of their own losses. Management Consulting exclusively
+owns any intellectual property rights arising from the performance of this Management Consultation Service Agreement. The Management
+Consultation Service Agreement terminates at the same time as the Equity Pledge Agreement, described in the next paragraph. 
+
+Equity
+Pledge Agreement 
+
+Pursuant
+to those Equity Pledge Agreement dated August 8, 2019, among Management Consulting, the Target Companies, the Target Companies 
+shareholders, who are our CEO Mr. Zhou, Yaqin Fu (the wife of Liang Tan, a director of the Company), and Wei Wang (collectively, the
+ Pledgors ), each of three persons pledged all of their equity interests in the Target Companies to Management Consulting
+to guarantee the Target Companies performance of relevant obligations and indebtedness under the Management Consultation Service
+Agreement and the other control agreements (collectively, the Control Agreements ). If the Pledgors breach their obligations
+under the Control Agreements, Management Consulting, as pledgee, will be entitled to certain rights, including the right to dispose of
+the pledged equity interests in order to recover the damages associated with such breaches. The Pledgors obligations shall be
+continuously valid until all of the Pledgors are no longer shareholders of the Target Companies, or until the satisfaction of all of
+the Pledgors obligations under the Control Agreements. 
+
+Call
+Option Agreement 
+
+Pursuant
+to the Call Option Agreement among Management Consulting, the Target Companies and the Pledgors, dated August 8, 2019, Management Consulting
+has the exclusive right to require that the Pledgors fulfill and complete all approval and registration procedures required under PRC
+laws for Management Consulting to purchase, or designate one or more persons to purchase, such shareholders equity interests in
+the Target Companies , in one or multiple transactions, at any time or from time to time, at Management Consulting s sole and absolute
+discretion. The purchase price shall be the lowest price allowed by PRC laws. The Equity Option Agreements shall remain effective until
+all the equity interests in the Target Companies owned by the Pledgors have been legally transferred to Management Consulting or its
+designee(s). 
+
+Proxy
+Agreement 
+
+Pursuant
+to the Proxy Agreement among Management Consulting, the Pledgors and the Target Companies, dated August 8, 2019, the Pledgors irrevocably
+appointed Management Consulting or Management Consulting s designee to exercise all of their rights as a shareholder of the Target
+Companies, including but not limited to the power to exercise all such shareholder s voting rights with respect to all matters
+to be discussed and voted in shareholder meetings of the Target Companies. The Proxy Agreement remains effective until all equity interests
+in the Target Companies owned by the Pledgors have been legally transferred to Management Consulting or its designee(s). 
+
+Based
+on the foregoing VIE Arrangements, Shanghai Cangyun deemed to have effective control over Hainan Cangbao and Shanghai Cangbao, which
+enables Shanghai Cangyun to receive all of their expected residual returns and absorb the expected losses of the VIE, and Shanghai Cangyun
+is deemed the primary beneficiary of Hainan Cangbao and Shanghai Cangbao. 
+
+The
+reorganization through VIE above are accounted as a transaction of entities under common control for accounting purposes where the shareholder
+of Hainan Cangbao and Shanghai Cangbao are the controlling shareholder of Cang Bao before and after the reorganization. Accordingly,
+the accompanying consolidated financial statements have been prepared as if the current corporate structure had been in existence throughout
+the periods presented. 
+
+F-11 
+
+The
+carrying amount of the VIE s assets and liabilities are as follows: 
+
+June 30, 
+ 
+ June 30, 
+
+2021 
+ 
+ 2020 
+ 
+ Current assets 
+
+11,850,943 
+
+9,188,265 
+
+Plants and equipment, intangible assets 
+
+423,769 
+
+331,448 
+
+Other noncurrent assets 
+
+8,220,399 
+
+- 
+
+Total assets 
+
+20,495,111 
+
+9,519,713 
+
+Current liabilities 
+
+28,819,519 
+
+13,792,591 
+
+Non-current liabilities 
+
+4,987,269 
+
+- 
+
+Total liabilities 
+
+33,806,788 
+
+13,792,591 
+
+Net assets 
+
+(13,311,677) 
+
+(4,272,878) 
+
+June 30, 
+ 
+ June 30, 
+
+2021 
+ 
+ 2020 
+
+Accounts payable 
+
+8,076,065 
+
+13,212,544 
+
+Other payables and accrued liabilities 
+
+249,516 
+
+576,761 
+
+Tax payables 
+
+4,115 
+
+3,286 
+
+Customer advances 
+
+17,256,693 
+
+- 
+
+Lease liabilities 
+
+3,233,130 
+
+- 
+
+Total current liabilities 
+
+28,819,519 
+
+13,792,591 
+
+Lease liabilities - noncurrent 
+
+4,987,269 
+
+- 
+
+Total liabilities 
+
+33,806,788 
+
+13,792,591 
+
+The
+summarized operating results of the VIE s are as follows: 
+
+For the 
+year ended 
+June 30, 
+2021 
+ 
+ Operating revenues 
+
+1,645,126 
+
+Gross profit 
+
+(1,430,284) 
+ 
+ Loss from operations 
+
+(8,409,597) 
+ 
+ Net loss 
+
+(8,411,409) 
+
+Foreign
+Currency Translation 
+
+The
+accompanying audited consolidated financial statements are presented in United States dollar ), which is
+the reporting currency of the Company. The functional currency of Cang Bao, Cayman Company and Hongkong Company is United States dollar.
+The functional currency of the Company s subsidiaries and VIEs located in the PRC is Renminbi RMB ). For the entities
+whose functional currencies are RMB, results of operations and cash flows are translated at average exchange rates during the period,
+assets and liabilities are translated at the unified exchange rate at the end of the period, and equity is translated at historical exchange
+rates. The resulting translation adjustments are included in determining other comprehensive income. Transaction gains and losses are
+reflected in the consolidated statements of income. 
+
+2021 
+
+2020 
+
+Year-end RMB: US exchange rate 
+
+6.4601 
+
+7.0795 
+
+Annual average RMB: US exchange rate 
+
+6.6273 
+
+7.0198 
+
+Year-end HKD:US exchange rate 
+
+7.7638 
+
+7.7504 
+
+Annual average HKD:US exchange rate 
+
+7.7558 
+
+7.7937 
+
+The RMB is not freely convertible into foreign
+currencies and all foreign exchange transactions must be conducted through authorized financial institutions. 
+
+Use
+of Estimates 
+
+The
+preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and judgments that affect the
+reported amounts of assets and liabilities, disclosure of contingent assets and liabilities on the date of the financial statements and
+the reported amounts of revenues and expenses during the reporting period. The Company bases its estimates and judgments on historical
+experience and on various other assumptions and information that are believed to be reasonable under the circumstances. Estimates and
+assumptions of future events and their effects cannot be perceived with certainty and, accordingly, these estimates may change as new
+events occur, as more experience is acquired, as additional information is obtained and as our operating environment changes. Significant
+estimates and assumptions by management include, among others, useful lives and impairment of long-lived assets, allowance for doubtful
+accounts, income taxes including the valuation allowance for deferred tax assets. While the Company believes that the estimates and assumptions
+used in the preparation of the financial statements are appropriate, actual results could differ from those estimates. Estimates and
+assumptions are periodically reviewed, and the effects of revisions are reflected in the financial statements in the period they are
+determined to be necessary. 
+
+F-12 
+
+Cash
+and Cash Equivalents 
+
+Cash
+and cash equivalents include cash on hand and cash in time deposits, certificates of deposit and all highly liquid instruments with original
+maturities of three months or less. 
+
+Inventories 
+
+Inventories,
+mainly consisting of stock items prepared as gifts for the member customers and multi-functional demonstration machine, are stated at
+the lower of cost or net realizable value utilizing the weighted average method. Cost includes all costs of purchase, cost of conversion
+and other costs incurred to bring the inventories to their present location and condition. Net realizable value is the estimated selling
+price in the ordinary course of business less the estimated costs of completion of the service and the estimated costs necessary to delivering
+the service. 
+
+The
+valuation of inventory requires the Company to estimate excess and slow-moving inventories. The Company evaluates the recoverability
+of the inventory based on expected demand and market conditions of art trading service. 
+
+Impairment
+of Long-Lived Assets 
+
+The
+Company s long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying
+amount of the asset may not be recoverable. Recoverability of an asset to be held and used is measured by a comparison of the carrying
+amount of the asset to the future undiscounted cash flows expected to be generated by the asset. If such asset is considered to be impaired,
+the impairment to be recognized is measured by the amount by which the carrying amount of the asset exceeds its fair value. Impairment
+evaluations involve management s estimates on asset useful lives and future cash flows. Actual useful lives and cash flows could
+be different from those estimated by management which could have a material effect on our reporting results and financial position. Fair
+value is determined through various valuation techniques including discounted cash flow models, quoted market values and third-party
+independent appraisals, as considered necessary. 
+
+Plant and Equipment 
+
+Plant and equipment consist of computer, office
+furniture and equipment, and leasehold improvement. All plant and equipment are stated at historical cost net of accumulated depreciation.
+Repairs and maintenance are expensed as incurred. Plant and equipment are depreciated on a straight-line basis over the following periods: 
+
+Depreciation
+is computed using the straight-line method over the estimated useful lives of the assets. 
+
+Electronic equipment 
+
+3-5 years 
+
+Furniture and Fixture 
+
+5 years 
+
+Motor vehicles 
+
+4 years 
+
+Computer software 
+
+5 years 
+
+Leasehold improvements 
+
+5
+ years 
+
+Fair
+Value of Financial Instruments 
+
+The
+Company adopted ASC 820 Fair Value Measurements, which defines fair value, establishes a three-level valuation hierarchy
+for disclosures of fair value measurement and enhances disclosures requirements for fair value measures. Current assets and current liabilities
+qualified as financial instruments and management believes their carrying amounts are a reasonable estimate of fair value because of
+the short period of time between the origination of such instruments and their expected realization and if applicable, their current
+interest rate is equivalent to interest rates currently available. 
+
+ The
+three levels are defined as follow: 
+
+Level 1 
+ 
+ inputs to the
+ valuation methodology are quoted prices (unadjusted) for identical assets or liabilities in active markets. 
+
+Level 2 
+ 
+ inputs to the valuation
+ methodology include quoted prices for similar assets and liabilities in active markets, and inputs that are observable for the assets
+ or liability, either directly or indirectly, for substantially the full term of the financial instruments. 
+
+Level 3 
+ 
+ inputs to the valuation methodology are unobservable
+ and significant to the fair value. 
+
+As
+of the balance sheet date, the estimated fair values of the financial instruments approximated their fair values due to the short-term
+nature of these instruments. 
+
+The
+Company evaluates the hierarchy disclosures each year to determine which category an asset or liability falls within the hierarchy. 
+
+F-13 
+
+Leases 
+
+We
+determine if an arrangement is a lease at inception. Operating leases are included in operating lease right-of-use ROU assets, operating lease liabilities - current, and operating lease liabilities - noncurrent on the balance sheets. Finance leases are
+included in property and equipment, other current liabilities, and other long-term liabilities in our balance sheets. The
+initial lease liability is equal to the future fixed minimum lease payments discounted using the Company s incremental borrowing
+rate, on a secured basis. The initial measurement of the right-of-use asset is equal to the initial lease liability plus any initial
+direct costs and prepayments, less any lease incentives. 
+
+ROU
+assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease
+payments arising from the lease. Operating lease ROU assets and liabilities are recognized at commencement date based on the present
+value of lease payments over the lease term. As most of our leases do not provide an implicit rate, we generally use our incremental
+borrowing rate based on the estimated rate of interest for collateralized borrowing over a similar term of the lease payments at commencement
+date. The operating lease ROU asset also includes any lease payments made and excludes lease incentives. Our lease terms may include
+options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense for lease payments
+is recognized on a straight-line basis over the lease term. 
+
+Revenue
+Recognition 
+
+The
+Company adopted ASC 606 requires the use of a new five-step model to recognize revenue from customer contracts. The five-step model requires
+entities to exercise judgment when considering the terms of contracts, which includes (1) identifying the contracts or agreements with
+a customer, (2) identifying our performance obligations in the contract or agreement, (3) determining the transaction price, (4) allocating
+the transaction price to the separate performance obligations, and (5) recognizing revenue as each performance obligation is satisfied.
+The Company has concluded that the new guidance did not require any significant change to its revenue recognition processes. 
+
+The
+Company operates an online and offline cultural service platform, through which dedicated to create industry standards for art investment
+and creating a model of online art exchanges and transactions, which allows collectors, artists, art dealers and owners to access a much
+larger art trading market, allowing them to engage with a wide range of collectibles or artwork investors. 
+
+The
+service includes trading facilitation, appraisal of treasures, consignment of artworks, storage of artworks and all-in-one advertising
+service, etc. 
+
+The
+Company derives its revenues from (1) platform membership service fee for member customers and (2) trading commission income, and (3)
+sales of all-in-one demonstration machine. 
+
+Membership
+service income 
+
+The
+Company recognizes membership fee revenue as the performance obligations are satisfied over time, usually, recognized on an average over
+the life of membership. The general contract terms of membership service include timeframe of the service, pricing and payment terms,
+rights and obligations of parties, performance test criteria, and liability for breach of contract. Payments received in advance
+from customers are recorded as advance from customers in the audited consolidated balance sheets. Advance from
+customers is recognized as revenue over the passage of time. Such advance payment received are non-refundable. 
+
+The
+cost of revenue consists primarily of platform maintenance expenses which are directly attributable to the membership fee revenue, including
+but not limited to service charges for cloud computing, items prepared as gifts for the member, and
+related expenses. 
+
+Artwork
+Trading Service commission income 
+
+Artwork
+trading service commission income includes commission from artwork price guarantee service, and artwork ownership transfer facilitate
+service through the online platform. The Company charges both the buyer and the seller a commission based on the artwork trading amount.
+The revenue is derived from contracts with customers, which primarily include payment terms, rights and obligations of parties, acceptance
+criteria, and liability for breach of contract. The Company s sales arrangements do not contain variable consideration. The Company
+recognizes revenue at a point in time based on management s evaluation of when performance obligations under the terms of a contract
+with the customer are satisfied and the related artworks transactions has been successfully completed. 
+
+F-14 
+
+Sales
+of multi-functional demonstration machine and tablets 
+
+The
+Company recognizes revenue when the transaction price is allocated to the performance obligations identified in the contracts or agreements
+with customer upon the delivery of multi-functional demonstration machine has completed. 
+
+The
+Company did not recognize any trading commission income for the year ended June 30, 2021 and 2020. 
+
+Advertising
+Expenses 
+
+Advertising costs, mainly including promotion
+expense for the APP launching, are expensed as incurred and the total amounts charged to selling and marketing expenses 
+in the audited consolidated statements of income and comprehensive loss were 2,845,139 and 499,954 for the year ended June 30, 2021
+and 2020, respectively. 
+
+Shipping and handling 
+
+All outbound shipping and handling costs are expensed
+as incurred. 
+
+New
+Accounting Pronouncements 
+
+In December 2019, the FASB issued ASU 2019-12
+- Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes. This ASU provides an exception to the general methodology for
+calculating income taxes in an interim period when a year-to-date loss exceeds the anticipated loss for the year. This update also (1)
+requires an entity to recognize a franchise tax (or similar tax) that is partially based on income as an income-based tax and account
+for any incremental amount incurred as a non-income-based tax, (2) requires an entity to evaluate when a step-up in the tax basis of goodwill
+should be considered part of the business combination in which goodwill was originally recognized for accounting purposes and when it
+should be considered a separate transaction, and (3) requires that an entity reflect the effect of an enacted change in tax laws or rates
+in the annual effective tax rate computation in the interim period that includes the enactment date. The standard is effective for the
+Company for fiscal years beginning after December 15, 2020, with early adoption permitted. The Company is currently in the process of
+evaluating the impact of the adoption on its consolidated financial statements. 
+
+In February 2020, the FASB issued ASU 2020-02,
+ Financial Instruments Credit Losses (Topic 326) and Leases (topic 842) Amendments to SEC Paragraphs Pursuant to SEC Staff
+Accounting Bulletin No. 119 and Update to SEC Section on Effective Date Related to Accounting Standards Update No. 2016-02, Leases (topic
+842) . This ASU provides guidance regarding methodologies, documentation, and internal controls related to expected credit losses.
+This ASU is effective for interim and annual periods beginning after December 15, 2019, and early adoption is permitted. The Company is
+evaluating the impact of this guidance on its consolidated financial statements. 
+
+In
+August 2018, the FASB issued ASU 2018-13, Fair Value Measurement (Topic 820), Disclosure Framework Changes to
+the Disclosure Requirements for Fair Value Measurement, which makes a number of changes meant to add, modify or remove certain
+disclosure requirements associated with the movement amongst or hierarchy associated with Level 1, Level 2 and Level 3 fair value measurements.
+The amendments in this Update modify the disclosure requirements on fair value measurements based on the concepts in FASB Concepts Statement,
+Conceptual Framework for Financial Reporting Chapter 8: Notes to Financial Statements, including the consideration of costs and
+benefits. The amendments on changes in unrealized gains and losses, the range and weighted average of significant unobservable inputs
+used to develop Level 3 fair value measurements, and the narrative description of measurement uncertainty should be applied prospectively
+for only the most recent interim or annual period presented in the initial fiscal year of adoption. All other amendments should be applied
+retrospectively to all periods presented upon their effective date. The amendments are effective for all entities for fiscal years beginning
+after December 15, 2019, and interim periods within those fiscal years, with early adoption permitted. The Company is currently evaluating
+the potential impacts of ASU 2018-13 on its consolidated financial statements. 
+
+In February 2016, the FASB issued ASU 2016-02, Leases
+(Topic 842). The guidance supersedes existing guidance on accounting for leases with the main difference being that operating
+leases are to be recorded in the statement of financial position as right-of-use assets and lease liabilities, initially measured at
+the present value of the lease payments. For operating leases with a term of 12 months or less, a lessee is permitted to make an accounting
+policy election not to recognize lease assets and liabilities. For public business entities, the guidance is effective for fiscal years
+beginning after December 15, 2018, including interim periods within those fiscal years. Early application of the guidance is permitted.
+In transition, entities are required to recognize and measure leases at the beginning of the earliest period presented using a modified
+retrospective approach. The Company adopted ASU 2016-02 on July 1, 2019 and recognize operating lease liabilities with corresponding right
+of use ROU assets of the same amount based on the present value of the remaining minimum rental payments under current
+leasing standards for existing operating leases with a term longer than 12 months. 
+
+F-15 
+
+The
+Company does not believe other recently issued but not yet effective accounting standards, if currently adopted, would have a material
+impact on its the consolidated financial position, statements of operations and cash flows. 
+
+NOTE
+3 GOING CONCERN 
+
+The accompanying audited consolidated financial
+statements have been prepared assuming that the Company will continue as a going concern; however, the Company has incurred a net loss
+of 8,445,157 for the year ended June 30, 2021. As of June 30, 2021, the Company had an accumulated deficit of 33,499,423, working capital
+deficit of 17,113,370. 
+
+In
+order to continue as a going concern, the Company will need, among other things, additional capital resources. Management s plan
+is to obtain such resources for the Company by obtaining capital from management and significant shareholders sufficient to meet its
+minimal operating expenses and seeking third party equity and/or debt financing. However, management cannot provide any assurances that
+the Company will be successful in accomplishing any of its plans. These financial statements do not include any adjustments related to
+the recoverability and classification of assets or the amounts and classification of liabilities that might be necessary should the Company
+be unable to continue as a going concern. 
+
+NOTE 4 ACCOUNT RECEIVABLES 
+
+June 30, 
+ 
+ June 30, 
+
+2021 
+ 
+ 2020 
+
+Account receivables 
+
+- 
+
+3,364,041 
+
+Less: allowance for doubtful accounts 
+
+- 
+
+- 
+
+Total, net 
+
+- 
+
+3,364,041 
+
+NOTE
+5 INVENTORY 
+
+Inventory
+consisted of the following: 
+
+June 30, 
+ 
+ June 30, 
+
+2021 
+ 
+ 2020 
+
+Finished goods 
+
+109,381 
+
+439,811 
+
+Less: allowance for obsolete inventory 
+
+- 
+
+- 
+
+Total, net 
+
+109,381 
+
+439,811 
+
+Inventory consists of gifts for members and multi-functional
+demonstration machine. Obsolete inventory amounted to Nil and Nil for the year ended June 30, 2021 and 2020. 
+
+NOTE
+6 INTANGIBLE ASSETS 
+
+Intangible
+assets consisted of the following: 
+
+June 30 
+ June 30, 
+
+2021 
+ 2020 
+
+Membership management system 
+ 466,322 
+ 437,516 
+ 
+ Accounting system 
+ 1,712 
+ 1,562 
+
+468,034 
+ 439,078 
+ 
+ Less: Accumulated amortization 
+ (228,968 
+ (119,311 
+ 
+ Total, net 
+ 239,066 
+ 319,767 
+
+Amortization
+expense amounted to 95,739 and 47,576 for the year ended June 30, 2021 and 2020, respectively. 
+
+The
+membership management system was acquired from Guangdong Cangbaotianxia Art Co., Ltd, a related party of the Company on March 31, 2019. 
+
+F-16 
+
+NOTE
+7 PLANT EQUIPMENT 
+
+Plant
+and equipment, net, is consisted of the following: 
+
+June 30, 2021 
+ June 30, 2020 
+
+Furniture and fixtures 
+ 18,257 
+ 16,659 
+ 
+ Automobile 
+ 180,523 
+
+198,780 
+ 16,659 
+ 
+ Less: Accumulate depreciation 
+ (14,077 
+ (4,978 
+ 
+ Total, net 
+ 184,703 
+ 11,681 
+
+Depreciation
+expenses was 8,405 and 2,472 for the year ended June 30, 2021 and 2020, respectively. 
+
+NOTE
+8 - ADVANCE TO SUPPLIERS 
+
+Advance
+to suppliers consisted of the following: 
+
+June 30, 
+ 
+ June 30, 
+
+2021 
+ 
+ 2020 
+
+Multimedia tablets 
+
+5,228,488 
+
+- 
+
+Marketing services 
+
+3,652,262 
+
+1,384,437 
+
+Gifts for members 
+
+139,549 
+
+380,307 
+
+Others 
+
+232,213 
+
+468,319 
+
+Total, net 
+
+9,252,512 
+
+2,233,063 
+
+The
+Company is required to make advance payments to the suppliers for the customized multimedia tablets to be manufactured and for firmware
+updates and maintenance services covering a period of three years to be provided by the supplier. According to the agreement, the
+remaining balance is due upon delivery of the tablets, and the advances are non-refundable while only defective goods can be exchanged. 
+
+NOTE
+9 ADVANCE FROM CUSTOMERS 
+
+Advance
+from customers consisted of the following: 
+
+June
+ 30, 2021 
+ June
+ 30, 2020 
+
+Multimedia demonstration machines 
+ - 
+ - 
+ 
+ Multimedia tablets 
+ 17,256,693 
+ - 
+ 
+ Total, net 
+ 17,256,693 
+ - 
+
+The Company collects payments in advance for multimedia
+tablets. Such advances are partially refundable prior to delivery of goods and defective goods can be exchanged for replacement. Such
+advances may be recognized as revenues when the goods are delivered to and accepted by customers. 
+
+F-17 
+
+NOTE 10 REVENUE AND COST OF REVENUE 
+
+June 30, 
+ 
+ June 30, 
+
+2021 
+ 
+ 2020 
+ 
+ Revenue 
+
+Membership service income 
+
+455,957 
+
+6,470,168 
+
+Multimedia tablets 
+
+847,529 
+
+683,780 
+
+1,303,486 
+
+7,153,948 
+
+Cost of revenue 
+
+Membership service income 
+
+214,842 
+
+3,633,369 
+ 
+ Multimedia tablets 
+
+1,515,970 
+
+371,805 
+
+1,730,812 
+
+4,005,174 
+
+Gross profit 
+
+(427,326) 
+
+3,148,774 
+
+NOTE
+11 LEASE 
+
+The
+Company has operating leases for multimedia tablets which the Company sublease to customers. These leases have remaining lease terms
+of 1 year to 3 years. The Company has elected to not recognize lease assets and liabilities for leases with a term less than twelve months. 
+
+Operating
+lease right-of-use assets and liabilities are recognized at commencement date based on the present value of lease payments over the lease
+term. The discount rate used to calculate present value is incremental borrowing rate or, if available, the rate implicit in the lease.
+The Company determines the incremental borrowing rate for each lease based primarily on its lease term in PRC which is approximately
+4.75 . 
+
+Operating lease expenses were 1,499,902 and
+ Nil for the year ended June 30, 2021 and 2020, respectively. 
+
+The future minimum lease payment schedule as follows: 
+
+As of June 30, 
+
+2022 
+
+3,233,130 
+
+2023 
+
+3,233,130 
+
+2024 
+
+1,643,681 
+
+2025 
+
+110,458 
+
+Thereafter 
+
+- 
+
+Total 
+
+8,220,399 
+
+NOTE
+12 RELATED PARTY TRANSACTIONS 
+
+The
+related parties consisted of the following: 
+
+Name
+ of related party 
+ 
+ Nature
+ of relationship 
+ 
+ Mr. Xingtao Zhou 
+ 
+ Majority shareholder of the Company 
+ 
+ Guangdong Cangbaotianxia Art Co., Ltd 
+ 
+ A Company with significant influence 
+ 
+ Xi 'an Cangbaotianxia Art Co., Ltd 
+ 
+ A Company with significant influence 
+
+Related
+party sale and Account receivable - related parties 
+
+During
+the year ended June 30, 2021, the Company made sales of 92,878 to Guangdong Cangbaotianxia Art Co., Ltd. As of June 30, 2021 and 2020,
+the outstanding balance of accounts receivable - related parties was 92,878 and 0, respectively. 
+
+During
+the year ended June 30, 2021, the Company made sales of 21,486 to Xi 'an Cangbaotianxia Art Co., Ltd. As of June 30, 2021 and 2020,
+the outstanding balance of accounts receivable - related parties was 21,486 and 0, respectively. 
+
+Due
+to related parties 
+
+During
+the year ended June 30, 2021, the Company received 33,748 in advance from Mr. Xingtao Zhou. As of June 30, 2021 and 2020, the outstanding
+balance payable to Mr. Xingtao Zhou was 128,793 and 95,045 respectively. 
+
+Due
+from related parties 
+
+During
+the year ended June 30, 2021, the Company paid 1,083,575 to Mr. Xingtao Zhou. As of June 30, 2021 and 2020, the balance receivable from
+Mr. Xingtao Zhou was 1,083,575 and 28,055 respectively. 
+
+The
+amount is due on demand and non-interest bearing without any formal agreement. 
+
+F-18 
+
+NOTE
+13 EQUITY 
+
+Preferred
+Stock 
+
+The
+Company is authorized to issue 10,000,000 shares of .001 par value preferred shares. On June 19, 2018, the Company created 10,000,000
+shares of Series A Preferred Stock, out of the 10,000,000 shares that were already authorized. On that same date, the Company issued
+10,000,000 shares of the Series A preferred stock to Custodian Ventures LLC, the company controlled by David Lazar, Chief Executive Officer
+for services valued at 4,000,000. 
+
+The
+following is a description of the material rights of our Series A Preferred Stock: 
+
+Each
+share of Series A Preferred Stock shall have a par value of 0.001 per share. The Series A Preferred Stock shall vote on any matter that
+may from time to time be submitted to the Company s shareholders for a vote, on a 1 for one basis. If the Company effects a stock
+split which either increases or decreases the number of shares of Common Stock outstanding and entitled to vote, the voting rights of
+the Series A shall not be subject to adjustment unless specifically authorized. 
+
+Each
+share of Series A Preferred Stock shall be convertible at a rate of 0.0000025 per share of Common Stock Conversion Ratio ),
+at the option of a Holder, at any time and from time to time, from and after the issuance of the Series A Preferred Stock. 
+
+Subject
+to the rights of any existing series of Preferred Stock or to the rights of any series of Preferred Stock which may from time to time
+hereafter come into existence, the holders of shares of Series A Preferred Stock shall be entitled to receive dividends, out of any assets
+legally available therefor, upon any payment of any dividend (payable other than in Common Stock or other securities and rights convertible
+into or entitling the holder thereof to receive, directly or indirectly, additional shares of Common Stock of the Corporation) on the
+Common Stock of the Corporation, as and if declared by the Board of Directors, as if the Series A Preferred Stock had been converted
+into Common Stock. Subject to the rights of any existing series of Preferred Stock or to the rights of any series of Preferred Stock
+which may from time to time hereafter come into existence, the payment of any dividends on the any series or classes of stock of the
+Corporation shall be subject to any priority set forth in Paragraph (I)(c)(3) of Article FIFTH of the Articles of Incorporation, as such
+may from time to time be amended. 
+
+In
+the event of any liquidation, dissolution or winding up of the Corporation, either voluntary or involuntary, subject to the rights of
+any existing series of Preferred Stock or to the rights of any series of Preferred Stock which may from time to time hereafter come into
+existence, the holders of the Series A Preferred Stock shall be entitled to receive, prior and in preference to any distribution of any
+of the assets of the Corporation to the holders of Common Stock by reason of their ownership thereof, an amount per share equal to the
+price per share actually paid to the Corporation upon the initial issuance of the Series A Preferred Stock (each, the the Original
+Issue Price for each share of Series A Preferred Stock then held by them, plus declared but unpaid dividends. Unless the Corporation
+can establish a different Original Issue Price in connection with a particular sale of Series A Preferred Stock, the Original issue price
+shall be 0.001 per share for the Series A Preferred Stock. If, upon the occurrence of any liquidation, dissolution or winding up of
+the Corporation, the assets and funds thus distributed among the holders of the Series A Preferred Stock shall be insufficient to permit
+the payment to such holders of the full aforesaid preferential amounts, then, subject to the rights of any existing series of Preferred
+Stock or to the rights of any series of Preferred Stock which may from time to time hereafter come into existence, the entire assets
+and funds of the corporation legally available for distribution shall be distributed ratably among the holders of the each series of
+Preferred Stock in proportion to the preferential amount each such holder is otherwise entitled to receive. 
+
+The
+Series A Preferred Stock shares are nonredeemable other than upon the mutual agreement of the Company and the holder of shares to be
+redeemed, and even in such case only to the extent permitted by this Certificate of Designation, the Corporation s Articles of
+Incorporation and applicable law. 
+
+Series
+A Preferred Stock shall be convertible, at the option of the holder thereof, at any time after the date of issuance of such share, at
+the office of the Corporation or any transfer agent for such stock, into such number of fully paid and nonassessable shares of Common
+Stock as is determined by dividing the Original Issue Price of the Series A Preferred Stock by the Series A Conversion Price applicable
+to such share, determined as hereafter provided, in effect on the date the certificate is surrendered for conversion. The initial Series
+A Conversion Price per share shall be 0.0000025 for shares of Series A Preferred Stock. 
+
+Each
+share of Series A Preferred Stock shall automatically be converted into shares of Common Stock at the applicable Series A Conversion
+Price in effect for such share immediately upon the earlier of (i) except as provided below in Section 4(c), the Corporation s
+sale of its Common Stock in a public offering pursuant to a registration statement under the Securities Act of 1933, as amended; (ii)
+a liquidation, dissolution or winding up of the Corporation as defined in section 2(c) above but subject to any liquidation preference
+required by section 2(a) above; or (iii) the date specified by written consent or agreement of the holders of a majority of the then
+outstanding shares of Series A Preferred Stock. 
+
+F-19 
+
+The
+holder of each share of Series A Preferred Stock shall have the right to one vote for each share of Series A Preferred Stock, and with
+respect to such vote, such holder shall have full voting rights and powers equal to the voting rights and powers of the holders of Common
+Stock, and shall be entitled to notice of any stockholders meeting in accordance with the bylaws of the Corporation, and shall
+be entitled to vote, together with holders of Common Stock, with respect to any question upon which holders of Common Stock have the
+right to vote. Fractional votes shall not, however, be permitted and any fractional voting rights shall be rounded to the nearest whole
+number (with one-half being rounded upward). 
+
+On
+February 14, 2019, the Company issued 32,000,000 common shares to shareholders pursuant to the conversion of 80,000 shares of Series
+A Preferred Stock at a conversion price of 0.0000025 per common share. 
+
+As
+of June 30, 2021, 9,920,000 preferred shares remain outstanding, which are owned by Xingtao Zhou, CEO. 
+
+Common
+Stock 
+
+On
+June 19, 2018, the Company issued 3,096,200 shares of common stock issued at par value of 0.001, for services valued at 3,096 to Custodian
+Ventures, LLC, the company controlled by David Lazar. 
+
+On
+February 14, 2019, the Company issued 32,000,000 common shares to shareholders pursuant to the conversion of 80,000 shares of Series
+A Preferred Stock at a conversion price of 0.0000025 per common share. 
+
+On
+July 27, 2020 (the Closing Date ), Cang Bao entered into a Share Exchange Agreement (the Exchange Agreement by and among (i) Cang Bao, (ii) Zhi Yuan Limited, a Cayman Islands company Cayman Company ), and (iii) the three beneficial
+shareholders of Cayman Company (each, a Cayman Company Shareholder and collectively, the Cayman Company Shareholders 
+
+Pursuant
+to the terms of the Exchange Agreement, the Cayman Company Shareholders agreed to sell to Cang Bao, and Cang Bao agreed to purchase,
+all shares of Cayman Company held by them, which shares represent 100 of the issued and outstanding shares of Cayman Company. In exchange,
+Cang Bao agreed to issue to the Cayman Company Shareholders an aggregate of 75,000,000 shares of common stock, representing approximately
+67.98 of Cang Bao s total issued and outstanding common stock (the Share Exchange ). 
+
+As
+of June 30, 2021, 110,319,245 common shares are issued and outstanding with a par value of 0.001. 
+
+Restricted
+net assets 
+
+The
+Company s ability to pay dividends is primarily dependent on the Company receiving distributions of funds from its subsidiary or
+VIE. Relevant PRC statutory laws and regulations permit payments of dividends by Shanghai Cangyun, Hainan Cangbao, and Shanghai Cangbao
+only out of its retained earnings, if any, as determined in accordance with PRC accounting standards and regulations and after it has
+met the PRC requirements for appropriation to statutory reserves. Paid in capital of the PRC subsidiary and VIE and VIE s subsidiaries
+included in the Company s consolidated net assets are also non-distributable for dividend purposes. The results of operations reflected
+in the accompanying consolidated financial statements prepared in accordance with U.S. GAAP differ from those reflected in the statutory
+financial statements of Shanghai Cangyun, Hainan Cangbao, and Shanghai Cangbao. The Company is required to set aside at least 10 of
+their after-tax profits each year, if any, to fund certain statutory reserve funds until such reserve funds reach 50 of its registered
+capital. In addition, the Company may allocate a portion of its after-tax profits based on PRC accounting standards to enterprise expansion
+fund and staff bonus and welfare fund at its discretion. The statutory reserve funds and the discretionary funds are not distributable
+as cash dividends. 
+
+The
+ability of the Company s PRC subsidiary and VIE and VIE s subsidiaries to make dividends and other payments to the Company
+may also be restricted by changes in applicable foreign exchange and other laws and regulations. Foreign currency exchange regulation
+in China is primarily governed by the following rules: 
+
+Foreign Exchange Administration Rules (1996), as amended
+ in August 2008, or the Exchange Rules; 
+
+Administration Rules of the Settlement, Sale and Payment
+ of Foreign Exchange (1996), or the Administration Rules. 
+
+F-20 
+
+Currently,
+under the Administration Rules, Renminbi is freely convertible for current account items, including the distribution of dividends, interest
+payments, trade and service related foreign exchange transactions, but not for capital account items, such as direct investments, loans,
+repatriation of investments and investments in securities outside of China, unless the prior approval of the State Administration of
+Foreign Exchange (the SAFE is obtained and prior registration with the SAFE is made. Foreign-invested enterprises like
+Rise King WFOE that need foreign exchange for the distribution of profits to its shareholders may affect payment from their foreign exchange
+accounts or purchase and pay foreign exchange rates at the designated foreign exchange banks to their foreign shareholders by producing
+board resolutions for such profit distribution. Based on their needs, foreign-invested enterprises are permitted to open foreign exchange
+settlement accounts for current account receipts and payments of foreign exchange along with specialized accounts for capital account
+receipts and payments of foreign exchange at certain designated foreign exchange banks. 
+
+Although
+the current Exchange Rules allow the convertibility of Chinese Renminbi into foreign currency for current account items, conversion of
+Chinese Renminbi into foreign exchange for capital items, such as foreign direct investment, loans or securities, requires the approval
+of SAFE, which is under the authority of the People s Bank of China. These approvals, however, do not guarantee the availability
+of foreign currency conversion. The Company cannot be sure that it will be able to obtain all required conversion approvals for its operations
+or the Chinese regulatory authorities will not impose greater restrictions on the convertibility of Chinese Renminbi in the future. Currently,
+most of the Company s retained earnings are generated in Renminbi. Any future restrictions on currency exchanges may limit the
+Company s ability to use its retained earnings generated in Renminbi to make dividends or other payments in U.S. dollars or fund
+possible business activities outside China. 
+
+The
+Company s VIE and its subsidiaries in Renminbi included in the Company consolidated net assets, aside from statutory reserve
+funds, that may be affected by increased restrictions on currency exchanges in the future and accordingly may further limit the Company s
+PRC subsidiary and VIE and VIE s subsidiaries ability to make dividends or other payments in U.S. dollars to the Company,
+in addition to restricted net assets as discussed above. 
+
+NOTE
+14 INCOME TAXES 
+
+United
+States of America 
+
+Cang
+Bao Tian Xia International Art Trade Center Inc is incorporated in the State of Nevada and is subject to Nevada and US Federal tax laws.
+Cang Bao has not recognized an income tax benefit for its operating losses based on uncertainties concerning its ability to generate
+taxable in future period. 
+
+The
+components of deferred tax assets and liabilities as follows: 
+
+June
+ 30, 2021 
+ June
+ 30, 2020 
+ 
+ Deferred tax asset 
+
+Net operating losses carry forwards 
+ 33,748 
+ 84,539 
+ 
+ Valuation allowance 
+ (33,748 
+ (84,539 
+ 
+ Deferred tax asset, net 
+ - 
+ - 
+
+Cayman
+Islands 
+
+Under
+the current laws of Cayman Islands, Zhi Yuan Limited is not subject to tax on income or capital gain. In addition, payments of dividends
+by the Company to their shareholders are not subject to withholding tax in the Cayman Islands. 
+
+Hong
+Kong 
+
+Cang Yun (Hong Kong) Limited was incorporated
+under the Hong Kong tax laws, and the statutory income tax rate was 16.5 . Cang Yun (Hong Kong) Limited has no operating profit or tax
+liabilities as of June 30, 2021 and 2020. 
+
+F-21 
+
+China,
+PRC 
+
+Shanghai
+Cangyun Management Consulting Co.,Ltd., Hainan Cangbao Tianxia Cultural Relic Co., Ltd. and Cangbao Tianxia (Shanghai) Cultural Relic
+Co.,Ltd. were incorporated in the PRC and are subject to PRC Enterprise Income Tax EIT on the taxable income in accordance
+with the relevant PRC income tax laws. On March 16, 2007, the National People s Congress enacted a new enterprise income tax law,
+which took effect on January 1, 2008. The law applies a uniform 25 enterprise income tax rate to both foreign invested enterprises and
+domestic enterprises. 
+
+The
+Company has not recognized an income tax benefit for its operating losses based on uncertainties concerning its ability to generate taxable
+income in future periods. 
+
+The
+components of deferred tax assets and liabilities as follows: 
+
+June 30, 
+ 2021 
+
+June 30, 
+ 2020 
+ 
+ Net operating losses carry forwards 
+
+8,411,409 
+
+1,875,475 
+
+Valuation allowance 
+
+(8,411,409) 
+
+(1,875,475) 
+ 
+ Deferred tax asset, net 
+
+- 
+
+- 
+
+Accounting
+for Uncertainty in Income Taxes 
+
+The
+tax authority of the PRC government conducts periodic and ad hoc tax filing reviews on business enterprises operating in the PRC after
+those enterprises complete their relevant tax filings. Therefore, the Company s PRC entities tax filings results are subject
+to change. It is therefore uncertain as to whether the PRC tax authority may take different views about the Company s PRC entities 
+tax filings, which may lead to additional tax liabilities. 
+
+ASC
+740 requires recognition and measurement of uncertain income tax positions using a more-likely-than-not approach. The management
+evaluated the Company s tax positions and concluded that no provision for uncertainty in income taxes was necessary as of June
+30, 2021 and 2020. 
+
+NOTE
+15 CONCENTRATIONS, RISKS AND UNCERTAINTIES 
+
+Credit
+risk 
+
+Cash
+deposits with banks are held in financial institutions in PRC, which are insured with deposit protection up to RMB500,000 (approximately
+ 70,089). Accordingly, the Company has a concentration of credit risk related to the uninsured part of bank deposits. The Company has
+not experienced any losses in such accounts and believes it is not exposed to significant credit risk. 
+
+Concentration 
+
+The
+Company has a concentration risk related to the suppliers. Failure to maintain existing relationships with the suppliers or to establish
+new relationships in the future could negatively affect the Company s operations. 
+
+The
+concentration on purchases from suppliers as follows: 
+
+For the year
+ ended 
+ 
+ For the year
+ ended 
+
+June
+ 30, 2021 
+ 
+ June
+ 30, 2020 
+
+Amount 
+
+Amount 
+
+Supplier A 
+
+3,710,000 
+
+67.1 
+
+- 
+
+- 
+
+Supplier B 
+
+965,055 
+
+17.4 
+
+- 
+
+- 
+
+Supplier C 
+
+756,017 
+
+13.7 
+
+- 
+
+- 
+
+Supplier D 
+
+- 
+
+- 
+
+4,597,300 
+
+30.4 
+
+Supplier E 
+
+- 
+
+- 
+
+4,597,300 
+
+30.4 
+
+Supplier F 
+
+- 
+
+- 
+
+3,765,043 
+
+24.9 
+
+5,431,072 
+
+98.2 
+
+12,959,643 
+
+85.6 
+
+F-22 
+
+Risks
+of Variable Interest Entities Structure 
+
+Although
+the structure the Company has adopted is consistent with longstanding industry practice, and is commonly adopted by comparable companies
+in China, the PRC government may not agree that these arrangements comply with PRC licensing, registration or other regulatory requirements,
+with existing policies or with requirements or policies that may be adopted in the future. There are uncertainties regarding the interpretation
+and application of PRC laws and regulations including those that govern the Company s contractual arrangements, which could limit
+the Company s ability to enforce these contractual arrangements. If the Company or any of its variable interest entities are found
+to be in violation of any existing or future PRC laws, rules or regulations, or fail to obtain or maintain any of the required permits
+or approvals, the relevant PRC regulatory authorities would have broad discretion to take action in dealing with such violations or failures,
+including levying fines, revoking business and other licenses of the Company s variable interest entities, requiring the Company
+to discontinue or restrict its operations, restricting its right to collect revenue, requiring the Company to restructure its operations
+or taking other regulatory or enforcement actions against the Company. In addition, it is unclear what impact the PRC government actions
+would have on the Company and on its ability to consolidate the financial results of its variable interest entities in the consolidated
+financial statements, if the PRC government authorities were to find the Company s legal structure and contractual arrangements
+to be in violation of PRC laws, rules and regulations. If the imposition of any of these government actions causes the Company to lose
+its right to direct the activities of Hainan Cangbao and Shanghai Cangbao or the right to receive their economic benefits, the Company
+would no longer be able to consolidate the Hainan Cangbao and Shanghai Cangbao. 
+
+COVID-19
+outbreak 
+
+In
+March 2020 the World Health Organization declared coronavirus COVID-19 a global pandemic. The COVID-19 pandemic has negatively impacted
+the global economy, workforces, customers, and created significant volatility and disruption of financial markets. It has also disrupted
+the normal operations of many businesses, including ours. This outbreak could decrease spending, adversely affect demand for our services
+and harm our business and results of operations. It is not possible for us to predict the duration or magnitude of the adverse results
+of the outbreak and its effects on our business or results of operations at this time. Since April 2020, the Company gradually resumed
+operations and is now operating at full capacity. 
+
+NOTE
+16 SUBSEQUENT EVENTS 
+
+The
+Company evaluates subsequent events that have occurred after the balance sheet date but before the financial statements are issued. There
+are two types of subsequent events: (1) recognized, or those that provide additional evidence with respect to conditions that existed
+at the dates of the balance sheets, including the estimates inherent in the process of preparing financial statements, and (2) non-recognized,
+or those that provide evidence with respect to conditions that did not exist at the date of the balance sheet but arose subsequent to
+that date. 
+
+The
+Company evaluates subsequent events that have occurred after the balance sheet date but before the financial statements are issued. Based
+on this evaluation, the Company concluded that subsequent to June 30, 2021 but prior to the date the financial statements were available
+to be issued, and has determined that it does not have any material events to disclose. 
+
+F-23 
+
+<EX-31.1>
+ 2
+ txcb_ex31z1.htm
+ CERTIFICATION
+
+EXHIBIT 31.1 
+
+CERTIFICATION 
+
+I, Xingtao Zhou, certify that: 
+
+1. I have reviewed this Annual Report on Form
+10-K of CANG BAO XIA INTERNATIONAL ART TRADE CENTER, INC. for the year ended June 30, 2021; 
+
+2. Based on my knowledge, this report does not
+contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements,
+and other financial information included in this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. I am responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting
+(as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the registrant and have: 
+
+(a) designed such disclosure
+controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant is made known to us by others, particularly during the period in which this report is being prepared; 
+
+(b) designed such internal
+control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes
+in accordance with generally accepted accounting principles; 
+
+(c) evaluated the effectiveness
+of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) disclosed in this report
+any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent
+fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. I have disclosed, based on my most recent evaluation
+of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board
+of directors (or persons performing the equivalent function): 
+
+a) all significant deficiencies
+and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely
+affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) any fraud, whether or not
+material, that involves management or other employees who have a significant role in the registrant s internal control over financial
+reporting. 
+
+Date: October 13, 2021 
+ /s/ Xingtao Zhou 
+
+Xingtao Zhou 
+
+Chief Executive Officer and Chief Financial Officer (principal executive officer and principal financial and accounting officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ txcb_ex32z1.htm
+ CERTIFICATION
+
+EXHIBIT 32.1 
+
+CERTIFICATION PURSUANT TO 
+
+18 U.S.C. SECTION 1350, 
+
+AS ADOPTED PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of CANG BAO XIA INTERNATIONAL
+ART TRADE CENTER, INC. (the Company on Form 10-K for the year ended June 30, 2021 as filed with the Securities and Exchange
+Commission on the date hereof (the Report ), I, Xingtao Zhou, Chief Executive Officer and Chief Financial Officer of the
+Company, certify, pursuant to 18 U.S.C. section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully complies with the requirements of section 13(a)
+or 15(d) of the Securities and Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly presents, in all
+material respects, the financial condition and result of operations of the Company. 
+
+A signed original of this written statement required by Section 906
+has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff
+upon request. 
+
+Date: October 13, 2021 
+ /s/ Xingtao Zhou 
+
+Xingtao Zhou 
+
+Chief Executive Officer and Chief Financial Officer (principal executive officer and principal financial and accounting officer) 
+
+A signed original of this written statement required by Section 906
+has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff
+upon request. 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 4
+ txcb-20210630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 5
+ txcb-20210630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ txcb-20210630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ txcb-20210630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ txcb-20210630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ txcb-20210630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

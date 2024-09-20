@@ -1,0 +1,900 @@
+<Header>
+<FileStats>
+    <FileName>20211227_10-K_edgar_data_874292_0001628280-21-025600.txt</FileName>
+    <GrossFileSize>7338724</GrossFileSize>
+    <NetFileSize>117570</NetFileSize>
+    <NonText_DocumentType_Chars>1257165</NonText_DocumentType_Chars>
+    <HTML_Chars>2160674</HTML_Chars>
+    <XBRL_Chars>1976662</XBRL_Chars>
+    <XML_Chars>1705330</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-21-025600.hdr.sgml : 20211227
+<ACCEPTANCE-DATETIME>20211227162110
+ACCESSION NUMBER:		0001628280-21-025600
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		85
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211227
+DATE AS OF CHANGE:		20211227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADDVANTAGE TECHNOLOGIES GROUP INC
+		CENTRAL INDEX KEY:			0000874292
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-DURABLE GOODS [5000]
+		IRS NUMBER:				731351610
+		STATE OF INCORPORATION:			OK
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10799
+		FILM NUMBER:		211520846
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1221 E. HOUSTON
+		CITY:			BROKEN ARROW
+		STATE:			OK
+		ZIP:			74012
+		BUSINESS PHONE:		9182519121
+
+	MAIL ADDRESS:	
+		STREET 1:		1221 EAST HOUSTON STREET
+		CITY:			BROKEN ARROW
+		STATE:			OK
+		ZIP:			74012
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ADDVANTAGE MEDIA GROUP INC /OK
+		DATE OF NAME CHANGE:	19930328
+
+</SEC-Header>
+</Header>
+
+ 0001628280-21-025600.txt : 20211227
+
+10-K
+ 1
+ aey-20210930.htm
+ 10-K
+
+aey-20210930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the fiscal year ended , 2021 
+ REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ Commission file number 
+ 
+ (Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) , , , 
+ (Address of principal executive offices) (Zip code) 
+ Registrant s telephone number: ) 
+ Securities registered under Section 12(b) of the Act: 
+ Title of each class Trading Symbol Name of exchange on which registered 
+ Securities registered under Section 12(g) of the Act: None 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes x Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes x Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). x No Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. Large Accelerated Filer Accelerated Filer 
+ x Smaller Reporting Company Emerging Growth Company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No The aggregate market value of the outstanding shares of common stock, par value .01 per share, held by non-affiliates computed by reference to the closing price of the registrant s common stock as of March 31, 2021 was . 
+ The number of shares of the registrant s outstanding common stock, .01 par value per share, was as of December 27, 2021. 
+
+ADDvantage Technologies Group, Inc. 
+ Form 10-K 
+ For the Year Ended September 30, 2021 
+ Index 
+ Page PART I 
+ Item 1. 
+ Business. 
+ 3 
+ Item 2. 
+ Properties. 
+ 7 
+ Item 3. 
+ Legal Proceedings. 
+ 8 
+ Item 4. Mine Safety Disclosures 8 
+ PART II 
+ Item 5. 
+ Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ 9 
+ Item 6. 
+ [Reserved] 9 
+ Item 7. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ 9 
+ Item 8. 
+ Financial Statements and Supplementary Data. 
+ 16 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+ 38 
+ Item 9A. 
+ Controls and Procedures. 
+ 38 
+ Item 9B. 
+ Other Information. 
+ 39 
+ PART III 
+ Item 10. Directors, Executive Officers and Corporate Governance. 40 
+ Item 11. Executive Compensation. 40 
+ Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 40 
+ Item 13 Certain Relationships and Related Transactions, and Director Independence. 40 
+ Item 14 Principal Accountant Fees and Services. 40 
+ PART IV 
+ Item 15. 
+ Exhibits, Financial Statement Schedules. 
+ 41 
+ Item 16. 
+ Form 10-K Summary. 42 
+ SIGNATURES 
+ 45 
+
+2 
+
+PART I 
+ 
+ Item 1. Business. 
+ Forward-Looking Statements 
+ Certain matters discussed in this report constitute forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, including statements which relate to, among other things, expectations of the business environment in which ADDvantage Technologies Group, Inc. (the Company , We , Our or ADDvantage operates, projections of future performance, perceived opportunities in the market and statements regarding our goals and objectives and other similar matters. The words estimates , projects , intends , expects , anticipates , believes , plans , goals , strategy , likely , may , should and similar expressions often identify forward-looking statements. These forward-looking statements are found at various places throughout this report and the documents incorporated into it by reference. These and other statements, which are not historical facts, are hereby identified as forward-looking statements for purposes of the safe harbor provided by Section 21E of the Securities Exchange Act of 1934, as amended, and Section 27A of the Securities Act of 1933, as amended. These statements are subject to a number of risks, uncertainties and developments beyond our control or foresight, including changes in the cable television and telecommunications industries, changes in customer and supplier relationships, technological developments, changes in the economic environment generally, the growth or formation of competitors, changes in governmental regulation or taxation, changes in our personnel, our ability to identify, complete and integrate acquisitions on favorable terms and other such factors. Our actual results, performance or achievements may differ significantly from the results, performance or achievements expressed or implied in the forward-looking statements. We do not undertake any obligation to publicly release any revisions to these forward-looking statements to reflect events or circumstances after the date of this report or to reflect the occurrence of unanticipated events. 
+ Background 
+ The Company (through its subsidiaries) provides turn-key wireless infrastructure services for wireless carriers, tower companies and equipment manufacturers, and distributes and services a comprehensive line of electronics and hardware for the telecommunications industry. The Company was incorporated under the laws of Oklahoma in September 1989 as ADDvantage Media Group, Inc. In December 1999, its name was changed to ADDvantage Technologies Group, Inc. In 2019, the Company moved its headquarters from Broken Arrow, Oklahoma to Carrollton, Texas and acquired Fulton Technologies, Inc. Fulton on January 4, 2019, which established the Company s Wireless Infrastructure Services segment. The Company s Telecommunications segment operates through its subsidiaries, Nave Communications Company Nave and ADDvantage Triton, LLC Triton ). 
+ Our wireless infrastructure subsidiary provides services such as wireless macro site development, distributed antenna systems, small cells and project management expertise with national and regional scalability. Fulton's expertise includes site modifications, tower retrofits, including 5G, civil construction, tower erection, utility installation and testing, site acquisition including leasing, zoning and permitting, design and architect-engineering services. 
+ For our telecommunications subsidiaries, we sell new, surplus-new and refurbished equipment that we purchase in the market as a result of telecommunications system upgrades or overstock supplies. We maintain one of the industry's largest inventories of new and used equipment, which allows us to expedite delivery of system-critical products to our customers. In addition, we offer our customers decommissioning services for surplus and obsolete equipment, which we in turn process through our recycling program. We continually evaluate new product offerings in the broader telecommunications industry as technology evolves and upgrade our product offerings to stay current with our customer s technology platforms. 
+ Website Access to Reports 
+ Our public website is www.addvantagetechnologies.com . We make available, free of charge through the Investor Relations section of our website, our annual reports to stockholders, annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K and amendments to those reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission SEC ). Any material we file with or furnish to the SEC is also maintained on the SEC website www.sec.gov ). 
+ The information contained on our website, or available by hyperlink from our website, is not incorporated into this Form 10-K or other documents we file with, or furnish to, the SEC. We intend to use our website as a means of 
+ 3 
+
+disclosing material non-public information and for complying with our disclosure obligations under Regulation FD. Such disclosures will be included on our website in the Investor Relations section. Accordingly, investors should monitor such portions of our website, in addition to following our press releases, SEC filings and public conference calls and webcasts. 
+ Operating Segments 
+ The Company s current reportable segments are Wireless Infrastructure Services Wireless and Telecommunications Telco ). 
+ Products and Services 
+ Wireless Segment 
+ We provide turn-key wireless infrastructure services for the four major U.S. wireless carriers, communication tower companies, national integrators, and original equipment manufacturers that support these wireless carriers. These services primarily consist of the installation and upgrade of technology on cell sites and the construction of new small cells for 5G. 
+ 
+ Fulton has 120 employees. Fulton performs equipment installations, upgrades and maintenance services for its customers primarily on communication towers. Having the proper safety record, training capability and quality oversight is paramount in the industry. Fulton has prided itself in performing work in a safe and timely manner and delivering high-quality services to its clients. Demand for tower equipment installation and upgrade services has notably increased as observed, particularly in the fourth quarter of fiscal 2021. We expect this trend to continue for the foreseeable future as wireless carriers continue to add capacity, expand their networks and upgrade their current technology for high speed connectivity to 5G. 
+ 
+ Fulton also supports the installation and support of temporary tower locations. This niche and growing business includes the erection of temporary towers to allow for the maintenance of permanent locations without causing a degradation of wireless coverage in the area. In addition, Fulton provides temporary tower solutions for special events that require an increase of coverage and capacity for festivals, concerts and sporting events. Fulton has an inventory of temporary poles of different sizes and uses a unique installation process for the quick deployment of a tower location with little to no environmental impact. Our Special Event tower business was impacted severely during fiscal year 2020 due to COVID-19 and the government restrictions on large crowds and meetings for safety reasons. However, we observed a strong recovery in fiscal year 2021 as summer festivals, concerts, and sporting events resumed across our service area. 
+ Telco Segment 
+ The Telco segment provides quality new and used telecommunication networking equipment, including both central office and customer premise equipment, to its customer base of telecommunications providers, enterprise customers and resellers by utilizing its inventory from a broad range of manufacturers as well as other supply channels. This segment also offers its customers repair and testing services for telecommunications networking equipment. In addition, this segment offers its customers decommissioning services for surplus and obsolete equipment, which it in turn processes through its recycling program. 
+ Central Office Equipment Central office equipment includes optical transport, switching, and data center equipment on a customer s communication network. Optical equipment products aggregate and transport internet traffic; switching equipment products originate, terminate and route voice traffic; and data equipment products transport internet and voice over internet protocol traffic via routers. 
+ 
+ Customer Premise Equipment Consumer premise equipment includes integrated access devices, channel banks, internet protocol private branch exchange or IP PBX phones, and routers that are placed inside the customer site that will receive the communication signal from the communication services provider. This piece of our Telco business was severely impacted by the closing of all major office complexes throughout the US in 2020 but showed strong recovery in 2021. 
+ In addition, we offer our customers decommissioning services for surplus and obsolete telecom equipment, which we then process through our Responsible Recycling R2 certified recycling program. 
+ 4 
+
+Revenues by Geographic Areas 
+ Our revenues by geographic areas were as follows for the years ended September 30, 2021 and 2020, in thousands: 
+ 2021 2020 United States Wireless 20,708 21,354 Telco 36,799 26,880 International Telco 4,653 1,948 62,160 50,182 
+ Revenues attributed to geographic areas are based on the location of the customer. All of our long-lived assets are located within the United States. 
+ Sales and Marketing 
+ Wireless Segment 
+ The Wireless segment accounted for 33 and 43 of consolidated revenues for the years ended September 30, 2021 and 2020, respectively. In 2021, wireless tower and temporary tower services, including the procurement of the requisite materials, represented substantially all of the Wireless segment s revenues. In this segment, we market and sell our products to wireless carriers, wireless equipment providers and tower companies. 
+ Telco Segment 
+ The Telco segment accounted for 67 and 57 of consolidated revenues for the years ended September 30, 2021 and 2020, respectively. Sales of new products represented 25 of revenues and refurbished products represented 73 . Repair services, recycle sales and other services contributed the remaining 2 of Telco segment revenues. In this segment, we market and sell our products to franchise and private MSOs, telecommunication companies, system contractors, other industry resellers, enterprise customers and directly to consumers via online sales. Our sales and marketing are predominantly performed by our experienced internal sales and customer service staff, outside sales representatives located in various geographic and strategic areas of the country, and many online sales channel platforms such as our own website, Amazon and Newegg. The majority of our sales activity is generated through customer relationships developed by our sales personnel and executives, referrals from manufacturers we represent, and online advertising. 
+ We maintain a wide breadth of new and used products and many times can offer our customers same day shipments. We believe we carry one of the most diverse inventories of any telecommunication product reseller in the country, and we have access to additional inventory via our various supply channels. We believe our investment in on-hand inventory, our product supply channels, and our experienced sales and customer service team create a competitive advantage for us. 
+ Suppliers 
+ The Telco segment primarily purchases its used inventory from telecommunication companies and wholesale suppliers that have excess equipment on hand or have upgraded their systems or from other resellers in this industry. 
+ Seasonality 
+ In the Wireless segment, the services that we provide on our customers wireless towers are outdoors and can be damaged by storms and power surges. Consequently, we can experience increased demand on certain product offerings during the months between late spring and early fall when severe weather or consistent rain tends to be 
+ 5 
+
+more prominent than at other times during the year. Winter months are generally slower due to the cold weather conditions, and the inability to access wireless towers during periods of heavy snow and ice. 
+ In the Telco segment, we do not anticipate that quarterly operating results will generally be impacted by seasonal fluctuations, other than normal business fluctuations during the winter holiday season. 
+ Competition 
+ Wireless Segment 
+ 
+ The wireless infrastructure services business competes with other wireless service companies on a local, regional or national basis. In some areas, Fulton provides services that its customers can also provide utilizing their in-house personnel. However, most of the direct competition in the Wireless segment is regionally based from companies of a similar size. In niche areas of service, like our Special Events and Temporary Pole business in the Midwest and in certain markets, the Wireless segment has few competitors due to its expertise and the required investment in equipment and assets. The level of competition can vary based on demand characteristics in certain markets. 
+ For the Wireless segment, we believe our differentiation from other service providers in the marketplace is primarily the following: 
+ Past performance and experience developed over 30 years; 
+ Robust safety organization; 
+ Ability to recruit and retain personnel and a Midwest workforce of long-tenured personnel of 20 to 30-plus years of service; 
+ Broad range of multi-year master service agreements in place with Carriers, original equipment manufacturers (OEM s), Tower Owners and Integrators; 
+ Industry relationships; and 
+ Having a diversified offering of services based on know-how and equipment. 
+ Telco Segment 
+ The overall telecommunications equipment industry is highly competitive. We compete with numerous resellers in the marketplace that sell both direct and online. 
+ For the Telco segment, we believe our differentiation from other resellers includes: 
+ Broad range of new, refurbished and used inventory, which allows us to meet our customers timing needs; 
+ Ability to source unique and sometimes rare, high demand inventory; 
+ Offer a range of repair and testing capabilities to help improve the quality of our inventory as well as offering repair and testing of equipment as a service to our customers and vendors; 
+ Experienced sales support staff that maintain strong and longstanding relationships with our customers; 
+ Sales force that has a strong technical knowledge of the products we offer; 
+ Quality certifications: TL9000 (telecommunications quality certification), ISO 14001 (environmental management certification), OHSAS18000 (occupational safety and health management certification), and R2 (EPA responsible recycling practices for electronics); and 
+ Provide multiple services for our customers including deinstallation and decommission of products, storage and management of spare inventory and recycling. 
+ Working Capital Practices 
+ Working capital practices in our business differ by segment. In the Wireless segment, we utilize quick payment accounts receivable programs with our major customers and our bank to decrease the amount of time between project completion and payment. The majority of working capital needs result from the payment of project related costs before invoicing the customer. This includes personnel, subcontractors, equipment rentals and materials. Although the quick payment programs are in place to accelerate receivable payments, working capital is necessary to complete the jobs and provide the necessary closeout packages required for customer approval. In addition, we also have access to our revolving bank line of credit to meet our working capital needs. 
+ In the Telco segment, working capital centers on inventory and accounts receivable. We choose to carry a relatively large volume of inventory due to our on-hand, on-demand business model. We typically utilize excess cash flows to reinvest in inventory to maintain or expand our product offerings. The greatest need for working capital occurs when we make bulk purchases of surplus-new and used inventory, or when our OEM suppliers offer additional discounts 
+ 6 
+
+on large purchases. Our working capital requirements are generally met by cash flows from operations and our revolving bank line of credit. 
+ 
+ The Company has a 4.0 million revolving line of credit agreement with its primary financial lender. The revolving bank line of credit capacity is 4.0 million, or the sum of 80 of eligible accounts receivable and 60 of eligible inventory, as defined by the loan agreement, with quarterly interest payments based on the Wall Street Journal Prime Rate ("WSJP" floating rate with a 4 minimum, and a fixed charge coverage ratio of 1.25x to be tested quarterly beginning June 30, 2021. The Company was not in compliance with this covenant at September 30, 2021. The Company notified its primary financial lender of the covenant violation, and on December 22, 2021 the primary lender granted a waiver of the covenant violation. On December 14, 2021, the Company signed an agreement with its primary financial lender to extend the expiration date of its revolving line of credit to January 17, 2022. The Company is in the process of completing an annual extension which we expect will be completed by the new expiration date. We expect to have sufficient funds available from our cash on hand, future cash flows, quick payment accounts receivable programs and the bank revolving line of credit to meet our working capital needs for the foreseeable future. 
+ Significant Customers 
+ During the year ended September 30, 2021, though we were not dependent upon a single or few customers to support our consolidated revenues, AT T Mobility accounted for 10 of consolidated revenues, and 31 of our Wireless segment revenues. Our top five Wireless customers accounted for 28 of consolidated revenues and 84 of Wireless segment revenues during fiscal year 2021. One Telco customer, Zayo Group LLC, accounted for 18 of consolidated revenues, and 27 of Telco segment revenues. Our top five Telco customers accounted for 30 of consolidated revenues and 45 of Telco segment revenues during fiscal year 2021. 
+ During the year ended September 30, 2020, though we were not dependent upon a single or few customers to support our consolidated revenues, our Wireless segment realized increased concentration in revenues from our largest customers. A single customer, AT T Mobility, accounted for 14 of consolidated revenues, and 32 of our Wireless segment revenues. Our top five Wireless customers accounted for 33 of consolidated revenues and 77 of Wireless segment revenues during fiscal year 2020. 
+ Impact of Inflation on Operations 
+ Inflation in the United States has been relatively low in recent years and did not have a material impact on our results of operations for the fiscal years ended September 30, 2021 and 2020. However, component price increases were observed in the fiscal fourth quarter of 2021, which negatively impacted our gross margins in the Wireless segment. 
+ Off-Balance Sheet Arrangements 
+ 
+ We have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors. 
+ Personnel 
+ At September 30, 2021, we had 170 employees, including 169 full-time employees. Management considers its relationships with its employees to be excellent. Our employees are not unionized, and we are not subject to any collective bargaining agreements. 
+ 
+ Item 2. Properties. 
+ Each subsidiary leases property for office, warehouse and service center facilities. Our corporate headquarters is located in Carrollton, Texas. Our Wireless Segment leases additional space in Chicago, Illinois, and our Telco Segment has operations in Miami, Florida. We believe that our current facilities are adequate to meet our needs. 
+ The Company has a right-of-use for buildings in Minneapolis, Minnesota and Jessup, Maryland which were no longer being used in operations. The Minnesota and Maryland properties were subleased as of September 30, 2021. 
+ 7 
+
+Item 3. Legal Proceedings. 
+ From time to time in the ordinary course of business, we are a party to various types of legal proceedings. We do not believe that these proceedings, individually or in the aggregate, will have a material adverse effect on our financial position, results of operations or cash flows. 
+
+Item 4. Mining Safety Disclosures. 
+ Not applicable. 
+ 8 
+
+PART II 
+ 
+ Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ Market Information 
+ The table sets forth the high and low sales prices on the NASDAQ Global Market under the symbol AEY for the quarterly periods indicated. 
+ Year Ended September 30, 2021 High Low First Quarter 4.24 1.80 Second Quarter 3.59 2.50 Third Quarter 2.92 1.90 Fourth Quarter 2.82 2.18 Year Ended September 30, 2020 High Low First Quarter 2.85 1.85 Second Quarter 6.49 1.80 Third Quarter 4.40 1.50 Fourth Quarter 3.47 1.87 
+ Holders 
+ At December 27, 2021, we had approximately 80 shareholders of record and, based on information received from brokers, there were approximately 5,800 beneficial owners of our common stock. 
+ Dividend policy 
+ We have not declared or paid any cash dividends on our common stock, and we do not currently anticipate paying any cash dividends on our common stock in the foreseeable future. We currently intend to retain all future earnings to fund the development and growth of our business. Any future determination relating to our dividend policy will be at the discretion of our board of directors and will depend on our results of operations, financial condition, capital requirements and other factors deemed relevant by our board. 
+ 
+ Item 6. [Reserved] 
+ 
+ Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. 
+ The following discussion and analysis of financial condition and results of operations should be read in conjunction with our consolidated historical financial statements and the notes to those statements that appear elsewhere in this report. Certain statements in the discussion contain forward-looking statements based upon current expectations that involve risks and uncertainties, such as plans, objectives, expectations and intentions. Actual results and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of a number of factors. 
+ 
+ General 
+ The Company reports its financial performance based on two external reporting segments: Wireless and Telecommunications. These reportable segments are described below. 
+ Wireless Infrastructure Services Wireless 
+ The Company's Wireless Segment, which consists entirely of the assets of Fulton, provides turn-key wireless infrastructure services for the four major U.S. wireless carriers, communication tower companies, national integrators, and original equipment manufacturers that support these wireless carriers. These services primarily consist of the installation and upgrade of technology on cell sites and the construction of new small cells for 5G. 
+ Telecommunications Telco 
+ 9 
+
+The Company s Telco segment sells new and refurbished telecommunications networking equipment, including both central office and customer premise equipment, to its customer base of telecommunications providers, enterprise customers and resellers located primarily in North America. This segment also offers its customers repair and testing services for telecommunications networking equipment. In addition, this segment offers its customers decommissioning services for surplus and obsolete equipment, which it in turn processes through its recycling program. 
+ 
+ Recent Business Developments 
+ COVID-19 
+ On March 11, 2020, the World Health Organization declared the current outbreak of COVID-19 to be a global pandemic, and on March 13, 2020, the United States declared a national emergency. In response to these declarations and the rapid spread of COVID-19, federal, state and local governments have imposed varying degrees of restrictions on business and social activities to contain COVID-19, including quarantine and stay-at-home or shelter-in-place orders in markets where we operate. Despite these stay-at-home or shelter-in-place orders, we are classified as an essential business due to the services and products we provide to the telecommunications industry. Therefore, we continue to operate in the markets we serve while these orders were in place. Most of our back-office and administrative personnel worked from home while these orders were in place, these personnel began working in the office as restrictions were relaxed or lifted. Although we can continue to operate our businesses, our revenues have slowed, especially in our Wireless segment, due to the carriers slowing down various wireless tower projects. We have not experienced a material disruption in our supply chain to date. 
+ With the partial reopening of the economy the economic effects of the pandemic and resulting societal changes remain unpredictable. Although we experienced increased revenues in the last two quarters compared to recent quarters since the pandemic began last year, there are a number of uncertainties that could impact our future results of operations, including the efficacy and widespread distribution of a vaccine, the return of major outdoor events during the summer and fall months, and the impact of COVID-19 on the operating results and capital budgets of our customers. 
+ Wireless Segment Operating Results 
+ During 2021, Fulton achieved revenues of 20.7 million. Fulton has maintained a strong employee base, and we continue to successfully recruit strong industry talent throughout the business to help us implement operational improvements with a focus on improving our quality and project margins. We are expecting increased activity in the industry as wireless carriers roll out 5G and the required densification of their networks. Our goal is to solidify our processes and project oversight to successfully and profitably take advantage of new growth opportunities as the 5G expansion becomes essential. 
+ Telco Segment 
+ The Telco segment achieved revenues of 41.5 million during 2021. We continue to focus our core team on sales and procurement. Our Triton team has strong experience in online marketing. 
+ At Triton, our facility is designed to streamline our processes, including inventory management, shipping and receiving and the refurbishment operations. We have developed the internal systems necessary to expand our refurbishment capabilities and new equipment sales by adding additional product lines and manufacturers. We have also increased our focus on the brokerage business and internet sales by expanding our sales channels. We believe that Triton is poised to expand, capture additional market share and develop new customers. 
+ Our Nave business experienced significant upside during the year related to the global chip shortage as well as growth from our enterprise fiber network customers as they experienced significant network growth. 
+ 
+ Results of Operations 
+ Year Ended September 30, 2021, compared to Year Ended September 30, 2020 (all references are to fiscal years) 
+ 10 
+
+Consolidated 
+ Consolidated sales increased 12.0 million, or 24 , to 62.2 million for 2021 from 50.2 million for 2020. The increase in sales was related to an increase of 12.7 million in the Telco segment, mainly attributable to increased demand for refurbished network equipment resulting from the global chip shortage. Sales for the Wireless segment decreased 0.7 million. 
+ Consolidated gross profit increased 4.4 million, or 38 , to 16.1 million for 2021 from 11.7 million for 2020. Telco gross profit increased 4.7 million, partially offset by an decrease in gross profit in our Wireless segment of 0.3 million. 
+ Operating expenses increased 1.1 million to 9.3 million for the twelve months ended September 30, 2021 compared with 8.2 million for the same period last year. The increase in operating expenses was due primarily to our investment in our regional growth strategy to meet the demand of our customers in the Wireless segment. 
+ Consolidated selling, general and administrative ("SG A") expenses include overhead costs, which primarily consist of personnel costs, insurance, professional services, and communication, among other less significant cost categories. SG A increased 3.7 million or 32 to 14.9 million in 2021 compared to 11.2 million in 2020. Increased selling expenses resulted from higher sales compensation and commissions to support growth in the Telco segment. Increased general and administrative expenses during 2021 were related to expanded operational support and infrastructure in anticipation of future 5G expansion. 
+ In 2020 the Company recorded impairment charges of 8.7 million on intangibles including goodwill and 0.7 million on its right-of-use asset Telco Segment. See Note 1. Summary of Significant Accounting Policies and Note 8 - Leases in the Consolidated Financial Statements for further discussion of impairments. 
+ The Company applied for and has been granted forgiveness by the Small Business Administration ("SBA") of 2.9 million in eligible expenditures for payroll, other expenses, and accrued interest described in the CARES Act, resulting in a gain on extinguishment of debt of 3.0 million in the fourth quarter of fiscal 2021. 
+ The income tax benefit was 0.1 million for 2021 and 1.2 million for 2020, or an effective tax benefit rate of 0.8 and 6.7 respectively. The income tax benefit in fiscal 2021 was the result of an increase in the valuation allowance against our deferred tax assets, offset by certain refundable credits generated in the current fiscal year. The benefit in 2020 was a result of the CARES Act, where the Company took advantage of a provision to carry back net operating losses generated in 2018 through 2020 for a period of five years. As a result, the Company s effective tax rate included an income tax benefit recognized during the year ended September 30, 2020 related to tax losses generated during the fiscal year up to the amount that the Company estimates is realizable based upon taxable income in the carry back periods. Therefore, as of September 30, 2020, the Company recorded a 1.2 million income tax receivable and recorded a current benefit for income taxes. The Company continues to provide a valuation allowance of 8.5 million for net deferred assets where the Company believes it is more likely than not that those deferred taxes will not be realized. 
+ Segment results 
+ Wireless 
+ Revenues for the Wireless segment were 20.7 million and 21.4 million for the years ended September 30, 2021 and 2020, respectively, a decrease of 3 . Our operations were impacted by customer delays in building out 5G infrastructure. 
+ Gross profit decreased 0.3 million year over year, and gross margins were 30 and 31 for the years ended September 30, 2021 and 2020, respectively. The decrease was primarily due to lower revenues for the segment. 
+ Loss from operations was 6.9 million and 4.4 million for the years ended September 30, 2021 and 2020, respectively. The increase is mainly attributable to investment in our regional growth strategy associated with anticipated 5G infrastructure build outs. 
+ Telco 
+ Revenues for the Telco segment were 41.5 million and 28.8 million for the years ended September 30, 2021 and 2020, respectively, an increase of 12.7 million, or 44 . The increase in sales for Triton was driven by the economic 
+ 11 
+
+recovery from the COVID pandemic as workers returned to offices and customers resumed purchasing our products. Nave's growth was attributable to the global circuit chip supply shortage which impacted new OEM products and increased the demand for the refurbished equipment that Nave provides. 
+ Gross profit increased 4.7 million, or 93 , to 9.9 million for the year ended September 30, 2021 compared to 5.1 million for the same period last year. Gross margin was 24 and 18 for the years ended September 30, 2021 and 2020, respectively. Gross margin increased primarily due to the increase in revenue and a 1.4 million decrease in inventory obsolescence versus the prior year. 
+ Loss from operations was 2.4 million and 14.2 million for the years ended September 30, 2021 and 2020, respectively. 
+ Non-GAAP Financial Measure 
+ Adjusted EBITDA is a supplemental, non-GAAP financial measure. EBITDA is defined as earnings before interest expense, income taxes, depreciation and amortization. Adjusted EBITDA as presented also excludes stock compensation expense, gain on extinguishment of debt, impairment of intangibles and right of use assets, other income, other expense, interest income and income from equity method investment. Adjusted EBITDA is presented below because this metric is used by the financial community as a method of measuring our financial performance and of evaluating the market value of companies considered to be in similar businesses. Since Adjusted EBITDA is not a measure of performance calculated in accordance with GAAP, it should not be considered in isolation of, or as a substitute for, net earnings as an indicator of operating performance. Adjusted EBITDA may not be comparable to similarly titled measures employed by other companies. In addition, Adjusted EBITDA is not necessarily a measure of our ability to fund our cash needs. 
+ A reconciliation by segment of loss from operations to Adjusted EBITDA follows, in thousands: 
+ For the year ended September 30, 2021 For the year ended September 30, 2020 Wireless Telco Total Wireless Telco Total Loss from operations (6,864) (2,433) (9,297) (4,377) (14,153) (18,530) Depreciation and amortization expense 715 513 1,228 628 926 1,554 Intangible Impairment 8,714 8,714 Impairment of right of use asset 660 660 Stock compensation expense 515 493 1,008 216 358 574 Adjusted EBITDA (a) (b) 
+ (5,634) (1,427) (7,061) (3,533) (3,495) (7,028) 
+ (a) The Telco segment includes an inventory obsolescence charge of 0.4 million and 1.8 million for the years ended September 30, 2021 and 2020, respectively. In addition, the Telco segment includes a lower of cost or net realizable value charge of 0.1 million for the years ended September 30, 2021 and 2020. 
+ (b) The Company allocates its corporate general and administrative expenses to the reportable segments. See Note 14 - Segment Reporting in the Consolidated Financial Statements for further discussion of segments. 
+ 
+ Liquidity and Capital Resources 
+ Liquidity and Capital Resources 
+ At September 30, 2021 we had cash and equivalents and restricted cash on hand of 2.9 million and availability under our bank line of credit of 1.9 million, for a total liquidity of 4.8 million. We were not in compliance with a covenant on our bank line of credit at September 30, 2021. We notified our primary financial lender of the covenant violation, and on December 22, 2021 the primary lender granted a waiver of the covenant violation. On December 14, 2021, the Company signed an agreement with its primary financial lender to extend the expiration date of its revolving line of credit to January 17, 2022. We are in the process of completing an annual extension which we expect will be completed by the new expiration date. We entered into an Equity Distribution Agreement (the Sales Agreement with Northland Securities, Inc., as agent Northland ), pursuant to which we may offer and sell, from time to time, through Northland, shares of our common stock, par value 0.01 per share, having an aggregate offering price of up to 13.9 million ("Shares"). The offer and sale of the Shares will be made pursuant to a shelf registration statement on Form S-3 and the related prospectus filed by us with the Securities and Exchange Commission (the "SEC") on March 3, 2020, as amended on March 23, 2020, and declared effective by the SEC on 
+ 12 
+
+April 1, 2020. We currently have approximately 10.8 million available to us to fund our working capital needs under the Sales Agreement. Based on our availability under our bank line of credit and our Sales Agreement, we believe we have sufficient liquidity and capital resources to cover our operating losses and our additional working capital and debt payment needs. 
+ We continue to evaluate opportunities to expand our business through selective acquisitions and internal growth initiatives. Our capital investment decisions are determined by an analysis of the projected return on capital employed of each of those alternatives, which is substantially driven by the cost to acquire existing assets from a third party, the capital required to invest in new equipment and the point in the 5G densification cycle. Based on these factors, we make capital investment decisions that we believe will support our long-term growth strategy. Depending on the timing and scope of these opportunities, we may need to seek additional funding to finance the necessary working capital for such opportunities. 
+ Cash Flows Used in Operating Activities 
+ The Company has invested in its operations over the past two fiscal years with the anticipation that the Company will provide operating cash flows to fund its ongoing operations and cash flow needs. During 2021, cash used in operations was 7.5 million. We currently have cash of 2.9 million and availability under our bank line of credit of 1.9 million, for a total liquidity of 4.8 million. Cash used in operations during the year ended September 30, 2020 was 3.8 million. 
+ Cash Flows Provided by Investing Activities 
+ 
+ Capital expenditures and proceeds from asset sales are the main components of our investing activities. Cash provided by investing activities during the year ended September 30, 2021 was 3.5 million which included final proceeds of 3.8 million on the note receivable related to the 2019 sale of the Cable Segment. Cash provided by investing activities during the year ended September 30, 2020 was 2.4 million, including payments of 2.6 million on the note receivable. 
+ Cash Flows (Used in) Provided by Financing Activities 
+ Cash used in financing activities during the year ended September 30, 2021 was 1.4 million, related to repayments under the note payable and bank line of credit, offset by the proceeds from the sale of common stock. The Company has 10.8 million in stock offering price available to provide cash flow under its Equity Distribution Agreement for the sale of the Company's common stock. See Note 10 - Equity Distribution Agreement and Sale of Common Stock in the accompanying consolidated financial statements for more information. Cash provided by financing activities during the year ended September 30, 2020 was 8.2 million, related to borrowing under the note payable, bank line of credit, proceeds from share issuances, and borrowings under the Paycheck Protection Program ("PPP," "PPP loan"). 
+ 
+ Critical Accounting Policies and Estimates 
+ Note 1 to the Consolidated Financial Statements in this Form 10-K for fiscal year 2021 includes a summary of the significant accounting policies or methods used in the preparation of our Consolidated Financial Statements. Some of those significant accounting policies or methods require us to make estimates and assumptions that affect the amounts reported by us. We believe the following items require the most significant judgments and often involve complex estimates. 
+ General 
+ The preparation of financial statements in conformity with United States generally accepted accounting principles requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. We base our estimates and judgments on historical experience, current market conditions, and various other factors we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results could differ from these estimates under different assumptions or conditions. The most significant estimates and assumptions are discussed below. 
+ Inventory Valuation 
+ 13 
+
+For our Telco segment, our position in the telecommunications industry requires us to carry relatively large inventory quantities relative to annual sales, but it also allows us to realize high overall gross profit margins on our sales. We market our products primarily to telecommunication providers, telecommunication resellers, and other users of telecommunication equipment who are seeking products for which manufacturers have discontinued production or cannot ship new equipment on a same-day basis as well as providing used products as an alternative to new products from the manufacturer. Carrying these large inventory quantities represents our largest risk. 
+ We are required to make judgments as to future demand requirements from our customers. We regularly review the value of our inventory in detail with consideration given to rapidly changing technology which can significantly affect future customer demand. For individual inventory items, we may carry inventory quantities that are excessive relative to market potential, or we may not be able to recover our acquisition costs for sales that we do make. In order to address the risks associated with our investment in inventory, we review inventory quantities on hand and reduce the carrying value when the loss of usefulness of an item or other factors, such as obsolete and excess inventories, indicate that cost will not be recovered when an item is sold. 
+ Our inventories are all carried in the Telco segment and consist of new and used electronic components for the telecommunications industry. Inventory is stated at the lower of cost or net realizable value, with cost determined using the weighted-average method. Net realizable value is the estimated selling price in the ordinary course of business, less reasonably predictable costs of completion, disposal, and transportation. At September 30, 2021, we had total inventory, before the reserve for excess and obsolete inventories, of 9.4 million, consisting of 1.3 million in new products and 8.1 million in used or refurbished products. 
+ We identified certain inventory that more than likely will not be sold or that the cost will not be recovered when it is processed through our recycling program. Therefore, we have an obsolete and excess inventory reserve of 3.5 million at September 30, 2021. In 2021, we increased the reserve by 0.4 million. We also reviewed the cost of inventories against estimated market value and recorded a lower of cost or net realizable value write-off of 0.1 million for inventories that have a cost in excess of estimated net realizable value. If actual market conditions differ from those projected by management, this could have a material impact on our gross margin and inventory balances based on additional write-downs to net realizable value or a benefit from inventories previously written down. 
+ Inbound freight charges are included in cost of sales. Purchasing and receiving costs, inspection costs, warehousing costs, internal transfer costs and other inventory expenditures are included in operating expenses, since the amounts involved are not considered a material component of cost of sales. 
+ Accounts Receivable Valuation 
+ Management judgments and estimates are made in connection with establishing the allowance for doubtful accounts. Specifically, we analyze the aging of accounts receivable balances, historical bad debts, customer concentrations, customer credit-worthiness, current economic trends and changes in our customer payment terms. Significant changes in customer concentration or payment terms, deterioration of customer credit-worthiness, or weakening in economic trends could have a significant impact on the collectability of receivables and our operating results. If the financial condition of our customers were to deteriorate, resulting in an impairment of their ability to make payments, an additional provision to the allowance for doubtful accounts may be required. The reserve for bad debts was 0.3 million as of September 30, 2021 and 2020. At September 30, 2021 and September 30, 2020, accounts receivable, net of allowance for doubtful accounts, were 7.0 million and 4.0 million, respectively. 
+ Intangibles 
+ Intangible assets that have finite useful lives are amortized on a straight-line basis over their estimated useful lives ranging from 3 to 10 years. Intangible assets are also tested for impairment when events and circumstances indicate that the carrying value may not be recoverable. Due to our continued operating losses and the uncertainties surrounding the COVID-19 pandemic on the overall economy and the resulting impact on our Company, we determined that there were indicators for us to test our intangible assets for impairment at March 31, 2020. It was determined that we needed to perform a specific fair value assessment for each of the intangible assets at both Nave and Triton as their individual undiscounted forecasted cash flows did not exceed their respective carrying values. We then performed a fair value assessment of each of the intangible assets and compared them to the individual carrying value amounts at March 31, 2020. As a result of this assessment, we recorded an impairment charge of 3.9 million related to the customer relationship intangibles in the Telco segment as of March 31, 2020. As of September 30, 2021, there were no further indicators of impairment. 
+ 14 
+
+Impairment of Long-Lived Assets 
+ The Company reviews long-lived assets for impairment whenever events or changes in circumstances indicate that the asset s carrying amount may not be recoverable. The Company conducts its long-lived asset impairment analyses in accordance with Accounting Standards Codification ASC 360-10-15, Impairment or Disposal of Long-Lived Assets. ASC 360-10-15 requires the Company to group assets and liabilities at the lowest level for which identifiable cash flows are largely independent of the cash flows of other assets and liabilities and evaluate the asset group against the sum of the undiscounted future cash flows. If the undiscounted cash flows do not indicate the carrying amount of the asset is recoverable, an impairment charge is measured as the amount by which the carrying amount of the asset group exceeds its fair value based on discounted cash flow analysis or appraisals. The Company recorded a 0.7 million impairment of a right-of-use asset in the Telco segment as of September 30, 2020, related to vacating and partially subleasing a leased facility. As of September 30, 2021, there were no further indicators of impairment. 
+ Recently Issued Accounting Standards 
+ Our consideration of recent accounting pronouncements is included in Note 1 - Summary of Significant Accounting Policies to the Consolidated Financial Statements included in this annual report. 
+ 
+ Off-Balance Sheet Arrangements 
+ None. 
+ 15 
+
+Item 8. Financial Statements and Supplementary Data. 
+ 
+ Index to Financial Statements Page Report of Independent Registered Public Accounting Firm 
+ 17 
+ Consolidated Balance Sheets, September 30, 2021 and 2020 
+ 19 
+ Consolidated Statements of Operations, Years ended September 30, 2021 and 2020 
+ 20 
+ Consolidated Statements of Changes in Shareholders Equity, Years ended September 30, 2021 and 2020 
+ 21 
+ Consolidated Statements of Cash Flows, Years ended September 30, 2021 and 2020 
+ 22 
+ Notes to Consolidated Financial Statements 
+ 23 
+
+16 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ To the Shareholders and the Board of Directors of 
+ ADDvantage Technologies Group, Inc. 
+ Opinion on the Financial Statements 
+ We have audited the accompanying consolidated balance sheets of ADDvantage Technologies Group, Inc. and its subsidiaries (the Company) as of September 30, 2021 and 2020, and the related consolidated statements of operations, changes in shareholders' equity, and cash flows for the years then ended, and the related notes to the consolidated financial statements (collectively, the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of September 30, 2021 and 2020, and the results of its operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States of America. 
+ 
+ Basis for Opinion 
+ 
+ These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on these financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purposes of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion. 
+ 
+ Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures include examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ 
+ Critical Audit Matters 
+ 
+ The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+ 
+ Inventory valuation 
+ 
+ As discussed in Note 1 to the financial statements, the Company assesses the recoverability of its inventory based on judgments and assumptions about future demand and market conditions. Future demand is determined based on historical sales and expected future sales. The Company reduces its inventory to its lower of cost or net realizable value on a part-by-part basis to account for its obsolescence or lack of marketability. Reductions are calculated as the difference between the cost of inventory and its net realizable value based upon the assumptions about future demand, market conditions, and costs. 
+ 
+ We identified inventory valuation as a critical audit matter. The principal consideration for our determination that inventory valuation is a critical audit matter is that management's estimates of future demand and market conditions are subject to a high level of estimation uncertainty. Therefore, subjective and complex auditor judgment is necessary to evaluate the reasonableness of management's judgments and assumptions since historical results may not be indicative of the future due to uncertainties arising from technological advances, industry consolidation and economic factors. 
+ 
+ 17 
+
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the financial statements. Our audit procedures related to the inventory valuation reserve included the following, among others: 
+ 
+ We evaluated the appropriateness and consistency of management's methods and assumptions used in developing their estimate of the inventory valuation reserve, which included consideration of recent changes in the Company's strategy and technology in the market. 
+ 
+ We evaluated the appropriateness of specific inputs supporting management's estimate, including the age of on-hand inventory levels, historic inventory trends, and projected sales and gross margin rates used in the forecasted periods. 
+ 
+ We tested the accuracy, completeness, and relevance of the reports and inputs used in the Company's analysis. 
+ 
+ We evaluated management's calculation of the inventory valuation reserve by testing the mathematical accuracy of the Company's reserve calculation. 
+ 
+ Revenue Recognition 
+ 
+ For the year ended September 30, 2021, contract revenues recognized by the Company were 20.7 million. As described in Note 1 of the financial statements, the Company generally recognizes revenues for these contracts over time as performance obligations are satisfied. The Company generally measures its progress towards completion using an input measure of total costs incurred divided by total costs expected to be incurred. In addition, the Company's estimate of transaction price includes variable consideration associated with claims only to the extent that a significant reversal would not be probable. 
+ 
+ Recognition of revenue over time as performance obligations are satisfied for fixed price contracts is highly judgmental as it requires the Company to prepare estimates of total contract revenue and total contract costs, including costs to complete in-process contracts. These estimates are dependent upon a number of factors, including the accuracy of estimates made at the balance sheet date, such as progress, material quantities, labor productivity and cost estimates. 
+ 
+ We identified revenue recognition as a critical audit matter. The principal consideration for our determination is contract revenue recognition is complex and highly judgmental due to the variability and uncertainty associated with estimating the costs to complete and amounts expected to be recovered from variable consideration. Changes in these estimates would have a significant effect on the amount of contract revenue recognized. Our audit procedures related to contract revenue recognition included the following, among others: 
+ 
+ We obtained an understanding, evaluated the design and operating effectiveness of controls that address the risk of material misstatement of contract revenue including those associated with cost to complete estimates for fixed price contracts and estimates of amounts expected to be recovered from variable consideration. 
+ 
+ To evaluate the Company's determination of estimated costs to complete, we selected a sample of contracts and, among other things, inspected the executed contracts including any significant amendments; tested key components of the cost to complete estimates, including materials, labor, and subcontractors costs; compared actual project margins to historical and expected results; and recalculated revenues recognized. 
+ 
+ We tested management's estimation process by performing a lookback analysis to evaluate projects completed in the current year compared to management's prior year estimates. We also performed a look forward analysis to evaluate projects completed subsequent to year end and compared to management's current year estimates. 
+ 
+ /s/ HoganTaylor LLP We have served as the Company s auditor since 2006. Tulsa, Oklahoma December 27, 2021 
+ 18 
+
+ADDvantage Technologies Group, Inc. 
+ Consolidated Balance Sheets 
+ (in thousands, except share amounts) 
+ September 30, 2021 2020 Assets Current assets: Cash and cash equivalents Restricted cash Accounts receivable, net of allowances of 
+ Unbilled revenue Promissory note, current Income tax receivable Inventories, net of allowance of and , respectively 
+ Prepaid expenses and other current assets Total current assets Property and equipment, at cost: Machinery and equipment Leasehold improvements Total property and equipment, at cost Less: Accumulated depreciation ) ) Net property and equipment Right-of-use lease assets Promissory note, long-term Intangibles, net of accumulated amortization Goodwill Other assets Total assets 
+ Liabilities and Shareholders Equity Current liabilities: Accounts payable Accrued expenses Deferred revenue Bank line of credit Notes payable, current Right-of-use lease obligations, current Finance lease obligations, current Other current liabilities Total current liabilities Note payable Right-of-use lease obligations, long-term Finance lease obligations, long-term Other liabilities Total liabilities Shareholders equity: Common stock, par value; shares authorized; and shares issued and outstanding, respectively 
+ Paid in capital ) ) Retained earnings Total shareholders equity Total liabilities and shareholders equity 
+ See notes to consolidated financial statements. 
+ 19 
+
+ADDvantage Technologies Group, Inc. 
+ Consolidated Statements of Operations 
+ (in thousands, except share and per share amounts) 
+ Years ended September 30, 2021 2020 Sales Cost of sales Gross profit Operating expenses Selling, general and administrative expense Impairment of right-of-use asset Impairment of intangibles including goodwill Depreciation and amortization expense Gain on disposal of assets Loss from operations ) ) Other income (expense): Gain on extinguishment of debt Interest income Interest expense ) ) Income from equity method investment Other expense ) ) Other income (expense), net ) Loss before income taxes ) ) Income tax benefit 
+ ) Net loss ) ) Loss per share: Basic and diluted Shares used in per share calculation: Basic and diluted 
+
+See notes to consolidated financial statements. 
+ 20 
+
+ADDvantage Technologies Group, Inc. 
+ Consolidated Statements of Changes in Shareholders' Equity 
+ (in thousands, except share amounts) 
+
+Common Stock Paid-in Retained Treasury Shares Amount Capital Earnings Stock Total Balance, September 30, 2019 ) ) Net loss ) ) Treasury stock, net ) ) ) Common stock issuance Stock option exercise Restricted stock issuance ) ) Amortization of stock-based compensation Balance, September 30, 2020 ) Net loss ) ) Common stock issuance Stock option exercise Restricted stock issuance ) Amortization of stock-based compensation Balance, September 30, 2021 ) 
+ Due to rounding, numbers presented may not foot to the totals provided. 
+
+See notes to consolidated financial statements. 
+ 21 
+
+ADDvantage Technologies Group, Inc. 
+ Consolidated Statements of Cash Flows 
+ (in thousands) 
+ 
+ Years ended September 30, 2021 2020 Operating Activities: Net loss ) ) Adjustments to reconcile net loss to net cash used in operating activities: Depreciation Amortization Non cash amortization of right-of-use asset and liability ) Provision for excess and obsolete inventories Charge for lower of cost or net realizable value inventories Impairment of right-of-use asset Impairment of intangibles including goodwill Gain on disposal of property and equipment ) ) Share based compensation expense Gain from equity method investment ) Gain on extinguishment of debt ) Changes in operating assets and liabilities: Accounts receivable ) Unbilled revenue ) Income tax refund receivable\payable ) Inventories ) Prepaid expenses and other current assets ) ) Other assets ) Accounts payable ) Accrued expenses ) Deferred revenue Net cash used in operating activities ) ) Investing Activities: Proceeds from promissory note receivable Loan repayments from equity method investee Purchases of property and equipment ) ) Disposals of property and equipment Net cash provided by investing activities Financing Activities: Change in bank line of credit ) Proceeds from note payable Guaranteed payments for acquisition of business ) Payments on financing lease obligations ) ) Payments on notes payable ) ) Proceeds from sale of common stock Proceeds from stock options exercised Net cash (used in) provided by financing activities ) Net (decrease) increase in cash, cash equivalents and restricted cash ) Cash, cash equivalents and restricted cash at beginning of year Cash, cash equivalents and restricted cash at end of year 
+
+See notes to consolidated financial statements. 
+ 22 
+
+ADDvantage Technologies Group, Inc. 
+ Notes to Consolidated Financial Statements 
+ 
+ Note 1 
+
+23 
+
+years, years, years, and years, respectively. The wireless services equipment includes mobile wireless temporary towers, equipment trailers and construction equipment. Depreciation is provided using the straight-line method over the estimated useful lives of the related assets. Leasehold improvements are amortized over the shorter of the useful lives or the remainder of the lease agreement. Gains or losses from the ordinary sale or retirement of property and equipment are recorded and included in operating expense. Repairs and maintenance costs are generally expensed as incurred, whereas major improvements are capitalized. Depreciation expense was million in each of the years ended September 30, 2021 and 2020. 
+ 24 
+
+million as of March 31, 2020, which fully impaired goodwill for both operating segments in the Telco segment. Although the Company does not anticipate a future impairment charge, certain events could occur that might adversely affect the reported value of the remaining goodwill in the Wireless segment, which was million at September 30, 2021. 
+ 
+ years to years. 
+ million and million for the years ended September 30, 2021 and 2020, respectively. 
+ of accounts receivable, and one Wireless 
+ 25 
+
+of accounts receivable. The Company controls credit risk through credit approvals, credit limits and monitoring procedures. The Company performs credit evaluations for all new customers but does not require collateral to support customer receivables. 
+ 
+ days of service. The Company's contributions to the plan consist of a matching contribution as determined by the plan document. Costs recognized under the 401(k) plan were million and, million for the years ended September 30, 2021 and September 30, 2020, respectively, after temporarily suspending matching contributions during 2020. 
+ 
+ Note 2 
+ million and million in the years ended September 30, 2021 and 2020, respectively. 
+ The Company s customers include wireless carriers, wireless equipment providers, multiple system operators, resellers and direct sales to end-user customers. Sales to the Company s largest customer totaled approximately of consolidated sales. 
+ 26 
+
+Equipment sales: Telco Inter-segment ) ) Telco repair sales Telco recycle sales Total sales 
+ At September 30, 2021 contract assets were million and contract liabilities were million. There were million in contract assets and million in contract liabilities at September 30, 2020. During the year ended September 30, 2021, the Company recognized million as revenue from amounts classified as deferred revenue on our consolidated balance sheet at September 30, 2020. 
+ 
+ Note 3 
+ of the sold receivables and establishes a reserve of of the sold receivables until the Company collects the sold receivables. In addition, the third party financial institution will charge and deduct of sold receivables. As the Company collects the sold receivables, the third-party financial institution will remit the remaining to the Company. At September 30, 2021, the third-party financial institution has a reserve against the sold receivables of million, which is reflected as restricted cash. For the receivables sold under the agreement with recourse, the agreement addresses events and conditions which may obligate the Company to immediately repay the institution the outstanding purchase price of the receivables sold. The total amount of receivables uncollected by the institution was million at September 30, 2021, for which there is a limit of million. Although the sale of receivables is with recourse, the Company did not record a recourse obligation at September 30, 2021 as the Company determined the sold receivables are collectible. 
+ For the year ended September 30, 2021, the Company received proceeds from the sold receivables under all of their various agreements of million and included the proceeds in net cash provided by operating activities in the consolidated statements of cash flows. The Company recorded related costs of million for the year ended September 30, 2021, in other expense in the consolidated statements of operations. 
+ 
+ Note 4 
+ Refurbished and used equipment Allowance for excess and obsolete inventory: ) ) Total inventories, net 
+ New equipment includes products purchased from manufacturers plus surplus-new , which are unused products purchased from other distributors or multiple system operators. Refurbished and used equipment includes factory refurbished, Company refurbished and used products. Generally, the Company does not refurbish its used inventory until there is a sale of that product or to keep a certain quantity on hand. 
+ In the years ended September 30, 2021 and 2020, the Telco segment identified certain inventory that more than likely will not be sold or that the cost will not be recovered when it is processed through its recycling program. The Telco segment recorded inventory obsolescence charges of million and million for the years ended 
+ 27 
+
+million allowance at September 30, 2021. The Company also reviewed the cost of inventories against estimated net realizable value and recorded a lower of cost or net realizable value charge of million for the years ended September 30, 2021 and 2020, for inventories that have a cost in excess of estimated net realizable value. 
+
+Note 5 
+ years 
+ ) Trade name years 
+ ) Non-compete agreements years 
+ ) Total intangible assets ) 
+ 
+ September 30, 2020 Gross Accumulated Amortization Impairment Net Intangible assets: Customer relationships years 
+ ) ) Trade name years 
+ ) Non-compete agreements years 
+ ) Total intangible assets ) ) 
+ As of March 31, 2020, the Company determined that changes in the economy related to the COVID-19 pandemic and the continued losses experienced in the Telco segment may cause the carrying amounts of its intangible assets to exceed their fair values. The Company performed an assessment of its intangible assets and determined that the carrying value of its customer relationships were in fact impaired based on valuation appraisals performed by the Company using a multi-period excess earnings model. Therefore, the Company recorded a million impairment charge in the Telco segment as of March 31, 2020. Amortization expense was million and million for the years ended September 30, 2021 and 2020, respectively. 
+ 2023 2024 2025 2026 Thereafter Total 
+ 
+ 28 
+
+Note 6 
+ Taxes other than income tax ) Interest Other, net Total accrued expenses 
+
+Note 7 
+ million, bearing interest at per annum. The loan was payable in semi-annual installments of principal and interest with the first payment occurring June 30, 2020. In connection with the million payment received in the first fiscal quarter of 2021 from the promissory note receivable, the Company fully repaid the remaining million of principal outstanding under this loan. 
+ 
+ Line of Credit and Notes Payable 
+ Credit Agreement 
+ The Company has a million revolving line of credit agreement with its primary financial lender. The line of credit requires quarterly interest payments based on the Wall Street Journal Prime Rate ("WSJP" floating rate with a minimum, and a fixed charge coverage ratio of x to be tested quarterly beginning June 30, 2021. At September 30, 2021, there was million outstanding under the line of credit. Future borrowings under the line of credit are limited to the lesser of million or the sum of of eligible accounts receivable and of eligible Telco segment inventory. Under these limitations, the Company s total line of credit additional borrowing capacity over the amount outstanding was million as of September 30, 2021. On December 14, 2021, the Company signed an agreement with its primary financial lender to extend the expiration date of its revolving line of credit to January 17, 2022. The Company is in the process of completing an annual extension which the Company expects will be completed by the new expiration date. 
+ Loan Covenant with Primary Financial Lender 
+ The credit agreement provides that the Company maintain a fixed charge coverage ratio (net cash flow to total fixed charge) of not less than to 1.0 to be tested quarterly beginning June 30, 2021. The Company was not in compliance with this covenant at September 30, 2021. The Company notified its primary financial lender of the covenant violation, and on December 22, 2021, the primary financial lender granted a waiver of the covenant violation under the credit agreement. 
+ Paycheck Protection Program Loan 
+ 
+ On April 14, 2020, the Company entered into an unsecured loan in the amount of million ("PPP Loan") with its primary lender pursuant to the Paycheck Protection Program ("PPP") which is sponsored by the Small Business Administration SBA ), and is part of the Coronavirus Aid, Relief, and Economic Security Act CARES Act ), as amended by the Paycheck Protection Program Flexibility Act of 2020 Flexibility Act ). The Company applied for and has been notified by the SBA that million in eligible expenditures for payroll and other expenses described in the CARES Act has been forgiven. Loan and accrued interest forgiveness is reflected in the accompanying financial statements as a gain on extinguishment of debt. 
+ 
+ 29 
+
+Thereafter Total 
+
+Note 8 
+ 
+ and some of which contain escalation clauses, or month-to-month operating leases. Options to renew these leases are generally not considered reasonably certain to be exercised. Therefore, the periods covered by such optional periods are not included in the determination of the term of the lease. ADDvantage may lease equipment under cancellable short-term or contracts which are less than 30 days. Due to the nature of the Company's business, any option to renew these short-term leases is generally not considered reasonably certain to be exercised. Therefore, the periods covered by such optional periods are not included in the determination of the term of the lease, and the lease payments during these periods are similarly excluded from the calculation of ROU lease asset and lease liability balances. 
+ ROU lease expense consists of rent expense related to leases that were included in ROU assets under ASC 842. ADDvantage recognizes ROU lease expense on a straight-line basis, except for certain variable expenses that are recognized when the variability is resolved, typically during the period in which they are paid. Variable ROU lease payments typically include charges for property taxes and insurance, and some leases contain variable payments related to non-lease components, including common area maintenance and usage of facilities or office equipment (for example, copiers). 
+ 
+ As a result of adopting ASC 842, on the effective date, the Company recognized ROU assets and liabilities of million, and financing lease assets and liabilities of million. ROU leases are included in ROU assets and current or long-term ROU obligations on the consolidated balance sheets. Finance leases are included in net property and equipment, and current or long-term finance lease obligations in the consolidated balance sheets. 
+ 
+ ROU assets and liabilities are recognized at the commencement date based on the present value of lease payments over the lease term. The Company uses a discount rate that approximates the rate of interest for a collateralized loan over a similar term as the discount rate for present value of lease payments when the rate implicit in the contract is not readily determinable. 
+ 
+ Impairment of ROU asset - The Company has a ROU for a building in Jessup, Maryland for Nave Communications. The Company ceased operations in Jessup, Maryland in May 2020, and vacated the Jessup, Maryland building. The building was partially subleased during fiscal year 2020. During the third quarter of 2020, the Company determined that the ROU asset was not recoverable and used an income approach to estimate its fair value, determining that the carrying value was partially impaired. Therefore, the Company recorded million of impairment charges related to the lease in the Telco segment during the year ended September 30, 2020. 
+
+30 
+
+Right-of-use lease cost 
+ Total right-of-use lease cost Finance lease costs Amortization assets under finance leases 
+ Interest on finance lease liabilities 
+ Total finance lease cost 
+
+Operating cash flows from finance leases 
+ Financing cash flows from finance leases 
+ 
+ Right-of-use lease obligations - current Right-of-use lease obligations Total right-of-use lease liabilities Finance leases Property and equipment, gross Accumulated depreciation ) ) Property and equipment, net Financing lease obligations - current Financing lease obligations Total finance lease liabilities Weighted Average Remaining Lease Term Right-of-use leases years years Finance leases years years Weighted Average Discount Rate Right-of-use leases Finance leases 
+ 
+ 31 
+
+2023 2024 2025 2026 Total lease payments Less: imputed interest Total lease obligations 
+ 
+ Note 9 
+ shares of common stock were reserved for stock award grants under the Plan. Of these reserved shares, shares were available for future grants. 
+ Stock Options 
+ All share-based payments to employees, including grants of employee stock options, are recognized in the consolidated financial statements based on their grant date fair value over the requisite service period. Compensation expense for stock-based awards is included in the operating, selling, general and administrative expense section of the consolidated statements of operations. 
+ Stock options are valued at the date of the award, which does not precede the approval date, and compensation cost is recognized on a straight-line basis over the vesting period. Stock options granted generally become exercisable from the date of grant and generally expire after the date of grant. 
+ Granted Exercised ) Expired Forfeited ) Outstanding at September 30, 2021 Exercisable at September 30, 2021 
+ 32 
+
+Exercise price Intrinsic value 
+ 
+ The Company granted nonqualified stock options for the years ended September 30, 2021 and 2020, respectively. 
+ ) Fiscal year 2019 grant Total compensation expense ) 
+ At September 30, 2021, compensation costs related to these unvested stock options not yet recognized in the statements of operations was approximately million which will be fully amortized by 2022. 
+ Restricted stock awards 
+ In fiscal year 2021, the Company granted a total of shares to a board member, which were valued at market value on the date of grant and vested immediately. The fair value of the shares upon issuance totaled million. 
+ 
+ In fiscal year 2021, the Company granted a total of shares to certain members of management, which were valued at market value on the date of grant. The shares ranged in vesting periods from one to . The fair value of the shares upon issuance totaled million. 
+ Granted Vested ) ) Forfeited ) ) Non-vested at September 30, 2021 
+
+33 
+
+Fiscal year 2021 grant Total compensation expense 
+ Valuation of time vesting restricted stock awards for all periods presented is equal to the quoted market price for the shares on the date of the grant. The Company amortizes the fair value of the restricted share awards, graded, over the vesting period of the awards. 
+ The Company did t recognize a tax benefit for compensation expense recognized during the years ended September 30, 2021 and 2020. 
+
+Note 10 
+ 
+ per share, having an aggregate offering price of up to million ("Shares"). 
+ 
+ The offer and sale of the Shares will be made pursuant to a shelf registration statement on Form S-3 and the related prospectus filed by the Company with the Securities and Exchange Commission (the "SEC") on March 3, 2020, as amended on March 23, 2020, and declared effective by the SEC on April 1, 2020. 
+ 
+ Pursuant to the Sales Agreement, Northland may sell the Shares by any method permitted by law deemed to be an at the market offering as defined in Rule 415 of the Securities Act of 1933 (the Securities Act ), including sales made by means of ordinary brokers transactions, including on The Nasdaq Global Market, at market prices or as otherwise agreed with Northland. Northland will use commercially reasonable efforts consistent with its normal trading and sales practices to sell the Shares from time to time, based upon instructions from the Company, including any price or size limits or other customary parameters or conditions the Company may impose. The Sales Agreement may be terminated without prior notice at any time prior to the fulfillment of the Sales Agreement if additional sales are deemed not warranted. 
+ 
+ The Company will pay Northland a commission rate equal to an aggregate of of the aggregate gross proceeds from each sale of Shares and have agreed to provide Northland with customary indemnification and contribution rights. The Company will also reimburse Northland for certain specified expenses in connection with entering into the Sales Agreement. The Sales Agreement contains customary representations and warranties and conditions to the placements of the Shares pursuant thereto. 
+ 
+ shares were sold by Northland on behalf of the Company with gross proceeds of million, and net proceeds after commissions and fees of million. 
+
+Note 11 - 
+ 
+ Supplemental noncash investing activities: Assets acquired under financing leases 
+
+34 
+
+Note 12) Basic weighted average shares Effect of dilutive securities: Stock options Diluted weighted average shares Loss per common share: Basic ) ) Diluted ) ) 
+ Weighted average exercise price of stock options Average market price of common stock 
+
+Note 13) ) Deferred ) ) Discontinued operations current Total benefit for income taxes ) ) 
+ State income taxes, net of U.S. federal tax benefit Return to accrual adjustment Tax credits Charges without tax benefit Valuation allowance Other exclusions Company s effective tax rate 
+ 35 
+
+million income tax receivable and a corresponding current benefit for income taxes. The Company continues to provide a valuation allowance of million for all net deferred tax assets where the Company believes it is more likely than not that those deferred taxes will not be realized. 
+ Accounts receivable Inventory Intangibles Accrued expenses Stock options Investment in equity method investee Other Total deferred tax assets 9,703 Deferred tax liabilities: Financial basis in excess of tax basis of certain assets Other Total deferred tax liabilities Less valuation allowance Net deferred taxes 
+ No expiry Year ended September 30, 2020 No expiry Year ended September 30, 2019 No expiry 
+ The Company records net deferred tax assets to the extent the Company believes these assets will more likely than not be realized. In making such determination, the Company considers all available positive and negative evidence, including scheduled reversals of deferred tax liabilities, projected future taxable income, tax planning strategies and recent financial performance. The Company has concluded, based on its recent cumulative losses, that it is more likely than not that the Company will not be able to realize the full effect of the deferred tax assets and a valuation allowance of million is needed. 
+ Based upon a review of its income tax positions, the Company believes that its positions would be sustained upon an examination by the Internal Revenue Service and does not anticipate any adjustments that would result in a material change to its financial position. Therefore, reserves for uncertain income tax positions have been recorded. Generally, the Company is no longer subject to examinations by the U.S. federal, state or local tax authorities for tax years before 2018. 
+ 
+ 36 
+
+Note 14 
+ major U.S. wireless carriers, communication tower companies, national integrators, and original equipment manufacturers that support these wireless carriers. These services primarily consist of the installation and upgrade of technology on cell sites and the construction of new small cells for 5G. 
+ Telecommunications Telco The Company s Telco segment sells new and refurbished telecommunications networking equipment, including both central office and customer premise equipment, to its customer base of telecommunications providers, enterprise customers and resellers located primarily in North America. This segment also offers its customers repair and testing services for telecommunications networking equipment. In addition, this segment offers its customers decommissioning services for surplus and obsolete equipment, which it in turn processes through its recycling program. 
+ The Company evaluates performance and allocates its resources based on operating income. The accounting policies of its reportable segments are the same as those described in the summary of significant accounting policies. Segment assets consist primarily of cash and cash equivalents, accounts receivable, inventory, property and equipment, goodwill and intangible assets. 
+ Telco Intersegment ) ) Total sales Gross profit Wireless Telco Total gross profit Loss from operations Wireless ) ) Telco ) ) Total operating loss ) ) (in thousands) September 30, 2021 2020 Segment assets Wireless Telco Non-allocated Total assets 
+ 
+ 37 
+
+Note 15 
+ shares of stock under our ATM for an average share price of pursuant to our agreement with Northland Securities, Inc. as described in Note 10 Equity Distribution Agreement and Sale of Common Stock. 
+ On December 14, 2021, the Company signed an agreement with its primary financial lender to extend the expiration date of its revolving line of credit to January 17, 2022. The Company is in the process of completing an annual extension which is expected to be completed by the new expiration date. 
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+ None. 
+ 
+ Item 9A. Controls and Procedures. 
+ Changes in Internal Control Over Financial Reporting 
+ 
+ During the year ended September 30, 2021, there have been no changes, including the impact of COVID-19, in our internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act) that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ Evaluation of Disclosure Controls and Procedures. 
+ We maintain disclosure controls and procedures (as defined in Exchange Act Rule 13a-15(e) and 15d-15(e)) that are designed to ensure that information required to be disclosed by us in the reports that we file or submit to the Securities and Exchange Commission under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified by the Commission s rules and forms, and that information is accumulated and communicated to our management, including our Chief Executive Officer and our Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. Our Chief Executive Officer and Chief Financial Officer evaluated our disclosure controls and procedures as of September 30, 2021. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures are effective. 
+ Management s Annual Report on Internal Control over Financial Reporting. 
+ Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934) and for the assessment of the effectiveness of internal control over financial reporting. Our internal control system was designed to provide reasonable assurance to our management and board of directors regarding the preparation and fair presentation of financial statements in accordance with accounting principles generally accepted in the United States. Our internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of our assets; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that our receipts and expenditures are being made only in accordance with authorization of our management and board of directors; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on our financial statements. 
+ All internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ Our management assessed the effectiveness of our internal control over financial reporting as of September 30, 2021. In making this assessment, management used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control Integrated Framework (2013). 
+ 38 
+
+Based on our assessment, we believe that, as of September 30, 2021, our internal control over financial reporting is effective. 
+ This annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant to rules of the Securities and Exchange Commission that permit us to provide only management s report in this annual report. 
+ Changes in Internal Control over Financial Reporting. 
+ None. 
+ 
+ Item 9B. Other Information. 
+ None. 
+ 39 
+
+PART III 
+
+Item 10. Directors, Executive Officers and Corporate Governance. 
+ The information required by this item concerning our officers, directors, compliance with Section 16(a) of the Securities Exchange Act of 1934, as amended, Code of Business Conduct and Ethics and Audit Committee is incorporated by reference to the information in the sections entitled Identification of Officers, Election of Directors, Section 16(a) Beneficial Ownership Reporting Compliance, Code of Ethics and Audit Committee, respectively, of our Proxy Statement for the 2020 Annual Meeting of Shareholders to be filed with the Securities and Exchange Commission within 120 days after the end of our fiscal year ended September 30, 2021 (the Proxy Statement ). A copy of our Code of Business Conduct and Ethics is posted on our website at www.addvantagetechnologies.com. 
+
+Item 11. Executive Compensation 
+ The information required by this item concerning executive compensation is incorporated by reference to the information set forth in the section entitled Compensation of Directors and Executive Officers of the Proxy Statement. 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ The information required by this item regarding security ownership and equity compensation plans is incorporated by reference to the information set forth in the section entitled Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters of the Proxy Statement. 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence. 
+ The information required by this item regarding certain relationships and related transactions and director independence is incorporated by reference to the information set forth in the section entitled Certain Relationships and Related Transactions and Board of Directors, respectively, of the Proxy Statement. 
+
+Item 14. Principal Accountant Fees and Services. 
+ The information required by this item regarding principal accounting fees and services is incorporated by reference to the information set forth in the section entitled Principal Accountant Fees and Services of the Proxy Statement. 
+ 40 
+
+PART IV 
+ 
+ Item 15. Exhibits, Financial Statement Schedules. 
+ Financial Statements, Schedules and Exhibits 
+ Financial Statements ADDvantage Technologies Group, Inc. and Subsidiaries: 
+ 
+ The Financial Statements listed in the Index to Consolidated Financial Statements are filed as part of this report on Form 10-K (see Part II, Item 8, Financial Statements and Supplementary Data). 
+ 
+ Financial Statement Schedules 
+ 
+ All consolidated financial statement schedules have been omitted because they are not required, are not applicable, or the required information has been included elsewhere within this Form 10-K. 
+ 
+ Exhibits 
+ 
+ The information required by this Section (a)(3) of Item 15 is set forth on the exhibit index following this page. 
+ 
+ 41 
+
+Item 16. Form 10-K Summary 
+ 
+ Not applicable. 
+
+Exhibit 3.1 Certificate of Incorporation of the Company and amendments thereto incorporated by reference to Exhibit 3.1 to the Annual Report on Form 10-KSB filed with the Securities and Exchange Commission by the Company on January 10, 2003 (File No. 033-39902-FW). 
+ 3.2 Bylaws of the Company, as amended, incorporated by reference to Exhibit 3.1 to the Current Report on Form 8-K filed with the Securities and Exchange Commission by the Company on December 31, 2007 (File No. 001-10799) . 
+ 4.1 Certificate of Designation, Preferences, Rights and Limitations of ADDvantage Media Group, Inc. Series A 5 Cumulative Convertible Preferred Stock and Series B 7 Cumulative Preferred Stock as filed with the Oklahoma Secretary of State on September 30, 1999 incorporated by reference to Exhibit 4.1 to the Current Report on Form 8-K filed with the Securities and Exchange Commission by the Company on October 14, 1999 (File No. 033-39902-FW). 
+ 10.1 Senior Management Incentive Compensation Plan, incorporated by reference to the Current Report on Form 8-K filed with the Securities and Exchange Commission by the Company on March 9, 2007 (File No. 001-10799). 
+ 10.2 Indemnification Agreement between the Company and each of its executive officers and members of the Board of Directors dated September 1, 2009, incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K filed with the Securities and Exchange Commission by the Company on September 1, 2009 (File No. 001-10799). 
+ 10.3 Form of Non-Qualified Stock Option Agreement under the Company s 1998 Incentive Stock Plan as amended, incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K filed with the Securities and Exchange Commission by the Company on April 6, 2012 (File No. 001-10799). 
+ 10.4 Form of Restricted Stock Agreement under the Company s 1998 Incentive Stock Plan as amended, incorporated by reference to Exhibit 10.4 to the Current Report on Form 8-K filed with the Securities and Exchange Commission by the Company on April 6, 2012 (File No. 001-10799). 
+ 10.5 Stock Purchase Agreement by and among ADDvantage Acquisition Corp. and Carlton Douglas Nave, Edward Howe, Ryan Hecox, John Leigh, Peter Boettcher, and Michael Burch dated as of February 28, 2014, incorporated by reference to Exhibit 2.1 to the Company s Form 8-K filed with the Securities and Exchange Commission on March 6, 2014 (File 001-10799). 
+ 10.6 The ADDvantage Technologies Group, Inc. 2015 Incentive Stock Plan, incorporated by reference to the Company's Form DEF 14A filed with the Securities and Exchange Commission on January 23, 2015 (File No. 001-10799). 
+ 10.7 Asset Purchase Agreement among Triton Miami Inc., Ross Himber, Bruce Tappen and Kevin Sadovnik and ADDvantage Triton, LLC dated as of October 14, 2016, incorporated by reference to Exhibit 2.1 to the Company s Form 8-K filed with the Securities and Exchange Commission on October 20, 2016 (File 001-10799). 
+ 10.8 Chairman of the Board of Directors Agreement between the Company and James C. McGill dated October 8, 2018, incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K filed with the Securities and Exchange Commission by the Company on October 11, 2018 (File No. 001-10799). 
+ 10.9 Employment Agreement between the Company and Joseph E Hart dated October 8, 2018, incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K filed with the Securities and Exchange Commission by the Company on October 11, 2018 (File No. 001-10799). 
+ 10.10 Sale of Real Estate Agreement dated October 5, 2018, incorporated by reference to Exhibit 10.1 to the Company s Form 8-K filed with the Securities and Exchange Commission on October 15, 2018 (File No. 001-10799). 
+ 10.11 Stock Purchase Agreement by and among Leveling 8 Inc. and ADDvantage Technologies Group, Inc. dated December 26, 2018, incorporated by reference to Exhibit 10.1 to the Company s Form 10-Q filed with the Securities and Exchange Commission on February 12, 2019 (File No. 001-10799). 
+ 10.12 Business Loan Agreement between ADDvantage Technologies Group, Inc. and Valley National Bank dated December 17, 2018, incorporated by reference to Exhibit 10.2 to the Company s Form 10-Q filed with the Securities and Exchange Commission on February 12, 2019 (File No. 001-10799). 
+ 
+ 42 
+
+10.13 First Amendment to Stock Purchase Agreement between Leveling 8 Inc. and ADDvantage Technologies Group, Inc. dated March 15, 2019, incorporated by reference to Exhibit 10.1 to the Company s Form 8-K filed with the Securities and Exchange Commission on March 21, 2019 (File No. 001-10799). 
+ 10.14 Agreement for the Purchase and Sale of Real Estate between ADDvantage Technologies Group of Missouri, Inc. and ADDvantage Chymiak LLC, dated March 22, 2019, incorporated by reference to Exhibit 10.1 to the Company s Form 8-K filed with the Securities and Exchange Commission on March 29, 2019 (File No. 001-10799). 
+ 10.15 First Addendum to Agreement for the Purchase and Sale of Real Estate between ADDvantage Technologies Group of Missouri, Inc. and David Chymiak LLC, dated March 28, 2019, incorporated by reference to Exhibit 10.3 to the Company s Form 8-K filed with the Securities and Exchange Commission on March 29, 2019 (File No. 001-10799). 
+ 10.16 Agreement for the Purchase and Sale of Real Estate between NCS Industries, Inc. and David Chymiak LLC, dated March 22, 2019, incorporated by reference to Exhibit 10.4 to the Company s Form 8-K filed with the Securities and Exchange Commission on March 29, 2019 (File No. 001-10799). 
+ 10.17 Executive Employment Agreement dated April 1, 2019 between the Company and Don Kinison, incorporated by reference to Exhibit 10.1 to the Company s Form 10-Q filed with the Securities and Exchange Commission on May 14, 2019 (File No. 001-10799). 
+ 10.18 Executive Employment Agreement dated April 1, 2019 between the Company and Kevin Brown, incorporated by reference to Exhibit 10.2 to the Company s Form 10-Q filed with the Securities and Exchange Commission on May 14, 2019 (File No. 001-10799). 
+ 10.19 Executive Employment Agreement dated April 1, 2019 between the Company and Colby Empey, incorporated by reference to Exhibit 10.3 to the Company s Form 10-Q filed with the Securities and Exchange Commission on May 14, 2019 (File No. 001-10799). 
+ 10.20 Executive Employment Agreement dated April 1, 2019 between the Company and Scott Francis, incorporated by reference to Exhibit 10.4 to the Company s Form 10-Q filed with the Securities and Exchange Commission on May 14, 2019 (File No. 001-10799). 
+ 10.21 Asset Purchase Agreement by and between Fulton Technologies, Inc. and Mill City Communications, Inc., with Aero Communications, Inc., and Buyer ADDvantage Acquisition Corp. dated December 27, 2018, incorporated by reference to Exhibit 10.5 to the Company s Form 10-Q filed with the Securities and Exchange Commission on May 14, 2019 (File No. 001-10799). 
+ 10.22 Financial Institution Business Loan Agreement by and between Company and Vast Bank, N.A. dba Valley National Bank, dated April 10, 2020, incorporated by reference to Exhibit 10.1 to the Company s Form 10-Q filed with the Securities and Exchange Commission on August 11, 2020 (File No. 001-10799). 
+ 10.23 Financial Institution Business Loan Agreement by and between Company and Vast Bank, N.A. dba Valley National Bank, dated March 10, 2020, incorporated by reference to Exhibit 10.1 to the Company s Form 10-Q filed with the Securities and Exchange Commission on May 14, 2020 (File No. 001-10799). 
+ 10.24 Equity Distribution Agreement by and between Company and Northland Securities, Inc., dated April 24, 2020, incorporated by reference to Exhibit 1.1 to the Company s Form 8-K filed with the Securities and Exchange Commission on April 24, 2020 (File No. 001-10799). 
+ 10.25 Form of Restricted Stock Agreement under the Company s 2015 Incentive Stock Plan incorporated by reference to Exhibit 10.25 to the Company s Form 10-K filed with the Securities and Exchange Commission on December 17, 2020 (File No. 001-10799). 
+ 10.26 Form of Restricted Stock Agreement with additional accelerated vesting provision under the Company s 2015 Incentive Stock Plan, incorporated by reference to Exhibit 10.4 to the Company s Form 8-K filed with the Securities and Exchange Commission on February 22, 2021. 
+ 10.27 Director Compensation Plan adopted (Proposal No. 4) at the annual meeting of shareholders held on March 18, 2020, incorporated by referenced to Schedule DEF 14A filed with the Securities and Exchange Commission on January 28, 2020 (File No. 10799). 
+ 10.28 Amendment to the 2015 Incentive Stock Plan adopted (Proposal No. 3) at the annual meeting of shareholders held on March 18, 2020, incorporated by reference to Schedule DEF 14A filed with the Securities and Exchange Commission on January 28, 2020 (File No. 001-10799). 
+ 10.29 Executive Employment Agreement dated effective as of July 13, 2020, between the Company and Jarrod M. Watson, incorporated by reference to Exhibit 10.1 to the Company s Form 8-K filed with the Securities and Exchange Commission on February 22, 2021 (File No. 001-10799). 
+ 10.30 Executive Employment Agreement dated effective as of July 13, 2020, between the Company and Jimmy R. Taylor, incorporated by reference to Exhibit 10.2 to the Company s Form 8-K filed with the Securities and Exchange Commission on February 22, 2021 (File No. 001-10799). 
+ 
+ 43 
+
+10.31 Executive Employment Agreement dated effective as of July 13, 2020, between the Company and Reginald Jaramillo-Leal, incorporated by reference to Exhibit 10.3 to the Company s Form 8-K filed with the Securities and Exchange Commission on February 22, 2021 (File No. 001-10799). 
+ 10.32 Executive Employment Agreement dated effective as of September 7, 2021 between the Company and Michael Rutledge, incorporated by reference to Exhibit 10.1 to the Company s Form 8-K filed with the Securities and Exchange Commission on December 23, 2021 (File No. 001-10799). 
+ 10.33 Promissory Note dated December 17, 2020, from the Company to Vast Bank, N.A. d/b/a Valley National Bank, incorporated by reference to Exhibit 10.1 to the Company s Form 10-Q filed with the Securities and Exchange Commission on February 11, 2021 (File No. 001-10799). 
+ 21.1 Listing of the Company's subsidiaries. 
+ 23.1 Consent of HoganTaylor LLP. 
+ 31.1 Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes Oxley Act of 2002. 
+ 31.2 Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes Oxley Act of 2002. 
+ 32.1 Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.2 Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101.INS XBRL Instance Document. 101.SCH XBRL Taxonomy Extension Schema. 101.CAL XBRL Taxonomy Extension Calculation Linkbase. 101.DEF XBRL Taxonomy Extension Definition Linkbase. 101.LAB XBRL Taxonomy Extension Label Linkbase. 
+ 
+ incorporated by reference. 
+ 44 
+
+SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ ADDvantage Technologies Group, Inc. 
+ Date: December 27, 2021 By: /s/ Joseph E. Hart 
+ Joseph E. Hart, President and Chief Executive Officer 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+Date: December 27, 2021 By: /s/ Michael A. Rutledge 
+ Michael Rutledge, Chief Financial Officer (Principal Financial Officer) Date: December 27, 2021 /s/ David E. Chymiak David E. Chymiak, Director Date: December 27, 2021 /s/ Timothy S. Harden Timothy S. Harden, Director Date: December 27, 2021 /s/ James C. McGill James C. McGill, Chairman of the Board of Directors Date: December 27, 2021 /s/ John M. Shelnutt John M. Shelnutt, Director Date: December 27, 2021 /s/ David W. Sparkman David W. Sparkman, Director 
+ 45 
+
+<EX-23.1>
+ 2
+ consentofindependentregist.htm
+ EX-23.1
+
+Document 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+We consent to the incorporation by reference in Registration Statement (No. 333-237733) on Form S-8 of ADDvantage Technologies Group, Inc. of our report dated December 27, 2021, relating to our audit of the consolidated financial statements, which appear in this Annual Report on Form 10-K of ADDvantage Technologies Group, Inc. for the year ended September 30, 2021. 
+ 
+ s HoganTaylor LLP 
+ 
+ HoganTaylor LLP 
+ 
+ Tulsa, Oklahoma 
+ December 27, 2021 
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ aey_2021-09x30x10kexx311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Joseph E. Hart, certify that 
+ 1. I have reviewed this annual report on Form 10-K of ADDvantage Technologies Group, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ s Joseph E. Hart Joseph E. Hart President and Chief Executive Officer Date December 27, 2021 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ aey_2021-09x30x10kexx312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Michael A. Rutledge, certify that 
+ 1. I have reviewed this annual report on Form 10-K of ADDvantage Technologies Group, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15 (e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ s Michael A. Rutledge Michael A. Rutledge Chief Financial Officer Date December 27, 2021 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ aey_2021-09x30x10kexx321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Annual Report on Form 10-K of ADDvantage Technologies Group, Inc. (the Company for the year ended September 30, 2021, as filed with the Securities and Exchange Commission on the date hereof (the Report I, Joseph E. Hart, the Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ s Joseph E. Hart Joseph E. Hart Chief Executive Officer Date December 27, 2021 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ aey_2021-09x30x10kexx322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Annual Report on Form 10-K of ADDvantage Technologies Group, Inc. (the Company for the year ended September 30, 2021, as filed with the Securities and Exchange Commission on the date hereof (the Report I, Michael A. Rutledge, the Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ s Michael A. Rutledge Michael A. Rutledge Chief Financial Officer Date December 27, 2021 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ aey-20210930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ aey-20210930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ aey-20210930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ aey-20210930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ aey-20210930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

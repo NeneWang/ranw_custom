@@ -1,0 +1,4929 @@
+<Header>
+<FileStats>
+    <FileName>20211102_10-K_edgar_data_1746214_0001493152-21-026939.txt</FileName>
+    <GrossFileSize>4989098</GrossFileSize>
+    <NetFileSize>161474</NetFileSize>
+    <NonText_DocumentType_Chars>927998</NonText_DocumentType_Chars>
+    <HTML_Chars>1637501</HTML_Chars>
+    <XBRL_Chars>1224509</XBRL_Chars>
+    <XML_Chars>879878</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-21-026939.hdr.sgml : 20211102
+<ACCEPTANCE-DATETIME>20211102122139
+ACCESSION NUMBER:		0001493152-21-026939
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		94
+CONFORMED PERIOD OF REPORT:	20201231
+FILED AS OF DATE:		20211102
+DATE AS OF CHANGE:		20211102
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIOPLUS LIFE CORP.
+		CENTRAL INDEX KEY:			0001746214
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-DRUG STORES AND PROPRIETARY STORES [5912]
+		IRS NUMBER:				300987011
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-226885
+		FILM NUMBER:		211369983
+
+	BUSINESS ADDRESS:	
+		STREET 1:		NO.9 & 10, JALAN P4/8B
+		STREET 2:		BANDAR TEKNOLOGI KAJANG
+		CITY:			SEMENYIH, SELANGOR
+		STATE:			N8
+		ZIP:			43500
+		BUSINESS PHONE:		60387032020
+
+	MAIL ADDRESS:	
+		STREET 1:		NO.9 & 10, JALAN P4/8B
+		STREET 2:		BANDAR TEKNOLOGI KAJANG
+		CITY:			SEMENYIH, SELANGOR
+		STATE:			N8
+		ZIP:			43500
+
+</SEC-Header>
+</Header>
+
+ 0001493152-21-026939.txt : 20211102
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ WASHINGTON,
+DC 20549 
+
+FORM
+10-K 
+
+ (Mark
+One) 
+
+ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended: December 31, 2020 
+
+or 
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission
+File Number: 333-226885 
+
+BIOPLUS
+LIFE CORP 
+
+ (Exact
+name of registrant as specified in its charter) 
+
+Nevada 
+ 
+ 30-0987011 
+ 
+ (State
+ or Other Jurisdiction of 
+ Incorporation or Organization) 
+ 
+ (I.R.S.
+ Employer 
+ Identification
+ No.) 
+
+No
+ 9 10 
+ Jalan
+ P4/8B 
+ Bandar
+ Teknologi Kajang 
+ Semenyih 
+ Selangor,
+ Malaysia 
+ 
+ 43500 
+ 
+ (Address
+ of Principal Executive Offices) 
+ 
+ (Zip
+ Code) 
+
++60
+3 8703 2020 
+
+ (Registrant s
+telephone number, including area code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+ None 
+
+Securities
+registered pursuant to Section 12(g) of the Act: 
+
+ None 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). Yes No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company 
+in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+ 
+ Non-accelerated
+ filer 
+ 
+ Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+State
+the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which
+the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s
+most recently completed second fiscal quarter. 0 due to lack of trading market. 
+
+As
+of November 1, 2021, there were 362,905,561 shares of common stock, 0.0001 par value, outstanding. 
+
+PAGE 
+ 
+ PART I 
+
+Item
+ 1. 
+ Business 
+ 
+ 3 
+
+Item
+ 1A. 
+ Risk
+ Factors 
+ 
+ 11 
+
+Item
+ 1B. 
+ Unresolved
+ Staff Comments 
+ 
+ 21 
+
+Item
+ 2. 
+ Properties 
+ 
+ 21 
+
+Item
+ 3. 
+ Legal
+ Proceedings 
+ 
+ 21 
+
+Item
+ 4. 
+ Mine
+ Safety Disclosures 
+ 
+ 21 
+
+PART
+ II 
+
+Item
+ 5. 
+ Market
+ for Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ 21 
+
+Item
+ 6 
+ Selected
+ Financial Data 
+ 
+ 23 
+
+Item
+ 7. 
+ Management s
+ Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 23 
+
+Item
+ 7A. 
+ Quantitative
+ and Qualitative Disclosures About Market Risk 
+ 
+ 32 
+
+Item
+ 8. 
+ Financial
+ Statements 
+ 
+ 32 
+
+Item
+ 9. 
+ Changes
+ in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ 33 
+
+Item
+ 9A. 
+ Controls
+ and Procedures 
+ 
+ 33 
+
+Item
+ 9B. 
+ Other
+ Information 
+ 
+ 35 
+
+PART
+ III 
+
+Item
+ 10. 
+ Directors,
+ Executive Officers and Corporate Governance 
+ 
+ 35 
+
+Item
+ 11. 
+ Executive
+ Compensation 
+ 
+ 37 
+
+Item
+ 12. 
+ Security
+ Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ 38 
+
+Item
+ 13. 
+ Certain
+ Relationships and Related Transactions, and Director Independence 
+ 
+ 39 
+
+Item
+ 14. 
+ Principal
+ Accountant Fees and Services 
+ 
+ 40 
+
+Item
+ 15. 
+ Exhibits,
+ Financial Statement Schedules 
+ 
+ 41 
+
+SIGNATURES 
+ 
+ 42 
+
+2 
+
+FORWARD-LOOKING
+STATEMENTS 
+
+Certain
+statements made in this Annual Report on Form 10-K are forward-looking statements (within the meaning of the Private Securities
+Litigation Reform Act of 1995) regarding the plans and objectives of management for future operations. Such statements involve known
+and unknown risks, uncertainties and other factors that may cause actual results, performance or achievements of the Registrant to be
+materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. The
+forward-looking statements included herein are based on current expectations that involve numerous risks and uncertainties. The Registrant s
+plans and objectives are based, in part, on assumptions involving the continued expansion of business. Assumptions relating to the foregoing
+involve judgments with respect to, among other things, future economic, competitive and market conditions and future business decisions,
+all of which are difficult or impossible to predict accurately and many of which are beyond the control of the Registrant. Although the
+Registrant believes its assumptions underlying the forward-looking statements are reasonable, any of the assumptions could prove inaccurate
+and, therefore, there can be no assurance the forward-looking statements included in this Report will prove to be accurate. In light
+of the significant uncertainties inherent in the forward-looking statements included herein, the inclusion of such information should
+not be regarded as a representation by the Registrant or any other person that the objectives and plans of the Registrant will be achieved. 
+
+Unless
+stated otherwise, the words we, us, our, Company or Bioplus in
+this Annual Report collectively refers to Bioplus Life Corp., a Nevada corporation and its wholly owned subsidiaries and variable interest
+entities described herein. 
+
+ITEM
+1. BUSINESS. 
+
+BUSINESS
+DESCRIPTION 
+
+Industry
+Overview 
+
+This
+section includes market and industry data that we have developed from publicly available information; various industry publications and
+other published industry sources and our internal data and estimates. Although we believe the publications and reports are reliable,
+we have not independently verified the data. Our internal data, estimates and forecasts are based upon information obtained from trade
+and business organizations and other contacts in the market in which we operate and our management s understanding of industry
+conditions. 
+
+At
+this time, Bioplus Life Corp. mainly serves consumers in Malaysia, although the Company may evaluate and change this focus in the future
+and expand into other countries. Given most of the demand for our products currently originates from Malaysia, we will focus solely upon
+the Healthcare Industry within Malaysia. 
+
+However,
+we believe there is significant potential for Bioplus Life s Halal-certified beauty and personal care products with good manufacturing
+practice (GMP) approved by the Department of Islamic Advancement of Malaysia (JAKIM) for export to Islamic countries such as Indonesia
+and Middle Eastern countries. There are over two billion Muslims worldwide, making the second-largest religious following. The largest
+Muslim country worldwide is Indonesia, where an estimated 229 million Muslims and about 13 of the world s population of Muslims
+reside. In addition, there are other potential targeted markets described below. 
+
+3 
+
+Subject
+to the availability of unrestricted international travel, Bioplus Life executives will begin to visit and seek to appoint regional and
+local distributors in the targeted countries stated below: 
+
+Targeted Export
+ Markets. Details regarding our target markets are below. 
+
+Country 
+ Muslim
+ Population 
+ 2021
+ Population 
+ Muslim
+ of Total Population 
+ Muslim
+ of World Population 
+ 
+ Indonesia 
+ 229,000,000 
+ 276,361,783 
+ 87 
+ 13 
+ 
+ Pakistan 
+ 200,400,000 
+ 225,199,937 
+ 97 
+ 11 
+ 
+ India 
+ 195,000,000 
+ 1,393,409,038 
+ 14 
+ 11 
+ 
+ Bangladesh 
+ 153,700,000 
+ 166,303,498 
+ 90 
+ 9 
+ 
+ Egypt 
+ 87,500,000 
+ 104,258,327 
+ 92 
+ 5 
+ 
+ Iran 
+ 82,500,000 
+ 85,028,759 
+ 99 
+ 5 
+ 
+ Turkey 
+ 79,850,000 
+ 85,042,738 
+ 99 
+ 5 
+ 
+ Algeria 
+ 41,240,913 
+ 44,616,624 
+ 99 
+ 3 
+ 
+ Sudan 
+ 39,585,777 
+ 44,909,353 
+ 97 
+ 2 
+ 
+ Iraq 
+ 38,465,864 
+ 41,179,350 
+ 96 
+ 2 
+ 
+ Saudi Arabia 
+ 31,878,000 
+ 35,340,683 
+ 97 
+ 2 
+ 
+ China 
+ 28,127,500 
+ 1,444,216,107 
+ 2 
+ 2 
+ 
+ Targeted market 
+ 1,207,248,054 
+
+https://worldpopulationreview.com/country-rankings/muslim-population-by-country 
+
+In
+line with the national economic blueprint, healthcare sector is one of the National Key Economic Areas (NKEA) set to drive the country
+towards a high-income nation by 2020. From 2011 to 2015, the healthcare industry recorded an average growth rate of 15 . In 2016 alone,
+the industry grew by 23 from 2015 it had contribution of approximately RM4-5 billion to Malaysia s economy. 
+
+ Source:
+https://today.mims.com/an-extensive-overview-on-the-possibility-of-improving-malaysia- healthcare-system. 
+
+Corporate
+History 
+
+Bioplus
+Life Corp., a Nevada corporation Company ), was incorporated under the laws of the State of Nevada on April 13, 2017. On
+July 10, 2017, the Company acquired 100 of the equity interests of Bioplus Life Corp., a Malaysian company. On July 19, 2017, the Company,
+through its Malaysian subsidiary, Bioplus Life Corp., acquired 100 of the equity interests of Bioplus Life International Holdings Ltd,
+a Hong Kong company. On October 27, 2017, the Company through its Hong Kong subsidiary, Bioplus Life International Holdings Ltd, acquired
+100 equity interest of Bioplus Life Corp. (ShenZhen), a company incorporated in China. 
+
+4 
+
+On
+June 11, 2018, the Company, through its former Hong Kong subsidiary (Bioplus Life International Holdings Ltd), acquired 99.8 equity
+interest of Bio Life Holdings Berhad, a company incorporated in Malaysia. Bio Life Holdings Berhad owns 100 of the equity interests
+of Bio Life Neutraceuticals Sdn. Bhd., a company incorporated in Malaysia. 
+
+During
+the current fiscal year, the Company disposed of and de-registered two of its subsidiaries namely, Bioplus Life International Holdings
+Ltd, a Hong Kong company and its subsidiary, Bioplus Life Corp. (ShenZhen), a company incorporated in China. 
+
+Our
+current corporate structure is depicted below: 
+
+Our
+corporate complex is located at No. 9 and No 10, Jalan P4/8B, Bandar Teknologi Kajang, 43500 Semenyih, Selangor Darul Ehsan, Malaysia,
+which are two adjoining commercial structures. Our corporate offices are located in the No. 9 building. Our manufacturing facilities
+comprise the remainder of the space in both buildings. 
+
+Our
+website is http://www.bionutry.com and our phone number is +601 3 8703 2020. 
+
+5 
+
+Our
+corporate headquarters and manufacturing facilities are depicted below: 
+
+Business
+Information 
+
+Bioplus
+Life Corp., through its wholly owned subsidiaries, specializing in manufacturing and selling health and beauty care products. Our mission
+is to create awareness for good health and personal care to improve our customers quality of life. We seek to achieve this by
+offering an affordable solution to existing health food businesses through the production, information, advisory and services pertaining
+to our product line. Our website, http://www.bionutry.com , can be utilized to inquire about our product offerings, but we do not
+directly sell any products through our website. At this time, we primarily sell our products to third party wholesalers. 
+
+Our
+product series, or line, includes, but is not strictly limited to, products that fall into the following categories: bone, fiber, bee-propolis,
+cardiovascular health, herbal, health beverages, apple stem cell, beauty care, feminine health, UT care, anti-oxidant and eye health
+series. These health and beauty supplies are designed to help improve the consumers metabolism rate, burn excessive fats, provide
+anti-aging effects and improve the overall health and physical appearance of our customers. 
+
+The
+majority of our products have been halal certified and, at the same time, awarded with a health manufacturing license by the Ministry
+of Health Malaysia (MOH) to accommodate the high demand for Muslims HALAL food while also meeting the expectations of the public
+on a safe and hygienic food supply. It is the belief, and hope, of the Company that this assurance from an esteemed regulatory body will
+also serve to prove our continuing commitment in supplying quality goods to our customers. 
+
+Through
+our two factories located in Semenyih, Malaysia, we are able to deliver a one stop service. This begins with the initiation of product
+concept, to sourcing new and potential ingredients or raw materials, we then begin development of new product formulations, and we continue
+to customize production until products are ready to be shipped to our customers. This one-stop-shop method of operating
+allows us to reduce the resources and cost needed to create our products, while also decreasing the amount of time needed from inception
+to shipping. 
+
+6 
+
+In
+2020, our products are sold through wholesalers who are supported by our sales and marketing team, and we have achieved the following: 
+
+- 
+ Received
+ worldwide halal certification; 
+
+- 
+ Our
+ products are available to consumers besides Muslim community; 
+
+- 
+ Received
+ professional certification ensuring safe and high-quality health products; 
+
+- 
+ We
+ maintaining a low cost, low capital, zero inventory and low threshold to help more wholesalers start a business easily with our platform; 
+
+- 
+ Our
+ current products are listed at http://www.bionutry.com 
+
+- 
+ Developed
+ a Wechat mode: Take your goods directly from the platform and sell them through your own network; 
+
+- 
+ Developed
+ an Internet model, whereby wholesalers can register for an online store, receive goods directly, change the price and sell with a
+ profit; 
+
+- 
+ Our
+ WeChat + Internet models now are operated concurrently 24/7. 
+
+Research
+and Development activities have also been carried out continuously to ensure innovation and quality of the product is maintained and
+improved. 
+
+Our
+largest customers over the last four years have been BFM Group (Asia) Sdn Bhd, GO3U Trading Sdn Bhd, 27 Marketing Sdn Bhd, and MACN Sdn
+Bhd, who collectively comprised between 30 to 65 of our total annual sales. Remaining sales for the past four fiscal years
+have been broken up into roughly eighty customers in varying quantities. 
+
+The
+heightened awareness of the public towards the importance of healthcare has helped to create vast market potential for future development.
+In the future, our company will be expanding its business to Thailand, India and China to improve our ability to meet the demand the
+Company perceives from consumers in these countries. 
+
+Key
+Products 
+
+The
+following is a brief description of our key products. A full list of our products, as well as additional product details, can be found
+at http://www.bionutry.com. 
+
+Our 5 top selling
+ products in 2020 are described below. 
+
+Year 
+ 2020 
+
+Products 
+ Sales 
+
+Fiber 
+ 815,886 
+ 23 
+ 
+ Anti-oxidant 
+ 788,206 
+ 22 
+ 
+ Anti-diabetics 
+ 494,379 
+ 14 
+ 
+ Lady Health 
+ 461,256 
+ 13 
+ 
+ Telospan 
+ 300,933 
+ 8 
+ 
+ Total 
+ 2,860,660 
+ 80 
+
+7 
+
+Fiber 
+
+Many
+ of us associate fiber with digestive health and bodily functions we d rather not think about. However, eating foods high in
+ dietary fiber can do so much more than keep you regular. It can lower your risk for heart disease, stroke, and diabetes, improve
+ the health of your skin, and help you lose weight. It may even help prevent colon cancer. Fiber, also known as roughage, is the part
+ of plant-based foods (grains, fruits, vegetables, nuts, and beans) that the body can t break down. It passes through the body
+ undigested, keeping your digestive system clean and healthy, easing bowel movements, and flushing cholesterol and harmful carcinogens
+ out of the body. 
+
+Resveratrol is a natural anti-oxidant which can reduce the blood viscosity, inhibit platelet aggregation and vasodilation, promote blood
+circulation result in prevention of cardiovascular problem and development. Resveratrol exerts various effects through various pathways
+with antiallergic, antipyretic and analgesic activities. Resveratrol also inhibits chemical that promote inflammation which can lead to
+arthritis and other diseases. 
+
+Bitter melon is traditionally known for its medicinal properties such as antidiabetic, anticancer, anti-inflammation, antivirus, and cholesterol
+lowering effects. Bitter Melon Peptide contains a high dosage of plant insulin and can thus effectively lower blood sugar.
+Insulin plays a major biochemical role in stimulating the uptake of glucose by different cells of the body for the production of energy.
+Since Bitter melon and its various extracts and components have been reported to exert hypoglycemic effects, therefore Bitter Melon Peptide
+has a hypoglycemic effect upon insulin-like biological activity and can regulate blood sugar to normal levels. 
+
+8 
+
+Lady
+ Health 
+
+Lady
+ Health, clinically proven synergistic blend of Traditionally Malaysia and Korea herbal extracts that together offer relief for uncomfortable
+ feelings associated with menopause. Research has shown this combination to promote healthy management of hot flashes, night sweats,
+ nervous irritability, dizzy spells, vaginal dryness, numbness and tingling, occasional emotional discontent, and occasional fatigue
+ and sleeplessness. Unlike some common menopause formulations with ingredients that bring safety concerns, Our Lady Health formulation
+ has a record of safety, is non-estrogenic and has a long history of use in Asia. 
+
+Telospan 
+
+Telospan
+ works at cell level in the body, After taking Telospan, it can be easily absorbed by the body, enters the bloodstream then
+ passes to every single cell. Telospan activates telomeric gene when reaching the cells, produce telomerase and thus extend telomere.
+ Telospan promote cell function and cell life. Scientific research has proved that human cells will divide up 50 times throughout
+ the cell life. Cells divide once every two and half year. Telomere will be shortened in every cell division process until the end
+ of cell life with no telomere. However, Resveratrol can activate the production of telomere in human body which lengthen the telomere
+ by 30 . As a result, cell division can occur 
+
+Marketing 
+
+As
+mentioned, we sell primarily through wholesalers whom we attract through word of mouth. Our current marketing strategy is to systematically
+promote our capabilities and our past performance to our customers. We periodically make visits to potential clients within a reasonable
+distance from our offices to introduce ourselves and explain why our clients prefer our services to those offered by competitors. Recently,
+we have fine-tuned and revamped our corporate website to better promote the list of our products offered. In addition, we also plan to
+pursue marketing campaigns by utilizing the internet, social media, and perhaps print media. These plans have not yet been determined
+in sufficient detail to outline herein and our marketing plan is currently a work in progress. 
+
+Key
+Supplier 
+
+The
+raw materials contained in our products are highly dependent on our major supplier, Bio Life Solutions Sdn Bhd., an unrelated Malaysian
+company, located in Selangor. Bio Life Solutions Sdn Bhd has supplied 62 of the raw materials that make up our
+products over the past 3 fiscal years. At our current and our anticipated future operating levels, our supplier has indicated that they
+will have ample supply to fulfill our orders for raw materials while also fulfilling any and all orders they may receive from other customers. 
+
+9 
+
+Government
+Regulations 
+
+All
+of the principal products we offer for sale are registered under Malaysia s Food Act 1983 (Act 281) Regulations. At this
+time, we only offer our products in Malaysia so presently this is the only pertinent government regulation, as all products require authorization
+from the Food and Quality Division of Ministry of Health according to the Food Act of 1983 and Food Regulations 1985 in order to be sold
+in Malaysia. 
+
+Competition 
+
+The
+industry in which we compete is highly competitive. Competition in the health and beauty care industry, with a focus on health supplements
+in particular, is very intense particularly in Malaysia. We face competition from various retail health supplement providers, pharmacies,
+and multi-level marketing company which supply health supplement products. These competitors generate significant traffic and have established
+brand recognition and financial resources. 
+
+We
+believe that the principal competitive factors in our market includes the quality of health supplements, the efficiency and effectiveness
+of the health supplements, strength and depth of relationships with clients, the ability to identify the changing needs and requirements
+of prospective clients, and the scope of service. Through utilizing our competitive strengths, we believe that we have a competitive
+edge over other competitors due to the breadth of our product offerings, one stop convenience, pricing, our service, our reputation and
+product safety. We are confident we can develop and enlarge our market share in Malaysia and potentially further into the overseas market. 
+
+Future
+Plans 
+
+In
+the future, subject to future funds, we intend to increase our current production capacity with the enhancement of our factory with modernized
+and fully automated machineries. In addition, we plan to invest heavily in research and development activities to innovate and develop
+new products to address the future market needs. 
+
+We
+also anticipate expanding into new geographical areas, with a particular focus, at least initially, on expanding into Thailand, India,
+China, Indonesia and other Muslim countries. At present, we do not have any distinct timeline in place for expansion into these countries.
+We also plan to expand our market coverage to include the halal market, the aging population market and the pet market as we see the
+underlying potential in these three market sectors. When we begin these efforts, we plan to hire more employees to support our operations
+in different countries. We believe that hiring fifteen to twenty employees will be sufficient in order to support our operations. We
+may also evaluate potential acquisitions in the future which we feel may have some synergy with our current operations. 
+
+Employees 
+
+As
+of December 31, 2020, we have 30 full-time employees. Currently, our full-time employees devote approximately 50 hours per week to the
+operations of our Company. We do not presently have pension, health, annuity, insurance, stock options, profit sharing, or similar benefit
+plans; however, we may adopt plans in the future. There are presently no personal benefits available to our officer and/or director and
+our employees. We intend to hire more staff to assist in the development and execution of our business operations. 
+
+10 
+
+Product
+Liability 
+
+Due
+to nature of the Company s business, the Company may face claims for product liability resulting from any illnesses, adverse conditions
+or reactions related to use of its products. Presently, the Company does not maintain any product liability insurance to cover any such
+claims. 
+
+ITEM
+1A. RISK FACTORS 
+
+ RISK
+FACTORS 
+
+An
+investment in our common stock involves a number of very significant risks. You should carefully consider the following known material
+risks and uncertainties in addition to other information in this Form 10-K in evaluating our company and its business before purchasing
+shares of our company s common stock. You could lose all or part of your investment due to any of these risks. 
+
+Risk
+Factors Relating to Our Business 
+
+WE
+HAVE LIMITED OPERATING HISTORY AND LIMITED BUSINESS GROWTH. We have been operational since April 2017; therefore, we have had limited
+operations which makes it difficult to evaluate our business and our prospects. In addition, to date, we have not experienced substantial
+growth in our business. The likelihood of our success must be considered in light of the problems, expenses, difficulties, complications
+and delays frequently encountered by a small operating company trying to expand its business enterprise and the highly competitive environment
+in which we will operate. In addition, we are confronting the negative impact of COVID-19 on our business, which has been substantial.
+Consequently, there can be no assurance that the business of the Company will grow in the future. Moreover, because of our limited operating
+history, it is difficult to extrapolate any meaningful projections about the Company s future. 
+
+THE
+CURRENT PANDEMIC OF THE NOVEL CORONAVIRUS OR COVID-19, AND THE FUTURE OUTBREAK OF OTHER HIGHLY INFECTIOUS OR CONTAGIOUS DESEASES, COULD
+MATERIALLY AND ADVERSELY IMPACT OR DISTUPT OUR FINANCIAL CONDITION, RESULTS OF OPERATIONS, CASH FLOWS AND PERFORMANCE. An outbreak
+of respiratory illness caused by COVID-19 emerged in late 2019 and has spread globally, including Malaysia. The coronavirus is considered
+to be highly contagious and poses a serious public health threat. The World Health Organization labeled the coronavirus a pandemic on
+March 11, 2020, given its treat beyond a public health emergency of international concern the organization had declared on January 30,
+2020. 
+
+11 
+
+Our
+revenues, workforce and our wholesales are concentrated in Malaysia. The epidemic has resulted in lockdown of cities, travel restrictions,
+and the temporary closure of stores and facilities in Malaysia for the past few months. The negative impacts of the COVID-19 outbreak
+on our business have included: 
+
+quarantines
+ impeded our ability to sell our products and recruit new wholesalers, which has result in a dramatic reduction in sales. Travel restrictions
+ limited other parties ability to visit and meet us in person. Although most communication may be less effective in building
+ trust and engaging new agents and traders. 
+
+the
+ operations of our wholesalers have been and could continue to be negatively impacted by the epidemic, which may in adversely impact
+ future sales. 
+
+Additionally,
+the pandemic has affected our overall ability to react timely to mitigate the impact of this event and has substantially hampered our
+efforts to provide our investors with timely information and comply with our filing obligations with the Securities and Exchange Commission. 
+
+We
+FACE MARKET COMPETITION AND OUR OPERATING RESULTS WILL SUFFER IF WE FAIL TO COMPETE EFFECTIVELY. We face competition from other companies
+in the supplement and nutraceutical business in Malaysia and elsewhere in the Pacific Rim. Many of our competitors have stronger financial
+and other capacities, including research and development, than us. 
+
+If
+our competitors market products that are more effective, safer or less expensive or that reach the market sooner than our future products,
+if any, we may not achieve commercial success. In addition, because of our limited resources, it may be difficult for us to stay abreast
+of any changes in the market. If we fail to stay at the forefront of innovative products, we may be unable to compete effectively. Advances
+or products developed by our competitors may render our products obsolete, less competitive or not economical. 
+
+WE
+MAY FACE PRODUCT LIABILITY CLAIMS. Due to the nature of our business, we may face claims for product liability. These claims may
+arise from the adverse conditions or reactions to the use of our products. While we feel confident in health benefits of our products,
+we cannot provide assurances that product liability claims will arise in the future. 
+
+Moreover,
+litigation or adverse publicity resulting from these allegations could materially and adversely affect our business, regardless of whether
+the allegations are valid or whether we are liable. Currently we have no product liability insurance coverage, and even if there was
+such coverage, there would be no assurance that such coverage would be sufficient to properly protect us. Further, claims of this type,
+whether substantiated or not, may divert our financial and management resources from revenue generating activities and the business operation. 
+
+Presently,
+we do not have insurance to cover any product liability claims. This lack of insurance may cause a material adverse impact on the Company
+if product liability claims arise. 
+
+INEFFECTIVE
+RISK MANAGEMENT POLICIES AND PROCEDURES. The Company relies on a combination of technical and human factors to protect the Company
+against risks. Its policies, procedures and practices are used to identify, monitor and control a variety of risks, including risks related
+to human error and hardware and software errors. The Company s standard of operations has been developed internally. These risk-management
+methods may not adequately prevent losses and may not protect us against all risks, in which case our business, economic conditions,
+operations and cash flows may be materially adversely affected. 
+
+12 
+
+WE
+WILL NEED ADDITIONAL FINANCING IN ORDER TO GROW OUR BUSINESS. We do not have sufficient assets with which to expand our business.
+We intend to expand our business through increased marketing efforts in Malaysia and elsewhere. These additional expenditures are intended
+to be funded from cash on hand and, if necessary, third party sources, including the incurring of debt and/or the sale of additional
+equity securities. In addition to requiring additional financing to fund expansion, the Company may require additional financing to fund
+working capital and operating losses in the future should the need arise. The incurrence of debt creates additional financial leverage
+and therefore an increase in the financial risk of the Company s operations. The sale of additional equity securities will be dilutive
+to the interests of current equity holders. In addition, there can be no assurance that such additional financing, whether debt or equity,
+will be available to the Company or that it will be available on acceptable commercial terms. Any inability to secure such additional
+financing on appropriate terms could have a materially adverse impact on the business, financial condition and operating results of the
+Company. 
+
+WE
+AND OUR VENDORS ARE SUBJECT TO LAWS AND REGULATIONS THAT COULD REQUIRE US TO MODIFY OUR CURRENT BUSINESS PRACTICES AND INCUR INCREASED
+COSTS, WHICH COULD HAVE A MATERIAL ADVERSE EFFECT ON OUR BUSINESS, FINANCIAL CONDITION AND RESULTS OF OPERATIONS. In our industry,
+we are subject to numerous laws and regulations, including labor, employment and taxation laws. The formulation, manufacturing, packaging,
+labelling, distribution, sale and storage of our products are subject to extensive regulation by various federal agencies and regulatory
+bodies. If we fail to comply with those regulations, we would subject to significant penalties or claims, which would harm our business
+operations. In addition, the adoption of new regulations or changes in the interpretations of existing regulations may result in significant
+compliance costs or discontinuation of product sales and may impair the marketability of our products, resulting in significant loss
+of net sales. Our failure to comply with regulations may result in enforcement actions and imposition of penalties or otherwise harm
+the distribution and sale of our products. 
+
+WE
+EXPECT OUR NET SALES AND OPERATING RESULTS TO VARY SIGNIFICANTLY FROM QUARTER TO QUARTER. A number of factors will influence our
+sales and results, including changes in: 
+
+General
+ economic conditions; 
+
+The
+ demand for our products; 
+
+Our
+ ability to retain, grow our business and attract new clients; 
+
+Administrative
+ costs; 
+
+Advertising
+ and other marketing costs; 
+
+AS
+A RESULT OF THE VARIABILITY OF THESE AND OTHER FACTORS, OUR OPERATING RESULTS IN FUTURE QUARTERS MAY BE BELOW THE EXPECTATIONS OF PUBLIC
+MARKET ANALYSTS AND INVESTORS. If we fail to maintain a quality service and value, our sales are likely to be negatively affected.
+Our success depends on the safety and hygiene product that we produce through our in house manufacturing company. Our future customers
+will identify our product with a certain level of quality and value. If we could not meet this perceived value or level of quality, we
+may be negatively affected and our operating results may suffer. 
+
+13 
+
+THE
+SUCCESS OF OUR BUSINESS DEPENDS ON OUR ABILITY TO MAINTAIN AND ENHANCE OUR REPUTATION AND BRAND. We believe that our reputation in
+the healthcare industry is of significant importance to the success of our business. A well-recognized brand is critical to increasing
+our customer base and, in turn, increasing our revenue. Since the healthcare industry is highly competitive, our ability to remain competitive
+depends to a large extent on our ability to maintain and enhance our reputation and brand, which could be difficult and expensive. To
+maintain and enhance our reputation and brand, we need to successfully manage many aspects of our business, such as cost- effective marketing
+campaigns to increase brand recognition and awareness in a highly competitive market. 
+
+We
+will continue to conduct various marketing and brand promotion activities. We cannot assure you, however, that these activities will
+be successful and achieve the brand promotion goals we expect. If we fail to maintain and enhance our reputation and brand, or if we
+incur excessive expenses in our efforts to do so, our business, financial conditions and results of operations could be adversely affected. 
+
+BUSINESS
+DISRUPTIONS COULD SERIOUSLY HARM OUR FUTURE REVENUE AND FINANCIAL CONDITION AND INCREASE OUR COSTS AND EXPENSES. Our operations could
+be subject to power shortages, telecommunications failures, wildfires, water shortages, floods, earthquakes, hurricanes, typhoons, fires,
+extreme weather conditions, medical epidemics and other natural or man-made disasters or business interruptions. The occurrence of any
+of these business disruptions could seriously harm our operations and financial condition and increase our costs and expenses. Unfavorable
+global economic conditions could adversely affect our business, financial condition, or results of operations. 
+
+We
+do not carry insurance for all categories of risk that our business may encounter. Although we intend to obtain some form of business
+interruption insurance in the future, there can be no assurance that we will secure adequate insurance coverage or that any such insurance
+coverage will be sufficient to protect our operations to significant potential liability in the future. Any significant uninsured liability
+may require us to pay substantial amounts, which would adversely affect our financial position and results of operations. 
+
+WE
+MAY INCUR SIGNIFICANT COSTS TO BE A PUBLIC COMPANY TO ENSURE COMPLIANCE WITH U.S. CORPORATE GOVERNANCE AND ACCOUNTING REQUIREMENTS AND
+WE MAY NOT BE ABLE TO ABSORB SUCH COSTS. We may incur significant costs associated with our public company reporting requirements,
+costs associated with newly applicable corporate governance requirements, including requirements under the Sarbanes-Oxley Act of 2002
+and other rules implemented by the Securities and Exchange Commission. We expect these costs to approximate 50,000 per year, consisting
+of 25,000 in legal, 20,000 in audit and 5,000 for EDGAR filing and transfer agent fees. We expect all of these applicable rules and
+regulations to significantly increase our legal and financial compliance costs and to make some activities more time consuming and costly.
+We may not be able to cover these costs from our operations and may need to raise or borrow additional funds. We also expect that these
+applicable rules and regulations may make it more difficult and more expensive for us to obtain director and officer liability insurance
+and we may be required to accept reduced policy limits and coverage or incur substantially higher costs to obtain the same or similar
+coverage. As a result, it may be more difficult for us to attract and retain qualified individuals to serve on our board of directors
+or as executive officers. We are currently evaluating and monitoring developments with respect to these newly applicable rules, and we
+cannot predict or estimate the amount of additional costs we may incur or the timing of such costs. In addition, we may not be able to
+absorb these costs of being a public company which will negatively affect our business operations. 
+
+14 
+
+OUR
+SOLE OFFICER AND DIRECTOR MAY HAVE A CONFLICT OF INTEREST WITH THE MINORITY SHAREHOLDERS AT SOME TIME IN THE FUTURE. Our sole officer
+and director beneficially owns approximately 77.18 of our outstanding common stock. The interests of our officer and director may not
+be, at all times, the same as that of our other shareholders. Our officer and director is not simply a passive investor but is also the
+sole executive of the Company, his interest as an executive may, at times be adverse to those of passive investors. Where those conflicts
+exist, our shareholders will be dependent upon our director exercising, in a manner fair to all of our shareholders, his fiduciary duty
+in such capacity. Also, our director will have the ability to control the outcome of most corporate actions requiring shareholder approval,
+including the sale of all or substantially all of our assets and amendments to our articles of incorporation. This concentration of ownership
+may also have the effect of delaying, deferring or preventing a change of control of us, which may be disadvantageous to minority shareholders. 
+
+OUR
+SOLE OFFICER AND DIRECTOR MAY HAVE OTHER POTENTIAL CONFLICTS OF INTEREST. Currently our sole officer and director has been working
+on promoting business for the Company. A potential conflict of interest may arise in the future that may cause our business to fail,
+including conflicts of interest in allocating his time to our company and their other business interests. While our sole officer and
+director has verbally agreed to devote sufficient time and attention to the affairs of the Company, we have no written arrangement with
+him regarding this matter. As a result, we may face conflicts between business decisions that he may have to make regarding our operations
+and that of his other business interests. 
+
+BECAUSE
+OUR MANAGEMENT DOES NOT HAVE PRIOR EXPERIENCE RUNNING A PUBLIC COMPANY, WE MAY HAVE TO HIRE INDIVIDUALS OR SUSPEND OR CEASE OPERATIONS.
+ Because our management has limited prior experience in running a public company, including the preparation of reports under the Securities
+Act of 1934, we may have to hire additional experienced personnel to assist us with the preparation thereof. If we need the additional
+experienced personnel and we do not hire them, we could fail in our plan of operations and have to suspend operations or cease operations
+entirely. 
+
+LACK
+OF INDEPENDENT AUDIT COMMITTEE. Although the common stock is not listed on any national securities exchange, for purposes of independence
+we use the definition of independence applied by NASDAQ. Currently, we have no independent audit committee. The full board of directors 
+functions as audit committee and is comprised of our sole director. An independent audit committee plays a crucial role in the corporate
+governance process, assessing our Company s processes relating to our risks and control environment, overseeing financial reporting,
+and evaluating internal and independent audit processes. The lack of an independent audit committee may prevent the board of directors
+from being independent from management in its judgments and decisions and its ability to pursue the responsibilities of an audit committee
+without undue influence. We may have difficulty attracting and retaining directors with the requisite qualifications. If we are unable
+to attract and retain qualified, independent directors, the management of the business could be compromised. An independent audit committee
+is required for listing on any national securities exchange; therefore, until such time as we meet the audit committee independence requirements
+of a national securities exchange, we will be ineligible for listing on any national securities exchange. 
+
+15 
+
+CROSS-BORDER
+OPERATIONS. As we plan to continue expanding our existing cross-border operations into existing and other markets, we will face risks
+associated with expanding into markets in which we have limited or no experience and in which our company may be less well-known. We
+may be unable to attract a sufficient number of customers and other participants, fail to anticipate competitive conditions or face difficulties
+in operating effectively in these new markets. The expansion of our cross-border business will also expose us to risks relating to staffing
+and managing cross-border operations, increased costs to protect intellectual property, tariffs and other trade barriers, differing and
+potentially adverse tax consequences, increased and conflicting regulatory compliance requirements, lack of acceptance of our service
+offerings, challenges caused by distance, language and cultural differences, exchange rate risk and political instability. Accordingly,
+any efforts we make to expand our cross-border operations may not be successful, which could limit our ability to grow our revenue, net
+income and profitability. 
+
+RISKS
+RELATED TO DOING BUSINESS IN ASIA PACIFIC REGION. Changes in the political and economic policies of the local government may materially
+and adversely affect our business, financial condition and results of operations and may result in our inability to sustain our growth
+and expansion strategies. Accordingly, our financial condition and results of operations are affected to a significant extent by economic,
+political and legal developments in Asia Pacific region, primarily Malaysia. 
+
+The
+Asia Pacific economy differs from the economies of most developed countries in many respects, including the extent of government involvement,
+level of development, growth rate, control of foreign exchange and allocation of resources. In addition, the government continues to
+play a significant role in regulating industry development by imposing industrial policies. The government also exercises significant
+control over economic growth by allocating resources, controlling payment of foreign currency-denominated obligations, setting monetary
+policy, regulating financial services and institutions and providing preferential treatment to particular industries or companies. 
+
+The
+local government has implemented various measures to encourage economic growth and guide the allocation of resources. Some of these measures
+may benefit the overall economy, but may also have a negative effect on us. Our financial condition and results of operation could be
+materially and adversely affected by government control over capital investments or changes in tax regulations that are applicable to
+us. In addition, the government has implemented in the past certain measures, including interest rate increases, to control the pace
+of economic growth. These measures may cause decreased economic activity, which in turn could lead to a reduction in demand for our services
+and consequently have a material adverse effect on our businesses, financial condition and results of operations. 
+
+YOU
+MAY EXPERIENCE DIFFICULTIES IN EFFECTING SERVICE OF LEGAL PROCESS, ENFORCING FOREIGN JUDGMENTS OR BRINGING ORIGINAL ACTIONS IN MALAYSIA
+BASED ON UNITED STATES OR OTHER FOREIGN LAWS AGAINST US OR OUR MANAGEMENT. Our operating subsidiary is incorporated in Malaysia and
+conducts substantially all of our operations in Asia Pacific. Our executive officer and director resides outside the United States and
+all of his assets are located outside of the United States. As a result, it may be difficult or impossible for shareholders to bring
+an action against us or against this individuals in Malaysia in the event that you believe that your rights have been infringed under
+the securities laws of the United States or otherwise. Even if you are successful in bringing an action of this kind, the laws of Malaysia
+may render you unable to enforce a judgment against our assets or the assets of our director and officer. There is no statutory recognition
+in Malaysia of judgments obtained in the United States, although the courts of Malaysia will generally recognize and enforce a non-penal
+judgment of a foreign court of competent jurisdiction without retrial on the merits. The rights of shareholders to take legal action
+against us and our directors, actions by minority shareholders and the fiduciary responsibilities of our directors are to a large extent
+governed by the common law of Malaysia. The common law of Malaysia is derived in part from comparatively limited judicial precedent in
+Malaysia as well as from English common law, which provides persuasive, but not binding, authority in a court in Malaysia. The rights
+of our shareholders and the fiduciary responsibilities of our directors under Malaysian law are not as clearly established as they would
+be under statutes or judicial precedents in the United States. In particular, Malaysia has a less developed body of securities laws than
+the United States and provides significantly less protection to investors. As a result, our public shareholders may have more difficulty
+in protecting their interests through actions against us, our management, our directors or our major shareholders than would shareholders
+of a corporation incorporated in a jurisdiction in the United States. 
+
+16 
+
+Risks
+Related to Our Common Stock 
+
+SALES
+OF OUR COMMON STOCK IN RELIANCE ON RULE 144 MAY REDUCE PRICES IN THAT MARKET BY A MATERIAL AMOUNT. A significant number of the outstanding
+shares of our common stock are restricted securities within the meaning of Rule 144 under the Securities Act. As restricted
+securities, those shares may be resold only pursuant to an effective registration statement or pursuant to the requirements of Rule 144
+or other applicable exemptions from registration under the Securities Act and as required under applicable state securities laws. Rule
+144 provides in essence that an affiliate i.e. , an officer, director or control person) who has held restricted securities for
+a prescribed period may, under certain conditions, sell every three months, in brokerage transactions, a number of shares that does not
+exceed 1.0 of the issuer s outstanding common stock. The alternative limitation on the number of shares that may be sold by an
+affiliate, which is related to the average weekly trading volume during the four calendar weeks prior to the sale is not available to
+stockholders of companies whose securities are not traded on an automated quotation system because the OTC-QB Market is
+not such a system, market-based volume limitations are not available for holders of our securities selling under Rule 144. 
+
+Pursuant
+to the provisions of Rule 144, there is no limit on the number of restricted securities that may be sold by a non-affiliate i.e .,
+a stockholder who has not been an officer, director or control person for at least 90 consecutive days before the date of the proposed
+sale) after the restricted securities have been held by the owner for a prescribed period, although there may be other limitations and/or
+criteria to satisfy. A sale pursuant to Rule 144 or pursuant to any other exemption from the Securities Act, if available, or pursuant
+to registration of shares of our common stock held by our stockholders, may reduce the price of our common stock in any market that may
+develop. 
+
+YOU
+MAY NOT BE ABLE TO LIQUIDATE YOUR INVESTMENT SINCE THERE IS NO ASSURANCE THAT A PUBLIC MARKET WILL DEVELOP FOR OUR COMMON STOCK OR THAT
+OUR COMMON STOCK WILL EVER BE APPROVED FOR TRADING ON A RECOGNIZED EXCHANGE. There is no established public trading market for our
+securities. Although we intend to be quoted on the OTC-QB Market in the United States, our shares are not and have not been quoted on
+any exchange or quotation system. We cannot assure you that a market maker will agree to file the necessary documents with the FINRA,
+nor can there be any assurance that such an application for quotation will be approved or that a regular trading market will develop
+or that if developed, will be sustained. In the absence of a trading market, an investor may be unable to liquidate its investment, which
+will result in the loss of your investment. 
+
+17 
+
+OUR
+COMMON STOCK IS SUBJECT TO THE PENNY STOCK RULES OF THE SEC AND THE TRADING MARKET IN OUR SECURITIES IS LIMITED, WHICH
+MAKES TRANSACTIONS IN OUR STOCK CUMBERSOME AND MAY REDUCE THE VALUE OF AN INVESTMENT IN OUR STOCK. Under U.S. federal securities
+legislation, our common stock will constitute penny stock . Penny stock is any equity security that has a market price of
+less than 5.00 per share, subject to certain exceptions. For any transaction involving a penny stock, unless exempt, the rules require
+that a broker or dealer approve a potential investor s account for transactions in penny stocks, and the broker or dealer receive
+from the investor a written agreement to the transaction, setting forth the identity and quantity of the penny stock to be purchased.
+In order to approve an investor s account for transactions in penny stocks, the broker or dealer must obtain financial information
+and investment experience objectives of the person, and make a reasonable determination that the transactions in penny stocks are suitable
+for that person and the person has sufficient knowledge and experience in financial matters to be capable of evaluating the risks of
+transactions in penny stocks. The broker or dealer must also deliver, prior to any transaction in a penny stock, a disclosure schedule
+prepared by the Commission relating to the penny stock market, which, in highlight form sets forth the basis on which the broker or dealer
+made the suitability determination. Brokers may be less willing to execute transactions in securities subject to the penny stock 
+rules. This may make it more difficult for investors to dispose of our common stock and cause a decline in the market value of our stock.
+Disclosure also has to be made about the risks of investing in penny stocks in both public offerings and in secondary trading and about
+the commissions payable to both the broker-dealer and the registered representative, current quotations for the securities and the rights
+and remedies available to an investor in cases of fraud in penny stock transactions. Finally, monthly statements have to be sent disclosing
+recent price information for the penny stock held in the account and information on the limited market in penny stocks. 
+
+IN
+THE FUTURE, WE MAY ISSUE ADDITIONAL COMMON AND PREFERRED SHARES, WHICH WOULD REDUCE INVESTORS PERCENT OF OWNERSHIP AND MAY DILUTE
+OUR SHARE VALUE. Our Articles of Incorporation authorize the issuance of 600,000,000 shares of common stock. As of the date of this
+filing, the Company had 362,905,561 shares of common stock outstanding. Accordingly. In addition, we have the right to issue 200,000,000
+shares of preferred stock. The preferred stock is known as blank check as the Board of Directors is authorized to set the
+rights, privileges and preference of the preferred stock. The future issuance of common stock and preferred may result in substantial
+dilution in the percentage of our common stock held by our then existing shareholders. We may value any common stock issued in the future
+on an arbitrary basis. The issuance of common stock or preferred stock for future services or acquisitions or other corporate actions
+may have the effect of diluting the value of the shares held by our investors, and might have an adverse effect on any trading market
+for our common stock. 
+
+WE
+ARE NOT A FULLY REPORTING COMPANY UNDER SECTION 12(G) OF THE SECURITIES EXCHANGE ACT OF 1934, RATHER WE WILL BE SUBJECT TO THE REPORTING
+REQUIREMENTS OF SECTION 15(D) OF THE EXCHANGE ACT WHICH IS LESS RESTRICTIVE ON US AND OUR INSIDERS. In order for us to become a fully
+reporting company under Section 12(g) of the Exchange Act, we will have to file a Registration Statement on Form 8-A. If we do not become
+subject to Section 12 of the Exchange Act, we will be subject to Section 15(d) of the Exchange Act, and as such we will not be required
+to comply with (i) the proxy statement requirements which means shareholders may have less notice of pending matters, and (ii) the Williams
+Act which requires disclosure of persons or groups that acquire 5 of a company s publicly traded stock and also regulates tender
+offers. In addition, our officer, director and 10 stockholder will not be required to submit reports to the SEC on their stock ownership
+and stock trading activity. These reports include Form 3, 4 and 5. Therefore, as a shareholder, less information and disclosure concerning
+these matters will be available to you. 
+
+18 
+
+WE
+DO NOT INTEND TO PAY ANY CASH DIVIDENDS ON OUR COMMON STOCK, OUR STOCKHOLDERS WILL NOT BE ABLE TO RECEIVE A RETURN ON THEIR SHARES UNLESS
+THEY SELL THEM. We intend to retain any future earnings to finance the development and expansion of our business. We do not anticipate
+paying any cash dividends on our common stock in the foreseeable future. Unless we pay dividends, our stockholders will not be able to
+receive a return on their shares unless they sell them. There is no assurance that stockholders will be able to sell shares when desired. 
+
+OUR
+COMMON STOCK PRICE IS LIKELY TO BE HIGHLY VOLATILE WHICH MAY SUBJECT US TO SECURITIES LITIGATION THEREBY DIVERTING OUR RESOURCES WHICH
+MAY AFFECT OUR PROFITABILITY AND RESULTS OF OPERATION. The market price for our common stock is likely to be highly volatile as the
+stock market in general and the market for Internet-related stocks. 
+
+The
+following factors will add to our common stock price s volatility: 
+
+- 
+ fluctuations
+ in our quarterly financial results or the quarterly financial results of companies perceived to be similar to us; 
+
+- 
+ changes
+ in estimates of our financial results or recommendations by securities analysts; 
+
+- 
+ changes
+ in market valuations of similar companies; 
+
+- 
+ changes
+ in our capital structure, such as future issuances of securities or the incurrence of additional debt; 
+
+- 
+ regulatory
+ developments in Malaysia or other countries wherein we expect to conduct business; 
+
+- 
+ litigation
+ involving our company, our general industry or both; 
+
+- 
+ investors 
+ general perception of us; and 
+
+- 
+ changes
+ in general economic, industry and market conditions. 
+
+Many
+of these factors are beyond our control. These factors may decrease the market price of our common stock, regardless of our operating
+performance. In the past, plaintiffs have initiated securities class action litigation against a company following periods of volatility
+in the market price of its securities. In the future, we may be the target of similar litigation. Securities litigation could result
+in substantial costs and liabilities and could divert management s attention and resources. 
+
+19 
+
+REDUCED
+DISCLOSURE REQUIREMENTS APPLICABLE TO EMERGING GROWTH COMPANIES MAY MAKE OUR COMMON STOCK LESS ATTRACTIVE TO INVESTORS. We qualify
+as an emerging growth company under the JOBS Act. As a result, we are permitted to, and intend to, rely on exemptions from
+certain disclosure requirements. For so long as we are an emerging growth company, we will not be required to: 
+
+have
+ an auditor report on our internal controls over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act; 
+
+comply
+ with any requirement that may be adopted by the Public Company Accounting Oversight Board regarding mandatory audit firm rotation
+ or a supplement to the auditor s report providing additional information about the audit and the financial statements (i.e.,
+ an auditor discussion and analysis); 
+
+submit
+ certain executive compensation matters to shareholder advisory votes, such as say-on-pay and say-on-frequency; 
+ and 
+
+disclose
+ certain executive compensation related items such as the correlation between executive compensation and performance and comparisons
+ of the CEO s compensation to median employee compensation. 
+
+In
+addition, Section 107 of the JOBS Act also provides that an emerging growth company can take advantage of the extended transition period
+provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words, an emerging
+growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies.
+We will remain an emerging growth company for up to five full fiscal years, although if the market value of our common stock that is
+held by non-affiliates exceeds 700 million as of any January 31 before that time, we would cease to be an emerging growth company as
+of the following December 31, or if our annual revenues exceed 1 billion, we would cease to be an emerging growth company the following
+fiscal year, or if we issue more than 1 billion in non-convertible debt in a three-year period, we would cease to be an emerging growth
+company immediately. 
+
+Notwithstanding
+the above, we are also currently a smaller reporting company, meaning that we are not an investment company, an asset-backed
+issuer, nor a majority-owned subsidiary of a parent company that is not a smaller reporting company, and has a public float of less than
+ 75 million and annual revenues of less than 50 million during the most recently completed fiscal year. If we are still considered a
+ smaller reporting company at such time as we cease to be an emerging growth company, we will be subject to
+increased disclosure requirements. However, the disclosure requirements will still be less than they would be if we were not considered
+either an emerging growth company or a smaller reporting company. Specifically, similar to emerging
+growth companies , smaller reporting companies are able to provide simplified executive compensation disclosures
+in their filings; are exempt from the provisions of Section 404(b) of the Sarbanes-Oxley Act requiring that independent registered public
+accounting firms provide an attestation report on the effectiveness of internal control over financial reporting; are not required to
+conduct say-on-pay and frequency votes until annual meetings occurring on or after January 21, 2015; and have certain other decreased
+disclosure obligations in their SEC filings, including, among other things, only being required to provide two years of audited financial
+statements in annual reports. Decreased disclosures in its SEC filings due to its status as an emerging growth company 
+or smaller reporting company may make us less attractive to investors given that it will be harder for investors to analyze
+the Company s results of operations and financial prospects and, as a result, it may be difficult for us to raise additional capital
+as and when we need it. 
+
+20 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS. 
+
+None. 
+
+ITEM
+2. PROPERTIES. 
+
+Our
+properties are located at No. 9 10, Jalan P4/8B, Bandar Teknologi Kajang, 43500 Semenyih, Selangor Darul Ehsan, Malaysia. The property
+is a 3-story semi-detached facility. The property consists of a total of 18,453 square feet, of 9,053 square feet is allocated to our
+executive offices and the remainder is for manufacturing and distribution. The real estate is owned by our subsidiary, Bio Life Neutraceuticals
+Sdn Bhd. We acquired the property in June 2016. The property was pledged to Maybank Islamic Berhad for banking facilities of USD 935,500along
+with interest at 4 per annum. The loan is payable by equal monthly instalment of USD 4,492 for term of 20 years. 
+
+ITEM
+3. LEGAL PROCEEDINGS. 
+
+There
+are presently no pending legal proceedings to which the Company or any of its property is subject, or any material proceedings to which
+any director, officer or affiliate of the Company, any owner of record or beneficially of more than five percent of any class of voting
+securities is a party or has a material interest adverse to the Company, and no such proceedings are known to the Company to be threatened
+or contemplated against it. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES. 
+
+None. 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+
+Market
+Information 
+
+As
+of the date of this filing, we have not applied to FINRA for the symbol for our common stock. Thus, at the moment, there is no established
+public market for our common stock, and a public market may never develop. In addition, there may never be substantial activity in such
+market. If there is substantial activity, such activity may not be maintained, and no prediction can be made as to what prices may prevail
+in such market. 
+
+21 
+
+If
+we become able to have our shares of common stock quoted on the OTC-QB tier of OTC Markets, we will then try, through a broker-dealer
+and its clearing firm, to become eligible with the DTC to permit our shares to be traded electronically. If an issuer is not DTC-eligible, 
+its shares cannot be electronically transferred between brokerage accounts, which, based on the realities of the marketplace as it exists
+today (especially OTC Markets), means that shares of an issuer will not be able to be traded (technically the shares can be traded manually
+between accounts, but this may take days and is not a realistic option for issuers relying on broker-dealers for stock transactions -
+like all the companies on the OTC Markets). What this means is that while DTC-eligibility is not a requirement to trade on the OTC Markets,
+it is however a necessity to efficiently process trades on the OTC Markets if a company s stock is going to trade with any volume.
+There are no assurances that our shares will ever become DTC-eligible or, if they do, how long it may take. 
+
+Capital
+Stock 
+
+Our
+authorized capital stock consists of 600,000,000 shares of common stock, 0.0001 par value per share, and 200,000,000 shares of preferred
+stock, 0.0001 par value per share. As of the date of this filing, there are 362,905,561 shares of our common stock issued and outstanding
+that was held by 163 stockholders of record and no shares of preferred stock issued and outstanding. The shares of preferred stock are
+ blank check meaning the Company s Board of Directors can issue shares of preferred stock in such series with such
+rights, privileges and preferences as determined from time to time by the Board of Directors without shareholder approval. 
+
+Dividend
+Policy 
+
+The
+Company has not declared or paid any cash dividends on its Common Stock and does not intend to declare or pay any cash dividend in the
+foreseeable future. The payment of dividends, if any, is within the discretion of the Board of Directors and will depend on the Company s
+earnings, if any, its capital requirements and financial condition and such other factors as the Board of Directors may consider. 
+
+Securities
+Authorized for Issuance under Equity Compensation Plans 
+
+The
+Company does not have any equity compensation plans or any individual compensation arrangements with respect to its Common Stock or Preferred
+Stock. The issuance of any of our Common Stock or Preferred Stock is within the discretion of our Board of Directors, which has the power
+to issue any or all of our authorized but unissued shares without stockholder approval. 
+
+Recent
+Sales of Unregistered Securities 
+
+None 
+
+22 
+
+ITEM
+6. SELECTED FINANCIAL DATA. 
+
+As
+a smaller reporting company as defined by Rule 12b-2 of the Exchange Act, the Company is not required to provide this information. 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+
+GENERAL 
+
+Our
+Company was incorporated in April 2017 and operations of our Malaysian subsidiaries began operations in 2017. Consequently, the
+following discussion and analysis of the results of operations and financial condition of the Company is for fiscal years ended December
+31, 2020 and December 31, 2019, respectively. This information should be read in conjunction with the notes to the financial statements
+that are included elsewhere herein. The consolidated financial statements presented herein (and to which this discussion relates) reflect
+the results of operations of the Company and its Malaysian subsidiaries. Our discussion includes forward-looking statements based upon
+current expectations that involve risks and uncertainties, such as our plans, objectives, expectations and intentions. Actual results
+and the timing of events could differ materially from those anticipated in these forward-looking statements as a result of a number of
+factors. We use words such as anticipate, estimate, plan, project, continuing, 
+ ongoing, expect, believe, intend, may, will, should, 
+ could, and similar expressions to identify forward-looking statements. We undertake no obligation to revise or update any
+forward-looking statements in order to reflect any event or circumstance that may arise after the date of this report, except as required
+by law. Readers are urged to carefully review and consider the various disclosures made throughout the entirety of this quarterly report,
+which are designed to advise interested parties of the risks and factors that may affect our business, financial condition, results of
+operations and prospects. 
+
+Company
+Overview 
+
+Our
+financial statements are prepared in US Dollars and in accordance with accounting principles generally accepted in the United States.
+See information immediately below for information concerning the exchange rates at the Malaysian translated into US Dollars USD at various pertinent dates and for pertinent periods. 
+
+Translation
+of amounts from the local currency of the Malaysian company Bio Life Neutraceuticals Sdn. Bhd., a subsidiary of Bioplus Life Corp, into
+US 1 has been made at the following exchange rates for the respective years: 
+
+As
+ of and for the years ended December 31, 
+
+2020 
+ 2019 
+ 
+ Year-end
+MYR : US 1 exchange rate 
+ 4.0130 
+ 4.0925 
+ 
+ Yearly
+ average MYR : US 1 exchange rate 
+ 4.2016 
+ 4.1427 
+
+23 
+
+Bioplus
+Life Corp., a Nevada corporation Company ), was incorporated under the laws of the State of Nevada on April 13, 2017. On
+July 10, 2017, the Company acquired 100 of the equity interests of Bioplus Life Corp., a Malaysian company. On July 19, 2017, the Company,
+through its Malaysian subsidiary, Bioplus Life Corp., acquired 100 of the equity interests of Bioplus Life International Holdings Ltd,
+a Hong Kong company. On October 27, 2017, the Company through its Hong Kong subsidiary, Bioplus Life International Holdings Ltd, acquired
+100 equity interest of Bioplus Life Corp. (ShenZhen), a company incorporated in China. 
+
+During
+the current fiscal year, the Company disposed of and de-registered two of its subsidiaries namely, Bioplus Life International Holdings
+Ltd, a Hong Kong company and its subsidiary, Bioplus Life Corp. (ShenZhen), a company incorporated in China. 
+
+Our
+current corporate structure is depicted below: 
+
+Summary
+of Business 
+
+Bioplus
+Life Corp., through its wholly owned subsidiaries, specializing in manufacturing and selling health and beauty care products. Our corporate
+complex is located at No 9 and No 10, Jalan P4/8B, Bandar Teknologi Kajang, 43500 Semenyih, Selangor Darul Ehsan, Malaysia, which are
+two adjoining commercial structures. Our corporate offices are located in the No. 9 building. Our manufacturing facilities comprise the
+remainder of the space in both buildings. 
+
+Our
+website is http://www.bionutry.com and our phone number is +60 3 8703 2020. 
+
+24 
+
+RESULTS
+OF OPERATIONS 
+
+Results
+of Operations for the Year Ended December 31, 2020 Compared to the Year Ended December 31, 2019. 
+
+The
+following table sets forth key components of the results of operations for fiscal year ended December 31, 2020 and 2019, respectively.
+The discussion following the table addresses these results. 
+
+Year
+ ended 
+
+December
+ 31, 
+
+2020 
+ 2019 
+
+REVENUE 
+ 3,549,313 
+ 1,722,209 
+ 
+ COST
+ OF REVENUE 
+ (2,178,491 
+ (914,739 
+ 
+ GROSS
+ PROFIT 
+ 1,370,822 
+ 807,470 
+ 
+ OTHER
+ INCOME 
+ 18,663 
+ 21,143 
+ 
+ OPERATING
+ EXPENSES 
+
+General
+ and operating expenses 
+ (1,067,077 
+ (855,274 
+ 
+ Finance
+ cost 
+ (34,378 
+ (33,242 
+ 
+ TOTAL
+ EXPENSES 
+ (1,101,455 
+ (888,516 
+ 
+ PROFIT/(LOSS)
+ FROM OPERATIONS 
+ 288,030 
+ (59,903 
+ 
+ Gain
+ on disposal of subsidiary 
+ 28,912 
+ - 
+ 
+ PROFIT/(LOSS)
+ BEFORE INCOME TAX 
+ 316,942 
+ (59,903 
+ 
+ Income
+ tax expense 
+ (102,748 
+ (33,289 
+ 
+ NET
+ PROFIT/(LOSS) 
+ 214,194 
+ (93,192 
+ 
+ Other
+ comprehensive income: 
+
+Foreign
+ currency translation profit 
+ 42,531 
+ 32,702 
+ 
+ COMPREHENSIVE
+ PROFIT/(LOSS) 
+ 256,725 
+ (60,490 
+
+Earning
+ per shares 
+ 0.0005 
+ (0.0002 
+ 
+ Weighted
+ average number of shares outstanding 
+
+-
+ Basic and diluted 
+ 362,610,479 
+ 359,305,561 
+
+Revenues.
+ For the annual period ended December 31, 2020, we had revenues of 3,549,313 as compared to revenues of 1,722,209 for the annual
+period ended December 31, 2019, an increase of approximately 106 from the prior annual period. The increase in revenues for the current
+annual period is due to the gradual relaxion on the Movement Control Order (MCO) during the period. The relaxation of MCO allowed us
+to complete last year s backlog along with fulfillment of new orders for the current year from wholesalers and retailers. 
+
+Cost
+of revenues . For the annual period ended December 31, 2020, we had cost of revenues of 2,178,491, as compared to cost of revenues
+of 914,739 for the annual period ended December 31, 2019, an increase of approximately 138 from the prior annual period. The increase
+for the current year end period reflects the 106 increase in revenues. 
+
+Other
+Income . For the annual period ended December 31, 2020, we had other income of 18,663, as compared 21,143 for the annual period
+ended December 31, 2019. Other income for the 2 periods was relatively flat, except that for fiscal 2019 included a gain from the disposal
+of a motor vehicle while a similar event did not occur during fiscal 2020. 
+
+Operating
+Expenses . For the annual period ended December 31, 2020, we had total operating expenses of 1,101,455 as compared to total operating
+expenses of 888,516 for the annual period ended December 31, 2019, an increase of approximately 23.97 . Operating expenses consists
+of general and operating expenses which includes depreciation of fixed assets, stock grants to officers/directors, shares issuances to
+service providers, employee compensation and benefits, professional fees and marketing and travel expenses. Operating expenses also includes
+finance costs on the Company s term loan, which was relatively flat for both annual periods. The increase in general and operating
+expenses for the current year period reflects increases in commissions paid due to increased revenues as well as increases in staff and
+directors bonuses. 
+
+Profit/(Loss)
+from operations . We had a profit from operations of 288,030 for the annual period ended December 31, 2020 compared with a loss from
+operations of 59,903 for the annual period ended December 31, 2019 for the reasons discussed above. 
+
+25 
+
+Profit
+Before Income Tax . During the current fiscal year, we also had again on a subsidiary disposal of 28,912 which contributed to our
+Profit Before Income Tax. We did not have a similar gain for the prior fiscal period. 
+
+Tax
+expense . For the year ended December 31, 2020, we had income tax expense of 102,748 compared with income tax expense of 33,289
+for the prior annual fiscal year. The increase in this expense for the current year end period was due to increase in net profit from
+operations. 
+
+Foreign
+currency translation gain/loss. For the annual period ended December 31, 2020, we had foreign currency translation gain of 42,531
+compared with foreign currency translation gain 32,702 for the prior annual period. Foreign currency translation gain/loss represents
+the movement of the US Dollar against the Malaysian Ringgit. 
+
+LIQUIDITY
+AND CAPITAL RESOURCES 
+
+As
+of December 31, 2020, we had working capital of 308,495 compared with working capital of 206,903 as of December 31, 2019. The increase
+in working capital is due to increases in cash and accounts receivable, both of which are attributable to increased revenues and profit
+for the current period. 
+
+Our
+primary uses of cash have been for operations. The main sources of cash have been from operational revenues and the private placement
+of our common stock. The following trends are reasonably likely to result in a material decrease in our liquidity over the near to long
+term: 
+
+Addition
+ of administrative and marketing personnel as the business grows, 
+
+Development
+ of a Company website, 
+
+Increases
+ in advertising and marketing in order to attempt to generate more revenues, and 
+
+The
+ cost of being a public company. 
+
+Chong
+Khooi You, President/CEO, a major shareholder of the Company, has undertaken to financially support the company so that the Company will
+be sufficient to sustain its current level of operation for at least the next 12 months of operations. In this respect, Company has the
+ability to continue as a going concern, if the Company is unable to obtain adequate capital. The accompanying financial statements do
+not include any adjustments to reflect the recoverability and classification of recorded asset amounts and classification of liabilities
+that might be necessary should the Company be unable to continue as a going concern. 
+
+Summary
+of Cash Flows 
+
+The
+following is a summary of the Company s cash flows from operating and financing activities for the years ended December 31, 2020
+and 2019: 
+
+For
+ the year ended December 31, 
+ 
+ (in
+ Thousands) 
+ 2020 
+ 2019 
+ 
+ Cash
+ and cash equivalents beginning of year 
+ 69,220 
+ 255,554 
+ 
+ Net
+ cash flow provided by/(used in): 
+
+Operating
+ activities 
+ 564,580 
+ (146,845 
+ 
+ Investing
+ activities 
+ (200,885 
+ (58,557 
+ 
+ Financing
+ activities 
+ (60,113 
+ 20,822 
+
+Foreign
+ currency translation adjustment 
+ 14,241 
+ (1,754 
+ 
+ Net
+ cash increase (decrease) for the year 
+ 315,513 
+ (186,334 
+ 
+ Cash
+ and cash equivalents, end of the year 
+ 398,974 
+ 69,220 
+
+26 
+
+Operating
+Activities 
+
+During
+the year ended December 31, 2020, the Company incurred a net profit of 214,194 which, after adjusting for amortization, bad debts written
+off and gain on disposal of subsidiary and interest expense, and changes in operating assets and liabilities, resulted in net cash of
+ 564,580 being used in operating activities during the year. By comparison, during the year ended December 31, 2019, the Company incurred
+a net loss of 93,192 which, after adjusting for depreciation and interest expense, and changes in operating assets and liabilities,
+resulted in net cash of 146,845 in operating activities during the period. 
+
+Investing
+Activities 
+
+During
+the year ended December 31, 2020, cash flow from investing activities consisted of purchase of the property, plant and equipment of 206,458
+compared with similar purchases of 58,557 for the prior year end period. The increase during the current period is due to additional
+investments in plant, machinery equipment. 
+
+Financing
+Activities 
+
+For
+the year ended December 31, 2020, the cash provided by financing activities primarily consisted of the receipt of proceed from issued
+shares 360, offset by 33,471 in interest expense, 2,907 in repayment of loans and 12,164 in repayment of finance lease. For the year
+ended December 31, 2019, the cash provided by financing activities primarily consisted of the receipt of application fund of 104,000
+offset by offset by 33,242 in interest expense, 21,743 in repayment of loans and 28,193 in repayment of finance lease. 
+
+Our
+financial statements reflect the fact that we have sufficient revenue to cover our operating expenses for the next 12 months, although
+at present time, we are under-capitalized. The Company intends to continue with capital investment or other financing to fund its marketing/
+promotional campaigns and the expansion of production capacity for 2021 and beyond for a 50 to 60 increase in revenues in Malaysia,
+China, India, Middle Eastern and African markets. If continued funding and capital resources are unavailable at reasonable terms, the
+Company may not be able to implement its expansion plan. 
+
+27 
+
+Summary
+of Significant Accounting Policies. 
+
+Basis
+ of presentation 
+
+These
+accompanying financial statements have been prepared in accordance with generally accepted accounting principles in the United States
+of America US GAAP ). 
+
+Basis
+of consolidation 
+
+In
+the Annual Report, the Company, us or we refer to the consolidated entity, including its subsidiaries
+and affiliates. Furthermore, in which the company has a variable interest have been consolidated where the Company is the primary beneficiary.
+All intercompany transactions and balances have been eliminated in consolidation. 
+
+Use
+ of estimates 
+
+In
+preparing these financial statements, management makes estimates and assumptions that affect the reported amounts of assets and liabilities
+in the balance sheets and revenues and expenses during the years reported. Actual results may differ from these estimates. 
+
+Cash
+ and cash equivalents 
+
+Cash
+and cash equivalents represent cash on hand, demand deposits placed with banks or other financial institutions and all highly liquid
+investments with an original maturity of three months or less as of the purchase date of such investments. 
+
+Property,
+ plant and equipment 
+
+Property
+and plant and equipment are stated at cost less accumulated depreciation and accumulated impairment losses, if any. Depreciation is calculated
+on the straight-line basis to write off the cost over the following expected useful lives of the assets concerned. The principal annual
+rates used are as follows: 
+
+Categories 
+ Principal Annual Rates/Expected Useful Life 
+ 
+ Computer hardware 
+ 20 
+ 
+ Furniture fittings 
+ 10 
+ 
+ Handphone 
+ 20 
+ 
+ Landscape 
+ 20 
+ 
+ Leasehold land and building 
+ 99 years 
+ 
+ Machinery 
+ 10 
+ 
+ Motor vehicle 
+ 20 
+ 
+ Office equipment 
+ 10 
+ 
+ Renovation 
+ 20 
+ 
+ Signboard 
+ 10 
+ 
+ Tools and equipment 
+ 10 
+ 
+ Kitchen utensils 
+ 10 
+
+Fully
+depreciated plant and equipment are retained in the financial statements until they are no longer in use. 
+
+28 
+
+Inventories 
+
+Inventories
+consisting of products available for sell, are stated at the lower of cost or market value. Cost of inventory is determined using the
+first-in, first-out (FIFO) method. Inventory reserve is recorded to write down the cost of inventory to the estimated market value due
+to slow-moving merchandise and damaged goods, which is dependent upon factors such as historical and forecasted consumer demand, and
+promotional environment. The Company takes ownership, risks and rewards of the products purchased. Write downs are recorded in cost of
+revenues in the Condensed Statements of Operations and Comprehensive Income. 
+
+Revenue
+ recognition 
+
+Revenue
+recognized when it is probable that the economic benefits associated with the transaction will flow to the enterprise and the amount
+of the revenue can be measured reliably. Revenue is measured at the fair value of consideration received or receivable. 
+
+a. 
+ Sales
+ of goods or rendering of services 
+
+An
+entity shall recognize revenue associated with the transaction by reference to the stage of completion of the transaction at the end
+of the reporting period. The outcome of a transaction can be estimated reliably when all the following conditions are satisfied: - 
+
+i. 
+ The
+ amount of revenue can be measured reliably; 
+
+ii. 
+ It
+ is probable that the economic benefits associated with the transaction will flow to the entity; 
+
+iii. 
+ The
+ stage of completion of the transaction at the end of the reporting period can be measured reliably; and 
+
+iv. 
+ The
+ costs incurred for the transaction and the costs to complete the transaction can be measured reliably. 
+
+b. 
+ Interest
+ income 
+
+Interest
+ is recognized on receipt basis. 
+
+29 
+
+Cost
+ of revenues 
+
+Cost
+of revenue includes the purchase cost of retail goods for re-sale to customers and packing materials (such as boxes). It excludes purchasing
+and receiving costs, inspection costs, warehousing costs, internal transfer costs and other costs of distribution network in cost of
+revenues. 
+
+Shipping
+ and handling fees 
+
+Shipping
+and handling fees, if billed to customers, are included in revenue. Shipping and handling fees associated with inbound and outbound freight
+are expensed as incurred and included in selling and distribution expenses. 
+
+Comprehensive
+ income 
+
+ASC
+Topic 220, Comprehensive Income establishes standards for reporting and display of comprehensive income, its components
+and accumulated balances. Comprehensive income as defined includes all changes in equity during a period from non-owner sources. Accumulated
+other comprehensive income, as presented in the accompanying statements of stockholders equity consists of changes in unrealized
+gains and losses on foreign currency translation and cumulative net change in the fair value of available-for-sale investments held at
+the balance sheet date. This comprehensive income is not included in the computation of income tax expense or benefit. 
+
+Income
+ tax expense 
+
+Income
+taxes are determined in accordance with the provisions of ASC Topic 740, Income Taxes ASC Topic 740 ).
+Under this method, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between
+the financial statement carrying amounts of existing assets and liabilities and their respective tax basis. Deferred tax assets and liabilities
+are measured using enacted income tax rates expected to apply to taxable income in the years in which those temporary differences are
+expected to be recovered or settled. Any effect on deferred tax assets and liabilities of a change in tax rates is recognized in income
+in the period that includes the enactment date. 
+
+ASC
+740 prescribes a comprehensive model for how companies should recognize, measure, present, and disclosed in their financial statements
+uncertain tax positions taken or expected to be taken on a tax return. Under ASC 740, tax positions must initially be recognized in the
+financial statements when it is more likely than not the position will be sustained upon examination by the tax authorities. Such tax
+positions must initially and subsequently be measured as the largest amount of tax benefit that has a greater than 50 likelihood of
+being realized upon ultimate settlement with the tax authority assuming full knowledge of the position and relevant facts. 
+
+The
+Company conducts major businesses in Malaysia and is subject to tax in their own jurisdictions. As a result of its business activities,
+the Company will file separate tax returns that are subject to examination by the foreign tax authorities. 
+
+30 
+
+Foreign
+ currencies translation 
+
+Transactions
+denominated in currencies other than the functional currency are translated into the functional currency at the exchange rates prevailing
+at the dates of the transaction. Monetary assets and liabilities denominated in currencies other than the functional currency are translated
+into the functional currency using the applicable exchange rates at the balance sheet dates. The resulting exchange differences are recorded
+in the statement of operations. 
+
+The
+functional currency of the Company is the United States Dollars US and the accompanying financial statements have been
+expressed in US . In addition, the Company maintains its books and record in a local currency, Malaysian Ringgit MYR or
+ RM ), which is functional currency as being the primary currency of the economic environment in which the entity operates. 
+
+In
+general, for consolidation purposes, assets and liabilities of its subsidiaries whose functional currency is not US are translated into
+US , in accordance with ASC Topic 830-30, Translation of Financial Statement , using the exchange rate on the balance
+sheet date. Revenues and expenses are translated at average rates prevailing during the period. The gains and losses resulting from translation
+of financial statements of foreign subsidiary are recorded as a separate component of accumulated other comprehensive income. 
+
+Translation
+of amounts from the local currency of the Company into US 1 has been made at the following exchange rates for the respective years: 
+
+As
+ of and for the year ended December 31, 
+
+2020 
+ 2019 
+ 
+ Year-end
+ MYR: US 1 exchange rate 
+ 4.0130 
+ 4.0925 
+ 
+ Yearly
+ average MYR: US 1 exchange rate 
+ 4.2016 
+ 4.1427 
+ 
+ Year-end
+ US 1: RMB exchange rate 
+ 0.1533 
+ 0.1436 
+ 
+ Yearly
+ average US 1: RMB exchange rate 
+ 0.1450 
+ 0.1448 
+
+Related
+ parties 
+
+Parties,
+which can be a corporation or individual, are considered to be related if the Company has the ability, directly or indirectly, to control
+the other party or exercise significant influence over the other party in making financial and operating decisions. Companies are also
+considered to be related if they are subject to common control or common significant influence. 
+
+31 
+
+Fair
+ value of financial instruments 
+
+The
+carrying value of the Company s financial instruments: cash and cash equivalents, trade receivable, deposits and other receivables,
+amount due to related parties and other payables approximate at their fair values because of the short-term nature of these financial
+instruments. 
+
+The
+Company also follows the guidance of the ASC Topic 820-10, Fair Value Measurements and Disclosures ASC 820-10 ),
+with respect to financial assets and liabilities that are measured at fair value. ASC 820-10 establishes a three-tier fair value hierarchy
+that prioritizes the inputs used in measuring fair value as follows: 
+
+Level
+ 1 : Observable inputs such as quoted prices in active markets; 
+
+Level
+ 2 : Inputs, other than the quoted prices in active markets, that are observable either directly or indirectly; and 
+
+Level
+ 3 : Unobservable inputs in which there is little or no market data, which require the reporting entity to develop its own assumptions
+
+As
+of Dec 31, 2019, and 2018, the Company did not have any non financial assets and liabilities that are recognized or disclosed at fair
+value in the financial statements, at least annually, on a recurring basis, nor did the Company have any assets or liabilities measured
+at fair value on a non-recurring basis. 
+
+Recent
+ accounting pronouncements 
+
+Management
+has considered all recent accounting pronouncements issued since the last audit of our financial statements. The Company s management
+believes that these recent pronouncements will not have a material effect on the Company s financial statements. 
+
+Other
+recent accounting pronouncements issued by the FASB, including its Emerging Issue Task Force, the American Institute of Certified Public
+Accountants, and the Securities and Exchange Commission did not or are not believed by management to have a material impact on the Company s
+present or future financial statements. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+Not
+applicable to smaller reporting companies. 
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+
+Our
+financial statements are contained in pages F-1 through F-17, which appear at the end of this Form 10-K Annual Report. 
+
+32 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+
+None . 
+
+ITEM
+9A. CONTROLS AND PROCEDURES. 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+In
+connection with the preparation of this annual report, an evaluation was carried out by the Company s management, with the participation
+of the principal executive officer and the principal financial officer, of the effectiveness of the Company s disclosure controls
+and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act Exchange Act as of December 31, 2020.
+Disclosure controls and procedures are designed to ensure that information required to be disclosed in reports filed or submitted under
+the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the Commission s rules and
+forms, and that such information is accumulated and communicated to management, including the principal executive officer and the principal
+financial officer, to allow timely decisions regarding required disclosures. 
+
+Based
+on that evaluation, the Company s management concluded, as of the end of the period covered by this report, that the Company s
+disclosure controls and procedures were not effective in recording, processing, summarizing, and reporting information required to be
+disclosed, within the time periods specified in the Commission s rules and forms, and that such information was not accumulated
+and communicated to management, including the principal executive officer and the principal financial officer, to allow timely decisions
+regarding required disclosures. 
+
+Management s
+Report on Internal Control over Financial Reporting 
+
+The
+management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting. The Company s
+internal control over financial reporting is a process, under the supervision of the principal executive officer and the principal financial
+officer, designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of the Company s
+financial statements for external purposes in accordance with United States generally accepted accounting principles (GAAP). Internal
+control over financial reporting includes those policies and procedures that: 
+
+Pertain
+ to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the Company s
+ assets; 
+
+Provide
+ reasonable assurance that transactions are recorded as necessary to permit preparation of the financial statements in accordance
+ with generally accepted accounting principles, and that receipts and expenditures are being made only in accordance with authorizations
+ of management and the board of directors; and 
+
+Provide
+ reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company s
+ assets that could have a material effect on the financial statements. 
+
+33 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of
+any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions
+or that the degree of compliance with the policies or procedures may deteriorate. 
+
+The
+Company s management conducted an assessment of the effectiveness of our internal control over financial reporting as of December
+31, 2020, based on criteria established in Internal Control Integrated Framework issued by the Committee of Sponsoring Organizations
+of the Treadway Commission (2013) as set forth in its Internal Control - Integrated Framework. This assessment identified material weaknesses
+in internal control over financial reporting. A material weakness is a control deficiency, or a combination of deficiencies in internal
+control over financial reporting that creates a reasonable possibility that a material misstatement in annual or interim financial statements
+will not be prevented or detected on a timely basis. Since the assessment of the effectiveness of our internal control over financial
+reporting did identify a material weakness, management considers its internal control over financial reporting to be ineffective. 
+
+Management
+has concluded that our internal control over financial reporting had the following material deficiencies: 
+
+We
+ were unable to maintain segregation of duties within our business operations due to our reliance on a single individual fulfilling
+ the role of sole officer and director. 
+
+Lack
+ of a functioning audit committee due to a lack of a majority of independent members and a lack of a majority of outside directors
+ on our Board of Directors, resulting in ineffective oversight in the establishment and monitoring of required internal control and
+ procedures. 
+
+These
+control deficiencies to our 2020 interim or annual financial statements could have resulted in a material misstatement that might have
+been prevented or detected by a segregation of duties. Accordingly, we have determined that this control deficiency constitutes a material
+weakness. 
+
+To
+the extent reasonably possible, given our limited resources, our goal is, upon consummation of a merger with a private operating company,
+to separate the responsibilities of principal executive officer and principal financial officer, intending to rely on two or more individuals.
+We will also seek to expand our current board of directors to include additional individuals willing to perform directorial functions.
+Since the recited remedial actions will require that we hire or engage additional personnel, this material weakness may not be overcome
+in the near term due to our limited financial resources. Until such remedial actions can be realized, we will continue to rely on the
+advice of outside professionals and consultants. 
+
+This
+annual report does not include an attestation report of our registered public accounting firm regarding our internal controls over financial
+reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant to Section 404(c)
+of the Sarbanes-Oxley Act that permit us to provide only management s report in this annual report. 
+
+34 
+
+Changes
+in Internal Controls over Financial Reporting 
+
+During
+the year ended December 31, 2020, other than the change in ownership, there has been no change in internal control over financial reporting
+that has materially affected or is reasonably likely to materially affect our internal control over financial reporting. 
+
+ITEM
+9B. OTHER INFORMATION. 
+
+None 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+
+The
+following table sets forth the name, age, and position of sole executive officer and director. Executive officers are elected annually
+by our Board of Directors. Each executive officer holds his office until he resigns, is removed by the Board, or his successor is elected
+and qualified. Directors are elected annually by our stockholders at the annual meeting. Each director holds his office until his successor
+is elected and qualified or his earlier resignation or removal. 
+
+NAME 
+ 
+ AGE 
+ 
+ POSITION 
+ 
+ Chong
+ Khooi You 
+ 
+ 47 
+ 
+ Chief
+ Executive Officer, Chief Financial (Accounting) Officer, President and Secretary and Director 
+
+Chong
+Khooi You . Mr. Chong has been engaged in the healthcare industry for over 20 years. Since 1990, he has been involved in the healthcare
+industry working independently as a consultant for many network marketing companies. His responsibilities primarily focus on building
+the right business partnerships globally, implementing business plans for product development and communicating on behalf of the company
+to shareholders, employees, government authorities, other stakeholders and the public. 
+
+In
+2015, Mr. Chong was awarded with the ASEAN Outstanding Business Award for his contribution to the health care industry market. 
+
+Mr.
+Chong s experience in corporate management and business development has led the Board of directors to reach the conclusion that
+he should serve as President, Chief Executive Officer and Director of the Company. 
+
+Family
+Relationships 
+
+Except
+as stated herein above, there are no family relationships among our directors or officers. 
+
+35 
+
+Involvement
+in Legal Proceedings 
+
+To
+the best of our knowledge, none of our directors or executive officers, during the past ten years, has been convicted in a criminal proceeding,
+excluding traffic violations or similar misdemeanors, or has been a party to any judicial or administrative proceeding during the past
+five years that resulted in a judgment, decree or final order enjoining the person from future violations of, or prohibiting activities
+subject to, federal or state securities laws, or a finding of any violation of federal or state securities laws, except for matters that
+were dismissed without sanction or settlement. Except as set forth in our discussion below in Certain Relationships and Related
+Transactions, none of our directors, director nominees or executive officers has been involved in any transactions with us or
+any of our directors, executive officers, affiliates or associates which are required to be disclosed pursuant to the rules and regulations
+of the Securities and Exchange Commission. 
+
+Director
+Independence 
+
+Our
+Board of Directors is currently composed of one member, who does not qualify as an independent director in accordance with the published
+listing requirements of the NASDAQ Global Market (the Company has no plans to list on the NASDAQ Global Market). The NASDAQ independence
+definition includes a series of objective tests, such as that the directors are not, and have not been for at least three years, one
+of our employees and that neither the Director, nor any of their family members have engaged in various types of business dealings with
+us. In addition, our board of directors has not made a subjective determination as to our director that no relationship exist which,
+in the opinion of our board of directors, would interfere with the exercise of independent judgment in carrying out the responsibilities
+of a director, though such subjective determination is required by the NASDAQ rules. Had our board of directors made these determinations,
+our board of directors would have reviewed and discussed information provided by our director and us with regard to our director s
+business and personal activities and relationships as they may relate to us and our management. 
+
+Code
+of Ethics 
+
+We
+currently do not have a code of ethics that applies to our officers, employees and directors, including our Chief Executive Officer and
+Chief Financial Officer; however, we intend to adopt one in the near future. 
+
+Conflicts
+of Interest 
+
+Since
+we do not have an audit or compensation committee comprised of independent directors, the functions that would have been performed by
+such committees are performed by our directors. The Board of Directors has not established an audit committee and does not have an audit
+committee financial expert, nor has the Board established a nominating committee. The Board is of the opinion that such committees are
+not necessary since the Company is an early stage company, and to date, such directors have been performing the functions of such committees.
+Thus, there is a potential conflict of interest in that our sole director and officer has the authority to determine issues concerning
+management compensation, nominations, and audit issues that may affect management decisions. 
+
+36 
+
+In
+addition, our officer has committed to spend a sufficient amount of time and attention to the affairs of the Company to fulfill their
+respective officer responsibilities. In this regard, generally, our officer spends between 15 to 40 hours per week on the affairs of
+the Company, depending on the circumstances. Therefore, we may face conflicts of interest between the time and attention our officer
+devotes to the Company and that of his other business interests. 
+
+Other
+than as described above, we are not aware of any other conflicts of interest of our executive officer and director. 
+
+Involvement
+in Certain Legal Proceedings 
+
+There
+are no legal proceedings that have occurred since our incorporation concerning our Director, or control persons which involved a criminal
+conviction, a criminal proceeding, an administrative or civil proceeding limiting one s participation in the securities or banking
+industries, or a finding of securities or commodities law violations. 
+
+ITEM
+11. EXECUTIVE COMPENSATION. 
+
+Summary
+Executive Compensation Table 
+
+The
+following table reflects the Summary Compensation for our named executive officer for fiscal years ended December 31, 2020, and 2019,
+respectively. For such periods, there were no bonus, non-equity plan compensation, nonqualified compensation earnings or other compensation
+other than as stated below for the named executive officer. Further, we have not entered into an employment agreement with our officer,
+director or any other persons and no such agreements are anticipated in the immediate future. 
+
+Stock 
+ Other 
+
+Award 
+ Compensation 
+ Total 
+ 
+ Name
+ and Position 
+ Year 
+ Salary 
+
+Chong
+ Khooi You 
+ 2019 
+ 75,000 
+ 0 
+ 0 
+ 75,000 
+ 
+ Sole
+ Officer 
+ 2020 
+ 78,750 
+ 0 
+ 0 
+ 78,750 
+
+(1).
+Mr. You received a bonus of 9,375 and allowance of 350 for fiscal year 2020. 
+
+Employment
+Agreements 
+
+The
+Company does not have any employment or other compensation agreement with its executive officer. Moreover, there are no agreements or
+understandings for our executive officer or director to resign at the request of another person and no officer or director is acting
+on behalf of nor will any of them act at the direction of any other person. 
+
+Grants
+of Plan-Based Awards 
+
+Except
+as stated above, no plan-based awards were granted to any of our named executive officer during the fiscal year ended December 31, 2020. 
+
+37 
+
+Outstanding
+Equity Awards at Interim Fiscal Year End 
+
+The
+equity awards reflected in the Summary Compensation Table above represents all restricted stock awards issued to our
+executive officer at December 31, 2019. No other stock or stock option awards were granted to any other officer of the Company as at
+December 31, 2020. 
+
+Option
+Exercises and Stock Vested 
+
+No
+option to purchase our capital stock was exercised by any of our named executive officer, nor was any restricted stock held by such executive
+officer vested during the fiscal period ended December 31, 2020. 
+
+Pension
+Benefits 
+
+No
+named executive officer received or held pension benefits during the fiscal year ended December 31, 2020. 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT 
+
+Security
+Ownership Of Certain Beneficial Owners And Management 
+
+The
+following table sets forth certain information, as of the date hereof, with respect to the beneficial ownership of the outstanding common
+stock by (i) any holder of more than five percent (5 ); (ii) our executive officer and director; and (iii) our director and executive
+officer as a group. Except as otherwise indicated, each of the stockholders listed below has sole voting and investment power over the
+shares beneficially owned. The information is based on 362,905,561 shares of common stock issued and outstanding as of this date. 
+
+Name
+ and Address of 
+ Amount
+ and Nature of 
+ Percent
+ of 
+ 
+ Beneficial
+ Owner 
+ Beneficial
+ Ownership (1) 
+ Class 
+ 
+ Officers
+ and Directors 
+
+Chong
+ Khooi You Chief Executive Officer, Chief Financial (Accounting Officer), President And Secretary. 
+ 280,100,000 
+ 77.18 
+ 
+ All
+ officers and directors as a group (1 person) 
+ 280,100,000 
+ 77.18 
+ 
+ 5 
+ or greater shareholders 
+
+Harmony
+ HealthLifeStyle (HHL) Global Sdn Bhd 
+ 35,000,000 
+ 9.64 
+
+(1)
+Beneficial Ownership is determined in accordance with the rules of the SEC and generally includes voting or investment power with respect
+to securities. Each of the beneficial owners listed above has ownership of and voting power and investment power with respect to our
+Common stock or Preferred Shares. For each beneficial owner above, any options exercisable within 60 days have been included in the denominator. 
+
+ (2)
+The natural person who has voting or investment control over the shares held by Harmony HealthLifeStyle (HHL) Global Sdn. Bhd. is Liew
+Kit Seng. The address of the shareholder is No. 26, Jalan Desa Mewah 12, Taman Desa Mewah, 43500 Semenyih, Selangor, Malaysia. 
+
+38 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+
+On
+April 13, 2017, Chong Khooi You was appointed as President, Secretary, Treasurer, Chief Executive Officer, and a member of our Board
+of Directors. Additionally, on April 13, 2017, the Company issued 100,000 shares of restricted common stock, each with a par value of
+ 0.0001 per share, to Mr. Chong Khooi You for initial working capital of 10. 
+
+On
+July 10, 2017, the Company acquired 100 of the equity interests of Bioplus Life Corp., a company incorporated in Labuan, Malaysia. Bioplus
+Life Corp, a Malaysian Company, was, previous to our acquisition of it, owned and controlled by Chong Khooi You, who is currently our
+sole officer and director. The consideration paid to Mr. Chong Khooi You in exchange for the equity interests of Bioplus Life Corp, a
+Malaysian Company, was 100. 
+
+On
+July 19, 2017, the Company through its subsidiary in Labuan, Bioplus Life Corp., acquired 100 of the equity interests of Bioplus Life
+International Holdings Ltd, a company incorporated in Hong Kong. Previous to the aforementioned acquisition, Bioplus Life International
+Holdings Ltd. was owned and controlled by Mr. Lee Chong Kuang. Total consideration exchanged per the aforementioned acquisition was 0.13. 
+
+On
+July 20, 2017, the Company issued 280,000,000 shares of restricted common stock to Mr. Chong Khooi You, each with a par value of 0.0001
+per share, for additional working capital of 28,000. 
+
+On
+August 17, 2017, the Company issued 35,000,000 and 17,500,000 shares of restricted common stock to Greenpro Asia Strategic SPC and respectively,
+each with a par value of 0.0001 per share, for additional working capital of 5,250. On August 21, 2017, the Company issued 17,500,000
+shares of restricted common stock to Bio Life Distribution Sdn Bhd, each with a par value of 0.0001 per share, for additional working
+capital of 1,750. 
+
+On
+February 27, 2018 Bio Life Holdings Berhad, acquired 100 of the equity interests of Bio Life Neutraceuticals Sdn. Bhd., a company incorporated
+in Malaysia. Prior to the acquisition, Bio Life Neutraceuticals Sdn. Bhd., a Malaysia Company, was owned and controlled by Mr. Chong
+Khooi You and his spouse Datin Phang Lai. Total consideration exchanged per the aforementioned acquisition was 1,371,429. 
+
+On
+June 11, 2018, the Company through its subsidiary in Hong Kong, Bioplus Life International Holdings Ltd, acquired 99.8 equity interest
+of Bio Life Holdings Berhad, a company incorporated in Malaysia. Prior to the acquisition, Bio Life Holdings Berhad, a company incorporated
+in Malaysia, was owned and controlled (99.8 by Chong Khooi You. Total consideration exchanged per the aforementioned acquisition was
+ 0.25. 
+
+39 
+
+ITEM
+14. PRINCIPAL ACCOUNTANT FEES AND SERVICES. 
+
+JP
+Centurion Partners PLT is the Company s current independent registered public accounting firm replacing Total Asia Associates
+PLT on January 8, 2021. 
+
+(1)
+Audit Fees 
+
+The
+aggregate fees billed for each of the last two fiscal years for professional services rendered by the principal accountant for our audit
+of annual financial statements and review of financial statements included in our quarterly reports or services that are normally provided
+by the accountant in connection with statutory and regulatory filings or engagements for those fiscal years were: 
+
+2020 
+ 19,000 
+ 
+ 2019 
+ 19,000 
+
+(2)
+Audit-Related Fees 
+
+The
+aggregate fees billed in each of the last two fiscal years for assurance and related services by the principal accountants that are reasonably
+related to the performance of the audit or review of our financial statements and are not reported in the preceding paragraph: 
+
+2020 
+ 15,000 
+ 
+ 2019 
+ 15,000 
+
+(3)
+Tax Fees 
+
+The
+aggregate fees billed in each of the last two fiscal years for professional services rendered by the principal accountant for tax compliance,
+tax advice, and tax planning were: 
+
+2020 
+ 0 
+ 
+ 2019 
+ 0 
+
+(4)
+All Other Fees 
+
+The
+aggregate fees billed in each of the last two fiscal years for the products and services provided by the principal accountant, other
+than the services reported in paragraphs (1), (2), and (3) were: 
+
+2020 
+ 0 
+ 
+ 2019 
+ 0 
+
+The
+percentage of hours expended on the principal accountant s engagement to audit our financial statements for the most recent fiscal
+year that were attributed to work performed by persons other than the principal accountant s full time, permanent employees was
+0 . 
+
+Audit
+Committee s Pre-Approval Process 
+
+The
+Board of Directors acts as the audit committee of the Company, and accordingly, all services are approved by all the members of the Board
+of Directors. 
+
+40 
+
+PART
+IV. 
+
+ITEM
+15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES. 
+
+EXHIBIT
+INDEX 
+
+Exhibit 
+ 
+ Description 
+ 
+ 3.1(a) 
+ 
+ Articles of Incorporation of Registrant(1) 
+
+3.2 
+ 
+ Bylaws of the Registrant(1) 
+
+10.2 
+ 
+ Banking Agreement with Maybank Islamic Berhad (1) (2) 
+
+21 
+ 
+ Subsidiaries 
+
+31.1 
+ 
+ Certification of the Company s Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+32.1 
+ 
+ Certification of the Company s Principal Executive Officer and Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002+ 
+
+101.INS 
+ 
+ XBRL
+ INSTANCE DOCUMENT 
+
+101.SCH 
+ 
+ XBRL
+ TAXONOMY EXTENSION SCHEMA DOCUMENT 
+
+101.CAL 
+ 
+ XBRL
+ TAXONOMY CALCULATION LINKBASE DOCUMENT 
+
+101.DEF 
+ 
+ XBRL
+ TAXONOMY DEFINITION LINKBASE DOCUMENT 
+
+101.LAB 
+ 
+ XBRL
+ TAXONOMY LABEL LINKBASE DOCUMENT 
+
+101.PRE 
+ 
+ XBRL
+ TAXONOMY PRESENTATION LINKBASE DOCUMENT 
+
+(1)
+Previously filed as an exhibit to the Company s Form S-1 Registration Statement filed on June 28, 2019. 
+
+ (2)
+Exhibit 10.1 is a redacted copy of the original document. The document originally included personal information such as, but not limited
+to, passport and personal identification numbers, which have been removed entirely from exhibit 10.1 and replaced with the phrase redacted 
+in each instance. 
+
+Filed herewith 
+
+ +
+In accordance with SEC Release 33-8238, Exhibits 32.1 is being furnished and not filed. 
+
+41 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. 
+
+BioPlus
+ Life Corp. 
+
+(Registrant)
+
+/s/
+ Chong Khooi You 
+
+Chong
+ Khooi You Dated: November 2, 2021 
+
+Chief
+ Executive Officer (Principal Executive Officer) 
+
+Chief
+ Financial Officer (Principal Financial and Accounting Officer) 
+
+And
+ Sole Director 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates indicated. 
+
+/s/
+ Chong Khooi You 
+
+Chong
+ Khooi You Dated: November 2, 2021 
+
+Chief
+ Executive Officer (Principal Executive Officer) 
+
+Chief
+ Financial Officer (Principal Financial and Accounting Officer) 
+
+And
+ Sole Director 
+
+42 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Shareholders and Board of Directors of Bioplus Life Corp. 
+
+No.
+9 10, Jalan P4/8B 
+
+ Bandar
+Teknologi Kajang 
+
+ 43500
+Semenyih 
+
+ Selangor
+D.E, Malaysia 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying balance sheet of Bioplus Life Corp. (the Company as of December 31, 2020 and the related
+statements of income, stockholders equity, and cash flows for the year ended of December 31, 2020, and the related notes (collectively
+referred to as the financial statements ). In our opinion, the financial statements present fairly, in all material respects,
+the financial position of the Company as of December 31, 2020, and the results of its operations and its cash flows for the year ended
+December 31, 2020, in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion. 
+
+Critical
+Audit Matters 
+
+Critical
+audit matters are matters arising from the current period audit of the financial statements that were communicated or required to be
+communicated to the Board of Directors (Those Charged with Governance) that: (1) relate to accounts or disclosures that are material
+to the financial statements and (2) involved our especially challenging, subjective, or complex judgements. We determined that there
+are no critical matters. 
+
+/s/
+ JP CENTURION PARTNERS PLT 
+
+JP
+ CENTURION PARTNERS PLT 
+
+We
+have served as the Company s auditor since 2020. 
+
+Kuala
+ Lumpur, Malaysia 
+
+November 2, 2021 
+
+F- 1 
+
+TOTAL
+ ASIA ASSOCIATES PLT 
+ (LLP0016837-LCA
+ AF002128) 
+ A
+ Firm registered with US PCAOB and Malaysian MIA 
+ 
+ C-3-1,
+ Megan Avenue 1, 189 Off Jalan Tun Razak, 
+ 50400
+ Kuala Lumpur. 
+ Tel:
+ (603) 2733 9989 
+
+To
+the Board of Directors and Stockholders of BIOPLUS LIFE CORP. 
+
+No
+9 10, Jalan P4/8B 
+
+ Bandar
+Teknologi Kajang 
+
+ 43500
+Semenyih 
+
+ Selangor
+D.E., Malaysia 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying balance sheets of Bioplus Life Corp. (the Company as of December 31, 2019 and 2018, and
+the related consolidated statements of operations and comprehensive loss, stockholders equity, and cash flows for the year ended
+of December 31, 2019 and 2018, and the related notes (collectively referred to as the financial statements ). In our opinion,
+the financial statements present fairly, in all material respects, the financial position of the Company as of December 31, 2019 and
+2018, and the results of its operations and its cash flows for each of two years in the year ended December 31, 2019 and 2018, in conformity
+with accounting principles generally accepted in the United States of America. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal
+securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits
+we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion. 
+
+The
+financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the financial
+statements, the Company s income from operations and no substantial doubt about its ability to continue as a going concern. Management s
+plans regarding those matters also are described in Note 1. The financial statements do not include any adjustments that might result
+from the outcome of this uncertainty. 
+
+/s/
+ Total Asia Associates PLT 
+
+TOTAL
+ ASIA ASSOCIATES PLT 
+
+Kuala
+ Lumpur, Malaysia 
+
+March 27, 2020 
+
+F- 2 
+
+BIOPLUS
+LIFE CORP. 
+
+ CONSOLIDATED
+BALANCE SHEET 
+
+ (Amount
+expressed in United States Dollars US ), except for number of shares) 
+
+As of December 31, 
+
+Note 
+ 2020 
+ 2019 
+
+(Audited) 
+ (Audited) 
+ 
+ ASSETS 
+
+Current assets: 
+
+Cash and bank balances 
+ 
+ 398,974 
+ 210,740 
+ 
+ Account receivables 
+ 
+ 552,616 
+ 308,688 
+ 
+ Income tax receivables 
+ 
+ - 
+ 7,675 
+ 
+ Amount due from related parties 
+ 3 
+ 28,724 
+ 19,771 
+ 
+ Amount due from directors 
+ 4 
+ - 
+ 5,821 
+ 
+ Inventories 
+ 5 
+ 374,330 
+ 303,954 
+ 
+ Other receivables, deposits and prepayments 
+ 6 
+ 41,680 
+ 133,060 
+
+Total current assets 
+ 
+ 1,396,324 
+ 989,709 
+
+Non-current assets: 
+
+Property, plant and equipment, net 
+ 7 
+ 2,331,335 
+ 2,217,247 
+ 
+ Operating lease right of use assets, net 
+ 10 
+ 41,527 
+ - 
+
+Total non-current assets 
+ 
+ 2,372,862 
+ 2,217,247 
+
+TOTAL ASSETS 
+ 
+ 3,769,186 
+ 3,206,956 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities: 
+
+Account payables 
+ 
+ 364,324 
+ 48,298 
+ 
+ Obligation under finance lease 
+ 8 
+ 33,817 
+ 33,343 
+ 
+ Bank borrowings 
+ 9 
+ 54,567 
+ 195,027 
+ 
+ Operating lease liability 
+ 10 
+ 5,399 
+ - 
+ 
+ Other payables and accrued liabilities 
+ 11 
+ 587,923 
+ 494,045 
+ 
+ Provision for taxation 
+ 
+ 38,675 
+ 3,604 
+ 
+ Amount due to directors 
+ 4 
+ 3,124 
+ 8,489 
+
+Total current liabilities 
+ 
+ 1,087,829 
+ 782,806 
+
+Non-current liabilities: 
+
+Obligation under finance lease 
+ 8 
+ 81,981 
+ 92,133 
+ 
+ Bank borrowings 
+ 9 
+ 561,195 
+ 553,144 
+ 
+ Operating lease liability 
+ 10 
+ 36,128 
+ - 
+ 
+ Deferred taxation 
+ 
+ 20,657 
+ 42,631 
+
+Total non-current liabilities 
+ 
+ 699,961 
+ 687,908 
+
+TOTAL LIABILITIES 
+ 
+ 1,787,790 
+ 1,470,714 
+
+Stockholders equity: 
+
+Common stock, par value 0.0001: 362,905,561 and 359,305,561 shares issued and outstanding as of December 31, 2020, and December 31, 2019, respectively 
+ 13 
+ 36,291 
+ 35,931 
+ 
+ Additional paid up share capital 
+ 
+ 1,986,939 
+ 1,998,870 
+ 
+ Accumulated loss 
+ 
+ (2,356 
+ (216,550 
+ 
+ Accumulated other comprehensive loss 
+ 
+ (39,478 
+ (82,009 
+
+Total stockholders equity 
+ 
+ 1,981,396 
+ 1,736,242 
+
+TOTAL LIABILITIES AND STOCKHOLDERS EQUITY 
+ 
+ 3,769,186 
+ 3,206,956 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 3 
+
+BIOPLUS
+LIFE CORP. 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS AND COMPREHENSIVE PROFIT/ (LOSS) 
+
+ (Amount
+expressed in United States Dollars US ), except for number of shares) 
+
+Years ended December 31, 
+
+Note 
+ 2020 
+ 2019 
+ 
+ Revenues, net 
+ 
+ 3,549,313 
+ 1,722,209 
+
+Cost of revenues 
+ 
+ (2,178,491 
+ (914,739 
+
+Gross profit 
+ 
+ 1,370,822 
+ 807,470 
+
+Other income 
+ 15 
+ 18,663 
+ 21,143 
+
+Operating expenses: 
+
+General and operating expenses 
+ 
+ (1,067,077 
+ (855,274 
+ 
+ Finance cost 
+ 
+ (34,378 
+ (33,242 
+
+Total expenses 
+ 
+ (1,101,455 
+ (888,516 
+
+Profit/(Loss) from operations 
+ 
+ 288,030 
+ (59,903 
+ 
+ Gain on disposal of subsidiary 
+ 
+ 28,912 
+ - 
+
+Profit/(Loss) before income tax 
+ 
+ 316,942 
+ (59,903 
+
+Income tax expense 
+ 12 
+ (102,748 
+ (33,289 
+
+NET PROFIT/(LOSS) 
+ 
+ 214,194 
+ (93,192 
+
+Other comprehensive expense: 
+
+- Foreign currency translation gain 
+ 
+ 42,531 
+ 32,702 
+
+COMPREHENSIVE INCOME/(LOSS) 
+ 
+ 256,725 
+ (60,490 
+
+Earnings/(loss) per share 
+ 
+ 0.0005 
+ (0.0002 
+
+Weighted average number of common shares outstanding -Basic and diluted 
+ 
+ 362,610,479 
+ 359,305,561 
+
+The
+accompanying notes are an integral part of these financial statements . 
+
+F- 4 
+
+BIOPLUS
+LIFE CORP. 
+
+ CONSOLIDATED
+STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY 
+
+ (Amount
+expressed in United States Dollars US ), except for number of shares) 
+
+Common
+ stock 
+ Additional
+ paid up 
+ 
+ Accumulated
+ other 
+
+Number
+ of shares 
+ Amount 
+ share
+ capital 
+ Accumulated
+ loss 
+ comprehensive
+ loss 
+ Total
+ equity 
+ 
+ Balance
+ as of January 1, 2019 
+ 359,305,561 
+ 35,931 
+ 1,998,870 
+ (123,358 
+ (114,711 
+ 1,796,732 
+ 
+ Net
+ loss for the year 
+ - 
+ - 
+ - 
+ (93,192 
+ - 
+ (93,192 
+ 
+ Foreign
+ currency translation gain 
+ - 
+ - 
+ - 
+ - 
+ 32,702 
+ 32,702 
+ 
+ Balance
+ as of December 31, 2019 
+ 359,305,561 
+ 35,931 
+ 1,998,870 
+ (216,550 
+ (82,009 
+ 1,736,242 
+ 
+ Common
+ stock issued 
+ 3,600,000 
+ 360 
+ - 
+ - 
+ - 
+ 360 
+ 
+ Transaction
+ with owners 
+ - 
+ - 
+ (11,931 
+ - 
+ - 
+ (11,931 
+ 
+ Net
+ profit for the year 
+ - 
+ - 
+ - 
+ 214,194 
+ - 
+ 214,194 
+ 
+ Foreign
+ currency translation gain 
+ - 
+ - 
+ - 
+ - 
+ 42,531 
+ 42,531 
+ 
+ Balance
+ as of December 31, 2020 
+ 362,905,561 
+ 36,291 
+ 1,986,939 
+ (2,356 
+ (39,478 
+ 1,981,396 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 5 
+
+BIOPLUS
+LIFE CORP. 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS 
+
+ (Amount
+expressed in United States Dollars US )) 
+
+Years
+ ended December 31, 
+
+2020 
+ 2019 
+ 
+ Cash
+ flows from operating activities: 
+
+Net
+ profit/(loss) 
+ 214,194 
+ (93,192 
+
+Adjustments
+ to reconcile net profit/(loss) to net cash used in operating activities: 
+
+Depreciation
+ of property, plant and equipment 
+ 129,443 
+ 107,216 
+ 
+ Amortisation
+ of right of use assets 
+ 2,068 
+ - 
+ 
+ Bad
+ debt written off 
+ 6,307 
+ - 
+ 
+ Gain
+ on disposal of subsidiary 
+ (28,912 
+ - 
+ 
+ Interest
+ expenses 
+ 34,378 
+ 33,242 
+ 
+ Operating
+ profit before working capital changes 
+ 357,478 
+ 47,266 
+
+Changes
+ in operating assets and liabilities: 
+
+Inventories 
+ (64,355 
+ 139,643 
+ 
+ Account
+ receivables 
+ (234,721 
+ 55,262 
+ 
+ Other
+ receivables, deposits and prepayments 
+ 93,185 
+ (77,716 
+ 
+ Amount
+ due from related parties 
+ (8,561 
+ (59,778 
+ 
+ Amount
+ due from directors 
+ (1,858 
+ (2,527 
+ 
+ Account
+ payable 
+ 315,069 
+ (142,669 
+ 
+ Other
+ payables and accrued liabilities 
+ 88,698 
+ (82,825 
+ 
+ Provision
+ for taxation 
+ 22,620 
+ (23,501 
+ 
+ Change
+ in lease liabilities 
+ (2,975 
+ - 
+ 
+ Net
+ Cash generated from/(used in) operating activities 
+ 564,580 
+ (146,845 
+
+Cash
+ flows from investing activities: 
+
+Proceed
+ from disposal of subsidiary 
+ 17,504 
+ - 
+ 
+ Purchase
+ of property, plant and equipment 
+ (206,458 
+ (58,557 
+ 
+ Net
+ cash used in investing activities 
+ (188,954 
+ (58,557 
+
+Cash
+ flows from financing activities: 
+
+Proceeds
+ from issued shares 
+ 360 
+ - 
+ 
+ Proceeds
+ from elimination of investment 
+ (11,931 
+ - 
+ 
+ Interest
+ expenses 
+ (33,471 
+ (33,242 
+ 
+ Share
+ subscription receipts 
+ - 
+ 104,000 
+ 
+ Repayment
+ of term loan borrowing 
+ (2,907 
+ (21,743 
+ 
+ Repayment
+ of finance lease 
+ (12,164 
+ (28,193 
+ 
+ Net
+ cash (used in)/generated from financing activities 
+ (60,113 
+ 20,822 
+
+Foreign
+ currency translation adjustment 
+ 14,241 
+ (1,754 
+
+NET
+ CHANGE IN CASH AND CASH EQUIVALENTS 
+ 315,513 
+ (186,334 
+
+CASH
+ AND CASH EQUIVALENTS, BEGINNING OF FINANCIAL YEAR 
+ 69,220 
+ 255,554 
+
+CASH
+ AND CASH EQUIVALENTS, END OF FINANCIAL YEAR 
+ 398,974 
+ 69,220 
+
+CASH
+ AND CASH EQUIVALENTS INFORMATION: 
+
+Cash
+ and bank balance 
+ 398,974 
+ 210,740 
+ 
+ Bank
+ overdraft 
+ - 
+ (141,520 
+ 
+ Cash
+ and cash equivalents, end of financial year 
+ 398,974 
+ 69,220 
+
+SUPPLEMENTAL
+ CASH FLOWS INFORMATION 
+
+Income
+ tax paid 
+ (80,128 
+ (58,533 
+
+The
+accompanying notes are an integral part of these financial statements. 
+
+F- 6 
+
+BIOPLUS
+LIFE CORP. 
+
+ NOTES
+TO CONSOLIDATED FINANCIAL STATEMENT 
+
+ DECEMBER
+31, 2020 
+
+NOTE
+1 ORGANIZATION AND BUSINESS BACKGROUND 
+
+Bioplus
+Life Corp., a Nevada corporation the Company was incorporated under the laws of the State of Nevada on April 13, 2017.
+For purposes of financial statements presentation, Bioplus Life Corp. and its subsidiaries are herein referred to as the Company 
+or We . 
+
+We
+have historically conducted our business through Bio Life Neutraceuticals Sdn Bhd, a private limited liability company, incorporated
+in Malaysia. Bioplus Life Corp. (US), incorporated in United State of Nevada, is an investment holding company with 100 equity interest
+in Bioplus Life Corp. (Labuan), a company incorporated in Labuan, which subsequent hold 100 equity interest in Bioplus Life International
+Holdings Limited, a company incorporated in Hong Kong, which subsequent hold 99.8 equity interest in Bio Life Holdings Berhad, a company
+incorporated in Malaysia, which subsequent hold 100 equity interest in Bio Life Neutraceuticals Sdn Bhd. On December 31, 2017, Bioplus
+Life Corp was organized to be holding company parent to, and succeed to the operations of, Bioplus Life Corp. (Labuan), Bioplus Life
+International Holdings Ltd, Bio Life Holdings Berhad and Bio Life Neutraceuticals Sdn Bhd. 
+
+During
+the financial year, the group disposed off and de-registered its subsidiaries namely Bioplus Life International Holdings Ltd. and Bio
+Life Neutraceuticals (Shenzhen) Pty Ltd. on August 5, 2020 and September 4, 2020, respectively. 
+
+The
+Company, through its subsidiaries mainly an investment holding and supplies high quality health products. Details of the Company s
+subsidiaries: 
+
+No 
+ Company Name 
+ Place/Date of Incorporation 
+ Particulars of Issued Capital 
+ Principal Activities 
+ 
+ 1 
+ Bioplus Life Corp. (Labuan) 
+ Malaysia, Labuan May 19, 2017 
+ 100 shares of ordinary shares of US 1 each 
+ Investment Holding 
+ 
+ 2 
+ Bioplus Life International Holdings Ltd. (1) 
+ Hong Kong June 20, 2017 
+ 1 shares of ordinary shares of HK 1 each 
+ Investment Holding 
+ 
+ 3 
+ Bio Life Holdings Berhad 
+ Malaysia May 19, 2016 
+ 107,992 shares of ordinary shares of RM1 each 
+ Investment Holding 
+ 
+ 4 
+ Bio Life Neutraceuticals Sdn Bhd 
+ Malaysia, Selangor August 27, 2009 
+ 5,456,207 shares of ordinary shares of RM1 each 
+ Trading of Consumer Products 
+ 
+ 5 
+ Bio Life Neutraceuticals (Shenzhen) Pty Ltd. (2) 
+ Shenzhen October 10, 2017 
+ 500,000 shares of ordinary shares of RMB1 each 
+ Trading of Healthy Supplement and Cosmetic Products 
+
+(1)
+Bioplus Life International Holdings Ltd. was officially disposed off by the Group on August 5, 2020 at a consideration of USD 17,504.
+The restructuring results in gain on disposal of subsidiary as disclosed in Consolidated Statements of Operations and Comprehensive Income/(Loss). 
+
+(2)
+Bio Life Neutraceuticals (Shenzhen) Pty Ltd. was being officially de-registered in Shenzhen on September 4, 2020. 
+
+F- 7 
+
+2. 
+ SUMMARY
+ OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis
+ of presentation 
+
+These
+accompanying financial statements have been prepared in accordance with generally accepted accounting principles in the United States
+of America US GAAP ). 
+
+Basis
+ of consolidation 
+
+In
+this Annual Report, the Company, us or we refer to the consolidated entity, including
+its subsidiaries and affiliates. The terms refer only to the publicly held holding company, The Bioplus Life Corporation, excluding its
+subsidiaries and affiliates. Furthermore, in which the Company has a variable interest have been consolidated where the Company is the
+primary beneficiary. All intercompany transactions and balances have been eliminated in consolidation. 
+
+Use
+ of estimates 
+
+In
+preparing these financial statements, management makes estimates and assumptions that affect the reported amounts of assets and liabilities
+in the balance sheets and revenues and expenses during the years reported. Actual results may differ from these estimates. 
+
+Cash
+ and cash equivalents 
+
+Cash
+and cash equivalents represent cash on hand, demand deposits placed with banks or other financial institutions and all highly liquid
+investments with an original maturity of three months or less as of the purchase date of such investments. 
+
+Property,
+ plant and equipment 
+
+Property
+and plant and equipment are stated at cost less accumulated depreciation and accumulated impairment losses, if any. Depreciation is calculated
+on the straight-line basis to write off the cost over the following expected useful lives of the assets concerned. The principal annual
+rates used are as follows: 
+
+Categories 
+ 
+ Principal
+ Annual Rates/Expected Useful Life 
+ 
+ Computer
+ hardware 
+ 
+ 20 
+ 
+ Furniture
+ and fittings 
+ 
+ 10 
+ 
+ Handphone 
+ 
+ 20 
+ 
+ Landscape 
+ 
+ 20 
+ 
+ Leasehold
+ land and building 
+ 
+ 99
+ years 
+ 
+ Machinery 
+ 
+ 10 
+ 
+ Motor
+ vehicle 
+ 
+ 20 
+ 
+ Office
+ equipment 
+ 
+ 10 
+ 
+ Renovation 
+ 
+ 20 
+ 
+ Signboard 
+ 
+ 10 
+ 
+ Tools
+ and equipment 
+ 
+ 10 
+ 
+ Kitchen
+ utensils 
+ 
+ 10 
+
+Fully
+depreciated plant and equipment are retained in the financial statements until they are no longer in use. 
+
+Inventories 
+
+Inventories
+consisting of products available for sell, are stated at the lower of cost or market value. Cost of inventory is determined using the
+first-in, first-out (FIFO) method. Inventory reserve is recorded to write down the cost of inventory to the estimated market value due
+to slow-moving merchandise and damaged goods, which is dependent upon factors such as historical and forecasted consumer demand, and
+promotional environment. The Company takes ownership, risks and rewards of the products purchased. Write downs are recorded in cost of
+revenues in the Condensed Statements of Operations and Comprehensive Income. 
+
+Revenue
+ recognition 
+
+Revenues
+are recognized when control of the promised goods or services are transferred to a customer, in an amount that reflects the consideration
+that the Company expects to receive in exchange for those goods or services. The Company applies the following five steps in order to
+determine the appropriate amount of revenue to be recognized as it fulfills its obligations under each of its agreements: 
+
+F- 8 
+
+Revenue
+ recognition (continued) 
+
+identify
+ the contract with a customer; 
+
+identify
+ the performance obligations in the contract; 
+
+determine
+ the transaction price; 
+
+allocate
+ the transaction price to performance obligations in the contract; and 
+
+recognize
+ revenue as the performance obligation is satisfied. 
+
+Cost
+ of revenues 
+
+Cost
+of revenue includes the purchase cost of retail goods for re-sale to customers and packing materials (such as boxes). It excludes purchasing
+and receiving costs, inspection costs, warehousing costs, internal transfer costs and other costs of distribution network in cost of
+revenues. 
+
+Shipping
+ and handling fees 
+
+Shipping
+and handling fees, if billed to customers, are included in revenue. Shipping and handling fees associated with inbound and outbound freight
+are expensed as incurred and included in selling and distribution expenses. 
+
+Comprehensive
+ income 
+
+ASC
+Topic 220, Comprehensive Income establishes standards for reporting and display of comprehensive income, its components
+and accumulated balances. Comprehensive income as defined includes all changes in equity during a period from non-owner sources. Accumulated
+other comprehensive income, as presented in the accompanying statements of stockholders equity consists of changes in unrealized
+gains and losses on foreign currency translation and cumulative net change in the fair value of available-for-sale investments held at
+the balance sheet date. This comprehensive income is not included in the computation of income tax expense or benefit. 
+
+Income
+ tax expense 
+
+Income
+taxes are determined in accordance with the provisions of ASC Topic 740, Income Taxes ASC Topic 740 ).
+Under this method, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between
+the financial statement carrying amounts of existing assets and liabilities and their respective tax basis. Deferred tax assets and liabilities
+are measured using enacted income tax rates expected to apply to taxable income in the years in which those temporary differences are
+expected to be recovered or settled. Any effect on deferred tax assets and liabilities of a change in tax rates is recognized in income
+in the period that includes the enactment date. 
+
+ASC
+740 prescribes a comprehensive model for how companies should recognize, measure, present, and disclosed in their financial statements
+uncertain tax positions taken or expected to be taken on a tax return. Under ASC 740, tax positions must initially be recognized in the
+financial statements when it is more likely than not the position will be sustained upon examination by the tax authorities. Such tax
+positions must initially and subsequently be measured as the largest amount of tax benefit that has a greater than 50 likelihood of
+being realized upon ultimate settlement with the tax authority assuming full knowledge of the position and relevant facts. 
+
+The
+Company conducts major businesses in Malaysia and is subject to tax in their own jurisdictions. As a result of its business activities,
+the Company will file separate tax returns that are subject to examination by the foreign tax authorities. 
+
+Foreign
+ currencies translation 
+
+Transactions
+denominated in currencies other than the functional currency are translated into the functional currency at the exchange rates prevailing
+at the dates of the transaction. Monetary assets and liabilities denominated in currencies other than the functional currency are translated
+into the functional currency using the applicable exchange rates at the balance sheet dates. The resulting exchange differences are recorded
+in the statement of operations. 
+
+The
+functional currency of the Company is the United States Dollars US and the accompanying financial statements have been
+expressed in US . In addition, the subsidiaries maintain its books and records in a local currency, Malaysian Ringgit MYR 
+or RM ), Hong Kong Dollars HKD and Renminbi RMB ), which are functional currencies as being
+the primary currencies of the economic environment in which respective entity operates. 
+
+In
+general, for consolidation purposes, assets and liabilities of its subsidiaries whose functional currency is not US are translated into
+US , in accordance with ASC Topic 830-30, Translation of Financial Statement , using the exchange rate on the balance
+sheet date. Revenues and expenses are translated at average rates prevailing during the period. The gains and losses resulting from translation
+of financial statements of foreign subsidiary are recorded as a separate component of accumulated other comprehensive income. 
+
+F- 9 
+
+Foreign
+ currencies translation (continued) 
+
+Translation
+of amounts from the local currency of the Company into US 1 has been made at the following exchange rates for the respective years: 
+
+As
+ of and for the year ended December 31, 
+
+2020 
+ 2019 
+ 
+ Year-end
+ MYR : US 1 exchange rate 
+ 4.0130 
+ 4.0925 
+ 
+ Yearly
+ average MYR : US 1 exchange rate 
+ 4.2016 
+ 4.1427 
+ 
+ Year-end
+ US 1 : RMB exchange rate 
+ 0.1533 
+ 0.1436 
+ 
+ Yearly
+ average US 1 : RMB exchange rate 
+ 0.1450 
+ 0.1448 
+
+Related
+ parties 
+
+Parties,
+which can be a corporation or individual, are considered to be related if the Company has the ability, directly or indirectly, to control
+the other party or exercise significant influence over the other party in making financial and operating decisions. Companies are also
+considered to be related if they are subject to common control or common significant influence. 
+
+Fair
+ value of financial instruments 
+
+The
+carrying value of the Company s financial instruments: cash and cash equivalents, trade receivable, deposits and other receivables,
+amount due to related parties and other payables approximate at their fair values because of the short-term nature of these financial
+instruments. 
+
+The
+Company also follows the guidance of the ASC Topic 820-10, Fair Value Measurements and Disclosures ASC 820-10 ),
+with respect to financial assets and liabilities that are measured at fair value. ASC 820-10 establishes a three-tier fair value hierarchy
+that prioritizes the inputs used in measuring fair value as follows: 
+
+Level
+ 1 : Observable inputs such as quoted prices in active markets; 
+
+Level
+ 2 : Inputs, other than the quoted prices in active markets, that are observable either directly or indirectly; and 
+
+Level
+ 3 : Unobservable inputs in which there is little or no market data, which require the reporting entity to develop its own assumptions 
+
+As
+of December 31, 2020, and December 31, 2019, the Company did not have any non financial assets and liabilities that are recognized or
+disclosed at fair value in the financial statements, at least annually, on a recurring basis, nor did the Company have any assets or
+liabilities measured at fair value on a non-recurring basis. 
+
+Recent
+ accounting pronouncements 
+
+In
+February 2016, the FASB issued ASU 2016-02, Leases (Topic 842), to increase transparency and comparability among organizations
+by recognizing lease assets and lease liabilities on the balance sheet and disclosing key information about leasing arrangements. Most
+prominent among the amendments is the recognition of assets and liabilities by lessees for those leases classified as operating leases
+under current U.S. GAAP. ASU 2016-02 is effective for fiscal years beginning after December 15, 2018, including interim periods within
+those fiscal years. As required by the standard, the Company adopted the provisions of the new standard effective January 1, 2020, using
+the required modified retrospective approach. The adoption does not have a material impact on our financial statements. 
+
+In
+September 2016, the FASB issued ASU 2016-13, Measurement of Credit Losses on Financial Instruments (Topic 326), which replaces the incurred-loss
+impairment methodology and requires immediate recognition of estimated credit losses expected to occur for most financial assets, including
+trade receivables. Credit losses on available-for-sale debt securities with unrealized losses will be recognized as allowances for credit
+losses limited to the amount by which fair value is below amortized cost. ASU 2016-13 is effective for the Company beginning January
+1, 2020 and early adoption is permitted. The adoption does not have a material impact on. 
+
+Other
+recent accounting pronouncements issued by the FASB, including its Emerging Issues Task Force, the American Institute of Certified Public
+Accountants, and the Securities and Exchange Commission did not or are not believed by management to have a material impact on the Company s
+present or future financial statements. 
+
+F- 10 
+
+3. 
+ AMOUNT
+ DUE FROM RELATED PARTIES 
+
+The
+amounts are unsecured, bear no interest and are payable on demand. 
+
+4. 
+ AMOUNT
+ DUE FROM/(TO) DIRECTORS 
+
+The
+amounts are unsecured, bear no interest and are payable on demand. 
+
+5. 
+ INVENTORIES 
+
+As
+ of December 31, 
+
+2020 
+ 2019 
+
+Raw
+ materials 
+ 239,057 
+ 186,254 
+ 
+ Packing
+ materials 
+ 85,562 
+ 83,482 
+ 
+ Finished
+ goods 
+ 49,711 
+ 34,218 
+ 
+ Total
+ inventories 
+ 374,330 
+ 303,954 
+
+6. 
+ OTHER
+ RECEIVABLES, DEPOSITS AND PREPAYMENTS 
+
+As of December 31, 
+
+2020 
+ 2019 
+
+Other receivables 
+ 
+ 22,950 
+ 9,981 
+ 
+ Deposits 
+ 6.1 
+ 8,041 
+ 63,308 
+ 
+ Prepayments 
+ 6.2 
+ 10,689 
+ 59,771 
+
+41,680 
+ 133,060 
+
+6.1 
+ Included in deposits is an amount of 1,557 (2019: 48,371)
+representing deposits paid for rental of hostels and various utilities. 
+
+6.2 
+ Included in prepayments is an amount of NIL (2019: 58,705)
+representing advanced payments made to suppliers for purchase of manufacturing materials. 
+
+7. 
+ PROPERTY,
+ PLANT AND EQUIPMENT, NET 
+
+Property,
+plant and equipment consisted of the following: 
+
+As
+ of December 31, 
+
+2020 
+ 2019 
+
+Computer
+ hardware 
+ 42,430 
+ 32,814 
+ 
+ Furniture
+ and fittings 
+ 117,343 
+ 106,945 
+ 
+ Handphone 
+ 5,070 
+ 3,514 
+ 
+ Landscape 
+ 3,691 
+ 3,475 
+ 
+ Leasehold
+ land and building 
+ 1,875,962 
+ 1,872,476 
+ 
+ Machinery 
+ 206,544 
+ 119,413 
+ 
+ Motor
+ vehicle 
+ 243,630 
+ 243,630 
+ 
+ Office
+ equipment 
+ 60,011 
+ 52,725 
+ 
+ Renovation 
+ 159,013 
+ 92,646 
+ 
+ Signboard 
+ 5,470 
+ 4,648 
+ 
+ Tools
+ and equipment 
+ 15,794 
+ 4,348 
+ 
+ Kitchen
+ utensils 
+ 2,004 
+ - 
+
+2,736,962 
+ 2,536,634 
+ 
+ (Less):
+ Accumulated depreciation 
+ (448,829 
+ (318,652 
+ 
+ Add/(Less):
+ Foreign translation difference 
+ 43,202 
+ (735 
+ 
+ Property,
+ plant and equipment, net 
+ 2,331,335 
+ 2,217,247 
+
+Depreciation
+expense for the year ended December 31, 2020 and December 31, 2019 were 129,443 and 107,216, respectively. 
+
+As
+of December 31, 2020, and December 31, 2019 the motor vehicles under finance leases with carrying value of 85,974 and 129,925,
+respectively. 
+
+The
+leasehold land and building with carrying amount of 1,817,013 (2019: 1,797,002) have been charged to licensed bank to secure banking
+facilities granted to the Company. 
+
+F- 11 
+
+8. 
+ OBLIGATION
+ UNDER FINANCE LEASE 
+
+The
+Company purchased motor vehicles under finance lease agreements with the effective interest rate of 4.40 - 5.28 per annum (2019: 4.40 
+- 5.28 per annum), with principal and interest payable monthly. The obligation under the finance leases are as follows: 
+
+As
+ of December 31, 
+
+2020 
+ 2019 
+ 
+ Present
+ value of finance liabilities: 
+
+Not
+ later than one year 
+ 33,817 
+ 33,343 
+ 
+ Later
+ than one year but not later than two years 
+ 35,535 
+ 32,496 
+ 
+ Later
+ than two years but not later than five years 
+ 46,446 
+ 59,637 
+
+115,798 
+ 125,476 
+
+Analyzed
+ as: 
+
+Current
+ portion 
+ 33,817 
+ 33,343 
+ 
+ Non-current
+ portion 
+ 81,981 
+ 92,133 
+
+115,798 
+ 125,476 
+
+9. 
+ BANK
+ BORROWINGS 
+
+As
+ of December 31, 
+
+2020 
+ 2019 
+ 
+ Secured:
+ - 
+
+Bank
+ overdraft 
+ - 
+ 141,520 
+ 
+ Term
+ loan 
+ 615,762 
+ 606,651 
+
+615,762 
+ 748,171 
+
+Analyzed
+ as: 
+
+Current
+ portion 
+ 54,567 
+ 195,027 
+ 
+ Non-current
+ portion 
+ 561,195 
+ 553,144 
+
+615,762 
+ 748,171 
+
+The
+bank overdraft of the Company is secured by way of the following: 
+
+a. 
+ A
+ Facilities Agreement for US 377,277; 
+
+b. 
+ Master
+ Facility Agreement. 
+
+c. 
+ Joint
+ and Several Guarantee to be executed by the subsidiary directors of Bio Life Neutraceuticals Sdn Bhd. 
+
+Interested
+charged on the bank overdraft is 4 (2019: 4 above the bank base lending rate per annum. 
+
+The
+term loan of the Company is secured by way of the following: 
+
+a. 
+ A
+ Facilities Agreement for US 1,705,086; 
+
+b. 
+ Master
+ Facility Agreement. 
+
+c. 
+ Joint
+ and Several Guarantee to be executed by the subsidiary directors of Bio Life Neutraceuticals Sdn Bhd. 
+
+d. 
+ Leasehold
+ land and building of the subsidiary (Note 7) 
+
+The
+term loan is payable by 240 monthly installments of US 4,492 each including interest, commencing from October 10, 2016 and subject to
+interest at Base Financing Rate + 4 per annum or 10 per annum, whichever is higher. 
+
+F- 12 
+
+10. 
+ LEASE
+ RIGHT-OF-USE ASSET AND LEASE LIABILITIES 
+
+The
+Company officially adopted ASC 842 for the period on and after January 1, 2020 as permitted by ASU 2016-02. ASC 842 originally required
+all entities to use a modified retrospective transition approach that is intended to maximize comparability and be less
+complex than a full retrospective approach. On July 30, 2018, the FASB issued ASU 2018-11 to provide entities with relief from the costs
+of implementing certain aspects of the new leasing standard, ASU 2016-02 of which permits entities may elect not to recast the comparative
+periods presented when transitioning to ASC 842. As permitted by ASU 2018-11, the Company elect not to recast comparative periods, thusly. 
+
+As
+of August 7, 2020, the Company recognized approximately US 43,692, lease liability as well as right-of-use asset for all leases (with
+the exception of short-term leases) at the commencement date. Initial lease liabilities are measured at present value of the sum of remaining
+rental payments as of August 1, 2020, with discounted rate of 5.40 adopted from Malayan Banking (Maybank) Berhad s
+base lending rate as a reference for discount rate, as this bank is the largest bank and national bank of Malaysia. 
+
+A
+single lease cost is recognized over the lease term on a generally straight-line basis. All cash payments of operating lease cost are
+classified within operating activities in the statement of cash flows. 
+
+The
+initial recognition of operating lease right and lease liability as follow: 
+
+Gross
+ lease payable 
+ 
+ - 
+ 
+ Less:
+ imputed interest 
+ - 
+ - 
+ 
+ Initial
+ recognition as of January 1, 2020 
+ - 
+ - 
+ 
+ Additional
+ lease during the year 
+ 43,692 
+ - 
+ 
+ Gross
+ lease payable as of December 31, 2020 
+ 43,692 
+ - 
+
+As
+ of December 31, 2020, operating lease right of use asset as follows: 
+
+Gross
+ lease payables as of January 1, 2020 
+ - 
+ - 
+ 
+ Additional
+ lease during the year 
+ 43,692 
+ - 
+ 
+ Amortisation
+ for the year 
+ (2,068 
+ - 
+ 
+ Foreign
+ translation difference 
+ (97 
+ - 
+ 
+ Balance
+ as at December 31, 2020 
+ 41,527 
+ - 
+
+As
+ of December 31, 2020, operating lease liabilities as follow: 
+
+Gross
+ lease as of January 1, 2020 
+ - 
+ - 
+ 
+ Add:
+ Additional lease during the year 
+ 43,692 
+ - 
+ 
+ Less:
+ Gross repayment for the year ended December 31, 2020 
+ (2,975 
+ - 
+ 
+ Add:
+ Imputed interest for the year ended December 31, 2020 
+ 907 
+ - 
+ 
+ Foreign
+ translation difference 
+ (97 
+ - 
+ 
+ Balance
+ as of December 31, 2020 
+ 41,527 
+ - 
+ 
+ Less:
+ Lease liability current portion 
+ (5,399 
+ - 
+ 
+ Lease
+ liability non-current portion 
+ 36,128 
+ - 
+
+For
+the year ended December 31, 2020, the amortisation of the operating lease right of use assets amounted 2,068. 
+
+F- 13 
+
+10. 
+ LEASE
+ RIGHT-OF-USE ASSET AND LEASE LIABILITIES (CONTINUED) 
+
+Maturities
+ of operating lease obligation as follow: 
+
+Year
+ ending 
+
+December
+ 31, 2021 
+ 5,399 
+ - 
+ 
+ December
+ 31, 2022 
+ 5,698 
+ - 
+ 
+ December
+ 31, 2023 
+ 6,013 
+ - 
+ 
+ December
+ 31, 2024 
+ 6,346 
+ - 
+ 
+ December
+ 31, 2025 
+ 6,698 
+ - 
+ 
+ December
+ 31, 2026 
+ 7,067 
+ - 
+ 
+ December
+ 31, 2027 
+ 4,306 
+ - 
+ 
+ Total 
+ 41,527 
+ - 
+
+Cash
+ paid for amounts included in the measurement of lease liabilities: 
+
+Operating
+ cash flow to operating lease 
+ 2,975 
+ - 
+ 
+ Right-of-use
+ assets obtained in exchange for operating lease 
+ 43,692 
+ - 
+ 
+ Remaining
+ lease term for operating lease (years) 
+ 6.6 
+ - 
+ 
+ Weighted
+ average discount rate for operating lease 
+ 5.40 
+ - 
+
+11. 
+ OTHER
+ PAYABLES AND ACCRUED LIABILITIES 
+
+As
+ of December 31, 
+
+2020 
+ 2019 
+ 
+ Other
+ payables generated from: 
+
+Local 
+ 35,286 
+ 41,645 
+ 
+ Foreign,
+ representing: 
+
+Malaysia 
+
+Advance
+ payment by payable 
+ - 
+ 19,628 
+ 
+ Common
+ outstanding from non-trade payable 
+ 99,524 
+ 17,482 
+ 
+ Common
+ outstanding from third parties 
+ 911 
+ 1,004 
+
+Common
+ outstanding from third parties 
+ - 
+ 861 
+
+135,721 
+ 81,620 
+
+Accrued
+ other expenses 
+
+Local 
+ 1,750 
+ - 
+ 
+ Foreign,
+ representing: 
+
+Malaysia 
+
+Payroll 
+ 63,763 
+ 17,550 
+ 
+ Payroll
+ deduction 
+ 32,044 
+ 7,873 
+ 
+ Professional
+ Fee 
+ 3,243 
+ 11,499 
+ 
+ Commission 
+ 5,137 
+ 43,563 
+ 
+ Expenses 
+ 5,772 
+ 1,157 
+
+109,960 
+ 81,642 
+
+Deposit
+ received from customers 
+ 230,493 
+ 226,783 
+
+Share
+ subscription receipts in advance 
+ 110,000 
+ 104,000 
+
+587,923 
+ 494,045 
+
+F- 14 
+
+12. 
+ INCOME
+ TAXES 
+
+As
+ of December 31, 
+
+2020 
+ 2019 
+ 
+ Tax
+ jurisdictions from: 
+
+Local 
+ (129,862 
+ (114,572 
+ 
+ Foreign,
+ representing: 
+
+Malaysia 
+ 465,650 
+ 59,809 
+ 
+ Hong
+ Kong 
+ (17,775 
+ (2,014 
+ 
+ China 
+ (1,071 
+ (3,126 
+ 
+ Profit/(Loss)
+ before income tax 
+ 316,942 
+ (59,903 
+
+The
+provision for income taxes consisted of the following: 
+
+As
+ of December 31, 
+
+2020 
+ 2019 
+ 
+ Tax
+ expense - Current 
+
+Foreign,
+ representing: 
+
+Malaysia 
+ 124,542 
+ 33,573 
+
+Tax
+ expense Prior year 
+
+Foreign,
+ representing: 
+
+Malaysia 
+ - 
+ 4,895 
+
+Deferred 
+
+Foreign,
+ representing: 
+
+Malaysia 
+ (21,794 
+ (5,179 
+
+102,748 
+ 33,289 
+
+The
+effective tax rate in the periods presented is the result of the mix of income earned in various tax jurisdictions that apply a broad
+range of income tax rates. The Company has subsidiaries that operate in various countries: United States, Hong Kong and Malaysia that
+are subject to taxes in the jurisdictions in which they operate, as follows: 
+
+United
+States of America 
+
+The
+Company is registered in the State of Nevada and is subject to the tax laws of the United States of America. As of December 31, 2020,
+the operations in the United States of America incurred 129,862 (2019: 114,572) of cumulative net operating losses which can be carried
+forward to offset future taxable income. The net operating loss carry forwards begin to expire in 2040 (2019: 2039), if unutilized. The
+Company has provided for a full valuation allowance of 27,271 (2019: 24,060) against the deferred tax assets on the expected future
+tax benefits from the net operating loss carry forwards as the management believes it is more likely than not that these assets will
+not be realized in the future. 
+
+Malaysia 
+
+Bio
+Life Holdings Berhad BLHB and Bio Life Neutraceuticals Sdn Bhd BLNSB are subject to the Malaysia Corporate
+Tax Laws at a tax rate of 24 on the assessable income for its tax year. A reconciliation of income (loss) before income taxes to the
+effective tax rate as follows: 
+
+As
+ of December 31, 
+
+2020 
+ 2019 
+
+Profit
+ before taxation 
+ 465,650 
+ 59,809 
+
+Tax
+ at applicable tax rate of 24 (2019: 24 
+ 111,756 
+ 14,354 
+ 
+ Expenses
+ not deductible for tax purposes 
+ 16,099 
+ 32,041 
+ 
+ Under
+ provision of current taxation in respect of prior year 
+ - 
+ (12,822 
+ 
+ Over
+ provision of deferred taxation in respect of prior year 
+ (25,107 
+ (5,179 
+
+102,748 
+ 33,289 
+
+F- 15 
+
+12. 
+ INCOME
+ TAXES (CONTINUED) 
+
+Hong
+Kong 
+
+Bioplus
+Life International Holdings Ltd is subject to Hong Kong Profits Tax, which is charged at the statutory income tax rate of 16.5 on its
+assessable income. During the financial year, the Group disposed off this subsidiary on August 5, 2020, hence it was consolidated up
+to period then ended. 
+
+China 
+
+The
+Company is registered in the Shen Zhen and is subject to the China Corporate Tax, which is charged at the statutory income tax rate of
+25 on its assessable income. During the financial year, the Group de-registered this subsidiary on September 4, 2020, hence
+it was consolidated up to period then ended. 
+
+13. 
+ STOCKHOLDERS 
+ EQUITY 
+
+As
+of December 31, 2019, Bioplus Life Corp had an issued and outstanding share of common stock of 359,305,561. 
+
+During
+the financial year ended December 31, 2020, the Company issued additional 3,600,000 units of common stock representing 0.992 of enlarged
+issued and outstanding common stock of the Company for working capital purposes. 
+
+As
+of December 31, 2020, Bioplus Life Corp had an issued and outstanding share of common stock of 362,905,561. 
+
+14. 
+ CONCENTRATION
+ OF RISK 
+
+(a)
+Major Customers 
+
+For
+the year ended December 31, 2020 and 2019, the customers who accounted for 10 or more of the Company s revenues are presented
+as follows: 
+
+Revenues 
+ Percentage of revenues 
+ Account Receivable, Trade 
+
+2020 
+ 2019 
+ 2020 
+ 2019 
+ 2020 
+ 2019 
+
+Customer A 
+ 363,940 
+ 204,234 
+ 10 
+ 12 
+ 75,233 
+ 63,714 
+ 
+ Customer B 
+ - 
+ 236,147 
+ - 
+ 14 
+ - 
+ 83,299 
+ 
+ Customer C 
+ 658,288 
+ - 
+ 19 
+ - 
+ 286,079 
+ - 
+ 
+ Customer D 
+ 938,216 
+ - 
+ 26 
+ - 
+ - 
+ - 
+
+1,960,444 
+ 440,381 
+ 55 
+ 26 
+ 361,312 
+ 147,013 
+
+(b)
+Major Suppliers 
+
+For
+the year ended December 31, 2020 and 2019, the suppliers who accounted for 10 or more of the Company s purchases are presented
+as follows: 
+
+Purchases 
+ Percentage of purchases 
+ Account Payable, Trade 
+
+2020 
+ 2019 
+ 2020 
+ 2019 
+ 2020 
+ 2019 
+
+Supplier A 
+ 978,216 
+ 400,287 
+ 62 
+ 80 
+ 167,351 
+ 58,616 
+ 
+ Supplier B 
+ 303,034 
+ 63,572 
+ 19 
+ 13 
+ - 
+ - 
+
+1,281,250 
+ 463,859 
+ 81 
+ 93 
+ 167,351 
+ 58,616 
+
+F- 16 
+
+15. 
+ OTHER
+ INCOME 
+
+As
+ of December 31, 
+
+2020 
+ 2019 
+
+Interest
+ income 
+ - 
+ 21 
+ 
+ Other
+ income 
+ 7,153 
+ 62 
+ 
+ Unrealized
+ gain on foreign exchange 
+ 11,510 
+ 7,059 
+ 
+ Gain
+ on disposal of motor vehicle 
+ - 
+ 14,001 
+
+18,663 
+ 21,143 
+
+16. 
+ RELATED
+ PARTIES TRANSACTIONS 
+
+As
+ of December 31, 
+
+2020 
+ 2019 
+
+Transactions
+ with company in which a shareholder has substantial financial interest: 
+
+Sales
+ to: 
+
+Bio
+ Life Capital Sdn. Bhd. 
+ - 
+ - 
+
+Purchases
+ from: 
+
+Bio
+ Life Capital Sdn. Bhd. 
+ - 
+ - 
+
+Choong
+Kooi You, our sole officer and director and controlling shareholder is a director or controlling equity owner of the above company. 
+
+17. 
+ FOREIGN
+ CURRENCY EXCHANGE RATE 
+
+The
+Company cannot guarantee that the current exchange rate will remain stable, therefore there is a possibility that the Company could post
+the same amount of income for two comparable periods and because of the fluctuating exchange rate post higher or lower income depending
+on exchange rate converted into US at the end of the financial year. The exchange rate could fluctuate depending on changes in political
+and economic environments without notice. 
+
+18. 
+ SUBSEQUENT
+ EVENTS 
+
+In
+accordance with ASC Topic 855, Subsequent Events , which establishes general standards of accounting for and disclosure
+of events that occur after the balance sheet date but before financial statements are issued, the Company has evaluated all events or
+transactions that occurred after December 31, 2020 up through the date July 6, 2021 was the Company presented these audited
+consolidated financial statements. During the period, the Company did not have any material recognizable subsequent events. 
+
+19. 
+ SIGNIFICANT
+ EVENTS 
+
+(i) During
+ the fiscal year, the Company issued additional 3,600,000 units of common stock representing
+ 0.992 of enlarged issued and outstanding common stock of the Company. 
+
+(ii) During
+ the fiscal year, the World Health Organization (WHO) declared the Coronavirus (COVID-19)
+ outbreak to be a pandemic, which has caused severe global social and economic disruptions
+ and uncertainties, including markets where the Company operates. 
+
+The
+ Company considers this outbreak as non-adjusting-events. The consequences brought about by COVID-19 continue to evolve and whilst the
+ Company actively monitoring and managing its operations to respond to these changes, the Company does not consider it practicable to
+ provide any quantitative estimate on the potential impact it may have on the Company. 
+
+F- 17 
+
+<EX-21>
+ 2
+ ex21.htm
+
+Exhibit
+21 
+
+Ours
+subsidiaries and corporate structure are depicted below: 
+
+</EX-21>
+
+<EX-31.1>
+ 3
+ ex31-1.htm
+
+Exhibit
+31.1 
+
+Certification
+of the Company s Principal Executive Officer and Principal Financial Officer 
+
+ Pursuant
+to Section 302 of the Sarbanes-Oxley Act of 2002 
+
+ and
+Securities and Exchange Commission Release 34-46427 
+
+I,
+Chong Khooi You , certify that: 
+
+1. 
+ I
+ have reviewed this report on Form 10-K of BioPlus Life Corp.; 
+
+2. 
+ Based
+ on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+ to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+ the period covered by this annual report; 
+
+3. 
+ Based
+ on my knowledge, the financial statements, and other financial information included in this annual report, fairly present in all
+ material respects the financial condition, results of operations and cash flows of the small business issuer as of, and for, the
+ periods present in this annual report; 
+
+4. 
+ I
+ am the registrant s sole certifying officer(s) and I am responsible for establishing and maintaining disclosure controls and
+ procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in
+ Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+ Designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+ for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+ Evaluated
+ the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+ and 
+
+d) 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ As
+ the registrant s sole certifying officer, I have disclosed, based on our most recent evaluation of internal control over financial
+ reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+ the equivalent functions): 
+
+a) 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+ and 
+
+b) 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+ internal control over financial reporting. 
+
+Date:
+ November 2, 2021 
+
+/s/
+ Chong Khooi You 
+
+Chong
+ Khooi You 
+ President
+ and CEO 
+ (Principal
+ Executive Officer, Principal Financial Officer, and Principal Accounting Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+Exhibit
+32.1 
+
+Certification
+of Principal Executive Officer and Principal Financial Officer 
+
+ Pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to 
+
+ Section
+906 of the Sarbanes-Oxley Act of 2002 
+
+In
+connection with the Annual Report of BioPlus Life Corp. (the Company on Form 10-K for the period ended December 31, 2020
+as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Chong Khooi You, certify pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge and
+belief: 
+
+1.
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2.
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+of the Company. 
+
+Date:
+November 2, 2021 
+
+/s/
+ Chong Khooi You 
+
+Chong
+ Khooi You 
+
+President
+ and CEO 
+ (Principal
+ Executive Officer, Principal Financial Officer, and Principal Accounting Officer) 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 15
+ biopl-20201231.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 16
+ biopl-20201231.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 17
+ biopl-20201231_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 18
+ biopl-20201231_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 19
+ biopl-20201231_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 20
+ biopl-20201231_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

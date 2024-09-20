@@ -1,0 +1,1422 @@
+<Header>
+<FileStats>
+    <FileName>20211222_10-K_edgar_data_1071272_0001071272-21-000004.txt</FileName>
+    <GrossFileSize>126694</GrossFileSize>
+    <NetFileSize>108128</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>12370</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001071272-21-000004.hdr.sgml : 20211222
+<ACCEPTANCE-DATETIME>20211222163746
+ACCESSION NUMBER:		0001071272-21-000004
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20201231
+FILED AS OF DATE:		20211222
+DATE AS OF CHANGE:		20211222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EASTON PHARMACEUTICALS INC.
+		CENTRAL INDEX KEY:			0001071272
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				522278236
+		STATE OF INCORPORATION:			WY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-30641
+		FILM NUMBER:		211513745
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SUITE 200, 265 RIMROCK ROAD
+		CITY:			NORTH YORK
+		STATE:			A6
+		ZIP:			M3J3C6
+		BUSINESS PHONE:		4166190291
+
+	MAIL ADDRESS:	
+		STREET 1:		SUITE 200, 265 RIMROCK ROAD
+		CITY:			NORTH YORK
+		STATE:			A6
+		ZIP:			M3J3C6
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LAM PHARMACEUTICAL CORP
+		DATE OF NAME CHANGE:	20001003
+
+</SEC-Header>
+</Header>
+
+ 0001071272-21-000004.txt : 20211222
+
+10-K
+ 1
+ EAPHEDGARfilingDec31_20.htm
+
+TABLE OF CONTENTS 
+ PART I 
+ 
+	 Item 1. Business 
+	 Item 1A. Risk Factors 
+	 Item 1B. Unresolved Staff Comments 
+	 Item 2. Properties 
+	 Item 3. Legal Proceedings 
+	 Item 4. Mine Safety Disclosures 
+ 
+ PART II 
+ 
+	 Item 5. Market for Registrant rsquo;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+	 Item 6. Selected Financial Data 
+	 Item 7. Management rsquo;s Discussion and Analysis of Financial Condition and Results of Operations 
+	 Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+	 Item 8. Financial Statements and Supplementary Data 
+	 Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+	 Item 9A. Controls and Procedures 
+	 Item 9B. Other Information 
+ 
+ PART III 
+ 
+	 Item 10. Directors, Executive Officers and Corporate Governance 
+	 Item 11. Executive Compensation 
+	 Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+	 Item 13. Certain Relationships and Related Transactions, and Director Independence 
+	 Item 14. Principal Accounting Fees and Services 
+ 
+ PART IV 
+ 
+	 Item 15. Exhibits, Financial Statement Schedules 
+	 Item 16. Form 10-K Summary 
+ 
+ SIGNATURES 
+
+ PART I 
+ Item 1. Business. 
+ Product and Market Overview 
+ Parallel Industries Inc., changed its name on December 23, 2020, formerly EASTON PHARMACEUTICALS, Inc. is the owner, developer and distributor of a variety of women rsquo;s health care products and specifically of a proprietary transdermal delivery technology that has been incorporated in a line of therapeutic OTC products (Viorra Delivery Matrix or ldquo;VDM rdquo;) that management believes will be commercialized to transport various medicinal ingredients in vivo. The combination of the delivery technology and active ingredients together is intended to be developed and commercialized for marketing and sale on a global basis. Active ingredients include or will include a combination of generally recognized as safe ldquo;GRAS rdquo;) additives, approved cosmetic ingredients or approved drugs (the combination of the VDM trans dermal delivery matrix and any drugs are not currently approved or cleared in any jurisdiction). The Company rsquo;s products are currently in various stages of commercialization: basic research; proof of concept research; development; and commercialization. Product commercialization is currently focused on the Company rsquo;s product, ldquo;Viorra rdquo;, an aid to the relief of female sexual arousal disorder (FSAD). Since 2009 the Company has not recognized material sales of Viorra or other VDM-based products to date. 
+ In mid 2008 EASTON PHARMACEUTICALS abandoned and suspended any further research and development or commercialization efforts for products based on the L.A.M. Pharmaceutical rsquo;s L.A.M. IPM trade; technology. This asset was the basis of L.A.M. Pharmaceutical rsquo;s IPM Wound Gel and delivery system, and other various L.A.M. Pharmaceutical rsquo;s products. This technology involved the use of the L.A.M. Pharmaceutical rsquo;s Ionic Polymer Matrix trade; technology (L.A.M. IPM trade;) for the purpose of delivering, enhancing and sustaining the action of certain established therapeutic agents. EASTON PHARMACEUTICALS subsequently replaced the original delivery system in favor of the acquired Viorra proprietary delivery technology Viorra Delivery Matrix ldquo;VDM rdquo;. In 2008 the prior EASTON PHARMACEUTICALS Board of Directors reviewed strategic alternatives regarding the L.A.M. IPM trade; and its patented IPM Wound Gel assets including but not limited to sale, licensing, abandonment or future product development. In late 2008 and early 2009, EASTON PHARMACEUTICALS agreed to divest L.A.M. IPM trade; and its patented IPM Wound Gel assets, and shortly thereafter acquired the remaining assets and know-how of Ixora Bio Medical Company Inc. ldquo;IXORA rdquo;) and Viorra Bio Medical Inc. ldquo;VBMI rdquo;) together with the VDM technologies and other assets. The Company believes the VDM delivery system can provide superior efficacy for the Company rsquo;s current focus on topical FSAD, and other products. 
+ Prior to the acquisition of VBMI and IXORA the Company's corporate objectives were to develop, market and license wound healing and the trans dermal delivery of drugs, therapeutic preparations and cosmetics for the prescription, over-the-counter and cosmetic markets, utilizing L.A.M. Pharmaceutical Ionic Polymer Matrix trade; technology ldquo;L.A.M. IPM trade; rdquo;). It was the Company's intention to seek out corporate alliances and co-marketing partnerships where other drugs and topical products could be enhanced by the L.A.M. IPM trade; technology. 
+ Easton Pharmaceuticals intention was to acquire complementary products, technologies or companies by identifying and evaluating potential products and technologies developed by third parties that it believed would fit within the overall objective. Since incorporation in 1999 the Company raised approximately 18 million for research and development to commercialize its main pipeline of products, specifically the L.A.M. IPM Wound Gel trade;. 
+
+ Past and Present Product Development 
+ In December 1997, EASTON PHARMACEUTICALS granted an exclusive worldwide license to IXORA with rights granted for the marketing, sale and distribution of certain trans dermal treatments for male and female sexual dysfunction. EASTON PHARMACEUTICALS received licensing, milestone, and other fees and payments of approximately 1,050,000 plus 2,025,000 common shares of IXORA; the consideration paid in shares of IXORA represented at that time 45 of the then outstanding share capital of IXORA. 
+ Under terms of the then IXORA license agreement Easton Pharmaceuticals obligations were to protect and bear the cost of defending the corresponding patent rights and IXORA rsquo;s obligations related to reimbursing LAM, or to directly pay for: identified and qualifying costs of research and development including clinical studies determined necessary to complete regulatory filings in the US and other jurisdictions and various regulatory agencies that regulate the marketing and sale of the products; and, cost related to patent procurement and maintenance costs of the underlying intellectual property. The agreement has a term of 99 years and the following termination provisions: 
+ 
+	 Ixora fails to pay any money due under the contract, but only in the event that the amount due remains outstanding 60 days after receipt of written notice from us that the amount is due, or 
+	 Either party becomes bankrupt or insolvent, or 
+	 Either party fails to observe, perform or keep any of the material covenants, provisions, stipulations, representations and conditions contained in the contract and that the breach has not been cured within 60 days after receipt by the defaulting party of notice of such breach 
+ 
+ Under the then terms of the licensing agreement IXORA is responsible for the manufacturing of the product, to ensure that the IPM matrix is manufactured in accordance with the Good Manufacturing Practices (GMP) and that the product is safe and performs to its specifications. Under the terms of the agreement EASTON PHARMACEUTICALS would have received the following royalties on sales under the agreement from IXORA: 
+ 
+	 9 of all net sales of licensed products approved by the FDA and for which the patent rights have not expired. 
+	 6.5 of all net sales of all licensed products which did not require FDA approval and for which the patent rights have not expired. 
+	 4.5 of all net sales of all licensed products for which the patent rights have expired or have been shown to be invalid. 
+ 
+ At the time of the acquisition of the IXORA assets by EASTON PHARMACEUTICALS and thereafter, EASTON PHARMACEUTICALS and IXORA confirm that the exclusive worldwide license granted IXORA remain valid, in full force and effect. On April 15, 2002, EASTON PHARMACEUTICALS obtained clearance from the United States Food and Drug Administration ldquo;FDA rdquo;) of its Section 510(k) pre-market notification of intent (number K020325) to market its proprietary L.A.M. IPM Wound Gel trade;. Limited commercial sales of this product began in August 2002. The customer base was primarily derived from wound care professionals and centers, doctors, nurses, hospitals and individual sales through the Internet. 
+ EASTON PHARMACEUTICALS subsequently hired consultants directly involved in the initial development of the L.A.M. IPM Wound Gel TM and who were directly responsible for obtaining its 510K approval by the FDA to complete the reformulation efforts. In 2006 the Company's then President Joseph Slechta passed away. This was deemed a material setback to the Company resulting in the loss of valuable relationships brought forward by Mr. Slechta. In the fall of 2008, the board of directors of EASTON PHARMACEUTICALS made the decision to divest itself of its L.A.M. IPM Wound Gel and transdermal delivery system. 
+ On November 12, 2003 EASTON PHARMACEUTICALS entered into an exclusive distribution agreement with Verus S.A. de C.V. ("Verus") to distribute our L.A.M. IPM Wound Gel trade; in several South American, Central American and Caribbean countries. Under the terms of the agreement the financial and other obligations of the parties were to commence when Verus receives marketing authorization from regulatory authorities in at least one of the countries and was to continue for at least one year from such date. The agreement term was extended, without a specified term on a non-exclusive basis upon the expiration of the initial term and was agreed to continue to be extended unless terminated by the delivery of notice, one party to the other with thirty days written notice. EASTON PHARMACEUTICALS had the right to terminate the agreement with Verus at any time. To date, EASTON PHARMACEUTICALS has not received any payments under this agreement. Consequently, the Company made the decision to terminate the agreement and relationship with Verus. 
+ On March 24, 2004, EASTON PHARMACEUTICALS received approval from the Chinese State Food and Drug Administration for the importation and sale of the L.A.M. IPM Wound Gel trade; in the Peoples Republic of China. In 2004 EASTON PHARMACEUTICALS signed a three-year distribution agreement with China National Pharmaceutical Foreign Trade Corporation ldquo;Sinopharm rdquo;). The agreement granted Sinopharm the exclusive distribution rights to market and sell L.A.M. IPM Wound Gel trade; in China. Under the terms of this agreement the rights granted could be terminated by either party immediately upon giving written notice if certain performance criteria or financial obligations were not met. EASTON PHARMACEUTICALS did not receive any payments from Sinopharm. Under terms of the agreement EASTON PHARMACEUTICALS was to receive payments when sales were made to Sinopharm. To date there have not been any sales generated from this agreement and no payment from Sinopharm have been made to LAM. Consequently, EASTON PHARMACEUTICALS determined to terminate its relationship with Sinopharm. 
+ On January 5, 2005, EASTON PHARMACEUTICALS entered into a provisional agreement with Finest Enterprises Limited and China Elegant Development Limited to acquire New World Kellerton, a pharmaceutical company based in Xinyang, China. The provisional agreement is non-binding and remains in effect until the execution of a definitive agreement. As of this date a definitive agreement has not been completed. 
+ EASTON PHARMACEUTICALS marketing plans related to licensed products, distribution agreements and products currently commercialized or in its pipeline are in the process of being revised and developed. EASTON PHARMACEUTICALS has received minimal orders for our product to date from the above distributors and will only receive payments to the extent that sales are made to the distributors. 
+ It was the Company's intent to sell its wound care products to various hospitals, wound healing centers, physicians, nurses and other individuals through the Internet. 
+ In late 2004 EASTON PHARMACEUTICALS applied to have its L.A.M. IPM Wound Gel approved for Medicare reimbursement. In 2005 the application as a drug was rejected by the FDA and was subsequently refused for Medicare reimbursement. As a result, patients could not claim to have the costs of the wound gel reimbursed, the cost of the product would be paid directly by the patient without any subsidy by Medicare, or other plans. This was considered a material setback to the Company rsquo;s commercialization efforts as most of its products were considered expensive and unlikely to be paid for directly by patients. The Company subsequently made the decision to attempt to reformulate and alter the product to satisfy certain deficiencies illuminated by the Medicare and FDA review, and to wait the required 5-year period in order to be eligible to reapply for full Medicare reimbursement. 
+ EASTON PHARMACEUTICALS was subsequently dependent on its sole remaining partnerships and hired consultants to take over the work from its founders and principles. The decision was subsequently made to acquire the VDM technology and other remaining assets of IXORA and of the VBMI. 
+ There have been no revenues related to the L.A.M. IPM trade; based products to date. In the third quarter of 2008 LAM rsquo;s then board of directors decided to divest the L.A.M. IPM trade; based assets and all products encompassing the L.A.M. IPM trade; delivery system. Concurrently with the divesting of the L.A.M. IPM-based assets EASTON PHARMACEUTICALS acquired all of the remaining assets and knowhow of IXORA and VBMI, including the proprietary VDM delivery system and line of products and products in development (the ldquo;VDM and Ixora Products rdquo;). Completion of the acquisition of IXORA, VBMI and VDM Products was dependent upon the restructuring of LAM rsquo;s capital structure, including debt (promissory notes) and common stock, among other conditions. 
+ The acquisition of the assets and knowhow of VBMI and IXORA, including the VDM Products closed on June 25, 2009 and August 10, 2009 respectively, following completion of the conditions precedent to closing. The VDM Products are in various stages of development and commercialization, and we have not yet attempted to obtain clearance to market and sell products in the United States for any of the VDM Products nor attempted to market products that may not require approval. As a result, to date EASTON PHARMACEUTICALS has not generated material revenues from the sale of products and expects to incur losses until sufficient revenues are earned from the sale of first product to operate on a net profit basis. Management believes that the first product that will be available for sale will be ldquo;Viorra rdquo;, to be marketed as a cosmetic gel to aid in the alleviation of Female Sexual Arousal Disorder ldquo;FSAD rdquo;. EASTON PHARMACEUTICALS will conduct research, development and commercialization on a pipeline of products derived from the VDM technology. 
+ On June 25, 2009, EASTON PHARMACEUTICALS purchased 100 of the Assets from Viorra Bio Medical Inc., a private Canadian Company, for a total of thirty-six million (36,000,000) shares of EASTON PHARMACEUTICALS restricted common stock (the "Purchase Price" or the "Shares"). The shares were issued to non-U.S. persons and entities. These shares were issued pursuant to an exemption from registration requirements under Section 4(2) and exemptions provided under Regulation S ("Reg. S") of the Securities Act of 1933. 
+ On August 10, 2009 EASTON PHARMACEUTICALS purchased the remaining assets and know-how from Ixora Bio Medical Company Inc. and private shareholders for consideration of eight million (8,000,000) shares of EASTON PHARMACEUTICALS restricted common stock (the "Purchase Price" or the "Shares"). These shares were issued pursuant to an exemption from registration requirements under Section 4(2) and exemptions provided under Regulation S ("Reg. S") of the Securities Act of 1933. This acquisition resulted in EASTON PHARMACEUTICALS owning 100 of the assets of Ixora Inc. Immediately prior to the acquisition of the IXORA assets, EASTON PHARMACEUTICALS owned approximately 12 of the common stock of Ixora. 
+ On September 4, 2009, a total of 14,258,220 (fourteen million two hundred and fifty-eight thousand two hundred and twenty) common shares were issued pursuant to the conversion of convertible promissory notes dated June 11, 2006. 
+ On September 12, 2013 EASTON PHARMACEUTICALS, Inc. closed on an agreement with a private Canadian company and individual to acquire a 50 ownership interest in an FSAD drug for the issuance of 10,000,000 restricted shares previously issued in escrow. This drug is a water soluble, non-irritating, gel that is applied directly to the external female genitalia and uses a transdermal delivery system to deliver Alprostadil (0.08 ), also known as prostaglandin E1, into the tissue, primarily a mucous membrane. Alprostadil is a well-known vasodilator that has been shown to induce vulvar and clitoral engorgement, increase vulvar erythema and edema, which indicates increased blood flow to the genital area. In preliminary studies, the FSAD Drug gel has been shown to positively affect both the subjective and objective parameters of sexual arousal and pleasure in a dose dependent manner. Over the long term, this FSAD Drug offers the potential to naturally improve the previously reduced blood flow to the genital area and restore the ability of the tissue to become engorged with blood and increase lubricating secretions during sexual stimulation, leading to increased arousal and pleasure. 
+ Alprostadil, an off-patent therapeutic compound, which, when combined with the Glycotrans delivery system becomes subject to patent protection by virtue of its association with this proprietary delivery system. Any further research and development of this drug will require the consent and a mutual working relationship with the other 50 owner, a private Canadian Pharmaceutical Company. 
+ In June of 2014 the Company advanced 50,000 in Canadian currency to AMFIL Technologies. The agreement terms provided Easton with restricted shares in AMFIL with a 2-year option to acquire additional shares in AMFIL with a total advancement of 80,000 in Canadian currency. The 2-year option was not exercised as the AMFIL stock price was 100 less than the then stock price of AMFIL technologies with no operating business. The shares were subsequently privately sold to pay a debt obligation and for cash in August of 2016. All affiliations with AMFIL were subsequently terminated. 
+
+ Recent Initiatives 
+ In 2018, Easton rsquo;s board of directors decided to diversify the Company rsquo;s activities and enter new market segments, in addition to its existing and new pharmaceutical business and initiatives, including real estate development and construction, food and beverage, gaming and cannabis, through a combination of strategic acquisitions and joint ventures. 
+ Easton established a Gaming Division, a Real Estate amp; Development Division, a Food amp; Beverage Division, as well as a Cannabis Division. The Company will focus in these areas going forward and it has put in place all the infrastructure necessary to grow its business. 
+ The Company, through its Development Division, signed a service agreement during its third quarter of 2018 to provide construction services to a prominent developer, for the framing of 150 homes, just outside of Toronto, Ontario Canada. The contract is for 2.6 million Canadian over the course of a few months. Revenues from the contract commenced in Q4 of 2018. Service revenue reported for the Year Ending December 31, 2019 was derived from this contract. This contract came to an end in Q4 2019 as a result of the false allegations made by Mario Parravano and Barbara Parravano in connection with Easton rsquo;s acquisition of Supreme Sweets Inc. and the contract was not renewed. 
+ Easton was negotiating the acquisition of a company which owned land and a license for the development of a 540-room hotel/resort with a casino that included 1,000 slot machines and 50 tables games, a shopping center, health and wellness spa, conference facilities and 6 food and beverage outlets, among others. The casino approval had already been granted and the project was ready to be deployed. Although Easton was completing its agreements and expected to conclude the transaction, everything halted in Q4 of 2019 as a result of the false allegations made against Easton by Mario Parravano and Barbara Parravano in connection with Easton rsquo;s acquisition of Supreme Sweets Inc. and the vendor elected to terminate that transaction. 
+ The Company had been in discussions with several service providers of gaming related services to charities with casino licenses operating throughout the United Stated. Letters of Intent had been signed and Easton expected to complete a transaction in Q3 of 2019. Easton had previously expected to have this completed in Q1 of 2019, however, due to changes in State legislation this was delayed. Subsequently, as a result of the false allegations made against Easton by Mario Parravano and Barbara Parravano in Q4 of 2019 in connection with Easton rsquo;s acquisition of Supreme Sweets Inc., the letters of intent became null and discussions ended. 
+ Easton entered into an agreement in October 2018 to acquire a fully operational video slot game, as well as bingo game content. The games were being developed and they were to be placed in operating casinos leading to daily revenue for Easton. This agreement halted in Q4 of 2019, as a result of the false allegations made against Easton by Mario Parravano and Barbara Parravano in connection with Easton rsquo;s acquisition of Supreme Sweets Inc. 
+ During Q4 of 2018, Easton signed an LOI to acquire 100 of Supreme Sweets Inc., a food processing company focused on baked products located in Toronto, Ontario Canada, with a 40,000 square foot production facility. Easton signed a Share Exchange Agreement with Mario Parravano and Barbara Parravano in January 2019 and the transaction was to close as soon as reasonably possible. Easton agreed to acquire 100 of all shares of Supreme Sweets Inc., all shares of 2498411 Ontario Inc., all equipment, all IP, trademarks, patents, client lists, contracts, recipes, and all other assets, whether tangible or intangible belonging to any of the companies or the Subscribers that are associated with the contemplated business. Mario Parravano and Barbara Parravano represented that Supreme Sweets supplied products to major grocery and coffee chains, among others, that the business had revenues in excess of 100,000 CAD per month and that it owned equipment valued in excess of 9,000,000 CAD. Easton agreed to pay 1,624,000 CAD, of which 250,000 would be in cash and the balance of 1,374,000 would be in the form of common shares of Easton. Both the cash and the shares were to be released upon certain milestones having been met by Mario Parravano and Barbara Parravano, however, Parravano received the cash payments that Easton made in good faith prior to closing without Parravano having met any of the milestones. 
+ In anticipation of the closing and at the request of Mario Parravano, Easton advanced funds to Parravano on multiple occasions from the time the Share Exchange Agreement was signed and up until the closing of the purchase. These advances were to be credited against the purchase price. The acquisition was completed in escrow on April 24, 2019 and Mario Parravano and Barbara Parravano had numerous undertakings to fulfil and deliverables to provide. Easton intended on expanding the existing business, as well as enter the lucrative cannabis edibles market. Mario Parravano represented that he had the technical knowledge and the skills to create medicinal cannabis formulas and that formed part of his duties which was outlined in the Consulting Agreement that Easton signed with Mario Parravano, as part of the transaction, whereby he would remain on contract with Easton. Easton invested substantial funds in to the monthly operation of the business, deployed sales people and further invested in additional infrastructure, inventory, equipment and upgrades to grow the business. 
+ Shortly after the closing in April 2019, Easton began to discover problems with the business of Supreme Sweets and the representations made by Mario Parravano and by July 2019, Easton had discovered that Mario Parravano and Barbara Parravano had grossly misrepresented all aspects of the business and Easton found that Supreme Sweets and Mario Parravano was a party to numerous claims from unpaid suppliers. Easton further discovered that the equipment that it had acquired as part of the transaction, did not belong to Mario Parravano and Barbara Parravano and they likely did not have authority to sell it. In fact, the equipment appraisal report provided to Easton by Parravano, that Easton relied upon and based its purchase price on, had been substantially inflated. 
+ Despite assurance from Parravno and his legal counsel that Parravano rsquo;s undertakings would be fulfilled, on several occasions post-closing, Parravano and his legal counsel failed to provide the closing deliverables, failed to properly provide title to and transfer the assets. Easton notified Parravano of his breach of contract and advised that no further funds be advanced nor would shares of Easton rsquo;s common stock be issued to Mario Parravano and Barbara Parravano until they remedied their breach. 
+ Parravano, unbeknown to Easton, contacted the police making false allegations stating that Easton had ldquo;stolen rdquo; his business and locked him out of his property, when in fact that did not happen. The police proceeded with charges against Easton rsquo;s directors on October 31, 2019. There were ldquo;anonymous rdquo; reports filed with OTC Markets and the SEC, resulting in a suspension of trading of Easton rsquo;s stock. Easton provided documentation to the SEC supporting its position. All agreements between Easton and Mario Parravano and Barbara Parravano were handled among respective legal counsel for the parties and the purchase was completed through their respective legal counsel. 
+ Easton halted any business related to Supreme Sweets Inc. in Q4 2019, as a result of the false allegations made against Easton by the vendors of Supreme Sweets Inc., Mario Parravano and Barbara Parravano. Mario Parravano and Barbara Parravano caused substantial losses to Easton. As a result of the false allegations, Easton lost all of its contracts and business that it had underway. The false allegations further caused the suspension of the Company rsquo;s stock from trading and the decline of its share price resulting in the loss of tens of millions of dollars in market capitalization. 
+ Easton ended the lease at 111 Brockhouse Road, Toronto, Ontario and vacated the premises. Easton left all the equipment that formed part of its acquisition of Supreme Sweets Inc. in the premises and the owner/landlord of the property signed an Acknowledgement confirming that the equipment in the premises. Easton discontinued the food processing business. 
+ On October 15, 2020, after almost one year from when the charges were brought, the Crown Attorney rsquo;s office WITHDREW ALL charges against Easton rsquo;s directors. Easton will be launching a claim against the vendors of Supreme Sweets Inc. for the damages and losses, among other, that it caused the Company and its directors. 
+ Due to the Coronavirus global pandemic and the effects of Covid-19, the Company did not carry on any business during 2020 and did not commence any new initiatives due to uncertainties in the markets. 
+ On December 23, 2020, the Company changed its name from Easton Pharmaceuticals, Inc. to Parallel Industries Inc. The Company will be rebranding and believes that the new name is more representative of the direction in which the Company will be heading in the future. 
+
+ 1124123 Ontario Limited Acquisition 
+ In June of 2017, Easton executed an agreement with 1124123 Ontario Limited. The agreement called for Easton to advance a total of 1,300,000 Canadian Dollars in cash to acquire a 50 ownership interest in 45 acres of a 135-acre property located at 6017 Smith Blvd., Georgina Township, with 90 acres zoned M3 industrial and the remaining 45 acres zoned as agricultural. The agreement also called for a 20 to 70 ownership interest in various businesses operating on the land, which includes a business to cultivate and grow medical / recreational marijuana for the Canadian market and an aggregate / soil business. All payments were forwarded with final payment made in October of 2017 completing all terms of the agreement. Once all terms were fulfilled, 1124123 commenced the operation of the disposal of clean soil on the property, while it prepared the property for the aggregate portion of the business. In Q3 of 2018, the Town of Georgina stopped all operations on the property while they determined that the soil brought to the property was clean and did not contain any contaminants. No operations have been carried on since that time. Easton holds a 1,000,000 Canadian Dollar mortgage on the property of which 325,000 has been assigned to a third-party creditor. 1124123 defaulted in its payment obligations of that loan causing the third-party creditor to obtain a default judgement against 1124123. 1124123 have retained legal counsel to address the issues with the Town. 
+ At this time, the Company is considering other options available to it for the use of the property, currently permitted under its zoning. As a condition precedent to funding, Easton relied upon an appraisal of the property, which was provided to it by 1124123, stating that the property has an appraised value in excess of 8 million Canadian, which is why Easton proceeded with the advance of funds to 1124123. 
+
+ 2315446 Ontario Inc. Acquisition (Cobourg Property) 
+ Easton entered into an agreement in Q2 of 2018 to acquire 100 of the shares of 2315446 Ontario Inc., which is a Canadian company that owns approximately 2.7 acres of land with an existing 10,000 square foot heritage mansion on the property, located in Cobourg, Ontario Canada. The Company was to pay cash to complete the acquisition but was not able to do so at the time. The Company re-negotiated the terms of the purchase in Q1 of 2019. The Agreement called for the issuance of shares of Easton rsquo;s common stock, which shares were not issued as a result of the suspension of trading and the agreement became null and void. 
+
+ iBliss Acquisition 
+ In late March 2017, Easton and the shareholders of iBliss Inc. executed an agreement for the purchase of 100 of iBliss by Easton Pharmaceuticals, Inc. In Q3 of 2017, Easton issued 218,000,000 shares to the iBliss subscribers. Easton had an obligation to pay the balance of the purchase price in cash, which it could not do and therefore the financial statements of iBliss have not been consolidated. Moreover, as a result of Easton rsquo;s declining common stock price, the shares that were issued no longer represent the agreed upon valuation of iBliss Inc., therefore, the transaction terms were re-negotiated. iBliss is an established manufacturer of e-vapourizing liquids occupying approximately 20,000 square feet in Toronto, with sales throughout Canada, the United States and Europe. 
+
+ BAYER Sub-Distribution Agreement 
+ In November of 2017, Easton Pharmaceuticals through BMV Media SA de CV closed on a sub distribution agreement with multi-national pharmaceutical company, BAYER of Switzerland. The agreement was executed with BAYER rsquo;s subsidiary company, Bayer Consumer Care for a sub-distribution agreement to sell Easton / BMV rsquo;s woman rsquo;s licensed diagnostic product VS-Sense in Mexico. The agreement called for a 200,000 payment to Easton, which was received in December of 2017 and the payment of a 3 royalty on each product sold by BAYER. Product launch occurred in the 2nd quarter of 2019, with all product decisions in the control of BAYER. Easton is to receive a further payment. Easton was to receive a further payment upon launch, but due to a dispute with BMV Medica, Easton did not receive the payment. 
+
+ Mexico amp; Latin America ndash; Licensed Diagnostic / Treatment Products 
+ In March of 2015, Easton Pharmaceuticals Inc. and BMV Medica S.A. de C.V. entered into an agreement which provided for profit sharing and ownership in certain patented Women rsquo;s Health products related to the future sales of certain exclusive and patented Women rsquo;s Health products and sales of certain Canadian-manufactured generic cancer drugs, in return for an investment by Easton into BMV. This investment into BMV was based upon a 50/50 net profit share on the revenues received from the Women rsquo;s Health and generic cancer drug line, which was subsequently revised and a new agreement entered into in February 2016 whereby Easton owns 50 of the licensing rights. 
+
+ Patented Exclusive Women rsquo;s Health Products from Common Sense LTD: 
+ Vaginal Discharge Diagnostic Test and Amniotic Fluid Leak Test 
+ 
+	 Easton/BMV has recently secured exclusive rights for Mexico and all of Latin America (except Brazil) for a line of patented vaginal health diagnostic medical devices (VS-Sense) from an Israeli/US diagnostics company - Common Sense LTD, of Cesarea, Israel. This diagnostic test is currently being sold Canada-wide (Shoppers Drug Marts), and across the US (at Walgreens and CVS pharmacies). Bayer AG, a global pharmaceutical giant has secured the exclusive rights to VS-Sense for the European Union. Given the sizeable investment and faith that Bayer has in this product, Easton/BMV believe that VS-Sense presents an extremely lucrative opportunity in the Latin American market; 
+	 In addition to the diagnostic test for vaginal health, Easton/BMV entered into a licensing agreement with a Swiss Company introduced by Common Sense to Easton/BMV to secure the rights to a natural Lactic Acid treatment for when the diagnostic test indicates the vaginitis is caused by bacteria (roughly two-thirds of cases). This natural lactic acid gel vaginal cream causes the vaginal pH to change enough to kill the offending bacterial organisms. The remaining one third of cases diagnosed are yeast based and Easton/BMV will launch under their own brand the current treatment (clotrimazol cream) for these infections. In this way, Easton/BMV will have the triangle model: diagnostic component as well as offering treatments for all causes of the vaginitis: one diagnostic test, followed by two treatment options depending on what the diagnostic test results show after initial use; 
+	 As mentioned above, BMV acquired the rights for a natural treatment for bacterial vaginosis and is already approved in Europe and Mexico, which will afford gynecologist's the opportunity to sell, in office, both the diagnostic and treatment in Latin America. This represents a potentially large revenue-producing option for both the gynecologists and Easton/BMV. In November of 2016, Easton / BMV entered into an agreement with Gedeon Richter Plc of Hungary to sub-liscense its lactic acid gel treatment. The product was named ldquo;Gynofit rdquo; and was officially launched in Mexico in March of 2017. 
+	 In addition to the diagnostic test for vaginal health, Easton / BMV secured additional rights to all products from Common Sense including (VS-Sense, AL-Sense) for a 300,000 USD payment in March of 2017. Easton / BMV have secured the rights for all of Latin America (except Brazil) for a second point-of-care diagnostic device; unique in the time, cost, and ease-of-use for late-pregnancy women who experience wetness in their undergarments and are not sure if it is urine or amniotic fluid, quite a common occurrence, and one of the major causes of OB/GYN visits by women in late-stage pregnancy. This diagnostic device called AL-Sense provides a differential diagnosis between urine and amniotic fluid. BMV has a tremendous opportunity with this amniotic fluid leak diagnostic test in that there is an unmet need with no competition. Furthermore, this Amniotic Fluid Leak test is part of the NHS rsquo;s late-pregnancy protocol for all women. 
+	 This Amniotic fluid test, AmnioSense (AL-Sense) is intended for pregnant women, mainly in late-stage pregnancy to enable them to detect the difference between an amniotic fluid leak (AmnioSense (AL-Sense)) which would necessitate a doctor rsquo;s visit (as labour has started) and a simple urine leak. The test may also be used by High Risk pregnant women to monitor for Amniotic Fluid leaks beginning at earlier stages of pregnancy. This test is a state-of the art diagnostic test which is in the form of a panty liner and undergoes a simple color change if the wetness experienced by the pregnant woman caused by an amniotic fluid leak. The relatively low cost and ease of use is expected to quickly become the test of choice for both women at home and in hospital use. 
+	 This test has been endorsed by NHS (National Health Service) in Britain as part of the NICE report (National Institute for Health and Care Excellence) which indicates that the device can reliably exclude amniotic fluid leak as a cause of vaginal wetness in pregnancy, avoiding the need for a speculum examination and its associated discomforts. Using the device in the community could prevent unnecessary referrals to secondary care antenatal day units or maternity triage services for speculum examinations, releasing clinical time. Based on cost modelling, using the test offers significant cost savings 
+	 Other countries where AmnioSense (AL-Sense) test is being sold include UK, Italy, Japan, China, Israel, Australia and other countries. The product is currently being registered in the USA and Canada 
+	 Easton/BMV believe with a Marketing budget of 500,000 sales of the suite of exclusive Women rsquo;s Diagnostic and Treatment products could reach US 8-12 MM annually within three years. 
+ 
+ Generic Cancer Drugs 
+ 
+	 Easton/BMV has secured exclusive rights for a line of Canadian-manufactured generic cancer drugs from Biolyse Corporation of St. Catherines, Ontario, Canada, beginning with four of the most commonly used chemotherapy agents namely paclitaxel, methotrexate, 5-fluorouracil and docetaxel. Biolyse is adding to these a further 33 injectable cancer and antibiotic drugs within the coming years, all of which will be available to Easton/BMV exclusively for the region; 
+ 
+ Generic Cancer Drugs: The cancer drugs: Biolyse Pharma Corporation the manufacturer of these drugs initially entered into an exclusive distribution agreement with BMV Medica, and BMV in turn then entered into a 50/50 profit split with Easton Pharmaceuticals for the full line of Biolyse-manufactured drugs beginning with Paclitaxel and Docetaxel two of the most-commonly prescribed cancer (oncology) drugs in use today, prescribed for breast, lung, colon and several other cancers. Both drugs are generic with manufacturers from the US, Canada, Mexico, Europe and India vying for a total market of several Billion dollars for these two drugs. 
+ Easton/BMV rsquo;s market is Latin America, where, starting in Mexico, Canadian-manufactured drugs have an advantage over the Asian-origin drugs, because of NAFTA (North American Free Trade Agreement), allowing Canadian manufacturers to enter into the lucrative national tenders. In addition, Canadian-manufactured cancer drugs also have a perceived advantage in quality over the Asian-manufactured counterparts. Easton/BMV have licensed the exclusive rights for the full line of Biolyse-manufactured drugs expected to reach in excess of over 30 drug offerings in the coming five years. 
+ Easton/BMV have received the drug dossiers from Biolyse Pharma and are working with a local Mexican Company: Ackerman Pharma/Bio MS to submit for Marketing Authorization in Mexico for paclitaxel and docetaxel. These approvals are expected to be granted over the next 6 months. 
+ Once these approvals are in place, Easton/BMV expect to begin sales in Mexico very quickly and believes these two cancer drugs will reach revenues of several million dollars over the next three years through sales into both the private and government contract buyers. 
+ In parallel with the Mexican initiative, several countries in Latin America do not require extensive regulatory dossier submissions, in order to purchase these Canadian-manufactured drugs. Once funding is secured Easton/BMV will immediately pursue Sales amp; Distribution agreements with distributors in Latin American countries where this simplified regulatory pathway is in place. 
+ Easton/BMV believe with a basic marketing program, sales of paclitaxel and docetaxel could reach US 10 MM within three years 
+
+ Drug Delivery Technology 
+ The drugs transdermal delivery technology is a safe, novel and proprietary drug delivery platform that has been developed based on more than 30 years of research by various individuals to address many of the needs in the multi-billion-dollar drug delivery segment of the pharmaceutical market. The proprietary system used only in the FSAD Drug consists of a water based, complex polymer matrix, which includes methoxypolyethyleneglycol, hydroxyethylcellulose and carboxymethylcellulose. 
+ Included with the 50 ownership interest with the purchase of the FEMLIFE Drug are the following patents or patent pendings filed at that time: 
+ 
+	 Canadian Patent Application Number CA 2.591.203; 
+	 U.S. Patent Application No. 11/010,154; 
+		Patent Cooperation Treaty Application Number PCT/IB2005/003672 (publication number W02006/061689; and 
+	 European Patent Application Number EP 2005810583 
+ 
+ On November 5, 2013 EASTON PHARMACEUTICALS, Inc. acquired an initial 10 ownership interest in a Cancer Treatment Drug called ldquo;XILIVE rdquo;, with an exclusive option to purchase the remaining ownership interest exercisable at any point in time over the next 12-month time period. Should EASTON PHARMACEUTICALS provide funding towards any testing or clinical trials, these expenditures will be included and put towards acquiring additional ownership in the drug. ldquo;XILIVE rdquo; has not undergone any independent clinical trials but was previously administered by the current majority owners on individuals outside of the U.S. suffering from various forms of advanced stage cancer with others on a list of prospective candidates. 
+ Initial feedback was promising enough to allow EASTON PHARMACEUTICALS to acquire an initial 10 ownership interest through a cash payment. It is the Company rsquo;s intent to enter into some type of feasibility, safety and efficacy tests once patent pendings are filed. Any type of North American trials may depend on the involvement or the approval of the FDA in the United States and Health Canada in Canada. The Company is currently contemplating forming alliances with certain other companies who have adequate resources and knowledge towards such trials in the jurisdiction of the United States and Canada. Other avenues being seriously contemplated are to have ldquo;XILIVE rdquo; utilized in various other countries such as Mexico, Germany, Italy and other countries where regulations are deemed less stringent for the use of experimental early stage drugs for the treatment of certain cancers. 
+ In June of 2013 the Company disclosed its intentions to enter into the medical marijuana industry. The Company subsequently signed various Letters of Intent and Agreement in both the United States and Canada including with Vodis Pharmaceuticals of Vancouver, BC, but subsequently executed and entered into an agreement in June of 2014 with a company called MDRM Group Canada for an exclusive option to purchase up to 50 of a private Canadian medical marijuana grower (Aero Farms) who has received a letter to build from Health Canada to obtain a medical marijuana growers license under Canada rsquo;s MMPR system as it was called at that time, which went into effect on April 1st 2014. The private MMJ company (Aero Farms) is presently building out its facilities prior to a final inspection towards a national growers license for medical marijuana. MDRM Canada has subsequently been removed allowing for Easton to negotiate directly with the private medical marijuana company (Aero Farms), but no agreements have yet been executed after several discussions. The letter of intent is now null and void. 
+ On July 1, 2014 the Company executed an agreement with a North Carolina based company (Medicated Markets International) who maintained ownership rights to a medical marijuana grow-op located within the state of California. The Agreement called for a due diligence period which subsequently closed in January of 2015. The Agreement was amended on January 17, 2015. Medicated Markets and its principles have assisted and provided the Company with executed agreements within the medical marijuana sector in Canada and therefore Easton released shares. 
+ In November of 2014, the Company closed on an acquisition with Digital Shock media for the Vaporizer business operating under http://www.420.com and http://www.ecigmarkets.com for cash paid by Easton. 
+ In June of 2014 the Company advanced 50,000 in Canadian currency to AMFIL Technologies. The agreement terms provided Easton with restricted shares in AMFIL with a 2-year option to acquire additional shares in AMFIL with a total advancement of 80,000 in Canadian currency. The 2-year option was not exercised as the AMFIL stock price was 100 less than the then stock price of AMFIL technologies with no operating business. The shares were subsequently privately sold to pay a debt obligation and for cash in August of 2016. All affiliations with AMFIL were subsequently terminated. 
+ On March 22, 2015 the Company attained the rights from Common Sense Ltd., an Israeli based company for the exclusive distribution rights of a patented woman rsquo;s diagnostic product known as the VS-Sense Diagnostic Product for the country of Mexico which is currently being sold in the United States, Canada and Europe. The rights are shared jointly with BMV Medica S.A de C.V. as per an agreement signed between the parties. Subsequently, Easton and BMV executed an LOI to acquire the rights to the remaining Latin American territories. Easton has paid approximately 850,000 USD towards licensing rights of various products and expenses since March of 2015. 
+
+ Patents and Trademarks 
+ Prior to the then Board of Directors decision to abandon and suspend any further research and development or commercialization efforts for products based on the EASTON PHARMACEUTICALS, Inc. (formerly LAM) L .A.M. IPM trade; technology, in the fall of 2008, EASTON PHARMACEUTICALS, Inc. (formerly LAM) owned fifteen U.S. patents, nine foreign patents, five U.S. patent applications and numerous international patent applications designating over 100 foreign countries with claims relating to our sustained release delivery matrix system, systems containing drug preparations, uses of the systems for various treatment therapies and addiction therapeutic program. The patents were to expire between 2015 and 2018. 
+
+ 1A. Risk Factors. 
+ Our business faces significant risks. You should carefully consider all of the information set forth in this annual report and in our other filings with the SEC, including the following risk factors which we face and which are faced by our industry. Our business, financial condition and results of operations could be materially adversely affected by any of these risks. 
+ An investment in our common shares involves a high degree of risk. You should carefully consider the following factors and other information in this annual report on Form 10-K before deciding to invest in us. If any of the following risks actually occur, our business, financial condition, results of operations and prospects for growth would likely suffer. As a result, you could lose all or part of your investment. Additional risks and uncertainties not presently known to us or that we currently deem immaterial also may materially and adversely affect our business, financial condition and results of operations. 
+
+ Risks Related to Our Business 
+ We have a history of losses, may incur future losses and may not achieve profitability. 
+ We have had limited operating history. We have incurred significant net losses from inception. As of December 31, 2020, we have reported an accumulated deficit of 39,821,040. We expect to continue to incur net losses and negative cash flow from operations in the near future, and we will continue to experience losses for at least as long as it takes our company to reach a sales level which will support profitable operations. There can be no assurance that we will achieve material revenues in the future. Should we achieve a level of revenues that make us profitable, there is no assurance that we can maintain or increase profitability levels in the future. 
+
+ Our lack of sales and operating history makes it difficult for us to evaluate our future business prospects and make decisions based on those estimates of our future performance. 
+ The history of our company involves development and marketing of products that have not experienced material sales, to date. We do not have material operating history in our current field, which makes it impossible to evaluate our business on the basis of historical operations. Our history as a company makes it difficult for us to predict future performance. Although this is true for any business, it is particularly true for us because of our limited operating history in our current field of business. 
+ Mr. Karras is our key personnel. Loss of him could adversely affect our business. 
+ If Mr. Karras were to die, become incapacitated or disabled, or leave our company, we would be forced to retain individuals to replace him. There is no assurance that we can find suitable persons to replace him if that becomes necessary. We have no ldquo;Key Man rdquo; life insurance at this time. 
+
+ We are subject to intense competition 
+ We face intense competition, which could harm our business, and we expect competition to intensify in the future. Our market is relatively new, intensely competitive, highly fragmented and subject to rapid technological change. We expect competition to intensify and increase over time as the products that we have developed gain receptivity in the marketplace. 
+ Many of our competitors have substantially more significant resources to devote to innovation and development; and almost all of our competitors have longer operating histories, greater name recognition, larger established client bases, longer client relationships and significantly greater financial, technical, personnel and marketing resources than we do. Our competitors may be able to undertake more extensive marketing campaigns, adopt more aggressive pricing policies and make more attractive offers to potential clients, employees and strategic partners. 
+ Further, our competitors may have technology and the capability to perform services that are equal or superior to ours or that achieve greater market acceptance than ours. We have no patented or other proprietary technology that would limit competitors from duplicating our services. We must rely on the skills of our personnel and their network of contacts. 
+ Increased competition is likely to result in price reductions, reduced gross margins additional marketing expenses and loss of market share, any of which would have a material adverse effect on our business, results of operations and financial condition. We cannot assure you that we will be able to compete successfully against existing or future competitors. 
+ If we fail to remain competitive, then our revenues may decline, which could adversely affect our future operating results and our ability to grow our business. 
+
+ We are potentially subject to unknown regulations 
+ From time to time, bills which attempt to regulate various aspects of our business are introduced by Congress and various state legislatures. We expect that such bills will continue to be introduced from time to time. However, we have no way to predict whether any law relating to the pharmaceutical industry which may ultimately be enacted in the future will have an adverse impact on our operations or business plan. Governmental regulation may adversely impact our ability to achieve sustained profitability. 
+
+ Demand for our products cannot be predicted 
+ While we believe that there is considerable potential demand for our products, there is no way to estimate the amount of demand or the potential revenue that we can realize in any given time period. Likewise, we cannot estimate how quickly or efficiently demand will result in any particular level of revenue or income for us. 
+
+ Risks Related to Our Common Stocks 
+ We may conduct further offerings in the future in which case investors' shareholdings will be diluted. 
+ Since our inception, we have relied on sales of our common stock to fund our operations. We may conduct further equity offerings in the future to finance our current projects or to finance subsequent projects that we decide to undertake. If common stock is issued in return for additional funds, the price per share could be lower than that paid by our current stockholders. We anticipate continuing to rely on equity sales of our common stock in order to fund our business operations. If we issue additional stock, investors' percentage interests in our company will be diluted. The result of this could reduce the value of current investors rsquo; stock. 
+
+ We do not expect to pay dividends in the foreseeable future. 
+ We do not intend to declare dividends for the foreseeable future, as we anticipate that we will reinvest any future earnings in the development and growth of our business. Therefore, our stockholders will not receive any funds unless they sell their common stock, and stockholders may be unable to sell their shares on favorable terms or at all. 
+
+ Our common stock is subject to price volatility unrelated to our operations. 
+ The market price of our common stock could fluctuate substantially due to a variety of factors, including market perception of our ability to achieve our planned growth, quarterly operating results of other companies in the same industry, trading volume in our common stock, changes in general conditions in the economy and the financial markets or other developments affecting our competitors or ourselves. In addition, the OTC is subject to extreme price and volume fluctuations in general. This volatility has had a significant effect on the market price of securities issued by many companies for reasons unrelated to their operating performance and could have the same effect on our common stock. 
+
+ 1B. Unresolved Staff Comments. 
+ Not Applicable. 
+
+ Item 2. Properties. 
+ We do not own any real property. Our head office is located in a leased facility in Toronto, Ontario and is not subject to a long-term lease. 
+
+ Item 3. Legal Proceedings. 
+ There are no legal proceedings against the Company. 
+
+ Item 4. Mine Safety Disclosures. 
+ Not applicable. 
+
+ PART II 
+ Item 5. Market for Registrant rsquo;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+ Our Common Shares are listed on the Expert Market under the symbol ldquo;EAPH rdquo;. 
+
+ Holders 
+ The number of shareholders of record of Common Shares at December 31, 2020 was 94. The number of shareholders of record is based upon the actual number of holders registered on our books at such date and does not include holders of shares in ldquo;street names rdquo; or persons, partnerships, associations, corporations or other entities identified in security position listings maintained by depository trust companies. 
+
+ Dividends 
+ We have never declared or paid a cash dividend. At this time, we do not anticipate paying dividends in the near future. 
+
+ Unregistered Sales of Securities and Use of Proceeds 
+ None. 
+
+ Transfer Agent 
+ EQ, formerly Corporate Stock Transfer, Inc., 3200 Cherry Creek South, Unit 430, Denver, Colorado 80209 USA 
+
+ Item 6. Selected Financial Data 
+ Not applicable. 
+ Item 7. Management rsquo;s Discussion and Analysis of Financial Condition and Results of Operations. 
+ The following discussion and analysis should be read in conjunction with our financial statements and the related notes that appear in this Annual Report on Form 10-K. The following discussion contains forward-looking statements that reflect our plans, estimates and expectations. The Company rsquo;s actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to those discussed below and elsewhere in this Annual Report on Form 10-K. The financial statements are prepared in accordance with United States Generally Accepted Accounting Principles. 
+
+ Overview 
+ Easton Pharmaceuticals is a diversified specialty pharmaceutical company involved in various pharmaceutical sectors and other growing industries. The Company previously developed and owned an FDA-approved wound-healing medical drug and currently owns topically delivered drugs to treat cancer and other therapeutic products to treat various conditions that are all in various stages of development and approval. Easton, together with BMV Medica S.A., own the exclusive distribution rights in Mexico and Latin America for two patented women's diagnostic products and a novel natural treatment for Bacterial Vaginosis, which they have sub-licensed to Bayer and Gedeon Richter. In addition, a generic cancer drugs line is being developed for sale in Mexico. The company's gel formulation is thought to be an innovative and unique transdermal delivery system that can in the future be adaptable in the delivery of other drugs and Cannabidiol extracts. 
+ As part of our strategic growth plan, we will continue to explore opportunities and enter new lucrative market segments globally. 
+ We intend to acquire complementary products, technologies or companies by identifying and evaluating potential products and technologies developed by third parties that we believe fit within our overall objective and have tremendous growth opportunity. 
+
+ Revenue 
+ During the Year Ended December 31, 2020, we generated no revenues as compared to 1,555,566 for the Year Ended December 31, 2019. The decrease in revenue was attributed to the stop of operations and the termination of contracts, along with the effects of the Covid-19 pandemic. 
+
+ Operating Expenses 
+ During the Year Ended December 31, 2020, we had operating expenses of 188,542 as compared to operating expenses of 523,171 for the Year Ended December 31, 2019. The decrease in operating expenses in 2020 compared to 2019 is primarily due to a decrease in expenses as a result of the limited activities the Company had. 
+
+ Net Loss 
+ The Company had a net loss for the Year Ended December 31, 2020 of 188,542 as compared to a net loss of 323,171 for the Year Ended December 31, 2019. 
+
+ Cost of Revenues 
+ Our cost of revenues for the Year Ended December 31, 2020 was 0 as compared to 1,354,171 for the Year Ended December 31, 2019. This is due to the fact that the Company had no revenues during 2020. 
+ We prepare our financial statements in accordance with US GAAP. At the time of the preparation of the financial statements, our management is required to use estimates, evaluations, and assumptions which affect the application of the accounting policy and the amounts reported for assets, obligations and expenses. Any estimates and assumptions are continually reviewed. The changes to the accounting estimates are credited during the period in which the change to the estimate is made. 
+ Going Concern Uncertainty 
+ Until 2020, we devoted substantially all of our efforts to acquiring technology, product rights, development and raising capital. There is no certainty as to the continuance of our revenues as a result of the false allegations and charges against our directors. The development and commercialization of our projects are expected to require substantial further expenditures. We remain dependent upon external sources for financing our operations. Since inception, we have incurred substantial accumulated losses, negative working capital, and negative operating cash flow, and have a significant shareholders rsquo; deficit. These factors raise substantial doubt about our ability to continue as a going concern. The financial statements do not include any adjustments that might result from the outcome of this uncertainty. We plan to finance our operations through the sale of equity and, to the extent available, short term and long-term loans. There can be no assurance that we will succeed in obtaining the necessary financing to continue our operations. 
+ On March 11, 2020, the World Health Organization declared the COVID-19 outbreak a global pandemic. The outbreak has reached all of the regions in which the Company does business, and governmental authorities around the world have implemented numerous measures attempting to contain and mitigate the effects of the virus, including travel bans and restrictions, border closings, quarantines, shutdowns, limitations or closures of non-essential businesses, and social distancing requirements. 
+ The global spread of COVID-19 and actions taken in response have caused and may continue to cause disruptions and/or delays in our supply chain and shipments and caused significant economic and business disruption to the Company rsquo;s customers and vendors. 
+
+ 7A. Quantitative and Qualitative Disclosures About Market Risk. 
+ As a smaller reporting company, we are not required to provide this information. 
+
+ Item 8. Financial Statements and Supplementary Data. 
+ Table of Contents 
+ 
+	 Balance Sheets 
+	 Statement of Operations 
+	 Statement of Stockholders rsquo; Equity (Deficit) 
+	 Statement of Cash Flows 
+	 Notes to Financial Statements 
+
+Balance Sheets 
+
+PARALLEL INDUSTRIES INC. formerly 
+			EASTON PHARMACEUTICALS INC. 
+			Financial Statements 
+			For the Year Ended December 31, 2020 
+			(Expressed in US dollars)
+
+BALANCE SHEETS 
+
+UNAUDITED 
+		 December 31, 
+			2020 
+		 December 31, 
+			2019 
+
+ASSETS 
+
+Current Assets 
+
+Cash and cash equivalents 
+		 mdash; mdash; 
+		 247,967 
+
+Inventory 
+		 mdash; mdash; 
+		 1,789 
+
+Accrued Royalties (Note 8) 
+		 426,297 
+
+Total Current Assets 
+		 426,297 
+		 249,756 
+
+Long-Term Investments 
+
+1124123 Ontario Inc. ndash; 50.00 ownership (Note 1) 
+		 1,729,167 
+		 1,653,962 
+
+Other Assets 
+
+Prepaid Expense 
+		 mdash; mdash; 
+		 1,850 
+
+Deposit on Real Estate (Note 2) 
+		 93,985 
+		 93,985 
+
+Equipment (Note 3) 
+		 mdash; mdash; 
+		 6,980,065 
+
+Intangible Assets 
+		 mdash; mdash; 
+		 250,000 
+
+Gaming software (Note 4) 
+		 1,402,588 
+		 1,402,588 
+
+Licensing right (VagiSan (VS-Sense), AmnioSense from CommonSense, Biolyse Pharma) 
+			Acquisition right (Note 5) 
+		 6,540,000 
+		 6,540,000 
+
+Total Assets 
+		 10,192,037 
+		 17,172,206 
+
+LIABILITIES AND STOCKHOLDERS rsquo; EQUITY (DEFICIT) 
+
+Current Liabilities 
+
+Accounts payable and accrued expenses 
+		 255,800 
+		 845,100 
+
+Bank overdraft 
+		 mdash; mdash; 
+		 48 
+
+Salaries and wages payable 
+		 365,000 
+		 609,500 
+
+Total Current Liabilities 
+		 620,800 
+		 1,454,648 
+
+Other Liabilities 
+
+Promissory note(s) 
+		 1,732,462 
+		 1,732,462 
+
+Other loans 
+		 750,000 
+		 6,726,855 
+
+Due to director(s) 
+		 180,150 
+		 161,074 
+
+Total Liabilities 
+		 3,283,412 
+		 10,075,039 
+
+Stockholders rsquo; Equity (Deficit) 
+
+Preferred Stock 
+			 Authorized: 20,000,000 preferred shares par value 0.0001 each 
+			 Issued: nil preferred shares 
+		 mdash; mdash; 
+		 mdash; mdash; 
+
+Common Stock 
+			 Authorized: 3,000,000,000 common shares par value 0.0001 each 
+			 Issued: 1,344,932,973 common shares (1,344,932,973 as of December 31, 2020) 
+		 134,493 
+		 134,493 
+
+Additional paid-in capital 
+		 46,595,172 
+		 46,595,172 
+
+Accumulated deficit 
+		 (39,821,040) 
+		 (39,632,498) 
+
+Total Stockholders rsquo; Equity (Deficit) 
+		 6,908,625 
+		 7,097,167 
+
+Total Liabilities and Stockholders rsquo; Equity 
+		 10,192,037 
+		 17,172,206 
+
+Statement of Operations 
+
+STATEMENT OF OPERATIONS 
+		For the Year Ended December 31 
+
+UNAUDITED 
+
+Sales 
+
+Service revenue (note 6) 
+		 mdash; mdash; 
+		 1,248,000 
+
+Cost of service revenue 
+		 mdash; mdash; 
+		 948,480 
+
+Georgina Property Revenue 
+		 mdash; mdash; 
+		 mdash; mdash; 
+
+Food processing revenue (note 7) 
+		 mdash; mdash; 
+		 307,566 
+
+Cost of food processing revenue 
+		 mdash; mdash; 
+		 405,691 
+
+Royalties from Licensed Products 
+		 mdash; mdash; 
+
+Gross Profit 
+		 mdash; mdash; 
+		 200,395 
+
+Operating Expenses 
+
+Management fees 
+		 150,000 
+		 300,000 
+
+Subscription fees 
+		 mdash; mdash; 
+		 6,800 
+
+Transfer agent 
+		 7,870 
+		 5,759 
+
+Professional fees 
+		 18,572 
+		 172,463 
+
+Marketing expense 
+		 mdash; mdash; 
+		 5,321 
+
+General and administrative expense 
+		 12,100 
+		 33,223 
+
+Total Operating Expenses 
+		 188,542 
+		 523,566 
+
+Gain (Loss) Before Other Income (Expenses) 
+		 (188,542) 
+		 (323,171) 
+
+Other Income (Expenses) 
+		 mdash; mdash; 
+		 mdash; mdash; 
+
+Total Other Income (Expenses) 
+		 mdash; mdash; 
+		 mdash; mdash; 
+
+Net Gain (Loss) Before Taxes 
+		 mdash; mdash; 
+		 mdash; mdash; 
+
+Income taxes 
+		 mdash; mdash; 
+		 mdash; mdash; 
+
+Net Gain (Loss) 
+		 (188,542) 
+		 (323,171) 
+
+Loss per Common Share - Basic and Diluted 
+		 0.00 
+		 0.00 
+
+Weighted Average Number 
+			of Common Shares Outstanding: 
+
+Basic and Diluted 
+		 1,344,932,073 
+		 1,344,932,073 
+
+Statement of Stockholders rsquo; Equity (Deficit) 
+
+STATEMENTS OF CHANGES IN STOCKHOLDERS rsquo; EQUITY (DEFICIT) 
+		for the period December 31, 2006 through December 31, 2020 
+
+UNAUDITED 
+		 Number 
+			of Shares 
+		 Common 
+			Stock 
+		 Additional 
+			Paid-In 
+			Capital 
+		 Accumulated 
+			Deficit 
+		 Total 
+			Stockholders rsquo; 
+			Equity (Deficit) 
+
+Balance ndash; December 31, 2006 
+		 38,421 
+		 4 
+		 35,148,993 
+		 (35,588,313) 
+		 (439,316) 
+
+Net loss December 31, 2007 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (150,106) 
+		 (150,106) 
+
+Balance ndash; December 31, 2007 
+		 38,421 
+		 4 
+		 35,148,993 
+		 (35,738,419) 
+		 (589,422) 
+
+Common shares issued: 
+
+-to settle promissory note 
+		 14,258,220 
+		 1,426 
+		 12,832 
+		 mdash; mdash; 
+		 14,258 
+
+Capital contribution ndash; accounts payable beyond 
+			 statute of limitations 
+		 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 886,958 
+		 mdash; mdash; 
+		 886,958 
+
+Net loss December 31, 2008 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (621,643) 
+		 (621,643) 
+
+Balance ndash; December 31, 2008 
+		 14,296,641 
+		 1,430 
+		 36,048,783 
+		 (36,360,062) 
+		 (309,849) 
+
+Common shares issued: 
+
+-to acquire Viorra assets 
+		 36,000,000 
+		 3,600 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 3,600 
+
+-to acquire Ixora assets 
+		 8,000,000 
+		 800 
+		 545,345 
+		 mdash; mdash; 
+		 546,145 
+
+-to settle promissory notes 
+		 28,516,356 
+		 2,851 
+		 47,149 
+		 mdash; mdash; 
+		 50,000 
+
+Net loss December 31, 2009 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (15,665) 
+		 (15,665) 
+
+Balance ndash; December 31, 2009 
+		 86,812,997 
+		 8,681 
+		 36,641,277 
+		 (36,375,727) 
+		 274,231 
+
+Net loss December 31, 2010 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (56,774) 
+		 (56,774) 
+
+Balance ndash; December 31, 2010 
+		 86,812,997 
+		 8,681 
+		 36,641,277 
+		 (36,432,501) 
+		 217,457 
+
+Issued for consulting fees 
+		 1,000,000 
+		 24,900 
+		 mdash; mdash; 
+		 25,000 
+
+Net loss December 31, 2011 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (112,630) 
+		 (112,630) 
+
+Balance ndash; December 31, 2011 
+		 87,812,997 
+		 8,781 
+		 36,666,177 
+		 (36,545,131) 
+		 129,827 
+
+Issued for consulting fees 
+		 40,000,000 
+		 4,000 
+		 196,000 
+		 mdash; mdash; 
+		 200,000 
+
+Net loss December 31, 2012 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (183,281) 
+		 (183,281) 
+
+Balance ndash; December 31, 2012 
+		 127,812,997 
+		 12,781 
+		 36,862,177 
+		 (36,728,412) 
+		 146,546 
+
+Issued for financing cash received 
+		 231,900,000 
+		 23,190 
+		 322,049 
+		 mdash; mdash; 
+		 345,239 
+
+Unrealized foreign exchange gain 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 8,949 
+		 mdash; mdash; 
+		 8,949 
+
+Net loss December 31, 2013 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (346,533) 
+		 (346,533) 
+
+Balance ndash; December 31, 2013 
+		 359,712,997 
+		 35,971 
+		 37,193,175 
+		 (37,074,945) 
+		 154,201 
+
+Issued for financing cash received 
+		 140,287,003 
+		 14,029 
+		 682,971 
+		 mdash; mdash; 
+		 697,000 
+
+Issued for debt 
+		 35,000,000 
+		 3,500 
+		 244,900 
+		 mdash; mdash; 
+		 248,400 
+
+Issued for management fees payable 
+		 40,000,000 
+		 4,000 
+		 280,000 
+		 mdash; mdash; 
+		 284,000 
+
+Issued for account payable 
+		 5,300,000 
+		 530 
+		 34,270 
+		 
+		 34,800 
+
+Issued for long term debt 
+		 31,428,571 
+		 3,143 
+		 106,857 
+		 mdash; mdash; 
+		 110,000 
+
+Error correction 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 100,000 
+		 100,000 
+
+Net loss December 31, 2014 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (360,848) 
+		 (360,848) 
+
+Balance ndash; December 31, 2014 
+		 611,728,571 
+		 61,173 
+		 38,542,173 
+		 (37,335,793) 
+		 1,267,553 
+
+Issued To Medicated Markets 
+		 200,000,000 
+		 20,000 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 20,000 
+
+Issued for distribution agreement 
+		 5,000,000 
+		 500 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 500 
+
+Issued for director fees 
+		 60,000,000 
+		 6,000 
+		 294,000 
+		 mdash; mdash; 
+		 300,000 
+
+Issued for consulting fees 
+		 6,000,000 
+		 600 
+		 39,400 
+		 mdash; mdash; 
+		 40,000 
+
+Issued as BMV prepaid expense 
+		 50,000,000 
+		 5,000 
+		 245,000 
+		 mdash; mdash; 
+		 250,000 
+
+Net loss December 31,2015 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (599,941) 
+		 (599,941) 
+
+Balance ndash; December 31, 2015 
+		 932,728,571 
+		 93,273 
+		 39,120,573 
+		 (37,935,734) 
+		 1,278,112 
+
+Net loss December 31, 2016 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (872,822) 
+		 (872,822) 
+
+Balance ndash; December 31, 2016 
+		 932,728,571 
+		 93,273 
+		 39,120,573 
+		 (38,808,556) 
+		 405,290 
+
+Issued for iBliss per agreement 
+		 218,000,000 
+		 21,800 
+		 6,518,200 
+		 mdash; mdash; 
+		 6,540,000 
+
+Net loss December 31, 2017 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (245,279) 
+		 (245,279) 
+
+Balance ndash; December 31, 2017 
+		 1,150,728,571 
+		 115,073 
+		 45,638,773 
+		 (39,053,835) 
+		 6,700,011 
+
+Issued for consulting fees 
+		 60,000,000 
+		 6,000 
+		 594,000 
+		 mdash; mdash; 
+		 600,000 
+
+Issued to reduce shareholder loan 
+		 666,665 
+		 67 
+		 4933 
+		 
+		 5,000 
+
+Net loss ndash; December 31, 2018 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (169,199) 
+		 (169,199) 
+
+Balance ndash; December 31, 2018 
+		 1,211,395,236 
+		 121,140 
+		 46,237,706 
+		 (39,223,034) 
+		 7,135,812 
+
+Issued for accounts payable 
+		 44,393,138 
+		 4,439 
+		 141,215 
+		 
+		 145,654 
+
+Net profit ndash; March 31, 2019 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 7,878 
+		 7,878 
+
+Balance ndash; March 31, 2019 
+		 1,255,788,374 
+		 125,579 
+		 46,378,921 
+		 (39,215,156) 
+		 7,289,344 
+
+Issued for accounts payable 
+		 53,333,789 
+		 5,333 
+		 150,001 
+		 
+		 155,334 
+
+Net loss ndash; June 30, 2019 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (94,171) 
+		 (94,171) 
+
+Balance ndash; June 30, 2019 
+		 1,309,122,163 
+		 130,912 
+		 46,528,922 
+		 (39,309,327) 
+		 7,350,507 
+
+Issued for accounts payable 
+		 35,810,810 
+		 3,581 
+		 66,250 
+		 
+		 69,831 
+
+Net loss ndash; December 31, 2019 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (323,171) 
+		 (323,171) 
+
+Balance ndash; December 31, 2019 
+		 1,344,932,973 
+		 134,493 
+		 46,595,172 
+		 (39,632,498) 
+		 7,097,167 
+
+Issued for accounts payable 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+
+Net Loss ndash; December 31, 2020 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 mdash; mdash; 
+		 (188,542) 
+		 (188,542) 
+
+Balance ndash; December 31, 2020 
+		 1,344,932,973 
+		 134,493 
+		 46,595,172 
+		 (39,821,040) 
+		 6,908,625 
+
+Statement of Cash Flows 
+
+STATEMENTS OF CASH FLOWS 
+
+For the Year ended December 31, 
+		 2020 
+		 2019 
+
+UNAUDITED 
+
+Cash Flows from Operating Activities 
+
+Net Income (Loss) 
+		 (188,542) 
+		 (323,171) 
+
+Increase in accounts payable and accrued expenses 
+		 255,800 
+		 382,700 
+
+Prepaid expense 
+		 mdash; mdash; 
+		 3,000 
+
+Operating expenses paid by director(s) 
+		 12,000 
+		 13,680 
+
+Non-cash settlement of debt (note 6) 
+		 mdash; mdash; 
+		 205,471 
+
+Net Cash Flows from Operating Activities 
+		 (188,542) 
+		 510,680 
+
+Cash Flows from Investing Activities 
+
+Deposit on real estate 
+		 (18,797) 
+		 (18,797) 
+
+Net Cash Flows from Investing Activities 
+		 (18,797) 
+		 (18,797) 
+
+Cash Flows from Financing Activities 
+
+Bank overdraft 
+		 64 
+		 1,121 
+
+Net Cash Flows from Financing Activities 
+		 64 
+		 1,121 
+
+Effect of foreign exchange on cash 
+		 mdash; mdash; 
+		 mdash; mdash; 
+
+Net Change in Cash and Cash Equivalents 
+		 258,000 
+		 493,004 
+
+Cash and Cash Equivalents - Beginning of Year 
+		 280,184 
+		 192,452 
+
+Cash and Cash Equivalents - End of Year 
+		 mdash; mdash; 
+		 280,184 
+
+NON-CASH INVESTING AND FINANCING ACTIVITIES 
+
+Stock issued to settle promissory notes payable 
+		 0 
+		 0 
+
+SUPPLEMENTAL DISCLOSURE 
+
+Interest Paid 
+		 0 
+		 0 
+
+Income Taxes Paid 
+		 0 
+		 0 
+
+Common shares issued for assets 
+		 0 
+		 0 
+
+Notes to Financial Statements 
+
+General 
+		 Parallel Industries Inc., formerly EASTON PHARMACEUTICALS, Inc. (the ldquo;Company rdquo;) was initially formed as L.A.M. Pharmaceutical, Corp. (the ldquo;LLC rdquo;) on July 24, 1998. From February 1, 1994 to July 24, 1998 the Company conducted its activities under the name RDN. In September 1998, the members of LLC, a Florida limited liability company, exchanged all of their interests in LLC for 6,000,000 shares of LAM Industries Inc rsquo;s common stock. The stock exchange between the Company and the members of LLC is considered a recapitalization or reverse acquisition. Under reverse acquisition accounting, LLC was considered the acquirer for accounting and financial reporting purposes and acquired the assets and assumed the liabilities of the Company. In 2009 the Company reorganized in the state of Delaware and changed its name to LAM Industries, Inc. On March 17, 2010 the Company and its shareholders again approved and implemented a name change from LAM Industries Inc. to Easton Pharmaceuticals, Inc. and subsequently registered with FINRA for a new stock symbol. The Company rsquo;s stock symbol was changed from LAIC to EAPH. In August of 2012, the company approved and changed corporate domicile from the State of Delaware to the State of Wyoming. The company is currently registered in the State of Wyoming. 
+
+Nature of Operations and Summary of Significant Accounting Policies 
+		 The Company serves the healthcare market internationally. The Company rsquo;s corporate objective is to develop, license, produce and market prescription and over-the-counter products. In 2018, Easton rsquo;s board of directors decided to diversify the Company rsquo;s activities and enter new market segments, including real estate development, food and beverage and cannabis, through a combination of strategic acquisitions and joint ventures. 
+
+		 Revenue Recognition 
+		 Royalty Revenue Recognition - The Company recognizes royalty revenue based on royalty reports or related information received from the licensee and when collectability is reasonably assured. 
+		 Sales Revenue Recognition - The Company recognizes sales revenue when it is realized or realizable and earned. The Company considers revenue realized or realizable when the product has been shipped to the customer, the sales price is fixed or determinable and collectability is reasonably assured. The Company reduces revenue for estimated customer returns. 
+
+		 Method of Accounting 
+		 The Company maintains its books and prepares its financial statements on the accrual basis of accounting. 
+
+		 Use of Estimates 
+		 The preparation of financial statements in conformity with generally accepted accounting principles in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expense during the reporting period. Actual results can differ from those estimates. 
+
+		 Concentrations of Credit Risk 
+		 Financial instruments which potentially expose the Company to significant concentrations of credit risk consist principally of bank deposits. Cash is placed primarily in high quality short-term interest-bearing financial instruments. 
+
+		 Cash and Cash Equivalents 
+		 Cash and cash equivalents include time deposits, certificates of deposit, and all highly liquid debt instruments with original maturities of three months or less. The Company maintains cash and cash equivalents at financial institutions that periodically may exceed federally insured amounts. 
+
+		 Inventory 
+		 Inventory is comprised of finished goods and raw materials and is stated at the lower of cost or market. Cost is determined by the first-in, first-out method and market is based on the lower of replacement cost or net realizable value. If the cost of the inventories exceeds expected market value, provisions are recorded currently for the difference between the cost and the market value. These provisions are determined based on estimates. The valuation of inventories also requires the Company to estimate excess inventories and inventories that are not saleable. The determination of excess or non-saleable inventories requires the Company to estimate the future demand for the Company rsquo;s product and consider the shelf life of the inventory. If actual demand is less than the Company rsquo;s estimated demand, we could be required to record inventory reserves, which would have an adverse impact on the Company rsquo;s results of operations. The Company anticipates that its inventory will be consumed through sales and marketing efforts prior to its expiry. 
+
+		 Property and equipment 
+		 Property and equipment are stated at cost, net of accumulated depreciation. Depreciation is calculated using the straight-line method over the estimated useful lives of the assets. When an asset is retired or otherwise disposed of, the related cost and accumulated depreciation are removed from the respective accounts and the net difference less any amount realized from disposition is reflected in the statements of operations. 
+
+Rate of depreciation 
+
+Production equipment 
+				 20-33 
+
+Furniture and equipment 
+				 7-15 
+
+Computers 
+				 33 
+
+Vehicle 
+				 15 
+
+Impairment of long-lived assets 
+		 The Company rsquo;s long-lived assets are reviewed for impairment in accordance with ASC 360, ldquo;Property, Plant and Equipment rdquo;, whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. Recoverability of assets to be held and used is measured by a comparison of the carrying amount of an asset to the future undiscounted cash flows expected to be generated by the asset. If such assets are considered to be impaired, the impairment to be recognized is measured by the amount by which the carrying amount of the asset exceeds its fair value. To date the Company has not incurred any impairment losses. 
+
+		 Investment in other companies 
+		 Equity investments without readily determinable fair values are measured at cost, less impairment, and plus or minus subsequent adjustments for observable price changes. Periodic changes in the basis of these equity investments are reported in current earnings. In addition, at each reporting period a qualitative assessment is performed to identify impairment. When a qualitative assessment indicates an impairment exists, the Company estimates the fair value of the investment and recognizes in current earnings an impairment loss equal to the difference between the fair value and the carrying amount of the equity investment. 
+
+		 Income taxes 
+		 The Company accounts for income taxes in accordance with ASC Topic 740, ldquo;Income Taxes rdquo;. Accordingly, deferred income taxes are determined utilizing the asset and liability method based on the estimated future tax effects of differences between the financial accounting and the tax bases of assets and liabilities under the applicable tax law. Deferred tax balances are computed using the enacted tax rates expected to be in effect when these differences reverse. Valuation allowance in respect of deferred tax assets are provided for, if necessary, to reduce deferred tax assets is amounts more likely than not to be realized. 
+		 The Company accounts for uncertain tax positions in accordance with ASC Topic 740-10, which prescribes detailed guidance for the financial statement recognition, measurement and disclosure of uncertain tax positions recognized in an enterprise rsquo;s financial statements. According to ASC Topic 740-10, tax positions must meet a more-likely-than-not recognition threshold. The Company rsquo;s accounting policy is to classify interest and penalties relating to uncertain tax positions under income taxes, however the Company did not recognize such items in its fiscal 2020 and 2019 financial statements and did not recognize any liability with respect to an unrecognized tax position in its balance sheet. 
+
+		 Concentrations of credit risk 
+		 Financial instruments that potentially subject the Company to concentrations of credit risk consist primarily of cash and cash equivalents, restricted cash and trade receivables as well as certain other current assets that do not amount to a significant amount. Cash and cash equivalents, which are primarily held in Dollars are deposited with major banks. Management believes that such financial institutions are financially sound and, accordingly, minimal credit risk exists with respect to these financial instruments. The Company does not have any significant off-balance-sheet concentration of credit risk, such as foreign exchange contracts, option contracts or other foreign hedging arrangements. Most of the Company rsquo;s sales are made in Canada and the United States to a small number of customers. Management periodically evaluates the collectability of the trade receivables to determine the amounts that are doubtful of collection and determine a proper allowance for doubtful accounts. Accordingly, management believes that the Company rsquo;s trade receivables do not represent a substantial concentration of credit risk. 
+
+Salaries and wages payable 
+		 Salaries and Wages payable are 365,000, as of December 31, 2019. The balance owing is unsecured and non-interest bearing. They may be converted to shares of common stock. 
+
+Due to related parties and other loans payable 
+		 Amounts due to related parties and other loans payable are unsecured, bear no interest and are payable on demand. They may be converted into shares of common stock. 
+
+Due to Director(s) 
+		 The Director(s) paid operating expenses and deposits on real estate acquisitions on behalf of the Company in the amount of 180,150. This includes prior periods as well as for the Period Ended December 31, 2020. 
+
+NOTES TO FINANCIAL STATEMENTS 
+		 Note 1: 1124123 Ontario Inc. owns 145 acres in Georgina, Ontario located at 6017 Smith Blvd. Easton owns 50 of 1124123 rsquo;s interest in the property. Easton holds a security interest in the property through a 2nd mortgage charge. 
+		 Note 2: Easton has placed 100,000 CAD deposit in trust for the purchase of 111 Brockhouse Rd., Toronto, Ontario, which is where the Company currently operates its food processing company and maintains corporate offices. A further 25,000 CAD deposit was placed for the acquisition of 16399 Airport Rd., Toronto, Ontario for the purpose of creating a beverage bottling company for infused products. The Seller was in default of his mortgage obligations and lost both properties. Easton issued a Notice of Termination of the Agreement of Purchase and Sale in July 2019, but the seller rsquo;s legal counsel has yet to release the deposits. 
+		 Note 3: Easton acquired 100 of the assets of Supreme Sweets Inc. on April 24, 2019. The Fair Market Value of the equipment was appraised at 9,119,500 CAD. 
+		 Note 4: Easton entered into an agreement in October 2018 to acquire a fully operational video slot game, as well as bingo game content. The games are currently being developed and they will be placed in operating casinos leading to daily revenue for Easton. Easton has been unable to meet its payment obligation and as a result, has not been able to place the games. The agreement is now null and void. 
+		 Note 5: Easton had entered into an agreement for the acquisition of iBliss Inc. As a result of Easton rsquo;s inability to fulfil its obligations as per the agreement and the declining stock price of Easton rsquo;s common shares, the agreement was restructured. 
+		 Note 6: Easton has a service agreement to frame 150 homes in Whitby, Ontario and the Service revenue is a result of this agreement. The contract has now been completed and was not renewed. 
+		 Note 7: Easton acquired 100 of Supreme Sweets Inc. on April 24, 2019 and operates a food processing company. As of December 31, 2020, the Company discontinued operations of this business. 
+		 Note 8: Accrued royalties are from the Agreement between Bayer and BMV/Easton with respect to the sales of VS-Sense in Mexico. The agreement was executed with BAYER rsquo;s subsidiary company, Bayer Consumer Care and calls for a royalty of 3 of all sales. 
+
+Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure. 
+ Not applicable. 
+
+ 9A. Controls and Procedures. 
+ Evaluation of Disclosure Controls and Procedures 
+ We have carried out an evaluation, under the supervision and with the participation of our management, including our Chief Executive Officer/Principal Financial Officer, of the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the ldquo;Exchange Act rdquo;)) as of December 31, 2019. Based on such evaluation, we have concluded that, as of such date, our disclosure controls and procedures were not effective to ensure that information required to be disclosed by us in our Exchange Act reports is recorded, processed, summarized and reported within the time periods specified in applicable SEC rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer/Principal Financial Officer, as appropriate, to allow timely discussions regarding required disclosure. 
+
+ Management rsquo;s Report on Internal Control over Financial Reporting 
+ Our management is responsible for establishing and maintaining internal control over financial reporting for our internal control system was designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. Internal control over our financial reporting includes those policies and procedures that: 
+
+(1) 
+		 pertain to the maintenance of records that in reasonable detail accurately and fairy reflect our transactions. 
+
+(2) 
+		 provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that our receipts and expenditures are being made only in accordance with authorization of our management and directors; and 
+
+(3) 
+		 provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of our assets that could have a material effect on our financial statements. 
+
+All internal control systems, no matter how well designed, have inherent limitations, including the possibility of human error or circumvention through collusion of improper overriding of controls. Therefore, even those internal control systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation. Further, because of changes in conditions, the effectiveness of internal control may vary over time. 
+ A material weakness is a significant deficiency, or combination of significant deficiencies, that results in there being a more than remote likelihood that a material misstatement of the annual or interim financial statements will not be prevented or detected. 
+ Under the supervision and with the participation of our chief executive officer (our principal executive officer), management conducted an evaluation of the effectiveness of our internal control over financial reporting, as of December 19, 2019, based on the framework set forth in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). Based on our evaluation under this framework, management concluded that our internal control over financial reporting was not effective as of the evaluation date due to the factors stated below: 
+ Management assessed the effectiveness of our company rsquo;s internal control over financial reporting as of the evaluation date and identified the following material weaknesses: 
+
+o 
+		 Lack of proper segregation of duties due to limited personnel; 
+
+o 
+		 Lack of a formal review process that includes multiple levels of review from adequate personnel with requisite expertise. 
+
+o 
+		 Lack of written policies and procedures for accounting and financial reporting. 
+
+We do not have a functioning audit committee or sufficient outside directors on our board of directors, resulting in ineffective oversight in the establishment and monitoring of required internal controls and procedures. 
+ Management is committed to improving its internal controls and will (1) continue to use third party specialists to address shortfalls in staffing and to assist the Company with accounting and finance responsibilities. In order to do so, the Company will have to raise capital to implement these controls and they will be dependent upon such capital being raised. 
+ Changes in Internal Control Over Financial Reporting 
+ There have been no changes in our internal controls over financial reporting that occurred during the year ended December 31, 2019 that have materially or are reasonably likely to materially affect, our internal controls over financial reporting. 
+
+ 9B. Other Information. 
+ On October 30, 2019, the Company rsquo;s Directors were charged by the Toronto Police as a result of false allegations made to the police by Mario Parravano and Barbara Parravano, the sellers of Supreme Sweets Inc. and 111 Brockhouse Road, Toronto. On or around August 2019, the Parravano rsquo;s alleged that Easton had ldquo;stolen rdquo; their business and equipment and had ldquo;locked them out rdquo; of the premises. Easton rsquo;s purchase of Supreme Sweets Inc. was handled by the Company rsquo;s legal counsel and the transaction was completed between the parties respective legal counsel. The transaction was completed on April 24, 2019 in escrow. 
+ On October 15, 2020, the Crown Attorney WITHDREW ALL charges against the directors of the Company. 
+
+ PART III 
+ Item 10. Directors, Executive Officers and Corporate Governance. 
+
+ DIRECTORS AND EXECUTIVE OFFICERS 
+ Our directors, executive officers and key employees, and their ages as of the date of this report, are listed below. Our directors hold office for one-year terms or until their successors have been elected and qualified. 
+
+Name 
+		 Position 
+		 Age 
+
+Evan Karras 
+		 President/Chief Executive Officer, Secretary, Treasurer/Chief Financial Officer and a Director 
+		 50 
+
+The biographies of the directors and officers are set forth below as follows: 
+ Evan Karras. Mr. Karras has been the Chief Executive Officer and a director of the Company since June 2015. Mr. Karras is a leading project developer with key strengths in the organization and implementation of small, medium and large-scale projects on an international level. He has extensive experience in investment banking, real estate, hospitality and telecommunications, among others. 
+ Mr. Karras served as President and CEO of a specialty telecommunications company in the prepaid calling card industry. It was one of the largest prepaid long-distance calling card providers until Mr. Karras changed the direction of the company to more profitable and specialized products and services. He was instrumental in dramatically increasing the company rsquo;s sales, raising awareness in the public markets and securing lucrative international telecom contracts for the company. 
+ Mr. Karras participated in an international RFP for the privatization and award of casino licenses in Europe. He formed several consortiums with international hotel and gaming operators, including Sun International, Lady Luck Gaming Corporation, Playboy Enterprises, Hyatt Hotels and IMG. Mr. Karras further secured property for the participating consortiums and was instrumental in the overall development of several luxury hotel and casino resorts. Mr. Karras worked closely with DLJ and Bear Sterns in order to secure funding for those developments. 
+ Mr. Karras was the first entrepreneur to cultivate, create and develop a multi-million-dollar network to provide multimedia services to subscribers in the Middle East and Gulf Countries. Mr. Karras negotiated agreements with the national telecommunications providers, as well as government authorities. 
+ Mr. Karras has been instrumental in several product launches and has negotiated licensing agreements with major corporations, such as Bayer Consumer Health AG for Bayer. 
+ Mr. Karras has been in Venture Capital and Investment Banking for over 20 years. He has syndicated and invested over 300 million in companies in various sectors, including healthcare, technology, manufacturing, financial, energy and waste management, among others. 
+ Family Relationships 
+ There are no family relationships among any of our executive officers or directors. 
+
+ Section 16(a) Beneficial Ownership Reporting Compliance 
+ Not applicable. 
+
+ CORPORATE GOVERNANCE MATTERS 
+ Audit Committee 
+ As of the date of this Annual Report, we do not have an audit committee. We intend to establish an audit committee of the Board of Directors, which will consist of independent directors, of which at least one director will qualify as a qualified financial expert as defined in Item 407(d)(5)(ii) of Regulation S-K. The audit committee rsquo;s duties would be to recommend to the Board of Directors the engagement of independent auditors to audit our financial statements and to review its accounting and auditing principles. The audit committee would review the scope, timing and fees for the annual audit and the results of audit examinations performed by the internal auditors and independent public accountants, including their recommendations to improve the system of accounting and internal controls. The audit committee would at all times be composed exclusively of directors who are, in the opinion of the Board of Directors, free from any relationship which would interfere with the exercise of independent judgment as a committee member and who possess an understanding of financial statements and generally accepted accounting principles. 
+ Board Independence 
+ As of the date of this Annual Report, we do not have any independent directors. 
+ Audit Committee Financial Expert 
+ Our board of directors has determined that we do not have an audit committee financial expert within the meaning of Item 407(d)(5) of Regulation S-K. In general, an ldquo;audit committee financial expert rdquo; is an individual member of the audit committee who (a) understands generally accepted accounting principles and financial statements, (b) is able to assess the general application of such principles in connection with accounting for estimates, accruals and reserves, (c) has experience preparing, auditing, analyzing or evaluating financial statements comparable to the breadth and complexity to our financial statements, (d) understands internal controls over financial reporting and (e) understands audit committee functions. 
+ Code of Ethics 
+ We have not adopted a code of ethics for our executive officers, directors and employees. However, our management intends to promote honest and ethical conduct, full and fair disclosure in our reports to the SEC, and compliance with applicable governmental laws and regulations. 
+ Nominating Committee 
+ We have not yet established a nominating committee. Our board of directors, sitting as a board, performs the role of a nominating committee. We are not currently subject to any law, rule or regulation requiring that we establish a nominating committee. 
+ Compensation Committee 
+ We intend to establish a compensation committee of the Board of Directors. The compensation committee would review and approve our salary and benefits policies, including compensation of executive officers. The compensation committee would also administer any stock option plans and recommend and approve grants of stock options under such plans. 
+
+ Item 11. Executive Compensation. 
+ Summary Compensation Table 
+ The following table provides certain summary information concerning compensation awarded to, earned by or paid to our Principal Executive Officer executive whose total annual salary and bonus exceeded 100,000 for fiscal year 2019. Certain tables and columns have been omitted as no information was required to be disclosed under those tables or columns. 
+
+SUMMARY COMPENSATION TABLE 
+
+Name and principal position 
+		 Fiscal year 
+		 Salary 
+	 ) 
+		 Stock awards 
+		 ) 
+		 Option Awards 
+		 ) 
+		 All other compensation 
+		 ) 
+		 Total 
+		 ) 
+
+Evan Karras ndash; CEO amp; Director 
+		 2020 
+		 150,000 
+		 -0- 
+		 -0- 
+		 -0- 
+		 150,000 
+
+Mr. Karras has served in these capacities since June 2015. 
+ Of the amounts due and owing to Mr. Karras as executive compensation, no amounts have been paid in cash and the entire amounts have been accrued as due and payable. 
+
+ Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+ The following table describes, as of December 31, 2020, the beneficial ownership of common shares 
+
+Name and Address of Beneficial Owner 
+		 No. of Shares Beneficially Owned 
+		 Percentage Owned 
+
+CEDE amp; CO 
+			570 Washington Blvd. 
+			Jersey City, New Jersey 7310 
+		 974,364,055 
+		 72.44 
+
+ASHLEY LOUIS WALDRIFF 
+			425 University Avenue, Toronto, Ontario 
+			M5G 1T6 
+		 75,000,000 
+		 5.57 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence. 
+ We do not have a specific policy or procedure for the review, approval, or ratification of any transaction involving related persons. We historically have sought and obtained funding from officers, directors, and family members as these categories of persons are familiar with our management and often provide better terms and conditions than we can obtain from unassociated sources. 
+ There were no transactions with any related persons (as that term is defined in Item 404 in Regulation S-K) during the last two fiscal years, or any currently proposed transaction, in which we were or were to be a participant and the amount involved which the amount exceeds the lesser of 120,000 or one percent of the average of our assets at year-end for the last two completed fiscal years, and in which any related person had a direct or indirect material interest. 
+
+ LOANS PAYABLE 
+ Loans payable represents loans to meet the working capital requirements of the Company. These loans are interest free, unsecured and are repayable on demand. These loans payable as at December 31, 2020 and December 31, 2019 are 750,000 and 6,726,855, respectively. 
+
+ DUE TO RELATED PARTIES 
+ At December 31, 2020 and December 31, 2019, balances due to the Chief Executive Officer of the Company were 180,150 and 161,074, respectively. These balances are interest free, unsecured and are repayable on demand. The balances due were incurred mainly in connection with the companies acquisitions of real estate and businesses. 
+
+ Item 14. Principal Accountant Fees and Services. 
+ The following table shows the fees paid or accrued for accounting services and other services provided by our principal accountant. 
+
+2020 
+		 2019 
+
+Audit fees 
+		 -0- 
+		 -0- 
+
+Audit related fees 
+		 5,000 
+		 30,000 
+
+Tax fees 
+		 -0- 
+		 -0- 
+
+All other fees 
+		 -0- 
+		 -0- 
+
+Audit Fees 
+ Audit fees represent the professional services rendered for the audit of our annual financial statements and the review of our financial statements included in quarterly reports, along with services normally provided by the accountant in connection with statutory and regulatory filings or engagements. 
+
+ Audit Related Fees 
+ Audit-related fees represent professional services rendered for assurance and related services by the principal accountant that are reasonably related to the performance of the audit or review of our financial statements that are not reported under audit fees. 
+
+ Tax Fees 
+ Tax fees represent professional services rendered by the principal accountant for tax compliance, tax advice, and tax planning. 
+
+ All Other Fees 
+ All other fees represent fees billed for products and services provided by the principal accountant, other than the services reported for the other categories. 
+
+ PART IV 
+ Item 15. Exhibit and Financial Statement Schedules. 
+ Attached Certification of Principal Executive Officer pursuant to 18 U.S.C. sect; 1350, as adopted pursuant to sect; 302 of the Sarbanes-Oxley Act of 2002. 
+ Attached Certification of Principal Executive Office and Principal Financial Officer pursuant to 18 U.S.C. sect; as adopted pursuant to sect; 906 of the Sarbanes-Oxley Act of 2002. 
+
+ Item 16. Form 10 ndash;K Summary. 
+ None. 
+
+ SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+ EASTON PHARMACEUTICALS, INC. 
+ By: /s/ Evan Karras 
+Name: Evan Karras 
+Title: Chief Executive Officer and Director 
+Date: March 30, 2021 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+Name 
+		 
+		 Title 
+		 
+		 Date 
+
+/s/ Evan Karras 
+		Evan Karras 
+		 
+		 Director, Chief Executive Officer/Chief Financial Officer 
+		 
+		 March 30, 2021 
+
+EXHIBIT 31.1 
+ CERTIFICATION 
+ I, Evan Karras, certify that: 
+ 
+	 I have reviewed this Annual Report on Form 10-K of Parallel Industries Inc. formerly Easton Pharmaceuticals, Inc.; 
+	 Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
+	 Based on my knowledge, the financial statements and other financial information included in this report fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+	 As the registrant rsquo;s sole certifying officer, I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:
+		 
+			 Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to me by others within those entities, particularly during the period in which this report is being prepared; 
+			 Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under my supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+			 Evaluated the effectiveness of the registrant rsquo;s disclosure controls and procedures and presented in this report my conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+			 Disclosed in this report any change in the registrant rsquo;s internal control over financial reporting that occurred during the registrant rsquo;s most recent fiscal quarter (the registrant rsquo;s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant rsquo;s internal control over financial reporting; and 
+
+As the registrant rsquo;s sole certifying officer, I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant rsquo;s auditors and the audit committee of the registrant rsquo;s board of directors (or persons performing the equivalent functions):
+		 
+			 All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant rsquo;s ability to record, process, summarize and report financial information; and 
+			 Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant rsquo;s internal control over financial reporting. 
+
+Date: March 30, 2021 
+		 
+		 By: 
+		 /s/ Evan Karras 
+			Evan Karras 
+			Chief Executive Officer and 
+			Chief Financial Officer 
+
+EXHIBIT 32.1 
+ CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Annual Report on Form 10-K of Parallel Industries Inc., formerly Easton Pharmaceuticals, Inc. (the ldquo;Company rdquo;) for the year ended December 31, 2020, as filed with the Securities and Exchange Commission on the date hereof (the ldquo;Report rdquo;), I, Evan Karras, Chief Executive Officer and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. sect; 1350, as adopted pursuant to sect; 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge: 
+ 
+	 The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+	 The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: March 30, 2021 
+		 
+		 By: 
+		 /s/ Evan Karras 
+			Evan Karras 
+			Our Chief Executive Officer and Chief Financial Officer 
+

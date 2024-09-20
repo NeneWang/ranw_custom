@@ -1,0 +1,1036 @@
+<Header>
+<FileStats>
+    <FileName>20211005_10-K_edgar_data_1267919_0001376474-21-000336.txt</FileName>
+    <GrossFileSize>1488099</GrossFileSize>
+    <NetFileSize>73594</NetFileSize>
+    <NonText_DocumentType_Chars>335107</NonText_DocumentType_Chars>
+    <HTML_Chars>314934</HTML_Chars>
+    <XBRL_Chars>289996</XBRL_Chars>
+    <XML_Chars>453379</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001376474-21-000336.hdr.sgml : 20211005
+<ACCEPTANCE-DATETIME>20211005121714
+ACCESSION NUMBER:		0001376474-21-000336
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		40
+CONFORMED PERIOD OF REPORT:	20201231
+FILED AS OF DATE:		20211005
+DATE AS OF CHANGE:		20211005
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SIGNATURE DEVICES INC
+		CENTRAL INDEX KEY:			0001267919
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				812785629
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53349
+		FILM NUMBER:		211305682
+
+	BUSINESS ADDRESS:	
+		STREET 1:		30 N. GOULD STREET
+		STREET 2:		SUITE 5187
+		CITY:			SHERIDAN
+		STATE:			WY
+		ZIP:			82801
+		BUSINESS PHONE:		650-654-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		30 N. GOULD STREET
+		STREET 2:		SUITE 5187
+		CITY:			SHERIDAN
+		STATE:			WY
+		ZIP:			82801
+
+</SEC-Header>
+</Header>
+
+ 0001376474-21-000336.txt : 20211005
+
+10-K
+ 1
+ sdv-20201231.htm
+ SIGNATURE DEVICES INC - FORM 10-K SEC FILING
+
+SIGNATURE DEVICES INC - Form 10-K SEC filing 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the annual period ended 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from _________ to _________ 
+
+(Exact name of registrant as speci ed in its charter) 
+
+(State or other jurisdiction 
+ (Commission 
+ (IRS Employer 
+ 
+ of incorporation) 
+ File Number) 
+ Identi cation No.) 
+
+, 
+
+) 
+
+, , , 
+ ) 
+ 
+ Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+ Yes 
+ 
+ Indicate by check mark whether the registrant has submitted every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+ Yes 
+ 
+ Check whether the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Exchange Act. 
+ Yes 
+ 
+ Check whether the registrant is a well-kown seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+ 
+ Check if there is no disclosure of delinquent filers in response to Item 405 of Regulation S-K 229.405 of this chapter) contained herein, and no disclosure will be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. 
+ 
+ Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See definitions of large accelerated filer, accelerated filer smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer Accelerated filer 
+ Smaller reporting company 
+ Emerging Growth Company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ 
+ The aggregate market value of the common stock held by non-affiliates of the issuer was on June 30, 2020. 
+ 
+ As of September 30, 2021, there were shares of our Common Stock issued and outstanding. 
+ 
+ As of September 30, 2021, there were shares of our Preferres Stock issued and outstanding. 
+ 
+ 2 
+
+ISSUER S CURRENT REPORT 
+ FOR THE QUARTER ENDING 
+ December 31, 2020 
+ _____________________________________________________________________________________ 
+ INVESTMENT IN SMALL BUSINESSES INVOLVES A HIGH DEGREE OF RISK, AND INVESTORS SHOULD NOT INVEST ANY FUNDS IN THIS COMPANY UNLESS THEY CAN AFFORD TO LOSE THEIR ENTIRE INVESTMENT. READ THE RISK FACTORS THAT MANAGEMENT BELIEVES PRESENT THE MOST SUBSTANTIAL RISKS TO AN INVESTOR AND DISCLOSED IN THIS REPORT. 
+ 
+ IN MAKING AN INVESTMENT DECISION, INVESTORS MUST RELY ON THEIR OWN EXAMINATION OF THE ISSUER AND THE TERMS OF ANY OFFERING, INCLUDING THE MERITS AND RISKS INVOLVED. THE SECURITIES DESCRIBED IN THIS REPORT HAVE NOT BEEN RECOMMENDED OR APPROVED BY ANY FEDERAL OR STATE SECURITIES COMMISSION OR REGULATORY AUTHORITY. FURTHERMORE, THESE AUTHORITIES HAVE NOT PASSED UPON THE ACCURACY OR ADEQUACY OF THIS DOCUMENT. ANY REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE. 
+ 
+ THIS REPORT CONTAINS ALL OF THE REPRESENTATIONS BY THE COMPANY CONCERNING ITS SECURITIES, AND NO PERSON SHALL MAKE DIFFERENT OR BROADER STATEMENTS THAN THOSE CONTAINED HEREIN. INVESTORS ARE CAUTIONED NOT TO RELY UPON ANY INFORMATION NOT EXPRESSLY SET FORTH IN THIS REPORT. 
+ 
+ THE INFORMATION CONTAINED IN THIS REPORT IS CORRECT AS OF DECEMBER 31, 2020. THE DELIVERY AND PUBLICATION OF THE CONTENTS OF THIS REPORT DOES NOT IMPLY THAT THE INFORMATION WILL BE CORRECT ON ANY DATE SUBSEQUENT TO THE DATE HEREOF, UNLESS ANY SUCH FURTHER UNDERTAKINGS ARE STATED IN THIS REPORT. 
+ 
+ THE READERS OF THIS REPORT SHOULD PAY PARTICULAR ATTENTION TO THE RISK SECTION OR THOSE ITEMS IN THIS REPORT THAT ARE HIGHLIGHTED, AS THOSE SECTIONS OR ITEMS, IN THE OPINION OF MANAGEMENT, DESCRIBE AN EXISTING OR POTENTIAL SIGNIFICANT RISK TO STOCKHOLDERS AND INVESTORS. 
+ 3 
+ 
+ - TABLE OF CONTENTS 
+ 
+ FORWARD LOOKING STATEMENTS 5 
+ N AME OF THE I SSUER AND I TS PREDECESSORS 6 
+ A DDRESS OF THE ISSUER S PRINCIPAL EXECUTIVE OFFICES 7 
+ S ECURITY I NFORMATION 7 
+ I SSUANCE H ISTORY 7 
+ Financial Statements 9 
+ T HE I SSUER S B USINESS , P RODUCTS AND S ERVICES 18 
+ I SSUER S F ACILITIES 24 
+ O FFICERS , D IRECTORS , AND C ONTROL P ERSONS 25 
+ T HIRD P ARTY P ROVIDERS 28 
+ I SSUER C ERTIFICATION . 28 
+ 4 
+ 
+ FORWARD LOOKING STATEMENTS 
+ 
+ This quarterly report contains forward-looking statements. Forward-looking statements are projections of events, revenues, income, future economic performance or management s plans and objectives for our future operations. In some cases, you can identify forward-looking statements by terminology such as may , should , expects , plans , anticipates , believes , estimates , predicts , potential or continue or the negative of these terms or other comparable terminology. These statements are only predictions and involve known and unknown risks, uncertainties and other factors, including the risks in the section entitled Risk Factors and the risks set out below, any of which may cause our or our industry s actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. These risks include, by way of example and not in limitation: 
+ 
+ the uncertainty of profitability based upon our history of losses; 
+ risks related to failure to obtain adequate financing on a timely basis and on acceptable terms to continue as going concern; 
+ risks related to our operations and 
+ other risks and uncertainties related to our business plan and business strategy. 
+ 
+ This list is not an exhaustive list of the factors that may affect any of our forward-looking statements. These and other factors should be considered carefully, and readers should not place undue reliance on our forward-looking statements. Forward looking statements are made based on management s beliefs, estimates and opinions on the date the statements are made, and we undertake no obligation to update forward-looking statements if these beliefs, estimates and opinions or other circumstances should change. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Except as required by applicable law, including the securities laws of the United States, we do not intend to update any of the forward-looking statements to conform these statements to actual results. 
+ 
+ Our financial statements are stated in United States dollars (US and are prepared in accordance with United States Generally Accepted Accounting Principles. All references to common stock refer to the common shares in our capital stock. 
+ 
+ Information Unknown or Not Available; Disclaimer of Control. 
+ Due to a significant number of factors beyond our control, we are not in possession of a number of our general corporate documents and financial historical data and records, and we cannot obtain the same without unreasonable effort and expense, if at all. We believe these records are in the possession of certain of our former officers, directors, and/or auditors, and, as such, have not been delivered to our current senior executive management following a series of changes in our control and by the repeated demands by our immediate past president to provide us with the same. 
+ 
+ While we believe the information in this Report is accurate; however, without possessing and examining all our records, our management cannot state that the information contained in this Report is complete. To that extent, we are relying on the disclaimer more fully described in Rule 12b-22 of the Securities Exchange Act of 1934 (17 CFR 240.12b-22). 
+ 
+ Non-Reliance on Third-Party Information. 
+ 
+ With the exception of the records maintained (i) by the Office of the Secretary of State of the State of Delaware and available on its website or (ii) by the United States Securities and Exchange Commission on its website, if any information in this Report was originally provided to us by a third party or incorporated by reference herein in reliance of any such third-party s statements, we cannot warrant or represent the accuracy or sufficiency of any such information, and, we shall not be held liable for the authenticity of any such third-party information. You may form your own conclusions based on the available information therefrom obtained. 
+ 
+ The following is a summary of some of the information contained in this document. Unless the context requires otherwise, references in this document to we , us , our , Company or Signature Devices are to Signature Devices, Inc. 
+ 5 
+ 
+ Name of the Issuer and Its predecessors 
+ 
+ Name of Issuer 
+ 
+ Signature Devices, Inc. SDVI is traded on the OTC Bulletin Board and the OTCQB, a quotation service that displays sale prices, and volume information for transactions with market makers in over the counter OTC equity securities. All such quotations reflect inter-dealer prices, without retail mark-up, markdown or commissions and may not necessarily represent actual transactions. Trading in our common stock is limited and sporadic and there can be no assurance that any liquid trading market will develop or, if it does develop, that it can be maintained. 
+ 
+ Signature Devices, Inc. is a technology company based in Irvine, CA that focuses on the Mobile applications and Internet of Things business. Signature Devices combines the best of the technologies underpinning the popular Morpheus media server, Tazerwear s AI Software, Truck IT's beacon platform with Knoton s hardware, infrastructure, and software. The result is a company that blends custom software and powerful hardware IoT-interconnected devices. 
+ 
+ Its predecessors History 
+ 
+ The Company was organized on July 24, 2002, under the laws of the State of Nevada, as Signature Devices, Inc. Signature Nevada whose business was to create and develop social networking systems. The Company s social networking systems include social networking server software, social networking games and console games. On June 3, 2016 the Board of Directors determined to dissolve Signature Nevada. On the same date Signature Devices, Inc. was organized under the laws of the State of Delaware Signature Delaware ). 
+ 
+ On February 23, 2016, Signature Delaware incorporated Signature Devices Holdings, Inc., a Delaware corporation. 
+ 
+ On February 23, 2016, Signature Devices Holdings, Inc. formed and organized Signature Devices Services, Inc., a Delaware corporation. 
+ 
+ On February 9, 2017 (the Closing Date Signature Devices, Inc. entered into an Agreement and Plan of Merger (the Merger Agreement whereby the Company s wholly owned subsidiary, Signature Devices Services, Inc., merged with and into Signature Holdings, Inc. Upon consummation of the Merger, Signature Devices Services was dissolved. The Merger implied a share exchange between Signature Devices, Inc. and with Signature Holdings, Inc. where Signature Holdings received all of Signature Delaware common and preferred stock and Signature Delaware received equivalent shares of Signature Holding s common and preferred stock. 
+ 
+ On October 23, 2018 (the Closing Date Signature Devices, Inc., approved a merger with Nano 101, Inc in a stock purchase agreement. Nano 101 was paid 5,100,000 shares of Preferred stock to be held in escrow and released on several conditions such as being current in reporting obligations and with the achievement of milestones including reaching 2 million in market cap by December 31, 2019, and 50 million by December 31, 2021. 
+ 
+ On the Closing Date, the parties executed all documents and filed the Plan of Merger with the Delaware Secretary of State. 
+ 
+ Following the Merger, Signature Holdings changed its name, to Signature Devices, Inc. . Upon the completion of all of the terms of the reorganization, including required filings with regulatory agencies, Signature Devices, Inc. will become the parent organization. 
+ 
+ On July 16, 2016, we entered a non-bankruptcy triangular reorganization and contemporaneous share exchange pursuant to the applicable provisions enumerated in Section 368, et seq. of the Internal Revenue Service Code of 1986, as amended (the Code ). 
+ 
+ In February of 2018, we completed the sale of our subsidiary, Graffiti Entertainment, Inc., to Azure Holding Group Inc Azure ). This allows us to partner with Azure to launch an Artificial Intelligence cryptocurrency that can be used in a broad spectrum of applications including, IoT devices, Video Games, Advertising and more. 
+ 
+ 6 
+ 
+ Signature Devices will hold 21 of voting rights as well as free trading shares in Azure Holding Group Inc. The Graffiti assets will enable Azure Holding Group Inc. to integrate a lucrative gaming business and advertising, leveraging blockchain technologies and Artificial Intelligence cryptocurrency monetization. 
+ 
+ As part of the deal, Graffiti Shareholders will also receive free trading shares in exchange for their current shares. The two companies will work together to complete the share swap in the next 60-90 days. 
+ 
+ In the completed deal, each Graffiti shareholder will receive shares in Azure Holding Group Inc., a publicly traded company. The purchase agreement calls for an exchange of one Azure Holding Group Corp share for one Graffiti Entertainment share (the Purchase Price ). Signature Devices will receive shares of Azure Holding Group through its current holdings of Graffiti Shares. 
+ Address of the issuer s principal executive offices 
+ 
+ We do not own any real property. Our mailing address and main business address is 36 Shadow Brook Ln, Lander, WY 82850. 
+ Security Information 
+ 
+ Trading Symbol: SDVI 
+ Exact title and class of securities outstanding: Common Shares 
+ CUSIP: 82668Y106 
+ Par or Stated Value: .00001 
+ Total shares authorized: 7,000,000,000 as of: September 30, 2021 
+ Total shares outstanding: 6,746,636,426 as of: September 30, 2021 
+ Number of shares in the Public Float: 6,746,636,426 as of: September 30, 2021 
+ Total number of shareholders of record: 91 as of: September 30, 2021 
+
+Transfer Agent 
+ Action Stock Transfer Corporation 2469 E. Fort Union Blvd., Suite 214 Salt Lake City, UT 84121 
+ Website: https://www.actionstocktransfer.com/ 
+ Is the Transfer Agent registered under the Exchange Act? Yes: No: 
+ 
+ List any restrictions on the transfer of security: 
+ 
+ NONE 
+ 
+ Describe any trading suspension orders issued by the SEC in the past 12 months. 
+ 
+ NONE 
+ 
+ List any stock split, stock dividend, recapitalization, merger, acquisition, spin-off, or reorganization either currently anticipated or that occurred within the past 12 months: 
+ 
+ NONE 
+ 
+ Issuance History 
+ 
+ List below any events, in chronological order, that resulted in changes in total shares outstanding by the issuer in the past two fiscal years and any interim period. The list shall include all offerings of equity securities, including debt convertible into equity securities, whether private or public, and all shares or any other securities or options to acquire such securities 
+ 7 
+ 
+ issued for services, describing (1) the securities, (2) the persons or entities to whom such securities were issued and (3) the services provided by such persons or entities. 
+ 
+ On March 17, 2020, per the agreement with Tri-Bridge Ventures, Tri-Bridge was issued 386,342,795 free trading common shares for payment of 500 a day in penalties from the promissory note dated 10/25/2018 thus increasing the common outstanding shares to 4,288,795,267. 
+ 
+ On May 28, 2020, the company signed a settlement agreement with Nawid (Nick)Wadood, et. al. for a promissory note date July 16, 2019, for the acquisition of Nano 101 on October 22, 2018, and the issuance of 5,100,000 preferred shares. Certain disputes had arisen between the board of directors and Nawid (Nick) Wadood regarding handling of the business affairs of Nano 101. The return of all of Nano 101 inventory to the company was to be delivered to the company. 
+ 
+ On June 23, 2020, the board of directors received the resignation of Inas Azzam for all positions as Signature Devices, Inc. The company plans on rolling out Innovo Technologies to Inas Azzam, as that part of the business couldn t become profitable in several years. 
+ 
+ On December 4, 2020, per the agreement with Tri-Bridge Ventures, Tri-Bridge was issued 424,590,731 free trading common shares for payment of 500 a day in penalties from the promissory note dated 10/25/2018 thus increasing the common outstanding shares to 4,713,385,998. Tri-Bridge ventures was eligible to receive these shares as previous shares were sold to the public thereby reducing their holding to 
+ 
+ On December 10, 2020, per the agreement with Tri-Bridge Ventures, Tri-Bridge was issued 466,625,214 free trading common shares for payment of 500 a day in penalties from the promissory note dated 10/25/2018 thus increasing the common outstanding shares to 5,180,011,212. Tri-Bridge ventures was eligible to receive these shares as previous shares were sold to the public thereby reducing their holding to 
+ 
+ On December 16, 2020, per the agreement with Tri-Bridge Ventures, Tri-Bridge was issued 466,625,214 free trading common shares for payment of 500 a day in penalties from the promissory note dated 10/25/2018 thus increasing the common outstanding shares to 5,646,636,426. Tri-Bridge ventures was eligible to receive these shares as previous shares were sold to the public thereby reducing their holding to 
+
+Market for Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ Holders. 
+ 
+ According to the records of Signature Devices transfer agent, Signature Devices, Inc. had 91 stockholders of record as of December 31, 2020 and it believes there are a substantially greater number of beneficial holders. This number does not include an indeterminate number of shareholders whose shares are held by brokers in street name. 
+ 
+ Dividends 
+ 
+ We have not paid any dividends to date, and we have no intention of paying any cash dividends on our common stock in the foreseeable future. 
+ 
+ Performance Graph 
+ 
+ We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information under this item. 
+ 
+ Sales of Unregistered Securities 
+ 
+ There were no unregistered sales of securities during the period covered by this report that were not previously reported 
+ 8 
+
+Financial Statements 
+ 9 
+
+SIGNATURE DEVICES, INC. 
+ Condensed Consolidated Balance Sheets 
+ as of December 31, 2019 and 
+ December 31, 2020 (Unaudited) 
+
+December 31, 2020 
+
+December 31, 2019 
+
+ASSETS 
+
+Current assets: 
+
+Cash 
+
+Inventories 
+
+Total current assets 
+
+Non-current assets: 
+
+Property and equipment, net 
+
+TOTAL ASSETS 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities: 
+
+Accounts payable 
+
+Total current liabilities 
+
+Non-current liabilities: 
+
+Convertible debt 
+
+Total non-current liabilities 
+
+Total liabilities 
+
+Commitments and contingencies 
+
+Stockholders equity: 
+
+Preferred stock par value; authorized shares: issued and shares) 
+
+Common stock par value; authorized shares; issued and shares) 
+
+Additional paid in capital common stock 
+
+Accumulated deficit 
+ 
+ () 
+
+() 
+ 
+ Total stockholders equity 
+
+TOTAL LIABILITIES AND STOCKHOLDERS EQUITY 
+
+See accompanying Notes to Condensed Consolidated Financial Statements (unaudited). 
+ 10 
+ 
+ SIGNATURE DEVICES, INC. 
+ Condensed Consolidated Statements of Operations 
+ (Unaudited) 
+
+Years ended 
+
+December 31, 
+
+2020 
+
+2019 
+
+Net revenue 
+
+Cost of revenue 
+
+Gross profit 
+
+Other revenue: 
+
+Gain on extinguishment of short-term and long-term liabilities 
+
+Operating expenses: 
+
+Advertising and marketing 
+
+Bad debt expense 
+
+Consulting 
+
+Debt servicing fees and bank charges 
+
+Depreciation and amortization 
+
+Other expenses 
+
+Total operating expenses 
+
+Other loss: 
+
+Write-down on inventories 
+
+Net income/(loss) 
+ 
+ () 
+
+See accompanying Notes to Condensed Consolidated Financial Statements (unaudited). 
+ 11 
+
+SIGNATURE DEVICES, INC. 
+ Condensed Consolidated Statements of Stockholders Equity 
+ (Unaudited) 
+
+Years ended 
+
+December 31, 
+
+2020 
+
+2019 
+
+Preferred stock 
+
+Balance at the beginning and end of the period 
+
+Common stock 
+
+Balance at the beginning of the period 
+
+Issuance 
+
+Balance at the end of the period 
+
+Additional paid-in capital 
+
+Balance at the beginning and end of the period 
+
+Accumulated deficit 
+
+Balance at the beginning of the period 
+
+() 
+
+() 
+ 
+ Net income/(loss) 
+
+() 
+
+Balance at the end of the period 
+
+() 
+
+() 
+ 
+ Total stockholders equity 
+
+See accompanying Notes to Condensed Consolidated Financial Statements (unaudited). 
+ 12 
+ 
+ SIGNATURE DEVICES, INC. 
+ Condensed Consolidated Statement of Cash Flow 
+ (Unaudited) 
+
+Years ended December 31, 
+
+2020 
+
+2019 
+
+Operating activities 
+
+Net income/(loss) 
+ 
+ () 
+
+Adjustments to reconcile net income/(loss) to net cash used in operating activities: 
+
+Depreciation and amortization 
+
+Extinguishment of liabilities 
+
+() 
+ 
+ Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+Inventories 
+
+() 
+ 
+ Accounts payable 
+ 
+ () 
+
+() 
+ 
+ Other current liabilities 
+
+() 
+ 
+ Net cash used in operating activities 
+ 
+ () 
+
+() 
+ 
+ Financing activities 
+
+Proceeds from issuance of convertible debt 
+
+Proceeds from issuance of common stock 
+
+Net cash provided by financing activities 
+
+Net increase/(decrease) in cash 
+
+() 
+ 
+ Cash at the beginning of the period 
+
+Cash at the end of the period 
+
+See accompanying Notes to Condensed Consolidated Financial Statements (unaudited). 
+ 13 
+
+under the laws of the State of Nevada. In February 2016 Signature Devices, Inc. merged into Signature Devices Services, Inc. becoming a subsidiary of Signature Devices, Holding, Inc. (Both Delaware companies) On the same date, Signature Devices, Holding, Inc. was renamed Signature Devices Tech, Inc. 
+ The Company combines the best of the technologies underpinning the popular Morpheus media server, platform with Knoton s hardware, infrastructure and software and CBD patches. The result is a company that blends custom software and powerful hardware IoT-interconnected devices and distribution and sales of CBD patches 
+
+. The ability of the Company to continue as a going concern is dependent on the Company obtaining adequate capital to fund operating losses until it becomes profitable. If the Company is unable to obtain adequate capital, it could be forced to cease or reduce its operations. 
+ 
+ In order to continue as a going concern, the Company will need, among other things, additional capital resources. The Company will continue to raise funds through the sale of its equity securities or issuance of notes payable to obtain additional operating capital. The Company is dependent upon its ability, and will continue to attempt, to secure additional equity and/or debt financing until the Company can earn revenue and realize positive cash flow from its operations. There are no assurances that the Company will be successful in earning revenue and realizing positive cash flow from its operations. Without sufficient financing it would be unlikely that the Company will continue as a going concern. 
+ 
+ Based on the Company s current rate of cash outflows, cash on hand and proceeds from the prior sale of equity securities and issuance of convertible notes, management believes that its current cash will not be sufficient to meet the anticipated cash needs for working capital for the next 12 months. The Company s plans with respect to its liquidity issues include, but are not limited to, the following: 
+
+1) 
+ Continue to issue restricted stock for compensation due to consultants and for its legacy accounts payable in lieu of cash payments; and preferred stock 
+
+2) 
+ Seek additional capital in the public equity markets to continue its operations as it rolls out its current products in development, responds to competitive pressures, develops new products and services, and supports new strategic partnerships. The Company is currently evaluating additional debt or equity financing opportunities and may execute them when appropriate. However, there can be no assurances that the Company can consummate such a transaction or consummate a transaction at favorable pricing. 
+
+14 
+
+payable to S K Enterprises remains as an outstanding liability. 
+ 15 
+
+shares of Preferred Stock, par value per share. Our Preferred Stock is not listed on any national or regional stock exchange and is not quoted over-the-counter. Of the 10,000,000 preferred stock shares, are issued and outstanding to Twenty-Three (23) shareholders. 
+ We have not subscribed for a CUSIP Identifier for our Preferred Stock; however, the Preferred Stock is maintained on the stock transfer books of Action Stock Transfer. 
+ 
+ The voting powers, designations, preferences, limitations, restrictions, and relative, participating, optional, and other rights, and the qualifications, limitations, or restrictions thereof, of our Preferred Stock are as follows: 
+ 
+ Dividend Rate. The holders of Series A Preferred Stock shall be entitled to receive dividends in the amount of 10 (ten percent) of the assets legally available therefor before the payment of dividends to the holders of shares of the Series A Common Stock out of assets legally available therefor. 
+ Voting Rights. The holders of the issued and outstanding shares of the Series A Preferred Stock shall be entitled to 1,000 (one thousand) votes for each one share of Series A Preferred Stock held by them. 
+ Liquidation Rights. In the event of a liquidation, dissolution, or winding up of our affairs, whether voluntary or involuntary, the holders of shares of the Series A Preferred Stock shall have priority over our assets available for distribution in the event of any liquidation or dissolution of the Company. A merger, conversion, exchange, or consolidation of the Company with or into any other person or sale or transfer of all or any part of our assets (which shall not in fact result in our liquidation and the distribution of assets to stockholders) shall not be deemed to be a voluntary or involuntary liquidation, dissolution, or winding up of our affairs of the corporation 
+ Conversion, Redemption, or Preemptive Rights. The holders of Series A Preferred Stock shall have the right to convert their shares of Series A Preferred Stock to Series A Common Stock, with the board s approval at the rate of 1,000 shares of Series A Common Stock for every one share of Series A Preferred Stock owned or held by them, respectively and shall have redemption rights under the terms that shall be fixed, from time, by the written consent of a corporate action approved by not less than 51 of the holders of the corporation's shareholder voting rights. 
+ Consideration for Shares. The shares of the Series A Preferred Stock issued in future shall be issued for such consideration as shall be fixed, from time to time, by the board of directors. 
+ Action of Series A Preferred Stockholders. The holders of 51 or greater of shareholder voting rights may affect any corporate action by written consent when the holders of any shares of the aforementioned series of stock act separately or collectively. 
+ Amendment to Articles of Incorporation. No amendment, alteration, change, or repeal may be made to our Articles without the affirmative vote of the holders of not less than fifty-one (51 of the shareholder voting rights. 
+ Adoption and Amendment of Bylaws. The affirmative vote by the holders of not less than 51 of the corporation's shareholder voting rights shall be required to amend or restate our bylaws. 
+ Recapitalizations Affecting Outstanding Securities. The board of directors may not, without the consent of the holders of not less than 51 of our shareholder voting rights, adopt any plan of reorganization or recapitalization affecting the outstanding securities of the corporation, including, but not limited to effecting a forward or reverse split of all of the outstanding securities of the corporation or the declaration of any dividend to the holders of any class or series of our Common Stock. 
+ 
+ Issuance of Common Stock 
+ 
+ Our Series A Common Stock Common Stock is identified and quoted over the Pink Tier electronic intermediary quotation system managed by OTC Markets Group Inc. under SDVI (US.SDVI.PK). As of the date of this Report, we are authorized to issue seven billion shares of our Common Stock, and Five Billion Six Hundred Forty-Six 
+ 16 shares of our Common Stock, par value per share, are issued and outstanding. The CUSIP identifier for our Common Stock is 82668Y106. 
+ 
+ The voting powers, designations, preferences, limitations, restrictions, and relative, participating, optional, and other rights, and the qualifications, limitations, or restrictions thereof, of our Common Stock are as follows: 
+ 
+ Dividend Rate. Subject to the rights of holders of the Series A Preferred Stock having preference as to dividends and except as otherwise provided by our Articles of Incorporation, as amended Articles ), or the 
+ Delaware Statutes DS ), the holders of Series A Common Stock shall be entitled to receive dividends when, as, and if declared by the board of directors out of assets legally available therefor. 
+ Voting Rights. Except as otherwise provided by DS, each holder of a duly authorized and issued share of the Series A Common Stock shall be entitled to one vote for each share held by him. No holder of shares of Series A Common Stock shall have the right to cumulate votes. 
+ Liquidation Rights. In the event of liquidation, dissolution, or winding up of our affairs, whether voluntary or involuntary, subject to the prior rights and reservations by holders of the Series A Preferred Stock, the holders of shares of the Series A Common Stock can share ratably in our assets, and shall share equally and ratably in our assets available for distribution after giving effect to any liquidation preference of any shares of the Series A Preferred Stock. A merger, conversion, exchange, or consolidation of the Company with or into any other person or sale or transfer of all or any part of our assets (which shall not in fact result in our liquidation and the distribution of our assets to stockholders) shall not be deemed to be a voluntary or involuntary liquidation, dissolution, or winding up of our affairs. 
+ No Conversion, Redemption, or Preemptive Rights. The holders of Series A Common Stock shall not have any conversion, redemption, or preemptive rights. 
+ Consideration for Shares. The Series A Common Stock authorized by our Articles shall be issued for such consideration as shall be fixed, from time to time, by the board of directors. 
+ 
+ Change in Control. On December 14, 2015, our former CEO and Board member and the holder of the overwhelming majority of the number of shares of our Preferred Stock, Kenneth L. Hurley, entered into an agreement with the company; whereby, in exchange for an outstanding debt of two-million 2,000,000.00) and preferred shares owned by Mr. Hurley, Mr. Hurley would release the company from its debt and assign his preferred shares to Charles Townsend Inqubus, Inc. in exchange for common stock issuance. The agreement also has allowed the company to acquire four companies from Inqubus, Inc. under Signature Devices, Inc. that aligns with the new business direction of Signature Devices, Inc. in the Internet of Things space. As the result of this transaction, a change in control occurred and Charles Townsend, a board member, was appointed as our Chairman, President, and Chief Executive Officer. 
+
+, per the settlement agreement with Hurley Family Trust, the thus increasing the common outstanding shares to 6,146,636,426. This also reduced the outstanding preferred shares from 4,950,572 to 4,450,572. 
+ 
+ On , per the settlement agreement with Hurley Family Trust, the thus increasing the common outstanding shares to 6,746,636,426. This also reduced the outstanding preferred shares from 4,450,572 to 3,850,572. 
+ 
+ 17 
+ 
+ . While Graffiti Entertainment will not be a wholly owned subsidiary, it will be majority owned by Signature Devices, Inc. The company will be entering the AI/ML Infrastructure space with the games created by Graffiti Entertainment per our previously announced partnership with Genius Ventures, Inc. 
+ 
+ On , the . The new company address is now 36 Shadow Brook Ln, Lander, WY 82850. The company operates across the globe and has been mostly virtual since the covid pandemic has started. The board decided it was best for the company to not bear the expenses of office space at this time. 
+ The Issuer s Business, Products and Services 
+ 
+ As of 2019 the Company is focusing on the Mobile applications and Internet of Things business and with acquisition of Nano 101 on the hemp-based topical space. The Company s fiscal year coincides with the calendar year. Our Primary SIC code is 7372 Prepackaged Software and the Primary NAICS Code is 511210. 
+ 
+ Industry Overview 
+ 
+ The last twelve months of Internet of Things (IoT) forecasts and market estimates reflect enterprises higher expectations for scale, scope and Return on Investment (ROI) from their IoT initiatives. According to Statista, the global Internet of Things (IoT) market is projected to grow from 2.99T in 2014 to 8.9T in 2020, attaining a 19.92 Compound Annual Growth Rate (CAGR). Industrial manufacturing is predicted to increase from 472B in 2014 to 890B in global IoT spending. Healthcare and life sciences are projected to increase from 520B in 2014 to 1.335T in 2020. 
+ 
+ GrowthEnabler estimated that the global IoT market will grow from 157B in 2016 to 457B by 2020, attaining a Compound Annual Growth Rate (CAGR) of 28.5 . According to GrowthEnabler MarketsandMarkets analysis, the global IoT market share will be dominated by three sub-sectors; Smart Cities (26 ), Industrial IoT (24 and Connected Health (20 ). Followed by Smart Homes (14 ), Connected Cars (7 ), Smart Utilities (4 and Wearables (3 ). 
+ 
+ Bain predicts B2B IoT segments will generate more than 300B annually by 2020, including about 85B in the industrial sector. Advisory firm Bain predicts the most competitive areas of IoT will be in the enterprise and industrial segments. Bain predicts consumer applications will generate 150B by 2020, with B2B applications being worth more than 300B. Globally, enthusiasm for the Internet of Things has fueled more than 80B in merger and acquisition (M A) investments by major vendors and more than 30B in venture capital, according to Bain s estimates. 
+ 
+ With the advancement of hemp extraction technologies, the worry of being exposed to THC (tetrahydrocannabinol), the psychoactive component of the hemp plant, has diminished greatly. This has paved the way for usage of hemp plant components such as Cannabidiol (CBD) and other non-THC phytocannabinoids to be used therapeutically without any deleterious side effects for the user. 
+ 
+ As such, the overall hemp/cannabis industry has experienced continued growth the past few years. The industry is primed for robust growth in the coming years especially with the growing legalization of the plant across the globe. This is especially true in the United States with the recent passage of the Farm Act in 2018 which now classifies the hemp plant as a commodity and legalizes use of hemp plant derivatives such as CBD and CBG (cannabigerol). 
+ 
+ Cannabis Business Plan predicts that the overall cannabis market will reach 24.5 billion by 2021 in North America alone for adult use and medical purposes. By 2027 this amount is expected to grow to 47.3 billion. The CAGR during this period will reach close to 28 . 
+ 
+ Grand View Research projects the global Cannabis market to reach 146.4 billion USD by 2025 with a CAGR of 34.6 during the forecast period. 
+ 
+ We can also look specifically at the Cannbidiol market. According to the Brightfield Group report, with the passing of the 2018 Farm Bill, the Cannbidiol (CBD) market is expected to hit 22 billion USD by 2022. Analysts at Technavio expect the CAGR to be a little above 31 during this period. With continuing global legalization and acceptance of hemp and its 
+ 18 
+ 
+ derivatives, the future looks bright for the global CBD oil market. Demand is especially strong among millennials and younger generations who are more open to alternative hemp-based therapies. 
+ 
+ Corporate Overview 
+ 
+ Signature Devices, Inc. (www.signaturedevices.com) (OTC PINK: SDVI) is a holding company with subsidiaries that develop Internet of Things (IOT) products through its subsidiary Signature Devices Technologies, Inc. 
+ 
+ Signature Devices combines the best of the technologies underpinning the popular Morpheus media server, Knoton s hardware, infrastructure and software as well as CBD patches. The result is a company that blends custom software and powerful hardware IoT-interconnected devices and sells CBD patches through the subsidiary Nano 101. Learn more by visiting: https://www.signaturedevices.com 
+ Signature Devices is a leading software and hardware development company focusing on the Internet of Things (IoT). Four companies were acquired by Signature Devices, Inc. to form a new entity called Signature Devices. Signature Devices develops and manufactures devices for digital home media management under its Morpheus brand, location beacon, and IoT hardware under its Knoton brands. The acquired entities are used to create a connected platform for the Internet of Things. The closing date for the transaction was February 1, 2017. Two of the four companies have revenue. 
+ 
+ Signature Devices blends custom software and powerful hardware to create IoT-interconnected devices. Signature Devices combines the best of the technologies underpinning the popular Morpheus media server; Knoton s innovative hardware designs suitable for internet of things, home automation and GPS enabled devices. 
+ 
+ The Signature Devices Platform is composed of Hardware and Software. The Hardware is designed to be extremely high quality. Some of the hardware is proprietary to Signature Devices. The software is developed in-house and licensed from third party and then integrated into a single platform. The in-house developed hardware and software is also a candidate for potential patents. 
+ 
+ Based at 36 Shadow Brook Lane, Lander WY, with other offices in Roseville, CA and Anthem, AZ, Signature Devices, Inc. combines the best of the technologies underpinning the popular Morpheus media server, Tazerwear s AI Software, Truck IT s beacon platform with Knoton s hardware, infrastructure and software. The result is a company that blends custom software and powerful hardware IoT-interconnected devices. 
+ 
+ With Signature Devices merger acquisition of Nano 101, the company has now entered the burgeoning hemp space, that with passage of the 2018 Farm Act, is primed for robust growth in the coming years across the globe. The major hemp derivative that is expected to see the greatest growth is CBD (Cannabidiol) which provides a variety of therapeutic benefits without the deleterious psychoactive effects of THC (tetrahydrocannabis). Nano 101 has tapped into this CBD market by developing the most powerful CBD topical patch system. In addition, by Q2 2018 Nano 101 introduced its Hemp patch product line. 
+ 
+ Current Products 
+ 
+ Morpheus 
+ Morpheus Media Servers and Players give consumers a high-end media repository that integrates nicely with products like the Apple TV and Roku as well Morpheus s own dedicated ExHBR players. Morpheus offers multiple solutions which are currently sold to distributors and installers. Signature Devices is focusing on producing a direct to consumer version of the product, which is already in beta. The Morpheus servers have been proven in the marketplace and sold to customers in Asia, Europe, South America, North America and the Middle East. The company has generated over 300k in product sales with minimal fanfare. The global market for home media servers is projected to reach 200 billion. 
+ 
+ Morpheus as a platform supports ExHBR (Extreme High Bit Rate) streaming for the high-quality streaming and Ultra High Definition (4K) content. Morpheus s new products already support 4k, the new standard in media resolution. 
+ 19 
+
+Morpheus competitive advantages 
+ 1. Designed for consumers with easy install and setup wizards 
+ 2. It s compact in size and relies local storage 
+ 3. It s based on Extreme High Bit Rate Technology (ExHBR) - High Quality / High performance / High reliability 
+ 4. Standalone or integrate into existing home automation and security systems 
+ 5. The client server architectures are optimized specifically configured for High Definition Audio Video delivery 
+ 
+ Knoton 
+ Knoton is the division responsible for blockchain based IOT devices with supporting software to be used for many IOT based products. The portable device can be used for tracking one s health, a pet s location, a child tracker, smart home automation and other IOT services. The modular platform enables hardware developers to develop their own products using a library of sensor covering health, lifestyle and security. The IoT devices market was valued at 157 billion in 2016. The Knoton product line uses AI based software for smart object recognition and applies those algorithms to sensors and beacons to create events and notifications. 
+ 
+ Knoton competitive advantages 
+ The Knoton specifications have been designed to be scalable in architecture. The devices will have several scalable tiers that share the same exact printed circuit board, enclosure, and industrial design. This will save Signature Devices significant costs in manufacturing. The Knoton adoption is predicted to be very high; the use-cases are many but here are the ones we are pushing for currently: 
+ 
+ 1. Child tracking and Geo-fencing. By utilizing the built-in L5 signal based GPS, motion and ambient sensors, and proprietary circuitry, the Knoton can react to several scenarios that can protect, track, and interact with the child. It is like having a security team with the child watching for any event that can cause any harm to the child. The Knoton is a family bodyguard. 
+ 2. Personal emergency alert and notification system. Anyone can carry the Knoton; in the event of an emergency, the person carrying the Knoton can activate a variety of alarms, messages, audio/video recording, and 911-911 shortcode messages with a press of a button (or a predefined interaction modes such as shock). The Knoton is a personal safety device. 
+ 3. Location identification through GPS and Camera (identified on Google map for immediate navigation). The data sent by the Knoton contains location data, SMS data, cellular data, voice, and video as defined by the user. The Knoton is a multipurpose beacon. 
+ 4. Facial recognition of registered perpetrators (such as sexual predators and offenders). The Knoton views the area surrounding the user looking for faces (by default). These faces are continuously sent to a backend server that uses AI to identify these faces based on newly developed algorithms and alert the Knoton carrier (as in a law enforcement officer or soldier) or parents as in baby or child tracking/monitoring based on predefined criteria. The Knoton is a child safety device. 
+ 5. Infant monitoring and prevention of flip induced sudden death syndrome. The Knoton can be used at home to monitor infants. The infant images are analyzed locally (on the Knoton platform) to produce the fastest reaction time to the infant flipping on their face and prevent flip induced sudden death syndrome. The Knoton is designed to save lives. 
+ 6. Home automation (with the use of the included Wi-Fi connectivity). The Knoton can be used in a home/office Wi-Fi network to act as realistic switches to perform automated tasks such as lighting control, scenario automation, shades control, etc. The Knoton is a device for easy living. 
+ 7. Silent alarm applications. The Knoton s extreme connectivity flexibility enables enterprises, banks, retail places, homes, and any place where a silent alarm is needed to have a silent alarm virtually anywhere needed; inside a drawer, under a desk, inside a walk-in fridge, etc. The Knoton is an always-on alert device. 
+ 8. Military application as a solder wearable device for automatic identification of known and registered terrorists and criminals. The Knoton can identify terrorists in a battlefield making soldiers even safer 
+ 20 
+ 
+ from silent attackers. The military grade Knoton is an extremely powerful asset a solder can have; being able to identify a terrorist between groups of people is tactically crucial for the survival of the soldier. The Knoton is the shield in the battlefield. 
+ 9. Easy setup via Bluetooth. The Knoton has a truly unique method of setting up. Nevertheless, it is easy and intuitive. Using Bluetooth, the user can graphically (easy) setup their Knoton to be in the mode they require. The software takes the user input and translates it into a detailed setup internally customized for the Knoton. The Knoton speaks visual languages. 
+ 10. All day (24 hour) operation via a rechargeable battery through a USB type C connector. The Knoton is truly mobile. 
+ 11. The Knoton is also one of the first IoT devices to be a blockchain device that can verify and securely validate any transaction as well as be future proof to implement a truly decentralized connectivity ecosystem. This device will be a first in the IoT cryptocurrency and cryptography on the go ecosystem. The Knoton is in the chain. 
+ 
+ Nano CBD Patch 
+ The 120mg Nano CBD patch from Nano 101 is the flagship topical Cannabidiol patch the company first launched. Prior to its release quite a bit of research and was done on the optimal topical system to use. The result was a proprietary technology developed in-house. Legalization of hemp derivatives across the globe, especially in the United States with the Farm Bill of 2018, make it an ideal time to introduce a new system of CBD delivery than standard oral preparations (edibles, vapes, etc). The CBD market, which is the largest portion of the overall Cannabis/Hemp market, is expected to hit 22 billion in the US alone by 2022. 
+ 
+ Nano CBD Patch competitive advantages 
+ 1. Next generation topical technology. The Nano CBD patch represents the next evolution in topical delivery systems. Prior to its introduction many topical patches utilized a central reservoir system which was often bulky and had less than ideal effectiveness. The result was an uncomfortable patch that delivered only a fraction of the contents in the central well area. An upgrade to the topical patch was introduced in the mid-2000 s with the topical layered and topical direct systems. Nano CBD patches utilize 5 technologies in one patch developed in-house. Several patents are in the initial planning stage based off these set of technologies. The Nano-Vive technology allows us to extract the dry equivalent weight of the CBD, or any other soluble ingredient, and create a nano particulate pre-infusion matrix that can be placed onto the patch. No messy or bulky central reservoir is required. The patch provides full potency of the infused ingredients. 
+ 2. Extended delivery time. In addition to providing full potency of the dry equivalent weight, the CBD delivery is over an extended period of time. The window is between 8 to 12 hours for most users. This provides more long-term delivery than oral CBD preparations. A large portion of the CBD contained in oral products gets inactivated by digestive processes before entering the blood stream. Furthermore, these products produce an initial surge of CBD then a drastic drop. Topical CBD oil rubs are also highly inefficient and only a small fraction can penetrate the skin in such a viscous format. Nano CBD delivers more stable and long-term CBD without any surge or drops. 
+ 3. Convenient and Simple. Because it is particulate in nature, we are able to pack the full potency of the CBD dosage in a much smaller size than traditional topical patch systems. Our patches are only 1.25 x 1.25 and are very slim as well as discreet. Many users have reported feeling as if nothing is there. Whereas most oral preparations and oils must be taken several times a day, because of the extended period of delivery, only one patch is needed for the day for most users. 
+ 4. Comfortable. The patch utilizes a surgical grade adhesive backing that feels light weight and is comfortable to wear up till 24 hours. Many of the older topical patch systems would start to irritate and chaff the skin after a few hours. Nano CBD patch is easy to apply and also very easy to remove with no pain. The slim design provides lasting comfort during duration of use. 
+ 5. Customization. The Nano CBD Patches can be easily cut with scissors to customize dosage. While we have found 120mg to be the ideal amount for 8+ hours of delivery, some users may in fact require more for their needs. The user can easily add half a patch or even another whole patch to deliver 240mg. The slim design makes for easy cutting of the patches if the user wishes to customize the dosage of CBD. 
+ 21 
+ 
+ 6. High quality. Of primary importance has been the cultivation and extraction of hemp derivatives from the highest quality hemp plants. Our hemp plants are grown in the world-renowned hemp plant belt in Oregon. All plants are grown in a pesticide and toxin free environment, ensuring that the extracted CBD oil is pure and free of extraneous toxic solvents. 
+ 7. High competitive price point. The patches have the highest dosage of any other competitor on the market and are made in the USA using the finest quality materials. With our production capabilities we are able to price them far below the nearest competitor. As an example previously discussed, Marys Medicinals offers a 10mg patch with older patch technology at 10 for a 10mg patch. 6 such patches would be around 60. Nano 101 Technology is able to sell at retail 6 120MG patches for only 48 USD. Nano 101 Technology is primed to offer the most advanced CBD and hemp topical systems at a price point unbeatable by other patch manufacturers. 
+ 
+ Pure Hemp Patch 
+ The 75mg Pure Hemp patch was launched during Q2 2018 and is 2nd in the Nano 101 Technology topical patch line. It offers all the competitive advantages that Nano CBD patch offers but is infused with a different pre-infusion matrix rich with hemp derived phytocannabinoids and terpenes. 
+ 
+ Competition 
+ Morpheus s competitors are Kaleidescape, Imerge, and VidaBox. Both are U.S. based companies with an established product offering. However, they operate at different price points with Kaleidescape and Imerge on the higher end of the price range (as high as 25,000) and VidaBox in the same target tier for Morpheus 1,000SRP). Highlights of the main differentiating factors are illustrated below: 
+
+Storage 
+ Blu-Ray 
+ Rip 
+ HD Rip/ 
+ Vie 
+ Multi- 
+ Region 
+ Platform 
+ Music 
+ Streaming 
+ Internet 
+ Radio 
+ Price 
+ 
+ Morpheus Pro 
+ 8TB 
+ Yes 
+ Yes 
+ Yes 
+ Linux 
+ 5 ports 
+ 5 zones 
+ 3000 
+ (+ 299/Client) 
+ 
+ Morpheus Consumer 
+ NAS 
+ Externa 
+ Yes 
+ Yes 
+ Linux 
+ 1 port 
+ 1 zone 
+ 999 (+299 /client) 
+ 
+ VidaBox 
+ 4TB 
+ Yes 
+ No 
+ Yes 
+ Win 
+ 0 
+ 0 
+ 11,500 
+ (+ 700/Client) 
+ 
+ Kaleidescape 
+ 4TB 
+ No 
+ No 
+ No 
+ Linux 
+ 0 
+ 0 
+ 17,000 
+ (+ 2,500/Client) 
+ 
+ Fusion Research 
+ 4TB 
+ Yes 
+ Yes 
+ Yes 
+ Linux 
+ 0 
+ 0 
+ 5,000 
+ (+1200/Client) 
+ 
+ ADMS Crestron 
+ 4TB 
+ No 
+ No 
+ No 
+ Win 
+ 0 
+ 0 
+ 9,000 
+ 
+ Imerge 
+ 3TB 
+ Yes 
+ Yes 
+ No 
+ Win 
+ 0 
+ 0 
+ 11,000 (+ 
+ 3500/Client) 
+
+While the CBD space is expected to be flooded with a variety of products with the recent passing of the Farm Bill, the topical space is currently very limited in terms of competition. The conversion of CBD into a long term 8+ hour delivery patch requires the infusion of the oil onto a patch matrix of sort. Most of the competitors of Nano 101 technology use a central reservoir patch delivery system that was first developed in in the 1970s. These systems are often quite bulky and cumbersome to leave on for extended periods of time. Major competitors in this arena include Marys Nutrionals, Pure Ratios CBD patch, and Papa Barkley s. These patches utilize a central reservoir and have a lower dose CBD oil infusion. Several of the Pure Ratio patches are also intermixed with THC. Nano 101 is the first CBD topical company to provide the next generation nano particulate body heat activated patch system. In addition to providing the next generation delivery mechanism, Nano 101 offers the highest dosage at a far more competitive price. For example, a single patch from Marys Nutrionals has 10mg and is priced at 10. Six such patches would retail for 60 USD whereas Nano 101 has priced six 120MG topical patches at 48 retail. 
+ 
+ Business Development 
+ Our business development efforts are focused on 4 main areas: 
+ 22 
+
+Release of the newly designed Knoton along with the use-cases and the marketing plan. The Knoton is a promising device that will take advantage of the ever-growing IoT market. The Knoton will also be designed to be a secure blockchain IoT device that can be weaved into a complete IoT system. Such device when deployed in the thousands or millions of units can then form a complete system that can have profound uses in the crypto-currency and distributed-computation market segment. The IoT market is still in its infancy and developing fast. The Knoton is designed to take advantage of this large market. 
+ Revamping our Morpheus line to maintain a cutting-edge advantage in the media delivery market. A few of the upgrades that are planned are an upgrade to the entire line to 4K and the introduction of a Morpheus device designed for the consumer market rather than just the professional market. 
+ Expand e-commerce marketing for both Nano CBD Plus and Pure Hemp Patch through social media and other online outlets. With the Farm Bill now passed, we expect social media platforms such as Facebook and Google to allow marketing of CBD products on their platforms in the near future. This far restriction of Cannabidiol on these channels has been a major barrier to marketing efforts in the ecommerce space. 
+ Invest in continued SEO efforts for Nano CBD. Sales growth has been driven primarily through organic search traffic on Google and Yahoo. Nano CBD ranks high on major CBD related keywords on both search engines. The company s SEO focus will be to improve on rankings in the coming year on these and more major search keywords for both engines. 
+ Expand digital marketing for the Pure Hemp Patch product line. While CBD may be restricted by the likes of Facebook and Google, Hemp products are allowed. The coming year will see increased marketing budgets directed to Google display, Google Shopping, Google Search, and Facebook marketing. Amazon also allows hemp products and is an online shopping platform that we will target heavily. 
+ Diversifying product lines under both Nano CBD and Pure Hemp. Passing of the Farm Bill has allayed concerns with many potential customers. Nano 101 Technology plans on developing topical patches of varying strengths and sizes to serve the needs of consumers desiring stronger or a lower dosage of CBD oil in their patches. 
+ Nano CBD will also develop a variety of formulations that includes CBD with other natural herbal remedies. Development has already begin on producing topical systems that may help with certain conditions such as joint pain or insomnia. This would be the first not only in the topical patch space but in the overall CBD market which thus far has been restricted to CBD only preparations. 
+ 
+ Investment in Growth 
+ 
+ During 2019, Signature Devices plans to invest in additional business development resources to drive awareness and adoption of the platform to targeted customers. We also plan to invest in additional features and technology such as IoT and Media Servers. We also intend to continue investing in research and development related to further increase our product offering and competitive advantage. The goal of these development efforts will be to maximize market penetration across our multiple streams of income within the Internet of Things while improving the user experience. 
+ 
+ Signature Devices will take a three-pronged investment growth strategy with the acquired Nano 101 property. The first will be expansion of digital marketing efforts of its Pure Hemp product line. While CBD is still restricted, Hemp labeled products are allowed for marketing and sale on Google, Facebook, and the Amazon marketplace. With our recent investment in Google Shopping for Pure Hemp patch, returns have been in the 4x to 5x region of investment. We see high potential to push the hemp product line on these e-commerce marketing platforms. We have also allocated a significant amount of energy towards continued research and development especially with our CBD products. With the Farm Bill passing we expect to release a variety of patches with varying strengths and with custom formulations. Our third strategy is to invest placing our products in traditional brick mortar retail stores. Our initial focus is on smaller practitioner s offices (chiropractor offices, naturopaths, homeopaths, etc.), wellness centers, dispensaries, vape shops because of easier markets to these distribution channels. Eventually larger retail spaces will be targeted such as major name pharmacies and retail stores (CVS, Walgreens, Target, Walmart, etc.). 
+ 
+ Business Development 
+ 
+ Innovo Technology is currently selling through distributors in several countries. In the last 3 years Innovo Technology has built a solid name synonymous with high quality software and hardware. The current product lines in production is 
+ 23 
+ 
+ Morpheus, which is geared towards the professional installers and professional home automation integrators. We will continue to grow our international distributor base and US dealer base. 
+ 
+ Signature Devices will invest heavily in R D, grow the current manufacturing relationships to produce its products, and focus on marketing and selling activities. The company plans on growing USA based operations while increasing its overseas programming joint ventures. 
+ 
+ Our business development efforts are focused on three main areas. The first is expand in the private media server. The second is focus on providing IoT devices for campus and personal security. The third area of focus is expand the TruckIT app based on technology by Knoton further into the US market. This translates to revenue generation from selling physical hardware, providing cloud services and monthly subscription fees. 
+ 
+ Business development plans for Nano 101 Technology will take have three goals. Our first goal is to expand on the ecommerce marketing platforms that are available to use. Even though Google, Facebook, and Amazon our currently reticent to sponsor CBD products, we can still utilize other digital commerce channels to market the patches. While organic traffic alone has been quite extraordinary in terms of sales, a heavy investment in avenues that will allow CBD would be a huge bonus. 
+ 
+ We will also continue to push Pure Hemp patch through Google, Amazon and Facebook as Hemp related products are permitted. Recent marketing campaigns, in particular Google shopping, have been a huge plus for us with 4 to 5x returns. The dearth of hemp patches on Amazon is also a big competitive advantage. 
+ 
+ Finally, we will have continued research and development in expanding our topical product lines. We expect to have patches of varying strengths and sizes. For example, we have plans of a larger sized patch that utilizes our next generation technology, with double to triple the dose of CBD. We also have lower strength CBD topicals in the planning stage. One of the most exciting aspects of our research is in the development of CBD infused formulations with other herbal ingredients to create patches to possibly treat different symptoms such as joint pain, insomnia, and anxiety. 
+ 
+ This coming year will also see a heavy push for us to infiltrate the retail space. We have already developed lucrative relations with small retail health stores, alternative medicine clinics, and dispensaries. We will continue to expand and have both Pure Hemp and CBD patches in stores across the nation. Our initial strategy has been working with smaller retail outlets but plans are underway to introduce our custom CBD formulations in larger more established chains such as CVD, Walgreens, Target, etc. 
+ 
+ Intellectual Properties Licenses 
+ Our success and ability to compete are substantially dependent upon our internally developed technology and expertise. 
+ 
+ We rely on patent, copyright, trade secret, and trademark law to protect our technology. We currently have several patent applications pending. We also believe that factors such as the technological and creative skills of our personnel, and new product developments and enhancements are essential to establishing and maintaining a technology leadership position. There can be no assurance that others will not develop technologies that are similar or superior to our technology. 
+ Our success will depend in part upon our ability to protect our intellectual property rights. We cannot be certain that other parties will not contest our intellectual property rights. 
+ 
+ Employees 
+ As of the date of this report, we employed one full-time employee, Charles Townsend who serves as our Chairman of the Board, Acting Secretary, and Acting Treasurer, and interim Chief Executive Officer. Other employees are not named. We consider our relations with our employees to be excellent. We are not a party to any collective bargaining agreements. 
+ 
+ Issuer s Facilities 
+ 
+ We do not own any real property. Our main mailing address and office is at 36 Shadow Brook Lane, Lander WY, 82850 Previously we leased an office at 26060 Acero Mission Viejo, California. 
+ 24 
+ 
+ Officers, Directors, and Control Persons 
+ 
+ In responding to this item, please provide the names of each of the issuer s executive officers, directors, general partners and control persons (control persons are beneficial owners of more than five percent (5 of any class of the issuer s equity securities), as of the date of this information statement. 
+ 
+ A. Names of Officers, Directors, and Control Persons . 
+ 
+ The following table sets forth information regarding our executive officers, directors and significant employees, including their ages as of December 31, 2020: 
+ 
+ Name and Principal Position 
+ 
+ Age 
+ 
+ Term of Office 
+ 
+ Approximate 
+ hours per 
+ week 
+
+Charles Townsend / Chairman 
+ 
+ 53 
+ 
+ August 2013 
+ 
+ 20 
+
+Charles Townsend, Interim CEO Chairman and Secretary 
+ 
+ Mr. Townsend is an experienced manager, who draws on 15 years of experience. Mr. Townsend brings expertise adept for tracking revenues and implementing effective sales techniques to achieve productivity goals. 
+ 
+ Control Persons 
+
+Cede Co. 
+ 570 Washington Blvd. 
+ Jersey City, New Jersey 07310 
+
+Charles Townsend / Chairman 
+
+B. Legal/Disciplinary History . There is no pending litigation as of the date of this report. 
+ 
+ During the last five years, excluding traffic violations and minor offenses, our officers and director and our control shareholder, Charles Townsend, have not been 
+ 
+ 1. convicted in a criminal proceeding or named as a defendant in a pending criminal proceeding; 
+ 
+ 2. the subject of an entry of an order, judgment, or decree, not subsequently reversed, suspended, or vacated, by a court of competent jurisdiction, that permanently enjoined, barred, suspended, or otherwise Mr. Townsend s involvement in any type of business, securities, commodities, or banking activities; 
+ 
+ 3. the subject of a finding or judgment by a court of competent jurisdiction (in a civil action), the Securities and Exchange Commission, the Commodities Futures Trading Commission, or a state securities regulator of a violation of U. S. Federal or state securities or commodities trading laws, which finding or judgment has not been reversed, suspended, or vacated; or 
+ 
+ 4. The subject of an order by a self-regulatory organization that permanently or temporarily barred, suspended, or otherwise limited Mr. Townsend s involvement in any type of business or securities activities. 
+ 
+ Mr. Townsend is not a disqualified person under Rule 230.262, Rule 230.505(b)(2)(iii), and Rule 230.506(d)(2)(ii) of the Securities and Exchange Commission. 
+ 
+ C. Beneficial Shareholders . 
+ 25 
+
+Beneficial owner is a legal term where specific property rights use and title in equity belong to a person even though legal title of the property belongs to another person. 
+ 
+ In determining the beneficial ownership percentages, we have calculated out on a fully diluted basis, the voting rights of Preferred Series A shares and Common Series A. Preferred Series A shares have conversion and voting rights of one preferred share to 1,000 common shares. This makes the Preferred Share Series A shareholders beneficial owners of common stock with voting rights. Additionally, the Preferred B shares gives our Directors super majority voting rights 
+ 
+ Name and Address 
+ Common Shares Owned 
+ 
+ Percentage of Common Stock Outstanding on December 31, 2020 
+ 
+ Cede Co. 
+ 570 Washington Blvd. 
+ Jersey City, New Jersey 07310 
+ 2,180,404,935 
+ 
+ 27.08 
+
+Name and Address of Shareholder 
+ Shares of Series A Preferred Stock Owned 
+ Percentage of Series A Common Stock Outstanding on December 31, 2020 
+ 
+ Charles Townsend 
+ 26060 Acero, Mission Viejo, 92691, California 
+ 
+ 2,518,658 
+ 31.28 
+ 
+ Inas Azzam 
+ 26060 Acero, Mission Viejo, 92691, California 
+ 
+ 538,294 
+ 6.68 
+
+Name and Address of Shareholder 
+ Shares of Series B Preferred Stock Owned 
+ Percentage of Series B Voting rights December 31, 2020 
+ 
+ Charles Townsend 
+ 26060 Acero, Mission Viejo, 92691, California 
+ 
+ 6,550 
+ 65.5 
+
+Our directors currently control a majority of voting rights. Accordingly, our directors can solely determine and control all corporate decisions, even if such decisions may not be in the best interest of minority shareholders . 
+ 
+ The holders of our Series B Preferred Stock have voting rights with respect to the business, management, or affairs of the corporation in the amount of 1 of the voting rights for all classes of stock per 100 shares of the Preferred B shares on the record date of the vote. Thus, Mr. Townsend, by virtue of owning a majority of this stock, has 65.5 voting super voting rights, giving him control of the Company. 
+ 26 
+ 
+ Capitalization 
+ 
+ Class of Stock 
+ Par Value 
+ Authorized 
+ Outstanding as of 
+ December 31, 2020 
+ 
+ Class A Preferred Stock, Series 1 
+ 0.0001 
+ 10,000,000 
+ 4,960,572 
+ 
+ Preferred Stock, Series B 
+ 0.0001 
+ 20,000 
+ 9,100 
+ 
+ Common Stock 
+ 0.0001 
+ 7,000,000,000 
+ 5,646,636,426 
+
+Description of Securities 
+ 
+ The Common Stock 
+ 
+ We are authorized to issue 7,000,000,000 shares of Common Stock, 0.00001 par value. The holders of Common Stock are entitled to equal dividends and distributions, with respect to the Common stock when, as, and if declared by the Board of Directors from funds legally available for such dividends. No holder of Common Stock has any preemptive right to subscribe for any of our stock nor are any shares subject to redemption. Upon our liquidation, dissolution or winding up, and after payment of creditors and any amounts payable to senior securities, the assets will be divided pro rata on a share-for-share basis among the holders of the shares of Common Stock. All shares of Common Stock now outstanding upon completion of this Offering and conversion of any Preferred Stock, are, and will be, fully paid, validly issued and non-assessable. 
+ 
+ Holders of our Common Stock do not have cumulative voting rights, so that the holders of more than 50 of the shares voting for the election of directors will be able to elect 100 of the directors if they choose to do so, and in that event, the holders of the remaining shares will not be able to elect any members to the Board of Directors. 
+ 
+ The Company has never paid any dividends to shareholders of our Common Stock. The declaration in the future of any cash or stock dividends will depend upon our capital requirements and financial position, general economic conditions, and other pertinent factors. We presently intend not to pay any cash or stock dividends in the foreseeable future. Management intends to reinvest earnings, if any, in the development and expansion of our business. No dividend may be paid on the Common Stock until all Preferred Stock dividends are paid in full. 
+ 
+ Description of Property 
+ We do not own any real property. We lease an office in 2091 Business Center Dr, Irvine, CA 92612. The previous location of our headquarters was located at 30 N. Gould St, Suite 5187, Sheridan, WY 82801. 
+ 
+ Legal Proceedings 
+ There is no pending litigation as of the date of this report. 
+ 
+ During the last five years, excluding traffic violations and minor offenses, our sole officer and director and our control shareholder, Charles Townsend, has not been 
+ 
+ a) convicted in a criminal proceeding or named as a defendant in a pending criminal proceeding; 
+ b) the subject of an entry of an order, judgment, or decree, not subsequently reversed, suspended, or vacated, by a court of competent jurisdiction, that permanently enjoined, barred, suspended, or otherwise Mr. Townsend s involvement in any type of business, securities, commodities, or banking activities; 
+ c) the subject of a finding or judgment by a court of competent jurisdiction (in a civil action), the Securities and Exchange Commission, the Commodities Futures Trading Commission, or a state securities regulator of a violation 
+ 27 
+ 
+ of U.S. federal or state securities or commodities trading laws, which finding or judgment has not been reversed, suspended, or vacated; or 
+ d) the subject of an order by a self-regulatory organization that permanently or temporarily barred, suspended, or otherwise limited Mr. Townsend s involvement in any type of business or securities activities. 
+ 
+ Mr. Townsend is not a disqualified person under Rule 230.262, Rule 230.505(b)(2)(iii), and Rule 230.506(d)(2)(ii) of the Securities and Exchange Commission. 
+ Third Party Providers 
+ 
+ The following list sets forth the name, address, telephone number, and e-mail address of each outside provider of professional services to the Company relating to operations, business development, and disclosure: 
+ 
+ Stock Transfer Agent. 
+ Action Stock Transfer Corporation 2469 E. Fort Union Blvd., Suite 214 Salt Lake City, UT 84121 
+ Telephone: (801) 274-1088 
+ Website: www.actionstocktransfer.com. 
+ 
+ Exhibits 
+ 
+ Exhibit 31 - Issuer Certification 
+ 28 
+
+<EX-31>
+ 2
+ sd_ex31.htm
+ CERTIFICATION
+
+Certification 
+
+Issuer Certification. 
+ 
+ I, Charles Townsend, certify that: 
+ 
+ 1. I have reviewed this issuer s Annual Report of Signature Devices, Inc., a Delaware corporation. 
+ 2. Based on my knowledge, this disclosure statement does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this disclosure statement, and 
+ 3. Based on my knowledge, the financial statements, and other financial information included or incorporated by reference in this disclosure statement, present in all material respects the financial condition, results of operations, and cash flows of the issuer as of December 31, 2020 the periods presented in this disclosure statement. 
+
+DATED: August 23, 2021 
+ 
+ /s/Charles Townsend 
+ Charles Townsend 
+ Chairman of the Board 
+
+</EX-31>
+
+<EX-101.CAL>
+ 3
+ sdv-20201231_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 4
+ sdv-20201231_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 5
+ sdv-20201231_lab.xml
+ XBRL TAXONOMY EXTENSION LABELS LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 6
+ sdv-20201231_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
+<EX-101.SCH>
+ 7
+ sdv-20201231.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+

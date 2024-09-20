@@ -1,0 +1,4852 @@
+<Header>
+<FileStats>
+    <FileName>20211013_10-K_edgar_data_725394_0001683168-21-004821.txt</FileName>
+    <GrossFileSize>4648161</GrossFileSize>
+    <NetFileSize>173415</NetFileSize>
+    <NonText_DocumentType_Chars>315408</NonText_DocumentType_Chars>
+    <HTML_Chars>1382812</HTML_Chars>
+    <XBRL_Chars>1460403</XBRL_Chars>
+    <XML_Chars>1166323</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-21-004821.hdr.sgml : 20211013
+<ACCEPTANCE-DATETIME>20211013171600
+ACCESSION NUMBER:		0001683168-21-004821
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		79
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20211013
+DATE AS OF CHANGE:		20211013
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DALRADA FINANCIAL CORP
+		CENTRAL INDEX KEY:			0000725394
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HELP SUPPLY SERVICES [7363]
+		IRS NUMBER:				383713274
+		STATE OF INCORPORATION:			WY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-12641
+		FILM NUMBER:		211321893
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 LA TERRAZA BOULEVARD
+		CITY:			ESCONDIDO
+		STATE:			CA
+		ZIP:			92025
+		BUSINESS PHONE:		858-283-1253
+
+	MAIL ADDRESS:	
+		STREET 1:		600 LA TERRAZA BOULEVARD
+		CITY:			ESCONDIDO
+		STATE:			CA
+		ZIP:			92025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IMAGING TECHNOLOGIES CORP/CA
+		DATE OF NAME CHANGE:	19970908
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PERSONAL COMPUTER PRODUCTS INC
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 0001683168-21-004821.txt : 20211013
+
+10-K
+ 1
+ dalrada_10k-063021.htm
+ FORM 10-K FOR PERIOD 06-30-21
+
+Table of Contents 
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 10-K 
+
+ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended June 30, 2021 
+
+TRANSITION
+REPORT UNDER SECTION 13 OR 15 (d) OF THE EXCHANGE ACT 
+
+For the transition period from _________ to _________ 
+
+Commission File Number: 000-12641 
+
+DALRADA FINANCIAL CORPORATION 
+
+ (Name of Small Business Issuer in its charter) 
+
+Wyoming 
+ 38-3713274 
+ 
+ (state or other jurisdiction of incorporation or organization) 
+ (I.R.S. Employer ID. No.) 
+
+600 La Terraza Blvd., Escondido, California 92025 
+
+ (Address of principal executive offices) 
+
+858-283-1253 
+
+ Issuer s telephone number 
+
+Securities registered pursuant to Section 12(b)
+of the Act: None 
+
+Securities registered pursuant to Section 12(g)
+of the Act: None 
+
+Title of each class 
+ 
+ Trading Symbol 
+ 
+ Name of each exchange on which registered 
+ 
+ Common Stock, 0.005 par value per share 
+ 
+ DFCO 
+ 
+ None 
+
+Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No
+
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+ No 
+
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes No 
+
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes No
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.
+See the definitions of large accelerated filer , accelerated filer smaller reporting company, 
+and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ 
+ Accelerated filer 
+ 
+ Non-accelerated filer 
+ Smaller reporting company 
+ 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. Yes No 
+
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Act) Yes 
+No 
+
+State the aggregate market value of the voting
+and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the
+average bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second
+fiscal quarter: 11,849,857. 
+
+As of September 30, 2021, the registrant s outstanding stock
+consisted of 75,721,684 common shares. 
+
+DALRADA FINANCIAL CORPORATION. 
+
+Table of Contents 
+
+PART I 
+
+Item 1. 
+ Description of Business 
+ 1 
+ 
+ Item 1A. 
+ Risk Factors 
+ 2 
+ 
+ Item 1B. 
+ Unresolved Staff Comments 
+ 2 
+ 
+ Item 2. 
+ Description of Property 
+ 2 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 3 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 3 
+
+PART II 
+
+Item 5. 
+ Market for Common Equity, Related Stockholder Matters and Small Business Issuer Purchases of Equity Securities 
+ 4 
+ 
+ Item 6. 
+ Selected Financial Data 
+ 6 
+ 
+ Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operation 
+ 6 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 12 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 13 
+ 
+ Item 9. 
+ Changes in and Disagreements With Accountants on Accounting and Financial Disclosure 
+ 44 
+ 
+ Item 9A. 
+ Controls and Procedures 
+ 44 
+ 
+ Item 9B. 
+ Other Information 
+ 45 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 46 
+ 
+ Item 11. 
+ Executive Compensation 
+ 40 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 52 
+ 
+ Item 13. 
+ Certain Relationships, Related Transactions and Director Independence 
+ 53 
+ 
+ Item 14. 
+ Principal Accountant Fees and Services 
+ 55 
+ 
+ Item 15. 
+ Exhibits and Financial Statement Schedules 
+ 55 
+
+Signatures 
+ 56 
+
+i 
+
+PART I 
+
+Item 1. Description of Business 
+
+Company Overview 
+
+Dalrada Financial Corporation, Dalrada ),
+was incorporated in September 1982 under the laws of the State of California and reincorporated in May 1983 under the laws of the State
+of Delaware and reincorporated on May 5, 2020 under the laws of the state of Wyoming, trades under the symbol, OTC Pink: DFCO. 
+
+The Company s operating subsidiaries Dalrada
+Precision, Dalrada Health Products, and Dalrada Technologies offer high-value innovative alternative solutions to businesses and consumers
+worldwide. With a global footprint in Malaysia, UK, India, and United States, the Company is well-positioned to supply products and services
+with the ability to make a meaningful impact in environmental sustainability, healthcare, and business growth leveraging technology. Driven
+by passionate and dedicated people, Dalrada s mission is to introduce disruptive solutions by offering a different approach to solving
+global problems. 
+
+In June 2018, the Company created a new subsidiary,
+Dalrada Precision Corp. Dalrada Precision ), a mechanical contract provider. Dalrada Precision extends the client its engineering
+and operations team by helping devise bespoke manufacturing solutions tailored to their products. Dalrada Precision can enter at any stage
+of the product lifecycle from concept and design to mass production and logistics. In October 2018, the Company created a new subsidiary,
+Dalrada Health Products Corp Dalrada Health ). Dalrada Health partners with client companies for the manufacturing 
+distribution of medical disposables, hospital equipment and furniture, medical devices, laboratory and dental products, and sanitizing,
+disinfectant and PPE products services. 
+
+ On December 6, 2019, Dalrada, via its wholly owned
+subsidiary, Dalrada Precision, acquired, by stock exchange agreement, 100 of Likido Ltd. (HQ) Likido in exchange of 6,118,000
+shares of the Company s common stock. Likido, a United Kingdom engineering-design company, is based in Edinburgh, Scotland. Likido
+is an international engineering company developing advanced solutions for the harvesting and recycling of energy. Using its novel, heat
+pump systems (patent pending), Likido is working to revolutionize the renewable energy sector with the provision of innovative modular
+process technologies to maximize the capture and reuse of thermal energy for integrated heating and cooling applications. With uses across
+industrial, commercial and residential sectors, Likido provides cost savings and the minimized carbon emissions across global supply chains.
+Likido's technologies enable the effective recovery and recycling of process energy, mitigating against climate change and enhancing quality
+of life through the provision of low-carbon heating and cooling systems. In connection with the purchase of Likido, the Company invested
+cash consideration of 600,000 (see Note 3). 
+
+On January 9, 2020, Dalrada purchased seventy
+two percent (72 of the issued and outstanding common equity shares of Prakat Solutions Inc. a Texas corporation, Prakat ).
+The purchase was made by means of a Stock Purchase Agreement SPA ). The consideration for the share purchase was three million
+six hundred thousand, (3,600,000) common shares of DFCO. Prakat has a wholly owned subsidiary based in India, Prakat Solutions Private
+Limited, which provides global customers with software and technology solutions specializing in Test Engineering, Accessibility Engineering,
+Product Engineering and Application Modernization. The Prakat India team provides end to end Product Engineering services across various
+domains, including Banking Financial Services, Telecom, Retail, Healthcare, Manufacturing, Legal and IT Infrastructure.
+Prakat India is an ISO 9001 Certified Company. 
+
+On or about March 23, 2020, Dalrada Health Products
+Corporation acquired one hundred percent (100 of the ownership of Shark. Shark is a cleaning solutions provider using electrostatic
+machines to spray and deodorize residential spaces, healthcare facilities, hospitality, transportation, manufacturing, automotive, schools/education
+systems, and other facilities requiring cleaning services. Through the acquisition of Shark, Dalrada Health Products developed the GlanHealth
+Brand (dba of Dalrada Health Products Corporation) to distribute alcohol-free hand sanitizers, surface cleaners, laundry aides, antimicrobial
+solutions, electrostatic sprayers, face masks, gloves, kits, and delivery equipment such as dispensers, stands, and ease of use packaging
+for the end consumer. GlanHealth leverages an extensive supply chain of producers, resellers, distributors, vendors, and formulators for
+the development, sale, and marketing of its products and services. 
+
+1 
+
+On January 29, 2021, Dalrada Health entered into
+a stock purchase agreement and acquired one hundred percent (100 of the issued and outstanding shares of International Health Group,
+Inc., a California corporation IHG ). The purchase price consideration is 1,000,000 common shares of DFCO, with no shares
+to be released upon closing and 1,000,000 shares released quarterly over the course of twenty-four months beginning on April 1, 2021.
+IHG provides highly trained nursing and medical assistants for hospitals and home health facilities since 2006. IHG Medical Assistant
+programs include Certified Nursing Assistant an and Home Health Aide HHA training and the fast-track
+22-Day CNA Certification Program at its state-approved testing facility. 
+
+On February 3, 2021, Dalrada Health entered into
+a unit purchase agreement and acquired one hundred percent (100 of the issued and outstanding membership units of Pacific Stem Cells,
+LLC, a California limited liability company Pacific Stem ). The purchase price consideration is 352,000 in cash and 1,000,000
+common shares of DFCO, with 300,000 shares to be released upon closing and the remaining 700,000 shares released quarterly over the course
+of twenty-four months. Pacific Stem provides regenerative therapy as a potential solution for the prevention, detection, and treatment
+of cellular breakdown associated with aging and a variety of other conditions. 
+
+On April 21, 2021, the Company closed the transaction
+by moving into a Membership Interest Purchase Agreement to acquire Ignite IT LLC Ignite ). The Company acquired all of the
+issued and outstanding membership interests, including business plans and access to contacts of Ignite. In consideration for the acquisition,
+the Company issued a promissory note for 20,000. 
+
+Dalrada Health continues to explore additional products and services
+within the immunization and personal protective equipment industry. 
+
+Research and Development 
+
+We spent approximately 520,000 and 470,000 on
+research and development activities during the years ended June 30, 2021 and 2020, respectively. We anticipate that we will incur additional
+expenses on research and development over the next 12 months. Our planned expenditures on our operations or a business combination are
+summarized under the section of this annual report entitled Management s Discussion and Analysis of Financial Position and
+Results of Operations . 
+
+Item 1A. Risk Factors 
+
+Not applicable to smaller reporting companies. 
+
+Item 1B. Unresolved Staff Comments 
+
+Not applicable to smaller reporting companies. 
+
+Item 2. Description of Property 
+
+Dalrada leases space at 600 La Terraza Blvd., Escondido, California
+92025. On May 1, 2020, the Company, entered into a five-year lease agreement. 
+
+In May 2020, the Company entered into three-year
+lease agreement to lease a warehouse in Brownsville, Texas. 
+
+The Company s Prakat subsidiary entered
+into a lease agreement to lease office space through September 2026. 
+
+In August 2020, the Company s Likido subsidiary
+entered in a new operating agreement for warehouse space. The lease matures in July 2021. 
+
+In June 2017, the Company s IHG subsidiary entered into a lease
+for 3 separate office suites in San Diego, California. The lease expires in January 2022. 
+
+In May 2021, the Company s PSC subsidiary entered into a three
+year and 6-month lease agreement to lease a medical office space in Poway, California. 
+
+2 
+
+Item 3. Legal Proceedings 
+
+None 
+
+Item 4. Mine Safety Disclosures 
+
+Not applicable to our Company. 
+
+3 
+
+PART II 
+
+Item 5. Market for Common Equity, Related Stockholder Matters and
+Small Business Issuer Purchases of Equity Securities 
+
+Market Information 
+
+Our shares of common stock are listed on the OTC
+Markets Pink Sheets under the symbol DFCO. Set forth below are high and low bid prices for our common stock for each quarterly period
+in the two most recent fiscal years. Such quotations reflect inter-dealer prices, without retail mark-up, markdown or commissions and
+may not necessarily represent actual transactions in the common stock. 
+
+Period 
+ High 
+ Low 
+ 
+ Fiscal 2021 
+
+First Quarter ended September 30, 2020 
+ 0.1000 
+ 0.0600 
+ 
+ Second Quarter ended December 31, 2020 
+ 0.3000 
+ 0.2300 
+ 
+ Third Quarter ended March 31, 2021 
+ 0.5100 
+ 0.3300 
+ 
+ Fourth Quarter ended June 30, 2021 
+ 0.5100 
+ 0.2300 
+
+Fiscal 2020 
+
+First Quarter ended September 30, 2019 
+ 0.0439 
+ 0.0170 
+ 
+ Second Quarter ended December 31, 2019 
+ 0.0625 
+ 0.0200 
+ 
+ Third Quarter ended March 31, 2020 
+ 0.0600 
+ 0.0282 
+ 
+ Fourth Quarter ended June 30, 2020 
+ 0.1190 
+ 0.0320 
+
+Number of Holders 
+
+As of September 30, 2021, there were 75,721,684
+issued and outstanding shares of common stock were held by a total of 568 shareholders of record. 
+
+Dividends 
+
+No cash dividends were paid on our shares of common
+stock during the fiscal years ended June 30, 2021 and 2020. We have not paid any cash dividends since our inception and do not foresee
+declaring any dividends on our common stock in the foreseeable future. 
+
+Recent Sales of Unregistered Securities 
+
+Common Stock: 
+
+2021 Transactions 
+
+On July 9, 2020 the Board authorized the Dalrada
+Financial Corp 2020 stock compensation plan to be used to compensate the company board of directors. The plan allocates the issuance of
+up to 3,500,000 shares. On February 25, 2021, the Company amended the plan to issue up to 4,500,000 shares and issued an aggregate of
+4,500,000 common shares, or 500,000 shares to each board member (9). 3,500,000 shares of common stock were granted on July 9, 2020 at
+ 0.08 per share and 1,000,000 shares of common stock were granted on February 25, 2021 at 0.45 per share, for a total fair value of 730,000,
+which is included in the consolidated statements of operations 
+
+4 
+
+Effective January 22, 2021, the Company acquired
+a 3 interest in CHP Industrial Solutions SDN BHD CHP and issued 361,420 common shares, valued at 93,969, to Yam Hong
+Leong the sole shareholder of CHP. 
+
+Effective January 29, 2021, the Company acquired
+100 of the common stock of IHG. In consideration for the acquisition, the Company will issue a total of 1,000,000 shares of its common
+stock at 0.44 per share, or a total fair value of 440,000. 
+
+Effective February 3, 2021, the Company acquired
+100 of the membership units of Pacific Stem. As common stock consideration for the acquisition, the Company will issue a total of 1,000,000
+shares of its common stock at 0.354 per share, or a fair value of 354,000. 
+
+On February 25, 2021, the Company issued 300,000
+shares of common stock as part of the consideration for the acquisition of Pacific Stem. 
+
+On April 6, 2021, the Company issued 87,500 shares
+of common stock as part of the consideration for the acquisition of Pacific Stem. 
+
+On April 22, 2021, the Company issued 125,000
+shares of common stock as part of the consideration for the acquisition of IHG. 
+
+2020 Transactions 
+
+Effective December 6, 2019, the Company acquired
+100 of the interests of Likido. In consideration for the acquisition, the Company issued 6,118,000 shares of its common stock at 0.0448
+per share, or a total fair value of 274,086. 
+
+On January 6, 2020 the Company issued Fawad Nisar,
+the Chief Operating Officer, Three Million (3,000,000) common shares of the Company s common stock pursuant to his employment agreement. 
+
+Effective January 9, 2020, the Company acquired
+72 of the common equity shares of Prakat. In consideration for the acquisition, the Company issued 3,600,000 shares of its common stock
+at 0.0450 per share, or a total fair value of 162,000. 
+
+On March 23, 2020, the Company entered into a
+Stock Purchase Agreement to acquire Shark Innovative Technologies Corp. Shark ). The Company acquired all of the issued
+and outstanding common shares, including business plans and access to contacts of Shark. In consideration for the acquisition, the Company
+issued 3,000,000 shares of its common stock at 0.0310 per share, or a total fair value of 93,000. 
+
+In June 2020, the Company converted a promissory
+note dated December 31, 2018 of 40,052 principal and interest owed to TIPP Investments LLC at 0.01 per share, or 3,965,614 restricted
+shares of Dalrada common stock. 
+
+In June 2020, the Company issued 500,000 shares
+of Dalrada common stock to a consultant pursuant to a consulting agreement. 
+
+On May 7, 2019, the Company issued 1,000,000 common
+shares to a related party, with a fair value of 38,585 as a reimbursement of expenses paid by the related party. 
+
+Preferred Stock: 
+
+On November 22, 2019, Brian Bonar was issued 5,000
+shares of its Series F Super Preferred Stock pursuant to its Certificate of Designation filed as of November 8, 2019 with the designations
+and number thereof, powers, preferences, rights, qualifications, limitations and restrictions in exchange for 170 of debt. 
+
+5 
+
+Purchase of our Equity Securities by Officers and Directors 
+
+None. 
+
+Other Stockholder Matters 
+
+None 
+
+Item 6. Selected Financial Data 
+
+Not applicable to smaller reporting companies. 
+
+Item 7. Management's Discussion and Analysis of Financial Condition
+and Results of Operations 
+
+You should read the following discussion
+and analysis in conjunction with our financial statements, including the notes thereto, included in this Report. Some of the information
+contained in this Report may contain forward-looking statements within the meaning of Section 27A of the Securities Exchange Act of 1933,
+as amended (the Act and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ).
+This information may involve known and unknown risks, uncertainties and other factors which may cause our actual results, performance
+or achievements to be materially different from future results, performance or achievements expressed or implied by any forward-looking
+statements. Forward-looking statements which involve assumptions and describe our future plans, strategies and expectations, are generally
+identifiable by the use of the words may, will, should, expect, anticipate, 
+ estimate, believe, intend or project or the negative of these words or other variations
+on these words or comparable terminology. These forward-looking statements are based on assumptions that may be incorrect, and there can
+be no assurance that the projections included in these forward-looking statements will come to pass. Our actual results could differ materially
+from those expressed or implied by the forward-looking statements as a result of various factors. We undertake no obligation to update
+publicly any forward-looking statements for any reason, even if new information becomes available or other events occur in the future. 
+
+Our Independent Registered Public Accounting Firm s
+report contains a statement that our net loss and limited working capital raise substantial doubt about our ability to continue as a going
+concern. Our independent registered public accountants have stated in their report (included in Item 8. Financial Statements) that our
+significant operating losses and working capital deficit raise substantial doubt about our ability to continue as a going concern. We
+incurred net income of 1,221 for the year ended June 30, 2021 and net loss of 2,477,557 during the year ended June 30, 2020. Although
+the Company continues to rely on equity and debt investors to finance its losses, it is implementing plans to achieve cost savings and
+other strategic objectives to address Company profitability. In addition to raising debt and equity financing, the Company continues to
+focus on growing the subsidiaries anticipated to be most profitable while reducing investments in areas that are not expected to have
+long-term benefits. The Company will continue to pursue synergistic opportunities to enhance its business portfolio. 
+
+RESULTS OF OPERATIONS 
+
+The following table sets forth the results of
+our operations for the years ended June 30, 2021 and 2020 : 
+
+6 
+
+Year Ended 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Revenues 
+ 3,406,684 
+ 1,178,154 
+ 
+ Cost of revenues 
+ 2,471,966 
+ 625,916 
+ 
+ Gross profit 
+ 934,718 
+ 552,238 
+ 
+ Operating expenses 
+ 9,504,869 
+ 3,241,335 
+ 
+ Loss from operations 
+ (8,570,151 
+ (2,689,097 
+ 
+ Other income (expenses) 
+ 8,571,372 
+ 211,540 
+ 
+ Net income (loss) 
+ 1,221 
+ (2,477,557 
+
+Revenues and Cost of Revenues 
+
+Revenues as attributable to each entity were as
+follows: 
+
+Year Ended 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Prakat 
+ 1,185,981 
+ 586,780 
+ 
+ Precision 
+ 150,060 
+ 146,887 
+ 
+ Pacific Stem 
+ 652,130 
+
+Health 
+ 514,005 
+ 407,069 
+ 
+ Likido 
+ 331,254 
+
+IHG 
+ 452,246 
+
+Shark 
+ 121,008 
+ 37,418 
+
+3,406,684 
+ 1,178,154 
+
+The acquisition of Prakat occurred in January
+2020, and revenue was generated from the date of acquisition until June 30, 2020, whereas for fiscal 2021, revenue was recorded for an
+entire fiscal year. Dalrada Health s sales activity picked up in 2020 when the Company acquired Shark Technologies and launched
+its GlanHealth product line. The acquisition of Shark Technologies occurred in March of 2020, and revenue was generated from the date
+of acquisition until June 30, 2020, whereas for fiscal 2021, revenue was recorded for an entire fiscal year. Likido s revenue increased
+during 2021 as it was primarily an R D entity during fiscal 2020. 
+
+Operating Expenses 
+
+Operating expenses for the year ended June 30,
+2021 was 9,504,869 compared to operating expenses of 3,241,335 during the year ended June 30, 2020, an increase of 6,263,534. The increase
+in operating expenses was due to an increase in the operating activity as most of fiscal 2020 was spent on the continuing development
+of the Company s proposed business operations. The increase was also partially attributable to non-cash stock compensation, the
+continued development and commercialization of the Likido operation and new business units. 
+
+7 
+
+Other Income (Expense) 
+
+During the years ended June 30, 2021 and 2020,
+the Company recognized 670,272 and 768,361, respectively, of penalties and interest within interest expense on the consolidated statements
+of operations. For years ended June 30, 2021 and 2020, the Company recognized 9,504,041 and 1,229,199, respectively, within Gain
+on expiration of accrued payroll taxes as a result of quarterly tax liabilities that expired during the fiscal years. 
+
+Net Income (Loss) 
+
+Net income for the year ended June 30, 2021 was
+ 1,221 compared to a net loss of 2,477,557 during the year ended June 30, 2020. 
+
+Liquidity and Capital Resources 
+
+As of June 30, 2021, the Company had current
+assets of 1,640,511 and current liabilities of 17,264,374 compared with current assets of 1,251,537 and current liabilities of 17,029,243
+at June 30, 2020. The decrease in the working capital deficit was due to the fact that the Company recovered tax liability during the
+year which was used to offset outstanding obligations. Cash presently on hand is immaterial. The continuation of the Company as a going
+concern is dependent upon the successful financing through equity and/or debt investors and growing the subsidiaries anticipated to be
+profitable while reducing investments in areas that are not expected to have long-term benefits. The Company anticipates an increase
+in sales through the commercialization of the Likido heating and cooling units, the expansion of Prakat s technology services,
+IHG s increased educational footprint, additional GlanHealth sales channels and other new business opportunities (see Subsequent
+Events ). These consolidated financial statements do not include any adjustments to the recoverability and classification of recorded
+asset amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going concern. 
+
+Cash Flows 
+
+Year Ended 
+
+June 30, 
+
+2021 
+
+2020 
+
+Net cash used in operating activities 
+
+(5,583,788) 
+
+(2,392,446) 
+ 
+ Net cash provided by (used in) investing activities 
+
+(385,830) 
+
+12,914 
+
+Net cash provided by financing activities 
+
+5,964,554 
+
+2,463,056 
+
+Net change in cash during the period, before effects of foreign currency 
+
+35,120 
+
+74,202 
+
+Cash flow from Operating Activities 
+
+ During the year ended June 30, 2021, the Company
+used 5,583,788 of cash for operating activities compared to 2,392,446 used during the year ended June 30, 2020. The increase in the
+use of cash for operating activities was primarily due to an overall increase in day-to-day operating costs while the Company continues
+to grow in addition to its new business units. 
+
+8 
+
+Cash flow from Investing Activities 
+
+During the year ended June 30, 2021, the Company
+purchased equipment for 357,691. During the year ended June 30, 2020 the Company purchased equipment for 194,073. 
+
+Cash flow from Financing Activities 
+
+During the year ended June 30, 2021, the Company
+received proceeds of 5,967,054 from the issuance of related party notes payables compared to 2,393,232 received from notes payables
+during the year ended June 30, 2020. 
+
+Off-Balance Sheet Arrangements 
+
+We have no off-balance sheet arrangements that
+have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues
+or expenses, results of operations, liquidity, capital expenditures or capital resources. 
+
+Subsequent Events 
+
+On August 4, 2021, the Company issued 87,500 shares
+of common stock as part of the consideration for the acquisition of Pacific Stem. 
+
+On August 10, 2021, the Company issued 125,000
+shares of common stock as part of the consideration for the acquisition of IHG. 
+
+On August
+16, 2021, the Company issued and aggregate of 2,000,000 shares of common stock to four new directors pursuant to Amendment No.1 of the
+2020 Stock Compensation Plan used to compensate the company board of directors. The Amended plan allocates the issuance of up to 6,500,000
+shares. The 2,000,000 shares issued are valued at 0.28 per share or 560,000. 
+
+In July
+2021, Dalrada, through its subsidiary Dalrada Health, expanded its presence in medical services sector by establishing S las
+Rejuvenation + Wellness Solas which provides science-supported, medically backed services, and creates overall wellness
+programs that are customized to the unique needs of its clients. Solas will be opening its first health services location in October 2021
+where it will provide a myriad of health and wellness treatments and procedures. 
+
+In August 2021, Dalrada, through its subsidiary
+Dalrada Health, entered into a joint venture JV with Vivera Pharmaceuticals, Inc Vivera for a 51 ownership.
+The JV, Pala Diagnostics, LLC Pala is a CLIA-certified diagnostics lab focused on SARS-CoV-2 testing for now with additional
+testing capabilities to be introduced. Pursuant to the partnership agreement, Dalrada had an equity commitment of 500,000 of which
+it achieved during September 2021. Dalrada has invested additional funding to continue the expansion of the SARS-CoV-2 testing while commercial
+insurance and CARES Act reimbursements process claims. Since fiscal year-end, Pala has conducted over 25,000 tests. As part of the JV,
+Dalrada shall also issue two hundred and fifty thousand common shares (250,000) to Vivera. 
+
+Subsequent to year-end, the Company borrowed 366,263
+from Related Entity 1, and borrowed 2,206,718 from Related Entity 3. 
+
+9 
+
+Critical Accounting Policies 
+
+Our financial statements and accompanying notes
+have been prepared in accordance with United States generally accepted accounting principles applied on a consistent basis. The preparation
+of financial statements in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the reporting periods. 
+
+We regularly evaluate the accounting policies
+and estimates that we use to prepare our financial statements. A complete summary of these policies is included in note (1) of the notes
+to our financial statements. In general, management's estimates are based on historical experience, on information from third party professionals,
+and on various other assumptions that are believed to be reasonable under the facts and circumstances. Actual results could differ from
+those estimates made by management. 
+
+Accrued Payroll Taxes 
+
+The total balance for Federal Accrued Payroll
+Taxes is accumulated on a quarterly basis beginning on their respective quarterly filing dates. Accrued Interest is compounded daily at
+an Effective Annual Interest Rate of approximately seven percent. The individual quarterly sub-totals have a calculated expiration date
+of Ten years according to the Internal Revenue Service statute of limitations. This timeline can be extended as a result of bankruptcy
+or other legal action that is filed by the company (Code 520 per IRS Federal Account Transcripts). Code 520 effectively stops the clock
+for the Statute of limitations until the Bankruptcy or other legal action has been removed (Code 521 per IRS Federal Account Transcripts).
+In addition to the number of days between Code 520 and 521, every Code 520 automatically extends the IRS Statute of limitations by 30
+days. As the quarterly sub-totals surpass their respective Calculated Expiration Date the company removes the liability
+from the Consolidated Balance Sheets and an equivalent amount is recognized as Gain on expiration of accrued payroll taxes 
+on the Statements of Operations. The amount owing may be subject to additional late filing fees and penalties that are not quantifiable
+as at the date of these consolidated financial statements. 
+
+Revenue Recognition 
+
+The Company recognizes and accounts for revenue
+in accordance with ASC 606 as a principal on the sale of goods. Pursuant to ASC 606, revenue is measured based on a consideration specified
+in a contract with a customer, and excludes any sales incentives and amounts collected on behalf of third parties. The Company recognizes
+revenue when it satisfies a performance obligation by transferring control over a product or service to a customer. 
+
+Use of Estimates 
+
+The preparation of financial statements in conformity
+with U.S. generally accepted accounting principles (U.S. GAAP) requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the reporting period. These estimates and assumptions take into account historical
+and forward-looking factors that the Company believes are reasonable, including but not limited to the potential impacts arising from
+the novel coronavirus (COVID-19) and related public and private sector policies and initiatives. Actual results could differ from those
+estimates and assumptions. A couple key categories that use estimates are Goodwill, Intangible Assets, and Impairment. 
+
+Stock-Based Compensation 
+
+The Company records stock-based compensation in
+accordance with ASC 718, Compensation Stock Compensation , using the fair value method. All transactions in which goods
+or services are the consideration received for the issuance of equity instruments are accounted for based on the fair value of the consideration
+received or the fair value of the equity instrument issued, whichever is more reliably measurable. Equity instruments issued to employees
+and the cost of the services received as consideration are measured and recognized based on the fair value using quoted market prices
+of the equity instruments issued. 
+
+10 
+
+Business
+Combination 
+
+ASC 805,
+Business Combinations ASC 805 ), applies the acquisition method of accounting for business combinations to all acquisitions
+where the acquirer gains a controlling interest, regardless of whether consideration was exchanged. ASC 805 establishes principles and
+requirements for how the acquirer: a) recognizes and measures in its financial statements the identifiable assets acquired, the liabilities
+assumed, and any non-controlling interest in the acquiree; b) recognizes and measures the goodwill acquired in the business combination
+or a gain from a bargain purchase; and c) determines what information to disclose to enable users of the financial statements to evaluate
+the nature and financial effects of the business combination. Accounting for acquisitions requires the Company to recognize,
+separately from goodwill, the assets acquired and the liabilities assumed at their acquisition-date fair values. Goodwill as of the acquisition
+date is measured as the excess of consideration transferred and the net of the acquisition-date fair values of the assets acquired and
+the liabilities assumed. While the Company uses its best estimates and assumptions to accurately value assets acquired and liabilities
+assumed at the acquisition date, the estimates are inherently uncertain and subject to refinement. As a result, during the measurement
+period, which may be up to one year from the acquisition date, the Company may record adjustments to the assets acquired and liabilities
+assumed with the corresponding offset to goodwill. Upon the conclusion of the measurement period or final determination of the values
+of assets acquired or liabilities assumed, whichever comes first, any subsequent adjustments are recorded to the consolidated statements
+of comprehensive loss. 
+
+Goodwill and Intangible Assets 
+
+The Company accounts for goodwill and intangible
+assets in accordance with ASC 350, Intangibles Goodwill and Other ASC 350 ). ASC 350 requires that goodwill and
+other intangibles with indefinite lives should be tested for impairment annually or on an interim basis if events or circumstances indicate
+that the fair value of an asset has decreased below its carrying value. 
+
+Goodwill is tested for impairment at the reporting
+unit level (operating segment or one level below an operating segment) on an annual basis (June 30 for the Company) and between annual
+tests if an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying
+value. The Company considers its market capitalization and the carrying value of its assets and liabilities, including goodwill, when
+performing its goodwill impairment test. When conducting its annual goodwill impairment assessment, the Company initially performs a qualitative
+evaluation of whether it is more likely than not that goodwill is impaired. If it is determined by a qualitative evaluation that it is
+more likely than not that goodwill is impaired, the Company then applies a two-step impairment test. The two-step impairment test first
+compares the fair value of the Company's reporting unit to its carrying or book value. If the fair value of the reporting unit exceeds
+its carrying value, goodwill is not impaired and the Company is not required to perform further testing. If the carrying value of the
+reporting unit exceeds its fair value, the Company determines the implied fair value of the reporting unit's goodwill and if the carrying
+value of the reporting unit's goodwill exceeds its implied fair value, then an impairment loss equal to the difference is recorded in
+the consolidated statements of operations. There was no impairment of goodwill as of June 30, 2021. 
+
+An intangible asset is an identifiable non-monetary
+asset without physical substance. Such an asset is identifiable when it is separable, or when it arises from contractual or other legal
+rights. Separable assets can be sold, transferred, licensed, etc. Examples of intangible assets include computer software, licenses, trademarks,
+patents, films and copyrights. The Company s intangible assets are finite lived assets and are amortized on a straight-line basis
+over the estimated useful lives of the assets. 
+
+Purchase Price Allocation 
+
+Upon the completion of a business combination,
+the consideration transferred as well as the assets and liabilities acquired must be recorded at their acquisition date fair values. Upon
+identification of the acquirer and determination of the acquisition date, business combinations are accounted for through the preparation
+of a Purchase Price Allocation (PPA). We take into consideration the five steps when completing a PPA: 
+
+ Step 1: Determine the fair value of consideration paid; 
+
+ Step 2: Revalue all existing assets and liabilities (excluding intangible assets and goodwill which are addressed in step 3 to 5 below)
+to their acquisition date fair values; 
+
+ Step 3: Identify the intangible assets acquired; 
+
+ Step 4: Determine the fair value of identifiable intangible assets acquired; and, 
+
+ Step 5: Allocate the remaining consideration to goodwill and assess the reasonableness of the overall 
+
+11 
+
+Related Party Transactions 
+
+Related party transactions are conducted with
+parties with which DFCO has a close association, such as majority owned subsidiaries, its executive, managers, and their families. The
+types of transactions that can be conducted between related parties are many, such as sales, asset transfers, leases, lending arrangements,
+guarantees, allocations of common costs, and the filing of consolidated tax returns. DFCO discloses any transaction that would impact
+the decision making of the users of a company s financial statements. This involves the following disclosures: 
+
+General. DFCO discloses all material related party transactions, including the nature of the relationship, the nature of
+ the transactions, the dollar amounts of the transactions, the amounts due to or from related parties. 
+
+Receivables. DFCO separately discloses any receivables from officers, employees, or affiliated entities. 
+
+Recently Issued Accounting Pronouncements 
+
+In December 2019, the FASB issued ASU No. 2019-12, Income
+Taxes (Topic 740), Simplifying the Accounting for Income Taxes . The amendments in this Update simplify the accounting for income taxes
+by removing certain exceptions to the general principles in Topic 740. The amendments also improve consistent application of and simplify
+GAAP for other areas of Topic 740 by clarifying and amending existing guidance. For public business entities, the amendments in this Update
+are effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2020. For all other entities,
+the amendments are effective for fiscal years beginning after December 15, 2021, and interim periods within fiscal years beginning after
+December 15, 2022. The Company adopted this pronouncement on July 1, 2020, and there was not a material impact on the financial statements. 
+
+In August 2020, the FASB issued ASU 2020-06, Accounting
+for Convertible Instruments and Contracts in an Entity s Own Equity , as part of its overall simplification initiative to reduce
+costs and complexity of applying accounting standards while maintaining or improving the usefulness of the information provided to users
+of financial statements. Among other changes, the new guidance removes from GAAP separation models for convertible debt that require the
+convertible debt to be separated into a debt and equity component, unless the conversion feature is required to be bifurcated and accounted
+for as a derivative or the debt is issued at a substantial premium. As a result, after adopting the guidance, entities will no longer
+separately present such embedded conversion features in equity, and will instead account for the convertible debt wholly as debt. The
+new guidance also requires use of the if-converted method when calculating the dilutive impact of convertible debt on earnings
+per share, which is consistent with the Company s current accounting treatment under the current guidance. The guidance is effective
+for financial statements issued for fiscal years beginning after December 15, 2021, and interim periods within those fiscal years, with
+early adoption permitted, but only at the beginning of the fiscal year. The Company is currently evaluating the impact the adoption of
+ASU 2020-06 will have on its consolidated financial position, results of operations and disclosures. 
+
+We have reviewed all the recently issued, but
+not yet effective, accounting pronouncements and we do not believe any of these pronouncements will have a material impact on the Company. 
+
+Contractual Obligations 
+
+We are a smaller reporting company as defined
+by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide the information under this item. 
+
+ITEM 7A. Quantitative and Qualitative Disclosures
+about Market Risk 
+
+Not applicable to smaller reporting companies. 
+
+12 
+
+Item 8. Financial Statements 
+
+DALRADA FINANCIAL CORPORATION 
+
+Consolidated Financial Statements 
+
+For the Years Ended June 30, 2021 and 2020 
+
+Report of Independent Registered Public Accounting Firm 
+ 14 
+ 
+ Consolidated Balance Sheets 
+ 16 
+ 
+ Consolidated Statements of Operations 
+ 17 
+ 
+ Consolidated Statements of Stockholders Deficit 
+ 18 
+ 
+ Consolidated Statements of Cash Flows 
+ 19 
+ 
+ Notes to the Consolidated Financial Statements 
+ 20 
+
+13 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+To the Board of Directors and 
+Stockholders of Dalrada Financial Corporation 
+
+Opinion on the Financial Statements 
+
+ We have audited the accompanying consolidated
+balance sheets of Dalrada Financial Corporation and subsidiaries (collectively the Company as of June 30, 2021 and 2020,
+the related consolidated statements of operations, stockholders deficit and cash flows, for the years then ended, and the related
+notes (collectively referred to as the consolidated financial statements ). In our opinion, the consolidated financial statements
+present fairly, in all material respects, the consolidated financial position of the Company as of June 30, 2021 and 2020, and the results
+of their operations and their cash flows for the years then ended, in conformity with accounting principles generally accepted in the
+United States of America. 
+
+Basis for Opinion 
+
+ These consolidated financial statements are the
+responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated financial
+statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United
+States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated
+financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we
+engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures
+that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the
+consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by
+management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide
+a reasonable basis for our opinion. 
+
+Going Concern 
+
+ The accompanying consolidated financial statements
+have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the consolidated financial statements,
+the Company has had recurring losses, used cash flows from operating activities and has a significant working capital deficit, which raises
+substantial doubt about its ability to continue as a going concern. Management s plans in regard to these matters are also described
+in Note 1. The consolidated financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Critical Audit Matters 
+
+ The critical audit matter communicated below is
+a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the
+audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially
+challenging, subjective, or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on
+the financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing separate opinions
+on the critical audit matter or on the accounts or disclosures to which it relates. 
+
+14 
+
+Related Party Transactions including Revenue
+Recognition 
+
+ Description of the Matter: 
+
+ As discussed in Notes 2, 6, 7, 8, 9, 10, 12 and
+14 to the consolidated financial statements, the Company has significant related party transactions involving revenue, accounts receivable,
+accounts payable, loans payable, advances, and expenses paid by and to multiple related parties. Our auditing of management s identification
+of related parties and the related transactions including recognition of revenue was complex and is based on a thorough understanding
+the Company s related party relationships, contracts, and business activities. These were the principal considerations that led
+us to determine this as a critical audit matter. 
+
+How We Addressed the Matter in our Audit: 
+
+ We evaluated the controls over the Company s
+identification of, and recording of related party transactions, and of the revenue recognition process, including walkthroughs. We confirmed
+certain balances and transactions with related parties. To evaluate the related party s satisfaction of performance obligations,
+our audit procedures included, among others, reviewing contracts and evaluating management s assumptions used to determine the distinct
+performance obligations, and reviewing the branding work performed by the Company for various products. In addition, to identify undisclosed
+related party transactions we performed the following: 1) made inquiries of management and other individuals throughout the Company; 2)
+obtained a selection of expenses and reviewed for related party indicators; 3) reviewed public filings and other online information available;
+4) confirmed with the transfer agent regarding significant shareholders; and 5) related procedures performed in other parts of the audit
+engagement. 
+
+Revenue Recognition 
+
+ Description of the Matter: 
+
+ As disclosed in Note 2, 8 and 11, the Company
+recognizes revenue when or as the Company satisfies a customer agreement performance obligation by transferring control of a product or
+service to a customer, in an amount that reflects the consideration the Company expects to receive in exchange for those products or services.
+In determining revenue recognition for certain customer agreements, significant judgment was exercised by the Company, and included the
+following: 1) An assessment of the products and services promised in contracts or customer agreements, and the identification of a performance
+obligation for each promise to transfer to the customer a product or service that is distinct. 2) Determination of relative standalone
+selling price for distinct performance obligations. 3) The timing of product or service delivery for performance obligations. Given these
+factors, the related audit effort in evaluating management s judgments in determining revenue recognition for these customer agreements
+was extensive, which led us to determine this as a critical audit matter 
+
+How We Addressed the Matter in our Audit: 
+
+ Our principal audit procedures related to the
+Company s revenue recognition for these customer agreements included an evaluation of the controls related to the identification
+of distinct performance obligations and the determination of the timing of revenue recognition. We also evaluated management s significant
+accounting policies related to certain customer agreements. In addition, we selected customer agreements and performed the following procedures:
+1) Obtained and read the customer agreements or contracts for each selected agreement. 2) Evaluated and tested management s identification
+of significant terms for completeness, including the identification of distinct performance obligations. 3) Evaluated the appropriateness
+of management s application of their accounting principles, in their determination of revenue recognition conclusions. 4) Tested
+he mathematical accuracy of management s calculations of revenue and the associated timing of revenue recognized in the consolidated
+financial statements. 
+
+/s/ dbb mckennon 
+
+ We have served as the Company s auditor
+since 2019. 
+
+ San Diego, California 
+
+ October 13, 2021 
+
+15 
+
+DALRADA FINANCIAL CORPORATION 
+
+ Consolidated Balance Sheets 
+
+June 30, 
+ June 30, 
+
+2021 
+ 2020 
+ 
+ Assets 
+
+Current assets: 
+
+Cash and cash equivalents 
+ 110,285 
+ 75,165 
+ 
+ Accounts receivable, net 
+ 265,812 
+ 229,167 
+ 
+ Accounts receivable, net - related parties 
+ 69,952 
+ 99,357 
+ 
+ Other receivables 
+ 67,328 
+ 76,013 
+ 
+ Inventories 
+ 842,108 
+ 650,422 
+ 
+ Prepaid expenses and other current assets 
+ 285,026 
+ 121,413 
+ 
+ Total current assets 
+ 1,640,511 
+ 1,251,537 
+ 
+ Property and equipment, net 
+ 489,902 
+ 240,508 
+ 
+ Other assets 
+ 
+ 30,000 
+ 
+ Goodwill 
+ 736,456 
+ 143,152 
+ 
+ Intangible assets, net 
+ 664,494 
+
+Right of use asset, net 
+ 532,327 
+ 321,560 
+ 
+ Right of use asset, net - related party 
+ 639,415 
+ 796,914 
+ 
+ Total assets 
+ 4,703,105 
+ 2,783,671 
+
+Liabilities and Stockholders' Deficit 
+
+Current liabilities: 
+
+Accounts payable 
+ 910,503 
+ 297,720 
+ 
+ Accrued liabilities 
+ 641,380 
+ 231,865 
+ 
+ Accrued payroll taxes, penalties and interest 
+ 1,953,024 
+ 10,519,440 
+ 
+ Accounts payable and accrued liabilities related parties 
+ 414,073 
+ 556,317 
+ 
+ Deferred revenue 
+ 219,999 
+ 176,291 
+ 
+ Notes payable, current portion 
+ 415,817 
+ 93,217 
+ 
+ Notes payable related parties 
+ 10,508,955 
+ 3,053,782 
+ 
+ Convertible notes payable related party 
+ 1,875,000 
+ 1,875,000 
+ 
+ Right of use liability 
+ 165,833 
+ 129,662 
+ 
+ Right of use liability - related party 
+ 159,790 
+ 95,949 
+ 
+ Total current liabilities 
+ 17,264,374 
+ 17,029,243 
+ 
+ Right of use liability 
+ 366,494 
+ 288,053 
+ 
+ Right of use liability - related party 
+ 479,625 
+ 604,810 
+ 
+ Total liabilities 
+ 18,110,493 
+ 17,922,106 
+
+Commitments and contingencies (Note 12) 
+
+Stockholders' deficit: 
+
+Preferred stock, 0.01 par value, 100,000 shares authorized, 5,000 shares issued and outstanding at
+ June 30, 2021 and 2020, respectively 
+ 50 
+ 50 
+ 
+ Common stock, 0.005 par value, 1,000,000,000 shares authorized, 73,838,662 and
+ 68,464,742 shares issued and outstanding at June 30, 2021 and 2020, respectively 
+ 369,194 
+ 342,324 
+ 
+ Common stock to be issued 
+ 601,825 
+
+Additional paid-in capital 
+ 92,965,821 
+ 91,904,874 
+ 
+ Noncontrolling interests 
+ (38,391 
+ 51,821 
+ 
+ Accumulated deficit 
+ (107,338,174 
+ (107,429,607 
+ 
+ Accumulated other comprehensive income (loss) 
+ 32,287 
+ (7,897 
+ 
+ Total stockholders' deficit 
+ (13,407,388 
+ (15,138,435 
+ 
+ Total liabilities and stockholders' deficit 
+ 4,703,105 
+ 2,783,671 
+
+(The accompanying notes are an integral part of
+these consolidated financial statements) 
+
+16 
+
+DALRADA FINANCIAL CORPORATION 
+
+ Consolidated Statements of Operations 
+
+Year Ended 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Revenues 
+ 3,074,027 
+ 954,588 
+ 
+ Revenues - related party 
+ 332,657 
+ 223,566 
+ 
+ Total revenues 
+ 3,406,684 
+ 1,178,154 
+ 
+ Cost of revenue 
+ 2,471,966 
+ 625,916 
+ 
+ Gross profit 
+ 934,718 
+ 552,238 
+
+Operating expenses: 
+
+Selling, general and administrative 
+ 8,984,359 
+ 2,769,372 
+ 
+ Research and development 
+ 520,510 
+ 471,963 
+ 
+ Total operating expenses 
+ 9,504,869 
+ 3,241,335 
+ 
+ Loss from operations 
+ (8,570,151 
+ (2,689,097 
+
+Other income (expense): 
+
+Interest expense 
+ (670,272 
+ (1,041,732 
+ 
+ Interest income 
+ 6,278 
+ 8,769 
+ 
+ Other income 
+ 114,401 
+
+Gain on expiration of accrued tax liability 
+ 9,054,041 
+ 1,229,199 
+ 
+ Gain on foreign exchange 
+ 66,924 
+ 15,304 
+ 
+ Total other income (expenses) 
+ 8,571,372 
+ 211,540 
+ 
+ Net income (loss) before taxes 
+ 1,221 
+ (2,477,557 
+ 
+ Income taxes 
+
+Net income (loss) 
+ 1,221 
+ (2,477,557 
+ 
+ Net loss attributable to noncontrolling interests 
+ (90,212 
+ (11,179 
+ 
+ Net income (loss) attributable to Dalrada Financial Corporation stockholders 
+ 91,433 
+ (2,466,378 
+
+Foreign currency translation 
+ 40,184 
+ (7,897 
+ 
+ Comprehensive income (loss) 
+ 41,405 
+ (2,485,454 
+
+Net income (loss) per common share to Dalrada stockholders - basic 
+ 0.00 
+ (0.04 
+ 
+ Net income (loss) per common share to Dalrada stockholders - diluted 
+ 0.00 
+ (0.04 
+
+Weighted average common shares outstanding basic 
+ 70,318,073 
+ 56,801,796 
+ 
+ Weighted average common shares outstanding diluted 
+ 128,946,367 
+ 56,801,796 
+
+(The accompanying notes are an integral part of
+these consolidated financial statements) 
+
+17 
+
+DALRADA FINANCIAL CORPORATION 
+
+ Consolidated Statements of Changes in Stockholders 
+Deficit 
+
+Preferred Stock 
+ Common Stock 
+ Common Stock 
+ to be 
+ Additional Paid-in 
+ Noncontrolling 
+ Accumulated 
+ Accumulated 
+ Other 
+ Comprehensive 
+ Total 
+ Stockholders' 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Issued 
+ Capital 
+ Interests 
+ Deficit 
+ Income (Loss) 
+ Deficit 
+
+Balance at June 30, 2019 
+
+48,281,128 
+ 241,406 
+ 
+ 91,086,179 
+ 
+ (104,963,229 
+ 
+ (13,635,643 
+ 
+ Conversion of related party payable to preferred stock 
+ 5,000 
+ 50 
+
+120 
+
+170 
+ 
+ Conversion of related party note payable to common stock 
+
+3,965,614 
+ 19,828 
+ 
+ 175,279 
+
+195,107 
+ 
+ Common stock issued pursuant to acquisitions 
+
+12,718,000 
+ 63,590 
+ 
+ 465,496 
+ 63,000 
+
+592,086 
+ 
+ Common stock issued for services 
+
+3,500,000 
+ 17,500 
+ 
+ 177,800 
+
+195,300 
+ 
+ Net loss 
+
+(11,179 
+ (2,466,378 
+ 
+ (2,477,557 
+ 
+ Foreign currency translation 
+
+(7,897 
+ (7,897 
+ 
+ Balance at June 30, 2020 
+ 5,000 
+ 50 
+ 68,464,742 
+ 342,324 
+ 
+ 91,904,874 
+ 51,821 
+ (107,429,607 
+ (7,897 
+ (15,138,435 
+ 
+ Common stock issued to board members 
+
+4,500,000 
+ 22,500 
+ 
+ 707,500 
+
+730,000 
+ 
+ Common stock issued pursuant to acquisitions 
+
+873,920 
+ 4,370 
+ 601,825 
+ 281,774 
+
+887,969 
+ 
+ Stock-based compensation 
+
+71,673 
+
+71,673 
+ 
+ Net income 
+
+(90,212 
+ 91,433 
+ 
+ 1,221 
+ 
+ Foreign currency translation 
+
+40,184 
+ 40,184 
+ 
+ Balance at June 30, 2021 
+ 5,000 
+ 50 
+ 73,838,662 
+ 369,194 
+ 601,825 
+ 92,965,821 
+ (38,391 
+ (107,338,174 
+ 32,287 
+ (13,407,388 
+
+(The accompanying notes are an integral part of
+these consolidated financial statements) 
+
+18 
+
+DALRADA FINANCIAL CORPORATION 
+
+ Consolidated Statements of Cash Flows 
+
+Year Ended 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Cash flows from operating activities: 
+
+Net income (loss) 
+ 1,221 
+ (2,477,557 
+ 
+ Adjustments to reconcile net income (loss) to net cash used in operating activities: 
+
+Depreciation and amortization 
+ 141,388 
+ 46,602 
+ 
+ Stock compensation 
+ 801,673 
+ 93,000 
+ 
+ Non-cash research and development expenses 
+ 113,969 
+ 195,300 
+ 
+ Non-cash interest expense on conversion of related party note payable 
+ 
+ 155,055 
+ 
+ Gain on expiration of accrued tax liability 
+ (9,054,041 
+ 1,229,199 
+ 
+ Gain on forgiveness of debt 
+ (78,479 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+ 29,274 
+ (143,021 
+ 
+ Other receivables 
+ 11,685 
+ 84,162 
+ 
+ Inventories 
+ (191,686 
+ (521,592 
+ 
+ Prepaid expenses and other current assets 
+ (163,613 
+ (66,742 
+ 
+ Other assets 
+ 30,000 
+
+Accounts payable 
+ 563,338 
+ 146,226 
+ 
+ Accounts payable and accrued liabilities - related parties 
+ 1,345,875 
+ 472,136 
+ 
+ Accrued liabilities 
+ 370,789 
+ 84,823 
+ 
+ Accrued payroll taxes, penalties and interest 
+ 487,625 
+ (1,690,037 
+ 
+ Deferred revenue 
+ 7,194 
+
+Net cash used in operating activities 
+ (5,583,788 
+ (2,392,446 
+ 
+ Cash flows from investing activities: 
+
+Net cash received (paid) in business combinations 
+ (27,869 
+ 206,987 
+ 
+ Purchase of property and equipment 
+ (357,961 
+ (194,073 
+ 
+ Net cash provided by (used in) investing activities 
+ (385,830 
+ 12,914 
+ 
+ Cash flows from financing activities: 
+
+Proceeds from related party notes payable 
+ 5,967,054 
+ 2,393,232 
+ 
+ Net proceeds (repayments) from notes payable 
+ (2,500 
+ 69,824 
+ 
+ Net cash provided by financing activities 
+ 5,964,554 
+ 2,463,056 
+ 
+ Effect of exchange rate changes on cash 
+ 40,184 
+ (9,322 
+ 
+ Net change in cash and cash equivalents 
+ 35,120 
+ 74,202 
+
+Cash and cash equivalents at beginning of year 
+ 75,165 
+ 963 
+ 
+ Cash and cash equivalents at end of year 
+ 110,285 
+ 75,165 
+
+Supplemental disclosure of cash flow information: 
+
+Cash paid for income taxes 
+
+Cash paid for interest 
+
+Supplemental disclosure of non-cash investing and financing activities: 
+
+Common stock issued pursuant to business combination 
+ 887,969 
+ 499,086 
+ 
+ Fair value of assets acquired and liabilities assumed in acquisition 
+ (200,696 
+ 355,934 
+ 
+ Fair value of noncontrolling interest acquired in acquisition 
+ 
+ 63,000 
+ 
+ Conversion of accounts payable - related parties to related party convertible note 
+
+Note payable issued for due to seller payment 
+ 98,000 
+
+Transfer of related party advances, accounts payable and accrued salaries to
+ related party notes payable 
+ 1,488,119 
+ 356,998 
+ 
+ Conversion of accounts payable - related parties to preferred
+ stock 
+ 
+ 170 
+
+(The accompanying notes are an integral part of
+these consolidated financial statements) 
+
+19 
+
+DALRADA FINANCIAL CORPORATION 
+
+ Notes to the Consolidated Financial Statements 
+
+ Years ended June 30, 2021 and 2020 
+
+1. 
+ Organization and Nature of Operations 
+
+Dalrada Financial Corporation, Dalrada ),
+was incorporated in September 1982 under the laws of the State of California and reincorporated in May 1983 under the laws of the State
+of Delaware and reincorporated on May 5, 2020 under the laws of the state of Wyoming. 
+
+In June 2018, the Company created a
+new subsidiary, Dalrada Precision Corp. Dalrada Precision ), a mechanical contract provider. It extends the client s
+engineering and operations team by helping devise bespoke manufacturing solutions tailored to its products. Dalrada Precision can enter
+at any stage of the product lifecycle from concept and design to mass production and logistics. In October 2018, the Company created a
+new subsidiary, Dalrada Health Products Corp Dalrada Health ). Dalrada Health will partner with client companies for the
+distribution of medical disposables, hospital equipment and furniture, medical devices, laboratory and dental products, and sanitizing,
+disinfectant and PPE products services. 
+
+ On December 6, 2019, Dalrada, via its
+wholly owned subsidiary, Dalrada Precision, acquired, by stock exchange agreement, 100 of Likido Ltd. (HQ) Likido in
+exchange of 6,118,000 shares of the Company s common stock. Likido, a United Kingdom engineering-design company, is based in Edinburgh,
+Scotland. Likido is an international technology company developing advanced solutions for the harvesting and recycling of energy. Using
+its novel, heat pump systems (patent pending), Likido is working to revolutionize the renewable energy sector with the provision of innovative
+modular process technologies to maximize the capture and reuse of thermal energy for integrated heating and cooling applications. With
+uses across industrial, commercial and residential sectors, Likido provides cost savings and the minimized carbon emissions across global
+supply chains. Likido's technologies enable the effective recovery and recycling of process energy, mitigating against climate change
+and enhancing quality of life through the provision of low-carbon heating and cooling systems. In connection with the purchase of
+Likido, the Company invested cash consideration of 600,000 (see Note 3). 
+
+On January 9, 2020, Dalrada purchased
+seventy two percent (72 of the issued and outstanding common equity shares of Prakat Solutions Inc. a Texas corporation, Prakat ).
+The purchase was made by means of a Stock Purchase Agreement SPA ). The consideration for the share purchase was three million
+six hundred thousand, (3,600,000) common equity shares of DFCO. Prakat has a wholly owned subsidiary based in India, Prakat Solutions
+Private Limited, which provides global customers with software and technology solutions specializing in Test Engineering, Accessibility
+Engineering, Product Engineering and Application Modernization. The Prakat India team provides end to end Product Engineering services
+across various domains, including Banking Financial Services, Telecom, Retail, Healthcare, Manufacturing, Legal and IT Infrastructure.
+Prakat India is an ISO 9001 Certified Company. The Company is still determining the impact of this transaction on the financial statements
+including the purchase price and the allocation of such (see Note 3). 
+
+On or about March 23, 2020 Dalrada Health
+Products Corporation acquired One Hundred percent (100 of the ownership of Shark. Shark is a cleaning solutions provider using electrostatic
+machines to spray and deodorize residential spaces, healthcare facilities, hospitality, transportation, manufacturing, automotive, schools/education
+systems, and other facilities requiring cleaning services. Through the acquisition of Shark, Dalrada Health Products developed the GlanHealth
+Brand (dba of Dalrada Health Products Corporation) to distribute alcohol-free hand sanitizers, surface cleaners, laundry aides, antimicrobial
+solutions, electrostatic sprayers, face masks, gloves, kits, and delivery equipment such as dispensers, stands, and ease of use packaging
+for the end consumer. GlanHealth leverages an extensive supply chain of producers, resellers, distributors, vendors, and formulators for
+the development, sale, and marketing of its products and services. 
+
+20 
+
+On January 29, 2021, Dalrada Health
+entered into a stock purchase agreement and acquired one hundred percent (100 of the issued and outstanding shares of International
+Health Group, Inc., a California corporation IHG ). The purchase price consideration is 1,000,000 common shares of DFCO,
+with no shares to be released upon closing and 1,000,000 shares released quarterly over the course of twenty-four months beginning on
+April 1, 2021. IHG provides highly trained nursing and medical assistants for hospitals and home health facilities since 2006. IHG Medical
+Assistant programs include CNA Certified Nursing Assistant and HHA Home Health Aide training and the fast-track
+22-Day CNA Certification Program at its state-approved testing facility. 
+
+On February 3, 2021, Dalrada Health
+entered into a unit purchase agreement and acquired one hundred percent (100 of the issued and outstanding membership units of Pacific
+Stem Cells, LLC, a California limited liability company Pacific Stem ). The purchase price consideration is approximately
+ 352,000 in cash and 1,000,000 common shares of DFCO, with 300,000 shares to be released upon closing and the remaining 700,000 shares
+released quarterly over the course of twenty-four months. Pacific Stem provides regenerative therapy as a potential solution for the prevention,
+detection, and treatment of cellular breakdown associated with aging and a variety of other conditions. 
+
+On April 21, 2021, the Company closed
+the transaction by moving into a Membership Interest Purchase Agreement to acquire Ignite IT LLC Ignite ). The Company acquired
+all of the issued and outstanding membership interests, including business plans and access to contacts of Ignite. In consideration for
+the acquisition, the Company issued a promissory note for 20,000. 
+
+In June 2021, the Company launched Empower
+Genomics Empower to enter the genetic testing industry. Empower facilitates the manufacturing, filing, labeling, testing
+and reporting of genetics. 
+
+The Company's principal executive offices
+are located at 600 La Terraza Blvd., Escondido, California 92025. 
+
+Going Concern 
+
+These consolidated financial
+statements have been prepared on a going concern basis, which implies that the Company will continue to realize its assets and
+discharge its liabilities in the normal course of business. As at June 30, 2021, the Company had a working capital deficit of
+ 15,623,863 and an accumulated deficit of 107,338,174. The continuation of the Company as a going concern is dependent upon the
+successful financing through equity and/or debt investors and growing the subsidiaries anticipated to be profitable while reducing
+investments in areas that are not expected to have long-term benefits. The Company anticipates an increase in sales through the
+commercialization of the Likido heating and cooling units, the expansion of Prakat s technology services, IHG s
+increased educational footprint, additional GlanHealth sales channels and other new business opportunities (see Subsequent
+Events ). These consolidated financial statements do not include any adjustments to the recoverability and classification of
+recorded asset amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going
+concern. 
+
+2. 
+ Summary of Significant Accounting Policies 
+
+(a) 
+ Basis of Presentation 
+
+These consolidated financial statements
+of the Company have been prepared in accordance with accounting principles generally accepted in the United States US GAAP and are expressed in U.S. dollars. The Company s fiscal year end is June 30. 
+
+(b) 
+ Principles of Consolidation 
+
+These consolidated financial statements
+include the accounts of the Company and its wholly-owned subsidiaries: Dalrada Precision, a company incorporated in the State of California,
+since June 25, 2018 (date of incorporation), Dalrada Health, a company incorporated in the State of California, since October 2, 2018
+(date of incorporation), as well as its subsidiaries (Likido, Prakat, Shark, IHG, Pacific Stem, Ignite, Empower) since their respective
+acquisition dates (see Note 3). All inter-company transactions and balances have been eliminated on consolidation. 
+
+21 
+
+(c) 
+ Use of Estimates 
+
+The preparation of these condensed
+consolidated financial statements in conformity with US GAAP requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the condensed consolidated financial
+statements and the reported amounts of revenues and expenses during the reporting period. The Company regularly evaluates estimates and
+assumptions related to the valuation of inventory, valuation of accrued payroll tax liabilities, valuation of acquired assets and liabilities,
+variables used in the computation of share-based compensation, and evaluation of goodwill and intangible assets for impairment. 
+
+The Company bases its estimates and
+assumptions on current facts, historical experience and various other factors that it believes to be reasonable under the circumstances,
+the results of which form the basis for making judgments about the carrying values of assets and liabilities and the accrual of costs
+and expenses that are not readily apparent from other sources. The actual results experienced by the Company may differ materially and
+adversely from the Company s estimates. To the extent there are material differences between the estimates and the actual results,
+future results of operations will be affected. 
+
+(d) 
+ Cash and Cash Equivalents 
+
+The Company considers all highly liquid
+instruments with a maturity of three months or less at the time of issuance to be cash equivalents. 
+
+(e) 
+ 
+ Concentrations of Credit Risk 
+
+Financial instruments that potentially
+subject the Company to concentrations of credit risk consist principally of cash and cash equivalents. The Company generally maintains
+balances in various operating accounts at financial institutions that management believes to be of high credit quality, in amounts that
+may exceed federally insured limits. The Company has not experienced any losses related to its cash and cash equivalents and does not
+believe that it is subject to unusual credit risk beyond the normal credit risk associated with commercial banking relationships. 
+
+During the year ended June 30, 2021,
+there were no customers whose revenues accounted for 10 or greater of total revenues. During the year ended June 30, 2020, two customers
+accounted for approximately 16 and 11 of total revenues, respectively. 
+
+(f) 
+ Fair Value Measurements 
+
+Pursuant to ASC 820, Fair Value
+Measurements and Disclosures , an entity is required to maximize the use of observable inputs and minimize the use of unobservable
+inputs when measuring fair value. ASC 820 establishes a fair value hierarchy based on the level of independent, objective evidence surrounding
+the inputs used to measure fair value. A financial instrument s categorization within the fair value hierarchy is based upon the
+lowest level of input that is significant to the fair value measurement. ASC 820 prioritizes the inputs into three levels that may be
+used to measure fair value: 
+
+Level 1 - applies to assets or liabilities
+for which there are quoted prices in active markets for identical assets or liabilities. 
+
+Level 2 - applies to assets or liabilities
+for which there are inputs other than quoted prices that are observable for the asset or liability such as quoted prices for similar assets
+or liabilities in active markets; quoted prices for identical assets or liabilities in markets with insufficient volume or infrequent
+transactions (less active markets); or model-derived valuations in which significant inputs are observable or can be derived principally
+from, or corroborated by, observable market data. 
+
+Level 3 - applies to assets or liabilities
+for which there are unobservable inputs to the valuation methodology that are significant to the measurement of the fair value of the
+assets or liabilities. 
+
+The Company s financial instruments
+consist principally of cash, accounts receivable, accounts payable and accrued liabilities, notes payable, and amounts due to related
+parties. Pursuant to ASC 820, the fair value of cash is determined based on Level 1 inputs, which consist of quoted prices
+in active markets for identical assets. The recorded values of all other financial instruments approximate their current fair values because
+of their nature and respective maturity dates or durations. 
+
+22 
+
+(g) 
+ Accounts Receivable 
+
+Accounts receivable are derived from
+products and services delivered to customers and are stated at their net realizable value. Each month, the Company reviews its receivables
+on a customer-by-customer basis and evaluates whether an allowance for doubtful accounts is necessary based on any known or perceived
+collection issues. Any balances that are eventually deemed uncollectible are written off against the allowance after all means of collection
+have been exhausted and the potential for recovery is considered remote. As of June 30, 2021 and 2020, the Company had an allowance of
+doubtful accounts of 37,465 and 0, respectively. 
+
+(h) 
+ Inventory 
+
+Inventory is recorded at the lower
+of cost or net realizable value on a first-in first-out basis. As of June 30, 2021 and 2020, inventory is comprised of raw materials purchased
+from suppliers, work-in-progress, and finished goods produced or purchased for resale. The Company establishes inventory reserves for
+estimated obsolete or unsaleable inventory equal to the difference between the cost of inventory and the estimated realizable value based
+upon assumptions about future market conditions. 
+
+(i) 
+ Property and Equipment 
+
+Property and equipment are stated at
+cost less accumulated depreciation and amortization. Depreciation and amortization expense is recognized using the straight-line method
+over the estimated useful life of each asset, as follows: 
+
+Estimated Useful Life 
+ 
+ Computer and office equipment 
+ 
+ 3 - 5 years 
+ 
+ Machinery and equipment 
+ 
+ 5 years 
+ 
+ Leasehold improvements 
+ 
+ Shorter of lease term or useful life 
+
+Estimated useful lives are periodically
+assessed to determine if changes are appropriate. Maintenance and repairs are charged to expense as incurred. When assets are retired
+or otherwise disposed of, the cost of these assets and related accumulated depreciation or amortization are eliminated from the balance
+sheet and any resulting gains or losses are included in the statement of operations loss in the period of disposal. 
+
+(j) 
+ Business Combinations and Acquisitions 
+
+The Company accounts for acquisitions
+in which it obtains control of one or more businesses as a business combination. The purchase price of the acquired businesses is allocated
+to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values at the acquisition date. The
+excess of the purchase price over those fair values is recognized as goodwill. During the measurement period, which may be up to one year
+from the acquisition date, the Company may record adjustments, in the period in which they are determined, to the assets acquired and
+liabilities assumed with the corresponding offset to goodwill. If the assets acquired are not a business, the Company accounts for the
+transaction or other event as an asset acquisition. Under both methods, the Company recognizes the identifiable assets acquired, the liabilities
+assumed, and any noncontrolling interest in the acquired entity. In addition, for transactions that are business combinations, the Company
+evaluates the existence of goodwill or a gain from a bargain purchase. 
+
+23 
+
+(k) 
+ Impairment of Long-Lived Assets 
+
+The
+Company reviews its long-lived assets (property and equipment and amortizable intangible assets) for impairment whenever events or circumstances
+indicate that the carrying amount of an asset may not be recoverable. If the sum of the expected cash flows, undiscounted, is less than
+the carrying amount of the asset, an impairment loss is recognized as the amount by which the carrying amount of the asset exceeds its
+fair value. 
+
+Goodwill is tested annually at June
+30 for impairment and upon the occurrence of certain events or substantive changes in circumstances. 
+
+The annual goodwill impairment test
+allows for the option to first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting
+unit is less than its carrying amount. An entity may choose to perform the qualitative assessment on none, some or all of its reporting
+units or an entity may bypass the qualitative assessment for any reporting unit and proceed directly to step one of the quantitative impairment
+test. If it is determined, on the basis of qualitative factors, that the fair value of a reporting unit is, more likely than not, less
+than its carrying value, the quantitative impairment test is required. The quantitative impairment test calculates any goodwill impairment
+as the difference between the carrying amount of a reporting unit and its fair value, but not to exceed the carrying amount of goodwill.
+As of June 30, 2021, there were qualitative factors that indicated goodwill was impaired, but after completing the quantitative assessment
+it was determined that goodwill did not need to be impaired. 
+
+An intangible asset is an identifiable
+non-monetary asset without physical substance. Such an asset is identifiable when it is separable, or when it arises from contractual
+or other legal rights. Separable assets can be sold, transferred, licensed, etc. Examples of intangible assets include computer software,
+licenses, trademarks, patents, films and copyrights. The Company s intangible assets are finite lived assets and are amortized on
+a straight-line basis over the estimated useful lives of the assets. 
+
+(l) 
+ Revenue Recognition 
+
+The Company adopted ASU 2014-09, Revenue
+from Contracts with Customers , and its related amendments (collectively known as ASC 606 ), effective January 1, 2019.
+The Company determines revenue recognition through the following steps: 
+
+- 
+ Identification of a contract with a customer; 
+
+- 
+ Identification of the performance obligations in the contract; 
+
+- 
+ Determination of the transaction price; 
+
+- 
+ Allocation of the transaction price to the performance obligations in the contract; and 
+
+- 
+ Recognition of revenue when or as the performance obligations are satisfied. 
+
+Revenue is recognized when control
+of the promised goods or services is transferred to customers, in an amount that reflects the consideration the Company expects to be
+entitled to in exchange for those goods or services. As a practical expedient, the Company does not adjust the transaction price for the
+effects of a significant financing component if, at contract inception, the period between customer payment and the transfer of goods
+or services is expected to be one year or less. 
+
+The Company s revenue is derived
+from the sales of its products, which represents net sales recorded in the Company s condensed consolidated statements of operations.
+Product sales are recognized when performance obligations under the terms of the contract with the customer are satisfied. Typically,
+this would occur upon transfer of control, including passage of title to the customer and transfer of risk of loss related to those goods.
+The Company measures revenue as the amount of consideration to which it expects to be entitled in exchange for transferring goods (transaction
+price). The Company records reductions to revenue for estimated customer returns, allowances, markdowns and discounts. The Company bases
+its estimates on historical rates of customer returns and allowances as well as the specific identification of outstanding returns, markdowns
+and allowances that have not yet been received by the Company. The actual amount of customer returns and allowances is inherently uncertain
+and may differ from the Company s estimates. If the Company determines that actual or expected returns or allowances are significantly
+higher or lower than the reserves it established, it would record a reduction or increase, as appropriate, to net sales in the period
+in which it makes such a determination. Reserves for returns, and markdowns are included within accrued expenses and other liabilities.
+Allowance and discounts are recorded in accounts receivable, net and the value of inventory associated with reserves for sales returns
+are included within prepaid expenses and other current assets on the condensed consolidated balance sheets. 
+
+24 
+
+The Company estimates warranty claims
+reserves based on historical results and research and determined that a warranty reserve was not necessary as of June 30, 2021 or 2020. 
+
+The Company also earns service revenue
+from its other subsidiaries, including information technology and consulting services via Prakat, educational programs and courses via
+IHG, and stem cell therapy procedures from Pacific Stems. For Prakat and Pacific Stems, revenues are recognized when performance obligations
+have been satisfied and the services are complete. This is generally at a point of time upon written completion and client acceptance
+of the project, which represents transfer of control to the customer. For IHG, revenues are recognized over the course of a semester while
+services are performed. 
+
+During the fiscal year, the Company
+sold Likido units to its third-party manufacturer for testing purposes and for further resale to their customers. As of June 30, 2021,
+the Company changed its relationship exclusively to that of a third-party manufacturer and requested the title of inventory to be returned
+and adjusted the revenue accordingly. 
+
+Deferred Revenue : 
+
+ASC 606 requires disclosure of the
+aggregate amount of the transaction price allocated to the performance obligations that are unsatisfied at the end of the reporting period
+and an explanation of when the entity expects to recognize revenue by either a quantitative basis or a qualitative basis. 
+
+Deferred revenue for the year ended
+June 30, 2021 was 219,999 compared to 176,291 for the year ended June 30, 2020. The current year balance of 219,999 consists of deliverables
+from the following entities: 140,199 for IHG, 59,800 for Precision, and 20,000 for Prakat USA. It is anticipated that these products
+will be delivered during the first quarter of 2022. The prior year balance of 176,291 was for Likido products. 
+
+Disaggregation
+of Revenue 
+
+The following table
+presents the Company's revenue disaggregated by revenue source: 
+
+Year Ended 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Product sales - third parties 
+ 1,053,720 
+ 466,946 
+ 
+ Product sales - related party 
+ 62,607 
+ 124,427 
+ 
+ Service revenue - third parties 
+ 2,020,307 
+ 487,642 
+ 
+ Service revenue - related party 
+ 270,050 
+ 99,139 
+ 
+ Total revenue 
+ 3,406,684 
+ 1,178,154 
+
+25 
+
+Contract Balances 
+
+The following table provides information
+about receivables and contract liabilities from contracts with customers: 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Accounts receivable, net 
+ 265,812 
+ 229,167 
+ 
+ Accounts receivable, net - related parties 
+ 69,952 
+ 99,357 
+ 
+ Deferred revenue 
+ 219,999 
+ 176,291 
+
+The Company invoices customers based
+upon contractual billing schedules, and accounts receivable are recorded when the right to consideration becomes unconditional. Contract
+liabilities represent a set-up fee prepayment received from a customer in advance of performance obligations met. 
+
+(m) 
+ Cost of Revenue 
+
+Cost of revenue consists primarily
+of inventory sold and related freight for product sales and direct labor for information technology and consulting services. The following
+table is a breakdown of cost of revenue: 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Product sales 
+ 1,331,329 
+ 268,526 
+ 
+ Service revenue 
+ 1,140,637 
+ 357,390 
+ 
+ Total cost of revenue 
+ 2,471,966 
+ 625,916 
+
+(n) Advertising 
+
+Advertising costs are expensed as incurred.
+During the years ended June 30, 2021 and 2020, advertising expenses were approximately 563,907 and 34,000, respectively. 
+
+(o) 
+ Stock-based Compensation 
+
+The Company records stock-based compensation
+in accordance with ASC 718, Compensation Stock Compensation using the fair value method. All transactions in which goods
+or services are the consideration received for the issuance of equity instruments are accounted for based on the fair value of the consideration
+received or the fair value of the equity instrument issued, whichever is more reliably measurable. Equity instruments issued to employees
+and the cost of the services received as consideration are measured and recognized based on the quoted market price of the equity instruments
+issued. During the years ended June 30, 2021 and 2020, stock-based compensation expenses were approximately 801,672 and 0, respectively. 
+
+(p) 
+ Foreign Currency Translation 
+
+The
+functional currency of the Company is the United States dollar. The functional currency of the Likido subsidiary is the British pound.
+The functional currency of Prakat is the Indian rupee. The financial statements of the Company s subsidiaries were translated to
+United States dollars in accordance with ASC 830, Foreign Currency Translation Matters , using period-end rates of exchange for
+assets and liabilities, and average rates of exchange for the year for revenues and expenses. Gains and losses arising on foreign currency
+denominated transactions are included in condensed consolidated statements of operations.
+
+26 
+
+(q) 
+ Comprehensive Income (Loss) 
+
+ASC
+220, Comprehensive Income, establishes standards for the reporting and display of comprehensive loss and its components in the
+condensed consolidated financial statements. During the year ended June 30, 2021, the Company s only component of comprehensive
+income was foreign currency translation adjustments. 
+
+(r) 
+ Basic and Diluted Net Income (Loss) per Share 
+
+The Company computes net income (loss)
+per share in accordance with ASC 260, Earnings per Share . ASC 260 requires presentation of both basic and diluted earnings per
+share EPS on the face of the income statement. Basic EPS is computed by dividing net income (loss) available to common
+shareholders (numerator) by the weighted average number of shares outstanding (denominator) during the period. Diluted EPS gives effect
+to all dilutive potential common shares outstanding during the periods using the treasury stock method and convertible preferred stock
+using the if-converted method. In computing diluted EPS, the average stock price for the periods is used in determining the number of
+shares assumed to be purchased from the exercise of stock options or warrants. 
+
+The weighted average number of common
+stock equivalents related to convertible notes payable of 56,801,471 shares was not included in diluted loss per share, because the effects
+are antidilutive, for the year ended June 30, 2020. In accordance with ASC 260, Earnings Per Share , the following table
+reconciles basic shares outstanding to fully diluted shares outstanding for the year ended June 30, 2021: 
+
+Year Ended 
+
+June 30, 2021 
+ 
+ Weighted average number of common shares outstanding - Basic 
+ 70,318,073 
+ 
+ Potentially dilutive common stock equivalents (convertible note payable - related party and accrued interest) 
+ 58,628,294 
+ 
+ Weighted average number of common shares outstanding - Diluted 
+ 128,946,367 
+
+The adjustments to the numerator were
+insignificant during the year ended June 30, 2021 and there were no adjustments to the numerator during the year ended June 30, 2020. 
+
+(s) 
+ Income Taxes 
+
+The Company accounts for income taxes
+using the asset and liability method in accordance with ASC 740, Accounting for Income Taxes . The asset and liability method provides
+that deferred tax assets and liabilities are recognized for the expected future tax consequences of temporary differences between the
+financial reporting and tax bases of assets and liabilities, and for operating loss and tax credit carryforwards. Deferred tax assets
+and liabilities are measured using the currently enacted tax rates and laws that will be in effect when the differences are expected to
+reverse. The Company records a valuation allowance to reduce deferred tax assets to the amount that is believed more likely than not to
+be realized. 
+
+27 
+
+(t) 
+ 
+ Recent Accounting Pronouncements 
+ 
+ In December 2019, the FASB issued ASU No. 2019-12, Income
+ Taxes (Topic 740), Simplifying the Accounting for Income Taxes . The amendments in this Update simplify the accounting for income taxes
+ by removing certain exceptions to the general principles in Topic 740. The amendments also improve consistent application of and simplify
+ GAAP for other areas of Topic 740 by clarifying and amending existing guidance. For public business entities, the amendments in this Update
+ are effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2020. For all other entities,
+ the amendments are effective for fiscal years beginning after December 15, 2021, and interim periods within fiscal years beginning after
+ December 15, 2022. The Company adopted this pronouncement on July 1, 2020, and there was not a material impact on the financial statements. 
+ 
+ In August 2020, the FASB issued ASU 2020-06, Accounting
+ for Convertible Instruments and Contracts in an Entity s Own Equity , as part of its overall simplification initiative to reduce
+ costs and complexity of applying accounting standards while maintaining or improving the usefulness of the information provided to users
+ of financial statements. Among other changes, the new guidance removes from GAAP separation models for convertible debt that require the
+ convertible debt to be separated into a debt and equity component, unless the conversion feature is required to be bifurcated and accounted
+ for as a derivative or the debt is issued at a substantial premium. As a result, after adopting the guidance, entities will no longer
+ separately present such embedded conversion features in equity, and will instead account for the convertible debt wholly as debt. The
+ new guidance also requires use of the if-converted method when calculating the dilutive impact of convertible debt on earnings
+ per share, which is consistent with the Company s current accounting treatment under the current guidance. The guidance is effective
+ for financial statements issued for fiscal years beginning after December 15, 2021, and interim periods within those fiscal years, with
+ early adoption permitted, but only at the beginning of the fiscal year. The Company is currently evaluating the impact the adoption of
+ ASU 2020-06 will have on its consolidated financial position, results of operations and disclosures. 
+ 
+ The Company has implemented all new accounting
+ pronouncements that are in effect and that may impact its financial statements and does not believe that there are any other new accounting
+ pronouncements that have been issued that might have a material impact on its financial position or results of operations. 
+
+3. 
+ Business Combinations and Acquisition 
+
+Fiscal 2021
+Transactions 
+
+International Health Group, Inc. IHG 
+
+Effective January 29, 2021, the Company
+acquired 100 of the common stock of IHG. In consideration for the acquisition, the Company issued 1,000,000 shares of its common stock
+at 0.44 per share, or a total fair value of 440,000. The Company acquired IHG to expand into the educational sector of the Health and
+Human Services Industry. 
+
+The International Health Group transaction
+was accounted for as a business combination in accordance with Accounting Standards Codification ASC Topic 805,
+Business Combinations ASC 805 ). The Company has determined preliminary fair values of the assets acquired and
+liabilities assumed. These values are subject to change as we perform additional reviews of our assumptions utilized. 
+
+28 
+
+The Company has made a preliminary
+allocation of the purchase price in regard to the acquisition related to the assets acquired, liabilities assumed and noncontrolling
+interests as of the purchase date. The following table summarizes the purchase price allocation: 
+
+Preliminary 
+
+Purchase Price 
+
+Allocation 
+ 
+ Cash and cash equivalents 
+ 43,617 
+ 
+ Accounts receivable 
+ 37,905 
+ 
+ Other receivables 
+ 3,000 
+ 
+ Property and equipment, net 
+ 3,930 
+ 
+ Intangible assets 
+ 693,385 
+ 
+ Accounts payable 
+ (32,093 
+ 
+ Accrued liabilities 
+ (38,726 
+ 
+ Deferred revenue 
+ (37,339 
+ 
+ Notes payable 
+ (233,679 
+ 
+ Purchase price consideration 
+ 440,000 
+
+The intangible assets for IHG are in the form
+of its curriculum development and will be amortized on a straight-line basis over its determined useful life of ten years for the following
+reasons: 
+
+1) The International Health Group transaction was accounted for as a business combination in accordance with
+Accounting Standards Codification ASC Topic 805, Business Combinations ASC 805 ). 
+ 
+ 2) IHG s founder initially started the program approximately ten years ago offering a Certified Nurse s
+Assistant Program (CNA), thus giving the intangible asset a minimum of a 10-year useful. 
+ 
+ 3) Under US GAAP, the cost of intangible assets is either amortized over their respective useful/legal lives,
+or are tested for impairment on an annual basis. Pursuant to the costs incurred over a ten-year period to develop the CNA and other curriculums,
+the Company has determined a minimum of a 10-year useful life is appropriate. 
+
+Pacific Stem Cells, LLC Pacific Stem 
+
+Effective February 3, 2021, the Company acquired
+100 of the membership units of Pacific Stem. In consideration for the acquisition, the Company issued 352,650 in cash consideration
+and issued 1,000,000 shares of its common stock at 0.354 per share for a total fair value of 706,650. The Company acquired Pacific Stem
+as an opportunity to enter the growing alternative Health and Human Services Industry. 
+
+The Pacific Stem Cells transaction was accounted
+for as a business combination in accordance with Accounting Standards Codification ASC Topic 805, Business Combinations ASC
+805 ). The Company has determined preliminary fair values of the assets acquired and liabilities assumed. These values are subject
+to change as we perform additional reviews of our assumptions utilized. Goodwill is primarily attributable to the go-to-market synergies
+that are expected to arise as a result of the acquisition. The goodwill is not deductible for tax purposes. 
+
+29 
+
+The Company has made a preliminary allocation
+of the purchase price in regard to the acquisition related to the assets acquired, liabilities assumed and noncontrolling interests as
+of the purchase date. The following table summarizes the purchase price allocation: 
+
+Preliminary 
+
+Purchase Price 
+
+Allocation 
+ 
+ Cash and cash equivalents 
+ 281,164 
+ 
+ Goodwill 
+ 593,304 
+ 
+ Accounts payable 
+ (17,918 
+ 
+ Notes payable 
+ (149,900 
+ 
+ Purchase price consideration 
+ 706,650 
+
+Ignite 
+
+On April 21, 2021, the Company closed the transaction
+by moving into a Membership Interest Purchase Agreement to acquire Ignite IT LLC Ignite ). The Company acquired all of the
+issued and outstanding membership interests, including business plans and access to contacts of Ignite. In consideration for the acquisition,
+the Company issued a promissory note for 20,000. 
+
+The Company evaluated the acquisition of the purchased
+assets under ASC 805 and concluded that as substantially all of the fair value of the gross assets acquired is concentrated in an identifiable
+group of similar assets, the transaction did not meet the requirements to be accounted for as a business combination and therefore was
+accounted for as an asset acquisition. Accordingly, the Company recorded t he acquired research and
+development at a fair value of 20,000 as an expense in the consolidated statements of operations. 
+
+Fiscal 2020
+Transactions 
+
+Likido 
+
+Effective December 6, 2019, the Company
+acquired 100 of the interests of Likido. In consideration for the acquisition, the Company issued 6,118,000 shares of its common stock
+at 0.0448 per share, or a total fair value of 274,086. 
+
+The Likido transaction was accounted
+for as a business combination in accordance with Accounting Standards Codification ASC Topic 805, Business Combinations ASC 805 ). The Company has determined preliminary fair values of the assets acquired and liabilities assumed. These values
+are subject to change as we perform additional reviews of our assumptions utilized. Goodwill is primarily attributable to the go-to-market
+synergies that are expected to arise as a result of the acquisition. The goodwill is not deductible for tax purposes. 
+
+30 
+
+The Company has made an allocation of
+the purchase price in regard to the acquisition related to the assets acquired and the liabilities assumed as of the purchase date. The
+following table summarizes the purchase price allocation: 
+
+Purchase Price 
+
+Allocation 
+ 
+ Cash and cash equivalents 
+ 172,362 
+ 
+ Other receivables 
+ 37,984 
+ 
+ Prepaid expenses and other current assets 
+ 10,000 
+ 
+ Inventories 
+ 110,062 
+ 
+ Property and equipment, net 
+ 80,348 
+ 
+ Goodwill 
+ 143,152 
+ 
+ Accounts payable 
+ (92,799 
+ 
+ Accrued liabilities 
+ (9,308 
+ 
+ Deferred revenue 
+ (177,715 
+
+274,086 
+
+Prakat 
+
+Effective January 9, 2020, the Company
+acquired 72 of the common equity shares of Prakat. In consideration for the acquisition, the Company issued 3,600,000 shares of its common
+stock at 0.0450 per share, or a total fair value of 162,000. 
+
+The Prakat transaction was accounted
+for as a business combination in accordance with Accounting Standards Codification ASC Topic 805, Business Combinations
+ ASC 805 ). The Company has determined preliminary fair values of the assets acquired, liabilities assumed and the fair
+value of the noncontrolling interests. These values are subject to change as we perform additional reviews of our assumptions utilized.
+Goodwill is primarily attributable to the go-to-market synergies that are expected to arise as a result of the acquisition. The goodwill
+is not deductible for tax purposes. 
+
+The Company has made an allocation of
+the purchase price in regard to the acquisition related to the assets acquired, liabilities assumed and noncontrolling interests as of
+the purchase date. The following table summarizes the preliminary purchase price allocation: 
+
+Purchase Price 
+
+Allocation 
+ 
+ Cash and cash equivalents 
+ 34,625 
+ 
+ Accounts receivable, net 
+ 157,544 
+ 
+ Other receivables 
+ 122,190 
+ 
+ Prepaid expenses and other current assets 
+ 74,671 
+ 
+ Property and equipment, net 
+ 7,189 
+ 
+ Accounts payable 
+ (33,614 
+ 
+ Accrued liabilities 
+ (114,212 
+ 
+ Notes payable 
+ (23,393 
+ 
+ Noncontrolling interests 
+ (63,000 
+ 
+ Purchase price consideration 
+ 162,000 
+
+31 
+
+Shark 
+
+On March 23, 2020, the Company entered
+into a Stock Purchase Agreement to acquire Shark Innovative Technologies Corp. Shark ). The Company acquired all of the
+issued and outstanding common shares, including business plans and access to contacts of Shark. In consideration for the acquisition,
+the Company issued 3,000,000 shares of its common stock at 0.0310 per share, or a total fair value of 93,000. 
+
+The Company evaluated the acquisition
+of the purchased assets under ASC 805 and concluded that as substantially all of the fair value of the gross assets acquired is concentrated
+in an identifiable group of similar assets, the transaction did not meet the requirements to be accounted for as a business combination
+and therefore was accounted for as an asset acquisition. The purchase price of the Shark assets are as follows: 
+
+Cash and cash equivalents 
+ 917 
+ 
+ Research and development 
+ 92,083 
+ 
+ Purchase price consideration 
+ 93,000 
+
+The
+acquired research and development was recorded as an expense in the consolidated statements of operations. 
+
+Unaudited Pro Forma Financial
+Information 
+
+The
+following unaudited pro forma financial information presents the Company s financial results as if the various acquisitions had
+occurred as of September 11, 2021. The unaudited pro forma financial information is not necessarily indicative of what the financial
+results actually would have been had the acquisition been completed on this date. In addition, the unaudited pro forma financial information
+is not indicative of, nor does it purport to project the Company s future financial results. The pro forma information does not
+give effect to any estimated and potential cost savings or other operating efficiencies that could result from the acquisitions: 
+
+Year Ended 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Revenues 
+ 4,389,794 
+ 3,799,181 
+ 
+ Net income (loss) attributable to Dalrada 
+ 174,239 
+ (2,187,237 
+ 
+ Net income (loss) per common share - basic 
+ 0.00 
+ (0.04 
+
+4. 
+ 
+ Selected Balance Sheet Elements 
+
+Inventories 
+
+Inventories consisted of the
+following as of June 30, 2021 and 2020: 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Raw materials 
+ 700,824 
+ 140,477 
+ 
+ Work-in-progress 
+ 
+ 120,689 
+ 
+ Finished goods 
+ 141,284 
+ 389,256 
+
+842,108 
+ 650,422 
+
+32 
+
+Property and Equipment, Net 
+
+Property and equipment, net consisted
+of the following as of June 30, 2021 and 2020: 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Machinery and equipment 
+ 223,141 
+ 143,930 
+ 
+ Leasehold improvements 
+ 323,669 
+ 112,366 
+ 
+ Computer and office equipment 
+ 186,549 
+ 52,665 
+
+733,359 
+ 308,961 
+ 
+ Less: Accumulated depreciation 
+ (243,457 
+ (68,453 
+
+489,902 
+ 240,508 
+
+Depreciation and amortization expense
+of 83,606 and 46,602 for the years ended June 30, 2021 and 2020, respectively, were included in selling, general and administrative
+expenses in the statements of operations. 
+
+Intangible Assets, Net 
+
+Intangible assets, net consisted of
+the following as of June 30, 2021 and 2020: 
+
+Gross 
+ Accumulated 
+ Carrying 
+
+Amount 
+ Amortization 
+ Value 
+ 
+ Amortized: 
+
+Curriculum development 
+ 693,385 
+ (28,891 
+ 664,494 
+
+693,385 
+ (28,891 
+ 664,494 
+
+Amortization expense of 28,891 and
+ 0 for the years ended June 30, 2021 and 2020, respectively, were included in selling, general and administrative expenses in the statements
+of operations. 
+
+Future amortization expense at June 30,
+2021 is as follows: 
+
+Year Ending June 30, 
+
+2022 
+ 69,338 
+ 
+ 2023 
+ 69,338 
+ 
+ 2024 
+ 69,338 
+ 
+ 2025 
+ 69,338 
+ 
+ 2026 
+ 69,338 
+ 
+ Thereafter 
+ 317,804 
+
+664,494 
+
+33 
+
+5. 
+ Accrued Payroll Taxes 
+
+As of June 30, 2021 and 2020, the Company
+had 1,953,024 and 10,519,440, respectively, of accrued payroll taxes, penalties and interest relating to calendar years 2004 - 2007.
+The total balance for accrued payroll taxes has accumulated on a quarterly basis beginning on their respective quarterly filing dates.
+Accrued interest is compounded daily at an estimated effective interest rate of 7.33 . The quarterly sub-totals that make up the 1,953,024
+balance have a calculated expiration date of 10 years according to the Internal Revenue Service statute of limitations. As the tax periods
+surpass their estimated expiration date, the Company removes the liability from the consolidated balance sheets, and an equivalent amount
+is recognized as Gain on expiration of accrued tax liability within other income on the consolidated statements of operations.
+For fiscal years ended June 30, 2021 and 2020, the Company recognized 491,953 and 768,361, respectively, of penalties and interest within
+interest expense on the consolidated statements of operations. For fiscal years ended June 30, 2021 and 2020, the Company recognized 9,054,041
+and 1,229,199 respectively, within Gain on expiration of accrued tax liability as a result of quarterly tax liabilities
+that expired during the fiscal years. The amount owing may be subject to additional late filing fees and penalties that are not quantifiable
+as at the date of these consolidated financial statements. In addition, the Company periodically reviews the historical filings in determining
+if the statute has been paused or extended by the Internal Revenue Service. 
+
+6. 
+ 
+ Notes Payable 
+
+Notes Payable Related
+Parties 
+
+The following is a summary of notes
+payable related parties at June 30, 2021 and 2020: 
+
+All notes are unsecured, bear interest
+at 3 per annum, and are due 360 days from the date of issuance, ranging from June 25, 2020 to June 25, 2022. Each entity has significant
+influence or common ownership with the Company s Chief Executive Officer. Several of these notes are in default. The company has
+not received any notices of default or demands for payment. All notes are unsecured and those which are past-due are due on demand. As
+of June 30, 2021 and 2020, total accrued interest for Notes Payable-Related Parties was 182,147 and 37,365 respectively. The Company
+recorded interest expense from Notes Payable-Related Party for fiscal years ending June 30, 2021 and 2020, of 144,782 and 32,852 respectively. 
+
+Notes Payable 
+
+Notes payable includes the following: 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Pacific Stem - SBA EIDL 
+ 299,900 
+
+Dalrada - Ignite acquisition 
+ 17,500 
+
+Dalrada - Payroll Protection Program 
+ 
+ 21,042 
+ 
+ Likido - COVID-19 Government loan 
+ 52,579 
+ 55,467 
+ 
+ Prakat - Bank loan 
+ 45,838 
+ 16,708 
+
+415,817 
+ 93,217 
+
+34 
+
+Pacific Stem and IHG s EIDL loan
+include a 3.75 interest rate for up to 30 years; the payments are deferred for the first 2 years (during which interest will accrue),
+and payments of principal and interest are made over the remaining 28 years. The EIDL loan has no penalty for prepayment. The EIDL loans
+attach collateral which includes the following property that EIDL borrower owns or shall acquire or create immediately upon the acquisition
+or creation thereof: all tangible and intangible personal property, including, but not limited to: (a) inventory, (b) equipment, (c) instruments,
+including promissory notes (d) chattel paper, including tangible chattel paper and electronic chattel paper, (e) documents, (f) letter
+of credit rights, (g) accounts, including health-care insurance receivables and credit card receivables, (h) deposit accounts, (i) commercial
+tort claims, (j) general intangibles, including payment intangibles and software and (k) as-extracted collateral as such terms may from
+time to time be defined in the Uniform Commercial Code. The security interest the EIDL borrower grants includes all accessions, attachments,
+accessories, parts, supplies and replacements for the collateral, all products, proceeds and collections thereof and all records and data
+relating thereto. The EIDL loans are technically in default as a result of a change in ownership without SBA s prior written consent.
+However, the Company is in currently remedying the default provision. 
+
+Likido s COVID-19 Government Loan
+includes a 2.5 interest rate for up to 6 years; the payments are deferred for the first year (during which interest will accrue). 
+
+The note payable issued pursuant to
+the Ignite acquisition matures on June 1, 2023, bears no interest and has monthly repayments of 2,500. 
+
+7. 
+ Convertible Note Payable Related Parties 
+
+As of June 30, 2019, the Company issued
+a convertible note for 1,875,000 to the Chief Executive Officer of the Company for compensation. Under the terms of the note, the amount
+due is unsecured, bears interest at 3 per annum, and was due 360 days from the date of issuance. On June 30, 2019, the Company issued
+note agreement which included a conversion feature of the outstanding balance at 0.034 per share. As the conversion price was equal to
+the fair value of the common shares on the date of the agreement, there was no beneficial conversion feature. As of June 30, 2021 the
+principal balance was 1,875,000 and the accrued interest was 112,500. 
+
+8. 
+ Related Party Transactions 
+
+As of June 30, 2021, and 2020,
+the Company owed 414,073 and 556,317, respectively to all related parties for reimbursement of various operating expenses, accrued salaries,
+management fees, etc. which has been recorded in accounts payable and accrued liabilities related parties. See below and Note
+12 for some specific disclosures related to these amounts. 
+
+As of June 30, 2021 and 2020, the amount
+above includes 0 and 7,650 of management fees, which consists of accounting and administrative services from a related party company
+controlled by the Chief Executive Officer of the Company. The current management fee agreement calls for monthly payments of 7,500. The
+agreement is ongoing until terminated by either party. Total expenses incurred related to management fees during the years ended June
+30, 2021 and 2020 were 72,000 and 54,000, respectively. As of June 30, 2021, the Company owed 357,025 in the form of promissory notes
+and 2,654 included within accounts payable and accrued liabilities related parties. 
+
+During the fiscal year ended June 30,
+2021, the Company incurred 515,646 to a related entity for chartered business flights. During the year ended June 30, 2021, the Company
+made payments totaling 98,409 to a related entity for chartered business flights. In 2021, the Company issued a promissory note totaling
+ 417,237 in exchange for the remaining amounts payable to the related entity at terms similar to those disclosed in Note 6. As of June
+30, 2021 the principal balance was 417,237 and accrued interest was 0. 
+
+During the year ended June 30, 2021,
+the Company received cash of 2,510,088 from a related party entity that processes payroll for the Company. As of June 30, 2021, the Company
+owed 3,087,690 in the form of promissory notes and 208,943 included within accounts payable and accrued liabilities related
+parties. 
+
+During the year ended June 30, 2021,
+the Company received cash of 2,604,891 from a related party entity to fund operations. As of June 30, 2021, the Company owed 2,723,943
+in the form of promissory notes and 0 included within accounts payable and accrued liabilities related parties. 
+
+During the year ended June 30, 2021,
+the Company received cash of 644,430 from a related party entity to fund operations. As of June 30, 2021, the Company owed 2,135,663
+in the form of promissory notes and 0 included within accounts payable and accrued liabilities related parties. 
+
+In November 2019, the Chief Executive
+Officer converted 170 in amounts owed from the Company into 5,000 shares of Series F Super Preferred Stock. 
+
+On July 1, 2019, the Company formalized
+an employment agreement with its Chief Executive Officer, which entitles him to compensation of three hundred and ninety-three thousand
+dollars 393,000) per year. Annual increases will be up to 10 based performance criteria to be determined at a later date. He will be
+issued common stock of the Company sufficient to provide a 10 ownership position post reverse split which shares be maintained for a
+period of two years. In addition to all other benefits and compensation, he shall be eligible for a quarterly bonus of 47,000 based on
+if the Company achieves a net profit for that quarter. In 2021, the Chief Executive Officer converted 879,830 of accrued salary into
+a promissory note. 
+
+In February 2021, the Company issued
+500,000 common shares to each board member, including the Chief Executive Officer, for an aggregate of 4,500,000 shares. The fair value
+of 730,000 was recorded in the consolidated statements of operations. 
+
+35 
+
+The following is a summary of revenues
+recorded by the Company s to related parties with common ownership: 
+
+Year Ended 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Dalrada Health 
+ 62,607 
+ 124,427 
+ 
+ Prakat 
+ 137,500 
+ 99,139 
+ 
+ Pacific Stem 
+ 132,550 
+
+332,657 
+ 223,566 
+
+See Notes 6, 7, 9, 10, 12 and 14 for
+additional related party transactions. 
+
+9. 
+ Preferred Stock 
+
+The Company has 100,000 shares authorized
+of Series F Super Preferred Stock, par value, 0.01, of which 5,000 shares (at a fair value of 170) were issued to the CEO as of December
+31, 2019. Each share of Series F Super Preferred Stock entitles the holder to the greater of (i) one hundred thousand votes for each share
+of Series F Super Preferred Stock, or (ii) the number of votes equal to the number of all outstanding shares of Common Stock, plus one
+additional vote such that the holders of Series F Super Preferred Stock shall always constitute a majority of the voting rights of the
+Corporation. In any vote or action of the holders of the Series F Super Preferred Stock voting together as a separate class required by
+law, each share of issued and outstanding Series F Super Preferred Stock shall entitle the holder thereof to one vote per share. The holders
+of Series F Super Preferred Stock shall vote together with the shares of Common Stock as one class. 
+
+10. 
+ 
+ Stockholders Equity 
+
+Common Stock Transactions -
+Fiscal 2021 
+
+Effective January 29, 2021, the Company acquired 100 of the common stock of IHG. In consideration for the acquisition, the Company will issue a total of 1,000,000 shares of its common stock at 0.44 per share, or a total fair value of 440,000. 
+
+Effective February 3, 2021, the Company acquired
+100 of the membership units of Pacific Stem. As common stock consideration for the acquisition, the Company will issue a total of 1,000,000
+shares of its common stock at 0.354 per share, or a fair value of 354,000. 
+
+As of June 30, 2021, the Company had issued 512,500 shares
+pursuant to the above acquisitions. The remaining shares will be issued on a quarterly basis in accordance with the respective agreements.
+The fair value of the shares not yet issued is 601,825 and was recorded to common stock to be issued in the consolidated balance sheets. 
+
+Effective January 19, 2021, the Company issued 361,420 pursuant to a share exchange agreement. The fair value of 93,369 was included
+in research and development expenses in the consolidated statements of operations. 
+
+Effective March 22, 2021, the Company issued
+4,500,000 shares to the board of directors pursuant to the 2020 stock compensation plan. 3,500,000 shares of common stock were granted
+on July 9, 2020 at 0.08 per share and 1,000,000 shares of common stock were granted on February 25, 2021 at 0.45 per share, for a total
+fair value of 730,000. 
+
+36 
+
+Common Stock Transactions -
+Fiscal 2020 
+
+Effective
+December 6, 2019, the Company acquired 100 of the interests of Likido. In consideration for the acquisition, the Company issued 6,118,000
+shares of its common stock at 0.0448 per share, or a total fair value of 274,086. 
+
+On January 6, 2020 the Company issued Fawad
+Nisar, the Chief Operating Officer, Three 3,000,000 shares of common stock at 0.576 per share, or a total fair value of 172,800, pursuant
+to his employment agreement. 
+
+Effective January 9, 2020, the Company acquired 72 of the common equity shares of Prakat. In consideration
+for the acquisition, the Company issued 3,600,000 shares of its common stock at 0.0450 per share, or a total fair value of 162,000. 
+
+On March 23, 2020, the Company acquired all of the issued and outstanding common shares, including business plans and access to
+contacts of Shark. In consideration for the acquisition, the Company issued 3,000,000 shares of its common stock at 0.0310 per share,
+or a total fair value of 93,000. 
+
+In June 2020, the Company converted a promissory note dated December 31, 2018 of 40,052 principal
+and interest owed TIPP Investments LLC at 0.01 per share, or 3,965,614 shares of common stock. Non-cash interest expense recorded as
+a result of the conversion was 155,055. 
+
+In June 2020, the Company issued 500,000 shares of common stock to a consultant pursuant
+to a consulting agreement at 0.045 per share, or a total fair value of 22,500. 
+
+As of June 30, 2021 and 2020, the Company
+had 73,838,662 and 68,464,742 common shares issued and outstanding, respectively. 
+
+Dalrada Financial Corp 2020 Stock
+Compensation Plan 
+
+On July 9, 2020 the Board authorized
+the Dalrada Financial Corp 2020 Stock Compensation Plan to be used to compensate the company board of directors. The plan allocates the
+issuance of up to 3,500,000 shares. On February 25, 2021, the Company amended the plan to issue up to 4,500,000 shares and issued an aggregate
+of 4,500,000 common shares, or 500,000 shares to each board member (9). 3,500,000 shares of common stock were granted on July 9, 2020
+at 0.08 per share and 1,000,000 shares of common stock were granted on February 25, 2021 at 0.45 per share, for a total fair value of
+ 730,000, which is included in the consolidated statements of operations. 
+
+On May 10, 2021, the Company granted
+1,000,000 options to purchase common stock to its Chief Financial Officer with an exercise price of 0.47 per share. The options expire
+in ten years after issuance. The fair value of the options granted was 0.43 per share, or 430,027 which was calculated using the Black-Scholes
+model with the following inputs and assumptions: 
+
+Year Ended 
+
+June 30, 2021 
+ 
+ Risk-free interest rate 
+ 0.80 
+ 
+ Expected term (in years) 
+ 5.27 
+ 
+ Expected volatility 
+ 149.2 
+ 
+ Expected dividend yield 
+ 0.00 
+ 
+ Fair value per stock option 
+ 0.47 
+
+The options vest monthly over a twelve-month
+period. During the year ended June 30, 2021, the Company recognized 71,673 in stock-based compensation expense. As of June 30, 2021,
+166,667 options had vested and there was 358,354 in unrecognized compensation cost which will be recognized through May 2022. 
+
+37 
+
+11. 
+ Segment Reporting 
+
+Upon the Company s acquisitions
+in the year ended June 30, 2020, the Company manages its business and makes its decisions based on segments. The Company classifies its
+operations into five segments: Engineering, Health, Information Technology, Education, and Corporate. The Company evaluates the performance
+of its segments primarily based on revenues, operating income (loss) and net income (loss). Also included below is a breakout by segment
+for Inventory, PPE, Goodwill, and Total Assets. 
+
+Segment information for the years ended
+June 30, 2021 and 2020 is as follows: 
+
+Year Ended June 30, 2021 
+
+Engineering 
+ Health 
+ Information Technology 
+ Education 
+ Corporate 
+ Inter-Segment Eliminations 
+ Consolidated 
+ 
+ Revenues 
+ 977,258 
+ 1,166,135 
+ 1,857,950 
+ 452,246 
+ 18,820 
+ (1,065,725 
+ 3,406,684 
+ 
+ Loss from operations 
+ (1,295,095 
+ (1,219,808 
+ (215,176 
+ (173,419 
+ (4,923,665 
+ (742,988 
+ (8,570,151 
+ 
+ Net income (loss) 
+ (1,233,811 
+ (1,242,352 
+ (217,035 
+ (146,179 
+ 3,556,974 
+ (716,376 
+ 1,221 
+
+Year Ended June 30, 2020 
+
+Engineering 
+ Health 
+ Information Technology 
+ Education 
+ Corporate 
+ Inter-Segment Eliminations 
+ Consolidated 
+ 
+ Revenues 
+ 753,632 
+ 407,069 
+ 624,198 
+
+(606,745 
+ 1,178,154 
+ 
+ Loss from operations 
+ (794,400 
+ 128,613 
+ (116,668 
+ 
+ (1,154,659 
+ (751,983 
+ (2,689,097 
+ 
+ Net loss 
+ (808,908 
+ 122,587 
+ (104,485 
+ 
+ (935,059 
+ (751,692 
+ (2,477,557 
+
+Year Ended June 30, 2021 
+
+Engineering 
+ Health 
+ Information Technology 
+ Education 
+ Corporate 
+ 
+ Consolidated 
+ 
+ Inventory 
+ 582,248 
+ 250,378 
+ 9,482 
+
+842,108 
+ 
+ PPE 
+ 363,594 
+ 32,510 
+ 79,277 
+ 
+ 14,521 
+ 
+ 489,902 
+ 
+ Goodwill 
+
+736,456 
+ 
+ 736,456 
+ 
+ Total Assets 
+ 2,441,071 
+ 1,056,084 
+ 564,545 
+ 110,798 
+ 808,463 
+ 
+ 4,980,961 
+
+Year Ended June 30, 2020 
+
+Engineering 
+ Health 
+ Information Technology 
+ Education 
+ Corporate 
+ 
+ Consolidated 
+ 
+ Inventory 
+ 263,015 
+ 387,407 
+
+650,422 
+ 
+ PPE 
+ 186,376 
+ 54,132 
+
+240,508 
+ 
+ Goodwill 
+
+143,152 
+ 
+ 143,152 
+ 
+ Total Assets 
+ 785,969 
+ 539,533 
+ 577,867 
+ 
+ 880,302 
+ 
+ 2,783,671 
+
+38 
+
+Geographic Information 
+
+The following table presents revenue
+by country: 
+
+Year Ended 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ United States 
+ 1,889,449 
+ 591,373 
+ 
+ Europe 
+ 331,254 
+
+India 
+ 1,185,981 
+ 586,781 
+
+3,406,684 
+ 1,178,154 
+
+The following table presents inventories
+by country: 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ United States 
+ 335,037 
+ 409,044 
+ 
+ Europe 
+ 507,071 
+ 241,378 
+
+842,108 
+ 650,422 
+
+The following table presents property
+and equipment, net, by country: 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ United States 
+ 221,308 
+ 39,507 
+ 
+ Europe 
+ 256,889 
+ 191,508 
+ 
+ India 
+ 11,705 
+ 9,493 
+
+489,902 
+ 240,508 
+
+12. 
+ Commitments and Contingencies 
+
+Lease Commitments 
+
+The Company determines if an arrangement
+is a lease at inception. This determination generally depends on whether the arrangement conveys to the Company the right to control the
+use of an explicitly or implicitly identified fixed asset for a period of time in exchange for consideration. Control of an underlying
+asset is conveyed to the Company if the Company obtains the rights to direct the use of and to obtain substantially all of the economic
+benefits from using the underlying asset. The Company has lease agreements which include lease and non-lease components, which the Company
+has elected to account for as a single lease component for all classes of underlying assets. Lease expense for variable lease components
+is recognized when the obligation is probable. 
+
+39 
+
+Operating lease right of use ROU assets and lease liabilities are recognized at commencement date based on the present value of lease payments over the lease term. Operating
+lease payments are recognized as lease expense on a straight-line basis over the lease term. The Company primarily leases buildings (real
+estate) which are classified as operating leases. ASC 842 requires a lessee to discount its unpaid lease payments using the interest rate
+implicit in the lease or, if that rate cannot be readily determined, its incremental borrowing rate. As an implicit interest rate is not
+readily determinable in the Company's leases, the incremental borrowing rate is used based on the information available at commencement
+date in determining the present value of lease payments. 
+
+The lease term for all of the Company's
+leases includes the non-cancellable period of the lease plus any additional periods covered by either a Company option to extend (or not
+to terminate) the lease that the Company is reasonably certain to exercise, or an option to extend (or not to terminate) the lease controlled
+by the lessor. Options for lease renewals have been excluded from the lease term (and lease liability) for the majority of the Company's
+leases as the reasonably certain threshold is not met. 
+
+Lease payments included in the measurement
+of the lease liability are comprised of fixed payments, variable payments that depend on index or rate, and amounts probable to be payable
+under the exercise of the Company option to purchase the underlying asset if reasonably certain. 
+
+Variable lease payments not dependent
+on a rate or index associated with the Company's leases are recognized when the event, activity, or circumstance in the lease agreement
+on which those payments are assessed as probable. Variable lease payments are presented as operating expenses in the Company's income
+statement in the same line item as expense arising from fixed lease payments. As of and during the year ended June 30, 2021, management
+determined that there were no variable lease costs. 
+
+Right of Use Asset 
+
+ In May 2020, the Company entered into
+a five-year lease agreement to lease a commercial building in Escondido, California. The building is owned by a related party. The Company
+recognized a right of use asset and liability of 822,389 and used an effective borrowing rate of 3.0 within the calculation. Imputed
+interest is 53,399. The lease agreements mature in April 2025. Total amounts expensed under the lease during the years ended June 30,
+2021 were 343,205 and 16,245, respectively, for which 99,155 is included accounts payable and accrued liabilities related parties. 
+
+In May 2020, the Company entered into
+three-year lease agreement to lease a warehouse in Brownsville, Texas. The Company recognized a right of use asset and liability of 177,124
+and used an effective borrowing rate of 3.0 within the calculation. Imputed interest is 8,399. The lease agreements mature in April
+2025. Total amounts expensed under the lease during the year ended June 20, 2021 and 2020 were 45,329 and 13,748, respectively. 
+
+The Company s Prakat subsidiary
+entered into a lease agreement to lease office space through September 2026. The Company recognized a right of use asset and liability
+of 140,874 and used an effective borrowing rate of 9.2 within the calculation. 
+
+In August 2020, the Company s
+Likido subsidiary entered in a new operating agreement for warehouse space. The lease matures in July 2021. 
+
+In June 2017, the Company s IHG
+subsidiary entered into a lease for 3 separate office suites in San Diego, California. The lease expires in January 2022. 
+
+In May 2021, the Company s PSC
+subsidiary entered into a three year and 6-month lease agreement to lease a medical office space in Poway, California. The Company recognized
+a right of use asset and liability of 277,856 and used an effective borrowing rate of 3.0 within the calculation. 
+
+40 
+
+The following are the expected lease
+payments as of June 30, 2021, including the total amount of imputed interested related: 
+
+Fiscal Year Ending June 30, 
+
+2022 
+
+356,235 
+
+2023 
+
+352,237 
+
+2024 
+
+300,945 
+
+2025 
+
+195,412 
+
+2026 
+
+34,193 
+
+Thereafter 
+
+8,651 
+
+1,247,673 
+
+Less: imputed interest 
+
+(75,931) 
+ 
+ Total 
+
+1,171,742 
+
+13 
+ Income Taxes 
+
+We file income tax returns in the United
+States federal jurisdiction and in various state and local jurisdictions. In the normal course of business, we are subject to examination
+by taxing authorities. The tax years ending 2018 through 2020 remain subject to examination for federal tax purposes and remain subject
+to examination in significant state tax jurisdictions. The Company has yet to file their income tax return for the year ended June 30,
+2021 
+
+As of June 30, 2021, the Company had
+federal and state net operating loss carry forwards of 20,036,664 that may be offset against future taxable income which will begin to
+expire in 2038 through 2041. 
+
+The reconciliation of income tax expense
+computed at the U.S. federal statutory rate to the income tax provision for the years ended June 30, 2021 and 2020 is as follows: 
+
+2021 
+ 2020 
+ 
+ Current: 
+
+Federal 
+
+State 
+ 2,400 
+
+Foreign 
+
+2,400 
+
+Deferred: 
+
+Federal 
+ (1,607,556 
+ (522,084 
+ 
+ State 
+ (446,626 
+ (145,050 
+
+(2,054,182 
+ (667,134 
+ 
+ Valuation allowance 
+ 2,054,182 
+ 667,134 
+ 
+ Total provision for income taxes 
+ 2,400 
+
+41 
+
+The
+provision for income tax for the year ended June 30, 2021 is included in selling, general and administrative expenses. 
+
+Deferred
+income taxes reflect the net tax effects of: (a) temporary differences between the carrying amounts of assets and liabilities for financial
+reporting purposes and the amounts used for income tax purposes; and (b) operating loss and tax credit carry-forwards. We record net deferred
+tax assets to the extent we believe these assets will more likely than not be realized. In making such determination, we consider all
+available positive and negative evidence, including future reversals of existing taxable temporary differences, projected future taxable
+income, tax planning strategies and recent financial operations. Significant components of deferred tax assets as of June 30, 2021 and
+2020 were as follows: 
+
+2021 
+ 2020 
+
+Depreciation Amortization 
+ 1,521 
+ 450 
+ 
+ Reserves and Accruals 
+ 250,907 
+ 118,071 
+ 
+ Net Operating Loss Carryforwards 
+ 2,688,360 
+ 768,085 
+ 
+ Gross Deferred Tax Assets 
+ 2,940,788 
+ 886,606 
+
+Valuation Allowance 
+ (2,940,788 
+ (886,606 
+
+Net Deferred Tax Assets 
+
+Reconciliation
+of the statutory federal income tax to the Company's effective tax: 
+
+2021 
+
+2020 
+
+Tax at Federal Statutory Rate 
+
+21.0 
+
+21.0 
+
+State, Net of Federal Benefit 
+
+(36,423) 
+
+5.9 
+
+Payroll Tax Interest 
+
+(155,721) 
+
+10.5 
+
+Gain on Expiration of Accrued Tax Liability 
+
+10,224 
+
+(6.6) 
+
+Stock Based Compensation 
+
+13,788 
+
+(3.7) 
+
+Change in Tax Rate 
+
+(168,111) 
+
+0.0 
+
+Change in Valuation Allowance 
+
+168,522 
+
+(27.0) 
+
+Provision for Taxes 
+
+196.6 
+
+0.0 
+
+The
+difference in the effective rate and the statutory rate is due to permanent differences, primarily deductibility of penalties and interest
+on accrued payroll tax liabilities and the gains related to the expiration of the statute of limitations for accrued payroll tax liabilities. 
+
+14. 
+ Subsequent Events 
+
+On August 4, 2021, the Company issued
+87,500 shares of common stock as part of the consideration for the acquisition of Pacific Stem. 
+
+On August 10, 2021, the Company issued
+125,000 shares of common stock as part of the consideration for the acquisition of IHG. 
+
+42 
+
+On August 16, 2021, the company issued
+an aggregate of 2,000,000 shares of common stock to four new directors pursuant to Amendment No.1 of the 2020 Stock Compensation Plan
+used to compensate the company board of directors. The Amended plan allocates the issuance of up to 6,500,000 shares. The 2,000,000 shares
+issued are valued at 0.28 per share or Fair Value of 560,000. 
+
+In
+July 2021, Dalrada, through its subsidiary Dalrada Health, expanded its presence in medical services sector by establishing S las
+Rejuvenation + Wellness Solas which provides science-supported, medically backed services, and creates overall wellness
+programs that are customized to the unique needs of its clients. Solas will be opening its first health services location in October 2021
+where it will provide a myriad of health and wellness treatments and procedures. 
+
+In August 2021, Dalrada, through its
+subsidiary Dalrada Health, entered into a joint venture JV with Vivera Pharmaceuticals, Inc Vivera for a 51 
+ownership. The JV, Pala Diagnostics, LLC Pala is a CLIA-certified diagnostics lab focused on SARS-CoV-2 testing for now
+with additional testing capabilities to be introduced. Pursuant to the partnership agreement, Dalrada had an equity commitment of
+ 500,000 of which it achieved during September 2021. Dalrada has invested additional funding to continue the expansion of the SARS-CoV-2
+testing while commercial insurance and CARES Act reimbursements process claims. Since fiscal year-end, Pala has conducted over 25,000
+tests. Pursuant to the JV, Dalrada shall also issue two hundred and fifty thousand common shares (250,000) to Vivera. 
+
+Subsequent
+to year-end, the Company borrowed 366,263 from Related Entity 1, and 2,206,718 from Related Entity 3 . 
+
+Management has evaluated all other subsequent
+events through October 13, 2021, the date the financial statements were available to be issued. Based on this evaluation, no additional
+material events were identified which require adjustment or disclosure in these financial statements. 
+
+43 
+
+Item 9. Changes in and Disagreements with Accountants on Accounting
+and Financial Disclosure 
+
+None 
+
+Item 9A. Controls and Procedures 
+
+Evaluation of Disclosure Controls
+and Procedures 
+
+Our management, with the participation of our principal executive and
+principal financial officer, evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered
+by this Annual Report. Based on that evaluation, our CEO and our CFO, concluded that our disclosure controls and procedures as of the
+end of the period covered by the Annual Report were not effective and that the information required to be disclosed by us in reports filed
+under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in the SEC s rules
+and forms and (ii) accumulated and communicated to our management, including our CEO and our CFO, as appropriate to allow timely decisions
+regarding disclosure. A controls system cannot provide absolute assurance, however, that the objectives of the controls system are
+met, and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company
+have been detected. 
+
+Management s Annual
+Report on Internal Control over Financial Reporting 
+
+Our management is responsible for establishing and maintaining adequate
+internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act). Our internal control over financial
+reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with accounting principles generally accepted in the United States. 
+
+Because of its inherent limitations, internal control over financial
+reporting may not prevent or detect misstatements. Therefore, even those systems determined to be effective can provide only reasonable
+assurance of achieving their control objectives. 
+
+Our management, with the participation of our CEO and our CFO, evaluated
+the effectiveness of our internal controls over financial reporting as of June 30, 2021. In making this assessment, management used
+the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission COSO in Internal Control
+ Integrated Framework. Based on this evaluation, our management, with the participation of the CEO and CFO, concluded that,
+as of June 30, 2021, our internal controls over financial reporting were not effective. 
+
+During the year ended June 30, 2021, the CFO determined that Management's
+assessment of the effectiveness of the registrant's internal control over financial reporting is as of the year ended June 30, 2021. The
+Company believes that internal control over financial reporting is not effective. We and our independent registered public accounting
+firm have identified the following current material weakness, which some were first identified at June 30, 2020 and others identified
+as June 30, 2021, considering the nature and extent of our current operations and any risks or errors in financial reporting under current
+operations: 
+
+Lack
+of Management oversight and review of the financial reporting process, including presentation of the financial statements and related
+disclosures; 
+ Lack
+of procedures related to recognition of revenues; 
+ Lack
+of procedures related to the allocation of the purchase price, including acquired intangibles, in connection with business acquisitions. 
+
+In May 2021, the Company the hired a CFO who is expected to develop
+policies and procedures to mitigate the indicated weaknesses. The Company expect to be begin implementing procedures in early fiscal 2022. 
+
+44 
+
+This Annual Report does not include an attestation report of our registered
+public accounting firm regarding our internal controls over financial reporting. Management s report was not subject to attestation
+by our registered public accounting firm pursuant to rules of the SEC that permit us to provide only management s report in this
+Annual Report. 
+
+No Attestation Report by Independent
+Registered Accountant 
+
+The effectiveness of our internal control over financial reporting
+as of June 30, 2021 has not been audited by our independent registered public accounting firm by virtue of our exemption from such requirement
+as a smaller reporting company. 
+
+Changes in Internal Control Over Financial Reporting 
+
+There have been no changes in internal control over financial reporting
+except as noted above. 
+
+Item 9B. Other Information. 
+
+None. 
+
+45 
+
+PART III 
+
+Item 10. Directors, Executive Officers, Promoters and
+Control Persons; Compliance with Section 16(a) of the Exchange Act 
+
+Directors, Executive Officers and Key Employees 
+
+The following table sets forth certain information regarding our directors,
+executive officers and key employees as of June 30, 2020 and as of the date of the filing of this report: 
+
+Name and Address 
+ Age 
+ Position(s) Held 
+
+Brian Bonar 
+ 74 
+ CEO and Director 
+ 
+ Fawad Nisar 
+ 40 
+ COO and Director 
+ 
+ Kyle McCollum 
+ 38 
+ CFO and Director 
+
+Pauline Gourdie 
+ 49 
+ Director 
+ 
+ Brian Kendrick 
+ 58 
+ Director 
+ 
+ Fletcher A. Robbe 
+ 70 
+ Director 
+ 
+ Harvey Hershkowitz 
+ 75 
+ Director 
+ 
+ Anthony Zolezzi 
+ 67 
+ Director 
+ 
+ Tom Giles 
+ 53 
+ Director 
+ 
+ David J. Bacon 
+ 54 
+ Director 
+ 
+ Bijan R. Kian (Rafiekian) 
+ 69 
+ Director 
+ 
+ Jose Arrieta 
+ 40 
+ Director 
+
+Background of Directors and Executive Officers 
+
+Brian Bonar , CEO and director has over
+16 years with Dalrada Financial Corp. Prior to joining Dalrada, Mr. Bonar worked for more than eighteen years with IBM in the US, Asia,
+and Europe. He has formerly worked at QMS, and Rastek Corporation, The Solvis Group, and was on the Board of Directors of Allegiant Professional
+and Aliance National Insurance Company. Mr. Bonar is also the founder of Bezier Systems. 
+
+Mr. Bonar is involved with various private entities
+and has been recognized by the Cambridge Who s Who on several occasions as the executive of the year. In 2012, he
+was recognized as the CEO of the fastest growing public company in Orange County. He is the Chairman of Trucept, Inc. as well as President
+and Chief Executive Officer of various privately held corporations. He is also on the board of American Marine LLC and founded American
+Management Services (AMS) Outsourcing, a PEO-focused company. 
+
+Mr. Bonar holds the honorary title, Lord Bonar
+of Wilcrick, Cardiff, Wales United Kingdom. He received a BSC in Mechanical Engineering from the Strathclyde University, Glasgow Scotland
+and an MBA and PHD in the field of International Business Development Studies from the Stafford University, England UK. 
+
+46 
+
+Pauline Gourdie , Director - Ms. Gourdie
+is currently the owner/operator of CSL Staffing CSL ), which she established in 2016. CSL is a boutique general staffing
+service, providing staffing solutions for businesses in the San Diego and greater Southern California areas. For seven years prior to
+that, Ms. Gourdie was the President/Owner of Gourdie Consulting Corp which provided business consulting services across Americas 
+Europe. Ms. Gourdie possesses over 20 years of experience managing individuals and teams, and was instrumental in the implementation of
+fulfilment and manufacturing centers for IBM and Lenovo in the United States, United Kingdom, Eastern Europe, and China. 
+
+Ms. Gourdie holds a Bachelor of Science degree
+in Industrial and Labor Relations from Cornell University and brings to Dalrada an extensive knowledge of supply chain management, customer
+account and relationship management, and recruitment and development. Ms. Gourdie was appointed to the Dalrada board as of July 29, 2019
+and does not receive compensation in her role as a director. 
+
+Brian Kendrick , Director Kendrick
+has been the Managing Director of Allegro Jet Management since 2014. Mr. Kendrick has over 30 years of business experience starting with
+a short stint with Burroughs as a computer programmer. Mr. Kendrick developed one of the industry's first systems for tracking owners
+of aircraft throughout the world and managed all aspects from the inspection and purchase of aircraft to delivery. Appointed July 29,
+2019. 
+
+Fletcher A. Robbe , Director - As managing
+partner of Fletcher Robbe International Attorneys at Law, Mr. Robbe brings 43 years of international and domestic business and financial
+acumen as well as practical hands on experience to the personal and confidential representation of his clients comprised of Foreign Governments,
+Multi-National Public and Private Corporations, Investment Banking Institutions, Family Offices and Private Wealth Individuals. Mr. Robbe
+previously served as General Counsel for the Los Angeles World Trade Association. Appointed July 29, 2019. 
+
+Fawad Nisar , COO and Director Prior
+to COO of Dalrada, Mr. Nisar, in 2019 held the position of Executive Vice President of Marketing of Trucept, Inc. In 2018, Fawad held
+the position of Vice President of Marketing at Isodiol International. From 2014 through 2018, Mr. Nisar held the position of Senior Account
+Director, Healthcare Vertical. Mr. Nisar has held various executive and high-level roles managing global operations as well as sales and
+marketing for large product and service organizations. Graduating with a master s degree in chemical engineering from Manhattan
+College, Nisar began his career working as a biochemical engineer for Wyeth Pharmaceuticals producing one of the first targeted
+chemotherapy drugs to treat acute myeloid leukemia, followed by 14 years of providing business solutions to Fortune 500 pharmaceutical,
+healthcare, manufacturing, and retail businesses. 
+
+Harvey Hershkowitz ,
+Director - Mr. Hershkowitz for the last five years has been the chairman of the Board for Palomar Hospital. Mr. Hershkowitz has more than
+35-years experience in the healthcare industry with the top Fortune 10 companies including consulting, Information Technology (IT),
+software, professional services, nursing schools, management, building and development. In addition, he has successfully spearheaded companies
+in business, IT, residential, wellness centers, commercial development, acute care hospitals, skilled nursing facilities, major physician
+groups, biosciences, pharmaceutical and healthcare construction boards. Serving on many boards including being Chairman to many, Mr. Hershkowitz
+also has a notable track record with spring-boarding start-ups, raising capital, and positioning corporations in the global market where
+he actively expands his reach and network. 
+
+Anthony Zolezzi is currently the CEO of
+Diomics Inc. as of August 2019, and is on the Board of Directors of TwinLab and Wild Oats Organic Marketplace. Previously, in 2018, Mr.
+Zolezzi was named the CEO of Twinlab Consolidated Holdings, Inc., and appointed to Twinlab s Board of Directors in May, 2018. Mr.
+Zolezzi, for the last six years, is also an operating partner at Pegasus Capital Advisors, a private asset management company focused
+on the wellness sectors. As a serial entrepreneur, Mr. Zolezzi has dedicated his career to the well-being of both people and the planet,
+co-founding businesses that provide potential solutions to both health concerns and key environmental issues as well as focusing on ways
+that biotech breakthroughs can enhance consumer health and wellness. Zolezzi has authored and co-authored six books. 
+
+Mr. Zolezzi is a graduate of Loyola Marymount
+University, earned an MBA at San Diego State and completed the Executive Program at the Kellogg School at Northwestern. Zolezzi is a former
+board member of Vitamin Angels, a non-profit focused on providing nutritional support in impoverished countries. He also co-founded and
+is a former board member of the Organic Center for Education and Promotion, and a former member of the Organic Alliance Board of Directors.
+Mr. Zolezzi also serves as an advisory board member with the Menus of Change program, a joint venture between The Culinary Institute of
+America and Harvard T.H.Chan School of Public Health, and the Keurig Corporation. 
+
+47 
+
+Tom Giles , since November 2017, is the
+chief Revenue Officer of Corporate Development and Co-founder of WeR.Ai. Prior
+to WeR.AI., Mr. Giles was the General Partner Healthcare at Frost Data Capital f rom
+ July 2014 to June 2017, the General
+Manager of Healthcare at Nex Cubed from June 2017 to December 2018, and an advisor at ARVDRK Technologies from September 2017 to December
+2018. Though the years, Mr. Giles also held high level positions at companies such as IBM and Trivium Health Inc. Mr. Giles is currently
+an adviser to the Boards at the following companies: Trials.ai, Diomics Corporation, Narrative Wave, and has been a board member of several
+other companies. 
+
+Mr. Giles' executive management leadership
+includes technology and healthcare industries with a focus on artificial intelligence (AI) and machine learning (ML) to reduce time and
+expense to market. Mr. Giles' accomplishments include raising more than 200 million in capital for startups and venture funds in addition
+to building strategic partnerships with some of the largest global companies including IBM, GE, Accenture, T-Mobile, and DST. He has also
+held industry lead and advisory roles in early-stage ventures and incubators. Mr. Giles holds a Bachelor s
+degree in Business from San Diego State University, California. 
+
+Dr. David Bacon is currently
+an active Navy CAPTAIN with 22 years of active-duty service. During the SARS-CoV-2 pandemic, Dr. Bacon was responsible for reviewing proposals
+for funding in the areas of therapeutics, diagnostics, and wearable monitors. He reviewed more than 400 proposals and provided his expert
+opinion on the scientific rationale and study design. Dr. Bacon s professional background includes: Former program Area Manager
+for the DoD s HIV and Emerging Infectious Diseases research programs; Science and Technology Program management/program development
+Chemistry Division, Naval Research Laboratory; Deployed as Officer-in-Charge, Kandahar Airfield, Afghanistan and Camp Arifjan, Kuwait;
+Deployed as sole microbiologist aboard USNS Comfort in support of Continuing Promise 2009; Head, Laboratory Sciences, Navy Environmental
+and Preventive Medicine Unit 2, Norfolk, VA; Director, Parasitology Program, Naval Medical Research Unit 6 (NAMRU-6), Lima, Peru, Deputy
+Director, Parasitology Department, NAMRU-6, Lima, Peru; Member of scientific assessment team commissioned by the Iraq Survey Group to
+investigate biological weapons programs in Baghdad, Iraq; Deployed as element commander of a biological weapons detection laboratory,
+Baghdad, Iraq and Principal Investigator, Malaria Program Naval Medical Research Center, Research Area. 
+
+Dr. Bacon earned a B.S. from the University of New Hampshire (Medical
+Technology) in May 1990 and a Ph.D. from the University of New Hampshire (Microbiology) in May 1997. 
+
+The Honorable Bijan R. Kian , currently
+the Chairman of the Board of Directors of TODAQ USA Corporation since July 2020, as well as the Chairman of the Board of directors of
+Lenders Technology for the last 10 plus years, was twice confirmed by the United States Senate and has served three presidents of the
+United States from both political parties. In 2016, Mr. Kian served as Deputy Lead on the Office of Director of National Intelligence
+for the President Transition Team. Formerly, Mr. Kian served as a Member of the Export-Import Bank of the United States, A Member of the
+White House Business Council, Director of Foreign Investment for the Staten of California and a Senior Fellow for global public policy
+at the United States Naval Postgraduate School and Member of the Board of directors at the National Defense University Foundation. He
+is recognized around the world as a senior executive in global trade and international security. 
+
+Mr. Kian is a graduate of the University
+of Brighton, with continuing education at Oxford, Harvard Kennedy School and MIT. A Fellow at the Royal Society of Arts in the United
+Kingdom, Mr. Kian is also the recipient of the Ellis Island Medal of Honor. 
+
+Jose Arrieta, is currently with Imagineeer
+LLC, a company he founded when he left Government. Imagineeer is an IT solutions company that currently is focused on fund raising, blockchain
+enabled diagnostic development, cyber security solutions and quantum inspired optimization capabilities. Mr. Arrieta works with Federal
+customers evaluating and valuing venture backed technology starts ups in the health and national security space. Mr. Arrieta currently
+sits on a number of boards and advises 5 technology startups. Imagineeer is also working to build an ecosystem to facilitate secure, autonomous,
+data driven, AI powered science-based organizations Mr. Arrieta is also the former Chief Information Officer and Interim Chief Data Officer
+of HHS. He is a respected leader in applying emerging technologies, especially blockchain, artificial intelligence/machine learning
+and process automation. He oversaw 6.3B in IT investments, 800B in grants and 26B in Federal contracts while at HHS. Mr. Arrieta has
+also published articles on valuing disruptive technology companies and the importance of industry / government communications. Jose led
+the creation / implementation of the largest public health surveillance capability in the United States during the pandemic and the first
+enterprise grade supervised machine learning capability to help more accurately distribute testing supplies and predict hot spots across
+the United States. He created a public private key, distributed ledger infrastructure to establish digital identities for commercial,
+federal, state end points to aid the COVID 19 vaccination and testing efforts. He created and teaches the first blockchain course (blockchain
+and cryptos) at the Johns Hopkins University as well as entrepreneurial finance. 
+
+48 
+
+Kyle McCollum , is current the Chief Financial
+Officer of the company. Prior to that, Mr. McCollum was with Better Choice Company Inc. (ticker: BTTR) for three years where Mr. McCollum
+acted as Corporate Secretary and SVP of Corporate Finance. 
+
+In 2018, Mr. McCollum helped form Bona Vida, a
+pet CBD company, were he served as Chief Financial Officer. In May 2019, Bona Vida merged into Better Choice Company Inc., a publicly
+listed pet health and wellness company (ticker: BTTR), where Mr. McCollum acted as Corporate Secretary and SVP of Corporate Finance. With
+Better Choice Company, he assisted in the merger of Bona Vida and TruPet with Better Choice Company as well as the acquisition of Halo
+Purely for Pets. Mr. McCollum also guided several 10-Q s and its 2019 10-K with audit. 
+
+From 2013 to 2017 Mr. McCollum was Chief Financial
+Officer of Das Co., a New York based family office. At Das Co. Mr. McCollum managed all accounting, tax, audit, portfolio
+valuation, asset management, financial/investment reporting, and operations for Landmark Banyan Real Estate Fund, a US 200 million India
+Real Estate Fund comprised of over 10 developments. Mr. McCollum was also Chief Operating Officer of all Das Co. s holding
+and operating subsidiaries including Apex Resources, its mining company in Tanzania, and LDC Developers, its real estate development company. 
+
+Mr. McCollum has also served as Director of Finance
+at 29th Street Capital, a California based real estate investment firm with a publicly stated asset value base of US 500 million. Prior
+to 29th Street Capital, Mr. McCollum was Director of Finance and Corporate Compliance at Fletcher Robbe International Attorneys at Law,
+an international transactional and securities-based law firm with offices in Century City, New York, Hong Kong and Beijing. While at Fletcher
+Robbe International Attorneys at Law, Mr. McCollum focused on complex finance transactions, mergers acquisitions, securities and
+guided several foreign listed public companies on international cross-listing to U.S. public exchanges. Mr. McCollum earned a Bachelor s
+of Science and Master of Accountancy degree from the University of Montana and holds a Certified Public Accounting license. 
+
+Term of Office of Directors 
+
+Our directors are appointed for a one-year term
+to hold office until the next annual general meeting of our stockholders or until removed from office in accordance with our bylaws. Our
+officers are appointed by our Board of Directors and hold office until the officer dies or resigns or the Board elects a successor or
+removes the officer. 
+
+Key Employees 
+
+David Pickett, Executive Vice President of Sales and Business Development
+of Dalrada and Dalrada Precision Corp. President. Mr. Pickett s professional background includes 25 years experience in executive
+relationship development and business growth with a number of companies including Celestica Inc. and Axxion Inc. Mr. Pickett has worked
+with the largest OEM and Fortune 500 companies in the world. Mr. Pickett s vast knowledge base of engineering and manufacturing
+operational and supply chain requirements has proven to be a strategic asset for accelerating the growth of Dalrada Precision s
+global manufacturing and clean energy initiatives through its portfolio company Likido. 
+
+Family Relationships 
+
+Pauline Gourdie is the daughter of Brian Bonar. 
+
+Involvement in Certain Legal Proceedings 
+
+None. 
+
+Audit Committee Financial Expert 
+
+No determination has been made as to whether any
+member of the audit committee qualified as an audit committee financial expert as defined in Item 401 of Regulation S-K. 
+
+49 
+
+Section 16(a) Beneficial Ownership Reporting Compliance 
+
+Section 16(a) of the Securities Exchange
+Act of 1934, as amended, requires our directors and executive officers, and persons who beneficially own more than 10 of a registered
+class of our equity securities, to file reports of beneficial ownership and changes in the beneficial ownership of our securities with
+the SEC of Forms 3 (Initial Statement of Beneficial Ownership), 4 (Statement of Changes of Beneficial Ownership of Securities) and 5 (Annual
+Statement of Beneficial Ownership of Securities). Directors, executive officers and beneficial owners of more than 10 of our Common Stock
+are required by SEC regulations to furnish us with copies of all Section 16(a) forms that they file. The required filings will be
+made. 
+
+Code of Ethics 
+
+We have adopted an informal Code of Ethics that
+applies to our officers, directors, which we feel is sufficient at this time, given that we have no employees, other than our officers
+and directors. 
+
+Item 11. Executive and Director Compensation. 
+
+SUMMARY COMPENSATION TABLE 
+
+Name and Principal Position 
+ 
+ Year 
+ 
+ Salary 
+ 
+ Bonus 
+ 
+ Stock 
+ 
+ Option 
+ 
+ Non-Equity 
+ 
+ Change in Pension Value 
+ 
+ All Other 
+ 
+ Total 
+
+) 
+ 
+ ) 
+ 
+ Awards 
+ 
+ Awards 
+ 
+ Incentive 
+ 
+ Nonqualified 
+ 
+ Compensation 
+ 
+ ) 
+
+) 
+ 
+ ) 
+ 
+ Plan 
+ 
+ Deferred 
+ 
+ ) 
+
+Compensation 
+ 
+ Compensation 
+
+) 
+ 
+ Earnings 
+
+) 
+
+Brian Bonar, CEO Director 
+ 
+ 2021 
+ 
+ 393,000 
+ 
+ 0 
+ 
+ 40,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 433,000 
+
+2020 
+ 
+ 393,000 
+ 
+ 0 
+
+0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 393,000 
+
+Fawad Nisar, COO Director 
+ 
+ 2021 
+ 
+ 318,269 
+ 
+ 150,000 
+ 
+ 40,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 508,269 
+
+Kyle McCollum, CFO Director 
+ 
+ 2021 
+ 
+ 34,615 
+ 
+ 0 
+ 
+ 0 
+ 
+ 60,086 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 94,701 
+
+Pauline Gourdie 
+ 
+ 2021 
+ 
+ 0 
+ 
+ 0 
+ 
+ 40,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 40,000 
+
+Brian Kendrick 
+ 
+ 2021 
+ 
+ 0 
+ 
+ 0 
+ 
+ 40,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 40,000 
+
+Fletcher A. Robbe 
+ 
+ 2021 
+ 
+ 0 
+ 
+ 0 
+ 
+ 40,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 54,862 
+ 
+ 94,862 
+
+Harvey Hershkowitz 
+ 
+ 2021 
+ 
+ 0 
+ 
+ 0 
+ 
+ 40,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 65,000 
+ 
+ 105,000 
+
+Anthony Zolezzi 
+ 
+ 2021 
+ 
+ 0 
+ 
+ 0 
+ 
+ 225,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 225,000 
+
+Tom Giles 
+ 
+ 2021 
+ 
+ 0 
+ 
+ 0 
+ 
+ 225,000 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 50,000 
+ 
+ 275,000 
+
+David J. Bacon 
+ 
+ 2021 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 18,000 
+ 
+ 18,000 
+
+Bijan R. Kian (Rafiekian) 
+ 
+ 2021 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+
+Jose Arrieta 
+ 
+ 2021 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 20,000 
+ 
+ 20,000 
+
+50 
+
+OUTSTANDING EQUITY AWARDS AT FISCAL YEAR-END
+TABLE 
+
+OPTION AWARDS 
+ 
+ STOCK AWARDS 
+
+Name and Principal Position(s) 
+
+Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Options 
+ (#) 
+ (Exercisable) 
+
+Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Options 
+ (#) 
+ (Unexercisable) 
+
+Equity 
+ Incentive 
+ Plan 
+ Awards: 
+ Number of 
+ Securities 
+ Underlying 
+ Unexercised 
+ Unearned 
+ Options 
+ (#) 
+
+Option 
+ Exercise 
+ Price 
+ ) 
+
+Option 
+ Expiration 
+ Date 
+
+Number 
+ of Shares 
+ or Units 
+ of Stock 
+ That Have 
+ Not 
+ Vested 
+ (#) 
+
+Market 
+ Value of 
+ Shares or 
+ Units 
+ of Stock 
+ That Have 
+ Not 
+ Vested 
+ ) 
+
+Equity 
+ Incentive 
+ Plan 
+ Awards: 
+ Number 
+ of 
+ Unearned 
+ Shares, 
+ Units or 
+ Other 
+ Rights 
+ That 
+ Have Not 
+ Vested 
+ (#) 
+
+Equity 
+ Incentive 
+ Plan 
+ Awards: 
+ Market 
+ or Payout 
+ Value of 
+ Unearned 
+ Shares, 
+ Units or 
+ Other 
+ Rights 
+ That 
+ Have Not 
+ Vested 
+ ) 
+
+Brian Bonar, CEO 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+
+0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+
+Kyle McCollum, CFO 
+ 
+ 0 
+ 
+ 1,000,000 
+ 
+ 1,000,000 
+ 
+ 0.47 
+
+5-10-31 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+
+Option Grants 
+
+On May 10, 2021, the Company granted 1,000,000 options to purchase
+common stock to its Chief Financial Officer with an exercise price of 0.47 per share. 
+
+Director Compensation 
+
+On July 9, 2020 the Board authorized the Dalrada
+Financial Corp 2020 stock compensation plan to be used to compensate the company board of directors. The plan allocates the issuance of
+up to 3,500,000 shares. On February 25, 2021, the Company amended the plan to issue up to 4,500,000 shares and issued an aggregate of
+4,500,000 common shares, or 500,000 shares to each board member (9). 3,500,000 shares of common stock were granted on July 9, 2020 at
+ 0.08 per share and 1,000,000 shares of common stock were granted on February 25, 2021 at 0.45 per share, for a total fair value of 730,000,
+which is included in the consolidated statements of operations 
+
+On August 16, 2021, the company approved Amendment
+No.1 of the 2020 Stock Compensation Plan used to compensate the company board of directors. The Amended plan allocates the issuance of
+up to 6,500,000 shares which includes an additional 2,000,000 shares valued at 0.28 per shares or 560,000. 
+
+Employment Agreements 
+
+On July 1, 2019, the Company entered into an employment
+agreement with the Chief Executive Officer of the Company. Pursuant to the agreement, the Company will compensate the Chief Executive
+Officer a base salary of 393,000 per annum, annual increases of 10 and a quarterly bonus based on whether the Company achieve a net
+profit. He will be issued common stock of the Company sufficient to provide a 10 ownership position only upon a reverse split, which
+shares are to be maintained for a period of two years. In addition to all other benefits and compensation, he shall be eligible for a
+quarterly bonus of 47,000 based on if the Company achieves a net profit for that quarter. 
+
+Report on Repricing of Options 
+
+None. 
+
+51 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+and Related Stockholder Matters 
+
+The following table provides certain information
+regarding the ownership of our common stock, as of June 30, 2021 and as of the date of the filing of this annual report by: 
+
+each of our executive officers; 
+
+each director; 
+
+each person known to us to own more than 5 of our outstanding common stock; and 
+
+all of our executive officers and directors act as a group. 
+
+As of September 30, 2021, we had a total of 75,681,724
+shares of common stock issued and outstanding. Except as indicated in footnotes to this table, the persons named in this table have sole
+voting and investment power with respect to all shares of common stock indicated below. Except where noted, the address of all listed
+beneficial owners is in care of our office address. 
+
+Name and Address of Beneficial Owner 
+ 
+ Title of Class 
+
+Amount and 
+ Nature of Beneficial 
+ Ownership 
+ (1) (#) 
+
+Percent of Class 
+ (2) ) 
+ 
+ Brian Bonar, Principal Executive Officer and Director 
+ 
+ Common Shares 
+
+5,856,315 
+ 
+ 7.70 
+ 
+ Fawad Nisar, Chief Operating Officer and Director 
+ 
+ Common Shares 
+
+3,517,000 
+ 
+ 4.62 
+ 
+ Brian Kendrick, Director 
+ 
+ Common Shares 
+
+500,000 
+ 
+ 0.66 
+ 
+ Fletcher Robbe, Director 
+ 
+ Common Shares 
+
+500,000 
+ 
+ 0.66 
+ 
+ Harvey Hershkowitz, Director 
+ 
+ Common Shares 
+
+500,000 
+ 
+ 0.66 
+ 
+ Pauline Gourdie, Director 
+ 
+ Common Shares 
+
+500,000 
+ 
+ 0.66 
+ 
+ Anthony Zolezzi, Director 
+ 
+ Common Shares 
+
+500,000 
+ 
+ 0.66 
+ 
+ Tom Giles, Director 
+ 
+ Common Shares 
+
+500,000 
+ 
+ 0.66 
+ 
+ Kyle McCollum, Chief Financial Officer, Director 
+ 
+ Common Shares 
+
+500,000 
+ 
+ 0.66 
+ 
+ David J. Bacon, Director 
+ 
+ Common Shares 
+
+500,000 
+ 
+ 0.66 
+ 
+ Bijan R. Kian (Rafiekian), Director 
+ 
+ Common Shares 
+
+500,000 
+ 
+ 0.66 
+ 
+ Jose Arrieta, Director 
+ 
+ Common Shares 
+
+500,000 
+ 
+ 0.66 
+ 
+ All officers and Directors as a group 
+ 
+ Common Shares 
+
+14,373,315 
+ 
+ 18.99 
+
+The shares for Kyle McCollum, David J, Bacon, Bijan R. Kian (Rafiekian), and Jose Arrieta were issued
+on August 17, 2021 
+
+52 
+
+Item 13. Certain Relationships, Related Transactions and Director
+Independence 
+
+Notes Payable Related Parties 
+
+June 30, 2021 
+
+Outstanding 
+ Accrued 
+
+Principal 
+ Interest 
+ 
+ Related entity 1 
+ 2,978,066 
+ 29,875 
+ 
+ Related entity 2 
+ 357,025 
+ 5,532 
+ 
+ Related entity 3 
+ 3,087,689 
+ 47,728 
+ 
+ Related entity 4 
+ 2,789,107 
+ 93,150 
+ 
+ Related entity 5 
+ 417,237 
+
+Related entity 6 
+ 879,831 
+ 5,862 
+
+10,508,955 
+ 182,147 
+
+June 30, 2020 
+
+Outstanding 
+ Accrued 
+
+Principal 
+ Interest 
+ 
+ Related entity 1 
+ 740,237 
+ 12,417 
+ 
+ Related entity 2 
+ 354,875 
+ 1,176 
+ 
+ Related entity 3 
+ 1,887,052 
+ 23,192 
+ 
+ Related entity 4 
+ 71,618 
+ 579 
+
+3,053,782 
+ 37,365 
+
+All notes are unsecured, bear interest at 3 per annum, and are due
+360 days from the date of issuance, ranging from June 25, 2020 to June 25, 2022. Each entity has significant influence or common ownership
+with the Company s Chief Executive Officer. Several of these notes are in default. The company has not received any notices of default
+or demands for payment. 
+
+Convertible Note Payable Related Parties 
+
+As of June 30, 2019, the Company issued a convertible
+note for 1,875,000 to the Chief Executive Officer of the Company for compensation. Under the terms of the note, the amount due is unsecured,
+bears interest at 3 per annum, and was due 360 days from the date of issuance. On June 30, 2019, the Company issued note agreement which
+included a conversion feature of the outstanding balance at 0.034 per share. As the conversion price was equal to the fair value of the
+common shares on the date of the agreement, there was no beneficial conversion feature. As of June 30, 2021 the principal balance was
+ 1,875,000 and the accrued interest was 112,500. 
+
+53 
+
+Related Party Transactions 
+
+As of June 30, 2021, and 2020, the Company owed
+ 414,073 and 556,317, respectively to related parties for reimbursement of various operating expenses, accrued salaries, management fees,
+etc. which has been recorded in accounts payable and accrued liabilities related parties. As of June 30, 2021 and 2020, this amount
+includes 0 and 7,650 of management fees, which consists of accounting and administrative services to Trucept Inc., a related party company
+controlled by the Chief Executive Officer of the Company. The management fee agreement calls for monthly payments of 7,500. The agreement
+is ongoing until terminated by either party. As of June 30, 2021, amounts included with accounts payable and accrued liabilities 
+related parties for which relate to advances for operating expenses were 1,029,309. In 2021, the Company issued promissory notes totaling
+ 879,830 in exchange for conversion of accrued salary to the Chief Executive Officer. As of June 30, 2021, the outstanding principal balance
+of the promissory notes was 879,830 and the accrued interest is 5,862 
+
+In November 2019, the Chief Executive Officer
+converted 170 in amounts owed from the Company into 5,000 shares of Series F Super Preferred Stock. 
+
+On July 1, 2019, the Company formalized an employment
+agreement with its Chief Executive Officer, which entitles him to compensation of three hundred and ninety-three thousand dollars 393,000)
+per year. Annual increases will be up to 10 based performance criteria to be determined at a later date. He will be issued common stock
+of the Company sufficient to provide a 10 ownership position post reverse split which shares be maintained for a period of two years.
+In addition to all other benefits and compensation, he shall be eligible for a quarterly bonus of 47,000 based on if the Company achieves
+a net profit for that quarter. As of June 30, 2021 and 2020, the Company had 0 and 556,317, accrued within accounts payable and accrued
+liabilities related parties, respectively. In 2021, the Chief Executive Officer converted 879,830 of accrued salary into a promissory
+note. 
+
+In February 2021, the Company issued 500,000 common
+shares to each board member, including the Chief Executive Officer, for an aggregate of 4,500,000 shares. The fair value of 730,000 was
+recorded in the consolidated statements of operations. 
+
+The following is a summary of revenues recorded
+by the Company s to related parties with common ownership: 
+
+Year Ended 
+
+June 30, 
+
+2021 
+ 2020 
+ 
+ Dalrada Health 
+ 62,607 
+ 124,427 
+ 
+ Prakat 
+ 137,500 
+ 99,139 
+ 
+ Pacific Stem 
+ 132,550 
+
+332,657 
+ 223,566 
+
+Director Independence 
+
+The OTC Bulletin Board does not have a requirement
+that a majority of our Board of Directors be independent. However, with respect to the definition of independence utilized by NASDAQ,
+our officers and directors would be deemed to be independent. 
+
+Our Audit Committee is comprised of our officers
+and directors. NASDAQ requires at least three members on the Audit Committee, each of whom must be independent. NASDAQ also requires that,
+if its Chief Executive Officer s compensation is determined by its Compensation Committee, the Compensation Committee must be comprised
+solely of independent directors. The Company currently does not meet either of these requirements. 
+
+54 
+
+The NASDAQ rules have both objective tests and
+a subjective test for determining who is an independent director. The objective tests state, for example, that a director
+is not considered independent if he or she is an employee of the Company or is a partner, executive officer or controlling stockholder
+of an entity to which the company made, or from which the Company received, payments in the current or any of the past three fiscal years
+that exceed the greater of 200,000 or 5 of the recipient s consolidated gross revenue for that year or a family member serves
+in the current fiscal year or has served at any time during the last three fiscal years as an executive officer of the Company. The subjective
+test states that an independent director must be a person who lacks a relationship that, in the opinion of the Board, would interfere
+with the exercise of independent judgment in carrying out the responsibilities of a director. 
+
+Item 14. Principal Accountant Fees and Services 
+
+The Company paid or accrued the following fees
+in each of the prior two fiscal years to its independent certified public accountants, dbbmckennon for the years ended June 30, 2021 and
+2020. 
+
+For the Year Ended June 30, 
+
+2021 
+ 2020 
+ 
+ Audit Fees 
+ 52,500 
+ 50,000 
+ 
+ Audit-Related Fees 
+ 32,500 
+ 0 
+ 
+ Tax Fees 
+ 0 
+ 0 
+ 
+ All Other Fees 
+ 0 
+ 0 
+ 
+ Total Fees 
+ 85,000 
+ 50,000 
+
+Audit Fees consisted of fees billed
+for services rendered for the audit of the Company s annual financial statements and audit related fees are for review of the financial
+statements included in the Company s quarterly reports on Form 10-Q. 
+
+Item 15. Exhibits 
+
+The financial statement schedules are omitted
+because they are inapplicable or the requested information is shown in our financial statements or related notes thereto. 
+
+Exhibits 
+
+Exhibit 
+ Number 
+ 
+ Exhibit 
+ Description 
+ 
+ 31.1 
+ Certification of the Chief Executive Officer and Chief Financial Officer Pursuant to Rule 13a-14 or 15d-14 of the Exchange Act pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ 32.1 
+ Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 
+ EX-101.INS 
+ XBRL Instance Document 
+ 
+ EX-101.SCH 
+ XBRL Taxonomy Extension Schema 
+ 
+ EX-101.CAL 
+ XBRL Taxonomy Extension Calculation Linkbase 
+ 
+ EX-101.LAB 
+ XBRL Taxonomy Extension Label Linkbase 
+ 
+ EX-101.PRE 
+ XBRL Taxonomy Extension Presentation Linkbase 
+ 
+ EX-101.DEF 
+ XBRL Taxonomy Extension Definition Linkbase 
+
+55 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Exchange
+Act, the Registrant has duly caused this Report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+Dalrada Financial Corporation 
+
+By: /s/ Brian Bonar 
+ 
+ Date: October 13, 2021 
+ Brian Bonar 
+
+Chief Executive Officer 
+
+Pursuant to the requirements of the Exchange Act this Report has been
+signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+Signature 
+ Title 
+ Date 
+
+/s/ Brian Bonar 
+ Chief Executive Officer 
+ October 13, 2021 
+ 
+ Brian Bonar 
+ and Director 
+
+56 
+
+<EX-31.1>
+ 2
+ dalrada_ex3101.htm
+ CERTIFICATION
+
+EXHIBIT 31.1 
+
+CERTIFICATION PURSUANT TO 
+
+ 18 USC, ss 1350, AS ADOPTED PURSUANT TO 
+
+ SECTION 302 OF THE SARBANES OXLEY ACT OF 2002 
+
+I, Brian Bonar, certify that: 
+
+1. 
+ I have reviewed this quarterly report on Form 10-K of Dalrada financial Corporation; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal controls over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedure to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based upon such evaluation; and 
+
+d. 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a. 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+b. 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Dated: October 13, 2021 
+
+/s/ Brian Bonar 
+
+Brian Bonar 
+President, Chief Financial Officer, and Director 
+(Principal Executive Officer, Principal Financial Officer 
+and Principal Accounting Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ dalrada_ex3201.htm
+ CERTIFICATION
+
+EXHIBIT 32.1 
+
+CERTIFICATION PURSUANT
+TO 
+
+ 18 U.S.C. SECTION 1350,
+AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE
+SARBANES-OXLEY ACT OF 2002 
+
+I, Brian Bonar, hereby
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ the Annual Report on Form 10-K of Dalrada financial Corporation for the year ended June 30, 2021 (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of Dalrada financial Corporation 
+
+Dated: October 13, 2021 
+
+/s/ Brian Bonar 
+
+Brian Bonar 
+
+President, Chief Financial Officer, and Director 
+
+(Principal Executive Officer, Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 4
+ dfco-20210630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 5
+ dfco-20210630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ dfco-20210630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ dfco-20210630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ dfco-20210630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ dfco-20210630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

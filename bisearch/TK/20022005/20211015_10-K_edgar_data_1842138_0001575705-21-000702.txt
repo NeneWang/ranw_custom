@@ -1,0 +1,1891 @@
+<Header>
+<FileStats>
+    <FileName>20211015_10-K_edgar_data_1842138_0001575705-21-000702.txt</FileName>
+    <GrossFileSize>1529063</GrossFileSize>
+    <NetFileSize>70667</NetFileSize>
+    <NonText_DocumentType_Chars>333350</NonText_DocumentType_Chars>
+    <HTML_Chars>369413</HTML_Chars>
+    <XBRL_Chars>287536</XBRL_Chars>
+    <XML_Chars>438480</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001575705-21-000702.hdr.sgml : 20211015
+<ACCEPTANCE-DATETIME>20211015114151
+ACCESSION NUMBER:		0001575705-21-000702
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		39
+CONFORMED PERIOD OF REPORT:	20210731
+FILED AS OF DATE:		20211015
+DATE AS OF CHANGE:		20211015
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WARPSPEED TAXI INC.
+		CENTRAL INDEX KEY:			0001842138
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				853978107
+		STATE OF INCORPORATION:			WY
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-252505
+		FILM NUMBER:		211325401
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9436 W. LAKE MEAD BLVD., SUITE 5-53
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89134
+		BUSINESS PHONE:		7028050632
+
+	MAIL ADDRESS:	
+		STREET 1:		9436 W. LAKE MEAD BLVD., SUITE 5-53
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89134
+
+</SEC-Header>
+</Header>
+
+ 0001575705-21-000702.txt : 20211015
+
+10-K
+ 1
+ warpspeedtaxi_10k.htm
+ 10-K
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+
+(Mark
+One) 
+
+A NNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the Fiscal Year Ended 
+
+Or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the transition period from to 
+
+Commission file number 
+
+(Name
+of Registrant as Specified in Its Charter) 
+
+(State
+ or Other Jurisdiction of 
+ Incorporation
+ or Organization) 
+
+(I.R.S.
+ Employer 
+ Identification
+ No.) 
+
+.,
+ Las Ve g as, 
+ (Address
+ of Principal Executive Offices) 
+
+(Zip
+ Code) 
+
+(Issuer s
+Telephone Number, Including Area Code) 
+
+Securities
+registered under Section 12(b) of the Exchange Act: 
+
+ None 
+
+Securities
+registered under Section 12(g) of the Exchange Act: 
+
+ Common
+Stock, Par value 0.0001 per share 
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. 
+
+Indicate
+by checkmark if the registrant is not required to file reports pursuant to Section 13 or 15(d) Of the Act. Yes 
+
+Indicate
+by check mark whether the issuer: (1) filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the past
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes No 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files) No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company 
+in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ Accelerated
+ filer 
+
+Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act 
+
+Indicate
+by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+
+The
+aggregate market value of voting and non-voting common equity held by non-affiliates as of was based on the price at which the
+common stock was last sold prior to July 31, 2021, the last business day of the registrant s most recently completed second fiscal
+quarter. 
+
+Table
+of Contents 
+
+Page 
+ 
+ Item
+ 1. Business 
+ 
+ 1 
+ 
+ Item
+ 1A. Risk Factors 
+ 
+ 5 
+ 
+ Item
+ 1B. Unresolved Staff Comments 
+ 
+ 5 
+ 
+ Item
+ 2. Properties 
+ 
+ 5 
+ 
+ Item
+ 3. Legal Proceedings 
+ 
+ 5 
+ 
+ Item
+ 4. Mine Safety Disclosures 
+ 
+ 5 
+ 
+ Item
+ 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 
+ 6 
+ 
+ Item
+ 6. Selected Financial Data 
+ 
+ 6 
+ 
+ Item
+ 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 6 
+ 
+ Item
+ 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ 8 
+ 
+ Item
+ 8. Financial Statements and Supplementary Data 
+ 
+ 8 
+ 
+ Item
+ 9. Changes In and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 
+ 9 
+ 
+ Item
+ 9A (T). Controls and Procedures 
+ 
+ 9 
+ 
+ Item
+ 9B. Other Information 
+ 
+ 9 
+ 
+ Item
+ 10. Directors, Executive Officers and Corporate Governance 
+ 
+ 10 
+ 
+ Item
+ 11. Executive Compensation 
+ 
+ 11 
+ 
+ Item
+ 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 
+ 11 
+ 
+ Item
+ 13. Certain Relationships and Related Transactions, and Director Independence 
+ 
+ 12 
+ 
+ Item
+ 14. Principal Accountant Fees and Services 
+ 
+ 12 
+ 
+ Item
+ 15. Exhibits and Financial Statement Schedules 
+ 
+ 13 
+
+i 
+
+PART
+I 
+
+NOTE
+REGARDING FORWARD LOOKING STATEMENTS 
+
+ CAUTIONARY
+STATEMENT FOR PURPOSES OF THE SAFE HARBOR PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995 
+
+This
+Annual Report contains historical information as well as forward-looking statements. Statements looking forward in time are included
+in this Annual Report pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Such statements
+involve known and unknown risks and uncertainties that may cause our actual results in future periods to be materially different from
+any future performance suggested herein. We wish to caution readers that in addition to the important factors described elsewhere in
+this Form 10-K, the following forward looking statements, among others, sometimes have affected, and in the future could affect, our
+actual results and could cause our actual results during 2021 and beyond, to differ materially from those expressed in any forward-looking
+statements made by or on our behalf. 
+
+Item
+1. Business. 
+
+General
+Development of Business 
+
+We
+were incorporated on November 18, 2020 under the laws of the State of Wyoming. 
+
+We
+intend to complete the development of and operate a ride-hailing and food delivery computer and mobile device application known as WarpSpeedTaxi .
+A ride-hailing service, also known as app-taxi, e-taxi, or a mobility service provider, is a service that, via websites and mobile apps,
+matches passengers with drivers of vehicles for hire that are not licensed taxi drivers. The computer application that we are developing
+is intended to provide travelers with convenient door-to-door transport that leverages smart mobility platforms to connect drivers with
+passengers and lets drivers use their personal vehicles. Ride-hailing, like a traditional taxi service, facilitates drivers providing
+rides to customers for a fee. However, ride-hailing offers additional capabilities, such as efficient pricing tools, matching platforms,
+rating systems, and food delivery. 
+
+We
+acquired the WarpSpeedTaxi application in its current phase of development from a private Wyoming corporation for total consideration
+of 300,000 payable in stages. Our acquisition of the application includes a 100 interest in all software comprising the application,
+as well as the corresponding website domain, content, and all incorporated technology. We will jointly own the operational data and databases
+relating to the application with the vendor. However, the vendor is not permitted to use the data for any purpose that competes directly
+or indirectly with our use and operation of the application for ride-hailing and food delivery. 
+
+To
+date, we have paid the vendor 10,000. We owe the vendor an additional 40,000 upon its delivery of a working prototype of the application
+to us, which development we will fund. We anticipate that we will need to spend an additional 10,000 in order to complete the computer
+application. We have also issued the vendor a promissory note for the balance of the purchase price of 250,000, which is due upon demand
+provided that the vendor cannot demand payment of the note until after December 31, 2023. The note bears simple interest at a rate of
+5 per year. There is no penalty if we decide to pay the note at any time prior to December 31, 2023. 
+
+We
+anticipate that our WarpSpeedTaxi application will allow customers to hire a standard and luxury motor vehicles via a smartphone or personal
+computer for both one-way and round-trips with the price based on the distance travelled and the current level of demand for vehicles.
+In addition to transporting passengers, the application may also be used for deliveries of goods from restaurants, grocery stores, and
+other businesses that typically utilize local vehicle courier services. 
+
+Customers
+will use the application to request a ride or the delivery of goods. Drivers that we recruit and approve, through confirmation of no
+criminal record, a clean driving history, and access to a suitable insured vehicle, will act as independent contractors and set their
+own work hours. They will connect with customers via our application, pick up customers or goods to be delivered in accordance with the
+customer s request, and then drive the customers or goods to their destination. Customers will pay for the transportation through
+the application by way of credit card. Drivers will receive payments for each ride or delivery they complete via a weekly direct deposit
+to their bank accounts. 
+
+When
+a customer uses the WarpSpeedTaxi application for ride-hailing, we will charge the customer a flat fee of approximately 2.00 for each
+ride plus an amount for each mile that the customer travels. The amount for each mile will vary depending on the city in which the customer
+is located. It will be higher in more densely populated cities where traffic moves relatively slowly and lower in less densely population
+cities will less traffic congestion. Additionally, we will charge customers an additional premium during busy times when customer demand
+exceeds the number of available drivers. This increase in pricing is intended to incentivize drivers to work during peak demand times
+since they will receive greater compensation. In order to encourage drivers to work as independent contractors for us, we will initially
+retain 15 of all revenue that a customer pays for a ride with the remaining 85 compensating the driver for his or her time and vehicle
+expenses. Drivers will also retain 100 of all tips that customers provide them. Over time, when we have established a market for our
+services, we may adjust this percentage so that we retain a greater percentage of revenue. 
+
+When
+a restaurant uses the food delivery service feature of our WarpSpeedTaxi application, we will charge restaurants between 5 and 15 of
+their order revenue, subject to a set minimum amount, depending on the amount of business that we receive from delivery orders of their
+food through our application. From these proceeds, we will pay our drivers a base fee for deliveries that depend on the distance that
+they must travel to pick up the food and deliver it to the customer. In addition, the driver will retain any tips that the customer provides. 
+
+1 
+
+Impact
+of COVID-19 Pandemic 
+
+The
+COVID-19 pandemic is likely to impact our ability to conduct our business as planned. Our ability to successfully develop our business
+is subject to uncertainties surrounding the duration and severity of the pandemic, including the efficacy and availability of vaccines,
+the effectiveness of vaccines on limiting or eliminating the spread of the COVID-19 virus including current virus variants and those
+that may emerge in the future. 
+
+While
+the demand for food delivery services has increased since the beginning of the pandemic, the demand for ride hailing has decreased. Two
+of the largest competitors in the sector, Uber and Lyft, have reported that their ridership has dropped by between 70 and 80 during
+the pandemic and have suffered large losses as a result despite the increase in food delivery services. We cannot predict whether these
+trends will continue and what impact they may have on our ability to generate revenue and eventually enjoy profitable operations. 
+
+The
+continued prevalence of COVID-19 nationally and globally could have an adverse impact on our business, operations, and financial results.
+The related disruptions that we may experience include a decrease in demand for ride hailing services due to customers wanting to avoid
+potential exposure to our drivers, increased unwillingness of drivers to risk interacting with customers in the confined environment
+of motor vehicles, restrictions on our drivers ability to access certain areas due to imposed restrictions, and restrictions that
+we must impose on drivers and customers in order to ensure their safety. 
+
+The
+COVID-19 pandemic could also adversely affect our liquidity and ability to access the capital markets. Uncertainty regarding the duration
+of the COVID-19 pandemic may adversely impact our ability to raise additional capital. The extent of the impact of COVID-19 on our business
+and financial results will also depend on future developments, including the duration and spread of the pandemic and different COVID
+variants, the implementation or recurrence of shelter in place or similar orders in the future, its impact on the financial markets in
+which we operate, new information that may emerge concerning the severity of the virus, and the related impact on consumer travel and
+demand for delivery services. This uncertainty could increase the likelihood that our business fails. 
+
+Market
+Opportunity 
+
+According
+to Statista (2020), the global ride hailing and taxi market is projected to reach almost 260 billion in 2021 with 1.47 billion registered
+users, with an expected annual growth of 18.8 from 2020 to 2025, resulting in a projected market value of about 386 billion by 2025.
+User penetration is 19.3 in 2020 and is expected to hit 20.8 by 2025. 
+
+A
+number of factors contribute to driving the growth of the ride-hailing market: 
+
+Increasing
+Smartphone and Internet Penetration : As ride sharing is an internet-enabled service, internet connectivity is the basic requirement
+for availing ride sharing services in any part of the world. The users are required to download an application on their smartphone and
+use data services to access the app and other navigation and information services related to it. Internet connectivity is also needed
+for navigation, telematics, and vehicle-to-vehicle communication. According to the International Telecommunication Union, approximately
+81 of the population in developed countries uses the internet. On the other hand, 40 of individuals in developing countries have access
+to the internet through that rate is increasing rapidly. 
+
+On-demand
+transportation services : On-demand transportation services are characterized by flexible routing and ad-hoc scheduling of private
+vehicles offering personal transport experiences to the general public by picking up or dropping off passengers or goods at locations
+of the customer s choice. On-demand ride-hailing services ensure that customers can accurately locate the vehicles, track their
+journey, and offer safety to the occupants. The proliferation of such services across countries is expected to significantly drive market
+growth. 
+
+Increase
+in Cost of Vehicle Ownership : The cost of owning a personal vehicle has increased with rising fuel prices over time and an increase
+in finance, insurance, and vehicle registration costs. Maintenance costs, which include the repair of parts and accessories and labor
+charges, have also increased and added to the overall cost of vehicle ownership. Also, with the introduction of strict emission norms,
+vehicles need better, advanced, and costly after treatment devices. These factors have increased the cost of vehicle ownership, which
+in turn has increased the popularity of ride sharing services. 
+
+2 
+
+Lower
+rate of car ownership among millennials : Due to vehicle ownership costs and personal preferences, the rate of vehicle ownership among
+millennials and subsequent generations reaching the legal driving age is low compared to older generations. The millennials are choosing
+practical, smartphone accessible transport options that are simple, flexible, and comparatively inexpensive. Thus, it is anticipated
+that successive generations that reach the legal driving age will opt for ride hailing options given their assessment of costs and their
+relative familiarity with using smartphone-based applications. 
+
+We
+plan to commence our ride-hailing operations in the United States. Due to a large number of market vendors based in the U.S., the country
+hosts most of the major innovators and investors in the sector. The United States is one of the early adopters of the business model,
+which provides consumer familiarity with the services we intend to offer. North America accounted for a global ride-hailing market share
+of more than 35 in terms of revenue in 2018. This is attributed to the fact that most ride-hailing companies operating in the industry
+were incorporated in U.S. High demand for public transportation in cities like New York, Chicago, San Francisco, and Seattle, is contributing
+to market growth. 
+
+The
+overall size of the ride hailing and ride sharing market in North America is growing with 36 of U.S. adults using the service in 2018
+compared to 15 in 2015. According to Accenture, nearly two-thirds (63 of the US car owners who use ride-hailing services say that
+they would consider giving up their vehicles over the next decade in favor of ride-hailing. Based on a survey of more than 1,000 US consumers,
+Accenture found that consumer satisfaction with ride-hailing companies is very high, at 92 , and that the vast majority (93 of the
+respondents expect to maintain or increase their spending on ride-hailing services. Ride-hailing usage has increased across most demographic
+groups, but adoption figures continue to vary by age, educational attainment, and income level. For example, roughly half of Americans
+ages 18 to 29 (51 say they have used a ride-hailing service, compared with 24 of those ages 50 and older. Those whose annual household
+income is 75,000 or more are roughly twice as likely as those earning less than 30,000 to have used these services. Subject to the
+successful launch of our WarpSpeedTaxi app in the United States, we intend to expand our operations to other markets, including Europe,
+Canada, and Australia. 
+
+Emerging
+Growth Company Status 
+
+Because
+we generated less than 1 billion in total annual gross revenues during our most recently completed fiscal year, we qualify as an emerging
+growth company under the Jumpstart Our Business Startups JOBS Act. 
+
+We
+will lose our emerging growth company status on the earliest occurrence of any of the following events: 
+
+1. on
+the last day of any fiscal year in which we earn at least 1 billion in total annual gross revenues, which amount is adjusted for
+inflation every five years; 
+
+2.
+on the last day of the fiscal year of the issuer following the fifth anniversary of the date of our first sale of common equity
+securities pursuant to an effective registration statement; 
+
+3.
+on the date on which we have, during the previous 3-year period, issued more than 1 billion in non-convertible debt; or 
+
+4.
+the date on which such issuer is deemed to be a large accelerated filer , as defined in section 240.12b 2 of
+title 17, Code of Federal Regulations, or any successor thereto. 
+
+3 
+
+A
+ large accelerated filer is an issuer that, at the end of its fiscal year, meets the following conditions: 
+
+1.
+it has an aggregate worldwide market value of the voting and non-voting common equity held by its non-affiliates of 700 million or
+more as of the last business day of the issuer s most recently completed second fiscal quarter; 
+
+2.
+It has been subject to the requirements of section 13(a) or 15(d) of the Act for a period of at least twelve calendar months;
+and 
+
+3.
+It has filed at least one annual report pursuant to section 13(a) or 15(d) of the Act. 
+
+As
+an emerging growth company, exemptions from the following provisions are available to us: 
+
+1.
+Section 404(b) of the Sarbanes-Oxley Act of 2002, which requires auditor attestation of internal controls; 
+
+2.
+Section 14A(a) and (b) of the Securities Exchange Act of 1934, which require companies to hold shareholder advisory votes on
+executive compensation and golden parachute compensation; 
+
+3.
+Section 14(i) of the Exchange Act (which has not yet been implemented), which requires companies to disclose the relationship
+between executive compensation actually paid and the financial performance of the company; 
+
+4.
+Section 953(b)(1) of the Dodd-Frank Act (which has not yet been implemented), which requires companies to disclose the ratio between
+the annual total compensation of the CEO and the median of the annual total compensation of all employees of the companies;
+and 
+
+5.
+The requirement to provide certain other executive compensation disclosure under Item 402 of Regulation S-K. Instead, an emerging
+growth company must only comply with the more limited provisions of Item 402 applicable to smaller reporting companies, regardless
+of the issuer s size. 
+
+Pursuant
+to Section 107 of the JOBS Act, an emerging growth company may choose to forgo such exemption and instead comply with the requirements
+that apply to an issuer that is not an emerging growth company. We have elected under this section of the JOBS Act to maintain our status
+as an emerging growth company and take advantage of the JOBS Act provisions relating to complying with new or revised accounting standards
+under Section 102(b)(1) of the JOBS Act. 
+
+Competition 
+
+There
+is intense competition between traditional taxi companies and ride-hailing services. Companies providing ride-hailing services are transitioning
+from providing traditional taxi services to additional services, such as ride sharing and food and consumer goods delivery, in order
+to expand the overall market for transportation services. 
+
+The
+ride-hailing market is quite fragmented as there is high competition in the market among major players. Since this market is expanding,
+new entrants are emerging as well. We will compete with other ride-hailing companies, including Uber, Lyft, Door Dash, and Grubhub that
+are well-established in North America. In other markets where we may wish to expand, there are also well-established regional companies,
+such as DiDi (China), Ola (India), Grab (southeast Asia), Bolt (Europe, Africa, and the Middle East), and Cabify (South America). These
+companies generally have greater financial and technical resources, industry expertise, and managerial capabilities than we do. Most
+of our competitors benefit from established brand awareness with current and prospective customers. 
+
+We
+believe that industry competition for customers is primarily based on brand recognition, marketing, price, and quality of service. We
+hope to be able to compete effectively based on these factors though we primarily hope to develop a niche market by providing lower commission
+charges to restaurants that agree to utilize our food delivery services and by developing underexplored markets, such as businesses that
+use local courier services for non-food deliveries and rely on traditional vehicle courier companies. 
+
+Compliance
+with Government Regulations 
+
+We
+will be subject to a wide variety of laws and regulations in the United States and other jurisdictions. These laws, regulations, and
+standards govern issues such as worker classification, labor and employment, anti-discrimination, payments, worker confidentiality obligations,
+product liability, environmental protection, personal injury, text messaging, subscription services, intellectual property, consumer
+protection and warnings, marketing, taxation, privacy, data security, competition, unionizing and collective action, arbitration agreements
+and class action waiver provisions, terms of service, mobile application and website accessibility, money transmittal, and background
+checks. The sale and delivery of goods through our platform is also subject to laws, regulations, and standards that govern food safety,
+alcohol, tobacco, pharmaceuticals and controlled substances, hazardous substances, and the interstate and intrastate transport of goods.
+These regulations are often complex and subject to varying interpretations, in many cases due to their lack of specificity, and as a
+result, their application in practice may change or develop over time through judicial decisions or as new guidance or interpretations
+are provided by regulatory and governing bodies, such as federal, state, and local administrative agencies. 
+
+4 
+
+Other
+proposed changes to laws and regulations related to our industry include a proposed rule under consideration by the New York State Liquor
+Authority that would limit fees that can be charged by food delivery facilitation services and proposed legislation in California and
+other states that would require third-party grocery services to maintain minimum liability insurance. 
+
+We
+will also be subject to general business regulations and laws as well as federal and state regulations and laws specifically governing
+the Internet and e-commerce. Existing and future laws and regulations may impede the growth of the Internet, e-commerce or other online
+services, and increase the cost of providing online services. These regulations and laws may cover taxation, tariffs, user privacy, data
+protection, pricing, content, copyrights, distribution, electronic contracts and other communications, consumer protection, broadband
+residential Internet access and the characteristics and quality of services. It is not clear how existing laws governing issues such
+as property ownership, sales, use and other taxes, libel and personal privacy apply to the Internet and e-commerce. Unfavorable resolution
+of these issues may harm our business and results of operations. 
+
+We
+anticipate that a significant amount of our operations will be conducted in India due to relative low labor costs. There are no governmental
+regulations specifically relating to services that we intend to provide within India. Foreign corporations, such as us, are authorized
+to conduct business in India; however, they are required to comply with domestic business laws and regulations, including those relating
+to occupational health and safety, and minimum wage requirements. We do not anticipate that these regulations will have a significant
+adverse impact on our operations or cause us to incur significant expenses related to compliance. 
+
+Employees 
+
+We
+have no employees as of the date of this prospectus. We have retained independent contractors to complete the development of our WarpSpeedTaxi
+application. 
+
+Research
+and Development Expenditures 
+
+We
+have not incurred any research or development expenditures since our incorporation. 
+
+Subsidiaries 
+
+We
+do not have any subsidiaries. 
+
+Patents
+and Trademarks 
+
+We
+do not own, either legally or beneficially, any patents or trademarks. 
+
+Item
+1A. Risk Factors. 
+
+Not
+applicable. 
+
+Item
+1B. Unresolved Staff Comments. 
+
+None. 
+
+Item
+2. Properties. 
+
+We
+do not own any interest in real property. Our mailing address is 9436 W. Lake Mead Blvd., Ste. 5-53, Las Vegas NV 89134, for which we
+pay 15.00 per month, on a month-to-month basis. 
+
+Item
+3. Legal Proceedings. 
+
+None 
+
+Item
+4. Mine Safety Disclosures. 
+
+None. 
+
+5 
+
+PART
+II 
+
+Item
+5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Our
+shares of common stock do not trade on any recognized stock exchange or quotation system. We have retained a market maker that has filed
+an application on our behalf to commence trading on OTC Markets. However, there is no guarantee that FINRA will approve the application
+and that a trading market will develop for our shares. 
+
+As
+of August 16, 2021, there were approximately 38 beneficial owners of record of our common stock. 
+
+Holders
+of common stock are entitled to receive such dividends as may be declared by the Board of Directors out of funds legally available therefore
+and, in the event of liquidation, to share pro rata in any distribution of our assets after payment of liabilities. The Board of Directors
+is not obligated to declare a dividend. We have not paid any dividends and we do not have any current plans to pay any dividends. 
+
+Securities
+Authorized for Issuance under Equity Compensation Plans 
+
+None. 
+
+Item
+6. Selected Financial Data. 
+
+Not
+applicable. 
+
+Item
+7. Management s Discussion and Analysis of our Financial Conditions and Results of Operations. 
+
+Introduction 
+
+We
+were incorporated on November 18, 2020 under the laws of the State of Wyoming. 
+
+Results
+of Operations for Fiscal 2021 
+
+From
+our incorporation on November 18, 2020 to our fiscal year end of July 31, 2021, we did not earn any revenue. During the fiscal year ended
+July 31, 2021, we incurred net loss of 20,165 consisting entirely of general and administrative fees. 
+
+We
+have not attained profitable operations and are dependent upon obtaining financing to complete our proposed business plan. For these
+reasons our auditors believe that there is substantial doubt that we will be able to continue as a going concern. 
+
+Our
+financial statements have been prepared assuming that we will continue as a going concern and, accordingly, do not include adjustments
+relating to the recoverability and realization of assets and classification of liabilities that might be necessary should we be unable
+to continue in operation. 
+
+Liquidity
+and Capital Resources 
+
+As
+of July 31, 2021, our current assets consisted of 17,194 in cash and 35,000 in prepayments and deposits and our total liabilities were
+ 331,593, which consisted of accounts payable of 81,593 and accrued liabilities and a note payable of 250,000 to the vendor of the
+WarpSpeed Taxi computer application. We expect we will require additional capital to meet our long term operating requirements. We expect
+to raise additional capital through, among other methods, the sale of equity or debt securities. 
+
+Cash
+Flows from Operating Activities 
+
+We
+have not generated positive cash flows from operating activities. For the fiscal year ended July 31, 2021, net cash used in operating
+activities was 276,428 consisting of our net loss for the period and prepayments and deposits at period end, adjusted for accounts payable
+of 81,593 and a note payable of 250,000. 
+
+Cash
+Flows from Investing Activities 
+
+For
+the fiscal year ended July 31, 2021, we used 304,134 in investment activities consisting of a 300,000 investment in software and software
+development costs of 4,134 related to the acquisition and further development of the WarpSpeed Taxi computer application. 
+
+6 
+
+Cash
+Flows from Financing Activities 
+
+We
+have financed our operations exclusively through the sale of our common stock. For the fiscal year ended July 31, 2021, cash provided
+from financing activities was 44,900. 
+
+We
+have not attained profitable operations and are dependent upon obtaining financing to pursue exploration activities. For these reasons,
+there is substantial doubt that we will be able to continue as a going concern 
+
+Since
+our incorporation, we have financed our operations through proceeds from the sale of our common stock. We expect to finance operations
+through the sale of equity for the foreseeable future, as we do not receive significant revenue from our business operations. There is
+no guarantee that we will be successful in arranging financing on acceptable terms. 
+
+Our
+ability to raise additional capital is affected by trends and uncertainties beyond our control. We do not currently have any arrangements
+for financing and we may not be able to find such financing if required. Obtaining additional financing would be subject to a number
+of factors, including investor sentiment. Market factors may make the timing, amount, terms or conditions of additional financing unavailable
+to us. 
+
+Our
+auditors are of the opinion that our continuation as a going concern is in doubt. Our continuation as a going concern is dependent upon
+continued financial support from our shareholders and other related parties. 
+
+Critical
+Accounting Policies 
+
+Our
+discussion and analysis of its financial condition and results of operations are based upon our financial statements, which have been
+prepared in accordance with accounting principles generally accepted in the United States of America. 
+
+Off-Balance
+Sheet Arrangements 
+
+As
+of the date of this annual report, we do not have any off balance sheet arrangements that have or are reasonably likely to have a current
+or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity,
+capital expenditures or capital resources that are material to investors. 
+
+7 
+
+Use
+of Estimates 
+
+The
+preparation of financial statements in accordance with accounting principles generally accepted in the United States of America requires
+us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and disclosure of
+contingent assets and liabilities. On an on-going basis, we evaluate our estimates and judgments, including those related to revenue
+recognition, inventories, adequacy of allowances for doubtful accounts, valuation of long-lived assets and goodwill, income taxes, litigation
+and warranties. We base its estimates on historical and anticipated results and trends and on various other assumptions that we believe
+are reasonable under the circumstances, including assumptions as to future events. The policies discussed below are considered by management
+to be critical to an understanding of our financial statements. These estimates form the basis for making judgments about the carrying
+values of assets and liabilities that are not readily apparent from other sources. By their nature, estimates are subject to an inherent
+degree of uncertainty. Actual results may differ from those estimates. 
+
+Property
+and Equipment 
+
+Property
+and equipment are recorded at cost. Depreciation of property and equipment are accounted for by accelerated methods over the following
+estimated useful lives: 
+
+Evaluation
+of Long-Lived Assets 
+
+We
+review property and equipment for potential impairment whenever significant events or changes in circumstances indicate the carrying
+value may not be recoverable in accordance with the guidance in ASC 360-15-35 Impairment or Disposal of Long-Lived Assets .
+An impairment exists when the carrying amount of the long-lived assets is not recoverable and exceeds its fair value. The carrying amount
+of a long-lived asset is not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use and eventual
+disposition of the asset. If an impairment exists, the resulting write-down would be the difference between the fair market value of
+the long-lived asset and the related net book value. 
+
+Income
+Taxes 
+
+Deferred
+income tax assets or liabilities are computed based on the temporary differences between the financial statement and income tax bases
+of assets and liabilities using the statutory marginal income tax rate in effect for the years in which the differences are expected
+to reverse. Deferred income tax expenses or credits are based on the changes in the deferred income tax assets or liabilities from period
+to period. A valuation allowance against deferred tax assets is required if, based on the weight of available evidence, it is more likely
+than not that some portion or all of the deferred tax assets will not be realized. The valuation allowance should be sufficient to reduce
+the deferred tax asset to the amount that is more likely than not to be realized. 
+
+Item
+7A. Quantitative and Qualitative Disclosures About Market Risk. 
+
+Not
+applicable 
+
+Item
+8. Financial Statements and Supplementary Data. 
+
+8 
+
+JACK SHAMA, CPA, MA 
+
+ 1498 East 32 nd Street 
+
+ Brooklyn, NY 11234 
+
+ 631-318-0351 
+
+To the shareholders and the board of directors of Warpspeed Taxi Inc.. 
+
+Report of Independent Registered Public Accounting Firm. 
+
+Opinion on the financial statements. 
+
+I have audited the accompanying balance sheet of Warpspeed Taxi Inc and
+the related statements of income, stockholders equity and cash flow for the period November 18, 2020 - July 31, 2021. In my opinion based
+on my audit the financial statements present fairly in all material respects the financial position of the company as of July 31, 2021
+and the results of its operations and its cash flows for the year then ended in conformity with principles generally accepted in the United
+States of America. 
+
+These financial statements are the responsibility of the company s
+management. My responsibility is to express an opinion on the financial statements based on my audit. I am a public accounting firm registered
+with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the company
+in accordance with the US federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and
+the PCAOB. 
+
+I conducted my audit in accordance with the standards
+of the PCAOB. Those standards require that I plan and perform the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures
+included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. My audit also included
+evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation
+of the financial statements. I believe my audit provides a reasonable basis for my opinion. 
+
+/s/ Jack Shama 
+
+Jack Shama, CPA 
+
+ August 27, 2021 
+
+I have served as the company s auditor since January 2021. 
+
+F- 1 
+
+WARPSPEED
+TAXI INC. 
+
+ AUDITED
+BALANCE SHEET 
+
+July
+31, 2021 
+
+ASSETS 
+
+Current assets: 
+
+Cash 
+
+Prepayment Deposit 
+
+Total current assets 
+
+Fixed assets: 
+
+Software 
+
+Total Fixed assets 
+
+Total assets 
+
+LIABILITIES STOCKHOLDER S EQUITY 
+
+LIABILITIES 
+
+Current liabilities: 
+
+Accounts payable and accrued liabilities 
+
+Total current liabilities 
+
+Long term liabilities: 
+
+Notes payable 
+
+Total long term liabilities 
+
+Total Liabilities 
+
+STOCKHOLDER S EQUITY 
+
+Common stock: par value, authorized, issued and outstanding as of July 31, 2021 
+
+Accumulated Other Comprehensive Income 
+ - 
+ 
+ Deficit accumulated 
+
+Total stockholder s equity 
+
+Total liabilities and stockholder s equity 
+
+(The
+accompanying notes are an integral part of these audited financial statements) 
+
+F- 2 
+
+WARPSPEED
+TAXI INC. 
+
+ AUDITED
+STATEMENT OF COMPREHENSIVE LOSS 
+
+For the Year Ended July 31, 
+2021 
+ 
+ Expenses 
+
+General and administrative 
+
+Net Loss 
+
+Total Comprehensive Loss 
+
+Net loss per share basic and diluted 
+
+Weighted average shares outstanding basic and diluted 
+
+(The
+accompanying notes are an integral part of these audited financial statements) 
+
+F- 3 
+
+WARPSPEED
+TAXI INC. 
+
+ AUDITED
+STATEMENT OF STOCKHOLDERS EQUITY 
+
+ For
+the Year Ended July 31, 2021 
+
+Common
+Stock 
+
+Additional Paid in 
+ Accumulated 
+
+Number 
+ Par Value 
+ Capital 
+ Deficit 
+ Total 
+
+Opening Balance as if November 18, 2020 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ Common Stock issued for Cash 
+
+Other Comprehensive Income 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ Net Loss 
+ - 
+ - 
+ - 
+
+Closing Balance as if 31st July 2021 
+
+(The
+accompanying notes are an integral part of these audited financial statements) 
+
+F- 4 
+
+WARPSPEED
+TAXI INC. 
+
+ AUDITED
+STATEMENT OF CASH FLOWS 
+
+For the Year Ended July 31, 2021 
+ 
+ Cash flows from operating activities 
+
+Net loss for the period 
+
+Change in operating assets and liabilities 
+
+Prepayments deposits 
+
+Accounts payable and accrued liabilities 
+
+Notes payable 
+
+Net cash used in operating activities 
+
+Cash flows from investing activities 
+
+Intangible assets 
+
+Software development 
+
+Net cash used in investing activities 
+
+Cash flows from financing activities 
+
+Common stock 
+
+Net cash used in financing activities 
+
+Change in cash 
+
+Cash beginning of period 
+ - 
+
+Cash end of period 
+
+Supplemental cash flow disclosures 
+
+Cash paid For: 
+
+Interest 
+ - 
+ 
+ Income tax 
+ - 
+
+(The
+accompanying notes are an integral part of these audited financial statements) 
+
+F- 5 
+
+WARPSPEED
+TAX INC 
+
+ NOTES
+TO THE AUDITED FINANCIAL STATEMENTS 
+
+ For
+the year ending on July 31, 2021 
+
+, an additional payment of upon delivery of a working prototype of the application,
+plus the issuance of a promissory note for that is payable on demand any time after . The note bears simple
+interest at a rate of per annum and is unsecured. The Company may pay this note early without penalty. The Company must pay the vendor
+an additional 40,000 upon the vendor s delivery of a working prototype of the application. 
+
+ as of July 31, 2021 and further losses are anticipated in the development of its business raising substantial
+doubt about the Company s ability to continue as a going concern. In order to remain in business, the Company will need to
+raise capital in the next twelve months. The ability to continue as a going concern is dependent upon the Company generating profitable
+operations in the future and/or obtaining the necessary financing to meet its obligations and repay its liabilities arising from normal
+business operations when they come due. Management intends to finance operating costs over the next twelve months with existing cash
+on hand and proceeds from its public offering. The Company has no written or verbal commitments from stockholders, director or officer
+to provide the Company with any form of cash advances, loans or other sources of liquidity to meet its working capital needs. The
+accompanying financial statements do not include any adjustments to reflect the possible future effects on the recoverability and classification
+of assets or the amounts and classifications of liabilities that may result from the possible inability of the Company to continue as
+a going concern. 
+
+in cash. 
+
+These
+tiers include: 
+
+Level
+ 1: 
+ Defined
+ as observable inputs such as quoted prices in active markets; 
+ 
+ Level
+ 2: 
+ Defined
+ as inputs other than quoted prices in active markets that are either directly or indirectly observable; 
+ 
+ Level
+ 3: 
+ Defined
+ as unobservable inputs in which little or no market data exists, therefore requiring an entity to develop its own
+ assumptions. 
+
+The
+Company has adopted FASB ASC 825, Financial Instruments, which allows companies to choose to measure eligible financial instruments and
+certain other items at fair value that are not required to be measured at fair value. The Company has not elected the fair value option
+for any eligible financial instruments. 
+
+In
+May 2014, the FASB issued ASU No. 2014-09, Revenue from Contracts with Customers ASU 2014-09 ), which requires an entity
+to recognize the amount of revenue to which it expects to be entitled for the transfer of promised goods or services to customers. ASU
+2014-09 will replace most existing revenue recognition guidance in U.S. generally accepted accounting principles when it becomes effective.
+In July 2015, the FASB deferred the effective date of the standard by an additional year; however, it provided companies the option to
+adopt one year earlier, commensurate with the original effective date. The amendment is effective for public entities for fiscal years
+beginning after December 15, 2016. The Company is currently evaluating this standard and has not yet selected a transition method or
+the effective date on which it plans to adopt the standard, nor has it determined the effect of the standard on its financial statements
+and related disclosures. 
+
+. Upon completion, the software will have
+an estimated useful life of three years. 
+
+shares with a par value of per share. 
+
+During
+the period ended July 31, 2021, the Company issued shares of common stock for total cash proceeds of . 
+
+On
+July 31, 2021, there were no issued and outstanding stock options or warrants. 
+
+from a company affiliated with the Company. This advance is unsecured, non-interest
+bearing, and has no fixed terms of repayment. 
+
+that may be available to reduce future years taxable income in varying amounts through
+2040. Future tax benefits which may arise as a result of these losses have not been recognized in these financial statements, as their
+realization is determined not likely to occur and accordingly the Company has recorded a valuation allowance for the deferred tax asset
+relating to these tax loss carry-forwards. 
+
+The
+ultimate realization of deferred income tax assets is dependent upon the generation of future taxable income during the periods in which
+those temporary differences become deductible. Management considers the scheduled reversal of deferred income tax liabilities, projected
+future taxable income, and tax planning strategies in making this assessment. Based on consideration of these items, management
+has determined that enough uncertainty exists relative to the realization of the deferred income tax asset balances to warrant the application
+of a full valuation allowance as of July 31, 2021. All tax years since inception remains open for examination by taxing authorities. 
+
+F- 9 
+
+Item
+9. Changes In and Disagreements with Accountants on Accounting and Financial Disclosure. 
+
+None 
+
+Item
+9A. Controls and Procedures. 
+
+As
+supervised by our board of directors and our principal executive and principal financial officer, management has established a system
+of disclosure, controls and procedures and has evaluated the effectiveness of that system. The system and its evaluation are reported
+on in the below Management s Annual Report on Internal Control over Financial Reporting. Our principal executive and financial
+officer has concluded that our disclosure, controls and procedures (as defined in Securities Exchange Act of 1934 Exchange Act Rule 13a-15(e)) as of July 31, 2021, were not effective, based on the evaluation of these controls and procedures required by paragraph
+(b) of Rule 13a-15. 
+
+Management s
+Annual Report on Internal Control over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rule 13a-15(f)
+of the Exchange Act. Internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability
+of financial reporting and the preparation of financial statements for external purposes in accordance with U.S. generally accepted accounting
+principles. 
+
+Management
+assessed the effectiveness of internal control over financial reporting as of July 31, 2021. We carried out this assessment using the
+criteria of the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control Integrated Framework. 
+
+B.
+Management s Report on Internal Control over Financial Reporting 
+
+Management
+is responsible for establishing and maintaining adequate internal control over our financial reporting. In order to evaluate the effectiveness
+of internal control over financial reporting, as required by Section 404 of the Sarbanes-Oxley Act, management has conducted an assessment,
+including testing, using the criteria in the Internal Control - Integrated Framework, issued by the Committee of Sponsoring Organizations
+of the Treadway Commission COSO ). 
+
+Our
+system of internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. 
+
+Based
+on our evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our internal controls over financial reporting
+were not effective as of July 31, 2021 and were subject to material weaknesses. 
+
+A
+material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is
+a reasonable possibility that a material misstatement of the company s annual or interim financial statements will not be prevented
+or detected on a timely basis. We have identified the following material weaknesses in our internal control over financial reporting
+using the criteria established in the COSO: 
+
+1. Failing
+ to have an audit committee or other independent committee that is independent of management
+ to assess internal control over financial reporting; and 
+
+2. Failing
+ to have a director that qualifies as an audit committee financial expert as defined in Item
+ 407(d)(5)(ii) of Regulation S-K. 
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. In addition, projections
+of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in
+conditions and that the degree of compliance with the policies or procedures may deteriorate. 
+
+This
+annual report does not include an attestation report of our registered public accounting firm regarding internal control over financial
+reporting. Management s report was not subject to attestation by our registered public accounting firm, pursuant to rules of the
+Securities and Exchange Commission that permit us to provide only management s report in this annual report. Management concluded
+in this assessment that as of July 31, 2021, our internal control over financial reporting is not effective. 
+
+There
+have been no significant changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d15(f) under the
+Exchange Act) during the fourth quarter of our 2019 fiscal year that have materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting. 
+
+Item
+9B. Other Information. 
+
+None 
+
+9 
+
+PART
+III 
+
+Item
+10. Directors, Executive Officers, and Corporate Governance. 
+
+Our
+executive officers and directors and their respective ages are as follows: 
+
+Name 
+ Position 
+ Age 
+ Term
+of Office 
+ 
+ Mohammed
+ Irfan Rafimiya Kazi 
+ President,
+ CEO, and Director 
+ 43 
+ November
+ 18, 2020 to present 
+ 
+ Kateryna
+ Malenko 
+ CFO,
+ Secretary and Director 
+ 30 
+ November
+ 18, 2020 to present 
+
+The
+following describes the business experience of our directors and executive officers, including other directorships held in reporting
+companies: 
+
+Mohammed
+Irfan Rafimiya Kazi has acted as our President, C.E.O., C.F.O., and a director since our inception in November 2020. He also has acted
+as President, CEO, C.F.O., and as a director of our parent company, Cyber Apps World Inc. since March 10, 2020. Cyber Apps World Inc.
+is involved in the development of mobile applications for commercial and consumer use, and is currently developing a consumer product
+price comparison website. From January 2012 to February 2020, Mr. Kazi acted as a website developer and technical manager for various
+companies, including Nuclear Power Corporation of India, E-Digix Technologies Pvt. Ltd., and Virtual Height IT Services Pvt. Ltd., all
+of which are based in India. He earned a Bachelor of Computer Application degree from Farah Institute of Computer Science in Hyderabad
+in 2003. 
+
+Kateryna
+Malenko has acted as our Secretary and a director since our inception in November 2020. She has also acted as Secretary and a director
+of our parent company, Cyber Apps World Inc. since November 2, 2018. She has been self-employed as an independent sales and business
+development consultant involved in online marketing since 2011. In June 2011, Ms. Malenko graduated from Kharkiv Business Academy with
+a Bachelor s Degree in Business Administration. After graduation, she took an additional course in programming and website development
+at Kiev State Polytechnical University in 2015 and 2016. In 2011, Ms. Malenko worked as a junior business consultant at MMS Group LTD
+in Kiev, Ukraine and then a project manager for the same company. 
+
+Term
+of Office 
+
+Our
+directors are appointed for a one-year term to hold office until the next annual meeting of our shareholders or until removed from office
+in accordance with our bylaws. Our officers are appointed by our board of directors and hold office until removed by the board. 
+
+Section
+16(A) Beneficial Ownership Reporting Compliance 
+
+Section
+16(a) of the Exchange Act requires the Company s executive officers and directors, and persons who beneficially own more than five
+percent (5 of the Company s equity securities, to file reports of ownership and changes in ownership with the Securities and
+Exchange Commission. Officers, directors and greater than ten percent shareholders are required by SEC regulation to furnish the Company
+with copies of all Section 16(a) forms they file. Based on its review of the copies of such forms received by it, the Company believes
+that during the fiscal year ended July 31, 2021, all such filing requirements applicable to its officers and directors were complied
+with, except that Kateryna Malenko was required to file a Form 3 with respect to her shareholdings. 
+
+Code
+of Ethics 
+
+We
+have not adopted a Code of Ethics that governs the conduct of our officer. 
+
+Audit
+Committee 
+
+We
+do not have a formal audit committee or an audit committee financial expert. We do not have an audit committee financial expert because
+we believe the cost related to retaining a financial expert at this time is prohibitive. Further, because we have limited operations,
+at the present time, we believe the services of a financial expert are not warranted. 
+
+10 
+
+Item
+11. Executive Compensation. 
+
+The
+following table sets forth the compensation paid by us since our incorporation to our officers. This information includes the dollar
+value of base salaries, bonus awards and number of stock options granted, and certain other compensation, if any. The compensation discussed
+addresses all compensation awarded to, earned by, or paid to named executive officers. 
+
+EXECUTIVE
+OFFICER COMPENSATION TABLE 
+
+Name
+ and Principal Position 
+ Year 
+ Salary 
+ ) 
+ Bonus 
+ ) 
+ Stock
+ Awards 
+ ) 
+ Option
+ Awards 
+ ) 
+ Non-Equity
+ Incentive Plan Compensation 
+ ) 
+ Change
+ in pension value and nonqualified deferred compensation earnings 
+ ) 
+ All
+ Other Compensation 
+ ) 
+ Total 
+ ) 
+ 
+ Mohammed
+ Ifran Rafimiya Kazi 
+ President
+ and CEO 
+ 2021 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 
+ Kateryna
+ Malenko 
+ CFO
+ and Secretary 
+ 2020 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+ 
+ 0 
+
+The
+compensation discussed herein addresses all compensation awarded to, earned by, or paid to our named executive officers. 
+
+There
+are no stock option plans, retirement, pension, or profit sharing plans for the benefit of our officers and directors. 
+
+Compensation
+of Directors 
+
+Our
+directors are not compensated for their services as directors. The board has not implemented a plan to award options to any directors.
+There are no contractual arrangements with any member of the board of directors. We have no director service contracts. 
+
+Change
+of Control 
+
+We
+do not have any pension plans or compensatory plans or other arrangements which provide compensation in the event of a termination of
+employment or a change in our control. 
+
+Item
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The
+following table sets forth, as October 15, 2020, certain information with respect to the beneficial ownership of our common stock by
+each stockholder known by us to be the beneficial owner of more than 5 of our common stock and by each of our current directors and
+executive officers. Each person has sole voting and investment power with respect to the shares of common stock, except as otherwise
+indicated. Beneficial ownership consists of a direct interest in the shares of common stock, except as otherwise indicated. 
+
+Amount
+ of 
+
+Title
+ of 
+ Name
+ and address 
+ beneficial 
+ Percent 
+ 
+ Class 
+ of
+ beneficial owner 
+ ownership 
+ Of
+ Class 
+ 
+ Common 
+ Mohammed
+ Irfan Rafimiya Kazi 
+ Nil 
+ 0.0 
+ 
+ Stock 
+ President,
+ C.E.O., C.F.O. and director 
+
+9436
+ W. Lake Mead Blvd., Ste. 5-53 
+
+Las
+ Vegas, NV 89134-8340 
+
+Common 
+ Kateryna
+ Malenko 
+ 100,000,000 
+ 41.32 
+ 
+ Stock 
+ Secretary
+ and director 
+ shares 
+
+9436
+ W. Lake Mead Blvd., Ste. 5-53 
+
+Las
+ Vegas, NV 89134-8340 
+
+Common
+ 
+ Cyber
+ Apps World Inc. 1 
+ 141,000,000 
+ 58.25 
+ 
+ Stock 
+ 9436
+ W. Lake Mead Blvd., Ste. 5-53 
+ shares 
+
+Las
+ Vegas, NV 89134-8340 
+
+Common 
+ All
+ Officers and Directors 
+ 241,000,000 
+ 99.57 
+ 
+ Stock 
+ as
+ a group that consists of two persons 
+ shares 
+
+1
+ Cyber Apps World Inc. is a reporting issuer that trades on the OTC Markets. Mr. Kazi and Ms. Malenko are the sole directors and
+officers of Cyber Apps World, Inc. and collectively have authority to vote our shares that Cyber Apps World Inc. owns. Accordingly, we
+have included the shares that Cyber Apps World, Inc. owns in the calculation of the number of shares that the officers and directors
+collectively own. 
+
+11 
+
+The
+percent of class is based on 242,040,000 shares of common stock that is currently issued and outstanding as of the date of this annual
+report. 
+
+None
+of the above shareholders have any right to acquire additional shares of common stock in the capital of the Company. There are no
+arrangements that may result in our change in control of the Company. 
+
+Item
+13. Certain Relationships and Related Transactions, and Director Independence. 
+
+On
+January 27, 2021, we offered and sold 100,000,000 shares of common stock to Kateryna Malenko who acts as one of our directors and officers.
+We sold these shares to Ms. Malenko at a price of 0.0001 per share for aggregate proceeds of 10,000. 
+
+Otherwise,
+during the period from our inception to July 31, 2021, and the period since our more recently completed fiscal year, we have not entered
+into any transactions with directors, executive officers, nominees for election as a director, any 10 shareholders of our common stock,
+or any immediate family members of the such persons in which they had a direct or indirect material interest in the transaction. 
+
+Item
+14. Principal Accountant Fees and Services. 
+
+Audit
+Fees. 
+
+The
+aggregate fees billed by for professional services rendered for the accounting and audit of our financial statement for the fiscal year
+ended July 31, 2021 was 2,200 
+
+Audit-Related
+Fees . 
+
+There
+have been no audit-related fees billed by our accountants in the last fiscal year of our Company. 
+
+Tax
+Fees. 
+
+There
+have been no tax fees billed by our accountants in the last fiscal year of our Company. 
+
+All
+Other Fees. 
+
+There
+have been no other fees billed by our accountants in the last fiscal year of our Company. 
+
+It
+is the policy of our board of directors that before the accountant is engaged to render audit or non-audit services, the engagement is
+approved by the Board of Directors that is at present acting as the Audit Committee. 
+
+12 
+
+Item
+15. Exhibits and Financial Statement Schedules. 
+
+Exhibits 
+
+EXHIBIT 
+ NUMBER 
+ 
+ DESCRIPTION 
+
+3.1 
+ 
+ Articles
+ of Incorporation 
+ 
+ 3.2 
+ 
+ By-Laws 
+ 
+ 10.1 
+ 
+ Asset
+ Purchase Agreement 
+ 
+ 31.1 
+ 
+ Section
+ 302 Certification by Principal Executive Officer 
+ 
+ 31.2 
+ 
+ Section
+ 302 Certification by Principal Accounting Officer and Principal Financial Officer 
+ 
+ 32.1 
+ 
+ Section
+ 906 Certification by Principal Executive Officer 
+ 
+ 32.2 
+ 
+ Section
+ 906 Certification by Principal Accounting Officer and Principal Financial Officer 
+ 
+ 99.1 
+ 
+ Subscription
+ Agreement 
+
+filed as an exhibit to our registration statement on Form S-1 dated January 28, 2021. 
+
+Copies
+of the following documents are included as exhibits to this report pursuant to Item 601 of Regulation S-K. 
+
+SEC
+Ref. No. 
+ 
+ Title of Document 
+ 
+ 101.INS 
+ 
+ XBRL
+ Instance Document 
+ 
+ 101.SCH 
+ 
+ XBRL
+ Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ 
+ XBRL
+ Taxonomy Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ XBRL
+ Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ XBRL
+ Taxonomy Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ XBRL
+ Taxonomy Presentation Linkbase Document 
+
+The
+XBRL related information in Exhibits 101 to this Annual Report on Form 10-K shall not be deemed filed or a part of a registration
+statement or prospectus for purposes of Section 11 or 12 of the Securities Act of 1933, as amended, and is not filed for purposes of
+Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of those sections. 
+
+13 
+
+SIGNATURES 
+
+In
+accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+WARPSPEED
+TAXI INC. 
+
+By:
+ /s/ Mohammed Irfan Rafimiya Kazi 
+
+ President
+and Chief Executive Officer 
+
+Date: October 15, 2021 
+
+In
+accordance with the Securities Exchange Act, this report has been signed below by the following persons on behalf of the registrant and
+in the capacities and on the dates indicated. 
+
+By:
+ /s/ Mohammed Irfan Rafimiya Kazi 
+
+ Mohammed Irfan Rafimiya Kazi 
+
+ (President, Chief Executive
+Officer and Director) 
+
+Date: October 15, 2021 
+
+By: /s/
+Kateryna Malenko 
+
+ Kateryna Malenko 
+
+ (Chief Financial Officer and
+Principal Accounting Officer) 
+
+Date: October 15, 2021 
+
+14 
+
+<EX-31.1>
+ 2
+ warpspeedtaxi_ex31-1.htm
+ EX-31.1
+
+Exhibit 31.1 
+
+Certification Pursuant to Rule 13a-14(a) 
+
+I, Mohammed Irfan Rafimiya Kazi, hereby certify that: 
+
+1. 
+ I have reviewed this Annual Report on Form 10-K of WarpSpeed Taxi Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors: 
+
+a. 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 15, 2021 
+ /s/ Mohammed Irfan Rafimiya Kazi 
+
+Mohammed Irfan Rafimiya Kazi 
+
+Chief Executive Officer and Principal Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ warpspeedtaxi_ex31-2.htm
+ EX-31.2
+
+Exhibit 31.2 
+
+Certification Pursuant to Rule 13a-14(a) 
+
+I, Kateryna Malenko, hereby certify that: 
+
+1. 
+ I have reviewed this Annual Report on Form 10-K of WarpSpeed Taxi Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a. 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors: 
+
+a. 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: October 15, 2021 
+ /s/ Kateryna Malenko 
+
+Kateryna Malenko 
+
+Chief Financial Officer, Principal Accounting Officer, and Principal Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ warpspeedtaxi_ex32-1.htm
+ EX-32.1
+
+Exhibit 32.1 
+
+CERTIFICATION 
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+(18 U.S.C. 1350) 
+
+Pursuant to Section 906 of the Sarbanes-Oxley Act of (18 U.S.C.
+1350), the undersigned officer of WarpSpeed Taxi Inc., a Wyoming corporation (the Company ), does hereby certify, to the
+best of such officer s knowledge and belief, that: 
+
+1. 
+ The Annual Report on Form 10-K for the year ended July 31, 2021 (the Form 10-K of the Company fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ The information contained in the Form 10-K fairly presents, in all materials respects, the financial condition and results of operations of the Company. 
+
+Date: October 15, 2021 
+ /s/ Mohammed Irfan Rafimiya Kazi 
+
+Mohammed Irfan Rafimiya Kazi 
+
+Chief Executive Officer and Principal Executive Officer 
+
+This certification shall not be deemed filed for
+purposes of Section 18 of the Securities Exchange Act, or otherwise subject to the liability of that section. Such certification will
+not be deemed to be incorporated by reference into any filing under the Securities Act or the Securities Exchange Act. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ warpspeedtaxi_ex32-2.htm
+ EX-32.2
+
+Exhibit 32.2 
+
+CERTIFICATION 
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+(18 U.S.C. 1350) 
+
+Pursuant to Section 906 of the Sarbanes-Oxley Act of (18 U.S.C.
+1350), the undersigned officer of WarpSpeed Taxi Inc., a Wyoming corporation (the Company ), does hereby certify, to the
+best of such officer s knowledge and belief, that: 
+
+1. 
+ The Annual Report on Form 10-K for the year ended July 31, 2021 (the Form 10-K of the Company fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ The information contained in the Form 10-K fairly presents, in all materials respects, the financial condition and results of operations of the Company. 
+
+Date: October 15, 2021 
+ /s/ Kateryna Malenko 
+
+Kateryna Malenko 
+
+Chief Financial Officer, Principal Accounting Officer 
+ and Principal Financial Officer 
+
+This certification shall not be deemed filed for
+purposes of Section 18 of the Securities Exchange Act, or otherwise subject to the liability of that section. Such certification will
+not be deemed to be incorporated by reference into any filing under the Securities Act or the Securities Exchange Act. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ wasp-20210731.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ wasp-20210731_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ wasp-20210731_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ wasp-20210731_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

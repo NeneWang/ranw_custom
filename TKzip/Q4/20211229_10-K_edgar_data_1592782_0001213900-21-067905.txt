@@ -1,0 +1,3761 @@
+<Header>
+<FileStats>
+    <FileName>20211229_10-K_edgar_data_1592782_0001213900-21-067905.txt</FileName>
+    <GrossFileSize>5079859</GrossFileSize>
+    <NetFileSize>151743</NetFileSize>
+    <NonText_DocumentType_Chars>953374</NonText_DocumentType_Chars>
+    <HTML_Chars>1194588</HTML_Chars>
+    <XBRL_Chars>1380190</XBRL_Chars>
+    <XML_Chars>1263688</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-21-067905.hdr.sgml : 20211229
+<ACCEPTANCE-DATETIME>20211229155610
+ACCESSION NUMBER:		0001213900-21-067905
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		75
+CONFORMED PERIOD OF REPORT:	20210930
+FILED AS OF DATE:		20211229
+DATE AS OF CHANGE:		20211229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nukkleus Inc.
+		CENTRAL INDEX KEY:			0001592782
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MANAGEMENT CONSULTING SERVICES [8742]
+		IRS NUMBER:				383912845
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55922
+		FILM NUMBER:		211528783
+
+	BUSINESS ADDRESS:	
+		STREET 1:		525 WASHINGTON BLVD.
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07310
+		BUSINESS PHONE:		(800) 604-1724
+
+	MAIL ADDRESS:	
+		STREET 1:		525 WASHINGTON BLVD.
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07310
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Compliance & Risk Management Solutions Inc.
+		DATE OF NAME CHANGE:	20131125
+
+</SEC-Header>
+</Header>
+
+ 0001213900-21-067905.txt : 20211229
+
+10-K
+ 1
+ f10k2021_nukkleusinc.htm
+ ANNUAL REPORT
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 
+
+(Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR
+15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended 
+
+or 
+
+TRANSITION REPORT PURSUANT TO SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from _________ to _________ 
+
+Commission file number 
+
+(Exact name of registrant as specified in its
+charter) 
+
+(State or other jurisdiction 
+of incorporation or organization) (I.R.S. Employer 
+Identification No.) , , (Address of principal executive offices) (Zip Code) 
+
+212-791-4663 
+
+Registrant s telephone number, including
+area code 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title
+ of each class 
+ 
+ Trading
+ Symbol(s) 
+ 
+ Name
+ of each exchange on which registered 
+ 
+ Not
+ applicable. 
+
+Securities registered under Section 12(b) of
+the Exchange Act: None 
+
+Securities registered under Section 12(g) of
+the Exchange Act: 
+
+Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes 
+
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+
+Indicate by check mark whether the registrant
+(1) has filed all reports required by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for
+such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for
+the past 90 days. Yes 
+
+Indicate by check mark whether the registrant
+has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted
+pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit and post such files). No 
+
+Indicate by check mark if disclosure of delinquent
+filers pursuant to Item 405 of Regulation S-K 229.405 of this chapter) is not contained herein, and will not be contained, to
+the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this
+Form 10-K or any amendment to this Form 10-K. 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.
+See the definitions of large accelerated filer, accelerated filer , smaller reporting company 
+and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act 
+
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+The aggregate market value of the voting and
+non-voting common equity held by non-affiliates of the registrant was approximately as of March 31, 2021, based upon the closing
+stock price 0.23 per share reported for such date. 
+
+State the number of shares outstanding of each
+of the issuer s classes of common equity, as of the latest practicable date. 
+
+Class Outstanding December 29, 2021 Common Stock, 0.0001 par value per share shares 
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+This report contains forward-looking statements
+that involve a number of risks and uncertainties. Although our forward-looking statements reflect the good faith judgment of our management,
+these statements can be based only on facts and factors of which we are currently aware. Consequently, forward-looking statements are
+inherently subject to risks and uncertainties. Actual results and outcomes may differ materially from results and outcomes discussed
+in the forward-looking statements. 
+
+Forward-looking statements can be identified
+by the use of forward-looking words such as may, will, should, anticipate, believe, 
+ expect, plan, future, intend, could, estimate, predict, 
+ hope, potential, continue, or the negative of these terms or other similar expressions. These
+statements include, but are not limited to, statements under the captions Risk Factors, Management s Discussion
+and Analysis or Plan of Operation and Description of Business, as well as other sections in this report. Such forward-looking
+statements are based on our management s current plans and expectations and are subject to risks, uncertainties and changes in
+plans that may cause actual results to differ materially from those anticipated in the forward-looking statements. You should be aware
+that, as a result of any of these factors materializing, the trading price of our common stock may decline. These factors include, but
+are not limited to, the following: 
+
+the availability and adequacy
+ of capital to support and grow our business; 
+
+economic, competitive,
+ business and other conditions in our local and regional markets; 
+
+actions taken or not taken
+ by others, including competitors, as well as legislative, regulatory, judicial and other governmental authorities; 
+
+competition in our industry; 
+
+changes in our business
+ and growth strategy, capital improvements or development plans; 
+
+the availability of additional
+ capital to support development; and 
+
+other factors discussed
+ elsewhere in this annual report. 
+
+The cautionary statements made in this annual
+report are intended to be applicable to all related forward-looking statements wherever they may appear in this report. 
+
+We urge you not to place undue reliance on these
+forward-looking statements, which speak only as of the date of this report. We undertake no obligation to publicly update any forward
+looking-statements, whether as a result of new information, future events or otherwise. 
+
+All references in this Form 10-K that refer to
+the Company , Nukkleus , we, us or our refer to Nukkleus Inc. and
+its consolidated subsidiaries. 
+
+TABLE OF CONTENTS 
+
+Item 1. 
+ Business 
+ 1 
+
+Item 1A. 
+ Risk Factors 
+ 5 
+
+Item 1B. 
+ Unresolved Staff Comments 
+ 11 
+
+Item 2. 
+ Properties 
+ 11 
+
+Item 3. 
+ Legal Proceedings 
+ 11 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 11 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 12 
+
+Item 6. 
+ Selected Financial Data 
+ 13 
+
+Item 7. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 13 
+
+Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 17 
+
+Item 8. 
+ Financial Statements and Supplementary Data 
+ 18 
+
+Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 19 
+
+Item 9A. 
+ Controls and Procedures 
+ 19 
+
+Item 9B. 
+ Other Information 
+ 19 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 20 
+
+Item 11. 
+ Executive Compensation 
+ 22 
+
+Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 23 
+
+Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 24 
+
+Item 14. 
+ Principal Accounting Fees and Services 
+ 26 
+
+Item 15. 
+ Exhibits, Financial Statement Schedules 
+ 27 
+
+SIGNATURES 
+ 29 
+
+i 
+
+PART I 
+
+Item 1. Business. 
+
+Nukkleus Inc. (formerly known as, Compliance
+ Risk Management Solutions Inc.) (the Company or Nukkleus was formed on July 29, 2013 in the State
+of Delaware as a for-profit Company and established a fiscal year end of September 30. 
+
+Overview 
+
+We are a financial technology company which is
+focused on providing software and technology solutions for the worldwide retail foreign exchange FX trading industry.
+We primarily provide our software, technology, customer sales and marketing and risk management technology hardware and software solutions
+package to Triton Capital Markets Ltd. TCM ), formerly known as FXDD Malta Limited FXDD Malta ). The FXDD
+brand (e.g., see FXDD.com) is the brand utilized in the retail forex trading industry by TCM. 
+
+As part of the Assets acquired, we acquired ownership
+of FOREXWARE, the primary software suite and technology solution which powers the FXDD brand globally today. We also have ownership of
+the FOREXWARE brand name. We have also acquired ownership of the customer interface and other software trading solutions being used by
+FXDD.com. By virtue of our relationship with TCM and FXDirectDealer LLC FXDIRECT ), we provide turnkey software and technology
+solutions for FXDD.com. We offer the customers of FXDD 24 hour, five days a week direct access to the global over the counter OTC FX market, which is a decentralized market in which participants trade directly with one another, rather than through a central exchange. 
+
+In an FX trade, participants effectively buy
+one currency and simultaneously sell another currency, with the two currencies that make up the trade being referred to as a currency
+pair . Our software and technology solutions enable FXDD to present its customers with price quotations on over the counter tradeable
+instruments, including over the counter currency pairs, and also provide our customers the ability to trade FX derivative contracts on
+currency pairs through a product referred to as Contracts for Difference CFD ). Our software solutions also offer other
+CFD products, including CFDs on metals, such as gold, and on futures linked to other products. 
+
+In July 2018, the Company incorporated Nukkleus
+Malta Holding Ltd., which is a wholly-owned subsidiary. In July 2018, Nukkleus Malta Holding Ltd. incorporated Markets Direct Technology
+Group Ltd MDTG ), formerly known as Nukkleus Exchange Malta Ltd. MDTG was exploring potentially obtaining a license to
+operate an electronic exchange whereby it would facilitate the buying and selling of various digital assets as well as traditional currency
+pairs used in FX Trading. During the fourth quarter of fiscal 2020, management made the decision to exit the exchange business and to
+no longer pursue the regulatory licensing necessary to operate an exchange in Malta. 
+
+On August 27, 2020, the Company renamed Nukkleus
+Exchange Malta Ltd. to Markets Direct Technology Group Ltd MDTG ). MDTG manages the technology and IP behind the Markets
+Direct brand (which is operated by TCM). MDTG holds all the IP addresses and all the software licenses in its name, and it holds all
+the IP rights to the brands such as Markets Direct and TCM. MDTG then leases out the rights to use these names/brands licenses to the
+appropriate entities. 
+
+On May 24, 2021, the Company and the shareholders
+of Match Financial Limited (the Match Shareholders ), a private limited company formed in England and Wales Match ),
+entered into a Purchase and Sale Agreement (the Match Agreement ), pursuant to which the Company, on May 28, 2021, acquired
+1,152 ordinary shares of Match representing 70 of the issued and outstanding ordinary shares of Match in consideration of 70,000,000
+shares of common stock of the Company (the Initial Transaction ). On August 30, 2021, the Company exercised its option pursuant
+to which it acquired from the Match Shareholders the balance of 493 ordinary shares of Match representing 30 of the issued and outstanding
+ordinary shares of Match for an additional 30,000,000 shares of common stock of the Company. Match is engaged in providing financial
+services to enable conversion of fiat currencies to cryptocurrencies and vice versa. 
+
+On October 20, 2021, the Company and the shareholders
+(the Original Shareholders of Jacobi Asset Management Holdings Limited Jacobi entered into a Purchase
+and Sale Agreement (the Jacobi Agreement pursuant to which the Company agreed to acquire 5.0 of the issued and outstanding
+ordinary shares of Jacobi in consideration of 20,000,000 shares of common stock of the Company (the Transaction ). On December
+15, 2021, the Company, the Original Shareholders and the shareholders of Jacobi that were assigned their interest in Jacobi by the Original
+Shareholders (the New Jacobi Shareholders entered into an Amendment to Stock Purchase Agreement agreeing that the Transaction
+will be entered between the Company and the New Jacobi Shareholders. The Transaction closed on December 15, 2021. Jacobi is a company
+focused on digital asset management that has received regulatory approval to launch the world s first tier one Bitcoin ETF. 
+
+1 
+
+FXDD Agreements 
+
+On May 24, 2016, Nukkleus Limited entered into
+a General Service Agreement to provide its software, technology, customer sales and marketing and risk management technology hardware
+and software solutions package to FML Malta Ltd. In December 2017, Nukkleus Limited, FML Malta Ltd. and TCM entered into a letter agreement
+providing that there was an error in drafting the General Service Agreement and acknowledging that the correct counter-party to Nukkleus
+Limited in the General Service Agreement is TCM. Accordingly, all references to FML Malta Ltd. have been replaced with TCM. TCM is a
+private limited liability company formed under the laws of Malta. The General Service Agreement entered with TCM provides that TCM will
+pay Nukkleus Limited at minimum 2,000,000 per month. On October 17, 2017, Nukkleus Limited entered into an amendment of the General
+Service Agreement with TCM. In accordance with the amendment, which was effective as of October 1, 2017, the minimum amount payable by
+TCM to Nukkleus Limited for services was reduced from 2,000,000 per month to 1,600,000 per month. Emil Assentato is also the majority
+member of Max Q Investments LLC Max Q ), which is managed by Derivative Marketing Associates Inc. DMA ).
+Mr. Assentato is the sole owner and manager of DMA. Max Q owns 79 of Currency Mountain Malta LLC, which in turn is the sole shareholder
+of TCM. 
+
+In addition, on May 24, 2016, in order to appropriately
+service TCM, Nukkleus Limited entered into a General Service Agreement with FXDIRECT, which provides that Nukkleus Limited will pay FXDIRECT
+a minimum of 1,975,000 per month in consideration of providing personnel engaged in operational and technical support, marketing, sales
+support, accounting, risk monitoring, documentation processing and customer care and support. FXDIRECT may terminate this agreement upon
+providing 90 days written notice. On October 17, 2017, Nukkleus Limited entered into an amendment of the General Service Agreement
+with FXDIRECT. Pursuant to the amendment, which was effective as of October 1, 2017, the minimum amount payable by Nukkleus Limited to
+FXDIRECT for services was reduced from 1,975,000 per month to 1,575,000 per month. Currency Mountain Holdings LLC is the sole shareholder
+of FXDIRECT. Max Q is the majority shareholder of Currency Mountain Holdings LLC. 
+
+The Market Opportunity 
+
+The FX market is a global, decentralized market
+for the trading of currencies. FX trading involves the simultaneous buying and selling of a currency pair for the purposes of hedging
+currency risk or to generate a profit. The FX market, once limited to large financial institutions, has expanded and matured over the
+past decade, and now captures a wide range of participants, including central banks, commercial banks, non-bank corporations, hedge funds,
+brokers and individual investors / traders. The market s expansion has helped lead to a significant increase in trading activity.
+In addition to the increase in the breadth of market participants, key factors driving higher trading volumes include the adoption of
+electronic and high frequency trading, tighter trading spreads, rising volatility among currencies and enhanced access to FX trading
+markets primarily through online brokers, such as FXDD for retail investors. 
+
+FX trading, initially utilized primarily for
+hedging purposes, has evolved as investor sophistication levels have risen, trading costs have fallen, and as currencies have become
+increasingly viewed as a viable investment asset class. FX s low, (or even negative) correlation among certain other portfolio
+assets, namely equities and fixed income, may help investors reduce overall portfolio volatility. As such, we believe that currencies
+are often viewed as an important portfolio diversification tool. 
+
+Fueled by the growing adoption of the internet,
+the retail segment of the FX market began to emerge in the late 1990s. Developing online brokerage firms provided individual investors
+with direct access to the global FX markets. Prior to the development of these trading platforms, individual retail investors were effectively
+locked out of the FX market as minimum trade sizes were typically too high for individual retail investors. Online FX brokers lowered
+the minimum volume barriers and transactions costs for retail trading, allowing individuals to establish trading accounts with much lower
+initial deposits. We believe the retail FX segment now represents the fastest growing portion of the overall FX market. We believe this
+growth will be driven by a handful of key market trends, including: 
+
+Increased
+investor demand for exposure to currencies; 
+
+Increasing
+internet adoption across the globe; 
+
+Growing
+engagement of the offline market; 
+
+Development
+of emerging markets and the emergence of an affluent middle class; and 
+
+Increasing
+regulation resulting in greater confidence. 
+
+Participants in the retail FX market are geographically
+dispersed. Retail FX brokers, such as FXDD are seeking to expand their presence in projected high growth regional areas, such as Asia
+and the Middle East. 
+
+Systems and Services 
+
+Nukkleus provides its services in the following
+service categories: 
+
+Category One: Introducing Broker Dealer Network
+and the Introducing Broker Interface 
+
+Category Two: Chinese and Middle East customer
+desk support 
+
+2 
+
+Category Three: Bridging software to the Meta Trader (MT4 and MT 5)
+platforms 
+
+Category Four: Forex Market Liquidity Access 
+
+Category Five: Turnkey risk management support
+software and Risk Management Team 
+
+Category Six: Front End Software Retail Trading
+Platforms and Customer Application Systems 
+
+Category Seven: Back Office Systems management 
+
+Category One: Introducing Broker Dealer Network 
+
+Nukkleus, by arrangement pursuant to our services
+agreement with TCM and FXDIRECT, provides to TCM clients an introducing broker (IB) network spread across China, Japan and the Middle
+East. Our approach to the retail FX market is to focus on the development of relationships with independent local referring brokers who
+provide a recurring source of new customers. These referring brokers do not have an exclusive relationship with us, but are offered a
+competitive commission structure to deliver new customers to us. Our account managers primarily focus on building relationships with
+referring brokers, and master referring brokers (who refer other referring brokers to us), as well as with customers referred to us by
+referring brokers and acquired by us directly. We believe this approach, in contrast to retail FX brokers that focus solely or primarily
+on acquiring accounts through online marketing campaigns, has allowed us to provide services to TCM, which allows entities to achieve
+strong levels of net trading income, and accounts, as well as lower up front customer acquisition costs and greater customer satisfaction.
+Referring brokers are typically either individuals who are current or former FX traders or individuals or companies active in the area
+of FX trading and education and investment services advisory business. 
+
+The Introducing Broker (IB) Interface: 
+The Introducing Broker IB interface empowers our partners to view real time account data such as payouts, customer activity
+and reports. 
+
+Category Two: Asia, including Chinese and
+Middle East Customer Desk Support 
+
+Nukkleus, by arrangement pursuant to our services
+agreement, provides to TCM customer desk support in multiple languages. A key element of the business strategy is the large, multi-lingual
+and multi-ethnic team of account managers at the headquarters in Jersey City, New Jersey, as well as in certain other locations such
+as Malta, Jakarta, Indonesia and Tokyo, Japan. We obtained the services of account managers by virtue of our services agreement with
+FXDIRECT. Account managers are compensated to a significant degree based on their performance, measured by net deposits inflows, new
+accounts funded and trading volume generated by customers. We believe that this compensation structure motivates our account managers
+and leads to more active communication with our referring brokers and customers, an improved customer trading experience, improved referring
+broker and customer retention and increased deposits. 
+
+Category Three: Bridging Software to the Meta
+Trader (MT4 and MT5) platforms 
+
+Meta Trader 4 Bridge : The MT4 Bridge is
+a middleware product that connects the Meta Trader server with the XW Trading System. The Bridge passes both market data (i.e. quotes)
+and trading data (i.e. trade executions) between MT4 and the XW servers. By seamlessly integrating the two, the Bridge allows for real
+time trade execution, reduced slippage, and access to liquidity through the XW Liquidity Matrix. 
+
+Category Four: Forex Market Liquidity Access 
+
+XWare Liquidity Matrix : Dealers need access
+to as much liquidity as possible. Forexware s liquidity aggregation technology supports API from most of the world s largest
+liquidity providers, including banks, hedge funds and electronic communication networks (ECN). Our aggregation technology integrates
+seamlessly with customers existing infrastructure, providing the power to optimize trading processes, manage accounts and revealing
+the most relevant information to make effective trading decisions. 
+
+The XWare Liquidity Bridge : With the XWare
+liquidity bridge, brokers can automatically submit trade requests to the liquidity provider of choice and receive confirmation prior
+to sending an accept or reject message to the broker s client. The XWare Liquidity Bridge was developed to improve liquidity processes,
+risk and availability by providing a direct line of communication to vital backend processes. Brokers can create unique price streams
+from aggregated liquidity with sophisticated control over liquidity sources, pricing models, execution models and risk management. 
+
+XWare Live Rate Feed : The XWare Live Rate
+Feed provides customers with streaming liquidity and prices in real time that integrate seamlessly with existing trading platforms. The
+Quote Aggregator identifies outliers and bad ticks to ensure our clients capture accurate and reliable pricing to protect them from price
+fluctuations and anomalies that frequently occur with Liquidity Providers. 
+
+3 
+
+Category Five: Turnkey Risk Management Support
+Software, and Risk Management Team 
+
+Nukkleus, by arrangement pursuant to our services
+agreement with FXDIRECT, fields a risk management team of seasoned professionals who constantly monitor liquidity flows and manage the
+hedging of transactions on a 24 / 7 basis, with three eight-hour shifts. This service is provided both to the TCM clients, as well as
+to third party clients who request this service. 
+
+XWare Risk Monitor: The XWare Risk Manager is
+an essential component of the Forexware s turnkey Xware suite, offered to new brokers entering the market, or existing brokers
+looking to replace their existing systems. Our management is of the belief that the Risk Manager software suite is the most vigorous
+and advanced risk management system available in the market today providing customers the power to customize risk management settings
+at their fingertips. 
+
+Category Six: Front End Software Retail Trading
+Platforms and Customer Application Systems 
+
+XWare Trader is a proprietary platform
+for retail and institutional traders. It offers fully customizable layouts including colors, layout manager and undocking of windows.
+Advanced charting, 1 click trading, and automated execution for Algo Traders are all embedded in a modern interface. 
+
+Swordfish Trader : Swordfish Trader is
+a proprietary platform for retail and institutional traders. It offers fully customizable layouts including colors, layout manager, and
+undocking of windows. Advanced charting, 1- click trading, and automated execution for Algo Traders are all embedded in a modern interface.
+Swordfish further offers risk management monitors unique from other trading platforms. Nukkleus has also acquired the right to apply
+for a US federal copyright in relation to Swordfish Trader. 
+
+Category Seven: Back Office Systems Management: 
+
+XWare Apptracker : Xware Apptracker is
+a data workflow system designed to automate and manage new customer applications and account information in a centralized location. Xware
+App Tracker provides customers easy to use tools that save time, organize and track customer application information and manage new customer
+contract details for fast and efficient review and approval. 
+
+Reporting System : This complex and proprietary
+application generates customized reports, with numerous data queries pre-loaded to run in addition to those a client to choose to customize.
+It is designed to pull any number of named, defined data fields from both local databases and those from third party run databases, such
+as Oracle Financials. 
+
+Intellectual Property 
+
+We have several registered trademarks and service
+marks (US and foreign) and software assets. We also intend to pursue additional foreign trademark registrations. Nukkleus has been assigned
+various registrations and trademarks relating to: 
+
+Forexware 
+
+MTXTREME 
+
+Total Broker Solution 
+
+Extreme Spreads 
+
+When the News Breaks, Be
+ there to Trade it 
+
+Swordfish 
+
+Nukkleus has further acquired Patent Number 8799142
+in relation to Forexware Patent. This relates to a method of displaying information associated with currency exchange transactions in
+real time. 
+
+Corporate Office 
+
+Our principal executive office is 525 Washington
+Blvd, 14 th Floor, Jersey City, New Jersey 07310. Our main telephone number is 212-791-4663. Annual Reports on Form 10-K, quarterly
+reports on Form 10-Q, current reports on Form 8-K and all amendments to those reports are available free of charge through the Securities
+and Exchange Commission s website at www.sec.gov as soon as reasonably practicable after those reports are electronically filed
+with or furnished to the SEC. 
+
+Employees 
+
+As of the date of this filing, we have 12 employees,
+among which, 11 employees work for Digital RFQ Ltd. and 1 employee works for Nukkleus Inc. Through our relationship with FXDIRECT, we
+have access to approximately 30 account managers who speak over 10 different languages, and FXDIRECT has contractual relationships with
+hundreds of referring brokers in at least twenty different countries. It also has contracts with various independent contractors and
+consultants to fulfill additional needs, including investor relations, exploration, development, permitting, and other administrative
+functions, and may staff further with employees as it expands activities and brings new projects online. 
+
+4 
+
+Item 1A. Risk Factors. 
+
+Risks Relating to Our Company 
+
+Although we commenced operations in May
+2016, we rely on TCM as our only customer, and the loss of such customer could adversely impact our financial condition and results of
+operations. 
+
+We are a financial technology company which is
+focused on providing software and technology solutions for the worldwide retail FX trading industry. We primarily today provide our software,
+technology, customer sales and marketing and risk management technology hardware and software solutions package to TCM, a related party,
+which provides that TCM pays us at minimum, 1,600,000 per month. The FXDD brand (e.g., see FXDD.com) is the brand utilized in the retail
+forex trading industry by TCM. We derive all of our revenues under our agreement with TCM. The loss of such customer, or our failure
+to replace such customer with other customers, could have a material adverse effect on our financial condition and our results of operations. 
+
+Although we commenced operations in May
+2016, we rely on FXDIRECT as our primary vendor, and the loss of FXDIRECT would have a significant adverse impact on our business. 
+
+In order to appropriately service our only customer,
+TCM, we entered into a General Service Agreement with FXDIRECT, a related party, which provides that we pay FXDIRECT at minimum 1,575,000
+per month in consideration of providing personnel engaged in operational and technical support, marketing, sales support, accounting,
+risk monitoring, documentation processing and customer care and support. We derive all of our cost of revenues under our agreement with
+FXDIRECT. Loss of FXDIRECT could have a significant adverse impact on us. 
+
+Our principal client, TCM, has its net
+trading income and profitability influenced by, among other things, the general level of trading activity in the FX market and by currency
+volatility, both of which are beyond our control. 
+
+Like other financial services firms, our business
+and profitability are directly affected by factors that are beyond our control, such as economic and political conditions, broad trends
+in business and finance, changes in the volume of foreign currency transactions, changes in supply and demand for currencies, movements
+in currency exchange rates and interest rates, changes in the financial strength of market participants, legislative and regulatory changes,
+changes in the markets in which such transactions occur, changes in how such transactions are processed and disruptions due to terrorism,
+war or extreme weather events. In particular, the net trading income and operating results of our principal client, TCM, are influenced
+by the general level of trading activity in the FX market and by currency volatility and may vary significantly from period to period
+due to movements and trends in the world s currency markets and to fluctuations in trading levels. We have generally experienced
+greater trading volume and higher net trading income in periods of volatile currency markets. Accordingly, a decline in currency volatility
+or lower levels of trading volume, whether or not attributable to any such decline, as well as any of the foregoing other external factors,
+could have a material adverse effect on our business, financial condition, results of operations and cash flows. As a result, period
+to period comparisons of our operating results may not be meaningful and our future operating results may be subject to significant fluctuations
+or declines. 
+
+Our limited operating history makes it
+difficult for us to evaluate our future business prospects and make decisions based on those estimates of our future performance . 
+
+Although the FXDD brand has been in existence
+since in 2006, we have not commenced operations under Nukkleus as a financial technology services company until May 2016. As a consequence,
+it is difficult, if not impossible, to forecast our future results based upon our historical data. Reliance on the historical results
+may not be representative of the results we will achieve, particularly in our combined form. Because of the uncertainties related to
+our lack of historical operations, we may be hindered in our ability to anticipate and timely adapt to increases or decreases in revenues
+or expenses. If we make poor budgetary decisions as a result of unreliable historical data, we could be less profitable or incur losses,
+which may result in a decline in our stock price. 
+
+Our business requires substantial capital,
+and if we are unable to maintain adequate financing sources our profitability and financial condition will suffer and jeopardize our
+ability to continue operations. 
+
+We require substantial capital to support our
+operations. If we are unable to maintain adequate financing or other sources of capital are not available, we could be forced to suspend,
+curtail or reduce our operations, which could harm our revenues, profitability, financial condition and business prospects. 
+
+We may not be able to protect our intellectual
+property rights or may be prevented from using intellectual property necessary for our business. 
+
+Our ability to implement our business plan successfully
+depends in part on our ability to further build brand recognition using our trademarks, service marks and other proprietary intellectual
+property, including our name and logos. We have registered or applied to register a number of our trademarks in many jurisdictions, some
+of which have been refused. We cannot be certain that our trademark applications will be approved. Further, third parties may copy or
+otherwise obtain and use our proprietary technology without authorization or otherwise infringe on our rights. We may also face claims
+of infringement that could interfere with our ability to use technology that is material to our business operations. In the future, we
+may have to rely on litigation to enforce our intellectual property rights, protect our trade secrets, determine the validity and scope
+of the proprietary rights of others or defend against claims of infringement or invalidity. Any such litigation, whether successful or
+unsuccessful, could result in substantial costs and the diversion of resources and the attention of management, any of which could negatively
+affect our business. 
+
+5 
+
+Our computer infrastructure may be vulnerable
+to security breaches. Any such problems could jeopardize confidential information transmitted over the Internet, cause interruptions
+in our operations or give rise to liabilities to third parties. 
+
+Our computer infrastructure is potentially vulnerable
+to physical or electronic computer break-ins, viruses, distributed denial-of-service attacks and similar disruptive problems and security
+breaches. Any such problems or security breaches could give rise to liabilities to one or more third parties, including our customers,
+and disrupt our operations. A party able to circumvent our security measures could misappropriate proprietary information or customer
+information, jeopardize the confidential nature of information we transmit over the Internet or cause interruptions in our operations.
+Concerns over the security of Internet transactions and the safeguarding of confidential personal information could also inhibit the
+use of our systems to conduct FX transactions over the Internet. To the extent that our activities involve the storage and transmission
+of proprietary information and personal financial information or other personally identifiable information, security breaches could expose
+us to a risk of financial loss, litigation, regulatory penalties, loss of customers and other liabilities. Our current insurance policies
+may not protect us against all such losses and liabilities. Any of these events, particularly if they result in a loss of confidence
+in our services, could have a material adverse effect on our business, financial condition, results of operations and cash flows. 
+
+We rely on information technology to receive
+and properly process internal and external data. We may not be able to keep up with the rapidly changing technology, evolving industry
+standards and changing trading systems, practices and techniques that characterize the retail FX market. 
+
+We rely on technology to receive and properly
+process internal and external data. Any disruption for any reason in the proper functioning of our software or erroneous or corrupted
+data may cause us to make erroneous trades, accept customers from jurisdictions where we do not possess the proper licenses, authorizations
+or permits, or require us to suspend our services and could have a material adverse effect on our business, financial condition, results
+of operations and cash flows. For example, we rely on tools that we have developed in-house to monitor customer exposure and facilitate
+our ability to manage risk by transferring higher risk customers to agency accounts. In order to remain competitive, we continuously
+develop and refine our proprietary technology. In doing so, there is an ongoing risk that failures may occur and result in service interruptions
+or other negative consequences, such as slower trade execution, erroneous trades, or inaccurate risk management information. Moreover,
+if our competitors develop more advanced technologies, we may be required to devote additional resources to the development of more advanced
+technologies in order to remain competitive, which could adversely impact our profitability. We may not be able to keep up with the rapidly
+changing technology, evolving industry standards and changing trading systems, practices and techniques that characterize the retail
+FX market. 
+
+We rely on computer systems and services
+from third-party providers and licenses to third-party software. 
+
+We rely on computer systems and services from
+third-party providers and licenses to third-party trading platforms, back-office systems, Internet service providers and communications
+facilities. Any interruption in these third-party products or services, or deterioration in their performance or quality, could adversely
+affect our business. If our arrangement with any such third party is terminated, we may not be able to obtain alternative products or
+services on a timely basis or on commercially reasonable terms. This could have a material adverse effect on our business, financial
+condition, results of operations and cash flows. For example, we and most of our customers access and make use of our FX trading and
+related online trading services through the MetaTrader 4 and MetaTrader 5 trading platforms. The MetaTrader 4 and MetaTrader 5 trading
+platforms are owned by MetaQuotes Software Corp. MetaQuotes ), an independent third party. Nukkleus pays fees to FXDIRECT,
+in part to access the Meta Quotes licenses and software which those companies possess and is indirectly made available to us. In the
+future, MetaQuotes could cease to license its trading platforms to us or may cease to adequately support such software on commercially
+reasonable terms or at all. Furthermore, in the future a superior trading platform may be developed by a competitor to us or a competitor
+to MetaQuotes and we may be unable to license any such trading platform. If we are unable to continue to use the MetaTrader 4 trading
+platform or if we are unable to use any superior trading platform that may be developed in the future, we may lose customers to our competitors,
+in which case our business, financial condition, results of operations and cash flows may be materially adversely affected. 
+
+System failures could cause interruptions
+in our services or decreases in the responsiveness of our services which could harm our business. 
+
+If our systems fail to perform, we could experience
+disruptions in operations, slower response times or decreased customer service and customer satisfaction. Our ability to facilitate transactions
+successfully and provide high quality customer service depends on the efficient and uninterrupted operation of our computer and communications
+hardware and software systems. Our systems also are vulnerable to damage or interruption from human error, natural disasters, power loss,
+telecommunication failures, break-ins, sabotage, hacker attacks, computer viruses, intentional acts of vandalism and similar events.
+Although we have multiple location redundancy, we do not have fully redundant capabilities. While we currently maintain a disaster recovery
+plan, which is intended to minimize service interruptions and secure data integrity, such plan may not work effectively during an emergency.
+Any system failure that causes an interruption in our services, decreases the responsiveness of our services or affects access to our
+services could impair our reputation, damage our brand, cause customers to stop using our services or materially adversely affect our
+business, financial condition, results of operations and cash flows. 
+
+6 
+
+A systemic market event could impact the
+various market participants with whom we interact. 
+
+We may interact directly and indirectly with
+various market participants. If a systemic event in the financial system were to occur that were to result in a failure of any of our
+counterparties to be able continue to perform, this could have a material adverse effect on our business, financial condition, results
+of operations and cash flows. 
+
+In the current environment facing financial
+services firms, a firm s reputation is critically important. If our reputation is harmed, or the reputation of the online financial
+services industry as a whole or retail FX industry specifically is harmed, our business, financial condition, results of operations and
+cash flows may be materially adversely affected. 
+
+Our ability to attract and retain customers and
+employees may be adversely affected if our reputation is damaged. If we fail, or appear to fail, to deal with issues that may give rise
+to reputation risk, our business prospects could be harmed. These issues include, but are not limited to, appropriately dealing with
+potential conflicts of interest, legal and regulatory requirements, ethical issues, money-laundering, privacy, customer data protection,
+record-keeping, solicitation, sales and trading practices, and the proper identification of the legal, credit, liquidity, operational
+and market risks inherent in our business. Failure to appropriately address these issues could also give rise to additional legal risk
+to us, which could, in turn, increase the size and number of claims and damages asserted against us or subject us to regulatory enforcement
+actions, fines and penalties. Any such sanction could materially adversely affect our reputation, thereby reducing our ability to attract
+and retain customers, referring brokers and employees. 
+
+In addition, our ability to attract and retain
+customers may be adversely affected if the reputation of the online financial services industry as a whole or retail FX industry is damaged.
+In recent years, a number of financial services firms have suffered significant damage to their reputations from highly publicized incidents
+that in turn resulted in significant and in some cases irreparable harm to their business. The perception of instability within the online
+financial services industry could materially adversely affect our ability to attract and retain customers, referring brokers and employees. 
+
+Our client, TCM, has relationships with
+independent referring brokers who direct new customers to us, which is our principal source of new customers for TCM. Failure to maintain
+these relationships could have a material adverse effect on our business, financial condition, results of operations and cash flows and,
+in turn, negatively impact our company. 
+
+Our only client, TCM, maintains relationships
+with independent referring brokers who direct new customers to us and provide marketing and other services to these customers. TCM relationships
+with referring brokers are non-exclusive and may be terminated by the brokers on short notice. A referring broker does not forfeit previously
+earned commissions upon termination. In addition, under its agreements with referring brokers, they have no obligation to provide TCM
+with new customers or minimum levels of transaction volume. Its failure to maintain its relationships with referring brokers, the failure
+of the referring brokers to provide TCM with customers or its failure to create new relationships with referring brokers could result
+in a loss of net trading income, which could have a material adverse effect on our business, financial condition, results of operations
+and cash flows. To the extent any of its competitors offers more attractive compensation terms to any of its referring brokers, TCM could
+lose the referring broker s services or be required to increase the compensation it pays to retain the referring broker. In addition,
+it may agree to set the compensation for one or more referring brokers at a level where, based on the transaction volume generated by
+customers directed to it by such brokers, it would have been more economically attractive to seek to acquire the customers directly rather
+than through the referring broker. To the extent it does not enter into economically attractive relationships with referring brokers,
+its referring brokers may terminate their relationship with TCM or its referring brokers fail to provide us with customers, our business,
+financial condition, results of operations and cash flows could be materially adversely affected. 
+
+Any regulation of referring brokers and
+their activities could disrupt our business model. 
+
+TCM depends on referring brokers to acquire most
+of our customers. If a jurisdiction were to impose regulations restricting referring brokers ability to solicit, acquire or interact
+with customers, we may be unable to continue to acquire customers or do business in that jurisdiction. Any such regulation could have
+a material adverse effect on our business, financial condition, results of operations and cash flows. 
+
+The loss of members of our senior management
+could compromise our ability to effectively manage our business and pursue our growth strategy. 
+
+We rely on Mr. Emil Assentato, our Chairman,
+Chief Executive Officer and Chief Financial Officer to execute our existing business plans and to identify and pursue new opportunities.
+Our continued success is dependent upon the retention of Mr. Assentato, as well as the services provided by our trading staff, technology
+and programming specialists and a number of other key managerial, marketing, planning, financial, technical and operations personnel
+provided through our GSA with FXDIRECT. The loss of key personnel could have a material adverse effect on our business, financial condition,
+results of operations and cash flows. 
+
+The regulatory environment in which we
+operate is subject to continual change. Adverse changes in the regulatory environment could have a material adverse effect on our business,
+financial condition, results of operations and cash flows. 
+
+The legislative and regulatory environment in
+which we operate has undergone significant changes in the recent past and there may be future regulatory changes in our industry. The
+financial services industry in general has been subject to increasing regulatory oversight in recent years. The governmental bodies and
+self-regulatory organizations that regulate our business have proposed and may consider additional legislative and regulatory initiatives
+and may adopt new or revised laws and regulations. As a result, in the future, we may become subject to new regulations that may affect
+the way in which we conduct our business and may make our business less profitable. For example, a regulatory body may reduce the levels
+of leverage we are allowed to offer to our customers, which could significantly adversely impact our business, financial condition, results
+of operations and cash flows. Changes in the interpretation or enforcement of existing laws and regulations by those entities may also
+adversely affect our business, financial condition, results of operations and cash flows. 
+
+7 
+
+Providing online services to customers
+may require us to comply with the laws and regulations of each country in which such services are available. Failure to comply with such
+laws may negatively impact our financial results. 
+
+Because our services are available online in
+foreign countries and TCM has customers residing in foreign countries, foreign jurisdictions may require TCM or us to qualify to do business
+in such countries. We are required to comply with the laws and regulations of each country in which we conduct business, including laws
+and regulations currently in place or which may be enacted related to online services available to their citizens from service providers
+located elsewhere, including the laws and regulations of Japan and China. We are exposed to the risk that we are currently operating
+in non-compliance with local laws and regulations in certain of the jurisdictions where we accept customers. Any failure to develop effective
+compliance and reporting systems could result in regulatory penalties in the applicable jurisdiction, which could have a material adverse
+effect on our business, financial condition, results of operations and cash flows. 
+
+The FX market has only been widely available
+to retail investors since 1996. Our limited operating history and the limited history of the industry may make our growth and future
+prospects uncertain and difficult to evaluate. 
+
+Furthermore, the FX market has only become accessible
+to retail investors relatively recently. Prior to 1996, retail investors generally did not directly trade in the FX market, and we believe
+most current retail FX traders only recently started viewing currency trading as a practical alternative investment class. We will continue
+to encounter risks and difficulties frequently experienced by companies and industries at a similar stage of development, including our
+potential inability to implement our business model and strategy and adapt and modify them as needed or to manage our expanding operations,
+including the integration of any future acquisitions. 
+
+We have not voluntarily implemented various
+corporate governance measures, in the absence of which, shareholders may have more limited protections against interested director transactions,
+conflicts of interest and similar matters. 
+
+Recent federal legislation, including the Sarbanes-Oxley
+Act of 2002, has resulted in the adoption of various corporate governance measures designed to promote the integrity of the corporate
+management and the securities markets. Some of these measures have been adopted in response to legal requirements. Others have been adopted
+by companies in response to the requirements of national securities exchanges, such as the New York Stock Exchange, NYSE American or
+NASDAQ, on which their securities are listed. Among the corporate governance measures that are required under the rules of national securities
+exchanges and NASDAQ are those that address board of directors independence, audit committee oversight and the adoption of a code
+of ethics. Our Board of Directors has not yet adopted any of the above mentioned corporate governance measures and, since our securities
+are not listed on a national securities exchange or NASDAQ, we are not required to do so. It is possible that if we were to adopt some
+or all of these corporate governance measures, shareholders would benefit from somewhat greater assurances that internal corporate decisions
+were being made by disinterested directors and that policies had been implemented to define responsible conduct. For example, in the
+absence of audit, nominating and compensation committees comprised of at least a majority of independent directors, decisions concerning
+matters such as compensation packages to our senior officers and recommendations for director nominees may be made by a majority of directors
+who have an interest in the outcome of the matters being decided. Prospective investors should bear in mind our current lack of corporate
+governance measures in formulating their investment decisions. 
+
+Difficulties we may encounter managing
+our growth could adversely affect our results of operations. 
+
+As our business needs expand, we may need to
+hire a significant number of employees. This expansion may place a significant strain on our managerial and financial resources. To manage
+the potential growth of our operations and personnel, we will be required to: 
+
+improve existing,
+ and implement new, operational, financial and management controls, reporting systems and procedures; 
+
+install enhanced management
+ information systems; and 
+
+train, motivate and manage
+ our employees. 
+
+We may not be able to install adequate management
+information and control systems in an efficient and timely manner, and our current or planned personnel, systems, procedures and controls
+may not be adequate to support our future operations. If we are unable to manage growth effectively, our business would be seriously
+harmed. 
+
+Any future acquisitions may result in significant
+transaction expenses, integration and consolidation risks and we may be unable to profitably operate our combined company. 
+
+We may in the future selectively pursue acquisitions
+of other financial technology companies or retail FX brokers. Any future acquisitions may result in significant transaction expenses
+and present new risks in integrating the acquired companies and to the extent the acquired company operates in different markets or offers
+different products associated with entering additional markets. Because we have not historically made acquisitions, we do not have experience
+in successfully completing acquisitions. We may not have sufficient management, financial and other resources to integrate companies
+we acquire or to successfully operate new businesses and we may be unable to profitably operate our combined company. Additionally, any
+new businesses that we may acquire, once integrated with our existing operations, may not produce expected or intended results. 
+
+8 
+
+Risks Associated with Our Common Stock in
+General 
+
+Trading on the Over the Counter markets
+may be volatile and sporadic, which could depress the market price of our common stock and make it difficult for our stockholders to
+resell their shares. 
+
+Our common stock is quoted on the OTC PINK Current
+Marketplace owned and operated by the OTC Markets Group Inc. and the OTC Pink Sheet service of the Financial Industry Regulatory Authority FINRA under the symbol NUKK. Trading in stock quoted on over the counter markets is often thin, volatile, and characterized
+by wide fluctuations in trading prices due to many factors that may have little to do with our operations or business prospects. This
+volatility could depress the market price of our common stock for reasons unrelated to operating performance. Moreover, the over the
+counter markets are not a stock exchange, and trading of securities on the over the counter markets is often more sporadic than the trading
+of securities listed on other stock exchanges such as the NASDAQ, New York Stock Exchange or NYSE American. Accordingly, our shareholders
+may have difficulty reselling any of their shares. 
+
+Our stock is a penny stock. Trading of
+our stock may be restricted by the SEC s penny stock regulations and the FINRA s sales practice requirements, which may limit
+a stockholder s ability to buy and sell our stock. 
+
+Our stock is a penny stock. The SEC has adopted
+Rule 15g-9 which generally defines penny stock to be any equity security that has a market price (as defined) less than 5.00 per share
+or an exercise price of less than 5.00 per share, subject to certain exceptions. Our securities are covered by the penny stock rules,
+which impose additional sales practice requirements on broker-dealers who sell to persons other than established customers and accredited
+investors. The term accredited investor refers generally to institutions with assets in excess of 5,000,000 or individuals with a net
+worth in excess of 1,000,000 or annual income exceeding 200,000 or 300,000 jointly with their spouse. The penny stock rules require
+a broker-dealer, prior to a transaction in a penny stock not otherwise exempt from the rules, to deliver a standardized risk disclosure
+document in a form prepared by the SEC which provides information about penny stocks and the nature and level of risks in the penny stock
+market. The broker-dealer must also provide the customer with current bid and offer quotations for the penny stock, the compensation
+of the broker-dealer and its salesperson in the transaction and monthly account statements showing the market value of each penny stock
+held in the customers account. The bid and offer quotations, and the broker-dealer and salesperson compensation information, must
+be given to the customer orally or in writing prior to effecting the transaction and must be given to the customer in writing before
+or with the customer s confirmation. In addition, the penny stock rules require that prior to a transaction in a penny stock not
+otherwise exempt from these rules; the broker-dealer must make a special written determination that the penny stock is a suitable investment
+for the purchaser and receive the purchaser s written agreement to the transaction. These disclosure requirements may have the
+effect of reducing the level of trading activity in the secondary market for the stock that is subject to these penny stock rules. Consequently,
+these penny stock rules may affect the ability or willingness of broker-dealers to trade our securities. We believe that the penny stock
+rules discourage broker-dealer and investor interest in, and limit the marketability of, our common stock. 
+
+Our common stock may be affected by limited
+trading volume and price fluctuation which could adversely impact the value of our common stock. 
+
+There has been limited trading in our common
+stock and there can be no assurance that an active trading market in our common stock will either develop or be maintained. Our common
+stock has experienced, and is likely to experience in the future, significant price and volume fluctuations which could adversely affect
+the market price of our common stock without regard to our operating performance. In addition, we believe that factors such as quarterly
+fluctuations in our financial results and changes in the overall economy or the condition of the financial markets could cause the price
+of our common stock to fluctuate substantially. These fluctuations may also cause short sellers to periodically enter the market in the
+belief that we will have poor results in the future. We cannot predict the actions of market participants and, therefore, can offer no
+assurances that the market for our common stock will be stable or appreciate over time. 
+
+FINRA sales practice requirements may also
+limit a stockholder s ability to buy and sell our stock. 
+
+In addition to the penny stock rules promulgated
+by the SEC, which are discussed in the immediately preceding risk factor, FINRA rules require that in recommending an investment to a
+customer, a broker-dealer must have reasonable grounds for believing that the investment is suitable for that customer. Prior to recommending
+speculative low priced securities to their non-institutional customers, broker-dealers must make reasonable efforts to obtain information
+about the customer s financial status, tax status, investment objectives and other information. Under interpretations of these
+rules, FINRA believes that there is a high probability that speculative low priced securities will not be suitable for at least some
+customers. FINRA requirements make it more difficult for broker-dealers to recommend that their customers buy our common stock, which
+may limit the ability to buy and sell our stock and have an adverse effect on the market value for our shares. 
+
+Because the SEC imposes additional sales
+practice requirements on brokers who deal in shares of penny stocks, some brokers may be unwilling to trade our securities. This
+means that you may have difficulty reselling your shares, which may cause the value of your investment to decline. 
+
+Our shares are classified as penny stocks and
+are covered by Section 15(g) of the Securities Exchange Act of 1934 (the Exchange Act which imposes additional sales practice
+requirements on broker-dealers who sell our securities in this offering or in the aftermarket. For sales of our securities, broker-dealers
+must make a special suitability determination and receive a written agreement prior from you to making a sale on your behalf. Because
+of the imposition of the foregoing additional sales practices, it is possible that broker-dealers will not want to make a market in our
+common stock. This could prevent you from reselling your shares and may cause the value of your investment to decline. 
+
+9 
+
+A decline in the price of our common stock
+could affect our ability to raise further working capital, it may adversely impact our ability to continue operations and we may go out
+of business. 
+
+A prolonged decline in the price of our common
+stock could result in a reduction in the liquidity of our common stock and a reduction in our ability to raise capital. Because we may
+attempt to acquire a significant portion of the funds we need in order to conduct our planned operations through the sale of equity securities,
+or convertible debt instruments, a decline in the price of our common stock could be detrimental to our liquidity and our operations
+because the decline may cause investors to not choose to invest in our stock. If we are unable to raise the funds we require for all
+our planned operations, we may be forced to reallocate funds from other planned uses and may suffer a significant negative effect on
+our business plan and operations, including our ability to develop new products and continue our current operations. As a result, our
+business may suffer, and not be successful and we may go out of business. We also might not be able to meet our financial obligations
+if we cannot raise enough funds through the sale of our common stock and we may be forced to go out of business. 
+
+Our stock price may be volatile. 
+
+The stock market in general has experienced volatility
+that often has been unrelated to the operating performance of any specific public company. The market price of our common stock is likely
+to be highly volatile and could fluctuate widely in price in response to various factors, many of which are beyond our control, including
+the following: 
+
+changes in
+ our industry; 
+
+competitive pricing pressures; 
+
+our ability to obtain working
+ capital financing; 
+
+additions or departures
+ of key personnel; 
+
+limited public float 
+ in the hands of a small number of persons who sales or lack of sales could result in positive or negative pricing pressure on the
+ market prices of our common stock; 
+
+sales of our common stock; 
+
+our ability to execute
+ our business plan; 
+
+operating results that
+ fall below expectations; 
+
+loss of any strategic relationship; 
+
+regulatory developments; 
+
+economic and other external
+ factors; and 
+
+period-to-period fluctuations
+ in our financial results. 
+
+In addition, the securities markets have from
+time to time experienced significant price and volume fluctuations that are unrelated to the operating performance of particular companies.
+These market fluctuations may also materially and adversely affect the market price of our common stock. 
+
+We have never paid a cash dividend on our
+common stock and we do not anticipate paying any in the foreseeable future. 
+
+We have not paid a cash dividend on our common
+stock to date, and we do not intend to pay cash dividends in the foreseeable future. Our ability to pay dividends will depend on our
+ability to successfully develop one or more properties and generate revenue from operations. Notwithstanding, we will likely elect to
+retain any earnings, if any, to finance our growth. Future dividends may also be limited by bank loan agreements or other financing instruments
+that we may enter into in the future. The declaration and payment of dividends will be at the discretion of our Board of Directors. 
+
+Future issuances of our common or preferred
+shares may cause a dilution in your shareholding. 
+
+We may raise additional funding to meet our working
+capital, capital expenditure requirements for our planned long-term capital needs, or to fund future acquisitions. If such funding is
+raised through issuance of new equity or equity-linked securities, it may cause a dilution in the percentage ownership of our then existing
+shareholders. 
+
+Our certificate of incorporation authorizes the
+issuance of 900,000,000 shares of common stock and 15,000,000 shares of blank check preferred stock without the need for shareholder
+approval. We may issue a substantial number of additional shares, which may significantly dilute the equity interests of our existing
+shareholders. 
+
+We cannot predict our future capital needs.
+As a result, we may need to raise significant amounts of additional capital. We may be unable to obtain any necessary capital if we need
+it on acceptable terms, if at all. 
+
+Our business requires adequate funding for operations.
+Historically, we have satisfied these needs from internally generated funds. We currently anticipate that our cash from operations will
+be sufficient to meet our presently anticipated working capital and capital expenditure requirements, including our current expansion
+plans, for at least the next 12 months. We may need to raise additional funds to, among other things: 
+
+support more
+ rapid expansion; 
+
+10 
+
+develop new or enhanced
+ services and products; 
+
+respond to competitive
+ pressures; 
+
+address additional regulatory
+ capital requirements; 
+
+acquire complementary businesses,
+ products or technologies; or 
+
+respond to unanticipated
+ requirements. 
+
+Additional financing may not be available when
+needed or may not be available on terms favorable to us. If funding requirements are met by way of additional debt financing, we may
+have restrictions placed on us through such debt financing arrangements which may: 
+
+limit our ability
+ to pay dividends or require us to seek consents for the payment of dividends; 
+
+increase our vulnerability
+ to general adverse economic and industry conditions; 
+
+limit our ability to pursue
+ our business strategies; 
+
+require us to dedicate
+ a substantial portion of our cash flow from operations to service our debt, thereby reducing the availability of our cash flow to
+ fund capital expenditure, working capital requirements and other general corporate purposes; and 
+
+limit our flexibility in
+ planning for, or reacting to, changes in our business and our industry. 
+
+Offers or availability for sale of a substantial
+number of shares of our common stock may cause the price of our common stock to decline. 
+
+If our stockholders sell substantial amounts
+of our common stock in the public market upon the expiration of any statutory holding period, under Rule 144, it could create a circumstance
+commonly referred to as an overhang and in anticipation of which the market price of our common stock could fall. The existence
+of an overhang, whether or not sales have occurred or are occurring, also could make more difficult our ability to raise additional financing
+through the sale of equity or equity related securities in the future at a time and price that we deem reasonable or appropriate. 
+
+Item 1B. Unresolved Staff Comments. 
+
+We are a smaller reporting company as defined
+by Rule 12b-2 of the Exchange Act and are not required to provide the information under this item. 
+
+Item 2. Properties. 
+
+The Company s headquarters are located
+in Jersey City, New Jersey. The Company uses office space of FXDD, an affiliated company, free of rent, which is considered immaterial. 
+
+We believe our facilities are adequate for our
+current and planned business operations. 
+
+Item 3. Legal Proceedings. 
+
+From time to time, we are subject to ordinary
+routine litigation incidental to our normal business operations. We are not currently a party to any material legal proceedings, except
+as set forth below. 
+
+In April 16, 2020, the Company was named as a
+defendant in the Adversary Proceeding filed in the United States Bankruptcy Court for the District of Massachusetts (Case No. 15-10745-FJB;
+Adversary Proceeding No. 16-01178) titled In re: BT Prime Ltd BT Prime ). The Adversary Proceeding is brought by BT Prime
+against Boston Technologies Powered by Forexware LLC f/k/a Forexware LLC Forexware ), Currency Mountain Holdings LLC, Currency
+Mountain Holdings Limited f/k/a Forexware Malta Holdings Ltd., FXDirectDealer, LLC, FXDD Malta Ltd., Nukkleus Inc., Nukkleus Bermuda
+Limited and Currency Mountain Holdings Bermuda, Ltd. In the Amended Complaint, BT Prime is seeking, amongst other relief, a determination
+that the Company and the other defendants are liable for all of the debts of BT Prime stemming from its bankruptcy proceedings, and is
+seeking to recover certain amounts transferred to Forexware and FXDD Malta prior to the initiation of the bankruptcy case. In the sole
+claim asserted against the Company, BT Prime alleges that the Company operated as a single business enterprise with no separate existence
+outside of its collective business relationship with certain of the other Defendants, is a continuation of the business of Forexware
+and is a successor-in-interest to Forexware. Based on this theory, BT Prime alleges that the Company should be jointly and severally
+liable for any liability attributable to Forexware or the other Defendants, should the Court eventually find any such liability. The
+Company maintains that there is no basis for BT Prime s claim against it and intends to vigorously defend against the claim at
+trial, the date for which has not yet been set. 
+
+Item 4. Mine Safety Disclosures 
+
+Not applicable 
+
+11 
+
+PART II 
+
+Item 5. Market for Registrant s Common
+Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. 
+
+Market Information 
+
+LIMITED PUBLIC MARKET FOR COMMON STOCK 
+
+A symbol was assigned for our securities so that
+our securities may be quoted for trading on the OTC Pink Sheets under symbol NUKK . Minimal trading occurred through the
+date of this Annual Report based on a limited float. There can be no assurance that a liquid market for our securities will ever develop.
+Transfer of our common stock may also be restricted under the securities or blue-sky laws of various states and foreign jurisdictions.
+Consequently, investors may not be able to liquidate their investments and should be prepared to hold the common stock for an indefinite
+period of time. 
+
+Quarterly ended 
+ Low Price 
+ High Price 
+ 
+ December 31, 2019 
+ 0.05 
+ 0.12 
+ 
+ March 31, 2020 
+ 0.02 
+ 0.41 
+ 
+ June 30, 2020 
+ 0.05 
+ 0.10 
+ 
+ September 30, 2020 
+ 0.05 
+ 0.07 
+ 
+ December 31, 2020 
+ 0.04 
+ 0.09 
+ 
+ March 31, 2021 
+ 0.04 
+ 2.05 
+ 
+ June 30, 2021 
+ 0.14 
+ 0.51 
+ 
+ September 30, 2021 
+ 0.06 
+ 2.29 
+
+Holders of Our Common Stock 
+
+As of December 29, 2021, there were 53 holders
+of record of our common stock. This number does not include shares held by brokerage clearing houses, depositories or others in unregistered
+form. 
+
+Stock Option Grants 
+
+The Company granted an option to acquire 1,000,000
+shares of common stock at an exercise price of 2.50 per share to a consultant. The option s life is five years. 
+
+Transfer Agent and Registrar 
+
+The transfer agent for our common stock is Issuer
+Direct Corporation, 500 Perimeter Park Drive, Suite D, Morrisville, NC 27560, telephone: (919) 481-4000. 
+
+Dividends 
+
+To date, we have not paid dividends on shares
+of our common stock and we do not expect to declare or pay dividends on shares of our common stock in the foreseeable future. The payment
+of any dividends will depend upon our future earnings, if any, our financial condition, and other factors deemed relevant by our Board
+of Directors. 
+
+Recent Sales of Unregistered Securities 
+
+Except as set forth below, the Company has not
+sold unregistered securities during the fiscal year ended September 30, 2021 and through the date hereof. 
+
+On May 24, 2021, the Company and the shareholders
+of Match Financial Limited (the Match Shareholders ), a private limited company formed in England and Wales Match ),
+entered into a Purchase and Sale Agreement (the Match Agreement ), pursuant to which the Company, on May 28, 2021, acquired
+1,152 ordinary shares of Match representing 70 of the issued and outstanding ordinary shares of Match in consideration of 70,000,000
+shares of common stock of the Company (the Initial Transaction ). On May 28, 2021, the Company issued 100,000 shares
+of its common stock to Match Shareholders as consideration of an option commencing any time after the closing of the Initial Transaction
+to acquire from the Match Shareholders the balance of 493 ordinary shares of Match representing 30 of the issued and
+outstanding ordinary shares of Match for an additional 30,000,000 shares of common stock of the Company. On August 30, 2021,
+the Company exercised its option pursuant to which it acquired from the Match Shareholders the balance of 493 ordinary shares of Match
+representing 30 of the issued and outstanding ordinary shares of Match for an additional 30,000,000 shares of common stock of the Company. 
+
+On June 7, 2021, the outstanding redeemable preferred
+stock of 250,000 and related accrued dividend of 37,854 were exchanged for 1,439,271 shares of the Company s
+common stock. 
+
+12 
+
+No underwriters were involved in the transactions
+described above. All of the securities issued in the foregoing transactions were issued by the Company in reliance upon the exemption
+from registration available under Section 4(a)(2) of the Securities Act, including Regulation D and Regulation S promulgated thereunder,
+in that the transactions involved the issuance and sale of the Company s securities to financially sophisticated individuals or
+entities that were aware of the Company s activities and business and financial condition and took the securities for investment
+purposes and understood the ramifications of their actions, or were non-U.S. persons. The Company did not engage in any form of
+general solicitation or general advertising in connection with the transactions. The individuals represented that they were each
+and accredited investor as defined in Regulation D or non-U.S. person as defined in Regulation S at the time of issuance
+of the securities, and that it was acquiring such securities for its own account and not for distribution. All certificates representing
+the securities issued have a legend imprinted on them stating that the shares have not been registered under the Securities Act and cannot
+be transferred until properly registered under the Securities Act or an exemption applies. 
+
+Item 6. Selected Financial Data 
+
+As a smaller reporting company, the Company is
+not required to file selected financial data. 
+
+Item 7. Management s Discussion and
+Analysis of Financial Condition and Results of Operations. 
+
+The following discussion and analysis of our
+financial condition and results of operations for the years ended September 30, 2021 and 2020 should be read in conjunction with our
+consolidated financial statements and related notes to those consolidated financial statements that are included elsewhere in this report. 
+
+Certain matters discussed herein are forward-looking
+statements. Such forward-looking statements contained in this Form 10-K involve risks and uncertainties, including statements as to: 
+
+our
+future operating results; 
+
+our
+business prospects; 
+
+any
+contractual arrangements and relationships with third parties; 
+
+the
+dependence of our future success on the general economy; 
+
+any
+possible financings; and 
+
+the
+adequacy of our cash resources and working capital. 
+
+Impact of COVID-19 on Our Operations 
+
+The ramifications of
+the outbreak of the novel strain of COVID-19, reported to have started in December 2019 and spread globally, are filled with uncertainty
+and changing quickly. Our operations have continued during the COVID-19 pandemic and we have not had significant disruption. 
+
+The Company is operating
+in a rapidly changing environment so the extent to which COVID-19 impacts its business, operations and financial results from this point
+forward will depend on numerous evolving factors that the Company cannot accurately predict. Those factors include the following: the
+duration and scope of the pandemic, and governmental, business and individuals actions that have been and continue to be taken
+in response to the pandemic. 
+
+Overview 
+
+We are a financial technology
+company which is focused on providing software and technology solutions for the worldwide retail foreign exchange FX trading industry. We primarily provide our software, technology, customer sales and marketing and risk management technology hardware
+and software solutions package to TCM. The FXDD brand (e.g., see FXDD.com) is the brand utilized in the retail forex trading industry
+by TCM. 
+
+We have ownership of
+FOREXWARE, the primary software suite and technology solution which powers the FXDD brand globally today. We also have ownership of the
+FOREXWARE brand name. We have also acquired ownership of the customer interface and other software trading solutions being used by FXDD.com.
+By virtue of our relationship with TCM and FXDIRECT, we provide turnkey software and technology solutions for FXDD.com. We offer the
+customers of FXDD 24 hours, five days a week direct access to the global over the counter OTC FX market, which is a decentralized
+market in which participants trade directly with one another, rather than through a central exchange. 
+
+13 
+
+In an FX trade,
+participants effectively buy one currency and simultaneously sell another currency, with the two currencies that make up the trade being
+referred to as a currency pair . Our software and technology solutions enable FXDD to present its customers with price quotations
+on over the counter tradeable instruments, including over the counter currency pairs, and also provide our customers the ability to trade
+FX derivative contracts on currency pairs through a product referred to as Contracts for Difference CFD ). Our software
+solutions also offer other CFD products, including CFDs on metals, such as gold, and on futures linked to other products. 
+
+In July 2018, the Company
+incorporated Nukkleus Malta Holding Ltd., which is a wholly-owned subsidiary. In July 2018, Nukkleus Malta Holding Ltd. incorporated
+MDTG, formerly known as Nukkleus Exchange Malta Ltd. MDTG was exploring potentially obtaining a license to operate an electronic exchange
+whereby it would facilitate the buying and selling of various digital assets as well as traditional currency pairs used in FX Trading.
+During the fourth quarter of fiscal 2020, management made the decision to exit the exchange business and to no longer pursue the regulatory
+licensing necessary to operate an exchange in Malta. 
+
+On August 27, 2020,
+the Company renamed Nukkleus Exchange Malta Ltd. to Markets Direct Technology Group Ltd MDTG ). MDTG manages the technology
+and IP behind the Markets Direct brand (which is operated by TCM). MDTG holds all the IP addresses and all the software licenses in its
+name, and it holds all the IP rights to the brands such as Markets Direct and TCM. MDTG then leases out the rights to use these names/brands
+licenses to the appropriate entities. 
+
+On May 24, 2021, the Company and the shareholders
+of Match Financial Limited (the Match Shareholders ), a private limited company formed in England and Wales Match ),
+entered into a Purchase and Sale Agreement (the Match Agreement ), pursuant to which the Company, on May 28, 2021, acquired
+1,152 ordinary shares of Match representing 70 of the issued and outstanding ordinary shares of Match in consideration of 70,000,000
+shares of common stock of the Company (the Initial Transaction ). On August 30, 2021, the Company exercised its option pursuant
+to which it acquired from the Match Shareholders the balance of 493 ordinary shares of Match representing 30 of the issued and outstanding
+ordinary shares of Match for an additional 30,000,000 shares of common stock of the Company. Match is engaged in providing financial
+services to enable conversion of fiat currencies to cryptocurrencies and vice versa. 
+
+On October 20, 2021, the Company and the shareholders
+(the Original Shareholders of Jacobi Asset Management Holdings Limited Jacobi entered into a Purchase
+and Sale Agreement (the Jacobi Agreement pursuant to which the Company agreed to acquire 5.0 of the issued and outstanding
+ordinary shares of Jacobi in consideration of 20,000,000 shares of common stock of the Company (the Transaction ). On December
+15, 2021, the Company, the Original Shareholders and the shareholders of Jacobi that were assigned their interest in Jacobi by the Original
+Shareholders (the New Jacobi Shareholders entered into an Amendment to Stock Purchase Agreement agreeing that the Transaction
+will be entered between the Company and the New Jacobi Shareholders. The Transaction closed on December 15, 2021. Jacobi is a company
+focused on digital asset management that has received regulatory approval to launch the world s first tier one Bitcoin ETF. 
+
+Critical Accounting
+Policies 
+
+Use of Estimates 
+
+The preparation
+of our consolidated financial statements in conformity with accounting principles generally accepted in the United States requires us
+to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expense, and related disclosure
+of contingent assets and liabilities. When making these estimates and assumptions, we consider our historical experience, our knowledge
+of economic and market factors and various other factors that we believe to be reasonable under the circumstances. Actual results could
+differ from these estimates. Significant estimates during the years ended September 30, 2021 and 2020 include the initial valuation and
+useful life of intangible assets, assumptions used in assessing impairment of long-term assets, valuation of deferred tax assets and
+the associated valuation allowances, and valuation of stock-based compensation. 
+
+Intangible Assets 
+
+Intangible assets consist of license and banking
+infrastructure, which are being amortized on a straight-line method over the estimated useful life of 10 years. 
+
+Impairment of Long-lived Assets 
+
+In accordance with ASC Topic 360, the Company
+reviews long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount of the assets
+may not be fully recoverable, or at least annually. The Company recognizes an impairment loss when the sum of expected undiscounted future
+cash flows is less than the carrying amount of the asset. The amount of impairment is measured as the difference between the asset s
+estimated fair value and its book value. There were no triggering events requiring assessment of impairment as of September 30, 2021.
+For the years ended September 30, 2021 and 2020, no impairment of long-lived assets was recognized. 
+
+14 
+
+Revenue
+Recognition 
+
+The
+Company accounts for revenue under the provisions of ASC Topic 606. 
+
+The
+Company s revenues are derived from providing: 
+
+General
+ support services under a GSA to a related party. The transaction price is determined in accordance
+ with the terms of the GSA and payments are due on a monthly basis. There are multiple services
+ provided under the GSA and these performance obligations are combined into a single unit
+ of accounting. Fees are recognized as revenue over time as the services are rendered under
+ the terms of the GSA. Revenue is recorded at gross as the Company is deemed to be a principal
+ in the transactions. 
+
+Financial
+ services to its customers. Revenue related to its financial services offerings are recognized
+ at a point in time when service is rendered. 
+
+Stock-based
+Compensation 
+
+The
+Company accounts for its stock-based compensation awards in accordance with ASC Topic 718, Compensation Stock Compensation ASC
+718 ). ASC 718 requires all stock-based payments to employees and non-employees including grants of stock options, to be recognized
+as expense in the statements of operations based on their grant date fair values. The Company estimates the grant date fair value of
+each option award using the Black-Scholes option-pricing model. 
+
+Results
+of Operations 
+
+Summary
+of Key Results 
+
+For
+the year ended September 30, 2021 versus the year ended September 30, 2020 
+
+Revenues 
+
+For
+both of the years ended September 30, 2021 and 2020, we had revenue from general support services rendered to TCM under a GSA of 19,200,000. 
+
+We
+had revenue from financial services commencing in May 2021. For the year ended September 30, 2021, we had revenue from financial
+services of 86,964, which represented revenue from May 28, 2021 (the date the Company acquired a controlling interest in Match) to September
+30, 2021. We expect that our revenue from financial services will increase in the near future. 
+
+Costs
+of Revenues 
+
+For
+both of the years ended September 30, 2021 and 2020, our cost of general support services was 18,900,000, which represented amount incurred
+for services rendered by FXDIRECT under a GSA. 
+
+Cost
+of financial services include consulting costs, banking, and trading fees incurred associated with delivery of our services. 
+
+Cost
+of financial services was 293,011 for the year ended September 30, 2021, which represented costs from May 28, 2021 (the date the
+Company acquired a controlling interest in Match) to September 30, 2021. There was no comparable revenue nor cost of revenue from our
+financial services operations prior to the date the Company acquired a controlling interest in Match. 
+
+Gross
+Profit (Loss) 
+
+For
+both of the years ended September 30, 2021 and 2020, our gross profit from general support services was 300,000, representing gross
+margin of 1.6 . 
+
+For
+the year ended September 30, 2021, our gross loss from financial services was 206,047, representing gross margin of (236.9) . 
+
+Operating
+Expenses 
+
+Operating
+expenses consisted of professional fees, amortization of intangible assets, and other general and administrative expenses. 
+
+Professional
+fees 
+
+Professional
+fees primarily consisted of accounting fees, audit fees, legal service fees, advisory fees. Professional
+fees for the year ended September 30, 2021 versus the year ended September 30, 2020, were 396,277 and 188,000, respectively. The increase
+was primarily attributable to the increase in professional service providers. 
+
+Amortization
+of intangible assets 
+
+For
+the year ended September 30, 2021, our amortization of intangible assets amounted to 469,286, which represented amortization from
+May 28, 2021 (the date the Company acquired a controlling interest in Match to September 30, 2021. There was no comparable amortization
+prior to the date the Company acquired a controlling interest in Match. 
+
+15 
+
+Other
+general and administrative expenses 
+
+Other
+general and administrative expenses primarily consisted of compensation and related benefits and other miscellaneous items. 
+
+Total
+other general and administrative expenses for the year ended September 30, 2021 versus the year ended September 30, 2020, were 160,794
+versus 225,115, respectively. The decrease was mainly due to a decrease in compensation and related benefits of approximately 114,000
+resulting from the resignation of the director of crypto management on December 15, 2019, offset by an increase in other miscellaneous
+items of approximately 50,000. 
+
+Other
+(Expense) Income 
+
+Other
+(expense) income mainly included interest expense on redeemable preferred stock, amortization of debt discount, and gain recognized from
+investment digital currency. 
+
+Other
+expense, net, totaled 4,442 for the year ended September 30, 2021, as compared to other income, net, of 12,553 for the year ended September
+30, 2020, a change of 16,995. The change was primarily due to the gain recognized from digital currency asset. 
+
+Net
+Loss 
+
+As
+a result of the factors described above, our net loss was 936,846, or 0.00 per share (basic and diluted), for the year ended September
+30, 2021, as compared with a net loss of 100,562, or 0.00 per share (basic and diluted), for the year ended September 30, 2020, a change
+of 836,284, or 831.6 . 
+
+Foreign
+Currency Translation Adjustment 
+
+The
+reporting currency of the Company is U.S. Dollars. The functional currency of the parent company, Nukkleus Inc., Nukkleus Limited, Nukkleus
+Malta Holding Ltd. and its subsidiaries, is the U.S. dollar and the functional currency of Match Financial Limited and its subsidiaries
+is the British Pound GBP ). The financial statements of our subsidiaries whose functional currency is the GBP are translated
+to U.S. dollars using period end rates of exchange for assets and liabilities, average rate of exchange for revenues, costs, and expenses
+and cash flows, and at historical exchange rates for equity. Net gains and losses resulting from foreign exchange transactions are included
+in the results of operations. As a result of foreign currency translations, which are a non-cash adjustment, we reported a foreign currency
+translation gain of 8,440 and 0 for the year ended September 30, 2021 and 2020, respectively. This non-cash gain had the effect of
+decreasing our reported comprehensive loss. 
+
+Comprehensive
+Loss 
+
+As
+a result of our foreign currency translation adjustment, we had comprehensive loss of 928,406 and 100,562 for the years ended September
+30, 2021 and 2020, respectively. 
+
+Liquidity
+and Capital Resources 
+
+Liquidity
+is the ability of a company to generate funds to support its current and future operations, satisfy its obligations and otherwise operate
+on an ongoing basis. At September 30, 2021 and 2020, we had cash balances of 355,673 and 82,849, respectively. We had working capital
+deficit of 1,594,793 as of September 30, 2021. 
+
+Our
+ability to continue as a going concern is dependent upon the management of expenses and our ability to obtain the necessary financing
+to meet our obligations and pay our liabilities arising from normal business operations when they come due, and upon profitable operations. 
+
+We
+need to either borrow funds or raise additional capital through equity or debt financings. However, we cannot be certain that such capital
+(from our stockholders or third parties) will be available to us or whether such capital will be available on terms that are acceptable
+to us. Any such financing likely would be dilutive to existing stockholders and could result in significant financial operating covenants
+that would negatively impact our business. In the event that there are any unforeseen delays or obstacles in obtaining funds through
+the aforementioned sources, CMH has committed to inject capital into the Company in order to maintain the ongoing operations of the business. 
+
+Cash
+Flow for the Year Ended September 30, 2021 Compared to the Year Ended September 30, 2020 
+
+Net cash
+flow provided by operating activities was 295,887 for the year ended September 30, 2021. These included changes in operating assets
+and liabilities, net of assets acquired and liabilities assumed in acquisition, totaling approximately 721,000, and the non-cash items
+mainly consisting of amortization of intangible assets of approximately 469,000 and stock-based compensation of approximately 42,000,
+offset by consolidated net loss of approximately 937,000. 
+
+Net cash
+flow provided by operating activities was 59,335 for the year ended September 30, 2020. These included changes in operating assets
+and liabilities totaling approximately 176,000, offset by consolidated net loss of approximately 101,000 and the non-cash item mainly
+consisting of a gain on digital currency of approximately 19,000. 
+
+Net
+cash flow used in investing activities was 23,302 for the year ended September 30, 2021. During the year ended September 30, 2021, we
+made payments for acquisition of approximately 45,000, offset by cash acquired on acquisition of approximately 21,000. 
+
+16 
+
+There
+was no investing activity during the year ended September 30, 2020. 
+
+Our
+operations will require additional funding for the foreseeable future. Unless and until we are able to generate a sufficient amount of
+revenue and reduce our costs, we expect to finance future cash needs through public and/or private offerings of equity securities and/or
+debt financings. We do not currently have any committed future funding. To the extent we raise additional capital by issuing equity securities,
+our stockholders could at that time experience substantial dilution. Any debt financing we are able to obtain may involve operating covenants
+that restrict our business. Our capital requirements for the next twelve months primarily relate to mergers, acquisitions and the development
+of business opportunities. In addition, we expect to use cash to pay fees related to professional services. The following trends are
+reasonably likely to result in a material decrease in our liquidity over the near to long term: 
+
+The
+ working capital requirements to finance our current business; 
+
+The
+ use of capital for mergers, acquisitions and the development of business opportunities; 
+
+Addition
+ of personnel as the business grows; and 
+
+The
+ cost of being a public company. 
+
+We
+need to either borrow funds or raise additional capital through equity or debt financings. However, we cannot be certain that such capital
+(from our stockholders or third parties) will be available to us or whether such capital will be available on terms that are acceptable
+to us. Any such financing likely would be dilutive to existing stockholders and could result in significant financial operating covenants
+that would negatively impact our business. If we are unable to raise sufficient additional capital on acceptable terms, we will have
+insufficient funds to operate our business or pursue our planned growth. However, CMH has committed to inject capital into the Company
+in order to maintain the ongoing operations of the business. 
+
+Consistent
+with Section 144 of the Delaware General Corporation Law, it is our current policy that all transactions between us and our officers,
+directors and their affiliates will be entered into only if such transactions are approved by a majority of the disinterested directors,
+are approved by vote of the stockholders, or are fair to us as a corporation as of the time it is authorized, approved or ratified by
+the board. We will conduct an appropriate review of all related party transactions on an ongoing basis. 
+
+Contractual
+Obligations and Off-Balance Sheet Arrangements 
+
+Contractual
+Obligations 
+
+As
+of September 30, 2021, we had no material contractual obligations other than: FXDirectDealer LLC receives a minimum of 1,575,000
+per month and such obligation may be terminated by the Company upon providing 90 days notice. 
+
+Off-Balance
+Sheet Arrangements 
+
+We
+had no outstanding derivative financial instruments, off-balance sheet guarantees, interest rate swap transactions or foreign currency
+contracts. We do not engage in trading activities involving non-exchange traded contracts. 
+
+Recently
+Issued Accounting Pronouncements 
+
+For
+information about recently issued accounting standards, refer to Note 3 to our Consolidated Financial Statements appearing elsewhere
+in this report. 
+
+Item
+7A. Quantitative and Qualitative Disclosures about Market Risk 
+
+We
+are a smaller reporting company as defined in Rule 12b-2 of the Exchange Act and are not required to provide the information required
+under this item. 
+
+17 
+
+Item
+8. Financial Statements and Supplementary Data. 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2021 and 2020 
+
+18 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+September 30, 2021 and 2020 
+
+CONTENTS 
+
+Report of Independent Registered Public Accounting Firm 
+ 
+ F-2 
+
+Consolidated Financial Statements: 
+
+Consolidated Balance Sheets - As of September 30, 2021 and 2020 
+ 
+ F-3 
+
+Consolidated Statements of Operations and Comprehensive Loss - For the Years Ended September 30, 2021 and 2020 
+ 
+ F-4 
+
+Consolidated Statements of Changes in Stockholders Equity (Deficit) - For the Years Ended September 30, 2021 and 2020 
+ 
+ F-5 
+
+Consolidated Statements of Cash Flows For the Years Ended September 30, 2021 and 2020 
+ 
+ F-6 
+
+Notes to Consolidated Financial Statements 
+ 
+ F-7 
+
+F- 1 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+To the Board of Directors and Stockholders of 
+
+Nukkleus Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying consolidated balance
+sheets of Nukkleus Inc. and Subsidiaries (the "Company") as of September 30, 2021 and 2020, and the related consolidated statements
+of operations, changes in stockholders' deficit and cash flows for each of the years then ended, and the related notes (collectively referred
+to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial
+position of the Company as of September 30, 2021 and 2020, and the results of its operations and its cash flows for each of the years
+then ended, in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We
+are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) ("PCAOB") and are
+required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards
+of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements
+are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform,
+an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal
+control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control
+over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall financial statement presentation. We believe that our audits provide a reasonable basis for our opinion. 
+
+/s/ Rotenberg Meril Solomon Bertiger Guttilla,
+P.C. 
+
+We have served as the Company's auditor since 2016. 
+
+Saddle Brook, New Jersey 
+
+December 29, 2021 
+
+F- 2 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+CONSOLIDATED BALANCE SHEETS 
+
+As of September 30, 
+
+2021 
+ 2020 
+ 
+ ASSETS 
+
+CURRENT ASSETS: 
+
+Cash 
+
+Accounts receivable 
+ 
+ -
+
+Due from affiliates 
+
+Prepaid expense and other current assets 
+
+TOTAL CURRENT ASSETS 
+
+NON-CURRENT ASSETS: 
+
+Intangible assets, net 
+ 
+ -
+
+TOTAL NON-CURRENT ASSETS 
+ 
+ -
+
+TOTAL ASSETS 
+
+LIABILITIES AND STOCKHOLDERS EQUITY (DEFICIT) 
+
+CURRENT LIABILITIES: 
+
+Due to affiliates 
+
+Accounts payable and accrued liabilities 
+
+Series A redeemable preferred stock liability at stated value; shares authorized; shares issued and outstanding less discount of at September 30, 2020 
+ -
+
+TOTAL CURRENT LIABILITIES 
+
+TOTAL LIABILITIES 
+
+CONTINGENCY - (Note 12) 
+
+STOCKHOLDERS' EQUITY (DEFICIT): 
+
+Preferred stock par value; shares authorized; share issued and outstanding at September 30, 2021 and 2020) 
+ -
+ 
+ -
+
+Common stock par value; shares authorized; and shares issued and outstanding at September 30, 2021 and 2020, respectively) 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+Accumulated other comprehensive income - foreign currency translation adjustment 
+ 
+ -
+
+TOTAL STOCKHOLDERS' EQUITY (DEFICIT) 
+
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT) 
+
+The accompanying notes to consolidated financial statements
+are an integral part of these statements. 
+
+F- 3 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS 
+
+For the Years Ended 
+ September 30, 
+
+2021 
+ 2020 
+
+REVENUES 
+
+Revenue - general support services - related party 
+
+Revenue - financial services 
+ 
+ -
+
+Total revenues 
+
+COSTS OF REVENUES 
+
+Cost of revenue - general support services - related party 
+
+Cost of revenue - financial services 
+ 
+ -
+
+Total costs of revenues 
+
+GROSS PROFIT (LOSS) 
+
+Gross profit - general support services - related party 
+
+Gross loss - financial services 
+ 
+ -
+
+Total gross profit 
+
+OPERATING EXPENSES: 
+
+Professional fees 
+
+Amortization of intangible assets 
+ 
+ -
+
+Other general and administrative 
+
+Total operating expenses 
+
+LOSS FROM OPERATIONS 
+
+OTHER (EXPENSE) INCOME: 
+
+Interest expense on redeemable preferred stock 
+
+Amortization of debt discount 
+
+Gain on digital currency 
+ -
+
+Other expense 
+ 
+ -
+
+Total other (expense) income, net 
+
+LOSS BEFORE INCOME TAXES 
+
+INCOME TAXES 
+ -
+ 
+ -
+
+NET LOSS 
+
+COMPREHENSIVE LOSS: 
+
+NET LOSS 
+
+OTHER COMPREHENSIVE INCOME 
+
+Unrealized foreign currency translation gain 
+ 
+ -
+
+COMPREHENSIVE LOSS 
+
+NET LOSS PER COMMON SHARE: 
+
+Basic and diluted 
+
+WEIGHTED AVERAGE COMMON SHARES OUTSTANDING: 
+
+Basic and diluted 
+
+The accompanying notes to consolidated financial statements
+are an integral part of these statements. 
+
+F- 4 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+(DEFICIT) 
+
+For the Years Ended September 30, 2021 and 2020 
+
+Accumulated 
+ Total 
+
+Preferred Stock 
+ Common Stock 
+ Additional 
+ 
+ Other 
+ Stockholders' 
+
+Number of 
+ 
+ Number of 
+ 
+ Paid-in 
+ Accumulated 
+ Comprehensive 
+ Equity 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Capital 
+ Deficit 
+ Income 
+ (Deficit) 
+
+Balance as of October 1, 2019 
+ -
+ 
+ -
+
+- 
+
+Net loss for the year 
+ - 
+ -
+ 
+ - 
+ -
+ 
+ -
+
+-
+
+Balance as of September 30, 2020 
+ -
+ 
+ -
+
+-
+
+Common stock issued in connection with acquisition 
+ - 
+ -
+
+-
+ 
+ -
+
+Common stock issued for redeemable preferred stock conversion and related dividend 
+ - 
+ -
+
+-
+ 
+ -
+
+Stock-based compensation 
+ - 
+ -
+ 
+ -
+ 
+ -
+
+-
+ 
+ -
+
+Net loss for the year 
+ - 
+ -
+ 
+ - 
+ -
+ 
+ -
+
+-
+
+Foreign currency translation adjustment 
+ - 
+ -
+ 
+ - 
+ -
+ 
+ -
+ 
+ -
+
+Balance as of September 30, 2021 
+ -
+ 
+ -
+
+The accompanying notes to consolidated financial statements
+are an integral part of these statements. 
+
+F- 5 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+For the Years Ended 
+ September 30, 
+
+2021 
+ 2020 
+ 
+ CASH FLOWS FROM OPERATING ACTIVITIES: 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash 
+
+provided by operating activities: 
+
+Amortization of debt discount 
+
+Amortization of intangible assets 
+ 
+ -
+
+Stock-based compensation 
+ 
+ -
+
+Gain on digital currency 
+ -
+
+Provision for bad debt 
+ 
+ -
+
+Unrealized foreign currency exchange gain 
+ 
+ -
+
+Changes in operating assets and liabilities, net of assets acquired and liabilities assumed in acquisition: 
+
+Accounts receivable 
+ 
+ -
+
+Prepaid expense and other current assets 
+
+Due from affiliates 
+
+Due to affiliates 
+
+Accounts payable and accrued liabilities 
+
+Accrued liabilities - related party 
+ -
+
+Net cash provided by operating activities 
+
+CASH FLOW FROM INVESTING ACTIVITIES: 
+
+Cash acquired on acquisition 
+ 
+ -
+
+Payments for acquisition 
+ 
+ -
+
+Net cash used in investing activities 
+ 
+ -
+
+EFFECT OF EXCHANGE RATE ON CASH 
+ 
+ -
+
+NET INCREASE IN CASH 
+
+Cash - beginning of year 
+
+Cash - end of year 
+
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION: 
+
+Cash paid for: 
+
+Interest 
+ -
+ 
+ -
+
+Income taxes 
+ -
+ 
+ -
+
+NON-CASH INVESTING AND FINANCING ACTIVITIES: 
+
+Common stock issued in connection with acquisition 
+ 
+ -
+
+Common stock issued for redeemable preferred stock conversion and related dividend 
+ 
+ -
+
+Cost of acquisition in accrued liabilities 
+ 
+ -
+
+Investment - digital currency received from affiliates 
+ -
+
+Investment - digital currency transferred to affiliates 
+ -
+
+The accompanying notes to consolidated financial statements
+are an integral part of these statements. 
+
+F- 6 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+per month. Emil Assentato is also the majority
+member of Max Q Investments LLC Max Q ), which is managed by Derivative Marketing Associates Inc. DMA ). Mr.
+Assentato, who is our Chief Executive Officer CEO ), Chief Financial Officer CFO and chairman, is the sole
+owner and manager of DMA. Max Q owns of Currency Mountain Malta LLC, which in turn is the sole shareholder of TCM. 
+
+per month in consideration of providing personnel engaged in operational and technical support,
+marketing, sales support, accounting, risk monitoring, documentation processing and customer care and support. FXDIRECT may terminate
+this agreement upon providing days written notice. Currency Mountain Holdings LLC is the sole shareholder of FXDIRECT.
+Max Q is the majority shareholder of Currency Mountain Holdings LLC. 
+
+ordinary shares of Match representing of the issued and outstanding ordinary shares of Match in consideration of 
+shares of common stock of the Company (the Initial Transaction ). On August 30, 2021, the Company exercised its option pursuant
+to which it acquired from the Match Shareholders the balance of ordinary shares of Match representing of the issued and outstanding
+ordinary shares of Match for an additional shares of common stock of the Company. Match is engaged in providing financial services
+to enable conversion of fiat currencies to cryptocurrencies and vice versa. 
+
+of the issued and outstanding
+ordinary shares of Jacobi in consideration of shares of common stock of the Company (the Transaction ). On December
+15, 2021, the Company, the Original Shareholders and the shareholders of Jacobi that were assigned their interest in Jacobi by the Original
+Shareholders (the New Jacobi Shareholders entered into an Amendment to Stock Purchase Agreement agreeing that the Transaction
+will be entered between the Company and the New Jacobi Shareholders. The Transaction closed on December 15, 2021. Jacobi is a company
+focused on digital asset management that has received regulatory approval to launch the world's first tier one Bitcoin ETF. 
+
+F- 7 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 1 THE COMPANY HISTORY AND NATURE
+OF THE BUSINESS (continued) 
+
+, and had a working capital deficit of at September 30, 2021. The
+Company s ability to continue as a going concern is dependent upon the management of expenses and ability to obtain necessary financing
+to meet its obligations and pay its liabilities arising from normal business operations when they come due, and upon profitable operations. 
+
+England 
+
+-
+ 
+ -
+
+Malta 
+
+Total cash 
+
+F- 8 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 3 SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES (continued) 
+
+Cash and cash equivalents (continued) 
+
+. The Company manages
+this credit risk by concentrating its cash balances in high quality financial institutions and by periodically evaluating the credit quality
+of the primary financial institutions holding such deposits. The Company has not experienced any losses in such bank accounts and believes
+it is not exposed to any risks on its cash in bank accounts. At September 30, 2021, the Company s cash balances in United States
+bank accounts had approximately in excess of the federally-insured limits. 
+
+and , respectively. 
+
+years. 
+
+F- 9 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 3 SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES (continued) 
+
+Financial services 
+ 
+ -
+
+Total revenues 
+
+and , respectively, which was included
+in other general and administrative expense on the accompanying consolidated statements of operations and comprehensive loss. 
+
+F- 10 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 3 SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES (continued) 
+
+Income taxes (continued) 
+
+F- 11 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 3 SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES (continued) 
+
+-
+
+Convertible preferred stock 
+
+Potentially dilutive securities 
+
+F- 12 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+ordinary shares of Match representing of the issued and outstanding ordinary shares of Match in consideration of 
+shares of common stock of the Company (the Initial Transaction ). On August 30, 2021, the Company exercised its option pursuant
+to which it acquired from the Match Shareholders the balance of ordinary shares of Match representing of the issued and outstanding
+ordinary shares of Match for an additional shares of common stock of the Company. The shares of common stock issued to the
+Match stockholders have been valued at per share which was the closing price of the Company s common stock on May 28,
+2021, the date the Initial Transaction closed. 
+
+Accounts receivable 
+
+Other current assets 
+
+Intangible assets 
+
+Total assets 
+
+Liabilities assumed: 
+
+Accounts payable and accrued liabilities 
+
+Total liabilities 
+
+Purchase price 
+
+F- 13 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 5 INTANGIBLE ASSETS (continued) 
+
+Years 
+
+Less: accumulated amortization 
+
+, which represented amortization from May 28, 2021 (the date of acquisition) to September 30, 2021. There
+was no comparable amortization prior to the date of acquisition. 
+
+2023 
+
+2024 
+
+2025 
+
+2026 and thereafter 
+
+Professional fees 
+
+Accounts payable 
+ 
+ -
+
+Interest payable 
+ -
+
+Other 
+ 
+ -
+
+Total 
+
+shares of preferred stock. The Board of Directors
+has the authority to fix and determine the voting rights, rights of redemption and other rights and preferences of preferred stock. 
+
+The common stock was recorded as
+equity and the Series A preferred stock was recorded as a liability. On February 13, 2018, of the preferred shares were
+redeemed and cancelled. 
+
+F- 14 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 7 SHARE CAPITAL (continued) 
+
+of proceeds received was allocated
+to the common stock and Series A preferred stock according to their relative fair values determined at the time of issuance, and as a
+result, the Company recorded a total discount of on the Series A preferred stock, which is being amortized to interest expense
+to the date of redemption. For the years ended September 30, 2021 and 2020, amortization of debt discount amounted to and
+ , respectively. 
+
+years) and the Company has a choice of redeeming
+the instrument either in cash or a variable number of shares of common stock based on a formula in the certificate of designation. The
+conversion price has a floor of per share. As such, all dividends accrued and/or paid and any accretions are classified as
+part of interest expense. For the years ended September 30, 2021 and 2020, dividends on redeemable preferred stock amounted to and
+ , respectively. 
+
+and related accrued dividend of were exchanged for shares of the Company s
+common stock. 
+
+shares
+of its common stock to Match Shareholders for acquisition of equity interest of Match. These shares were valued at ,
+the fair market value on the grant date using the reported closing share price on the date of grant. 
+
+shares
+of its common stock to Match Shareholders as consideration of an option commencing any time after the closing of the Initial Transaction
+to acquire from the Match Shareholders the balance of ordinary shares of Match representing of the issued and outstanding
+ordinary shares of Match for an additional shares of common stock of the Company. The shares of
+the Company s common stock were valued at , the fair market value on the grant date using the reported closing share price
+on the date of grant and were included in the costs of acquisition. 
+
+ordinary shares of Match representing of the
+issued and outstanding ordinary shares of Match for an additional shares of common stock of the Company. These shares were
+valued at , the fair market value on the grant date using the reported closing share price on the date of grant. 
+
+F- 15 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 7 SHARE CAPITAL (continued) 
+
+stock options at a fixed exercise price of to a service provider. The fair
+value of options granted to the service provider were estimated at the date of grant using the Black-Scholes option-pricing model with
+the following assumptions: volatility of , risk-free rate of , annual dividend yield of , and expected life
+of years. The fair value of the options granted was . 
+
+, which was recorded as professional fees for the year ended September 30, 2021. 
+
+-
+ 
+ -
+
+Terminated / Exercised / Expired 
+ -
+ 
+ -
+
+Outstanding at September 30, 2021 
+
+Options exercisable at September 30, 2021 
+ -
+ 
+ -
+
+Options expected to vest 
+
+. 
+
+Vested 
+ -
+ 
+ -
+
+Nonvested at September 30, 2021 
+
+F- 16 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+Bermuda 
+ -
+ 
+ -
+
+Malta 
+
+United Kingdom 
+ 
+ -
+
+Total 
+
+State 
+
+Malta 
+
+United Kingdom 
+ 
+ -
+
+Total deferred income taxes (benefit) 
+
+Change in valuation allowance 
+
+Total income taxes expense 
+ -
+ 
+ -
+
+State tax 
+
+Non-U.S. income taxed at different rates 
+
+Permanent differences 
+
+Valuation allowance 
+
+Effective tax rate 
+
+F- 17 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 8 INCOME TAXES (continued) 
+
+Accrued directors compensation 
+
+Stock-based compensation 
+ 
+ -
+
+Valuation allowance 
+
+Total net deferred tax assets 
+ -
+ 
+ -
+
+in U.S. federal net operating loss carry-forwards that can be utilized in future periods to reduce taxable income. However, due to changes
+in stock ownership, the use of the U.S. federal net operating loss carry-forwards is limited under Section 382 of the Internal Revenue
+Code. The Company has not performed a study to determine if the loss carryforwards are subject to these Section 382 limitations. 
+of The remaining net operating loss carry-forwards
+do not expire. In addition, the Company has net operating losses in Malta totaling with no expiration date. 
+
+The Company is not subject to income taxes in Bermuda. The Company s 2018 through 2021 tax
+years are subject to examination. 
+
+. 
+
+. 
+
+F- 18 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 9 RELATED PARTY TRANSACTIONS (continued) 
+
+Revenue from related party and cost of revenue from related party
+(continued) 
+
+TCM 
+
+Total 
+
+FXDIRECT 
+
+CMH 
+
+FXDD Trading ) 
+
+Total 
+
+F- 19 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 9 RELATED PARTY TRANSACTIONS (continued) 
+
+Due to affiliates (continued) 
+
+or more of the Company s revenues for the years ended September 30, 2021 and 2020. 
+
+or more of the Company s total outstanding accounts receivable, and accounts receivable related party (which is
+included in due from affiliates on the accompanying consolidated balance sheets) at September 30, 2021, accounted for of the Company s
+total outstanding accounts receivable, and accounts receivable related party at September 30, 2021. 
+
+or more of the Company s total outstanding accounts receivable related party (which is included in due from affiliates
+on the accompanying consolidated balance sheets) at September 30, 2020, accounted for of the Company s total outstanding
+accounts receivable related party at September 30, 2020. 
+
+or more of the Company s costs of revenues for the years ended September 30, 2021 and 2020. 
+
+F- 20 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 11 SEGMENT INFORMATION (continued) 
+
+Financial services 
+ 
+ -
+
+Total 
+
+Costs of revenues 
+
+General support services 
+
+Financial services 
+ 
+ -
+
+Total 
+
+Gross profit (loss) 
+
+General support services 
+
+Financial services 
+ 
+ -
+
+Total 
+
+Operating expenses 
+
+Financial services 
+ 
+ -
+
+Corporate/Other 
+
+Total 
+
+Other (expense) income 
+
+Financial services 
+ 
+ -
+
+Corporate/Other 
+
+Total 
+
+Net income (loss) 
+
+General support services 
+
+Financial services 
+ 
+ -
+
+Corporate/Other 
+
+Total 
+
+Amortization 
+
+Financial services 
+ 
+ -
+
+Total 
+ 
+ -
+
+-
+
+Corporate/Other 
+
+Total 
+
+F- 21 
+
+NUKKLEUS INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+of the issued and outstanding
+ordinary shares of Jacobi in consideration of shares of common stock of the Company (the Transaction ). On December
+15, 2021, the Company, the Original Shareholders and the shareholders of Jacobi that were assigned their interest in Jacobi by the Original
+Shareholders (the New Jacobi Shareholders entered into an Amendment to Stock Purchase Agreement agreeing that the Transaction
+will be entered between the Company and the New Jacobi Shareholders. The Transaction closed on December 15, 2021. Jacobi is a company
+focused on digital asset management that has received regulatory approval to launch the world's first tier one Bitcoin ETF. 
+
+F- 22 
+
+Item
+9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure. 
+
+None. 
+
+Item
+9A. Controls and Procedures. 
+
+Evaluation
+of Disclosure Controls and Procedures 
+
+Our
+management, with the participation of our Principal Executive Officer and Principal Financial Officer, who is the same person, has evaluated
+the effectiveness of our disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange
+Act), as of the end of the period covered by this Annual Report. Based on such evaluation, our Principal Executive Officer and Principal
+Financial Officer have concluded that, as of the end of the period covered by this Annual Report, our disclosure controls and procedures
+were effective. 
+
+Management s
+Annual Report on Internal Control Over Financial Reporting 
+
+The
+management of the Company is responsible for establishing and maintaining adequate internal control over financial reporting, as required
+by Sarbanes-Oxley (SOX) Section 404(a). The Company s internal control over financial reporting is a process designed under the
+supervision of the Company s Principal Executive Officer and Principal Financial Officer and effected by the Company s Board
+of Directors, management and other personnel, to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of the Company s consolidated financial statements for external purposes in accordance with United States generally
+accepted accounting principles. 
+
+Due
+to its inherent limitations, internal control over financial reporting may not prevent or detect misstatements on a timely basis. Also,
+projections of any evaluation of the effectiveness of internal control over financial reporting to future periods are subject to the
+risk that the controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or
+procedures may deteriorate. 
+
+As
+of September 30, 2021, management assessed the effectiveness of the Company s internal control over financial reporting based on
+the criteria set forth in Internal Control - Integrated Framework (2013) issued by the Committee of Sponsoring Organizations
+of the Treadway Commission. Based on that evaluation, the Company s management concluded that, as of September 30, 2021, the Company s
+internal control over financial reporting was effective. 
+
+Changes
+in Internal Control over Financial Reporting 
+
+There
+have been no changes in our internal control over financial reporting that occurred during the fourth fiscal quarter of the year ended
+September 30, 2021 that have materially affected, or are reasonably likely to materially affect, our internal control over financial
+reporting. 
+
+Attestation
+Report of the Registered Public Accounting Firm 
+
+This
+Annual Report on Form 10-K does not include an attestation report by our independent registered public accounting firm regarding internal
+control over financial reporting. As a smaller reporting company, our internal control over financial reporting was not subject to audit
+by our independent registered public accounting firm pursuant to rules of the Securities and Exchange Commission that permit us to provide
+only management s report. 
+
+Item
+9B. Other Information. 
+
+None 
+
+19 
+
+PART
+III 
+
+Item
+10. Directors, Executive Officers and Corporate Governance. 
+
+The
+following table sets forth the names and ages of the Companies officers and directors as of the date hereof. Our executive officers are
+elected annually by our board of directors. Our executive officers hold their offices until they resign, are removed by the Board, or
+his successor is elected and qualified. 
+
+Directors
+and Executive Officers 
+
+Name 
+ 
+ Age 
+ 
+ Position 
+ 
+ Emil Assentato 
+ 
+ 72 
+ 
+ Chief Executive Officer, Chief Financial Officer and
+ Chairman 
+ 
+ Craig Marshak 
+ 
+ 62 
+ 
+ Director 
+ 
+ Jamal Jamie Khurshid 
+ 
+ 45 
+ 
+ Chief Operating Officer 
+
+Set
+forth below is a brief description of the background and business experience of our current executive officers or directors. 
+
+Emil
+Assentato was previously the Chief Executive Officer of Tradition North America, one of the leading inter-dealer brokers in the world,
+and a subsidiary of Compagnie Financiere Tradition, a leading global brand in inter-dealer broking listed on the Swiss Stock Exchange.
+He continues today as Chairman of Tradition North America. His career spans over 30 years of Wall Street leadership in Institutional
+Sales, Marketing and Senior Management. Mr. Assentato and his team were the founding shareholders of FXDD in 2002, and pioneered the
+brand in the early days of the retail forex industry. Having lead a management buyout of the brand from Tradition, and whilst keeping
+Tradition as a minority equity partner, Mr. Assentato in recent years, re-focused the brand strategy on Asian markets. 
+
+Craig
+Marshak has over twenty years of experience in financial services. From 2010 to 2014, he was a founding partner of Israel Venture
+Partners, and a Managing Director at Cross Point Capital Advisors. From 2007 to 2010, Mr. Marshak headed the London office of Trafalgar
+Capital, a 200 million mezzanine capital fund headquartered in Luxemburg. Prior to that, he was a managing director and co-head of Nomura
+merchant banking technology growth fund. Prior to that, he was a managing director at Robertson Stephens. Prior to that, he was an executive
+at Wertheim Schroder and its affiliates in New York and London. He commenced his Wall Street career at Morgan Stanley. He received his
+bachelor s degree from Duke University, and a JD from Harvard Law School. 
+
+Jamal
+ Jamie Khurshid was appointed as Chief Operating Officer of the Company on August 2, 2021. An
+investment banker for over 20 years at Goldman Sachs, Credit Suisse and Royal Bank of Scotland before joining Cinnober Financial Technology,
+the world s leading independent exchange and clearing house technology provider, as a senior partner where Mr. Khurshid served
+from 2013 to 2018. In 2018, Mr. Khurshid co-founded digital RFQ, a leading digital asset execution service. From 2020 through
+2021, Mr. Khurshid served as the COO of Droit Financial Technology, an enterprise technology firm. Since 2021, Mr. Khurshid has served
+as CEO of Jacobi Asset Management, Europe s first Bitcoin ETF founded by Mr. Khurshid. In 1997, Mr. Khurshid graduated from the
+University of Reading with a Bachelor of Scient in Environmental Science. Mr. Khurshid was
+voted by financial news as one of the top 40 under 40 in European trading and technology (2014) and ranked in the Exchange invest 
+Top 1000 most influential people in global financial markets in 2017. 
+
+20 
+
+Board
+of Directors 
+
+The
+minimum number of directors we are authorized to have is one and the maximum is six. In no event may we have less than one director.
+Although we anticipate appointing additional directors in the future, as of the date hereof we have two directors. 
+
+Directors
+on our Board of Directors are elected for one-year terms and serve until the next annual security holders meeting or until their
+death, resignation, retirement, removal, disqualification, or until a successor has been elected and qualified. All officers are appointed
+annually by the Board of Directors and serve at the discretion of the Board. Currently, each director receives annual compensation of
+ 20,000 for their services on our Board. 
+
+We
+reimburse our directors for expenses incurred in connection with attending directors meetings. We will consider applying for officers
+and directors liability insurance at such time when we have the resources to do so. 
+
+Committees
+of the Board of Directors 
+
+Concurrent
+with having sufficient members and resources, our Board of Directors intends to establish an audit committee and a compensation committee.
+The audit committee will review the results and scope of the audit and other services provided by the independent auditors and review
+and evaluate the system of internal controls. The compensation committee will review and recommend compensation arrangements for the
+officers and employees. No final determination has yet been made as to the memberships of these committees or when we will have sufficient
+members to establish committees. We believe that we will need a minimum of three independent directors to have effective committee systems. 
+
+As
+of the date hereof, we have not established any Board committees. 
+
+Family
+Relationships 
+
+No
+family relationship exists between any director, executive officer, or any person contemplated to become such. 
+
+Section
+16(A) Beneficial Ownership Reporting Compliance. 
+
+Section
+16(a) of the Securities Exchange Act of 1934, requires our directors, executive officers and persons who own more than 10 of our common
+stock to file with the SEC initial reports of ownership and reports of changes in ownership of common stock and other of our equity securities.
+During the year ended September 30, 2021, our officers, directors and 10 stockholders made the required filings pursuant to Section
+16(a). 
+
+Possible
+Potential Conflicts 
+
+Our
+shares are quoted on OTC Pink which does not currently have any director independence requirements. 
+
+No
+member of management will be required by us to work on a full time basis. Accordingly, certain conflicts of interest may arise between
+us and our officer(s) and director(s) in that they may have other business interests in the future to which they devote their attention,
+and they may be expected to continue to do so although management time must also be devoted to our business. As a result, conflicts of
+interest may arise that can be resolved only through their exercise of such judgment as is consistent with each officer s understanding
+of his/her fiduciary duties to us. 
+
+We
+cannot provide assurances that our efforts to eliminate the potential impact of conflicts of interest will be effective. 
+
+21 
+
+Involvement
+in Certain Legal Proceedings 
+
+None
+of our directors or executive officers has, during the past ten years: 
+
+had any bankruptcy petition
+ filed by or against any business of which he was a general partner or executive officer, either at the time of the bankruptcy or
+ within two years prior to that time; 
+
+been convicted in a criminal
+ proceeding or been subject to a pending criminal proceeding (excluding traffic violations and other minor offences); 
+
+been subject to any order,
+ judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily
+ enjoining, barring, suspending or otherwise limiting his involvement in any type of business, securities, futures, commodities or
+ banking activities; 
+
+been found by a court of
+ competent jurisdiction (in a civil action), the Securities and Exchange Commission or the Commodity Futures Trading Commission to
+ have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated; 
+
+been subject or a party
+ to or any other disclosable event required by Item 401(f) of Regulation S-K. 
+
+Code
+of Business Conduct and Ethics 
+
+We
+currently do not have a Code of Business Conduct and Ethics. 
+
+Item
+11. Executive Compensation. 
+
+Executive
+Officers Compensation 
+
+The
+following table sets forth information concerning the annual and long-term compensation earned by or paid to our Chief Executive Officer
+and to other persons who served as executive officers as at and/or during the fiscal year ended September 30, 2021 or who earned compensation
+exceeding 100,000 during fiscal year 2021 (the named executive officers ), for services as executive officers for the last
+two fiscal years. 
+
+Summary
+Compensation Table 
+
+Name and principal position 
+ Fiscal year 
+ Salary 
+ Bonus 
+ Stock awards 
+ Option awards 
+ Nonequity incentive plan compensation 
+ Nonqualified deferred compensation earnings 
+ All other compensation 
+ Total 
+ 
+ (a) 
+ (b) 
+ (c) 
+ (d) 
+ (e) 
+ (f) 
+ (g) 
+ (h) 
+ (i) 
+ (j) 
+
+Emil Assentato 
+ 2021 
+ 20,000 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 20,000 
+ 
+ CEO 
+ 2020 
+ 20,000 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 20,000 
+
+Jamal Jamie Khurshid 
+ 2021 
+ 43,498 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 43,498 
+ 
+ COO 
+ 2020 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+) Mr.
+ Khurshid was appointed as our Chief Operating Officer on August 2, 2021. 
+
+Employment
+Agreements 
+
+On
+September 23, 2021, the Company entered into a Consultancy Agreement with Jamal Jamie Khurshid, the Company s COO.
+Pursuant to the agreement, Mr. Khurshid is employed as Chief Operating Officer of the Company unless terminated pursuant to the terms
+of the agreement. During the term of the agreement, Mr. Khurshid is entitled to two hundred and fifteen thousand Euro 215,000)
+annually. 
+
+22 
+
+Grants
+of Plan Based Awards 
+
+We
+did not grant any option to our Executive Officers in the fiscal year ended September 30, 2021. 
+
+Option
+Exercises and Stock Vested 
+
+There
+were no options exercised by our executive officers or stock vested to our executive officers during the year ended September 30, 2021. 
+
+Outstanding
+Equity Awards 
+
+There
+were no outstanding equity awards as of September 30, 2021. 
+
+No
+Pension Benefits 
+
+The
+Company does not maintain any plan that provides for payments or other benefits to its executive officers at, following or in connection
+with retirement and including, without limitation, any tax-qualified defined benefit plans or supplemental executive retirement plans. 
+
+No
+Nonqualified Deferred Compensation 
+
+The
+Company does not maintain any defined contribution or other plan that provides for the deferral of compensation on a basis that is not
+tax-qualified. 
+
+Director
+Compensation 
+
+Director
+service fees earned by our current directors, both Mr. Assentato and Mr. Marshak, for the year ended September 30, 2021 amounted to 20,000,
+for a total of 40,000 in accordance with their letter agreements. 
+
+Agreement
+with Craig Marshak 
+
+On
+August 1, 2016, Mr. Craig Marshak entered into a letter agreement with us pursuant to which he was appointed as our director in consideration
+of an annual fee of 20,000. 
+
+Agreement
+with Emil Assentato 
+
+On
+August 1, 2016, Mr. Emil Assentato entered into a letter agreement with us pursuant to which he was appointed as our director in consideration
+of an annual fee of 20,000. 
+
+Item
+12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters. 
+
+The
+following table sets forth certain information as of December 27, 2021 with respect to the beneficial ownership of our common stock,
+the sole outstanding class of our voting securities, by (i) any person or group owning more than 5 of each class of voting securities,
+(ii) each director, (iii) each executive officer, and (iv) all executive officers and directors as a group. As of December 27, 2021,
+we had 332,024,371 shares of common stock issued and outstanding. 
+
+23 
+
+Beneficial
+ownership is determined under the rules of the Securities and Exchange Commission and generally includes voting or investment power over
+securities. Except in cases where community property laws apply or as indicated in the footnotes to this table, we believe that each
+stockholder identified in the table possesses sole voting and investment power over all shares of common stock shown as beneficially
+owned by the stockholder. 
+
+Shares
+of common stock subject to options or warrants that are currently exercisable or exercisable within 60 days of the date of this report
+are considered outstanding and beneficially owned by the person holding the options for the purpose of computing the percentage ownership
+of that person but are not treated as outstanding for the purpose of computing the percentage ownership of any other person. 
+
+Beneficial Ownership 
+ 
+ Name of Beneficial Owner 
+ Common Shares 
+ Percentage 
+ 
+ Emil Assentato (1) 
+ 212,224,411 
+ 63.7 
+ 
+ Jamal Khurshid 
+ 37,103,039 
+ 11.1 
+ 
+ Craig Marshak 
+ 482,080 
+
+All officers and directors as a group (3 persons) 
+ 249,809,530 
+ 75.0 
+
+5 or greater beneficial owners: 
+
+Craig Iain Vallis 
+ 18,247,396 
+ 5.5 
+ 
+ Oliver James Worsley 
+ 18,247,396 
+ 5.5 
+ 
+ 5 or greater beneficial owners as a group 
+ 36,494,792 
+ 11.0 
+
+Officer and/or
+ director of our company 
+
+Less than
+ 1 
+
+(1) Represent
+212,224,411 shares owned by Global Elite Holdings Ltd. which is wholly-owned by an entity that is majority-owned by Emil Assentato, our
+CEO, CFO and Chairman. 
+
+Except
+as otherwise indicated, the address of each beneficial owner is c/o Nukkleus Inc., 525 Washington Blvd., Jersey City 07310. 
+
+Item
+13. Certain Relationships and Related Transactions, and Director Independence. 
+
+Services
+provided by related parties 
+
+The
+Company uses affiliate employees for various services such as the use of accountants to record the books and accounts of the Company
+at no charge to the Company, which are considered immaterial. 
+
+Office
+space from related parties 
+
+The Company
+uses office space of affiliate companies, free of rent, which is considered immaterial. 
+
+Revenue
+from related party and cost of revenue from related party 
+
+The
+Company s general support services operate under a GSA with TCM providing personnel and technical support, marketing, accounting,
+risk monitoring, documentation processing and customer care and support. The minimum monthly amount received is 1,600,000. 
+
+The
+Company s general support services operate under a GSA with FXDIRECT receiving personnel and technical support, marketing, accounting,
+risk monitoring, documentation processing and customer care and support. The minimum monthly amount payable is 1,575,000. 
+
+24 
+
+Both
+of the above entities are affiliates through common ownership. 
+
+During
+the years ended September 30, 2021 and 2020, general support services provided to the related party, which was recorded as revenue 
+general support services - related party on the accompanying consolidated statements of operations and comprehensive loss were as follows: 
+
+Year
+ Ended September 30, 
+ 2021 
+ Year
+ Ended September 30, 
+ 2020 
+ 
+ Service provided to: 
+
+TCM 
+ 19,200,000 
+ 19,200,000 
+
+19,200,000 
+ 19,200,000 
+
+During the
+years ended September 30, 2021 and 2020, services received from the related party, which was recorded as cost of revenue general
+support services - related party on the accompanying consolidated statements of operations and comprehensive loss were as follows: 
+
+Year
+ Ended September 30, 
+ 2021 
+ Year
+ Ended September 30, 
+ 2020 
+ 
+ Service received from: 
+
+FXDIRECT 
+ 18,900,000 
+ 18,900,000 
+
+18,900,000 
+ 18,900,000 
+
+Due
+from affiliates 
+
+At
+September 30, 2021 and 2020, due from related parties consisted of the following: 
+
+September
+ 30, 
+ 2021 
+ September
+ 30, 
+ 2020 
+ 
+ NUKK Capital ) 
+ 144,696 
+ 144,696 
+ 
+ TCM 
+ 2,473,177 
+ 3,565,076 
+ 
+ Total 
+ 2,617,873 
+ 3,709,772 
+
+) An
+entity controlled by Emil Assentato, the Company s chief executive officer, chief financial officer and chairman. 
+
+The
+balances of due from NUKK Capital represent the Company s prior investment in digital currency that was transferred to NUKK Capital
+in March 2019. The balance of due from TCM represent unsettled funds due related to the General Services Agreement and monies that the
+Company paid on behalf of TCM. 
+
+Management
+believes that the related parties receivables are fully collectable. Therefore, no allowance for doubtful account is deemed to
+be required on its due from related parties at September 30, 2021 and 2020. The Company historically has not experienced uncollectible
+receivable from the related parties. 
+
+Due
+to affiliates 
+
+At
+September 30, 2021 and 2020, due to related parties consisted of the following: 
+
+September
+ 30, 
+ 2021 
+ September
+ 30, 
+ 2020 
+ 
+ Forexware LLC
+ ) 
+ 579,229 
+ 579,229 
+ 
+ FXDIRECT 
+ 3,341,893 
+ 4,111,277 
+ 
+ CMH 
+ 42,000 
+ 42,000 
+ 
+ FXDD
+ Trading ) 
+ 294,670 
+ 471 
+ 
+ Total 
+ 4,257,792 
+ 4,732,977 
+
+) Forexware
+LLC and FXDD Trading are both controlled by Emil Assentato, the Company s chief executive officer, chief financial officer and
+chairman. 
+
+25 
+
+The
+balances of due to related parties represent expenses paid by Forexware LLC, FXDIRECT, and FXDD Trading on behalf of the Company and
+advances from CMH. The balance due to FXDIRECT may also include unsettled funds due related to the General Service Agreement. 
+
+The
+related parties payables are short-term in nature, non-interest bearing, unsecured and repayable on demand. 
+
+Director
+Independence 
+
+We
+currently do not have any independent directors serving on our board of directors. 
+
+Item
+14. Principal Accounting Fees and Services. 
+
+We
+do not have an audit committee. Our Board of Directors pre-approves all services, including both audit and non-audit services, provided
+by our independent accountants. For audit services, each year the independent auditor provides our board of directors with an engagement
+letter outlining the scope of the audit services proposed to be performed during the year, which must be formally accepted by the board
+of directors before the audit commences. 
+
+The
+independent auditor also submits an audit services fee proposal, which also must be approved by the board of directors before the audit
+commences. 
+
+Rotenberg
+Meril Solomon Bertiger Guttilla, P.C. served as our independent auditors for the years ended September 30, 2021 and 2020. The following
+table sets forth the fees billed by our principal independent accountants for each of our last two fiscal years for the categories of
+services indicated. 
+
+Year
+ Ended September 30, 2021 
+ Year
+ Ended September 30, 2020 
+ 
+ Audit Fees 
+ 102,500 
+ 92,000 
+ 
+ Audit Related Fees 
+ - 
+ - 
+ 
+ Tax Fees 
+ 5,500 
+ 5,800 
+ 
+ All
+ Other Fees 
+ - 
+ - 
+ 
+ Total 
+ 108,000 
+ 97,800 
+
+Audit
+fees. Consists of fees billed for the audit of our annual financial statements, review of our Form 10-K, review of our interim financial
+statements included in our Form 10-Q and services that are normally provided by the accountant in connection with year-end statutory
+and regulatory filings or engagements. 
+
+Audit-related
+fees. Consists of fees billed for assurance and related services that are reasonably related to the performance of the audit or review
+of our financial statements and are not reported under Audit Fees , review of our Forms 8-K filings and services that are
+normally provided by the accountant in connection with non-year-end statutory and regulatory filings or engagements. 
+
+Tax
+fees. Consists of professional services rendered by our accountants for tax compliance, tax advice, tax planning and the preparation
+of income tax returns. 
+
+Other
+fees. The services provided by our accountants within this category consisted of advice and other services relating to SEC matters,
+registration statement review, accounting issues and client conferences. 
+
+26 
+
+PART
+IV 
+
+Item
+15. Exhibits, Financial Statement Schedules. 
+
+The
+following exhibits are incorporated into this Form 10-K Annual Report: 
+
+Exhibit Number 
+ 
+ Description 
+ 
+ 3.1 
+ 
+ Certificate of Amendment to the Certificate of Incorporation filed June 3, 2016 (2) 
+
+3.2 
+ 
+ Statement of Designation, Powers, Preferences and Rights of Series A Preferred Stock (2) 
+
+3.3 
+ 
+ Amended and Restated By-laws of Nukkleus Inc. (3) 
+
+4.1 
+ 
+ Securities Purchase Agreement between Nukkleus Inc. and Currency Mountain Holdings Bermuda, Limited dated June 3, 2016 (2) 
+
+10.1 
+ 
+ Asset Purchase Agreement dated May 24, 2016, by and between Nukkleus Inc., its majority shareholder Charms Investments Ltd., and its wholly-owned subsidiary, Nukkleus Limited and Currency Mountain Holdings Bermuda, Limited (1) 
+
+10.2 
+ 
+ General Service Agreement between Nukkleus Limited and FML Malta Limited dated May 24, 2016 (4) 
+
+10.3 
+ 
+ General Service Agreement between Nukkleus Limited and FXDirectDealer LLC dated May 24, 2016 (1) 
+
+10.4 
+ 
+ Stock Purchase Agreement dated May 27, 2016 among Nukkleus Inc., IBIH Limited, the shareholders of IBIH Limited and Currency Mountain Holdings LLC (2) 
+
+10.5 
+ 
+ Amendment No. 1 dated June 2, 2016 to the Asset Purchase Agreement by and between Nukkleus Inc., its majority shareholder Charms Investments Ltd., and its wholly-owned subsidiary, Nukkleus Limited and Currency Mountain Holdings Bermuda, Limited (2) 
+
+10.6 
+ 
+ Amendment No. 1 dated June 3, 2016 to the General Service Agreement between Nukkleus Limited and FXDD Trading Limited (2) 
+
+10.7 
+ 
+ Letter Agreement between Nukkleus Inc. and IBIH Limited dated June 3, 2016 (2) 
+
+10.8 
+ 
+ Director Agreement by and between Nukkleus Inc. and Craig Marshak dated August 1, 2016 (3) 
+
+10.9 
+ 
+ Amendment dated October 17, 2017 of that certain General Service Agreement between Nukkleus Limited and FML Malta Limited (5) 
+
+10.10 
+ 
+ Amendment dated October 17, 2017 of that certain General Service Agreement between Nukkleus Limited and FXDirectDealer LLC (5) 
+
+10.11 
+ 
+ Settlement Agreement and Mutual Release between Nukkleus Inc., IBIH Limited, Terra (FX) Offshore Limited, Ludico Investments Limited, Currency Mountain Holdings LLC and the IBIH Shareholders dated November 17, 2017 (6) 
+
+10.12 
+ 
+ Letter Agreement entered between FML Malta Ltd., FXDD Malta Limited and Nukkleus Limited (7) 
+
+10.13 
+ 
+ Stock Redemption Agreement dated February 13, 2018 between Nukkleus Inc. and Currency Mountain Holdings Bermuda, Limited (8) 
+
+10.14 
+ 
+ Purchase and Sale Agreement by and between Nukkleus Inc. and Michael Stephen Greenacre, Nicholas Aaron Gregory, Jamal Khurshid, Travers David Lee, Azam Shah, Craig Iain Vallis, Bertram Bartholomew Worsley and Oliver James Worsley dated May 24, 2021 (9) 
+
+10.15 
+ 
+ Stock Option Exercise Agreement by and between Nukkleus Inc. and Michael Stephen Greenacre, Nicholas Aaron Gregory, Jamal Khurshid, Travers David Lee, Azam Shah, Craig Iain Vallis, Bertram Bartholomew Worsley and Oliver James Worsley dated August 30, 2021 (10) 
+
+27 
+
+21.1 
+ 
+ List of Subsidiaries 
+
+31.1 
+ 
+ Rule 13a-14(a) Certification of the Chief Executive and Financial Officer 
+
+32.1 
+ 
+ Section 1350 Certification of Chief Executive and Financial Officer 
+
+101.INS 
+ 
+ Inline XBRL Instance Document. 
+
+101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document. 
+
+101.CAL 
+ 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document. 
+
+101.DEF 
+ 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document. 
+
+101.LAB 
+ 
+ Inline XBRL Taxonomy Extension Label Linkbase Document. 
+
+101.PRE 
+ 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document. 
+
+104 
+ 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+
+Filed
+along with this document 
+
+(1) 
+ Incorporated by reference to the Form 8K Current Report filed with the SEC on May 31, 2016. 
+ 
+ (2) 
+ Incorporated by reference to the Form 8K Current Report filed with the SEC on June 3, 2016. 
+ 
+ (3) 
+ Incorporated by reference to the Form 8K Current Report filed with the SEC on August 9, 2016. 
+ 
+ (4) 
+ Incorporated by reference to the Form 8K Current Report filed with the SEC on October 25, 2016. 
+ 
+ (5) 
+ Incorporated by reference to the Form 8K Current Report filed with the SEC on October 19, 2017. 
+ 
+ (6) 
+ Incorporated by reference to the Form 8K Current Report filed with the SEC on December 5, 2017. 
+ 
+ (7) 
+ Incorporated by reference to the Form 10K Annual Report filed with the SEC on December 27, 2017. 
+ 
+ (8) 
+ Incorporated by reference to the Form 10Q Quarterly Report filed with the SEC on February 13, 2018. 
+ 
+ (9) 
+ Incorporated by reference to the Form 8K Current Report filed with the SEC on May 29, 2021. 
+ 
+ (10) 
+ Incorporated by reference to the Form 8K Current Report filed with the SEC on September 2, 2021. 
+
+28 
+
+SIGNATURES 
+
+In
+accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+NUKKLEUS
+ INC. 
+
+Dated: December 29, 2021 
+ By: 
+ /s/
+ Emil Assentato 
+
+Emil Assentato 
+
+Chief
+ Executive Officer (Principal Executive Officer) and Chief Financial Officer 
+ (Principal
+ Financial and Accounting Officer) and Chairman 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, as amended, this report has been signed below by the following persons on
+behalf of the registrant and in the capacities indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/ Emil Assentato 
+ 
+ Chief Executive Officer (Principal Executive Officer), 
+ 
+ December 29, 2021 
+
+Chief Financial Officer (Principal Financial Officer) and Chairman 
+
+/s/ Jamal Jamie Khurshid 
+ 
+ Chief Operating Officer 
+ 
+ December 29, 2021 
+
+/s/ Craig Marshak 
+ 
+ Director 
+ 
+ December 29, 2021 
+
+29 
+
+<EX-21.1>
+ 2
+ f10k2021ex21-1_nukkleus.htm
+ LIST OF SUBSIDIARIES
+
+Exhibit 21.1 
+
+Subsidiaries: 
+
+Name 
+ 
+ Jurisdiction of Incorporation 
+ 
+ Ownership 
+ 
+ Nukkleus Limited 
+ 
+ Bermuda 
+ 
+ 100 by Nukkleus, Inc. 
+ 
+ Nukkleus Malta Holding Ltd. 
+ 
+ Malta 
+ 
+ 100 by Nukkleus, Inc. 
+ 
+ Markets Direct Technology Group Ltd., formerly known as Nukkleus Exchange Malta Ltd. 
+ 
+ Malta 
+ 
+ 100 owned by Nukkleus Malta Holding Ltd., a wholly-owned subsidiary of Nukkleus, Inc. 
+ 
+ Nukkleus Payments Malta Ltd. 
+ 
+ Malta 
+ 
+ 100 owned by Nukkleus Malta Holding Ltd., a wholly-owned subsidiary of Nukkleus, Inc. 
+ 
+ Match Financial Ltd. 
+ 
+ England and Wales 
+ 
+ 100 by Nukkleus, Inc. 
+ 
+ Digital RFQ Ltd. 
+ 
+ England and Wales 
+ 
+ 100 by Match Financial Ltd. 
+ 
+ DRFQ Payments Ltd. 
+ 
+ England and Wales 
+ 
+ 100 by Digital RFQ
+ Ltd. 
+
+</EX-21.1>
+
+<EX-31.1>
+ 3
+ f10k2021ex31-1_nukkleus.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+Rule 13a-14(a) Certification of the Chief Executive
+and Financial Officer 
+
+I, Emil Assentato, CEO and CFO of Nukkleus Inc.,
+certify that: 
+
+1. I
+have reviewed this Form 10-K Annual Report of Nukkleus Inc.; 
+
+2. Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered
+by this report; 
+
+3. Based
+on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. As
+sole executive officer of the Registrant, I am responsible for establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f)
+and 15d-15(f)) for the registrant and have: 
+
+(a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under my supervision, to ensure
+that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under my supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report my conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d) Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. As
+sole executive officer of the Registrant, I have disclosed, based on my most recent evaluation of internal control over financial reporting,
+to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent
+functions): 
+
+(a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal
+control over financial reporting. 
+
+Date: December 29, 2021 
+ /s/ Emil Assentato 
+
+Emil Assentato 
+
+Chief Executive Officer (Principal Executive Officer) and Chief Financial Officer 
+ (Principal Financial and Accounting Officer) 
+
+</EX-31.1>
+
+<EX-32.1>
+ 4
+ f10k2021ex32-1_nukkleus.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION
+1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+The undersigned, the Chief Executive and Financial
+Officer of Nukkleus Inc (the Company ), certifies that, to his knowledge: 
+
+1. The
+report of the Company for the twelve-month period ended September 30, 2021 as filed with the Securities and Exchange Commission on this
+date (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934;
+and 
+
+2. The
+information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the
+Company. 
+
+Date: December 29, 2021 
+ /s/ Emil Assentato 
+
+Emil Assentato 
+
+Chief Executive Officer (Principal Executive Officer) and Chief Financial
+ Officer 
+ (Principal Financial and Accounting Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ nukk-20210930.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ nukk-20210930_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ nukk-20210930_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ nukk-20210930_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ nukk-20210930_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

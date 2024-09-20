@@ -1,0 +1,2322 @@
+<Header>
+<FileStats>
+    <FileName>20211129_10-K_edgar_data_885307_0001052918-21-000395.txt</FileName>
+    <GrossFileSize>3994381</GrossFileSize>
+    <NetFileSize>135058</NetFileSize>
+    <NonText_DocumentType_Chars>869412</NonText_DocumentType_Chars>
+    <HTML_Chars>990824</HTML_Chars>
+    <XBRL_Chars>671054</XBRL_Chars>
+    <XML_Chars>1221043</XML_Chars>
+    <N_Exhibits>7</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001052918-21-000395.hdr.sgml : 20211129
+<ACCEPTANCE-DATETIME>20211129162121
+ACCESSION NUMBER:		0001052918-21-000395
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		96
+CONFORMED PERIOD OF REPORT:	20210831
+FILED AS OF DATE:		20211129
+DATE AS OF CHANGE:		20211129
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JEWETT CAMERON TRADING CO LTD
+		CENTRAL INDEX KEY:			0000885307
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-LUMBER & OTHER BUILDING MATERIALS DEALERS [5211]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			OR
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19954
+		FILM NUMBER:		211456441
+
+	BUSINESS ADDRESS:	
+		STREET 1:		32275 NW HILLCREST
+		CITY:			NORTH PLAINS
+		STATE:			OR
+		ZIP:			97133
+		BUSINESS PHONE:		5036470110
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 1010
+		CITY:			NORTH PLAINS
+		STATE:			OR
+		ZIP:			97133
+
+</SEC-Header>
+</Header>
+
+ 0001052918-21-000395.txt : 20211129
+
+10-K
+ 1
+ jctcf-20210831.htm
+ JEWETT-CAMERON TRADING CO LTD - FORM 10-K SEC FILING
+
+JEWETT-CAMERON TRADING CO LTD - Form 10-K SEC filing 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the fiscal year ended 
+ 
+ Or 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the Transition period from _________ to _________________ 
+ 
+ Commission File Number: 
+
+(Name of registrant as specified in its charter) 
+ 
+ _________ British Columbia , Canada_______ _________ ________ 
+ (State or Incorporation or Organization) (IRS Employer ID No.) 
+ 
+ , , , USA 
+ (Address of principal executive offices) 
+ 
+ Registrant s Telephone Number - 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ 
+ Title of Each Class 
+ Trading Symbol(s) 
+ Name of Each Exchange on Which Registered 
+
+NASDAQ Capital Market 
+
+Securities registered pursuant to Section 12(g) of the Act: 
+ None 
+ 
+ Indicate by check mark if the registrant is a well-known seasoned issuer, as defined by Rule 405 of the Securities Act Yes 
+ 
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding twelve months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+ No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+ No 
+ 1 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ 
+ Large accelerated filer Accelerated filer 
+ Smaller Reporting Company 
+ Emerging Growth Company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.. Yes No 
+ 
+ Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). 
+ Yes No 
+ 
+ State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter: 
+ February 28, 2021 = 
+ 
+ Indicate the number of shares outstanding of each of the registrant s classes of common stock, as of November 24, 2021: 
+ 
+ 2 
+ 
+ Jewett-Cameron Trading Company Ltd. 
+ 
+ Form 10-K Annual Report 
+ 
+ Fiscal Year Ended August 31, 2021 
+ 
+ TABLE OF CONTENTS 
+
+PART I 
+
+Page 
+
+Item 1. 
+ Business 
+ 4 
+ 
+ Item 1A. 
+ Risk Factors 
+ 8 
+ 
+ Item 1B. 
+ Unresolved Staff Comments 
+ 10 
+ 
+ Item 2. 
+ Properties 
+ 10 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 11 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 11 
+
+PART II 
+
+Item 5. 
+ Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 11 
+ 
+ Item 6. 
+ Selected Financial Data 
+ 13 
+ 
+ Item 7. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 13 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 21 
+ 
+ Item 8. 
+ Financial Statements and Supplemental Data 
+ 21 
+ 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 45 
+ 
+ Item 9A. 
+ Controls and Procedures 
+ 45 
+ 
+ Item 9B. 
+ Other Information 
+ 45 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 45 
+ 
+ Item 11. 
+ Executive Compensation 
+ 49 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 53 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 53 
+ 
+ Item 14. 
+ Principal Accounting Fees and Services 
+ 53 
+
+PART IV 
+
+Item 15. 
+ Exhibits, Financial Statement Schedules 
+ 54 
+
+3 
+ 
+ PART I 
+ 
+ ITEM 1. BUSINESS 
+ 
+ Forward-Looking Statements 
+ 
+ This Annual Report on Form 10-K contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements may be identified by the use of words like plans , expects , aims , believes , projects , anticipates , intends , estimates , will , should , could and similar expressions in connection with any discussion, expectation, or projection of future operating or financial performance, events or trends. Forward-looking statements are based on management's current expectations and assumptions, which are inherently subject to uncertainties, risks and changes in circumstances that are difficult to predict. Actual outcomes and results may differ materially from these expectations and assumptions due to changes in global political, economic, business, competitive, market, regulatory and other factors. We undertake no obligation to publicly update or review any forward-looking information, whether as a result of new information, future developments or otherwise. 
+ 
+ These factors include, but are not limited to the fact that the Company is in a highly competitive business and may seek additional financing to expand its business, and are set forth in more detail elsewhere in this Annual Report, including in the sections, ITEM 1A, Risk Factors , and ITEM 7, Management's Discussion and Analysis of Financial Condition and Results of Operations . 
+ 
+ Introduction 
+ 
+ Jewett-Cameron Trading Company Ltd. is organized under the laws of British Columbia, Canada. In this Annual Report, the Company , we , our and us refer to Jewett-Cameron Trading Company Ltd. and its subsidiaries. 
+ 
+ The Company s operations are classified into three reportable operating segments, one discontinued segment (Industrial Tools) and the parent corporate and administrative segment, which were determined based on the nature of the products offered along with the markets being served. The segments are as follows: 
+ Industrial wood products 
+ Pet, Fencing and Other 
+ Seed processing and sales 
+ Corporate and administration 
+ 
+ Effective September 1, 2013, the Company reorganized certain of its subsidiaries. Jewett-Cameron Lumber Corporation JCLC was changed to JC USA Inc. JC USA ), which has the following three wholly-owned subsidiaries. 
+ 
+ The industrial wood products segment reflects the business conducted by Greenwood Products, Inc. Greenwood ). Greenwood is a processor and distributor of industrial wood products. A major product category is treated plywood that is sold to the transportation industry. 
+ 
+ The pet, fencing and other segments reflect the business of the Jewett-Cameron Company JCC ). JCC is a wholesaler of products based in these categories. Pet products range from enclosures/kennels of varying types and construction primarily out of metal, to items that support the pet home such as beds, bowls and compostable dog waste bags. Fencing and containment products include such products as proprietary gate and fencing components, including trademarked and patented post systems, wood and other fencing infill products, as well as kitted security fencing solutions. Other products include garden, landscaping and miscellaneous products for the home. JCC uses contract manufacturers to make all products. Some of the products that JCC distributes flow through the Company s distribution center located in North Plains, Oregon, and some are shipped direct to the customer from the manufacturer. Primary customers are home centers, eCommerce providers, other retailers, and direct sales to consumers. 
+ 
+ The seed processing and sales segment reflects the business of Jewett-Cameron Seed Company JCSC ). JCSC processes and distributes agricultural seed. Most of this segment s sales come from selling seed to distributors with a lesser amount of sales derived from cleaning seed. 
+ 4 
+ 
+ The Company also formerly operated in the industrial tools and clamps segment through MSI-PRO MSI ). MSI imported and distributed products including pneumatic air tools, industrial clamps, and saw blades. These products were primarily sold to wholesalers that in turn sold to contractors and end users. During fiscal 2020, the Company decided to exit this segment. The remaining inventory was liquidated, and MSI was wound-up and closed. 
+ 
+ JC USA provides professional and administrative services, including accounting and credit services, to each of its wholly-owned subsidiary companies. 
+ 
+ Total Company sales were approximately 57.5 million and 44.9 million during fiscal years ended August 31, 2021 and 2020, respectively. 
+ 
+ The Company's principal office is located at 32275 NW Hillcrest Street, North Plains, Oregon; and the Company s website address is www.jewettcameron.com . Mail is not delivered to the street address. The Company s primary mailing address is P.O. Box 1010, North Plains, OR 97133. The Company s phone number is (503) 647-0110, and the fax number is (503) 647-2272. 
+ 
+ The Company files reports and other information with the Securities and Exchange Commission located at 100 F Street NE, Washington, D.C. 20549. Copies of these filings may be accessed through their website at www.sec.gov . Reports are also filed under Canadian regulatory requirements on SEDAR, and these reports may be accessed at www.sedar.com . 
+ 
+ The contact person for the Company is Charles Hopewell, Chief Executive Officer, Director, Board Chair, and Principal Financial Officer. Mr. Hopewell has announced that he will step down from the President/CEO role on December 31, 2021 to then occupy the sole role of Board Chair and his replacement, Chad Summers, will continue forward as CEO/President. Mr. Summers has been transitioning into the role since May, 2021. 
+ 
+ The Company s authorized capital includes 21,567,564 common shares without par value; and 10,000,000 preferred shares without par value. As of August 31, 2021 and November 24, 2021, there were 3,489,161 and 3,492,842 common shares outstanding, respectfully. The Company's common shares are listed on the NASDAQ Capital Market in the United States with the symbol JCTCF . 
+ 
+ The Company's fiscal year ends on August 31st. 
+ 
+ General Development of Business 
+ 
+ Incorporation and Subsidiaries 
+ 
+ Jewett-Cameron Trading Company Ltd. was incorporated under the Company Act of British Columbia on July 8, 1987 as a holding company for Jewett-Cameron Lumber Corporation JCLC ), which was incorporated in September 1953 in Oregon, USA. Jewett-Cameron Trading Company, Ltd. acquired all the shares of JCLC through a stock-for-stock exchange on July 13, 1987, and at that time JCLC became a wholly owned subsidiary. Effective September 1, 2013, the Company completed a reorganization of certain of its subsidiaries and JCLC s name was changed to JC USA Inc. JC USA ). JC USA has the following wholly owned subsidiaries. MSI-PRO Co. MSI ), incorporated in April 1996 and dissolved in September 2019, Jewett-Cameron Seed Company, JCSC ), incorporated in October 2000, Greenwood Products, Inc. Greenwood ), incorporated in February 2002, and Jewett-Cameron Company JCC incorporated in September 2013. Jewett-Cameron Trading Company, Ltd. and its subsidiaries have no significant assets in Canada. 
+ 
+ Corporate Development 
+ 
+ Incorporated in 1953, JC USA operated as a small lumber wholesaler based in Portland, Oregon. In September 1984, the original stockholders sold their interest in the corporation to a new group of investors. Two members of that group remained active in the Company. These individuals are Donald Boone, who passed away in May, 2019, and who was the previous Chairman and Director and the former President, Chief Executive Officer, Treasurer, and Principal Financial Officer, transitioning to strictly the Board Chair in 2017; and Michael Nasser, who remains active in the business and is both a Director and the Corporate Secretary. 
+ 
+ In July 1987, the Company acquired JC USA in what was not an arms-length transaction. 
+ 5 
+ 
+ In early 1986, prior to JC USA being acquired by the Company, JC USA acquired Material Supply International Material Supply ). Material Supply was engaged in the importation and distribution of pneumatic air tools and industrial clamps. The product line was re-branded as MSI-PRO and MSI was incorporated in 1996 to carry-on the business of Material Supply. 
+ 
+ In October 2000, JCSC was incorporated in anticipation of JC USA acquiring the business and certain assets of a firm called Agrobiotech Inc. JCSC operates as a seed storage, processing and sales business. 
+ 
+ In February 2002, Greenwood was incorporated in anticipation of JC USA acquiring the business and certain assets of Greenwood Forest Products Inc. Greenwood is involved in the processing and distribution of specialty wood products. 
+ 
+ In June 2012, the Company acquired land and fixed assets located in Manning, Oregon for 250,000 cash. The property was sold in an arms-length transaction in the second quarter of fiscal 2019 for 325,000 cash. 
+ 
+ In May 2019 Chairman and Co-Founder of the Company Donald M. Boone passed away. Mr. Boone served as President and CEO from 1984 until 2017 when he voluntarily retired from his officer positions and oversaw the addition and successful integration of new management and directors. 
+ 
+ In September 2019 the Board of Directors decided to permanently close the Company s MSI-Pro division. Efforts to drive further sales and margin growth were unsuccessful due to a lack of market differentiation and changing customer patterns. The remaining inventory was liquidated and the personnel were moved into different positions with the Company. As of August 31, 2020, MSI was wound-up and the division closed. 
+ 
+ Narrative Description of Business 
+ 
+ The Company s operations are classified into four segments: Industrial wood products; Pet, Fencing and Other; Seed processing and sales; and corporate and administration. Sales, income before taxes, assets, depreciation and amortization, capital expenditures, and interest expense by segment are shown in the financial statements under Note 14 Segment Information . 
+ 
+ Pet, Fencing and Other JCC 
+ 
+ The pet, fencing and other segments reflect the business of Jewett-Cameron Company (JCC), which is a manufacturer and distributor of specialty products and a wholesaler of products formerly conducted by JCLC. 
+ 
+ JCC operates out of a 5.6 acre owned facility located in North Plains, Oregon that includes offices, a warehouse, and a paved yard. This business is a wholesaler, and a manufacturer and distributor of products that include an array of pet enclosures, kennels, and pet welfare and comfort products, proprietary gate support systems, perimeter fencing, greenhouses, and fencing in-fill products made of wood, metal and composites. Examples of the Company s brands include Lucky Dog , for pet products; Adjust-A-Gate , Fit-Right , Perimeter Patrol , and Lifetime Post for gates and fencing; Early Start, Spring Gardner , Greenline , and Weatherguard for greenhouses. JCC uses contract manufacturers to manufacture these products. Some of the products that JCC distributes flow through the Company s facility in North Plains, Oregon, and some are shipped direct to the customer from the manufacturer. Primary customers are home centers, eCommerce partners, on-line direct consumers as well as other retailers. 
+ 
+ The home improvement business is seasonal, with higher levels of sales occurring between February and August. Inventory buildup occurs until the start of the season in February and then gradually declines to seasonal low levels at the end of the summer. 
+ 
+ JCC has concentrated on building a customer base for lawn, garden, and pet related products. Management believes this market is less sensitive to downturns in the U.S. economy than is the market for new home construction as its products serve both new and existing home and pet owners. 
+ 
+ The wood products that JCC distributes are not unique and are available from multiple suppliers. However, the metal products that JCC manufactures and distributes may be somewhat differentiated from similar products available from other suppliers. The company has been successful garnering key patents and trademarks on multiple products that assist their ability to continue to differentiate based on design and functionality. 
+ 6 
+ 
+ JCC owns the patents and manufacturing rights connected with the Adjust-A-Gate and Fit-Right products, which are the gate support systems for wood, vinyl, chain link, and composite fences. Management believes the ownership of these patents results in an important competitive advantage for these and certain other products. During fiscal 2021 and 2020, the Company did not apply for or receive any patents. However, the Company does expect to apply for several new patents in fiscal 2022. A patent granted in 2018 was an update of the Adjust-a-Gate , which will extend the protection on the Adjust-a-Gate products for an additional 15 years. In addition to the patents, JCC also has two licensing agreements to market pet products. 
+ 
+ Backlog orders are a factor in this business as customers may place firm priced orders for products for shipments to take place three to four months in the future. 
+ 
+ Industrial Wood Products - Greenwood 
+ 
+ Greenwood is a wholesale distributor of a variety of specialty wood products. Operations are co-located in the building utilized by JCC. 
+ 
+ Historically, a major product category has been treated plywood that was sold into the marine industry. It migrated from that segment and focused more into the transportation industry. In February 2014, due to the falling marine market, the Company sold its remaining and excess inventory related to the marine industry. Greenwood s total sales for fiscal 2021 and 2020 were 5 and 5 respectively of total Company sales. 
+ 
+ The primary market in which Greenwood competes has decreased in economic sensitivity as users are incorporating products into the municipal and mass transit transportations sectors. However, these markets may sustain some contractions due to COVID-19 related patterns of individuals utilizing transit and mass transit less due to concerns over exposure. In addition, this segment is prone to disruption of supply chain support which can impact other commodities outside of those specific to the disruption. 
+ 
+ Inventory is maintained at non-owned warehouse and wood treating facilities throughout the United States and is primarily shipped to customers on a just-in-time basis. Inventory is generally not purchased on a speculative basis in anticipation of price changes. 
+ 
+ Greenwood has no significant backlog of orders. 
+ 
+ Seed Processing and Sales - JCSC 
+ 
+ JCSC operates out of an approximately 12 acre owned facility located adjacent to North Plains, Oregon. JCSC processes and distributes agricultural seed. Most of this segment s sales come from selling seed to distributors with a lesser amount of sales derived from cleaning seed. Sales of seed has seasonality, but it is most affected by weather patterns in multiple parts of the United States that utilize cyclical planting. The annual weather plays an important part in year-to-year sales volatility and specific crop demand. However, profitability around after the month of August may be higher based on a seasonal surge in cleaning sales, which are more profitable than product sales. 
+ 
+ JCSC often has a backlog of sales orders based on placement of future contracts so that buyers can capture key commodity supplies for specific crops due to seasonal patterns. 
+ 
+ Industrial Tools and Clamps - MSI 
+ 
+ MSI is a former division of the Company that imported and distributed products including pneumatic air tools, industrial clamps, and saw blades. These products were primarily sold to wholesalers that in turn sold to contractors and end users. This business operated from the same owned facilities as JCC. 
+ 
+ The MSI division was permanently closed and all remaining inventory was liquidated during fiscal 2020. 
+ 
+ Administrative Services JC USA 
+ 
+ JC USA Inc. is the parent company for the Company s wholly-owned subsidiaries as described above. JC USA provides professional and administrative services, including warehousing, accounting and credit services, to its subsidiary companies. 
+ 7 
+ 
+ Tariffs 
+ 
+ The Company s metal and other products are largely manufactured in China and are imported into the United States. The Office of the United States Trade Representative USTR instituted new tariffs on the importation of a number of products into the United States from China effective September 24, 2018. These new tariffs are a response to what the USTR considers to be certain unfair trade practices by China. The tariffs began at 10 , and subsequently were increased to 25 as of May 10, 2019. A number of the Company s products manufactured in China have been subject to duties of 25 when imported into the United States. 
+ 
+ These new tariffs were temporarily reduced on many of the Company s imported products in September 2019 under a deemed one-year exemption. The 25 tariff rate was restored on the Company s products in September 2020 when the exemption expired. 
+ 
+ Customer Concentration 
+ 
+ The top ten customers were responsible for 81 and 76 of total Company sales for the years ended August 31, 2021 and August 31, 2020, respectively. Also, the Company s single largest customer was responsible for 33 and 30 of total Company sales for the years ended August 31, 2021 and August 31, 2020 respectively. 
+ 
+ Employees 
+ 
+ As of August 31, 2021 the Company had 74 full-time employees (August 31, 2020 63 full-time employees). By segment these employees were located as follows: Greenwood 1, JCC 41, JCSC 12, and JC USA 20. None of these employees are represented by unions at the Company. Jewett-Cameron Trading Company Ltd. has no direct employees, and the CEO of the Company is employed by JC USA. 
+ 
+ ITEM 1A. RISK FACTORS 
+ 
+ Investors should carefully consider the following risk factors and all other information contained in this Annual Report. There is a great deal of risk involved. In the business of the company, any of the following risks could affect our business, its financial condition, its potential profits or losses, and could result in you losing your entire investment if our business became insolvent. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties, including those not presently known to us or that we currently deem immaterial, also may result in decreased revenues, increased expenses or other events which could result in a decline in the price of our common stock. 
+ 
+ Risks Related to Our Common Stock 
+ 
+ We may decide to acquire assets or enter into business combinations, which could be paid for, either wholly or partially with our common stock and if we decide to do this our current shareholders would experience dilution in their percentage of ownership. 
+ 
+ Our Articles of Incorporation give our Board of Directors the right to enter into any contract without the approval of our shareholders. Therefore, our management could decide to make an investment (buy shares, loan money, etc.) without shareholder approval. If we acquire an asset or enter into a business combination, this could include exchanging a large amount of our common stock, which could dilute the ownership interest of present stockholders. 
+ 
+ Future stock distributions could be structured in such a way as to be 1) diluting to our current shareholders or 2) could cause a change in control to new investors. 
+ 
+ If we raise additional funds by selling more of our stock, the new stock may have rights, preferences or privileges senior to those of the rights of our existing stock. If common stock is issued in return for additional funds, the price per share could be lower than that paid by our current stockholders. The result of this would be a lessening of each present stockholder s relative percentage interest in our company. 
+ 8 
+ 
+ The Company s common shares currently trade within the NASDAQ Capital Market in the United States. The common shares also formerly traded on the Toronto Stock Exchange in Canada until the Company voluntarily delisted from the Toronto Stock Exchange on October 11, 2012. The average daily trading volume of our common stock was approximately 5,200 shares on NASDAQ for the fiscal year ended August 31, 2021. With this limited trading volume, investors could find it difficult to purchase or sell our common stock. 
+ 
+ Risks Related to Our Business 
+ 
+ A contagious disease outbreak, such as the recent COVID-19 pandemic emergency, could have an adverse effect on our operations and financial condition 
+ 
+ Our business could be negatively affected by an outbreak of an infectious disease due to the consequences of the actions taken by companies and governments to contain and control the virus. These consequences include: 
+ The inability of our third-party manufacturers in China and elsewhere to manufacture or deliver products to us in a timely manner, if it all. 
+ Isolation requirements may prevent our employees from being able to report to work or being required to work from home or other off-site location which may prevent us from accomplishing certain functions, including receiving products from our suppliers and fulfilling orders for our customers, which may result in an inability to meet our obligations. 
+ Our new products may be delayed or require unexpected changes to be made to our new or existing products. 
+ The effect of the outbreak on the economy may be severe, including an economic downturn and decrease in employment levels which could result in a decrease in consumer demand for our products. 
+ 
+ The financial impact of such an outbreak are outside our control and are not reasonable to estimate but may be significant. The costs associated with any outbreak may have an adverse impact on our operations and financial condition and not be fully recoverable or adequately covered by insurance. 
+ 
+ We could experience a decrease in the demand for our products resulting in lower sales volumes. 
+ 
+ In the past we have at times experienced decreasing products sales with certain customers. The reasons for this can be generally attributed to: increased competition; general economic conditions; demand for products; and consumer interest rates. If economic conditions deteriorate or if consumer preferences change, we could experience a significant decrease in profitability. 
+ 
+ If our top customers were lost, we could experience lower sales volumes. 
+ 
+ For the fiscal year ended August 31, 2021 our top ten customers represented 81 of our total sales, and our single largest customer was responsible for 33 of our total sales. We would experience a significant decrease in sales and profitability and would have to cut back our operations, if these customers were lost and could not be replaced. Our top ten customers are located in North America and are primarily in the retail home improvement and pet industries. 
+ 
+ We could experience delays in the delivery of our products to our customers causing us to lose business. 
+ 
+ We purchase our products from other vendors and a delay in shipment from these vendors to us could cause significant delays in our delivery to our customers. This could result in a decrease in sales orders to us and we would experience a loss in profitability. 
+ 
+ Governmental actions, such as tariffs, and/or foreign policy actions could adversely and unexpectedly impact our business. 
+ 
+ Since the bulk of our products are supplied from other countries, political actions by either our trading country or our own domestic policy could impact both availability and cost of our products. Currently, we see this in regard to tariffs being levied on foreign sourced products entering into the United States, including from China. The continuing tariffs by the United States on certain Chinese goods include some of our products that we purchase from suppliers in China. The company has multiple options to assist in mitigating the cost impacts of these government actions. However, we cannot control the duration or depth of such actions which may increase our product costs which would in turn reduce our margins and potentially decrease the competitiveness of our products. These actions could have a negative effect on our business, results of operations, or financial condition. 
+ 9 
+ 
+ We could lose our credit agreement and could result in our not being able to pay our creditors. 
+ 
+ We have a line of credit with U.S. Bank in the amount of 10 million, of which 5 million is available. We are currently in compliance with the requirements of our existing line of credit. If we lost this credit it could become impossible to pay some of our creditors on a timely basis. 
+ 
+ Our information technology systems are susceptible to certain risks, including cyber security breaches, which could adversely impact our operations and financial condition. 
+ 
+ Our operations involve information technology systems that process, transmit and store information about our suppliers, customers, employees, and financial information. These systems face threats including telecommunication failures, natural disasters, and cyber security threats, including computer viruses, unauthorized access to our systems, and other security issues. While we have taken aggressive steps to implement security measures to protect our systems and initiated an ongoing training program to address many of the primary causes of cyber threat with all our employees, such threats change and morph almost daily. There is no guarantee our actions will secure our information systems against all threats and vulnerabilities. The compromise or failure of our information systems could have a negative effect on our business, results of operations, or financial condition. 
+ 
+ If we fail to maintain an effective system of internal controls, we may not be able to detect fraud or report our financial results accurately, which could harm our business and we could be subject to regulatory scrutiny. 
+ 
+ We have completed a management assessment of internal controls as prescribed by Section 404 of the Sarbanes-Oxley Act, which we were required to do in connection with our year ended August 31, 2021. Based on this process we did not identify any material weaknesses. Although we believe our internal controls are operating effectively, we cannot guarantee that in the future we will not identify any material weaknesses in connection with this ongoing process. 
+ 
+ ITEM 1B. UNRESOLVED STAFF COMMENTS 
+ --- No Disclosure Necessary --- 
+ 
+ ITEM 2. PROPERTIES 
+ 
+ The Company s executive offices are located at 32275 NW Hillcrest Street, North Plains, OR 97133. The 5.6 acre facility, which is owned, consists of 55,250 square feet of covered space (10,000 office and 47,250 warehouse), a little over three acres of paved yard space, and was originally completed in October 1995. A 12,000 square foot warehouse expansion was completed in fiscal 2017 which the Company is using for several new product lines. In fiscal 2021, the Company completed the conversion of 2,000 square feet of older warehouse space into 4,000 square feet of office and meeting space on two levels. The facility provides office space for JC USA, including all of the Company s executive offices, and is used as a distribution center to service the Company s customer base for JCC and Greenwood. 
+ 
+ The property associated with JCSC, which is owned, consists of 11.7 acres of land, 105,000 square feet of buildings, rolling stock, and equipment. It is currently used for seed processing and storage. It is located at 31345 NW Beach Road, Hillsboro, OR 97124, which is adjacent to North Plains, OR. 
+ 
+ During fiscal 2010, the Company purchased a 2,000 square foot building that previously housed a seed testing lab located at 31895 NW Hillcrest Street, North Plains, OR 97133. The Company formerly leased the property for 729 per month until the expiration of the lease on January 4, 2010. At that time, the Company exercised its option to buy the land and building for a total cost of 150,946. In fiscal 2020, the Company began a renovation of this building into its new innovation center which will focus on new product development for the Company s subsidiaries. The renovation was completed during fiscal 2021. 
+ 
+ In June 2012, the Company acquired land and fixed assets located in Manning, Oregon for 250,000 cash. The land consists of 7.5 acres and the fixed assets included 12,000 square feet of buildings. During the second quarter of fiscal 2019, the Company sold the property for 325,000 cash. 
+ 10 
+ 
+ ITEM 3. LEGAL PROCEEDINGS 
+ 
+ The Company is a named party in a Civil Action in Pennsylvania. The matter is an action seeking compensation for personal injuries and is based on theories of product liability as to Jewett-Cameron. The matter arises out of a dog allegedly escaping from a Jewett-Cameron kennel product and causing personal injuries to three individuals. Jewett-Cameron is currently one of three named Defendants. A trial date is pending but has not been set at this time. At the present time it is speculative to predict as to its outcome. It is the Company s intention to vigorously defend the lawsuit. Jewett Cameron s applicable liability insurer is providing a defense covering Jewett-Cameron s legal fees and costs. 
+ 
+ The Company has initiated arbitration in Oregon against a former distributor asserting a breach of the distribution agreement and seeking damages. The arbitration is expected to take place in August 2022. While the Company is robustly pursuing its rights and defending itself against counter claims by the distributor, the arbitration and lawsuit are in their initial stages and therefore it is speculative to predict as to their outcome 
+ 
+ ITEM 4. MINE SAFETY DISCLOSURES 
+ --- No Disclosure Necessary --- 
+ 11 
+ 
+ PART II 
+ 
+ ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 
+ Market Information 
+ Our common shares trade on the NASDAQ Capital Market (formerly the NASDAQ Small Cap Market) in the United States. The trading symbol for the common stock is JCTCF and the CUSIP number for the stock is 47733C-20-7. The common stock began trading on the NASDAQ Small Cap Market in April 1996. 
+ 
+ The Company declared a two for one stock split of its common stock with a record date of the close of business on May 22, 2018. Shareholders received one additional common share for each common share held as of the record date. The stock split was effective as of May 29, 2018. 
+ 
+ Table No. 1 lists the volume of trading along with the high, low, and closing sales prices on the NASDAQ Capital Market for the Company's common shares. Prices are adjusted to reflect the common stock split effective May 29, 2018. 
+ 
+ Table No. 1 
+ NASDAQ Capital Market 
+ Common Shares Trading Activity 
+ (US Dollars) 
+ 
+ Period 
+ Ended 
+
+Volume 
+ 
+ High 
+ 
+ Low 
+ 
+ Closing 
+
+Monthly 
+
+9/30/21 
+ 
+ 152,700 
+ 13.74 
+ 10.60 
+ 11.59 
+
+Quarterly 
+
+8/31/21 
+ 
+ 389,800 
+ 12.00 
+ 9.62 
+ 10.60 
+ 
+ 5/31/21 
+ 
+ 149,300 
+ 10.95 
+ 9.71 
+ 9.93 
+ 
+ 2/28/21 
+ 
+ 380,100 
+ 10.80 
+ 8.26 
+ 10.56 
+ 
+ 11/30/20 
+ 
+ 386,200 
+ 11.66 
+ 7.23 
+ 8.90 
+
+8/31/20 
+ 
+ 138,800 
+ 8.78 
+ 5.95 
+ 7.55 
+ 
+ 5/31/20 
+ 
+ 106,900 
+ 7.09 
+ 5.00 
+ 6.00 
+ 
+ 2/29/20 
+ 
+ 112,200 
+ 8.14 
+ 7.00 
+ 7.00 
+ 
+ 11/30/19 
+ 
+ 97,700 
+ 8.10 
+ 7.18 
+ 7.96 
+
+Annually 
+
+8/31/21 
+ 
+ 1,305,400 
+ 12.00 
+ 7.23 
+ 10.60 
+ 
+ 8/31/20 
+ 
+ 455,600 
+ 8.78 
+ 5.00 
+ 7.55 
+ 
+ 8/31/19 
+ 
+ 1,318,200 
+ 10.00 
+ 6.23 
+ 8.04 
+ 
+ 8/31/18 
+ 
+ 1,252,600 
+ 8.96 
+ 6.50 
+ 8.68 
+ 
+ 8/31/17 
+ 
+ 1,237,400 
+ 7.23 
+ 5.30 
+ 6.98 
+
+Holders 
+ 
+ Computershare Investor Services Inc. which is located in Vancouver, British Columbia, Canada is the registrar and transfer agent for the common shares. 
+ 
+ On November 24, 2021 there were 27 registered shareholders and 3,492,842 shares of the Company s common shares outstanding. 
+ 12 
+ 
+ Dividends 
+ 
+ The Company has not declared any dividends since incorporation and does not anticipate that it will do so in the foreseeable future. The present policy of the Company is to retain earnings for use in its operations, expansion of its business, and the possible repurchase of Company shares. There are no restrictions that limit the ability of the Company to pay dividends on common equity or that are likely to do so in the future. Any dividends paid by the Company to U.S. shareholders would be subject to Canadian withholding tax. 
+ 
+ Recent Sales of Securities: Use of Proceeds from Securities 
+ 
+ The Company has sold no securities in the last 3 fiscal years. 
+ 
+ Purchases of equity securities by the issuer and affiliated purchasers 
+ 
+ During the fiscal years ended August 31, 2019 and 2018, the Company has repurchased common shares through share repurchase plans approved by the Board of Directors in accordance with Rule 10b-18 under the U.S. Securities Exchange Act of 1934. 
+ 
+ On June 6, 2018, the Company announced the Board of Directors had authorized a new share repurchase plan to purchase for cancellation up to 250,000 common shares through the facilities of NASDAQ. Transactions may involve Jewett-Cameron insiders or their affiliates executed in compliance with Jewett-Cameron's Insider Trading Policy. The share repurchase plan was effected in accordance with Rule 10b-18 under the U.S. Securities Exchange Act of 1934, which contains restrictions on the number of shares that may be purchased on a single day, subject to certain exceptions for block purchases, based on the average daily trading volumes ADTV of Jewett-Cameron's shares on NASDAQ. Purchases shall be limited to one Block purchase per week in lieu of the 25 of ADTV limitation for compliance with Rule 10b-18(b)(4). A block as defined under Rule 10b-18(a)(5) means a quantity of stock that, among other things, is at least 5,000 shares and has a purchase price of at least US 50,000. The Plan commenced on June 11, 2018 and terminated upon the completion of the 250,000 share repurchase on October 25, 2018. Under the Plan, the Company repurchased and cancelled a total of 250,000 common shares at a total cost of 2,164,975 which was an average price of 8.66 per share. 
+ 
+ On February 7, 2019, the Company announced the Board of Directors had authorized a new share repurchase plan to purchase for cancellation up to 250,000 common shares through the facilities of NASDAQ under similar terms to the June 2018 plan. The Plan commenced on February 18 th and terminated upon the completion of the 250,000 repurchase on July 22, 2019. A total of 250,000 shares of common stock was repurchased at a total cost of 2,168,065 which represents an average share price of 8.67 per share. 
+ 
+ During the 2 nd quarter of fiscal 2020 ended February 29, 2020, the Company repurchased for cancelation a total of 490,120 common shares from two large shareholders, including an officer and director of the Company. The shares were repurchased privately at a price of 7.89 per share, calculated as the Volume Weighted Average Price (VWAP) of all the shares traded on NASDAQ during the first quarter of fiscal 2020. The total cost of the share repurchases was 3,867,046. 
+ 
+ ITEM 6. SELECTED FINANCIAL DATA 
+ --- No Disclosure Necessary for Smaller Reporting Companies --- 
+ 
+ ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION 
+ 
+ The Company s operations are classified into three reportable operating segments, one discontinued segment (Industrial Tools) and the parent corporate and administrative segment, which were determined based on the nature of the products offered along with the markets being served. The segments are as follows: 
+ Industrial wood products 
+ Pet, Fencing and Other 
+ Seed processing and sales 
+ Corporate and administration 
+ 13 
+ 
+ During fiscal 2020, the Company closed its Industrial Tools segment operated by MSI and liquidated the remaining inventory. 
+ 
+ Quarterly Results 
+ 
+ The following table summarizes quarterly financial results in fiscal 2021 and fiscal 2020. (Figures are thousands of dollars except per share amounts). 
+
+For the Year Ended August 31, 2021 
+
+First 
+ Second 
+ Third 
+ Fourth 
+ Full 
+
+Quarter 
+ Quarter 
+ Quarter 
+ Quarter 
+ Year 
+
+Sales 
+ 10,316 
+ 10,460 
+ 21,620 
+ 15,106 
+ 57,502 
+ 
+ Gross profit 
+ 2,963 
+ 2,612 
+ 5,582 
+ 2,990 
+ 14,147 
+ 
+ Net income (loss) 
+ 489 
+ (63) 
+ 2,414 
+ 615 
+ 3,455 
+ 
+ Basic earnings per share 
+ 0.14 
+ (0.02) 
+ 0.69 
+ 0.18 
+ 0.99 
+ 
+ Diluted earnings per share 
+ 0.14 
+ (0.02) 
+ 0.69 
+ 0.18 
+ 0.99 
+
+For the Year Ended August 31, 2020 
+
+First 
+ Second 
+ Third 
+ Fourth 
+ Full 
+
+Quarter 
+ Quarter 
+ Quarter 
+ Quarter 
+ Year 
+
+Sales 
+ 7,055 
+ 7,622 
+ 16,241 
+ 14,027 
+ 44,945 
+ 
+ Gross profit 
+ 2,048 
+ 2,005 
+ 4,309 
+ 4,111 
+ 12,473 
+ 
+ Net income (loss) 
+ (7) 
+ (174) 
+ 1,397 
+ 1,569 
+ 2,785 
+ 
+ Basic earnings (loss) per share 
+ (0.00) 
+ (0.05) 
+ 0.39 
+ 0.43 
+ 0.77 
+ 
+ Diluted earnings (loss) per share 
+ (0.00) 
+ (0.05) 
+ 0.39 
+ 0.43 
+ 0.77 
+
+Fiscal 2021 quarterly per share earnings were calculated using weighted average number of common shares outstanding as of August 31, 2021 of 3,486,537 (2020 3,623,413). 
+ 
+ RESULTS OF OPERATIONS 
+ 
+ The first two quarters of fiscal 2021 were very strong, with the first six month sales up approximately 42 over the sales for the first six months of fiscal 2020. The 3 rd and 4 th quarters of the fiscal year are historically the Company s busiest season, and demand for a number of our core products were the highest in the Company s history. The increase in sales was within all of the Company s sales channels, including eCommerce, with many customers requesting both higher volumes and adding additional products to their orders. 
+ 
+ However, sales during the 3 rd and 4 th quarters were significantly restrained in lawn, garden and pet products due to logistical issues, including extended manufacturing and shipping delays in China, a shortage of shipping containers and available ocean shipping, clogged port facilities, and a scarcity of trucking to ship and receive product. Several of our most popular products were sold out at times during the second half of the fiscal year. This has resulted in lower than anticipated sales and a high level of back orders from customers which has persisted into fiscal 2022. In response, we have adjusted our logistic processes and added new partners to increase our flexibility to ship and receive product. We have also increased our current pre-orders above our historical levels in expectation of continued uncertainty over container availability and factory uptime in China due to possible COVID-19 shutdowns and power shortages, and the upcoming scheduled Chinese New Year closures. 
+ 
+ The high demand for both our core pet and fencing as well as new product introductions demonstrates the success of our current sales and marketing strategy. The rebranding of our products has highlighted our brand names and increased consumer awareness of our consistent look and statement of value. We remain committed to our overall strategy to expand new and existing sales channels, widen our product distribution, and grow our connections with the end consumer. 
+ 14 
+ 
+ The expansion of our product lines through the introduction of complementary products is performing well. We intend to continue to develop new products, particularly those that complement and expand our existing product lines. Besides our internal new product development process, we may also seek to acquire products that conform to this strategy. Although our goal is to launch 6-8 new products each year, several of our planned new product introductions in both the second half of fiscal 2021 and the first half of fiscal 2022 have been postponed due to continuing supply and logistic issues. Instead, we have prioritized the manufacture and shipping of our core products to fulfill existing orders. We will reschedule the launch of these new products once the current worldwide logistic issues begin to improve. 
+ 
+ We continue to invest in the expansion of our facilities, equipment, and personnel. The Company s new Enterprise Resource Planning (ERP) software system successfully went live in February 2021 and has been performing well. We have also launched the third of four planned phases to modernize our facilities and add capacity for future expansion. We completed the renovation of an existing portion of the warehouse into a two-story office and gathering/lunchroom in May 2021. Other current capital projects include the renovation of the former seed laboratory into a new Innovation Center for new product development which was completed in February 2021. Currently, we are finalizing a complete refurbishment of our main office area. We have also revamped our corporate website in line with our omnichannel rebranding. These updates include a larger and unified product presentation, new eCommerce interface, and modernized investor relations and contact sections. The Company has added additional personnel to lead the efforts for enhancing consumer awareness and marketing for both the website and on multiple social media platforms. 
+ 
+ In May 2021, Chad Summers was appointed President of the Company. Mr. Summers assumed the role from Charlie Hopewell who voluntarily decided to transition from President and his current CEO position to continue as Board Chair and Director effective January 1, 2022. Mr. Summers has been with Jewett-Cameron since October 2019. His prior experience includes a strong background in leadership, consulting, and support. He co-owned and led an international family lumber brokering business similar to Jewett-Cameron s Greenwood division. This experience provided him the opportunity to oversee and actively manage suppliers in China and throughout SE Asia. He built a successful consulting practice dedicated to growing manufacturers in association with a west coast regional accounting firm which allowed him the opportunity to establish a deep network of manufacturers, professional services and support connections regionally. He also participated in and led start-up ventures in both product and service industries. Since joining the Company he has focused on driving growth through pursuing acquisition opportunities as well as key strategic partnerships. 
+ 
+ The Company also increased our Board of Director with the addition of Michelle Rule Walker. Ms. Walker is a business strategist with experience in brand development, organizational alignment, and building consumer brands, including both B2B and B2C businesses. Previously, she was CEO of Sock It to Me, Inc., a sock and underwear brand she grew by 400 during her tenure. She has also held several senior positions with PepsiCo, including Senior Director and GM of the Lays and Ruffles brands where her responsibility included business strategy, brand positioning, product development, and sales strategy. Ms. Walker s experience and guidance will be extremely important as the Company continues its growth strategy. 
+ 
+ In response to the COVID-19 pandemic, the State of Oregon fully reopened and lifted all of its mask and social distancing requirements in June 2021. However, the Company will remain vigilant in regard to the COVID virus and its variants. It is critical to our continuing operations that we do all we can to protect and retain our workforce if and when they might experience exposure to the virus. If any employees working at headquarters or in the warehouse facilities contract the virus, the Company would be forced to curtail those operations, including product shipments, for the required period to thoroughly clean and sanitize the facility without human exposure, which would result in delayed or lost revenue, and increased costs. To date, we have not had any incidents of transmissions within the confines of our facilities due to our clear and consistent protocols during the restrictive period, as well as our employees remarkable support of our procedures which has been critical to our success in keeping our workplace safe and running. This has directly led to our ability to retain our workforce through these challenging times as well as create an environment in which people feel safe. The assistance of the PPP program provided us the ability to assist sound employee decisions when they either felt they had an external exposure or perhaps even tested positive due to such external exposure. The loans the Company received under the Paycheck Protection Program were essential in supporting the Company s ability to operate without interruption during the crisis and retain 100 of its workforce. All of the borrowed funds were spent on qualifying employee payroll expenses, and the Company s loans were fully forgiven by the SBA in April 2021. 
+ 15 
+ 
+ The outlook for fiscal 2022 is uncertain. The continued strong demand for the Company s products is very encouraging, but the ongoing supply chain, international shipping and logistic issues are hampering the receipt of our products from China. We are also seeing the effects of considerable cost increases both in logistics and manufacturing which is pressuring our margins. We have been working with customers regarding necessary price increases for our products. They have been much more receptive of our need for price increases than in the past which is likely due to the general knowledge of the present worldwide shipping and logistical issues and evidence of widespread inflationary pressures across North America. However, any sale price increases for our products would not be reflected in our results immediately and will lag our higher product and operating costs, which will have a negative impact on our margins in fiscal 2022. 
+ 
+ Fiscal Years Ended August 31, 2021 and August 31, 2020 
+ 
+ Fiscal 2021 sales totaled 57,501,543 compared to sales of 44,945,263 in fiscal 2020, which was an increase of 12,556,280, or 28 . The increase in sales was primarily due to higher sales at JCC. 
+ 
+ Gross margin declined to 24.6 from 27.8 in fiscal 2020 due to higher raw material and shipping and logistic costs. 
+ 
+ Operating expenses increased by 1,791,907 to 10,406,954 from 8,615,047 in fiscal 2020. The increase was due to higher selling, general and administrative expenses of 3,204,945 from 2,502,989 and an increase in wages and employee benefits, which rose to 6,957,730 from 5,894,346. Both increases are related to the Company s investment efforts to support the Company s growth initiatives, including the addition of additional personnel and our marketing and rebranding initiatives. Depreciation and amortization increased to 244,279 from 217,712. Income from operations decreased to 3,739,692 from 3,858,136 in fiscal 2020 due to the lower gross margins and the higher costs to support our future growth. 
+ 
+ Including other items, income before income taxes was 4,424,208 in fiscal 2021 compared to 3,889,156 in fiscal 2020. Other items in fiscal 2021 were gain on extinguishment of debt of 687,387, which was the forgiveness of the Company s PPP loans. Interest and other expenses were 2,871. In fiscal 2020, other items were a gain on sale of property, plant and equipment of 6,600 and interest and other income of 24,420 from interest received on cash balances from short-term investments. Income tax expense was 969,255 compared to 1,104,631 in fiscal 2020. The Company calculates income tax expense based on combined federal and state rates that are currently in effect. 
+ 
+ Net income for fiscal 2021 was 3,454,953, or 0.99 per common share, compared to net income of 2,784,525, or 0.77 per basic and diluted share, for fiscal 2020. The income per share was positively affected by the significant one-time gain on the forgiveness of the Company s PPP loans in fiscal 2021. The weighted number of shares outstanding were 3,486,537 in fiscal 2021 and 3,623,413 in fiscal 2020. 
+ 
+ Pet, Fencing and Other - JCC 
+ 
+ Sales at JCC were 51,732,129 in fiscal 2021 compared to sales of 40,348,660 in fiscal 2020. 
+ 
+ Operating income at JCC for 2021 was 4,052,624 compared to 3,936,491 in 2020, which was an increase of 116,133, or 3 . The stronger demand for many of the Company s products, especially the pet, fencing and outdoor product lines which began in the second half of fiscal 2020 with the COVID-19 pandemic s stay-at-home orders, continued throughout 2021 and was reflected in the 28 increase in the segment sales. However, the significant rise in shipping and logistic costs during the second half of fiscal 2021 negatively affected the segment gross margins and resulted in only a low single digit increase in JCC s operating income. Overall, the operating results of JCC are seasonal with the first two quarters of the fiscal year historically being much slower than the final two quarters of the fiscal year. The company believes this pattern would have been repeated this year were it not for significant shipment interruptions due to global supply and logistics constraints. 
+ 16 
+ 
+ The following table shows a breakdown between the pet, fencing and other categories in this segment. 
+
+Sales in Millions of Dollars 
+ 
+ Percent of Total Sales 
+ 
+ Fiscal Year 
+ Pet 
+ Fencing 
+ Other 
+ 
+ Pet 
+ Fencing 
+ Other 
+ 
+ 2021 
+ 16,446,932 
+ 33,805,909 
+ 1,479,288 
+ 
+ 32 
+ 65 
+ 3 
+ 
+ 2020 
+ 14,086,528 
+ 22,837,304 
+ 3,424,828 
+ 
+ 35 
+ 57 
+ 8 
+
+Along with the strong demand for the Company s core products, several new products were launched in fiscal 2021 and have been well received by customers, including the compostable dog waste bags. Customer orders remained high in the 3 rd and 4 th quarters of fiscal 2021, but many orders were not able to be fulfilled due to manufacturing and shipping delays from China. Management prioritized the shipping of JCC s best-selling core products and postponed the planned launch of several new products in fiscal 2021 until the worldwide shipping and logistical situation improves. We have also discontinued the Trueshade line of backyard furniture products as those products were not complementary to our other outdoor products and were adversely affecting our margin due primarily to strong competitive pressures. In their place, we will be focusing on the introduction of a number of new products which will broaden and better integrate with our other lines, including our pet, garden, fencing, and outdoor products. 
+ 
+ Industrial Wood Products - Greenwood 
+ 
+ Sales at Greenwood in fiscal 2021 were 2,597,276, which was an increase of 312,026, or 14 , from sales of 2,285,250 in fiscal 2020. Greenwood s sales have been heavily impacted by the COVID-19 shutdowns, as many of their products are sold to municipalities and larger transit operators. In addition, late in the 3 rd quarter and extending into the 4 th quarter, customers were severely impacted by shortages of components necessary to complete transit products due to logistics and supply chain shortages. Greenwood is currently introducing new products to both existing and new customers, including a new stairstep program, large format concrete forms and batting that will compliment new building siding compliance standards requiring increased air gap between the siding and building surface. Management is also actively seeking new brokers to both open new sales channels and broaden its customer base, particularly in the housing and construction sectors. Greenwood recorded an operating loss of 144,313) in fiscal 2021 compared to an operating loss of 122,088) in fiscal 2020. 
+ 
+ Seed Processing and Sales - JCSC 
+ 
+ Sales at JCSC were 3,172,138 in fiscal 2021 compared to sales of 2,071,157 in fiscal 2020, which represents an increase of 1,100,981, or 53 . Management has worked to refocus JCSC to better provide local growers with cleaning services, although a historic heat wave across the Pacific Northwest in the summer of 2021 damaged many crops and reduced harvested yields, which has resulted in lower cleaning volumes. JCSC also has worked to increase its seed brokering and sales services which was primarily responsible for the higher revenues in fiscal 2021. JCSC had an operating loss of 64,538) in fiscal 2021 compared to an operating loss of 181,712) in fiscal 2020. 
+ 
+ Industrial Tools and Clamps - MSI 
+ 
+ During fiscal 2018, management initiated a review of the segment to improve margins, which includes reducing inventory holding costs of slower selling items. This review led to the write-offs of obsolete inventory of 66,000 in fiscal 2019. Unfortunately, management s efforts were ultimately unsuccessful in increasing sales or margins due to a lack of market differentiation and changing customer patterns. Therefore, the Board of Directors decided to permanently close MSI effective September 2019. All of the fiscal 2020 sales for MSI represent the liquidation of the entire remaining inventory. 
+ 
+ Sales at MSI were 240,196 in fiscal 2020 and the operating loss was 237,133). With the disposal of the remaining inventory during fiscal 2020, MSI was closed, and the subsidiary wound-up and dissolved. 
+ 
+ Corporate JC USA 
+ 
+ JC USA, the holding company that provides professional and administrative services for the wholly-owned operating subsidiaries had operating income of 580,435 in fiscal 2021 compared to operating income of 493,598 for fiscal 2020. The increase is due to higher rental and administrative fees charged to its subsidiaries related to the inventory levels maintained throughout the year. The results of JC USA are inter-company transactions and are eliminated on consolidation. 
+ 17 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ 
+ Fiscal Year Ended August 31, 2021 
+ 
+ As of August 31, 2021, the Company had working capital of 19,073,194 compared to working capital of 16,815,454 as of August 31, 2020, which is an increase of 2,257,740. The largest changes affecting working capital is an increase in inventory of 5,193,219 to 14,391,365 from 9,198,146. Due to the logistic and shipping issues within and between China and the US, much of this inventory was in transit and was not available to the Company to be sold and delivered to customers during the 3 rd and 4 th quarters of fiscal 2021. These manufacturing and logistical issues, including Chinese factory production issues, an extensive shortage of shipping containers and ships, and congested US ports, are expected to continue for the foreseeable future. As a result, the Company has extended its order lead time from its suppliers in China, which increased its prepaid expenses as of August 31, 2021 to 2,305,820 compared to 1,036,128 as of August 31, 2020. 
+ 
+ Other changes in components of working capital include a decrease in cash of 2,616,724, an increase in accounts receivable of 812,077, and an increase in prepaid income taxes of 252,958. The decrease in cash is related to the increases in inventory and accounts receivable due to the delays in receiving inventory from suppliers in China and the timing of accounts receivable. 
+ 
+ Accounts payable rose to 1,349,677 from 1,095,061 which is related to the timing of payments due to suppliers. Accrued liabilities decreased to 1,798,088 from 2,016,300, a decrease of 218,212. Bank indebtedness, which is from the Company s line of credit, was 3,000,000 as of August 31, 2021 compared to Nil as of August 31, 2020. Income taxes payable was Nil compared to 40,596 in fiscal 2020. Notes payable, which are the PPP loans received in fiscal 2020, declined by 680,707 to Nil as the SBA forgave the entire amount of both loans in fiscal 2021. Deferred tax liability rose to 116,945 from 96,952. 
+ 
+ For the fiscal year ended August 31, 2021, the accounts receivable collection period or DSO was 45 days compared to 51 days for the year ended August 31, 2020. Inventory turnover for the year ended August 31, 2021 was 99 days compared to 88 days for the year ended August 31, 2020. 
+ 
+ The Company has historically utilized a portion of its cash position to repurchase common shares under formal repurchase plans in order to increase shareholder value. Due to the global pressures noted, the Company chose to not initiate a share buyback program in 2021. 
+ 
+ During the 2 nd quarter of fiscal 2020 ended February 29, 2020, the Company repurchased for cancelation a total of 490,120 common shares from two large shareholders, including an officer and director of the Company. The shares were repurchased privately at a price of 7.89 per share, calculated as the Volume Weighted Average Price (VWAP) of all the shares traded on NASDAQ during the first quarter of fiscal 2020. The total cost of the share repurchases was 3,867,046. 
+ 
+ Short-term and Long-term Debt 
+ 
+ External sources of liquidity include a line of credit from U.S. Bank of 5 million, of which 2 million was available as of August 31, 2021. However, subsequent to the end of the fiscal year, the Company has drawn additional funds and negotiated as contingency only, an increase of 5 million to the line of credit to 10 million. As of October 29, 2021, 5 million remains available. 
+ 
+ Borrowing under the line of credit is secured by an assignment of accounts receivable and inventory. The interest rate is calculated solely on the one month LIBOR rate plus 175 basis points. As of August 31, 2021 the one month LIBOR rate plus 175 basis points was 1.84 (1.75 + 0.09 ). With the expected phase-out of LIBOR, the Company expects the calculated rate on the line of credit will be changed to another published reference standard before the planned cessation of LIBOR quotations in 2022. However, the Company does not anticipate this change will have any significant effect on the terms and conditions, and ability to access, the line of credit, or on its financial condition. The line of credit also has certain financial covenants. The Company is in compliance with these covenants. 
+ 18 
+ 
+ During the 3 rd quarter of fiscal 2020, the Company applied for and received two loans under the Paycheck Protection Program (the PPP as part of the Coronavirus Aid, Relief, and Economic Security Act (the CARES Act administered by the U.S. Small Business Administration SBA ). The Company believed the PPP funds were necessary because the Company was quickly depleting its available cash in April due to inventory purchases to fulfil customer orders ahead of its busiest selling season, some delays in receiving inventory from China due to reduced availability of ocean shipping, and the danger of potential COVID-19 infections. If any of the Company s employees on site were to contract the virus during this time, the Company would have been required to shut down the facility for a minimum of 14 days to clean and disinfect, and no product would be shipped to customers. Without the cash flow from product sales, the Company would have likely had to immediately layoff or furlough many of its employees, which would further delay the Company s ability to recover after the shutdown. All of the proceeds from the PPP loans were used for employee payroll expenses. 
+ 
+ The principal amount of the PPP loans was 680,707. They had a term of 2 years with a 1 annual interest rate. Payments were originally deferred for 6 months, after which the repayment of principal and interest is required to be made in equal monthly payments over 18 months beginning December 4, 2020. However, the SBA subsequently revised the due date to either the date that SBA remits the borrower s loan forgiveness amount to the lender or, if the borrower does not apply for loan forgiveness, 10 months after the end of the borrower s loan forgiveness covered period . In April 2021, the SBA approved the Company s application for forgiveness of the entire amount of both loans. The Company has recorded a one-time gain on the extinguishment of debt of 687,387 consisting of the principal of 680,707 and accrued interest of 6,680. 
+ 
+ Current Working Capital Requirements 
+ 
+ Based on the Company s current working capital position, the continued global shipping and logistical issues, and the utilization of its current line of credit, the Company may require additional working capital to meet its needs for fiscal 2022. Management recently increased its line of credit to 10 million which is available to meet its short-term needs. However, the Board is discussing alternative sources of capital, which could include a future public offering of common shares. The proceeds from such an offering could be utilized both for short-term capital needs and to compliment the Company s growth plans in future years. 
+ 
+ OTHER MATTERS 
+ 
+ Contractual Obligations and Commercial Commitments 
+ 
+ The Company currently has no material contractual obligations or commercial commitments other than to suppliers of products or services. 
+ 
+ Inflation 
+ 
+ Inflation did not have a material impact during fiscal 2020. Beginning in fiscal 2021, a number of product costs increased substantially, including raw materials, energy, and transportation/logistical related costs. 
+ 
+ These higher costs have negatively affected the Company s gross margins in the shorter term. Typically, the Company passes cost increases on to the customer, and is currently raising its product prices as much as the market will bear. Retailers are currently more receptive to such increases than in the past due to a mutual understanding of the current inflationary environment and the objective reasons for such. Since the ability of the Company to pass through all of the current increase in its product costs to its customers are somewhat limited and occur after such costs are first incurred, management expects that its gross margins will remain under pressure in fiscal 2022. 
+ 
+ Environmental, Social and Corporate Governance (ESG) 
+ 
+ Jewett-Cameron endeavors to be a good steward and provide sustainable products with a positive impact. We strive to operate and grow in a way that honors our environment and relationships for the long term. This also aligns with one of our three value pillars: sustainability. 
+ 19 
+ 
+ Environmental 
+ For our products, the goal is that 90 of materials can be recycled. Our suppliers are audited to strict commercial and fair practice standards, including our own supplier qualifications regarding facilities, capacity, labor practices, and environmental awareness. Packaging is designed to maximize recyclability and re-use and minimize non-recycled materials, and all waste materials in our own facilities are segregated to maximize recycling. Our facilities have replaced high energy consumption infrastructure with energy efficient HVAC and lighting during our recent remodel. 
+ 
+ Active products and designs utilize either recycled or non-petroleum-based plastics to enhance recycling and composting. This includes the recently introduced compostable dog waste bag, a plant-based product, that is less reliant on fossil fuels used in traditional plastic bags. We also dedicate a percentage of sales to a sustainability coalition to drive industry research and development into more environmentally conscious products and raw material science. 
+ 
+ Social 
+ Our social responsibilities include cultural standards of operations and values which we establish in conjunction with our employees. We regularly provide employees with a corporate engagement survey to benchmark their engagement, satisfaction, and ideas for change. We support educational programs that build the future workforce through active participation in regional and statewide organizations, including the CTE/STEM Employer Coalition and assisting teachers to connect traditional school subjects to practical job site applications. The Company also actively participates in the local community, supported by a Corporate Charitable Giving Charter. 
+ 
+ Governance 
+ As a public company, our processes are outlined and governed by multiple regulations, including Sarbanes-Oxley. Our financial controls are mapped, executed, self-audited as well as regularly audited by outside experts as part of our annual process. We have established risk mitigations that allows for condensed reviews of risks and impacts with our systems in place. An IT Governance Committee aligns execution and security both for ourselves and also for parties with whom we communicate and do business. 
+ 
+ Critical Accounting Policies 
+ 
+ Management is required to make judgments, estimates and assumptions that affect the reported amounts of assets and liabilities at the date of the consolidated financial statements, the disclosure of contingent assets and liabilities as of the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. On a regular basis, we evaluate our estimates and assumptions. We base our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities. Actual results may differ from these estimates under different assumptions or conditions. 
+ 
+ During the year ended August 31, 2020, the Company adopted Topic 842, Leases, which was issued to replace the leases requirements in Topic 840, Leases . The main difference between previous GAAP and Topic 842 is the recognition of lease assets and lease liabilities by lessees for those leases classified as operating leases under previous GAAP. A lessee should recognize in the balance sheet a liability to make lease payments (the lease liability) and a right-of-use asset representing its right to use the underlying asset for the lease term. For leases with a term of 12 months or less, a lessee is permitted to make an accounting policy election by class of underlying asset not to recognize lease assets and lease liabilities. If a lessee makes this election, it should recognize lease expense for such leases generally on a straight-line basis over the lease term. The accounting applied by a lessor is largely unchanged from that applied under previous GAAP. Topic 842 will be effective for annual reporting periods beginning after December 15, 2021, including interim periods within those annual periods and is to be retrospectively applied. Earlier application is permitted. The Company adopted this ASU on September 1, 2019. There was no material impact on the Company s financial statements on adoption. 
+ 
+ Other than Topic 842, the Company did not adopt any new accounting policies that would have a material impact on the consolidated financial statements, nor did it make changes to accounting policies. Senior Management has discussed with the Audit Committee the development, selection and disclosure of accounting estimates used in the preparation of the consolidated financial statements. 
+ 
+ Recent Accounting Pronouncements 
+ 
+ Management has reviewed the new accounting guidance and determined that there is not a material impact on our financial statements. 
+ 20 
+ 
+ ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 
+ Interest Rate Risk 
+ 
+ The Company did not have any derivative financial instruments as of August 31, 2021, and the Company does not use derivative instruments for trading purposes. 
+ 
+ Changes in U.S. interest rates affect the interest earned on the Company s cash as well as interest paid on debt. The Company has a line of credit with an interest rate based on published rates that may fluctuate over time based on economic changes in the environment. The Company is subject to interest rate risk and could be subject to increased interest payments if market interest rates fluctuate. The Company does not expect any change in the interest rates to have a material adverse effect on the Company s results from operations. 
+ 
+ Foreign Currency Risk 
+ 
+ The Company operates primarily in the United States. However, a relatively small amount of business is conducted in currencies other than U.S. dollars. Also, to the extent that the Company uses contract manufacturers in China, currency exchange rates can influence the Company s purchasing costs. 
+ 
+ ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA 
+ 
+ The financial statements and notes thereto are attached hereto. The audit report of Davidson Company, LLP Chartered Accountants is included herein immediately preceding the audited consolidated financial statements. 
+ 
+ Audited Consolidated Financial Statements: fiscal 2021 and 2020 
+ Report of Independent Registered Accounting Firm dated November 26, 2021 
+ Consolidated Balance Sheets 
+ Balance Sheets at August 31, 2021 and August 31, 2020 
+ Consolidated Statements of Operations 
+ For the years ended August 31, 2021 and August 31, 2020 
+ Consolidated Statements of Stockholders Equity 
+ For the years ended August 31, 2021 and August 31, 2020 
+ Consolidated Statements of Cash Flows 
+ For the years ended August 31, 2021 and August 31, 2020 
+ Notes to Financial Statements 
+ Schedule II: Valuation and Qualifying Accounts 
+ 21 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+
+AUGUST 31, 2021 
+ 22 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ 
+ To the Shareholders and Directors of 
+ Jewett Cameron Trading Company Ltd. 
+
+Opinion on the Consolidated Financial Statements 
+ 
+ We have audited the accompanying consolidated balance sheets of Jewett-Cameron Trading Company Ltd. (the Company ), as of August 31, 2021 and 2020, and the related consolidated statements of operations, stockholders equity, and cash flows for the years ended August 31, 2021 and 2020, and the related notes (collectively referred to as the financial statements ). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of Jewett Cameron Trading Company Ltd. as of August 31, 2021 and 2020, and the results of its operations and its cash flows for the years ended August 31, 2021 and 2020 in conformity with accounting principles generally accepted in the United States of America. 
+ 
+ Basis for Opinion 
+ 
+ These consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s consolidated financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ 
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+ 
+ Our audits included performing procedures to assess the risks of material misstatements of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+ 
+ Critical Audit Matters 
+ 
+ The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. 
+ 
+ The communication of the critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+ 23 
+ 
+ Revenues from sales of pet, fencing, and other products 
+ 
+ As indicated in the Company s statement of operations and in Notes 1 and 14, 90 of the Company s sales in the year ended August 31, 2021 were generated through its pet, fencing and other products segment. The business consists of the manufacturing and distribution of specialty metal products and wholesale distribution of wood products to home centers and other retailers located primarily in the United States. Revenues from this segment are the most material number in the Company s consolidated financial statements. Auditing revenue from the Company s pet, fencing, and other products segment is challenging and complex due to the volume of transactions through the year and around year end. Further, the Company s revenue recognition is complex due to the terms of recognition varying by customer. 
+ 
+ To address the matter in our audit, we obtained an understanding of the key controls to treat risk of revenue recognition, completeness, occurrence, and cut-off. We analysed the terms and conditions of the sales contracts and evaluated whether they have been accounted for in line with the Company s revenue recognition policy. We performed substantive testing procedures over revenue transactions, agreeing key transaction inputs to customer agreements, invoices, purchase orders, shipping documents, bank statements and other relevant documents. 
+ 
+ We have served as the Company s auditor since 1999. 
+
+Vancouver, Canada 
+ Chartered Professional Accountants 
+
+November 26, 2021 
+
+24 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ CONSOLIDATED BALANCE SHEETS 
+ (Expressed in U.S. Dollars) 
+ AS OF AUGUST 31 
+
+2021 
+ 
+ 2020 
+
+ASSETS 
+
+Current assets 
+
+Cash and cash equivalents 
+
+Accounts receivable, net of allowance of (August 31, 2020 - 
+
+Inventory, net of allowance of (August 31, 2020 - ( 
+
+Prepaid expenses 
+
+Prepaid income taxes 
+
+Total current assets 
+
+Property, plant and equipment, net ) 
+
+Intangible assets, net ) 
+
+Total assets 
+
+LIABILITIES AND STOCKHOLDERS EQUITY 
+
+Current liabilities 
+
+Accounts payable 
+
+Bank indebtedness ) 
+
+Current portion of notes payable ) 
+
+Income taxes payable 
+
+Accrued liabilities 
+
+Total current liabilities 
+
+Long-term liabilities 
+
+Notes payable ) 
+
+Deferred tax liability ) 
+
+Total liabilities 
+
+Stockholders equity 
+
+Capital stock ) 
+ Authorized 
+ common shares, par value 
+ preferred shares, par value 
+ Issued 
+ common shares (August 31, 2020 
+
+Additional paid-in capital 
+
+Retained earnings 
+
+Total stockholders equity 
+
+Total liabilities and stockholders equity 
+
+Contingency (Note 17) 
+ Subsequent Events (Note 18) 
+ 
+ The accompanying notes are an integral part of these consolidated financial statements. 
+ 25 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (Expressed in U.S. Dollars) 
+ YEARS ENDED AUGUST 31 
+
+2021 
+ 
+ 2020 
+
+SALES 
+
+COST OF SALES 
+
+GROSS PROFIT 
+
+OPERATING EXPENSES 
+
+Selling, general and administrative 
+
+Depreciation and amortization 
+
+Wages and employee benefits 
+
+Income from operations 
+
+OTHER ITEMS 
+
+Gain on sale of property, plant and equipment 
+
+Gain on extinguishment of debt ) 
+
+Interest and other income (expense) 
+ 
+ ) 
+
+Income before income taxes 
+
+Income taxes ) 
+
+Current 
+
+Deferred (recovery) 
+
+Net income for the year 
+
+Basic earnings per common share 
+
+Diluted earnings per common share 
+
+Weighted average number of common shares outstanding: 
+
+Basic 
+
+Diluted 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+ 26 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENT OF STOCKHOLDERS' EQUITY 
+ (Expressed in U.S. Dollars) 
+ YEARS ENDED AUGUST 31 
+
+Capital Stock 
+
+Number of Shares 
+ Amount 
+ Additional paid-in capital 
+ Retained earnings 
+ Total 
+
+August 31, 2019 
+
+Shares repurchased and cancelled ) 
+ ) 
+ ) 
+ 
+ ) 
+ ) 
+ 
+ Net Income 
+
+August 31, 2020 
+
+Shares issued pursuant to compensation plans ) 
+
+Net Income 
+
+August 31, 2021 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+ 27 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Expressed in U.S. Dollars) 
+ YEARS ENDED AUGUST 31 
+
+2021 
+
+2020 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net income for the year 
+
+Items not affecting cash: 
+
+Depreciation and amortization 
+
+Stock-based compensation expense 
+
+(Gain) on sale of property, plant and equipment 
+
+) 
+ 
+ Gain on extinguishment of debt 
+ 
+ ) 
+
+Deferred income taxes 
+
+Changes in non-cash working capital items: 
+
+(Increase) in accounts receivable 
+ 
+ ) 
+
+) 
+ 
+ Decrease in note receivable 
+
+(Increase) in inventory 
+ 
+ ) 
+
+) 
+ 
+ (Increase) in prepaid expenses 
+ 
+ ) 
+
+) 
+ 
+ (Increase) decrease in prepaid income taxes 
+ 
+ ) 
+
+Increase in accounts payable and accrued liabilities 
+
+(Decrease) increase in income taxes payable 
+ 
+ ) 
+
+Net cash (used by) operating activities 
+ 
+ ) 
+
+) 
+
+CASH FLOWS FROM INVESTING ACTIVITIES 
+
+Proceeds on sale of property, plant and equipment 
+
+Increase in intangible assets 
+ 
+ ) 
+
+Purchase of property, plant and equipment 
+ 
+ ) 
+
+) 
+
+Net cash (used in) provided by investing activities 
+ 
+ ) 
+
+) 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Proceeds from bank indebtedness 
+
+(Decrease) increase in notes payable 
+
+Redemption of common stock 
+
+) 
+
+Net cash provided (used) in financing activities 
+
+) 
+
+Net (decrease) in cash 
+ 
+ ) 
+
+) 
+
+Cash, beginning of year 
+
+Cash, end of year 
+
+Supplemental disclosure with respect to cash flows (note 16) 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+ 28 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+ as a holding company for Jewett-Cameron Lumber Corporation JCLC ), incorporated September 1953. Jewett-Cameron Trading Company, Ltd. acquired all the shares of JCLC through a stock-for-stock exchange on July 13, 1987, and at that time JCLC became a wholly owned subsidiary. Effective September 1, 2013, the Company reorganized certain of its subsidiaries. JCLC s name was changed to JC USA Inc. JC USA ), and a new subsidiary, Jewett-Cameron Company JCC ), was incorporated. 
+ 
+ JC USA has the following wholly owned subsidiaries incorporated under the laws of the State of Oregon: , , and . Former wholly owned subsidiary MSI-PRO was wound-up and dissolved in fiscal 2020. Jewett-Cameron Trading Company Ltd. and its subsidiaries (the Company have no significant assets in Canada. 
+
+29 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+ 
+ compared to at August 31, 2020. 
+
+30 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+
+31 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+
+Basic weighted average number of common shares outstanding 
+
+Effect of dilutive securities 
+
+Stock options 
+
+Diluted weighted average number of common shares outstanding 
+
+Basic and diluted earnings per common share 
+
+32 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+ 
+ 3,801,037 
+
+Accounts receivable, net of allowance 
+ 7,086,503 
+ 7,086,503 
+
+6,274,426 
+
+Notes Payable 
+ - 
+ - 
+
+680,707 
+
+Accounts payable and accrued liabilities 
+ 3,147,765 
+ 3,147,765 
+
+3,111,361 
+
+Bank Indebtedness 
+ 3,000,000 
+ 3,000,000 
+
+- 
+
+The following table presents information about the assets that are measured at fair value on a recurring basis as of August 31, 2021 and indicates the fair value hierarchy of the valuation techniques the Company utilized to determine such fair value. In general, fair values determined by Level 1 inputs utilize quoted prices (unadjusted) in active markets for identical assets. Fair values determined by Level 2 inputs utilize data points that are observable such as quoted prices, interest rates and yield curves. Fair values determined by Level 3 inputs are unobservable data points for the asset or liability, and included situations where there is little, if any, market activity for the asset: 
+
+The fair values of cash are determined through market, observable and corroborated sources. 
+
+33 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+
+Agricultural seed products 
+
+34 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+
+Warehouse equipment 
+
+Buildings 
+
+Land 
+
+Accumulated depreciation 
+ 
+ ) 
+
+) 
+
+Net book value 
+
+In the event that facts and circumstances indicate that the carrying amount of an asset may not be recoverable and an estimate of future discounted cash flows is less than the carrying amount of the asset, an impairment loss will be recognized. Management's estimates of revenues, operating expenses, and operating capital are subject to certain risks and uncertainties which may affect the recoverability of the Company's investments in its assets. Although management has made its best estimate of these factors based on current conditions, it is possible that changes could occur which could adversely affect management's estimate of the net cash flow expected to be generated from its operations. 
+
+Accumulated amortization 
+ 
+ ) 
+
+) 
+
+Net book value 
+
+During fiscal 2020, the Company wrote-off the intangible assets related to the wound-up and dissolved MSI-PRO subsidiary. 
+ 35 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+
+State taxes, net of federal benefit 
+
+Depreciation 
+ 
+ ) 
+
+) 
+
+Inventory reserve 
+
+Other 
+ 
+ ) 
+
+Provision for income taxes 
+
+Current income taxes 
+
+Deferred income taxes 
+
+Deferred income tax liability as of August 31, 2021 of 116,945 (August 31, 2020 96,952) reflects the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. 63854 
+
+Allowance for bad debts 
+
+Difference between book and tax depreciation 
+ 
+ ) 
+
+) 
+
+Total deferred tax assets 
+ 
+ ) 
+
+Valuation allowance 
+
+Net deferred tax assets 
+ 
+ ) 
+
+Net deferred tax liability 
+ 
+ ) 
+
+) 
+
+Combined net deferred tax liability 
+ 
+ ) 
+
+) 
+
+(August 31, 2020 - ). Effective June 15, 2021, the Company s Line of Credit was increased from 3,000,000 to . 
+ 
+ Bank indebtedness, when it exists, is secured by an assignment of accounts receivable and inventory. Interest is calculated solely on the one month LIBOR rate plus 175 basis points. As of August 31, 2021, the interest rate was 1.84 
+ 36 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+ and the second loan was made to JC USA for . The total principal amount of the two notes is 680,707. They have a term of 2 years with a 1 annual interest rate. Payments were originally deferred for 6 months, after which the repayment of principal and interest is required to be made in equal monthly payments over 18 months beginning December 4, 2020. However, the SBA subsequently revised the due date to either the date that SBA remits the borrower s loan forgiveness amount to the lender or, if the borrower does not apply for loan forgiveness, 10 months after the end of the borrower s loan forgiveness covered period. There is no prepayment penalty. If proceeds are used for quali fying expenses as defined by the CARES Act, including payroll costs, health care benefits, rent and utilities, the Company can apply for forgiveness after 60 days of all or any portion of the promissory note used for such qualifying expenses. 
+ 
+ The Company has chosen to account for the loans under FASB ASC 470. Repayment amounts due within 1 year have been recorded as current liabilities, and the remaining amounts due in more than 1 year as long-term liabilities. If the Company is successful in receiving forgiveness for those portions of the loan used for qualifying expenses, those amounts will be recorded as a gain upon extinguishment. 
+ 
+ During fiscal 2021 ended August 31, 2021, the Company s applications for loan forgiveness of both loans was approved by the SBA. The Company has recorded a gain of extinguishment of debt of consisting of 680,707 of principal and 6,680 of interest. 
+
+common shares from two large shareholders, including an officer and director of the Company. The shares were repurchased privately at a price of per share, calculated as the Volume Weighted Average Price (VWAP) of all the shares traded on NASDAQ during the first quarter of fiscal 2020. The total cost of the share repurchases was . The premium paid to acquire those shares over their per share book value in the amount of was recorded as a decrease to retained earnings 
+ 37 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+ common shares to Officers, Directors and Employees under the RSA Plan. 6,564 of these shares were issued to Officers and Directors without a Restricted Period under the Company s S-8 Registration Statement filed on December 7, 2020. The remaining 1,435 shares were issued to Employees and have a three-year Restricted Period. 
+ 38 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+ and , respectively. 
+ 
+ As such, separate disclosure of MSI s operations as discontinued operations within the Company s statement of operations was not considered necessary. 
+ 
+ 39 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+
+Pet, Fencing and Other 
+
+Seed processing and sales 
+
+Industrial tools and clamps 
+
+Income (loss) before income taxes: 
+
+Industrial wood products 
+ 
+ ) 
+
+) 
+
+Pet, Fencing and Other 
+
+Seed processing and sales 
+ 
+ ) 
+
+) 
+
+Industrial tools and clamps 
+
+) 
+
+Corporate and administrative 
+
+Identifiable assets: 
+
+Industrial wood products 
+
+Pet, Fencing and Other 
+
+Seed processing and sales 
+
+Corporate and administrative 
+
+Depreciation and amortization: 
+
+Industrial wood products 
+
+Pet, Fencing and Other 
+
+Seed processing and sales 
+
+Industrial tools and clamps 
+
+Corporate and administrative 
+
+Capital expenditures: 
+
+Industrial wood products 
+ 
+ - 
+
+- 
+
+Pet, Fencing and Other 
+ 
+ - 
+
+- 
+
+Seed processing and sales 
+ 
+ - 
+
+- 
+
+Corporate and administrative 
+
+1,193,494 
+
+449,282 
+
+Interest expense: 
+
+The following table lists sales made by the Company to customers which were in excess of 10 of total sales for the years ended August 31: 
+
+40 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+
+Canada 
+
+Mexico/Latin America/Caribbean 
+
+Europe 
+
+Asia/Pacific 
+
+All of the Company s significant identifiable assets were located in the United States as of August 31, 2021 and 2020. 
+ 
+ . At August 31, 2020, two customers accounted for accounts receivable greater than 10 of total accounts receivable for a total of . The Company controls credit risk through credit approvals, credit limits, credit insurance and monitoring procedures. The Company performs credit evaluations of its commercial customers but generally does not require collateral to support accounts receivable. 
+ 
+ Volume of business 
+ 
+ The Company has concentrations in the volume of purchases it conducts with its suppliers. For the fiscal year ended August 31, 2021, there were three suppliers which each accounted for greater than 10 of total purchases, and the aggregate purchases amounted to . For the fiscal year ended August 31, 2020, there were two suppliers which each accounted for greater than 10 of total purchases, and the aggregate purchases amounted to . 
+
+Income taxes 
+
+There were no non-cash investing or financing activities during the years presented. 
+ 41 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+ (Expressed in U.S. Dollars) 
+ A trial date has not been set at this time. At the present time it is speculative to predict as to its outcome. It is the Company s intention to vigorously defend the lawsuit. The Company s applicable liability insurer is providing a defense covering the Company s legal fees and costs. 
+ 
+ Arbitration is scheduled to commence in the first week of August 2022. While the company is robustly pursuing its rights and defending itself against claims, the arbitration and lawsuit are in their initial stages and therefore it is speculative to predict as to its outcome 
+ 
+ , of which 5 million is available. 
+ 
+ b. 
+ 42 
+ 
+ JEWETT-CAMERON TRADING COMPANY LTD. AND SUBSIDIARIES 
+ CONSOLIDATED FINANCIAL STATEMENT SCHEDULE 
+ SCHEDULE II VALUATION AND QUALIFYING ACCOUNTS 
+ AUGUST 31, 2021 
+
+Additions 
+ Deductions 
+
+Balance at 
+ Charged to 
+ Credited to 
+ Deductions 
+
+Beginning 
+ Costs and 
+ Costs and 
+ From 
+ Balance at 
+
+of Year 
+ Expenses 
+ Expenses 
+ Reserves 
+ End of Year 
+
+August 31, 2021 
+
+Allowance deducted from related 
+ Balance sheet account: 
+
+Inventory 
+ 
+ 65,000 
+ 
+ 394,299 
+ 
+ - 
+ 
+ 209,299 
+ 
+ 250,000 
+ 
+ Accounts Receivable 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+
+August 31, 2020 
+
+Allowance deducted from related 
+ Balance sheet account: 
+
+Inventory 
+ 
+ 119,357 
+ 
+ 78,105 
+ 
+ - 
+ 
+ 132,462 
+ 
+ 65,000 
+ 
+ Accounts Receivable 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+ 
+ - 
+
+43 
+ 
+ ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND 
+ FINANCIAL DISCLOSURE 
+ --- No Disclosure Necessary --- 
+ 
+ ITEM 9A. CONTROLS AND PROCEDURES 
+ 
+ Disclosure Controls and Procedures 
+ 
+ Management has evaluated, under the supervision and with the participation of our Chief Executive Officer and Principal Financial Officer, the effectiveness of our disclosure controls and procedures as of the end of the period covered by this report as defined in Rule 13a-15(e) or Rule 15d-15(e) under the Securities Exchange Act of 1934 (the Exchange Act ). Based on that evaluation our Chief Executive Officer and Principal Financial Officer have concluded that as of the end of the period covered by this report our disclosure controls and procedures are effective in ensuring that information required to be disclosed in our Exchange Act reports is (1) recorded, processed, summarized, and reported in a timely manner, and (2) accumulated and communicated to our management including our Chief Executive Officer and Principal Financial Officer as appropriate to allow timely decisions regarding required disclosure. 
+ 
+ Management s Report on Internal Control Over Financial Reporting 
+ 
+ Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rules 13a-15(f). Under supervision and with the participation of our management including our Chief Executive Officer and Principal Financial Officer we conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on our evaluation our management concluded that our internal control over financial reporting was effective as of August 31, 2021. 
+ 
+ This Annual Report on Form 10-K does not include an attestation report of our registered public accounting firm regarding internal control over financial reporting. Management s report was not subject to attestation by our registered public accounting firm pursuant to rules of the Securities and Exchange Commission that permit us to provide only management s report in this Annual Report on Form 10-K. 
+ 
+ Changes in Internal Controls 
+ 
+ There has been no change in our internal control over financial reporting that occurred during our most recent fiscal year that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+ ITEM 9B. OTHER INFORMATION 
+ --- No Disclosure Necessary --- 
+ 
+ PART III 
+ 
+ ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+ 
+ Table No. 4 lists as of November 1, 2021 the names of the Directors of the Company. The Directors will serve until the next Annual Shareholders Meeting or until a successor is duly elected, unless the office is vacated in accordance with the Articles/By-Laws of the Company. All of the Directors are citizens of the United States. 
+ 44 
+ 
+ Table No. 4 
+ Directors 
+
+Date First 
+
+Elected 
+ 
+ Name 
+ Age 
+ Or Appointed 
+ 
+ Geoff Guilfoy (1) (2) (3) 
+ 71 
+ August 2019 
+ 
+ Charles Hopewell 
+ 65 
+ February 2017 
+ 
+ Sarah Johnson (1) (2) 
+ 42 
+ July 2017 
+ 
+ Chris Karlin (1) (2) 
+ 60 
+ December 2018 
+ 
+ Frank G. Magdlen (1) (2) (4) 
+ 74 
+ January 2013 
+ 
+ Michael C. Nasser 
+ 75 
+ May 2019 
+ 
+ Michelle Walker 
+ 47 
+ July 2021 
+
+(1) Member of Audit Committee. 
+ (2) Member of Compensation Committee. 
+ (3) Interim Chair Audit Committee 
+ (4) Mr. Magdlen is on a medical leave of absence pending further diagnosis and ability to continue his service 
+ 
+ Table No. 5 lists, as of November 1, 2021, the names of the executive officers of the Company. The executive officers serve at the pleasure of the Board of Directors. All executive officers are residents and citizens of the United States and spend 100 of their time on the affairs of the Company. 
+ 
+ Table No. 5 
+ Executive Officers 
+
+Date of 
+ 
+ Name 
+ Position 
+ Age 
+ Board Approval 
+ 
+ Charles Hopewell 
+ Chief Executive Officer 
+ 65 
+ February 2017 
+ 
+ Michael C. Nasser 
+ Corporate Secretary 
+ 75 
+ July 1987 
+
+Family Relationships/Other Relationships/Arrangements 
+ 
+ There are no arrangements or understandings between any two or more directors or executive officers, pursuant to which he/she was selected as a director or executive officer. There are no family relationships, material arrangements or understandings between any two or more directors or executive officers. 
+ 
+ Written Management Agreements 
+ --- No Disclosure Necessary --- 
+ 
+ Business Experience 
+ 
+ Charles E. Hopewell has over 35 years of experience in senior management positions with manufacturing companies, including serving as CEO of Sunset Manufacturing Inc, Neilsen Manufacturing Inc, and COO of Aluminite Corporation. In his past positions as COO or CEO, he has been involved in all organizational aspects, including sales and marketing, plant and equipment, personnel, and finance. He received a degree in Finance from the University of Oregon and an MBA from Willamette University s Atkinson Graduate School of Management. Mr. Hopewell has also worked extensively in local and statewide workforce policy and K-12 CTE education at a Board level. 
+ 
+ Michael C. Nasser has over 40 years of experience in sales and sales management and has worked in this capacity for the Company since its inception. Prior to this he worked for companies including Sunrise Forest Products and Oregon Pacific Industries. Mr. Nasser is a graduate of Portland State University. 
+ 45 
+ 
+ Geoff Guilfoy is a management consultant with over 41 years of experience, including over 21 years in management consulting, 17 years in State Government management, and an additional 4 years in the private and non-profit sectors. Prior to founding Lumen Leaders LLC in 2013, he was the partner in charge of the management consulting group at AKT LLP, a regional CPA and business consulting firm. For 28 years, he was an Executive Professor at Willamette University s Atkinson Graduate School of Management teaching courses on management consulting, nonprofit management, and government. He currently serves on the Board of Directors of Medical Teams International. He is also a former National Board Member of the Institute of Management Consultants USA and a former Board Member of CoServe International. He has a Bachelor of Science, Management (Accounting) from San Jose State University and an MBA from Willamette University. 
+ 
+ Sarah Johnson has significant experience in supply chain management and best practices, including the planning and implementation of improvements to both the manufacturing and supply processes. She is currently Global Raw Materials Planning Manager at Columbia Sportswear. Previously, she served as the Global Buying Manager and as a Business Process Analyst and Senior Global Buyer at Columbia, which included working with International vendors, principally in Asia and Canada. Ms. Johnson is a graduate of Gonzaga University in Spokane, Washington. 
+ 
+ Chris Karlin is a retired banker who began his banking career in 1980. He served as the Senior Vice President and Manager of U.S. Bank s National Government Banking Division from 2005 to 2014 and was responsible for the strategic vision of the group. He joined U.S. Bank in 1993 as a Relationship Manager in the National Corporate Division. He has also served as a Regional Manager for the Treasury Management Division in Minneapolis. Prior to joining U.S. Bank, Chris was with Mitsubishi Bank, serving as Group Manager in its Chicago and Columbus offices, focusing on public finance and large corporate markets. Chris is a past Chair of the Oregon Bankers Association (OBA), serves as the Adviser for its Leadership Program and serves on the Board of the OBA's Education Foundation. Chris has degrees in Economics and Finance from Fort Hays State University (Kansas) and a Master of International Management from the Thunderbird School of International Management (Arizona). 
+ 
+ Frank G. Magdlen is a Chartered Financial Analyst and Chairman of the Audit Committee. He has over 40 years of business experience during which he held various financial services positions specializing in investment banking, research on small capitalization companies and portfolio management. Since 1999, he has been managing investment banking activities at GarWood Securities, LLC and The Robins Group, LLC / Crown Point Group Ltd. Mr. Magdlen has an MBA from University of Southern California, and an undergraduate degree from University of Portland. 
+ 
+ Michelle Walker is a business strategist in Portland with experience in brand development, organizational alignment, and building consumer brands, including both B2B and B2C businesses. Previously, she was CEO of Sock It to Me, Inc., a sock and underwear brand. She also held several senior positions with PepsiCo, including Senior Director and GM of the Lays and Ruffles brands where her responsibility included business strategy, brand positioning, product development, and sales strategy. Prior to joining PepsiCo, she was a Senior Consultant in Valuation Services with PricewaterhouseCoopers where she led business analysis and valuations for both business clients and Real Estate Investment Trusts. She received her bachelor s degree in Economics and Psychology from the University of California, San Diego, and an MBA from the University of Texas McComb School of Business. 
+ 
+ Involvement in Certain Legal Proceedings 
+ 
+ There have been no events during the last five years that are material to an evaluation of the ability or integrity of any director, person nominated to become a director, executive officer, or control person including: 
+ 
+ 1) Any bankruptcy petition filed by or against any business of which such person was a general partner or executive officer either at the time of the bankruptcy or within two years prior to that time; 
+ 2) Any conviction in a criminal proceeding or being subject to a pending criminal proceeding (excluding traffic violations/other minor offenses); 
+ 3) Being subject to any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently enjoining, barring, suspending or otherwise limiting his/her involvement in any type of business, securities or banking activities; and 
+ 4) Being found by a court of competent jurisdiction (in a civil action), the Commission or the Commodity Futures Trading Commission to have violated a federal or state securities or commodities law, and the judgment has not been reversed, suspended, or vacated. 
+ 46 
+ 
+ Audit Committee Financial Expert 
+ 
+ Frank D. Magdlen has served as our audit committee financial expert but has taken a leave of absence pending further diagnosis. Geoff Guilfoy has been designated our Interim Audit Committee Chair and financial expert given his extensive background in oversight, financial budgeting and reporting and strategic consultation. Mr. Guilfoy is also independent as that term is used in Section 240.14a-101 under the Exchange Act and as defined under NSADAQ Rule 4200(a)(15). The Board will address Mr. Magdlen s continuing service upon further information. 
+ 
+ Prior to Mr. Madglen s current situation, our Board of Directors had determined that Frank G. Magdlen was the audit committee financial expert , as defined in Item 401(h) of Regulation S-K. Mr. Magdlen is independent as that term is used in Section 240.14a-101 under the Exchange Act and as defined under NASDAQ Rule 4200(a)(15). 
+ 
+ Audit Committees 
+ 
+ The Company has an Audit Committee, which recommends to the board of directors the engagement of the independent auditors of the Company and reviews with the independent auditors the scope and results of the Company s audits, the Company s internal accounting controls, and the professional services furnished by the independent auditors to the Company. The board of directors, in light of the increased responsibilities placed on the Audit Committee during 2002 by the Sarbanes-Oxley Act and the SEC, adopted an Amended and Restated Charter in late 2002. 
+ 
+ The Audit Committee is directly responsible for the appointment, compensation and oversight of auditors; and concerns about accounting and auditing matters; and has the authority to engage independent counsel and other outside advisors. 
+ 
+ The Audit Committee may delegate to one or more designated members of the Audit Committee the authority to grant pre-approvals required by this policy / procedure. The decisions of any Audit Committee member to whom authority is delegated to pre-approve a service shall be presented to the Audit Committee at its next scheduled meeting. 
+ 
+ In accordance with the requirements of the U.S. Sarbanes-Oxley Act of 2002 and rules issued by the Securities and Exchange Commission, the Company introduced a procedure for the review and pre-approval of any services performed by Davidson Company, LLP Chartered Accountants, including audit services, audit related services, tax services and other services. The procedure requires that all proposed engagements of Davidson Company, LLP Chartered Accountants for audit and permitted non-audit services are submitted to the Audit Committee for approval prior to the beginning of any such services. 
+ 
+ The current members of the Audit Committee are Frank Magdlen (on Leave of Absence), Geoff Guilfoy (Interim Chair), Sarah Johnson, and Chris Karlin. All current members of the Audit Committee are independent within the meaning of the new regulations from the SEC regarding audit committee membership. The Audit Committee met six times in fiscal 2021 and four times in fiscal 2020. 
+ 
+ Compensation Committee 
+ 
+ The Company has a Compensation Committee which recommends to the Board of Directors on compensation matters for the Company, including compensation plans and benefits of executive officers and directors. This includes determining the compensation for senior management, the form and amounts of Director compensation, the size and recipients of bonuses, and equity incentive plans, including the grant of options and other awards. The Committee will also recommend executive appointments and complete annual performance evaluations of the Chief Executive Officer and Chief Financial Officer. The Committee also advises on succession plan matters and has the authority to retain outside advisors or consultants. 
+ 
+ The Committee operates under a written charter, which requires the Committee to consist of at least three members appointed by the Board. The members shall be independent directors, and the Board will designate one member as Chairman of the Committee. The Committee shall meet a minimum of one time per year. 
+ 47 
+ 
+ Current members of the Compensation Committee are Chris Karlin (Chair), Sarah Johnson), Geoff Guilfoy, , and Frank Magdlen (on Leave of Absence). The Committee met three times in fiscal 2021 and three times in fiscal 2020. 
+ 
+ Compliance with Section 16(a) of the Exchange Act 
+ 
+ The Company has reviewed the Forms 3 and 4 furnished to the Company under Rule 16a-3(e) of the Securities Exchange Act during the most recent fiscal year and the Forms 5 furnished to the Company with respect to its most recent fiscal year, as well as any written representations received by the Company from persons required to file such forms. Management has determined there was one report that failed to be filed on a timely basis as required by Section 16(a) of the Securities Exchange Act during the most recent fiscal year, as a Form 3 for Michelle Walker was filed late. 
+ 
+ Code of Ethics 
+ 
+ The Company has a written code of ethics that meets the United States' Sarbanes-Oxley standards. The code is posted on the Company s website. 
+ 
+ Limitation of Liability and Indemnification 
+ 
+ Our certificate of incorporation limits the personal liability of our board members for breaches by them of their fiduciary duties. Our bylaws also require us to indemnify our directors and officers to the fullest extent permitted by British Columbia law. British Columbia law provides that directors of a corporation will not be personally liable for monetary damages for breach of their fiduciary duties as directors, except liability for any of the following acts: 
+ 
+ a. any breach of their duty of loyalty to the Company or its stockholders; 
+ b. acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law; 
+ c. unlawful payments of dividends or unlawful stock repurchases, redemptions or other distributions; and 
+ d. any transaction from which the director derived an improper personal benefit. 
+ 
+ Such limitation of liability may not apply to liabilities arising under the federal securities laws and does not affect the availability of equitable remedies such as injunctive relief or rescission. In addition, British Columbia laws also permit us to secure insurance on behalf of any officer, director, employee or other agent for any liability arising out of his or her actions in such capacity, regardless of whether indemnification would be permitted under British Columbia law. We currently maintain liability insurance for our directors and executive officers. 
+ 
+ Among other things, this will provide for indemnification of our directors and executive officers for certain expenses (including attorneys fees), judgments, fines and settlement amounts incurred by any such person in any action or proceeding, including any action by or in the right of the Company, arising out of such person s services as a director or executive officer of ours, any subsidiary of ours or any other company or enterprise to which the person provided services at our request. We believe that these provisions and agreements are necessary to attract and retain qualified persons as directors and executive officers. 
+ 
+ ITEM 11. EXECUTIVE COMPENSATION 
+ 
+ Table No. 6 details compensation paid or accrued for fiscal 2021, 2020 and 2019 for the Company s chief executive officer, each of the Company s most highly compensated executive officers who were serving as executive officers at the end of the most recently completed financial year and whose total salary and bonus exceeds 100,000 per year. 
+ 48 
+
+Long-term Compensation 
+
+Awards 
+ Payouts 
+
+Annual Compensation 
+ 
+ Securities 
+
+Name and 
+
+Other 
+ Restricted 
+ Underlying 
+ 
+ All 
+ 
+ Principal 
+ Fiscal 
+
+Annual 
+ Stock 
+ Options/ 
+ LTIP 
+ Other 
+ 
+ Position 
+ Year 
+ Salary 
+ Bonus 
+ Comp. 
+ Awards 
+ SARS (#) 
+ Payouts 
+ Comp. (1) 
+
+Charles Hopewell, 
+ Chief Executive Officer, 
+ Principal Financial Officer 
+
+2021 
+ 266,666 
+ 87,384 
+ - 
+ - 
+ - 
+ - 
+ 29,600 
+
+2020 
+ 250,000 
+ 70,000 
+ - 
+ - 
+ - 
+ - 
+ 28,600 
+
+2019 
+ 190,000 
+ 20,000 
+ - 
+ - 
+ - 
+ - 
+ 9,000 
+
+Michael Nasser, 
+ Corporate Secretary 
+
+2021 
+ 198,000 
+ 75,000 
+ - 
+ - 
+ - 
+ - 
+ 14,400 
+
+2020 
+ 187,500 
+ 75,000 
+ - 
+ - 
+ - 
+ - 
+ 14,850 
+
+2019 
+ 177,000 
+ 70,000 
+ - 
+ - 
+ - 
+ - 
+ 9,000 
+
+(1) All Other Compensation relates to the Company s 401K contributions for each individual. 
+ 
+ The Company has the same 401(k) Plan for executives as for all employees: it is a dollar-for-dollar match on 10 of eligible compensation, and a non-elective discretionary contribution based on the first 45,000 of eligible compensation which was changed for 2020 from only a non-elective discretionary contribution based on the first 45,000 of eligible compensation. 
+ 
+ Other than participation in the Company s Restricted Share Plan and 401(k), no funds were set aside or accrued during fiscal 2021 to provide pension, retirement or similar benefits for directors or executive officers. 
+ 
+ The Company has no plans or arrangements with respect to remuneration received or that may be received by executive officers of the Company to compensate such executive officers in the event of termination of employment (as a result of resignation, retirement, change of control) or a change of responsibilities following a change of control. 
+ 
+ No executive officer or director received other compensation in excess of the lesser of 25,000 or 10 of such officer's cash compensation, and all executive officers or directors as a group did not receive other compensation, which exceeded 25,000 times the number of persons in the group or 10 of the compensation. 
+ 
+ Except for our Restricted Stock Plan and 401(k) Plan, we have no material stock option plan, bonus or profit sharing plans pursuant to which cash or non-cash compensation is or may be paid to our directors or executive officers. Michael Nasser and Charles Hopewell received bonuses, which were determined and approved by the Board of Directors. 
+ 
+ The Board approved a non-qualified Profit-Sharing plan for employees who did not receive any other form of commission or bonus. The plan is formula based proportionately balancing years of service and compensation. The Board has year-to-year responsibility to review the amount funded to the program and the overall program will be based on a percentage of operating or pre-tax profit. 
+ 49 
+ 
+ Restricted Share Plan 
+ 
+ The Company has a Restricted Share Plan which allows the Company to grant restricted shares as compensation to directors, officers, employees and consultants of the Company. The Restricted Shares are subject to restrictions, including the period under which the shares will be restricted and subject to forfeiture which is determined by the Board at the time of the grant. The recipient of Restricted Shares is entitled to all of the rights of a shareholder, including the right to vote such shares and the right to receive any dividends, except that the shares granted under the Plan are nontransferable during the Restricted Period. 
+ 
+ The maximum number of Common Shares reserved for issuance under the Plan will not exceed 1 of the then issued and outstanding number of Common Shares at the time of the grant. During the year ended August 31, 2021, the Company issued 7,999 common shares (fiscal 2020 Nil) under the Restricted Share Plan. Of the 7,999 common shares, 6,564 shares were issued to officers and directors without a restricted period under the Company s S-8 Registration Statement filed on December 7, 2020. The remaining 1,435 shares were issued to Employees and have a three-year Restricted Period. 
+ 
+ Subsequent to the end of fiscal 2021, the Company issued 3,681 common shares to Officers, Directors and Employees under the Company s Restricted Share Plan. 2,015 shares were issued to Officer and Directors without a Restricted Period under the Company s S-8 Registration Statement. 1,666 common shares were issued to Employees and have a three-year Restricted Period. 
+ 
+ 401(k) Plan 
+ 
+ The Company has a 401(k) Plan which allows for a non-elective discretionary contribution based on the first 45,000 of eligible compensation. Beginning in fiscal 2019, the Company reduced the percentage amount of the discretionary contribution while adding a matching contribution, which is designed to encourage employees to participate with their own contributions. For the years ended August 31, 2021 and 2020 the 401(k) compensation expense was 530,311 and 439,368, respectively. The contributions for Charles Hopewell were 29,600 and 28,600 for the fiscal years ended August 31, 2021 and 2020 respectively. The contributions for Michael Nasser were 14,400 and 14,850 for the fiscal years ended August 31, 2021 and 2020 respectively. There are no un-funded liabilities. 
+ 
+ Stock Options 
+ 
+ The Company formerly had a stock option program under which stock options to purchase securities from the Company could be granted to directors and employees of the Company on terms and conditions acceptable to the regulatory authorities of Canada, notably the Ontario Securities Commission and the British Columbia Securities Commission. 
+ 
+ During the year ended August 31, 2020, the Company s Board of Directors approved the termination of the stock option program. No options were granted in fiscal 2021 or 2020, and the Company had no stock options outstanding as of August 31, 2021 and August 31, 2020. 
+ 
+ Long-Term Incentive Plan / Defined Benefit or Actuarial Plan 
+ 
+ During fiscal 2021 the Company had no Long-Term Incentive Plan LTIP and no LTIP awards were made. Also, during fiscal 2021 the Company had no Defined Benefit or Actuarial Plan. 
+ 
+ Compensation Committee Interlocks and Insider Participation 
+ 
+ The Company s Compensation Committee consists of 4 independent directors. None of the members of the Compensation Committee served as an officer or employee of the Company in the prior fiscal year. 
+ 
+ No board of director member and none of our executive officers have a relationship that would constitute an interlocking relationship with executive officers and directors of another entity. 
+ 50 
+ 
+ Employment Contracts 
+ Termination of Employment and Change-in-Control Arrangements 
+ --- No Disclosure Necessary --- 
+ 
+ Director Compensation 
+ 
+ The Company began compensating directors at the rate of 1,000 per month as of January 1, 2019. Directors are also entitled to reimbursement for reasonable travel and other out-of-pocket expenses incurred in connection with attendance at meetings of the Board of Directors. The Board of Directors may award special remuneration to any director undertaking any special services on behalf of the Company other than services ordinarily required of a director. 
+ 
+ During fiscal 2021 the following cash payments were paid to directors: Charles Hopewell Nil (2020 - Nil); Frank Magdlen 9,000 (fiscal 2020 - 12,000), Geoff Guilfoy 12,000 (fiscal 2020 - 12,000); Sarah Johnson 12,000 (fiscal 2020 - 12,000); and Chris Karlin 12,000 (fiscal 2020 - 12,000). 
+ 
+ In November 2020, the Board of Directors approved additional compensation for Directors other than Named Executive Officer members under the Company s Restricted Share Plan. Directors will be granted 25 common shares for each fiscal quarter of service, with the amount earned during the year to be distributed by the end of the first fiscal quarter of the following fiscal year. Directors also received a one-time grant of 225 common shares each upon the approval by the Board, with such shares distributed in December 2020. The value of the 225 shares granted to each non-executive Director was 1,980. 
+ 
+ In October 2021, the Company issued 400 common shares to directors under the RSA Plan. The value of the shares issued was 4,240. 
+ 
+ Executive Officer Compensation 
+ 
+ The Company s Compensation Committee provides advice and recommendations to the Board of Directors on compensation and benefits for executive officers. As in prior years all judgments regarding executive compensation for fiscal 2021 and 2020 were based primarily upon our assessment of each executive officer s performance and contribution towards enhancing long-term shareowner value. We rely upon judgment and not upon rigid guidelines or formulas or short-term changes in our stock price in determining the amount and mix of compensation for each executive officer. 
+ 51 
+ 
+ ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+ 
+ The Company is a publicly owned corporation. It is not controlled directly or indirectly by another corporation or any foreign government. 
+ 
+ Table No. 7 shows directors, executive officers, and 5 shareholders who beneficially owned the Company s common stock and the amount of the Company s voting stock owned as of October 28, 2021. 
+ 
+ Table No. 7. 
+ Shareholdings of Directors, Executive Officers, 
+ and 5 Shareholders 
+
+Name 
+ Amount of Beneficial 
+
+and Address of 
+ and Voting 
+ Percent of 
+ 
+ Class 
+ of Beneficial Owner 
+ Ownership 
+ Class (1) 
+
+Common 
+ Oregon Community Foundation 
+ 1,080,534 
+ 31.0 
+ 
+ Common 
+ Charles E. Hopewell 
+ 19,573 
+ 0.6 
+ 
+ Common 
+ Michael C. Nasser 
+ 16,888 
+ 0.5 
+ 
+ Common 
+ Geoff Guilfoy 
+ 350 
+ 0.01 
+ 
+ Common 
+ Sarah Johnson 
+ 350 
+ 0.01 
+ 
+ Common 
+ Chris Karlin 
+ 350 
+ 0.01 
+ 
+ Common 
+ Frank Magdlen 
+ 225 
+ 0.01 
+ 
+ Common 
+ Michelle Walker 
+ 25 
+
+Total Directors, Executive Officers, and 5 Shareholders 
+ 1,118,295 
+ 32.0 
+
+(1) Based on 3,492,842 shares outstanding as of November 24, 2021. 
+ 
+ ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE 
+ 
+ There have been no transactions or proposed transactions, which have materially affected or will materially affect the Company in which any director, executive officer, or beneficial holder of more than 5 of the outstanding common stock, or any of their respective relatives, spouses, associates or affiliates has had or will have any direct or material indirect interest. 
+ 
+ ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+ 
+ The audit committee is directly responsible for the appointment, compensation and oversight of auditors; and has the authority and the funding to engage independent counsel and other outside advisors. 
+ 
+ The audit committee may delegate to one or more designated members of the audit committee the authority to grant pre-approvals required by this policy and procedure. The decisions of any audit committee member to whom authority is delegated to pre-approve a service shall be presented to the audit committee at its next meeting. 
+ 
+ In accordance with the requirements of the U.S. Sarbanes-Oxley Act of 2002 and rules issued by the Securities and Exchange Commission, we introduced a procedure for the review and pre-approval of any services performed by Davidson Company, LLP Chartered Accountants, including audit services, audit related services, tax services and other services. The procedure requires that all proposed engagements of Davidson Company, LLP Chartered Accountants for audit and permitted non-audit services are submitted to the finance and audit committee for approval prior to the beginning of any such services. 
+ 52 
+ 
+ Fees, including reimbursements for expenses and for professional services rendered by Davidson Company, LLP Chartered Accountants to the Company were: 
+ 
+ Principal Accountant 
+ Fiscal Year 
+ 
+ Fees and Services 
+ 2021 
+ 2020 
+
+Audit fees 
+ 
+ 80,000 
+ 
+ 90,000 
+ 
+ Tax fees 
+ 
+ 10,850 
+ 
+ 10,250 
+ 
+ All other fees (1) 
+ 
+ 29,900 
+ 
+ 24,750 
+
+Total 
+ 
+ 120,750 
+ 
+ 125,000 
+
+(1) FY2021: 8,250 to review the Q1 Form 10Q 
+ 8,250 to review the Q2 Form 10Q 
+ 8,250 to review the Q3 Form 10Q 
+ 
+ FY2020: 8,250 to review the Q1 Form 10Q 
+ 8,250 to review the Q2 Form 10Q 
+ 8,250 to review the Q3 Form 10Q 
+
+PART III 
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+ 
+ (A) Financial Statements and Schedules: 
+ 53 
+ 
+ (B) Exhibits: 
+ 
+ 2. Plan of acquisition, reorganization, arrangement, liquidation or succession: 
+ No Disclosure Necessary 
+ 3. Articles of Incorporation/By-Laws: 
+ Incorporated by reference to Form 10 Registration Statement, as amended. 
+ 3.1 Amended and Restated Articles of Incorporation of Jewett-Cameron Lumber Corporation 
+ (filed as an exhibit to the 10-Q Quarterly Report filed on January 13, 2014) 
+ 3.2 Articles of Incorporation of Jewett-Cameron Company. 
+ (filed as an exhibit to the 10-Q Quarterly Report filed on January 13, 2014) 
+ 4. Instruments defining the rights of holders, including indentures 
+ --- Refer to Exhibit #3 --- 
+ 9. Voting Trust Agreements: No Disclosure Necessary. 
+ 10. Material Contracts: 
+ Incorporated by reference to Form 10 Registration Statement, as amended. 
+ 11. Statement re Computation of Per Share Earnings: No Disclosure Necessary 
+ 12. Statements re computation of ratios: No Disclosure Necessary 
+ 13. Annual Report to security holders, Form 10-Q or quarterly report to security holders: 
+ No Disclosure Necessary 
+ 14. Code of Ethics: No Disclosure Necessary 
+ 16. Letter on Change of Certifying Accountant: No Disclosure Necessary 
+ 18. Letter on change in accounting principles: No Disclosure Necessary 
+ 21. Subsidiaries of the Registrant: Refer to page 4 of this Form 10-K 
+ 22. Published report regarding matters submitted to vote 
+ No Disclosure Necessary 
+ 23. Consent of Experts and Counsel: No Disclosure Necessary 
+ 24. Power of Attorney: No Disclosure Necessary 
+ 31.1 Certification of Chief Executive Officer and Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act, Charles Hopewell 
+ 32.1 Certification of Chief Executive Officer and Principal Financial Officer pursuant to 18 U.S.C., 1350 (Section 906 of the Sarbanes-Oxley Act), Charles Hopewell 
+ 99. Additional Exhibits: No Disclosure Necessary 
+ 
+ 101.INS XBRL Instance Document 
+ 101.SCH XBRL Taxonomy Extension Schema Document 
+ 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 
+ 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 
+ 101.LAB XBRL Taxonomy Extension Label Linkbase Document 
+ 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document 
+ 54 
+ 
+ SIGNATURE PAGE 
+ 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ 
+ Jewett-Cameron Trading Company Ltd. 
+ Registrant 
+ 
+ Dated: November 26, 2021 
+ By: /s/ Charles E. Hopewell 
+ Charles E. Hopewell, 
+ CEO, Principal 
+ Financial Officer and Director 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+ 
+ Dated: November 26, 2021 
+ By: /s/ Charles E. Hopewell 
+ Charles E. Hopewell, 
+ CEO, Principal 
+ Financial Officer and Director 
+
+Dated: November 26, 2021 
+ By: /s/ Michael C. Nasser 
+ Michael C. Nasser, 
+ Corporate Secretary and Director 
+
+Dated: November 26, 2021 
+ By: /s/ Geoff Guilfoy 
+ Geoff Guilfoy, 
+ Director 
+
+Dated: November 26, 2021 
+ By: /s/ Sarah Johnson 
+ Sarah Johnson, 
+ Director 
+
+Dated: November 26, 2021 
+ By: /s/ Chris Karlin 
+ Chris Karlin, 
+ Director 
+
+Dated: November 26, 2021 
+ By: /s/ Michelle Walker 
+ Michelle Walker, 
+ Director 
+
+55 
+
+<EX-31.1>
+ 2
+ cert_ex31z1.htm
+ CEO CERTIFICATION
+
+CEO Certification 
+
+CERTIFICATIONS 
+ 
+ I, Charles E. Hopewell, certify that: 
+ 
+ 1. I have reviewed this Annual Report on Form 10-K of Jewett-Cameron Trading Company Ltd; 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 
+ 4. I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the end of the period covered by this report based on such evaluation; and 
+ 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+ 
+ 5. I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+ 
+ a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+ 
+ b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 26, 2021 
+
+By: /s/ Charles E. Hopewell 
+ Charles E. Hopewell, 
+ Chief Executive Officer 
+ and Principal Financial Officer 
+
+</EX-31.1>
+
+<EX-32.2>
+ 3
+ cert_ex32z2.htm
+ CEO CERTIFICATION
+
+CEO Certification 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+ 
+ AS ADOPTED PURSUANT TO 
+ 
+ SECTION 906 OF THE U.S. SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Jewett-Cameron Trading Company Ltd. (the Company on Form 10-K for the period ended August 31, 2021 as filed with the Securities and Exchange Commission on the date hereof (the Report ), the undersigned officer of the Company does hereby certify, to such officer s knowledge, that, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+ 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ 
+ (2) The information contained in this Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: November 26, 2021 
+ Signed: /s/ Charles E. Hopewell 
+
+Charles E. Hopewell, 
+ Chief Executive Officer 
+ and Principal Financial Officer 
+
+</EX-32.2>
+
+<EX-101.CAL>
+ 4
+ jctcf-20210831_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 5
+ jctcf-20210831_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 6
+ jctcf-20210831_lab.xml
+ XBRL TAXONOMY EXTENSION LABELS LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 7
+ jctcf-20210831_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
+<EX-101.SCH>
+ 8
+ jctcf-20210831.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+

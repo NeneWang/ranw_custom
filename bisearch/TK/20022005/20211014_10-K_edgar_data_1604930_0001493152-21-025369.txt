@@ -1,0 +1,3889 @@
+<Header>
+<FileStats>
+    <FileName>20211014_10-K_edgar_data_1604930_0001493152-21-025369.txt</FileName>
+    <GrossFileSize>3021065</GrossFileSize>
+    <NetFileSize>141966</NetFileSize>
+    <NonText_DocumentType_Chars>226938</NonText_DocumentType_Chars>
+    <HTML_Chars>888789</HTML_Chars>
+    <XBRL_Chars>969506</XBRL_Chars>
+    <XML_Chars>713524</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001493152-21-025369.hdr.sgml : 20211014
+<ACCEPTANCE-DATETIME>20211013215921
+ACCESSION NUMBER:		0001493152-21-025369
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		58
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20211014
+DATE AS OF CHANGE:		20211013
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Life Clips, Inc.
+		CENTRAL INDEX KEY:			0001604930
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHOTOGRAPHIC EQUIPMENT & SUPPLIES [3861]
+		IRS NUMBER:				462378100
+		STATE OF INCORPORATION:			WY
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-55697
+		FILM NUMBER:		211322427
+
+	BUSINESS ADDRESS:	
+		STREET 1:		18851 NE 29TH AVE.,
+		STREET 2:		SUITE 700 - PMB# 348
+		CITY:			AVENTURA
+		STATE:			FL
+		ZIP:			33180
+		BUSINESS PHONE:		800-292-8991
+
+	MAIL ADDRESS:	
+		STREET 1:		18851 NE 29TH AVE.,
+		STREET 2:		SUITE 700 - PMB# 348
+		CITY:			AVENTURA
+		STATE:			FL
+		ZIP:			33180
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Blue Sky Media Corp
+		DATE OF NAME CHANGE:	20140407
+
+</SEC-Header>
+</Header>
+
+ 0001493152-21-025369.txt : 20211014
+
+10-K
+ 1
+ form10-k.htm
+
+UNITED
+STATES 
+
+ SECURITIES
+AND EXCHANGE COMMISSION 
+
+ Washington,
+D.C. 20549 
+
+FORM
+10-K 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For
+the fiscal year ended June 30, 2021 
+
+TRANSITION REPORT PURSUANT TO SECTION 13
+OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission
+File No. 000-55697 
+
+LIFE
+CLIPS, INC. 
+
+ (Exact
+Name of Issuer as specified in its charter) 
+
+Wyoming 
+ 
+ 46-2378100 
+ 
+ (State
+ or other jurisdiction 
+ 
+ (IRS
+ Employer 
+ 
+ of
+ incorporation) 
+ 
+ File
+ Number) 
+
+18851
+ NE 29th Ave. 
+ Suite
+ 700 PMB# 348 
+
+Aventura,
+ FL 
+ 
+ 33180
+
+(Address
+ of principal executive offices) 
+ 
+ (zip
+ code) 
+
+(800)
+292-8991 
+
+ (Registrant s
+telephone number, including area code) 
+
+Securities
+to be Registered Pursuant to Section 12(b) of the Act: None 
+
+Securities
+to be Registered Pursuant to Section 12(g) of the Act: 
+
+Common
+Stock, 0.001 per share par value 
+
+Indicate
+by check mark if registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No . 
+
+Indicate
+by check mark if registrant is not required to file reports pursuant to Section 13 or 15(d) of the Exchange Act. Yes No . 
+
+Indicate
+by check mark whether the registrant (1) has filed all Reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes: No: 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (Section 232.405 of this chapter) during the preceding
+12 months (or such shorter period that the registrant was required to submit and post such files. Yes No 
+
+Check
+if there is no disclosure of delinquent filers in response to Item 405 of Regulation S-K is contained in this form and no disclosure
+will be contained, to the best of Registrant s knowledge, in definitive proxy or information statements incorporated by reference
+in Part III of this Form 10-K. 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, 
+ smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large
+ accelerated filer 
+ 
+ Accelerated
+ filer 
+
+Non-accelerated
+ filer (Do not check if a smaller reporting company) 
+ 
+ Smaller
+ reporting company 
+
+Emerging
+ growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act): Yes No . 
+
+The
+market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common
+equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s
+most recently completed second fiscal quarter was approximately 311,052. 
+
+As
+of October 12, 2021, registrant had outstanding 1,617,727,059 shares of common stock. 
+
+FORM
+10-K 
+
+ LIFE
+CLIPS, INC. 
+
+ INDEX 
+
+PART I 
+
+Item 1. Description of Business 
+ 4 
+
+Item 1A. Risk Factors 
+ 6 
+
+Item 1B. Unresolved Staff Comments 
+ 6 
+
+Item 2. Properties 
+ 6 
+
+Item 3. Legal Proceedings 
+ 7 
+
+Item 4. Mine Safety Disclosures 
+ 7 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 7 
+
+Item 6. Selected Financial Data 
+ 8 
+
+Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 8 
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk 
+ 14 
+
+Item 8. Consolidated Financial Statements and Supplementary Data 
+ 14 
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 15 
+
+Item 9A. Controls and Procedures 
+ 15 
+
+PART III 
+
+Item 10. Directors, Executive Officers and Corporate Governance 
+ 16 
+
+Item 11. Executive Compensation 
+ 22 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 23 
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence 
+ 25 
+
+Item 14. Principal Accountant Fees and Services 
+ 25 
+
+PART IV 
+
+Item 15. Exhibits and Consolidated Financial Statement Schedules 
+ 25 
+
+Signatures 
+ 26 
+
+- 2 - 
+
+Forward-Looking
+Statements 
+
+The
+following discussion contains forward-looking statements regarding us, our business, prospects and results of operations that are subject
+to certain risks and uncertainties posed by many factors and events that could cause our actual business, prospects and results of operations
+to differ materially from those that may be anticipated by such forward-looking statements. Factors that may affect such forward-looking
+statements include, without limitation: our ability to successfully develop new products and services for new markets; the impact of
+competition on our revenues, changes in law or regulatory requirements that adversely affect or preclude clients from using us for certain
+applications; delays our introduction of new products or services; and our failure to keep pace with our competitors. 
+
+When
+used in this discussion, words such as believes , anticipates , expects , intends 
+and similar expressions are intended to identify forward-looking statements, but are not the exclusive means of identifying forward-looking
+statements. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of
+this report. We undertake no obligation to revise any forward-looking statements in order to reflect events or circumstances that may
+subsequently arise. Readers are urged to carefully review and consider the various disclosures made by us in this report and other reports
+filed with the Securities and Exchange Commission that attempt to advise interested parties of the risks and factors that may affect
+our business. 
+
+- 3 - 
+
+PART
+I 
+
+ITEM
+1. DESCRIPTION OF BUSINESS. 
+
+General
+Information about Our Company 
+
+Life
+Clips, Inc. Life Clips , LCLP , we, us, our, and the Company was incorporated in Wyoming on March 20, 2013 as Blue Sky Media Corporation and its principal business was developing, financing, producing
+and distributing motion pictures and related entertainment products. Following the Company s October 2, 2015 acquisition of Klear
+Kapture, Inc. Klear Kapture ), the Company continued Klear Kapture s business of developing a body camera and an
+auditable software solution suitable for use by law enforcement. The Company changed its name to Life Clips, Inc. on November 3, 2015
+in order to better reflect its business operations at the time. 
+
+On
+July 11, 2016, the Company completed its acquisition (the Acquisition of all of the outstanding equity securities of Batterfly
+Energy Ltd. Batterfly ), an Israel-based corporation that develops and distributes a single-use, cordless battery under
+the brand name Mobeego for use with cellular phones and other mobile devices. Batterfly is now a wholly owned subsidiary of the Company.
+The Acquisition was completed pursuant to a Stock Purchase Agreement, dated as of June 10, 2016 (the Purchase Agreement ),
+among the Company, Batterfly and all of the shareholders of Batterfly, as amended. 
+
+Recent
+Developments 
+
+On
+April 5, 2021, the Company closed its acquisition of Cognitive Apps Software Solutions, Inc. Cognitive Apps , Subsidiary ),
+a developer of artificial intelligence AI applications for the healthcare industry and psychedelic research. Cognitive
+Apps was incorporated in British Columbia on November 25, 2020. Its principal business is developing, financing, producing and distributing
+AI based technological solutions to the mental health and healthcare sector. 
+
+Cognitive
+Apps sold all of its issued and outstanding capital stock to LCLP, such that, becoming a 100 wholly-owned subsidiary of LCLP. 
+
+Cognitive
+Apps provides an AI powered mental health analytics platform empowering businesses to measure, understand, and improve the mental well-being
+of their employees, patients or customers. The Cognitive Apps solution is driven to achieve the Three Pillars: improved diagnostic outcomes,
+better and more personalized care for individuals, and to decrease the overall costs and time for the care. An individual only needs
+to record their voice on a handset, iPad, or tablet. The Cognitive Apps assessment is designed to be administered as often as daily,
+in order to provide a more granular picture of changes in mental health over time. As a result, the Cognitive apps assessment can be
+routinely completed to monitor mental health and track variables that might be impacted by treatment. 
+
+Cognitive
+Apps delivers a comprehensive approach to well-being, supporting the whole person. Cognitive apps currently has partnerships with Ehave
+(OTC: EHVVF), Mycotopia (OTC: TWGL), Welmind EMR, Betterhelp, Belshare, and Movefit. 
+
+- 4 - 
+
+Licensing
+Agreements 
+
+On
+January 6, 2021, Cognitive Apps (Licensor) entered into its first License Agreement with Ehave, Inc. (OTCBB: EHVVF), an Ontario corporation.
+The Licensor is contracted to provide access to its software and systems for a fee of 100,000. Payment for the License of 25,000 is
+payable upon signing. The remaining subsequent payments for the first year of the License in the aggregate of 75,000 will be made in
+accordance with an agreed upon schedule. All payment will be in shares of Ehave, Inc. common stock. The shares shall be priced based
+upon the average closing price of the EHVVF common stock as quoted on its principal trading market for the 20 trading days immediately
+prior to the date upon which the payment is due. 
+
+Products 
+
+In
+April 2021, Cognitive Apps launched its Yuru 3-in-1 tool for understanding and managing your mental health. Yuru is an innovative application
+in the field of psychological assistance that has been developed by a team of licensed psychotherapists. Yuru is a personal mental health
+monitor that screens early signs of mental health conditions, such as stress and depression. In just 10 seconds, it makes use of vocal
+biomarkers to recognize your real current emotional state and mood, while tracking your mental health. Yuru also provides you with extensive
+knowledge about human development and the psychology of everyday life. Yuru involves tracking of your emotions and mood, analysis of
+your mental state, and treatment for improving your mental well-being. 
+
+Sales 
+
+The
+initial results on Apple s App Store showed a weekly download conversion rate of 5.6 on more than 189,000 impressions and 19,900
+product page views. App Units were 8,500 with average sales per paying user of 28.10. App Units are the number of first-time paid and
+free app purchases made on the App Store using iOS 8 and tvOS 9 or later. App updates and downloads from the same Apple ID onto other
+devices, and redownloads to the same device are not counted. 
+
+Competition,
+competitive position in the industry and methods of competition 
+
+The
+AI and mental health apps industry is highly competitive. The Company faces intense competition from very large, international corporations,
+as well as from local and national companies. In addition, the Company faces competition from well-known companies that have large market
+share. 
+
+The
+intensity of competition in the future is expected to increase and no assurance can be provided that the Company can sustain its market
+position or expand its business. 
+
+Many
+of the Company s current and potential competitors are well established and have longer operating histories, significantly greater
+financial and operational resources, and name recognition, which the Company does not have. 
+
+Status
+of any publicly announced new product or service 
+
+The
+Aiki mobile app product was launched on the Apple App Store the 1 st week of August 2021. The new AI-based intuitive mental
+health ChatBot was announced in a press release on August 12 th . It was also available to Android users as of September. Aiki
+is an interactive assistant that makes it easy to measure, understand, and improve the mental health of employees. The product aims to
+capitalize on the trend towards artificial intelligence platforms utilized by employers to raise awareness of employees mental
+health. 
+
+Aiki
+uses proprietary voice tone analysis and context analysis, which is processed by Cognitive Apps AI. It is a next generation ChatBot
+for understanding and managing individual mental health that includes: 
+
+Tracking
+ of emotions and mood 
+
+Analysis
+ of mental state 
+
+Treatment
+ for improving mental well-being 
+
+Aiki
+will target corporate users who want to use Cognitive Apps voice biomarkers to target improved employee mental health. According to a
+recent article on BenefitsPro.com i , research by Gallup shows mental health and emotional well-being have plunged to their
+lowest levels since 2001. Another study charted a 50 rise in depression and a 60 drop in focus among all ages in the workplace at the
+start of the year. Mental health at work was called one of the most far-reaching workplace issues of 2019 - well before COVID, which
+creates a tremendous opportunity for Aiki. 
+
+Employees 
+
+As
+of June 30, 2021, the Company had two contracted employees and our subsidiary had 20. 
+
+Patents
+and Trademarks 
+
+The
+Company currently has a United States trademark, Serial Number 86888487, for Life Clips. The Company, pursuant to the Batterfly acquisition,
+now also holds a United States trademark, Serial Number 79172000 for Mobeego, a patent in China, number 201730018307.4, as well as two
+patents in Israel, numbers 002743724-0001 and 002743724-0002. Any encroachment upon the Company s proprietary information, including
+the unauthorized use of its brand name, the use of a similar name by a competing company or a lawsuit initiated either by our Company
+or against our Company for infringement upon proprietary information or improper use of a trademark, may affect our ability to create
+brand name recognition, cause customer confusion and/or have a detrimental effect on its business due to the cost of defending any potential
+litigation related to infringement. Litigation or proceedings before the U.S. or International Patent and Trademark Offices may be necessary
+in the future to enforce our intellectual property rights, to protect our trade secrets and/or to determine the validity and scope of
+the proprietary rights of others. Any such litigation or adverse proceeding could result in substantial costs and diversion of resources
+that could seriously harm our business operations and/or results of operations. 
+
+- 5 - 
+
+Government
+Approval 
+
+The
+battery and global sourcing industries may be regulated at the federal levels, both in terms of health and safety concerns, as well as
+product quality. Operation of the Company s business requires various licenses, permits and approvals. The Company currently holds
+all applicable licenses and permits to operate its business, and will continue to hold all applicable permits and licenses to continue
+operating its business and running its marketplace. In addition, the Company will also ensure compliance with any additional licensing
+requirements that are required on an ongoing basis. 
+
+Government
+and Industry Regulation 
+
+The
+Company will be subject to local and international laws and regulations that relate directly or indirectly to its operations, such as
+the Securities Act of 1933, the Securities and Exchange Act of 1934, and Wyoming Corporation Law. It will also be subject to common business
+and tax rules and regulations pertaining to the operation of its business, such as the United States Internal Revenue Tax Code and the
+Wyoming State Tax Code, as well as international tax codes and shipping tariffs. The Company will also be subject to proprietary regulations
+such as United States Trademark and Patent Law as it applies to the intellectual property of third parties. The Company believes that
+the effects of existing or probable governmental regulations will be additional responsibilities of the management of the Company to
+ensure that the Company is in compliance with securities regulations as they apply to the Company s products as well as ensuring
+that the Company does not infringe on any proprietary rights of others with respect to its products. The Company will also need to maintain
+accurate financial records in order to remain compliant with securities regulations as well as any corporate tax liability it incurs. 
+
+Research
+and Development 
+
+During
+the year ended June 30, 2021, the Company spent 0 on the development of its products. 
+
+Environmental
+Compliance 
+
+We
+believe that we are not subject to any material costs for compliance with any environmental laws. 
+
+How
+to Obtain our SEC Filings 
+
+Our
+Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and any amendments to these reports, are available
+on our website at www.lifeclips.com, as soon as reasonably practicable after we file these reports electronically with, or furnish them
+to, the Securities and Exchange Commission SEC ). Except as otherwise stated in these reports, the information contained
+on our website or available by hyperlink from our website is not incorporated into this Annual Report on Form 10-K or other documents
+we file with, or furnish to, the SEC. 
+
+Our
+investor relations department can be contacted via email at info@lifeclips.com or at our principal executive office located at
+18851 NE 29th Ave., Suite 700 PMB# 348, Aventura, FL 33180. Our telephone number is (800)-292-8991. 
+
+ITEM
+1A. RISK FACTORS. 
+
+Not
+required for a Smaller Reporting Company. 
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS. 
+
+None. 
+
+ITEM
+2. PROPERTIES. 
+
+The
+Company s operations are currently being conducted out of the Company s office located at 18851 NE 29th Ave., Suite 700 PMB#
+348, Aventura, FL 33180. The Company s office space is being rented for a price of 135 per month. 
+
+The
+subsidiary s operations are currently being conducted out of offices located at 263 W, 49 th Avenue, Vancouver, BC, V5Y2Z8,
+Canada. Cognitive Apps does not pay any rent for this space. 
+
+The
+Company considers the current spaces to be adequate and will reassess its needs based upon the future growth of the Company. 
+
+- 6 - 
+
+I TEM
+3. LEGAL PROCEEDINGS. 
+
+On
+January 11, 2017, the Company received a default notice related to a 500,000 promissory note (the Batterfly Acquisition Note issued to the sellers of Batterfly Energy, Ltd. Batterfly as partial consideration for the Company s July 11, 2017
+acquisition of Batterfly. The Batterfly Acquisition Note required the Company to make a payment of 250,000 on October 6, 2017 and 250,000
+on February 13, 2017. The default letter states that the Company failed to pay the 250,000 payment due on October 6, 2017, which began
+to accrue interest of 11 from October 6, 2017. In addition, the default notice states that the Company owes 20,000 in aggregate to
+two of the Batterfly shareholders related to consulting fees associated with the Batterfly acquisition. Finally, the default notice states
+that a payment of 250,000, as well as an additional payment of 20,000 must be paid by January 23, 2017. The Company filed a claim against
+the sellers of Batterfly with the London Court of International Arbitration (LCIA Arbitration No: 173692) and on September 7, 2017 the
+parties entered into a Stipulation for Stay of Arbitration in the matter as they seek to negotiate a settlement of their claim. The claim
+was settled in August 2019 for which the Company agreed to issue 62,991,567 shares of common stock to the sellers of Batterfly. 
+
+All
+shares were issued on June 16, 2021 and as per the agreement, fully releasing the Company of any and all liens, including but not limited
+to, the Batterfly promissory note of 500,000, which was removed from our liabilities. 
+
+Other
+than as set forth above, we are not a party to any material legal proceedings, nor is our property the subject of any material legal
+proceeding. 
+
+ITEM
+4. MINE SAFETY DISCLOSURES. 
+
+Not
+applicable. 
+
+PART
+II 
+
+ITEM
+5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES. 
+
+Market
+Information 
+
+Our
+common stock is quoted on the OTC PINK Tier of the OTC Markets Group, under the symbol LCLP . 
+
+The
+following table sets forth the range of high and low bid prices of our common stock as reported and summarized on the OTC PINK, as applicable,
+for the periods indicated. These prices are based on inter-dealer bid and asked prices, without markup, markdown, commissions, or adjustments
+and may not represent actual transactions. 
+
+Calendar Quarter 
+ High 
+ Low 
+ 
+ Year Ended December 31, 2020 
+
+2020 First Quarter 
+ 0.0002 
+ 0.0001 
+ 
+ 2020 Second Quarter 
+ 0.0003 
+ 0.0003 
+ 
+ 2020 Third Quarter 
+ 0.0004 
+ 0.0004 
+ 
+ 2020 Fourth Quarter 
+ 0.0008 
+ 0.0006 
+
+Year Ended December 31, 2021 
+
+2021 First Quarter 
+ 0.0184 
+ 0.0005 
+ 
+ 2021 Second Quarter 
+ 0.0117 
+ 0.0031 
+
+Holders 
+
+As
+of October 12, 2021, there were 69 record holders of our common stock, and there were 1,617,727,059 shares of our common stock
+outstanding. 
+
+Dividend
+Policy 
+
+We
+have not previously declared or paid any dividends on our common stock and do not anticipate declaring any dividends in the foreseeable
+future. The payment of dividends on our common stock is within the discretion of our board of directors. We intend to retain any earnings
+for use in our operations and the expansion of our business. Payment of dividends in the future will depend on our future earnings, future
+capital needs and our operating and financial condition, among other factors that our board of directors may deem relevant. We are not
+under any contractual restriction as to our present or future ability to pay dividends. 
+
+- 7 - 
+
+ITEM
+6. SELECTED FINANCIAL DATA. 
+
+A
+smaller reporting company is not required to provide the information in this Item. 
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+
+You
+should read the following discussion and analysis of our financial condition and results of operations together with the section entitled
+ Selected Financial Data and our consolidated financial statements and related notes included elsewhere in this Information
+Statement. Some of the information contained in this discussion and analysis or set forth elsewhere in this Information Statement, including
+information with respect to our plans and strategy for our business and related financing, includes forward-looking statements that involve
+risks and uncertainties. See Cautionary Note Regarding Forward-Looking Statements. Our actual results may differ materially
+from those described below. You should read the Risk Factors section of this Information Statement for a discussion of
+important factors that could cause actual results to differ materially from the results described in or implied by the forward-looking
+statements contained in the following discussion and analysis. 
+
+Overview 
+
+Life
+Clips, Inc. (the Company was incorporated in Wyoming on March 20, 2013 as Blue Sky Media Corporation and its principal
+business was developing, financing, producing and distributing motion pictures and related entertainment products. Following the Company s
+October 2, 2015 acquisition of Klear Kapture, Inc. Klear Kapture ), the Company continued Klear Kapture s business
+of developing a body camera and an auditable software solution suitable for use by law enforcement. The Company changed its name to Life
+Clips, Inc. on November 3, 2015 in order to better reflect its business operations at the time. 
+
+- 8 - 
+
+On
+July 11, 2016, the Company completed its acquisition (the Acquisition of all of the outstanding equity securities of Batterfly
+Energy Ltd. Batterfly ), an Israel-based corporation that develops and distributes a single-use, cordless battery under
+the brand name Mobeego for use with cellular phones and other mobile devices. Batterfly is now a wholly owned subsidiary of the Company.
+The Acquisition was completed pursuant to a Stock Purchase Agreement, dated as of June 10, 2016 (the Purchase Agreement ),
+among the Company, Batterfly and all of the shareholders of Batterfly, as amended. The Company has decided to retire its core product,
+Mobeego batteries, and continue pursuing alternative business opportunities that will re-energize the business within the next 12 months. 
+
+On
+April 5, 2021, the Company closed its acquisition of Cognitive Apps Software Solutions Inc. Cognitive Apps , Subsidiary ),
+a developer of artificial intelligence (AI) applications for the healthcare industry and psychedelic research. Cognitive Apps was incorporated
+in British Columbia on November 25, 2020. Its principal business is developing, financing, producing and distributing AI based technological
+solutions to the mental health and healthcare sector. 
+
+Cognitive
+Apps sold all of its issued and outstanding capital stock to LCLP, such that, becoming a 100 wholly-owned subsidiary of LCLP. 
+
+Cognitive
+Apps provides an AI powered mental health analytics platform empowering businesses to measure, understand, and improve the mental well-being
+of their employees, patients or customers. The Cognitive Apps solution is driven to achieve the Three Pillars: improved diagnostic outcomes,
+better and more personalized care for individuals, and to decrease the overall costs and time for the care. An individual only needs
+to record their voice on a handset, iPad, or tablet. The Cognitive Apps assessment is designed to be administered as often as daily,
+in order to provide a more granular picture of changes in mental health over time. As a result, the Cognitive apps assessment can be
+routinely completed to monitor mental health and track variables that might be impacted by treatment. 
+
+Cognitive
+Apps delivers a comprehensive approach to well-being, supporting the whole person. Cognitive apps currently has partnerships with Ehave
+(OTC: EHVVF), Mycotopia (OTC: TWGL), Welmind EMR, Betterhelp, Belshare, and Movefit. 
+
+How
+We Generate Revenue 
+
+Our
+Subsidiary, Cognitive Apps Software Solutions, Inc., generates income through Licensing Agreements. 
+
+On
+January 6, 2021, Cognitive Apps (Licensor) entered into its first License Agreement with Ehave, Inc. (OTCBB: EHVVF), an Ontario corporation.
+The Licensor is contracted to provide access to its software and systems for a fee of 100,000. Payment for the License of 25,000 is
+payable upon signing. The remaining subsequent payments for the first year of the License in the aggregate of 75,000 will be made in
+accordance with an agreed upon schedule. All payment will be in shares of Ehave, Inc. common stock. The shares shall be priced based
+upon the average closing price of the EHVVF common stock as quoted on its principal trading market for the 20 trading days immediately
+prior to the date upon which the payment is due. 
+
+General
+and administrative expenses consisted of professional service fees, and other general and administrative overhead costs. Expenses are
+recognized when incurred. 
+
+Depending
+on the extent of our future growth, we may experience significant strain on our management, personnel, and information systems. We will
+need to implement and improve operational, financial, and management information systems. In addition, we are implementing new information
+systems that will provide better record-keeping, customer service and billing. However, there can be no assurance that our management
+resources or information systems will be sufficient to manage any future growth in our business, and the failure to do so could have
+a material adverse effect on our business, results of operations and financial condition. 
+
+Results
+of Operations 
+
+For
+the Years ended June 30, 2021 and June 30, 2020 
+
+The
+Company has revenue totaling 50,000 and 0 for the years ended June 30, 2021 and June 30, 2020, respectively. This new revenue is being
+generated by our subsidiary, Cognitive Apps. 
+
+Cost
+of goods sold for the years ended June 30, 2021 and June 30, 2020 was 0. 
+
+Operating
+expenses, which consisted of professional fees and general and administrative expenses, for the year ended June 30, 2021, were 599,590.
+This compares with operating expenses for the year ended June 30, 2020, of 326,614. The increase of 272,976 in operating
+expenses for the year ended June 30, 2021 is related to increases in contractual executive salaries and subsidiary payroll expenses. 
+
+Other
+Income/(Expense) increased to 2,929,447) for the year ended June 30, 2021 vs. 10,413,713) for the year ended June 30,
+2020. The increase was directly related to the swings in derivative fair values from (10,018,665) in 2020 to 7,274,230 in 2021. Additionally,
+there was a 10,036,200 loss on impairment of intangibles and a 468,505 gain on Batterfly settlement for the year ended
+June 30, 2021. This was offset by an increase in interest expense of 173,120 when compared to the year ended June 30, 2020. 
+
+- 9 - 
+
+As
+a result of the foregoing, we had a net loss of 3,479,037 for the year ended June 30, 2021. This compares with
+a net loss for the year ended June 30, 2020 of 10,740,327. The difference is primarily due to a 2021 net gain in derivatives of 7,274,230,
+compared to a net loss in derivatives of 10,018,665 for the year ended June 30, 2020. Additionally, there was a 10,036,200 loss on
+impairment of intangibles for the year ended June 30, 2021. 
+
+In
+its audited consolidated financial statements as of June 30, 2021, the Company was issued an opinion by its auditors that raised substantial
+doubt about the ability to continue as a going concern based on the Company s current financial position. Our ability to achieve
+and maintain profitability and positive cash flow is dependent upon our ability to successfully develop and market our products and our
+ability to generate revenues. 
+
+Liquidity
+and Capital Resources 
+
+As
+of June 30, 2021, we had cash and cash equivalents of 230,685. As of June 30, 2020, we had cash and cash equivalents of 12,160. 
+
+Net cash from operating activities was (175,088)
+for the year ended June 30, 2021. This compares to net cash from operating activities of (21,614) for the year ended June 30, 2020.
+The change of 153,474) in our net cash from operating activities for the year ended June 30, 2021 was primarily due to a change
+in net income /(loss) of 7,261,290, plus a change in the fair value of the derivative of 7,274,230, offset by a loss on impairment
+of intangibles of 10,036,200. 
+
+Cash
+flows from investing activities was 0 for the years ended June 30, 2021 and June 30, 2020. 
+
+Cash
+flows from financing activities was 400,000 for the year ended June 30, 2021, which compares to cash flows from financing activities
+of 0 for the year ended June 30, 2020. The increase in our cash flows from financing activities for the year ended June 30, 2021 was
+due to an increase in proceeds from convertible notes payable. 
+
+We
+have no present agreements or commitments with respect to any material acquisitions of other businesses, products, product rights or
+technologies or any other material capital expenditures. However, we will continue to evaluate acquisitions of and/or investments in
+products, technologies, capital equipment or improvements or companies that complement our business and may make such acquisitions and/or
+investments in the future. Accordingly, we may need to obtain additional sources of capital in the future to finance any such acquisitions
+and/or investments. We may not be able to obtain such financing on commercially reasonable terms, if at all. Due to the ongoing global
+economic crisis, we believe it may be difficult to obtain additional financing if needed. Even if we are able to obtain additional financing,
+it may contain undue restrictions on our operations, in the case of debt financing, or cause substantial dilution for our stockholders,
+in the case of equity financing. 
+
+Stock
+Incentive Plan 
+
+On
+April 20, 2017, the Company approved the Life Clips, Inc. 2017 Stock and Incentive Plan the Plan ). The Plan provides for
+the granting of nonqualified stock options, incentive stock options, stock appreciation rights, restricted stock grants and units, performance
+units and awards. The Plan allows for an issuance of a maximum of 20,000,000 shares of common stock, with awards made at the discretion
+of the board of directors. No awards have been made to date. 
+
+Contractual
+Commitments 
+
+For
+the year ending June 30, 2021, the Company held two executive employment agreements with key officers as described in detail in Item
+11. 
+
+- 10 - 
+
+Material
+Agreements 
+
+None 
+
+Financings 
+
+The
+following summary table is a listing of all outstanding convertible debt as of June 30, 2021. For additional information, please refer
+to Note 7 in Notes to Consolidated Financial Statements. 
+
+Issue Date 
+ Maturity Date 
+ Original 
+ Interest Rate 
+ Current Interest Rate (default) 
+ June 30, 2021 
+ June 30, 2020 
+ 
+ 10/02/2015 
+ 10/02/2017 
+ 3.85 
+ 18.00 
+ - 
+ 170,416 
+ 
+ 12/07/2015 
+ 12/06/2016 
+ 10.00 
+ 22.00 
+ 91,051 
+ 91,051 
+ 
+ 04/27/2016 
+ 04/27/2017 
+ 10.00 
+ 18.00 
+ 300,000 
+ 300,000 
+ 
+ 05/13/2016 
+ 05/13/2017 
+ 10.00 
+ 22.00 
+ - 
+ 1,075,305 
+ 
+ 06/09/2016 
+ 06/09/2017 
+ 10.00 
+ 18.00 
+ - 
+ 32,154 
+ 
+ 07/21/2016 
+ 07/21/2017 
+ 10.00 
+ 10.00 
+ - 
+ 75,000 
+ 
+ 01/27/2017 
+ 01/27/2018 
+ 10.00 
+ 22.00 
+ - 
+ 5,000 
+ 
+ 01/27/2017 
+ 01/27/2018 
+ 10.00 
+ 22.00 
+ - 
+ 5,000 
+ 
+ 02/02/2017 
+ 02/02/2018 
+ 10.00 
+ 22.00 
+ - 
+ 5,000 
+ 
+ 02/10/2017 
+ 02/10/2018 
+ 10.00 
+ 22.00 
+ - 
+ 11,666 
+ 
+ 02/10/2017 
+ 02/10/2018 
+ 10.00 
+ 18.00 
+ - 
+ 11,668 
+ 
+ 02/14/2017 
+ 02/14/2018 
+ 10.00 
+ 22.00 
+ - 
+ 11,700 
+ 
+ 02/17/2017 
+ 02/17/2018 
+ 10.00 
+ 22.00 
+ - 
+ 50,000 
+ 
+ 02/23/2017 
+ 02/23/2018 
+ 10.00 
+ 22.00 
+ 50,000 
+ 50,000 
+ 
+ 03/14/2017 
+ 03/14/2018 
+ 10.00 
+ 22.00 
+ - 
+ 50,000 
+ 
+ 03/15/2017 
+ 03/15/2018 
+ 10.00 
+ 22.00 
+ - 
+ 50,000 
+ 
+ 03/17/2017 
+ 03/17/2018 
+ 10.00 
+ 22.00 
+ 50,000 
+ 50,000 
+ 
+ 03/28/2017 
+ 03/28/2018 
+ 10.00 
+ 22.00 
+ 50,000 
+ 50,000 
+ 
+ 04/03/2017 
+ 04/03/2018 
+ 10.00 
+ 22.00 
+ - 
+ 50,000 
+ 
+ 05/01/2017 
+ 05/01/2018 
+ 10.00 
+ 22.00 
+ - 
+ 50,000 
+ 
+ 06/01/2017 
+ 06/01/2018 
+ 10.00 
+ 22.00 
+ - 
+ 50,000 
+ 
+ 09/19/2017 
+ 08/30/2018 
+ 18.00 
+ 18.00 
+ - 
+ 30,000 
+ 
+ 11/16/2017 
+ 11/16/2018 
+ 18.00 
+ 18.00 
+ - 
+ 15,000 
+ 
+ 01/19/2018 
+ 01/19/2019 
+ 18.00 
+ 18.00 
+ - 
+ 10,000 
+ 
+ 03/22/2018 
+ 03/22/2019 
+ 18.00 
+ 18.00 
+ - 
+ 15,000 
+ 
+ 03/23/2018 
+ 03/23/2019 
+ 18.00 
+ 18.00 
+ - 
+ 10,000 
+ 
+ 04/18/2018 
+ 04/18/2019 
+ 18.00 
+ 18.00 
+ - 
+ 20,000 
+ 
+ 05/01/2018 
+ 05/01/2019 
+ 18.00 
+ 18.00 
+ - 
+ 10,000 
+ 
+ 07/31/2018 
+ 07/31/2019 
+ 18.00 
+ 18.00 
+ - 
+ 10,000 
+ 
+ 08/08/2018 
+ 08/08/2019 
+ 18.00 
+ 18.00 
+ - 
+ 5,000 
+ 
+ 09/24/2018 
+ 09/24/2019 
+ 18.00 
+ 18.00 
+ - 
+ 5,000 
+ 
+ 09/26/2018 
+ 09/26/2019 
+ 18.00 
+ 18.00 
+ - 
+ 5,000 
+ 
+ 11/15/2018 
+ 11/15/2019 
+ 18.00 
+ 18.00 
+ - 
+ 50,000 
+ 
+ 06/15/2021 
+ 06/15/2023 
+ 8.00 
+ 8.00 
+ 3,288,241 
+ - 
+ 
+ 04/22/2021 
+ 04/22/2023 
+ 10.00 
+ 10.00 
+ 275,000 
+ - 
+ 
+ 06/29/2021 
+ 12/23/2022 
+ 4.00 
+ 4.00 
+ 100,000 
+ - 
+ 
+ Total Convertible Notes 
+
+4,204,292 
+ 2,428,960 
+
+Capital
+Expenditures 
+
+Other
+Capital Expenditures 
+
+We
+expect to incur research and development costs, as well as marketing expenses in connection with the expansion of our business. 
+
+Fiscal
+year end 
+
+Our
+fiscal year end is June 30. 
+
+- 11 - 
+
+Going
+Concern 
+
+We
+believe that the actions presently being taken to further implement the Company s business plan and generate revenues provide the
+opportunity for us to continue as a going concern. While we believe in the viability of our strategy to generate revenues and in its
+ability to raise additional funds, there can be no assurances to that effect. Our ability to continue as a going concern is dependent
+upon our ability to further implement our business plan and generate revenues. 
+
+The
+consolidated financial statements do not include any adjustments that might be necessary if we are unable to continue as a going concern. 
+
+Future
+Financings 
+
+We
+will require additional financing to fund our planned operations. We currently do not have committed sources of additional financing
+and may not be able to obtain additional financing particularly, if the volatile conditions of the stock and financial markets, and more
+particularly the market for early development stage company stocks persist. There can be no assurance that additional financing will
+be available to us when needed or, if available, that it can be obtained on commercially reasonable terms. If we are not able to obtain
+the additional financing on a timely basis, if and when it is needed, we will be forced to further delay or further scale down some or
+all of our activities or perhaps even cease the operations of the business. 
+
+Since
+inception we have funded our operations primarily through equity and debt financings and we expect that we will continue to fund our
+operations through equity and debt financing, either alone or through strategic alliances. If we are able to raise additional financing
+by issuing equity securities, our existing stockholders ownership will be diluted. Obtaining commercial or other loans, assuming
+those loans would be available, will increase our liabilities and future cash commitments. 
+
+There
+is no assurance that we will be able to maintain operations at a level sufficient for an investor to obtain a return on his, her, or
+its investment in our common stock. Further, we may continue to be unprofitable. 
+
+Critical
+Accounting Policies 
+
+The
+SEC has defined a company s critical accounting policies as the ones that are most important to the portrayal of our financial
+condition and results of operations and which require us to make its most difficult and subjective judgments, often as a result of the
+need to make estimates of matters that are inherently uncertain. Based on this definition, we have identified the critical accounting
+policies and judgments addressed below. We also have other key accounting policies that are significant to understanding our results. 
+
+The
+following are deemed to be the most significant accounting policies affecting us. 
+
+Use
+of Estimates 
+
+The
+preparation of these consolidated financial statements in accordance with accounting principles generally accepted in the United States
+of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures
+of contingent assets and liabilities at the dates of the consolidated financial statements and the reported amounts of net sales and
+expenses during the reported periods. Actual results may differ from those estimates and such differences may be material to the consolidated
+financial statements. The more significant estimates and assumptions by management include among others: derivatives, estimated useful
+lives of property and equipment, foreign currency transactions and translations, and common stock valuation. The current economic environment
+has increased the degree of uncertainty inherent in these estimates and assumptions. 
+
+Income
+Taxes 
+
+We
+account for income taxes under an asset and liability approach. This process involves calculating the temporary and permanent differences
+between the carrying amounts of the assets and liabilities for financial reporting purposes and the amounts used for income tax purposes.
+The temporary differences result in deferred tax assets and liabilities, which would be recorded on our consolidated balance sheets in
+accordance with ASC 740, which established financial accounting and reporting standards for the effect of income taxes. We must assess
+the likelihood that its deferred tax assets will be recovered from future taxable income and, to the extent we believe that recovery
+is not likely, we must establish a valuation allowance. Changes in our valuation allowance in a period are recorded through the income
+tax provision on the consolidated statements of operations. 
+
+- 12 - 
+
+From
+the date of our inception we adopted ASC 740-10-30. ASC 740-10 clarifies the accounting for uncertainty in income taxes recognized in
+an entity s consolidated financial statements and prescribes a recognition threshold and measurement attributes for consolidated
+financial statement disclosure of tax positions taken or expected to be taken on a tax return. Under ASC 740-10, the impact of an uncertain
+income tax position on the income tax return must be recognized at the largest amount that is more-likely-than-not to be sustained upon
+audit by the relevant taxing authority. An uncertain income tax position will not be recognized if it has less than a 50 likelihood
+of being sustained. Additionally, ASC 740-10 provides guidance on derecognition, classification, interest and penalties, accounting in
+interim periods, disclosure and transition. As a result of the implementation of ASC 740-10, we recognized no material adjustment in
+the liability for unrecognized income tax benefits. 
+
+Non-Cash
+Equity Transactions 
+
+Shares
+of equity instruments issued for non-cash consideration are recorded at the fair value of the consideration received based on the market
+value of services to be rendered, or at the value of the stock given, considered in reference to contemporaneous cash sale of stock. 
+
+Fair
+Value of Financial Instruments 
+
+We
+apply the provisions of accounting guidance, FASB Topic ASC 825, that requires all entities to disclose the fair value of financial instruments,
+both assets and liabilities recognized and not recognized on the consolidated balance sheet, for which it is practicable to estimate
+fair value, and defines fair value of a financial instrument as the amount at which the instrument could be exchanged in a current transaction
+between willing parties. As of June 30, 2021 and 2020, the fair value of accounts payable approximated the carrying value due to the
+short maturity of the instruments, quoted market prices or interest rates which fluctuate with market rates. 
+
+Recent
+Accounting Pronouncements 
+
+There
+were no Recently Adopted Standards. 
+
+- 13 - 
+
+In
+June 2016, the FASB issued ASU 2016-13, Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial
+Instruments. ASU 2016-13 amends the guidance on the impairment of financial instruments. This update adds an impairment model (known
+as the current expected credit losses model) that is based on expected losses rather than incurred losses. Under the new guidance, an
+entity recognizes, as an allowance, its estimate of expected credit losses. In November 2018, ASU 2016-13 was amended by ASU 2018-19,
+ Codification Improvements to Topic 326, Financial Instruments Credit Losses. ASU 2018-19 changes the effective date of
+the credit loss standards (ASU 2016-13) to fiscal years beginning after December 15, 2021, including interim periods within those fiscal
+years. Further, the ASU clarifies that operating lease receivables are not within the scope of ASC 326-20 and should instead be accounted
+for under the new leasing standard, ASC 842. The Company does not believe that the impact of this ASU will have a material impact on
+its consolidated financial statements and related disclosures. 
+
+In
+January 2017, the FASB issued ASU No. 2017-04, Intangibles - Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment.
+ The amendments in this ASU simplify the subsequent measurement of goodwill by eliminating Step 2 from the goodwill impairment test
+and eliminating the requirement for a reporting unit with a zero or negative carrying amount to perform a qualitative assessment. Instead,
+under this ASU, an entity would perform its annual, or interim, goodwill impairment test by comparing the fair value of a reporting unit
+with its carrying amount and would recognize an impairment charge for the amount by which the carrying amount exceeds the reporting unit s
+fair value; however, the loss recognized is not to exceed the total amount of goodwill allocated to that reporting unit. In addition,
+income tax effects will be considered, if applicable. This ASU is effective for fiscal years, and interim periods within those fiscal
+years, beginning after December 15, 2019. The Company adopted this ASU on July 1, 2020 and it had no material impact on its consolidated
+financial statements and related disclosures. 
+
+Off-Balance
+Sheet Arrangements 
+
+Under
+SEC regulations, we are required to disclose our off-balance sheet arrangements that have or are reasonably likely to have a current
+or future effect on our financial condition, such as changes in financial condition, revenues or expenses, results of operations, liquidity,
+capital expenditures or capital resources that are material to investors. As of June 30, 2021, we have no off-balance sheet arrangements. 
+
+Inflation 
+
+We
+do not believe that inflation has had a material effect on our results of operations. 
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+A
+smaller reporting company is not required to provide the information in this Item. 
+
+ITEM
+8. CONSOLIDATED FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+
+- 14 - 
+
+Life
+Clips, Inc. 
+
+Index
+to Consolidated Financial Statements 
+
+CONTENTS 
+
+Page 
+
+Report of Independent Registered Public Accounting Firm 
+ F-2 
+
+Consolidated Balance Sheets as of June 30, 2021 and 2020 
+ F-4 
+
+Consolidated Statements of Operations And Comprehensive Income/(Loss) for the years ended June 30, 2021 and 2020 
+ F-5 
+
+Consolidated Statements of Changes in Shareholders Deficit for the years ended June 30, 2021 and 2020 
+ F-6 
+
+Consolidated Statements of Cash Flows for the years ended June 30, 2021 and 2020 
+ F-7 
+
+Notes to Consolidated Financial Statements 
+ F-8 
+
+F- 1 
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To
+the Board of Directors and 
+
+ Stockholders
+of Life Clips, Inc. 
+
+Opinion
+on the Financial Statements 
+
+We
+have audited the accompanying consolidated balance sheets of Life Clips, Inc. (the Company) as of June 30, 2021 and 2020, and the related
+consolidated statements of operations and comprehensive loss, changes in shareholders deficit, and cash flows for the years then
+ended, and the related notes and schedules (collectively referred to as the financial statements). In our opinion, the financial statements
+present fairly, in all material respects, the financial position of the Company as of June 30, 2021 and 2020, and the results of its
+operations and its cash flows for the years then ended, in conformity with accounting principles generally accepted in the United States
+of America. 
+
+Basis
+for Opinion 
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s
+financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board
+(United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities
+laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We
+conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company
+is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits,
+we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion
+on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our
+audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error
+or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding
+the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant
+estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits
+provide a reasonable basis for our opinion. 
+
+Critical
+Audit Matters 
+
+The
+critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated
+or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial
+statements and (2) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters
+does not alter in any way our opinion on the financial statements, taken as a whole, and we are not, by communicating the critical audit
+matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
+
+Derivatives 
+
+As
+described in Note 2 to the Company s consolidated financial statements, the Company evaluates all of its financial instruments
+to determine if such instruments are derivative instruments or contain features that qualify as embedded derivatives. For derivative
+financial instruments that are accounted for as liabilities, the derivative instrument is initially recorded at its fair value and then
+re-valued at each reporting date, with changes in the fair value reported as charges or credits to income. 
+
+We
+identified the Company s application of the accounting for convertible notes as a critical audit matter. The principal considerations
+for our determination of this critical audit matter related to the high degree of subjectivity in the Company s judgments in determining
+the qualitative factors. Auditing these judgments and assumptions by the Company involves auditor judgment due to the nature and extent
+of audit evidence and effort required to address these matters. 
+
+F- 2 
+
+The
+primary procedures we performed to address this critical audit matters included the following: 
+
+We obtained debt related agreements and performed the following procedures: 
+
+- 
+ Reviewed
+ agreements for all relevant terms. 
+
+- 
+ Tested
+ management s identification and treatment of agreement terms. 
+
+- 
+ Recalculated
+ management s fair value of each conversion feature based on the terms in the agreements. 
+
+- 
+ Assessed
+ the terms and evaluated the appropriateness of management s application of their accounting policies, along with their use
+ of estimates, in the determination of the amortization of the debt discount. 
+
+- 
+ Reviewed
+ the work of the Company s specialist to calculate the fair value of the derivative liability using the Monte Carlo method to
+ determine whether the derivative liability recorded by the Company was reasonable. 
+
+Acquisition
+of Subsidiary 
+
+As
+described in Note 4 to the Company s consolidated financial statements, the Company acquired Cognitive Apps Software Solutions,
+Inc. during the year. The Company accounted for the acquisition in accordance with ASC 805, Business Combinations . 
+
+We
+identified the Company s accounting for the acquisition as a critical audit matter. The principal considerations for our determination
+of this critical audit matter related to the high degree of subjectivity in the Company s judgments in determining the qualitative
+factors. Auditing these judgments and assumptions by the Company involves auditor judgment due to the nature and extent of audit evidence
+and effort required to address these matters. 
+
+The
+primary procedures we performed to address these critical audit matters included the following: 
+
+We obtained the acquisition agreements and performed the following procedures: 
+
+- 
+ Reviewed
+ agreements for all relevant terms, consideration and other relevant information. 
+
+- 
+ Tested
+ supporting documentation related to the acquired company in determining the identifiable assets and liabilities. 
+
+- 
+ Reviewed
+ the guidance related to ASC 805 to determine the acquisitions were appropriately accounted for by the Company. 
+
+Substantial
+Doubt about the Company s Ability to Continue as a Going Concern 
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note
+3, the Company has incurred net accumulated losses and has minimal revenues. These factors, and the need for additional financing in
+order for the Company to meet its business plans raises substantial doubt about the Company s ability to continue as a going concern.
+Our opinion is not modified with respect to that matter. 
+
+/s/
+ Accell Audit Compliance, P.A. 
+
+We
+ have served as the Company s auditor since 2019. 
+
+Tampa,
+ Florida 
+
+October
+ 13, 2021 
+
+F- 3 
+
+LIFE
+CLIPS, INC. 
+
+ CONSOLIDATED
+BALANCE SHEETS 
+
+June 30, 2021 
+ June 30, 2020 
+
+ASSETS 
+
+Current assets 
+
+Cash 
+ 230,685 
+ 12,160 
+ 
+ Due from Related Party 
+ 34,271 
+ - 
+ 
+ Total Current Assets 
+ 264,956 
+ 12,160 
+
+Investments - Ehave Inc 
+ 38,422 
+ - 
+
+Total Assets 
+ 303,378 
+ 12,160 
+
+LIABILITIES AND SHAREHOLDERS DEFICIT 
+
+Liabilities 
+
+Current liabilities 
+
+Accounts Payable 
+ 399,670 
+ 357,388 
+ 
+ Accrued Expenses and Interest Payable 
+ 521,521 
+ 1,379,655 
+ 
+ Due to Related Party 
+ 1,155,550 
+ 763,050 
+ 
+ Deferred Revenue 
+ 50,000 
+ - 
+ 
+ Convertible Note Payable, less discount of 80,369 at June 30, 2021 
+ 3,582,872 
+ - 
+ 
+ Convertible Note Payable - In Default 
+ 541,051 
+ 2,428,960 
+ 
+ Notes Payable - In Default 
+ - 
+ 530,000 
+ 
+ Derivative Liability - Convertible Notes Payable 
+ 1,577,001 
+ 13,249,507 
+ 
+ Total Liabilities 
+ 7,827,665 
+ 18,708,560 
+
+Commitments and Contingencies (Note 11) 
+
+Shareholders deficit 
+
+Preferred Stock - Series A 0.001 par value; 5,000,000 shares authorized, 4,000,000 and 1,000,000 shares issued and outstanding, respectively) 
+ 4,000 
+ 1,000 
+ 
+ Preferred Stock - Series B 0.001 par value; 5,760,000 shares authorized, 5,760,000 and 0 shares issued and outstanding, respectively) 
+ 5,760 
+ - 
+ 
+ Common Stock, 0.001 par value; 5,000,000,000 shares authorized, 1,322,822,904 and 1,259,831,337 shares issued and outstanding, respectively) 
+ 1,322,823 
+ 1,259,831 
+ 
+ Common stock to be issued 
+ 125,032 
+ 125,032 
+ 
+ Additional paid in capital 
+ 23,866,298 
+ 9,218,935 
+ 
+ Accumulated other comprehensive loss 
+ (67,965 
+ - 
+ 
+ Accumulated deficit 
+ (32,780,235 
+ (29,301,198 
+ 
+ Total shareholders deficit 
+ (7,524,287 
+ (18,696,400 
+
+Total liabilities and shareholders deficit 
+ 303,378 
+ 12,160 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 4 
+
+LIFE
+CLIPS, INC. 
+
+ CONSOLIDATED
+STATEMENTS OF OPERATIONS AND COMREHENSIVE INCOME/(LOSS) 
+
+ For
+the Years Ended 
+
+June 30, 2021 
+ June 30, 2020 
+
+Revenues 
+
+License Income 
+ 50,000 
+ - 
+ 
+ Cost of Goods Sold 
+ - 
+ - 
+ 
+ Gross Profit 
+ 50,000 
+ - 
+
+Operating Costs 
+
+Professional Fees 
+ 527,604 
+ 317,790 
+ 
+ Payroll Expense 
+ 68,588 
+ - 
+ 
+ General and Administrative Expenses 
+ 3,398 
+ 8,824 
+ 
+ Total Operating Costs 
+ 599,590 
+ 326,614 
+
+Loss from Operations 
+ (549,590 
+ (326,614 
+
+Other Income/(Expense) 
+
+Gain on Batterfly Settlement 
+ 468,505 
+ - 
+ 
+ Loss on Extinguishment of Debt 
+ (67,814 
+ - 
+ 
+ Loss on Impairment of Intangibles 
+ (10,036,200 
+ - 
+ 
+ Interest Expense 
+ (568,168 
+ (395,048 
+ 
+ Change in Fair Value of Derivative 
+ 7,274,230 
+ (10,018,665 
+ 
+ Total Other Income (Expense) 
+ (2,929,447 
+ (10,413,713 
+ 
+ Income/(Loss) Before Income Taxes 
+ (3,479,037 
+ (10,740,327 
+ 
+ Provision for Income Taxes 
+ - 
+ - 
+ 
+ Net Income/(Loss) 
+ (3,479,037 
+ (10,740,327 
+
+Other Comprehensive Income/(Loss): 
+
+Foreign Currency Translation Adjustment 
+ (6,387 
+ - 
+ 
+ Change in Fair Value of Investment 
+ (61,578 
+ - 
+ 
+ Comprehensive Income/(Loss 
+ (3,547,002 
+ (10,740,327 
+
+Earnings/(Loss) Per Share: Basic and Diluted 
+ (0.00 
+ (0.01 
+ 
+ Weighted Average Number of Common Shares Outstanding: 
+ Basic and Diluted 
+ 1,262,254,090 
+ 1,259,831,337 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 5 
+
+LIFE
+CLIPS, INC. 
+
+ CONSOLIDATED
+STATEMENTS OF CHANGES IN SHAREHOLDERS DEFICIT 
+
+Common
+ Stock 
+ Additional 
+ Accumulated
+ Other 
+ 
+ Total 
+
+Preferred
+ - Series A 
+ Preferred
+ - Series B 
+ Common
+ Stock 
+ To
+ Be 
+ Paid-In 
+ Comprehensive 
+ Accumulated 
+ Shareholders 
+
+Shares 
+ Amount 
+ Shares 
+ Amount 
+ Shares 
+ Amount 
+ Issued 
+ Capital 
+ Loss 
+ Deficit 
+ Deficit 
+ 
+ Balances
+ as of June 30, 2019 
+ 1,000,000 
+ 1,000 
+ - 
+ - 
+ 1,259,831,337 
+ 1,259,831 
+ 125,032 
+ 9,218,935 
+ - 
+ (18,560,871 
+ (7,956,073 
+ 
+ Net
+ Loss 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (10,740,327 
+ (10,740,327 
+ 
+ Balances
+ as of June 30, 2020 
+ 1,000,000 
+ 1,000 
+ - 
+ - 
+ 1,259,831,337 
+ 1,259,831 
+ 125,032 
+ 9,218,935 
+ - 
+ (29,301,198 
+ (18,696,400 
+ 
+ Series
+ A Preferred Shares 
+ 3,000,000 
+ 3,000 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (3,000 
+ - 
+ - 
+ - 
+ 
+ Cognitive
+ Apps Acquisition Shares 
+ - 
+ - 
+ 5,760,000 
+ 5,760 
+ - 
+ - 
+ - 
+ 10,010,329 
+ - 
+ - 
+ 10,016,089 
+ 
+ Mobeego
+ Settlement Shares Issued 
+ - 
+ - 
+ - 
+ - 
+ 62,991,567 
+ 62,992 
+ - 
+ (31,497 
+ - 
+ - 
+ 31,495 
+ 
+ Cognitive
+ Apps Acquisition Warrants 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 20,111 
+ - 
+ - 
+ 20,111 
+ 
+ Derivatives
+ Debt Extinguishment 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 4,546,090 
+ - 
+ - 
+ 4,546,090 
+ 
+ Warrants
+ issued with Convertible Notes Payable 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 105,330 
+ - 
+ - 
+ 105,330 
+ 
+ Foreign
+ Currency Translation Adjustment 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (6,387 
+ - 
+ (6,387 
+ 
+ Change
+ in Value of Investment 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (61,578 
+ - 
+ (61,578 
+ 
+ Net
+ Income 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ (3,479,037) 
+ (3,479,037 
+ 
+ Balances
+ as of June 30, 2021 
+ 4,000,000 
+ 4,000 
+ 5,760,000 
+ 5,760 
+ 1,322,822,904 
+ 1,322,823 
+ 125,032 
+ 23,866,298 
+ (67,965 
+ (32,780,235 
+ (7,524,287) 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 6 
+
+LIFE
+CLIPS, INC. 
+
+ CONSOLIDATED
+STATEMENTS OF CASH FLOWS) 
+
+ For
+the Years Ended 
+
+June 30, 2021 
+ June 30, 2020 
+ 
+ Cash Flows From Operating Activities: 
+
+Net Income/(Loss) 
+ (3,479,037 
+ (10,740,327 
+
+Adjustments to Reconcile Net Income/(Loss) to Net Cash From Operating Activities: 
+
+Changes in Fair Value of Derivative Liabilities 
+ (7,274,230 
+ 10,018,665 
+ 
+ Amortization of Debt Discount 
+ 99,960 
+ 22,890 
+ 
+ Loss on Extinguishment of Debt 
+ 67,814 
+ - 
+ 
+ Gain on Batterfly Settlement 
+ (468,505 
+ - 
+ 
+ Loss on Impairment of Intangibles 
+ 10,036,200 
+ - 
+
+Changes in Assets and Liabilities: 
+
+Accounts Receivable 
+ (100,000 
+ - 
+ 
+ Accounts Payable 
+ 42,282 
+ 5,001 
+ 
+ Accrued Expenses and Interest Payable 
+ 492,199 
+ 372,157 
+ 
+ Deferred Revenue 
+ 50,000 
+ - 
+ 
+ Due to Related Party 
+ 392,500 
+ 300,000 
+ 
+ Due from Related Parties 
+ (34,271 
+ - 
+ 
+ Net Cash From Operating Activities 
+ (175,088 
+ (21,614 
+
+Cash Flows From Financing Activities: 
+
+Proceeds From Convertible Notes Payables 
+ 400,000 
+ - 
+ 
+ Proceeds From Notes Payable 
+ 35,000 
+ - 
+ 
+ Payments on Notes Payable 
+ (35,000 
+ - 
+ 
+ Net Cash From Financing Activities 
+ 400,000 
+ - 
+
+Effect of Exchange Rate on Cash 
+ (6,387 
+ - 
+ 
+ Net Change in Cash 
+ 218,525 
+ (21,614 
+
+Cash at Beginning of Period 
+ 12,160 
+ 33,774 
+
+Cash at End of Period 
+ 230,685 
+ 12,160 
+
+Supplemental Disclosures of Cash Flow Information: 
+
+Cash Paid for: 
+
+Interest 
+ - 
+ - 
+ 
+ Income Taxes 
+ - 
+ - 
+
+Non-cash Investing and Financing Activities 
+
+Accounts Receivable Settled in Investments 
+ 100,000 
+ - 
+ 
+ Accrued Interest Converted to Convertible Notes Payable 
+ 1,350,333 
+ - 
+
+The
+accompanying notes are an integral part of these consolidated financial statements. 
+
+F- 7 
+
+Life
+Clips, Inc. 
+
+ Notes
+to Consolidated Financial Statements 
+
+ June
+30, 2021 and 2020 
+
+NOTE
+1. ORGANIZATION AND OPERATIONS 
+
+Life
+Clips, Inc. (the Company was incorporated in Wyoming on March 20, 2013 as Blue Sky Media Corporation and its principal
+business was developing, financing, producing and distributing motion pictures and related entertainment products. Following the Company s
+October 2, 2015 acquisition of Klear Kapture, Inc. Klear Kapture ), the Company continued Klear Kapture s business
+of developing a body camera and an auditable software solution suitable for use by law enforcement. The Company changed its name to Life
+Clips, Inc. on November 3, 2015 in order to better reflect its business operations at the time. 
+
+On
+July 11, 2016, the Company completed its acquisition (the Acquisition of all of the outstanding equity securities of Batterfly
+Energy Ltd. Batterfly ), an Israel-based corporation that develops and distributes a single-use, cordless battery under
+the brand name Mobeego for use with cellular phones and other mobile devices. Batterfly is now a wholly owned subsidiary of the Company.
+The Acquisition was completed pursuant to a Stock Purchase Agreement, dated as of June 10, 2016 (the Purchase Agreement ),
+among the Company, Batterfly and all of the shareholders of Batterfly, as amended. The Company has decided to retire its core product,
+Mobeego batteries, and continue pursuing alternative business opportunities that will re-energize the business within the next 12 months. 
+
+On
+April 5, 2021, the Company closed its acquisition of Cognitive Apps Software Solutions, Inc. Cognitive Apps , Subsidiary ),
+a developer of artificial intelligence (AI) applications for the healthcare industry and psychedelic research. Cognitive Apps was incorporated
+in British Columbia on November 25, 2020. Its principal business is developing, financing, producing and distributing AI based technological
+solutions to the mental health and healthcare sector. 
+
+Cognitive
+Apps sold all of its issued and outstanding capital stock to LCLP, such that, becoming a 100 wholly-owned subsidiary of LCLP. 
+
+NOTE
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis
+of Presentation and Consolidation The consolidated financial statements of the Company have been prepared in accordance with
+accounting principles generally accepted in the United States of America GAAP ). The Company consolidates the financial
+statements of its wholly-owned subsidiary and all intercompany transactions and account balances have been eliminated in consolidation. 
+
+Use
+of Estimates The preparation of consolidated financial statements in conformity with GAAP requires management to make estimates
+and assumptions that affect the reported amounts of assets, liabilities and disclosure of contingent assets and liabilities at the date
+of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results
+could differ from these estimates. 
+
+Cash
+and Cash Equivalents For financial statement presentation purposes, the Company considers all short-term investments with
+a maturity date of three months or less to be cash equivalents. 
+
+Investments The Company s
+investments in marketable securities are measured at fair value with unrealized gains and losses recognized in other comprehensive income/(loss).
+The Company received a total of 960,559 shares of Ehave, Inc. s common stock as payment for a licensing agreement. These shares
+had a total value of 100,000 upon issuance. Subsequent to issuance, the stock price of the shares decreased and an unrealized loss on
+the investment of 61,578 was recognized, decreasing the asset value to 38,422 at June 30, 2021. 
+
+Income
+Tax The Company accounts for income taxes under Accounting Standards Certifications ASC 740 Income
+Taxes ASC 740 ). Deferred tax assets and liabilities are recognized for the future tax consequences attributable
+to differences between the consolidated financial statement carrying amounts of existing assets and liabilities and their respective
+tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years
+in which those temporary differences are expected to be recovered or settled. Under ASC 740, the effect on deferred tax assets and liabilities
+of a change in tax rates is recognized in income in the period the enactment occurs. A valuation allowance is provided for certain deferred
+tax assets if it is more likely than not that the Company will not realize tax assets through future operations. 
+
+Basic
+and Diluted Net Income (Loss) Per Share The Company computes net income (loss) per share in accordance with ASC 260 Earnings
+Per Share ASC 260 ). ASC 260 requires presentation of both basic and diluted earnings per share EPS 
+on the face of the consolidated statements of operations. Basic EPS is computed by dividing net income (loss) available to common shareholders
+(numerator) by the weighted average number of shares of common stock outstanding during the period. If applicable, diluted earnings per
+share assume the conversion, exercise or issuance of all common stock instruments such as options, warrants and convertible securities,
+unless the effect is to reduce a loss or increase earnings per share. Diluted EPS excludes all dilutive potential shares if their effect
+is anti-dilutive. 
+
+Fair
+Value of Financial Instruments The Company measures assets and liabilities at fair value based on an expected exit price
+as defined by the authoritative guidance on fair value measurements, which represents the amount that would be received on the sale of
+an asset or paid to transfer a liability, as the case may be, in an orderly transaction between market participants. As such, fair value
+may be based on assumptions that market participants would use in pricing an asset or liability. The authoritative guidance on fair value
+measurements establishes a consistent framework for measuring fair value on either a recurring or nonrecurring basis whereby inputs,
+used in valuation techniques, are assigned a hierarchical level. 
+
+The
+following are the hierarchical levels of inputs to measure fair value: 
+
+Level
+ 1 Observable inputs that reflect quoted market prices in active markets for identical assets or liabilities. 
+
+Level
+ 2 Inputs reflect quoted prices for identical assets or liabilities in markets that are not active; quoted prices for similar
+ assets or liabilities in active markets; inputs other than quoted prices that are observable for the assets or liabilities; or inputs
+ that are derived principally from or corroborated by observable market data by correlation or other means. 
+
+Level
+ 3 Unobservable inputs reflecting the Company s assumptions incorporated in valuation techniques used to determine fair
+ value. These assumptions are required to be consistent with market participant assumptions that are reasonably available. 
+
+F- 8 
+
+The
+carrying amounts of the Company s financial assets and liabilities, such as cash, accounts payable, accrued expenses and interest,
+certain notes payable and notes payable due to related parties, approximate their fair values because of the short maturity of
+these instruments. 
+
+The
+Company accounts for its derivative liabilities, at fair value, on a recurring basis under Level 3 (See Note 7). The Company accounts
+for its investments, at fair value, on a recurring basis under Level 1 (See Note 5) 
+
+Embedded
+Conversion Features The Company evaluates embedded conversion features within convertible debt under ASC 815 Derivatives
+and Hedging to determine whether the embedded conversion feature(s) should be bifurcated from the host instrument and accounted
+for as a derivative at fair value with changes in fair value recorded in earnings. If the conversion feature does not require derivative
+treatment under ASC 815, the instrument is evaluated under ASC 470-20 Debt with Conversion and Other Options for
+consideration of any beneficial conversion feature. 
+
+Derivative
+Financial Instruments The Company does not use derivative instruments to hedge exposures to cash flow, market, or foreign
+currency risks. The Company evaluates all of its financial instruments, including stock purchase warrants, to determine if such instruments
+are derivatives or contain features that qualify as embedded derivatives. For derivative financial instruments that are accounted for
+as liabilities, the derivative instrument is initially recorded at its fair value and is then re-valued at each reporting date, with
+changes in the fair value reported as charges or credits to income. 
+
+For
+option-based simple derivative financial instruments, the Company uses the Monte Carlo option-pricing model to value the derivative instruments
+at inception and subsequent valuation dates. The classification of derivative instruments, including whether such instruments should
+be recorded as liabilities or as equity, is re-assessed at the end of each reporting period. 
+
+Debt
+Issue Costs and Debt Discount The Company may record debt issue costs and/or debt discounts in connection with raising funds
+through the issuance of debt. These costs may be paid in the form of cash, or equity (such as warrants). These costs are amortized to
+interest expense over the life of the debt. If a conversion of the underlying debt occurs, a proportionate share of the unamortized amounts
+is immediately expensed. 
+
+Stock
+Based Compensation ASC 718 Compensation-Stock Compensation prescribes accounting and reporting standards
+for all stock-based compensation plan payments awarded to employees, including employee stock options, restricted stock, employee stock
+purchase plans and stock appreciation rights, which may be classified as either equity or liabilities. The Company should determine if
+a present obligation to settle the share-based payment transaction in cash or other assets exists. A present obligation to settle in
+cash or other assets exists if: (a) the option to settle by issuing equity instruments lacks commercial substance or (b) the present
+obligation is implied because of an entity s past practices or stated policies. If a present obligation exists, the transaction
+should be recognized as a liability otherwise, the transaction should be recognized as equity. 
+
+The
+Company accounts for stock-based compensation issued to nonemployees and consultants in accordance with the provisions of ASC 505-50
+ Equity-Based Payments to Non-Employees . Measurement of share-based payment transactions with nonemployees shall
+be based on the fair value of whichever is more reliably measurable: (a) the goods or services received or (b) the equity instruments
+issued. The fair value of the share-based payment transaction should be determined at the earlier of performance commitment date or performance
+completion date. 
+
+Recognition
+of Licensing Revenues The Company recognizes licensing revenue in accordance with Accounting Standards Update ASU No. 2014-09 Revenue from Contracts with Customers . The Company recognizes
+as revenues the amount of the transaction price that is allocated to the respective performance obligations when the performance obligation
+is satisfied, or as it is satisfied. The Company primarily sells disposable and recyclable cell phone batteries. The Company s
+performance obligation is satisfied when the goods have been delivered, which is at a point in time. The Company applies the following
+five steps in order to determine the appropriate amount of revenue recognized as it fulfills its obligations under each of its agreements: 
+
+identify
+ the contract with a customer; 
+
+identify
+ the performance obligations in the contract; 
+
+determine
+ the transaction price; 
+
+allocate
+ the transaction price to performance obligations in the contract; and 
+
+recognize
+ revenue as the performance obligation is satisfied. 
+
+Specifically
+for licensing arrangements, the Company determines the nature of its Subsidiary s promise in granting a license is
+either to provide a right to access intellectual property, which is satisfied over time and for which revenue is recognized over time,
+or to provide a right to use our intellectual property, which is satisfied at a point in time and for which revenue is recognized at
+a point in time. The scope and applicability of the guidance about when to recognize revenue for sales-based or usage-based royalties
+promised in exchange for a license of intellectual property and whether restrictions of time, geographical region, or use on a license
+of intellectual property do not affect the identification of performance obligations. 
+
+Recently
+Issued Accounting Pronouncements Financial Accounting Standards Board, or FASB ASU 2016-02 Leases (Topic 842) -
+ In February 2016, the FASB issued ASU 2016-02, which will require lessees to recognize almost all leases on their consolidated balance
+sheet as a right-of-use asset and a lease liability. For consolidated income statement purposes, the FASB retained a dual model, requiring
+leases to be classified as either operating or finance. Classification will be based on criteria that are largely similar to those applied
+in current lease accounting, but without explicit bright lines. Lessor accounting is similar to the current model, but updated to align
+with certain changes to the lessee model and the new revenue recognition standard. This ASU is effective for fiscal years beginning after
+December 15, 2018, including interim periods within those fiscal years. The Company adopted this in Fiscal Year 2020. 
+
+Subsequent
+Events The Company follows the guidance in ASC 855 Subsequent Events for the disclosure of subsequent
+events. The Company will evaluate subsequent events through the date when the consolidated financial statements are issued. Pursuant
+to ASU 2010-09 of the FASB ASC, the Company as an SEC filer considers its consolidated financial statements issued when they are widely
+distributed to users, such as through filing them on EDGAR. 
+
+F- 9 
+
+NOTE
+3. UNCERTAINTY OF ABILITY TO CONTINUE AS A GOING CONCERN 
+
+The
+accompanying consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets
+and the settlement of liabilities and commitments in the normal course of business. As reflected in the accompanying consolidated financial
+statements, the Company has minimal revenues, net accumulated losses since inception and an accumulated deficit of 32,780,235.
+These factors raise doubt about its ability to continue as a going concern. The ability of the Company to continue as a going concern
+is dependent on management funding operating costs. The consolidated financial statements do not include any adjustments that might be
+necessary if the Company is unable to continue as a going concern. 
+
+The
+impact of the COVID-19 pandemic has had, and is expected to continue to have, an adverse effect on our business and our financial results.
+The COVID-19 pandemic has negatively affected global economy, disrupted consumer spending and global supply chains and created significant
+volatility and disruption of financial markets. The pandemic had and will continue to have an adverse effect on our business and financial
+performance. The extent of the impact of the COVID-19, including our ability to execute our business strategies as planned, will depend
+on future developments, including the duration and severity of the pandemic, which are uncertain and cannot be predicted. The COVID-19
+pandemic could also adversely affect our liquidity and ability to access the capital markets. Uncertainty regarding the duration of the
+COVID-19 pandemic may adversely impact our ability to raise additional capital, or require additional capital. 
+
+NOTE
+4. ACQUISITION OF SUBSIDIARY 
+
+On
+April 5, 2021, the Company closed its acquisition of Cognitive Apps Software Solutions, Inc. Cognitive Apps , Subsidiary ),
+a developer of artificial intelligence (AI) applications for the healthcare industry and psychedelic research. Cognitive Apps was incorporated
+in British Columbia on November 25, 2020. Its principal business is developing, financing, producing and distributing AI based technological
+solutions to the mental health and healthcare sector. 
+
+Cognitive
+Apps sold all of its issued and outstanding capital stock to LCLP, such that, becoming a 100 wholly-owned subsidiary of LCLP. 
+
+In
+exchange for the acquisition, the subsidiary received the following consideration: 
+
+(a)
+ Preferred Shares. Exchange each issued and outstanding share of Cognitive Apps common stock for 5,760,000 shares of LCLP Series
+B Preferred Shares. The Series B Preferred Shares are convertible based on 80 of average of the 5 lowest closing prices for a share
+of Common Stock on the principal exchange or market on which such shares are then trading for the 20 trading days immediately preceding
+such date. Notwithstanding the foregoing, in no case shall the fair market value multiplied by the total number of shares issued and
+outstanding be less than 5,000,000. The fair value on the date of acquisition was calculated at 10,016,089. 
+
+(b)
+ Warrants. In addition to the Acquisition Preferred Shares, the Shareholders, on a pro-rata basis, will receive warrants to purchase
+a total of 3,500,000 shares of the common shares of the Company at an exercise price of 0.10. The fair value of the warrants
+on the date of acquisition was calculated at 20,111. 
+
+(c)
+ Financing. The Company shall use its best efforts after Closing to provide Cognitive Apps, as a wholly owned subsidiary, up to
+ 1,000,000 in the form of an equity investment by Corporation into the subsidiary. 
+
+Cognitive
+Apps had no operations and no significant assets recorded at the acquisition date. Based on the calculated purchase price of 10,036,200,
+the entire amount was allocated to intangible assets. Due the lack of historical operations and uncertainty regarding future operations,
+the Company impaired the full value of the intangible asset acquired. Also, as there were no previous operations, there are no pro forma
+disclosures to present. 
+
+NOTE
+5. RELATED PARTY TRANSACTIONS 
+
+At
+June 30, 2021 and 2020, due to related parties was 1,155,550 and 763,050, respectively. At June 30, 2021, this was comprised
+of unpaid compensation of 776,050 to Victoria Rudman, 164,500 to William Singer, 90,000 to Charles Adelson, and 125,000 to
+Robert Grinberg. 
+
+As
+of June 30, 2021, the board approved to pay these and any other amounts due by converting them to common stock. 
+
+F- 10 
+
+At June 30, 2021 and 2020, due from related party
+was 34,271 and 0, respectively. This amount is due from a Subsidiary shareholder. 
+
+NOTE
+6. NOTES PAYABLE IN DEFAULT 
+
+At
+June 30, 2020, the Company had two notes payable in the amount of 530,000, with the following terms: 
+
+1. 
+ The
+ Batterfly Acquisition Note required the Company to make two payments of 250,000 on October 6, 2017 and February 13, 2017. Upon failure
+ to pay the payment due, the balance began to accrue at 11 interest per annum. 
+
+2. 
+ On
+ July 14, 2016, the Company issued a new promissory note to NUWA Group, LLC NUWA ), from which the Company received
+ 30,000 in gross proceeds, has a maturity date of October 14, 2016, and bears interest at 5 per annum. This promissory note does
+ not have a conversion feature. 
+
+As
+of June 30, 2021, all of the above Notes Payable were settled with shares of the Company s Common Stock. 
+
+NOTE
+7. CONVERTIBLE NOTES PAYABLE 
+
+On
+June 15, 2021, the Company entered into six Note Exchange Agreements to amend and restate 35 variable conversion notes, most of which
+were in default, with interest rates ranging from 3.85 to 22 to a fixed conversion rate of 0.01 with an interest rate
+of 8 . A total of 3,288,241 in principal and interest was converted from the variable to fixed conversion price, reducing the
+need for derivative calculations to the 5 remaining notes that one holder declined to exchange. 
+
+As
+of June 30, 2021, the Company entered into two new notes payable with Leviston Resources LLC in the amount of 375,000, with the
+following terms: 
+
+1. 
+ On
+ April 22, 2021, the Company entered into a Future Advance Convertible Promissory Note for 275,000, with a maturity date of
+ April 22, 2023 and an interest rate of 10 . The note also allows for a second draw of up to 250,000. 
+
+2. 
+ On
+ June 29, 2021, the Company entered into a Promissory Note for 100,000, with a maturity date of December 23, 2022 and an interest
+ rate of 4 . 
+
+F- 11 
+
+Convertible
+Notes 
+
+As
+of June 30, 2021, the amount of the Company s convertible notes in-default decreased to 541,051 when compared to June 30, 2020
+amount of 2,428,960, as follows: 
+
+Balance at 
+ June 30, 2021 
+ Balance at 
+ June 30, 2020 
+ Due Date 
+ Interest Rate at 
+ June 31, 2021 
+
+541,051 
+ 1,931,806 
+ Range from 05/13/2017 to 01/20/2022 
+ Range from 3.85 to 22 
+ Conversion price equal to fifty percent (50 of the lowest trading price during the twenty (20) trading day period prior to the date of conversion - 0.0018 and at June 30, 2021, convertible into 133.9 million shares not including interest. 
+ 
+ - 
+ 332,154 
+ 06/09/2017 
+ 18 
+ Conversion price equal to seventy five percent (75 of the lowest trading price during the five (5) trading day period prior to the date of conversion - 0.0046 and at June 30, 2021, convertible into 65.9 million shares not including interest. 
+ 
+ - 
+ 165,000 
+ Range from 01/27/2018 to 11/15/2019 
+ Range from 18 to 22 
+ Conversion price equal to fifty percent (50 of the lowest trading price during the five (5) trading day period prior to the date of conversion - 0.0024 and at June 30, 2021, convertible into zero shares not including interest. 
+ 
+ 3,288,241 
+ - 
+ 06/15/2023 
+ 8 
+ Conversion price equal to 0.01 and at June 30, 2021, convertible into 328.8 million shares not including interest. 
+ 
+ 375,000 
+ - 
+ Range from 04/22/2023 to 12/23/2022 
+ Range from 4 to 10 
+ Conversion price equal to 0.015 (the Qualified Regulation A Offering Subscription Price), and at June 30, 2021, convertible into 23.33 million shares not including interest. 
+ 
+ 4,204,292 
+ 2,428,960 
+
+The
+Company evaluated the convertible promissory notes under ASC 815 Derivatives and Hedging ASC 815 ). ASC 815 generally
+requires the analysis of embedded terms and features that have characteristics of derivatives to be evaluated for bifurcation and separate
+accounting in instances where their economic risks and characteristics are not clearly and closely related to the risks of the host contract.
+The material embedded derivative consists of the embedded conversion feature. The conversion option bears risks of equity which were
+not clearly and closely related to the host debt agreement and required bifurcation. 
+
+Debt
+Discount 
+
+The
+Company recorded the debt discount to the extent of the gross proceeds raised and expensed immediately the remaining fair value of the
+derivative liability, as it exceeded the gross proceeds of the note. 
+
+Total
+amortization of debt discount amounted to 99,960 and 22,890 for the years ended June 30, 2021 and 2020, respectively. 
+
+As of June 30, 2021 and 2020, the debt discounts
+were 80,369 and 0, respectively. 
+
+F- 12 
+
+NOTE
+8. DERIVATIVE FINANCIAL INSTRUMENTS 
+
+The
+Company s convertible promissory notes and detachable warrants gave rise to derivative financial instruments. The notes embodied
+certain terms and conditions that were not clearly and closely related to the host debt agreement in terms of economic risks and characteristics.
+These terms and features consist of the embedded conversion option. Additionally, the detachable warrants contained terms and features
+that gave rise to derivative liability classification. As of June 30, 2021, the Company does not have enough authorized shares to settle
+all potential conversion and warrant transactions. 
+
+The
+following tables summarize the components of the Company s derivative liabilities and linked common shares as of June 30, 2021
+and 2020 and the amounts that were reflected in income related to derivatives for the period ended: 
+
+June 30, 2021 
+ 
+ The financings giving rise to derivative financial instruments 
+ Indexed Shares (in millions) 
+ Fair Values 
+ 
+ Embedded derivatives 
+ 563 
+ 1,577,001 
+ 
+ Total 
+ 563 
+ 1,577,001 
+
+including
+principal and interest 
+
+June 30, 2020 
+ 
+ The financings giving rise to derivative financial instruments 
+ Indexed Shares (in millions) 
+ Fair Values 
+ 
+ Embedded derivatives 
+ 68,617 
+ 13,249,507 
+ 
+ Total 
+ 68,617 
+ 13,249,507 
+
+including
+principal and interest 
+
+The
+following table summarizes the effects on the Company s gain (loss) associated with changes in the fair values of the derivative
+financial instruments by type of financing for the years ended June 30, 2021 and 2020: 
+
+For the Years Ended 
+ 
+ The financings giving rise to derivative financial instruments and the gain (loss)
+ effects: 
+ June 30, 2021 
+ June 30, 2020 
+ 
+ Embedded derivatives 
+ 7,274,230 
+ (10,018,665 
+ 
+ Total 
+ 7,274,230 
+ (10,018,665 
+
+Current
+accounting principles that are provided in ASC 815 - Derivatives and Hedging require derivative financial instruments to be classified
+in liabilities and carried at fair value with changes recorded in income. The Company has selected the Binomial Lattice Model, which
+approximates the Monte Carlo Simulations, valuation technique to fair value the compound embedded derivative because it believes that
+this technique is reflective of all significant assumption types, and ranges of assumption inputs, that market participants would likely
+consider in transactions involving compound embedded derivatives. Such assumptions include, among other inputs, interest risk assumptions,
+credit risk assumptions and redemption behaviors in addition to traditional inputs for option models such as market trading volatility
+and risk-free rates. The Binomial Lattice Model technique is a level three valuation technique because it requires the development of
+significant internal assumptions in addition to observable market indicators. For instruments in which the time to expiration has expired,
+the Company has utilized the intrinsic value as the fair value. The intrinsic value is the difference between the quoted market price
+on the valuation date and the applicable conversion price. 
+
+F- 13 
+
+Significant
+inputs and results arising from the Monte Carlo Simulation process are as follows for the embedded derivatives that have been bifurcated
+from the convertible notes and classified in liabilities: 
+
+June 30, 2021 
+ June 30, 2020 
+ 
+ Quoted market price on valuation date 
+ 0.0046 
+ 0.0003 
+ 
+ Range of effective contractual conversion rates 
+ 0.0018 
+ 0.00005 - 0.00029 
+ 
+ Contractual term to maturity 
+ NA 
+ NA 
+ 
+ Market volatility: 
+
+Volatility 
+ NA 
+ NA 
+ 
+ Risk-adjusted interest rate 
+ NA 
+ NA 
+
+The
+following table reflects the issuances of compound embedded derivatives and detachable warrants and changes in fair value inputs and
+assumptions related to the embedded derivatives and detachable warrants during the years ended June 30, 2021 and 2020. 
+
+Year Ended 
+ Year Ended 
+
+June 30, 2021 
+ June 30, 2020 
+ 
+ Balances at beginning of period 
+ 13,249,507 
+ 3,230,842 
+ 
+ Issuances: 
+
+Embedded derivatives 
+ 50,000 
+ - 
+ 
+ Conversions: 
+
+Embedded derivatives 
+ - 
+ - 
+ 
+ Reclassifications to equity: 
+
+Embedded derivatives 
+ (4,448,276 
+ - 
+ 
+ Changes in fair value inputs and assumptions reflected in income 
+ (7,274,230 
+ 10,018,665 
+
+Balances at end of period 
+ 1,577,001 
+ 13,249,507 
+
+NOTE
+9. EQUITY 
+
+Authorized
+Capital 
+
+On
+September 28, 2017, the Company filed Articles of Amendment authorizing 5,000,000, shares of common stock, par value 0.001 per share
+(the Common Stock and 20,000,000 shares of Preferred Stock, par value 0.001 (the Preferred Stock ). The
+Board may issue shares of Preferred Stock in one or more series and fix the rights, preferences and privileges thereof, including voting
+rights, terms of redemption, redemption prices, liquidation preferences, number of shares constituting any series or the designation
+of such series, without further vote or action by the stockholders. 
+
+F- 14 
+
+Preferred
+Stock 
+
+Effective
+May 19, 2017, the Company amended its Articles of Incorporation to designate 1,000,000 shares of preferred stock as Series A Preferred
+Stock, with a par value of 0.001 per share (the Series A Stock ). Each share of Series A Stock ranks, with respect to dividend
+rights and rights upon liquidation, winding up or dissolution of the Company, the same as the common stock of the Company, par value
+ 0.001 per share (the Common Stock and is not entitled to any specific dividends or other distributions, other than those
+declared by the Board of Directors. Each share of Series A Stock has 400 votes on any matter submitted to the shareholders of the Company,
+and the Series A Stock votes together with the holders of the outstanding shares of all other capital stock of the Company (including
+the Common Stock and any other series of preferred stock then outstanding), and not as a separate class, series or voting group on any
+such matter. The Series A Preferred Stock is not transferrable by the holder, and may be redeemed by the Company at any time for the
+par value. In the event that the holder of Series A Preferred Stock who is an employee or officer of the Company leaves their position
+as an employee or officer of the Company for any reason, the Series A Preferred Stock held by that holder will be automatically cancelled
+and will revert to being authorized and unissued shares of Series A Preferred Stock. The Series A Stock is not convertible into any other
+class of shares of the Company. 
+
+On
+June 16, 2021, the Board determined that it would be in the best interest of the Company to increase the Company s authorized Series
+A Preferred stock to 5,000,000 (Five Million) shares. 
+
+Additionally,
+the Board authorized 5,760,000 (Five Million Seven Hundred and Sixty Thousand) shares of the Company s Series B preferred pursuant
+to the acquisition of its Subsidiary. In exchange for the acquisition, the subsidiary received as consideration these Preferred Shares
+in exchange for each issued and outstanding share of Cognitive Apps common stock at 1.00 per share. 
+
+Each
+share of Series B Preferred Stock shall be convertible, at the option of the holder thereof, beginning 12 months from the date of issuance,
+and thereafter at any time and from time to time, and without the payment of additional consideration by the holder thereof, into that
+number of fully paid and nonassessable shares of Common Stock (whether whole or fractional) that have a Fair Market Value, in the aggregate,
+equal to the Series B Conversion Price. The Series B Conversion Price shall initially be equal to 1.00. Such initial Series
+B Conversion Price, and the rate at which shares of Series B Preferred Stock may be converted into shares of Common Stock, shall be subject
+to adjustment as provided below. Fair Market Value shall mean as of any date of determination, the 80 of average of the
+5 lowest closing prices for a share of Common Stock on the principal exchange or market on which such shares are then trading for the
+20 trading days immediately preceding such date. Notwithstanding the foregoing, in no case shall the Fair Market Value multiplied by
+the total number of shares issued and outstanding be less than 5,000,000. 
+
+Stock
+and Incentive Plan 
+
+On
+April 20, 2017, the Company adopted the Life Clips, Inc. 2017 Stock and Incentive Plan under which the Company may issue nonqualified
+stock options, incentive stock options, stock appreciation rights, restricted stock grants and units, performance units and awards of
+cash. A maximum of 20,000,000 shares of common stock may be issued under the plan, representing in excess of 35 of the number of the
+Company s currently outstanding shares. Awards under the plan will be made at the discretion of the Board of Directors, although
+no awards have been made to date. Accordingly, the Company cannot currently determine the amount of awards that will be made under the
+plan. 
+
+Warrants 
+
+The
+Company did not issue any warrants during the year ended June 30, 2020. 
+
+On
+April 5, 2021, as part of its acquisition of Cognitive Apps, the Company issued the shareholders of the subsidiary warrants to purchase
+a total of 3,500,000 shares of the Company s common stock. 
+
+Additionally,
+on April 22, 2021, the Company issued the holder of a convertible note payable, warrants to purchase a total of 30,000,000 shares of
+the Company s common stock. 
+
+The
+following table shows the warrants outstanding at June 30, 2021: 
+
+Number of Warrants 
+ Weighted Average Exercise Price 
+ Weighted Average Remaining Life
+ (Years) 
+ Average Intrinsic Value 
+ 
+ Outstanding, June 30, 2020 
+ - 
+ - 
+ - 
+ - 
+ 
+ Granted 
+ 33,500,000 
+ 0.10 
+ 5.00 
+ - 
+
+Outstanding, June 30, 2021 
+ 33,500,000 
+ 0.10 
+ 4.75 
+ - 
+ 
+ Exercisable, June 30, 2021 
+ 33,500,000 
+ 0.10 
+ 4.75 
+ - 
+
+NOTE
+10. INCOME TAX PROVISION 
+
+Income
+taxes are provided for the tax effects of transactions reported in the consolidated financial statements and consist of taxes currently
+due. Deferred taxes relate to differences between the basis of assets and liabilities for financial and income tax reporting which will
+be either taxable or deductible when the assets or liabilities are recovered or settled. 
+
+The
+Company accounts for income taxes in accordance with the provisions of ASC 740, Accounting for Uncertainty in Income Taxes . The
+Company accounts for income taxes using an asset and liability approach to calculate deferred income taxes. The asset and liability approach
+requires the recognition of deferred tax assets and liabilities for the expected future tax consequences of temporary differences between
+the carrying amounts and the tax bases of assets and liabilities. A valuation allowance is provided to offset any net deferred tax assets
+for which management believes it is more likely than not that the net deferred asset will not be realized. 
+
+F- 15 
+
+At
+June 30, 2021, the Company has a net operating loss carry-forward of (22,694,075) available to offset future taxable income
+expiring through 2035. Utilization of future net operating losses may be limited due to potential ownership changes under Section
+382 of the Internal Revenue Code. 
+
+In
+assessing the realization of deferred tax assets, management considers whether it is more likely than not that some portion or all of
+the deferred income tax assets will not be realized. The ultimate realization of deferred income tax assets is dependent upon the generation
+of future taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled
+reversal of deferred income tax liabilities, projected future taxable income, and tax planning strategies in making this assessment.
+Based on consideration of these items, management has determined that enough uncertainty exists relative to the realization of the deferred
+income tax asset balances to warrant the application of a full valuation allowance as of June 30, 2021. 
+
+The
+effects of temporary differences that gave rise to significant portions of deferred tax assets at June 30, 2021 and 2020 are approximately
+as follows: 
+
+June 30, 2021 
+ June 30, 2020 
+ 
+ Net Operating Loss Carryforward 
+ 32,780,235 
+ 29,301,198 
+ 
+ Above multiplied by tax rate of 
+ 21 
+ 21 
+ 
+ Gross Deferred Tax Assets 
+ 6,883,849 
+ 6,153,251 
+ 
+ Less Valuation Allowance 
+ (6,883,849 
+ (6,153,251 
+ 
+ Total Deferred Tax Assets Net 
+ - 
+ - 
+
+A
+reconciliation of income taxes computed at the statutory rate to the income tax amount recorded is as follows: 
+
+Year ended June 30 
+
+2021 
+ 2020 
+ 
+ Income tax expense (benefit) at statutory rate 
+ (730,598 
+ (2,255,469 
+ 
+ Tax Cuts and Job Act Impact 
+ - 
+ - 
+ 
+ Decrease in valuation allowance 
+ 730,598 
+ 2,255,469 
+ 
+ Income tax expense 
+ - 
+ - 
+
+The
+Company had no gross unrecognized tax benefits that, if recognized, would favorably affect the effective income tax rate in future periods.
+It has not accrued any interest or penalties associated with income taxes. The Company files income tax returns in the United States
+federal jurisdiction. With few exceptions, it is no longer subject to U.S. federal, state or non-U.S. income tax authorities on tax returns
+filed before January 31, 2012. No tax returns are currently under examination by tax authorities. 
+
+NOTE
+11. COMMITTMENTS AND CONTINGENCIES 
+
+From
+time to time, the Company may be a party to other legal proceedings. Management currently believes that the ultimate resolution of these
+matters will not have a material adverse effect on consolidated results of operations, financial position, or cash flow. 
+
+F- 16 
+
+NOTE
+12. SUBSEQUENT EVENTS 
+
+On
+July 1, 2021, the Company entered into a Note Exchange Agreement to amend and restate the remaining 5 variable conversion notes, all
+of which were in default, with interest rates ranging from 18 to 22 to a fixed rate 0.01 with an interest rate of 8 . A total of 1,085,824
+in principal and interest was converted from the variable to fixed conversion price, reducing the need for future derivative calculations. 
+
+On
+July 20, 2021 a Form 1-A Regulation A Offering Circular dated June 9, 2021 and its exhibits were filed with and qualified by the Securities
+and Exchange Commission (the SEC ). During the months of July and August 2021, the Company entered into Subscription Agreements
+with Investors to offer shares of its common stock at a purchase price of 0.015 per share for total gross proceeds of up to 5,000,000.
+Proceeds to date are 3,125,000 with a total of 208,333,333 shares. 
+
+On
+August 26, 2021, the Company filed a Form 8-K announcing that it closed its acquisition of Belfrics Holdings Limited and its related
+entities (collectively Belfrics operating cryptocurrency exchanges and blockchain development services in Asia and Africa.
+The entities acquired are: 
+
+Belfrics
+Global PTE Ltd., a Singapore corporation 
+
+ Belfrics
+BT Pvt Ltd, an India corporation 
+
+ Belfrics
+Cryptex Pvt Ltd, an India corporation 
+
+ Belfrics
+Tanzania Ltd, a Tanzania corporation 
+
+ Belfrics
+Nigeria Pvt Ltd, a Nigeria corporation 
+
+ Belfrics
+BT SDN BHD, a Malaysia corporation 
+
+ Belfrics
+Holding Limited, a Malaysia corporation 
+
+ Belfrics
+Academy SDN BHD, a Malaysia corporation 
+
+ Belfrics
+International Ltd, a Malaysia corporation 
+
+ Belfrics
+Europe SL, a Spain corporation 
+
+ Belfrics
+Kenya Pvt. Ltd, a Kenya corporation 
+
+ Incrypts
+SDN BHD, a Malaysia corporation 
+
+ Belfrics
+Malaysia SDN BHD 
+
+Pursuant
+to the definitive agreement previously executed between Belfrics and the Company, the Company issuing the Belfrics shareholders a new
+class of preferred stock with an initial issuance price of 20,000,000 (Twenty Million Dollars) in the aggregate. The Belfrics shareholders
+can earn up to an additional 15,000,000 (Fifteen Million Dollars) by reaching certain milestones. This description of the terms of the
+agreement is qualified in its entirety to the Acquisition Agreement between the parties filed as an exhibit on Form 8-K filed on July
+15, 2021. 
+
+Founded
+in 2014, the Belfrics digital exchange platform, which was fully developed in-house, is one of the most compliant platforms in the cryptocurrency
+industry. Supported by the proprietary technology of Belrium Blockchain KYC solution, the KYC Know Your Customer and
+AML Anti-Money Laundering process of Belfrics Exchange is a well accepted compliance solution. With 10 operational offices
+in 8 countries, Belfrics provides localized and personalized support to digital currency traders. Through its Blockchain Academy, Belfrics
+provides continuous training to traders, developers and blockchain enthusiasts in more than 20 countries. Belfrics is licensed and regulated
+by the Labuan Financial Services Authority (LFSA) in Malaysia. 
+
+On
+September 26, 2021, the Company entered into a 1.75 Secured Promissory Note with Belfrics Global Pte Ltd, its wholly-owned subsidiary.
+The note was for a principal amount of 1,000,000, and due and payable on June 30, 2022. As collateral security for the obligations to
+make full and timely payment of the Principal, and all accrued interest and other amounts payable under the Note, Belfrics deposited
+250,000 (two hundred and fifty thousand) Belrium tokens in the wallet of the Escrow Agent, Jonathan D. Leinwand, P.A. Upon payment of
+the amount due, the Belrium tokens shall be released and returned to Belfrics. 
+
+F- 17 
+
+ITEM
+9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+
+None. 
+
+ITEM
+9A. CONTROLS AND PROCEDURES. 
+
+Management s
+annual report on internal control over financial reporting 
+
+Our
+management, including our principal executive officer and principal financial officer, is responsible for establishing and maintaining
+adequate internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act). Our management, with the participation
+of our principal executive officer and principal financial officer, evaluated the effectiveness of our internal control over financial
+reporting as of June 30, 2021. Our management s evaluation of our internal control over financial reporting was based on the framework
+in Internal Control-Integrated Framework, issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this
+evaluation, our management concluded that as of June 30, 2021, our internal control over financial reporting was not effective. 
+
+The
+ineffectiveness of our internal control over financial reporting was due to the following material weaknesses which we identified in
+our internal control over financial reporting: (1) the lack of multiples levels of management review on complex accounting and financial
+reporting issues, (2) a lack of adequate segregation of duties and necessary corporate accounting resources in our financial reporting
+process and accounting function as a result of our limited financial resources to support hiring of personnel and implementation of accounting
+systems. 
+
+We
+expect to be materially dependent upon third parties to provide us with accounting consulting services related to accounting services
+for the foreseeable future. We believe this will be sufficient to remediate the material weaknesses related to our accounting discussed
+above. Until such time as we have a chief financial officer with the requisite expertise in U.S. GAAP, there are no assurances that the
+material weaknesses and significant deficiencies in our disclosure controls and procedures will not result in errors in our consolidated
+financial statements which could lead to a restatement of those consolidated financial statements. 
+
+A
+material weakness is a deficiency or a combination of control deficiencies in internal control over financial reporting such that there
+is a reasonable possibility that a material misstatement of our annual or interim consolidated financial statements will not be prevented
+or detected on a timely basis. 
+
+Limitations
+on Effectiveness of Controls 
+
+Our
+principal executive officer and principal financial officer do not expect that our disclosure controls or our internal control over financial
+reporting will prevent all errors and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable,
+not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact
+that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent
+limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of
+fraud, if any, within our company have been detected. These inherent limitations include the realities that judgments in decision-making
+can be faulty, and that breakdowns can occur because of a simple error or mistake. Additional controls can be circumvented by the individual
+acts of some persons, by collusion of two or more people, or by management override of the controls. The design of any system of controls
+also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will
+succeed in achieving its stated goals under all potential future conditions; over time, controls may become inadequate because of changes
+in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of the inherent limitations in a
+cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+
+- 15 - 
+
+Changes
+in Internal Control Over Financial Reporting. 
+
+We
+have made no change in our internal control over financial reporting during the fourth quarter of our fiscal year ended June 30, 2021
+that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+Attestation
+Report of the Registered Public Accounting Firm. 
+
+This
+annual report does not include an attestation report of our independent registered public accounting firm regarding internal control
+over financial reporting. Management s report was not subject to attestation by our independent registered public accounting firm
+pursuant to temporary rules of the SEC that permit us to provide only management s report in this annual report on Form 10-K. 
+
+PART
+III 
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE. 
+
+Set
+forth below are the names of the directors and officers of the Company, all positions and offices with the Company held, the period during
+which he/she has served as such, and the business experience during at least the last five years: 
+
+Name
+ and Address 
+ 
+ Age 
+ 
+ Date
+ Appointed to Office 
+ 
+ Position(s) 
+ 
+ Robert
+ Grinberg 
+ 
+ 50
+
+January
+ 13, 2021 
+ 
+ Chairman
+ and Chief Executive Officer 
+ 
+ Victoria
+ Rudman 
+ 
+ 53 
+ 
+ January
+ 16, 2017 
+ 
+ Director
+ and Chief Financial Officer 
+ 
+ Dr.
+ Charles Adelson 
+ 
+ 45 
+ 
+ August
+ 29, 2017 
+ 
+ Director 
+
+The
+above listed officers and directors are not involved, and have not been involved in the past five years, in any legal proceedings that
+are material to an evaluation of their ability or integrity. 
+
+DESCRIPTION 
+
+Background
+Information about Our Officers and Directors 
+
+Robert
+Grinberg Director, Chief Executive Officer 
+
+Robert
+Grinberg has more than 30 years of experience in the financial services industry. In 1997, Mr. Grinberg opened his own independent broker
+dealer, Program Trading Corp. Later he sold the Company to further the evolution of his business model by becoming a private investor
+and placing millions of dollars to work in various industries, ranging from oil and gas, healthcare, logistics, biotechnology, digital
+therapeutics to cannabis. Mr. Grinberg has been privately financing companies for almost 20 years and has extensive knowledge of securities
+trading, private placements, mergers and acquisitions, and public financing. Robert Grinberg was appointed CEO of Life Clips, Inc. on
+January 13, 2021 and is making monumental strides in advancing the Company s strategic future plans. 
+
+In
+connection with his engagement as the Chief Executive Officer of the Company, the Company entered into an Executive Employment Agreement
+with Mr. Grinberg (the Agreement on June 23, 2021. The Agreement is for a five-year term, beginning on the Effective Date
+and concluding automatically after five (5) years or upon the earlier termination of this Agreement. The Agreement provides that Mr.
+Grinberg will serve as the Company s Chief Executive Officer and as a member of the Board. 
+
+- 16 - 
+
+Pursuant
+to the Agreement, the Company will pay Mr. Grinberg an annual salary of 300,000 retroactive to February 1, 2021. Additionally, the Company
+shall promptly reimburse Employee for the following expenses: (a) An executive assistant at 3,000 per month starting July 1, 2021 (b)
+Rent reimbursement of 2,500 per month starting July 1, 2021 and (c) all other reasonably-documented business expenses that are incurred
+by Employee in the performance of his duties under this Agreement, including but not limited to travel expenses. 
+
+Employee
+shall also be entitled to annual and/or periodic bonuses, as determined by the Board of Directors of the Company acting in its sole and
+absolute discretion and those specific bonuses set forth as follows: 
+
+1.
+Yearly Bonus Upon the Execution hereof, the Employee shall be granted the following options: 
+
+a.
+options to purchase 5 of the issued and outstanding shares of the Company at the time of exercise. The option shall have a 5-year term
+and shall vest and be priced on the date hereof. 
+
+b.
+options to purchase 5 of the issued and outstanding shares of the Company at the time of exercise. The option shall have a 5-year term,
+shall be priced on the date hereof and shall vest upon the first anniversary of the Execution hereof. 
+
+c.
+options to purchase 5 of the issued and outstanding shares of the Company at the time of exercise. The option shall have a 5-year term,
+shall be priced on the date hereof and shall vest upon the second anniversary of the Execution hereof. Should the Employee be terminated
+for any reason other than Cause, then the above referenced Yearly Bonuses shall automatically vest on such termination date. 
+
+2.
+Bonus Compensation Milestones. 
+
+a.
+For each calendar year during the Term, in which the Company achieves the adjusted EBITDA 
+
+(1)
+targets set forth in the table below (each a Milestone ), the Company shall pay to the Employee in restricted stock or restricted
+stock units of the Company, the corresponding value shares of the Company set forth in Bonus below: 
+
+Bonus 
+ Milestone 
+ 
+ 100,000 
+ 1st 1,000,000 
+ 
+ 100,000 
+ 2nd 1,000,000 
+ 
+ 100,000 
+ 3rd 1,000,000 
+ 
+ 100,000 
+ 4th 1,000,000 
+ 
+ 100,000 
+ 5th 1,000,000 
+
+b.
+Upon the Company meeting the Market Cap Milestones listed below and maintaining such market cap for a period of 22 consecutive trading
+days, the Consultant will be awarded that number of shares set forth in the column marked Bonus. Market Cap shall be based
+upon the value of all shares issued and outstanding during the period as used in the Basic earnings per share calculation. 
+
+Bonus (Shares) 
+ Market Cap Milestone 
+ 
+ 25,000,000 
+ 10,000,000 
+ 
+ 25,000,000 
+ 15,000,000 
+ 
+ 25,000,000 
+ 20,000,000 
+ 
+ 25,000,000 
+ 30,000,000 
+ 
+ 25,000,000 
+ 50,000,000 
+
+3.
+Stock Grant Significant Transactions. 
+
+c.
+Upon the Company closing a Significant Transaction, as defined below, the Employee shall be granted that number of shares of common stock
+or a new series of preferred shares of the Company that is convertible into common stock of the Company equal to 10 of the of the value
+of all of the consideration, including any stock, cash or debt, of such completed transaction. The Employee can earn this grant of stock
+for each Significant Transaction closed by the Company during the Term of this Agreement. 
+
+- 17 - 
+
+d.
+A Significant Transaction shall mean a licensing transaction, merger with or acquisition of an operating company in a strategic
+or synergistic line of business with that of the Company as determined by Consultant in his sole discretion, a financing or direct or
+indirect share issuance transaction involving the Company, which as a whole, provides cash flow or equivalent value to the Company in
+excess of 250,000 or the listing of shares of the Company on the NASDAQ Market, the NYSE American, CSE or other National or International
+Market. 
+
+e.
+Employee understands and acknowledges that shares earned in respect of a Significant Transaction as defined hereby will
+constitute restricted stock of the Company subject to the limitations on transfer and resale under U.S. securities law and regulation
+and the Company s Equity Incentive Plan. Upon confirmation of the achievement of the milestone by the Board, the Consultant shall
+be delegated by the Board any and all authority necessary to direct the Company s transfer agent to make the foregoing issuances
+without requiring further Board or approval or corporate action. 
+
+The
+background information presented above regarding Mr. Grinberg s specific experience, qualifications, attributes and skills in addition
+to his reputation for integrity, honesty and adherence to high ethical standards are expected to benefit the Company as a member of its
+Board of Directors. 
+
+Victoria
+Rudman Director, Chief Financial Officer 
+
+Ms.
+Victoria Rudman has been the Company s Chief Financial Officer, Secretary, Treasurer and a Director since January 16, 2017, and
+its Interim Chief Executive Officer from April 3, 2018 through January 13, 2021. Ms. Rudman has over 25 years of professional experience
+in multiple aspects of leadership, operations, accounting, finance, taxation and fiscal management. 
+
+Ms.
+Rudman has spent most of her career in Fortune 50 global investment bank and retail brokerage firms as well as small cap public companies
+and startup ventures. She served as Chairman and CEO of Intelligent Living Inc. from 2011-2014. Previously, Victoria held various technology
+controllership positions at Morgan Stanley and acted as a Vice President at Bear Stearns and Director of Business Planning Strategy
+at Visual Networks, where she was the lead project manager for the entire technology business enterprise, including IPO and strategic
+M A. Victoria holds a Bachelor of Business Administration in Public Accounting from Pace University, Lubin School of Business. 
+
+In
+connection with her engagement as the Chief Financial Officer of the Company, the Company entered into an Executive Employment Agreement
+with Ms. Rudman (the Agreement on June 23, 2021. The Agreement is for a nonrenewable three-year term. The Agreement provides
+that Ms. Rudman will serve as the Company s Chief Financial Officer and as a member of the Board. 
+
+Pursuant
+to the Agreement, the Company will pay Ms. Rudman an annual salary of 150,000 retroactive to February 1, 2021. Employee shall also be
+entitled to annual and/or periodic bonuses, as determined by the Board of Directors of the Company acting in its sole and absolute discretion
+and those specific bonuses set forth as follows: 
+
+1.
+Yearly Bonus 
+
+a.
+Upon the Execution hereof, the Employee shall be granted a warrant to purchase 2 of the issued and outstanding shares of the Company
+at the time of exercise. The warrant shall have a 5-year term. 
+
+b.
+Upon the first anniversary of the Execution hereof the Employee shall be granted a warrant to purchase 2 of the issued and outstanding
+shares of the Company at the time of exercise. The warrant shall have a 5-year term. 
+
+c.
+Upon the first anniversary of the Execution hereof the Employee shall be granted a warrant to purchase 2 of the issued and outstanding
+shares of the Company at the time of exercise. The warrant shall have a 5-year term. Should the Employee be terminated for any reason
+other than Cause, then the above referenced Yearly Bonuses shall automatically vest on such termination date. 
+
+- 18 - 
+
+2.
+Performance Bonus 
+
+a.
+As the Company relies on the Employee to perform due diligence on acquisitions thereby providing a valuable service to the Company outside
+the scope of her employment, upon the Company making an acquisition Employee shall be entitled to a bonus equal to 2 of the value of
+the acquisition. The value shall be equal to the amount paid by the Company in cash, stock or other consideration plus the value of any
+debt assumed. 
+
+b.
+The Board of Directors in its sole and absolute discretion may grant Employee additional bonuses not otherwise contemplated hereby. 
+
+Pursuant
+to the June 30, 2021 board resolution, Ms. Rudman received (i) 15,000 in cash and (ii) 33,995,000 common stock shares in book entry
+for settlement of all outstanding employee stock vesting, accrued salary and board fees since 2017. 
+
+The
+background information presented above regarding Ms. Rudman s specific experience, qualifications, attributes and skills in addition
+to her reputation for integrity, honesty and adherence to high ethical standards are expected to benefit the Company as a member of its
+Board of Directors. 
+
+William
+Singer Former Director resigned July 28, 2021 
+
+On
+July 28, 2021, William Singer submitted a letter of resignation from the Company s Board of Directors, dated and effective as of
+July 15, 2021. The resignation was not the result of any disagreements with the Company. A copy of Mr. Singer s resignation was
+filed as Exhibit 99.1 to the Form 8-K. 
+
+Pursuant
+to the June 30, 2021 board resolution, Mr. Singer was issued 8,050,000 common stock shares in book entry for settlement of all outstanding
+employee stock vesting, accrued salary and board fees since 2017. 
+
+Dr.
+Charles Adelson Director 
+
+Dr.
+Charles Adelson graduated from the University of Central Florida in Orlando, where he received a B.S. in Micro and Molecular Biology.
+Dr. Charles Adelson went on to receive his Doctor of Medical Dentistry at Nova Southeastern University s School of Dental Medicine.
+He continued his studies there after completing a three-year postdoctoral surgical residency with extensive training in implant placement,
+periodontal surgery, and regenerative bone therapy. Dr. Charles Adelson has participated in several medical missions sponsored by the
+Women of Hope. He traveled to both the inner cities and the rural areas of Jamaica, providing dental care to orphan children. In addition
+to dentistry and philanthropy, Dr. Adelson is as well an experienced businessman owning several commercial properties throughout South
+Florida. 
+
+Pursuant
+to the June 30, 2021 board resolution, Mr. Adelson was issued 3,000,000 common stock shares in book entry for settlement of all outstanding
+share issuances and board fees since 2016. 
+
+The
+background information presented above regarding Dr. Adelson s specific experience, qualifications, attributes and skills in addition
+to his reputation for integrity, honesty and adherence to high ethical standards are expected to benefit the Company as a member of its
+Board of Directors. 
+
+- 19 - 
+
+Family
+Relationships 
+
+Mr.
+Robert Grinberg is married to a sibling of Ms. Victoria Rudman. No director or executive officer has been a director or executive officer
+of any business which has filed a bankruptcy petition or had a bankruptcy petition filed against it. No director or executive officer
+has been convicted of a criminal offense within the past five years or is the subject of a pending criminal proceeding. No director or
+executive officer has been the subject of any order, judgment or decree of any court permanently or temporarily enjoining, barring, suspending
+or otherwise limiting his involvement in any type of business, securities or banking activities. No director or officer has been found
+by a court to have violated a federal or state securities or commodities law. 
+
+Committees
+of the Board of Directors 
+
+There
+are no committees of the Board of Directors. 
+
+Section
+16(a) Beneficial Ownership Reporting Compliance 
+
+Section
+16(a) of the Securities Exchange Act of 1934 (the 34 Act requires our officers and directors and persons owning more than
+ten percent of the Common Stock, to file initial reports of ownership and changes in ownership with the Securities and Exchange Commission SEC ). Additionally, Item 405 of Regulation S-K under the 34 Act requires us to identify in its Form 10-K and proxy statement
+those individuals for whom one of the above referenced reports was not filed on a timely basis during the most recent year or prior years.
+Based solely on our review of the copies of such forms received by us, or written representations from certain reporting persons we believe
+that during the year ended June 30, 2021 all filing requirements applicable to our executive officers and directors, and persons who
+own more than 10 of our common stock were complied with except Ms. Rudman, Mr. Singer and Dr. Adelson failed to file a Form 3 or Form
+4 as required under the 34 Act. 
+
+Code
+of Ethics 
+
+Our
+board of directors has not adopted a code of ethics but plans to do so in the future. 
+
+- 20 - 
+
+Corporate
+Governance 
+
+Term
+of Office 
+
+Each
+director of our company is to serve for a term of one year ending on the date of subsequent annual meeting of stockholders following
+the annual meeting at which such director was elected. Notwithstanding the foregoing, each director is to serve until his successor is
+elected and qualified or until his death, resignation or removal. Our board of directors is to elect our officers and each officer is
+to serve until his successor is elected and qualified or until his death, resignation or removal. 
+
+Committees
+of the Board 
+
+All
+proceedings of our board of directors were conducted by resolutions consented to in writing by all the directors and filed with the minutes
+of the proceedings of the directors. Such resolutions consented to in writing by the directors entitled to vote on that resolution at
+a meeting of the directors are, according to the corporate laws of the State of Wyoming and our By-laws, as valid and effective as if
+they had been passed at a meeting of our directors duly called and held. 
+
+We
+currently do not have nominating or compensation committees or committees performing similar functions, nor do we have a written nominating
+or compensation committee charter. Our board of directors does not believe that it is necessary to have such committees because it believes
+that the functions of such committees can be adequately performed by our board of directors. 
+
+We
+do not have any defined policy or procedure requirements for shareholders to submit recommendations or nominations for directors. We
+do not currently have any specific or minimum criteria for the election of nominees to our board of directors and we do not have any
+specific process or procedure for evaluating such nominees. Our board of directors assesses all candidates, whether submitted by management
+or shareholders, and makes recommendations for election or appointment. 
+
+A
+shareholder who wishes to communicate with our board of directors may do so by directing a written request to the address appearing on
+the first page of this annual report. 
+
+Options/SAR
+Grants and Fiscal Year End Option Exercises and Values 
+
+On
+April 20, 2017, the Company approved the Life Clips, Inc. 2017 Stock and Incentive Plan the Plan ). The Plan provides for
+the granting of nonqualified stock options, incentive stock options, stock appreciation rights, restricted stock grants and units, performance
+units and awards, and cash. The Plan allows for an issuance of a maximum of 20,000,000 shares of common stock, with awards made at the
+discretion of the board of directors. No awards have been made to date. The current management does not have any plans to issue stock
+options in the future to executive officers and directors. 
+
+- 21 - 
+
+ITEM
+11. EXECUTIVE COMPENSATION 
+
+The
+following table sets forth information concerning the compensation of our named executive officers during Fiscal 2021 and 2020: 
+
+Name and Principal Position 
+ Year 
+ Salary ) 
+ Bonus ) 
+ Stock Awards ) 
+ Option Awards 
+ Non-Equity Incentive Compensation ) 
+ Non-Qualified Deferred Compensation Earnings ) 
+ All Other Compensation ) 
+ Totals ) 
+ 
+ Robert Grinberg, CEO (1) 
+ 2021 
+ 300,000 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 300,000 
+ 
+ Victoria Rudman, CFO (2) 
+ 2021 
+ 150,000 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 150,000 
+ 
+ Victoria Rudman, CFO and Interim CEO (3) 
+ 2020 
+ 180,000 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 180,000 
+
+(1)
+In connection with his engagement as the Chief Executive Officer of the Company, the Company entered into an Executive Employment Agreement
+with Mr. Grinberg (the Agreement on June 23, 2021. The Agreement is for a five-year term, beginning on the Effective Date
+and concluding automatically after five (5) years or upon the earlier termination of this Agreement. The Agreement provides that Mr.
+Grinberg will serve as the Company s Chief Executive Officer and as a member of the Board. 
+
+Pursuant
+to the Agreement, the Company will pay Mr. Grinberg an annual salary of 300,000 retroactive to February 1, 2021. Additional information
+can be found under Item 10. 
+
+(2)
+In connection with her engagement as the Chief Financial Officer of the Company, the Company entered into an Executive Employment Agreement
+with Ms. Rudman (the Agreement on July 1, 2021. The Agreement is for a nonrenewable three-year term, The Agreement provides
+that Ms. Rudman will serve as the Company s Chief Executive Officer and as a member of the Board. 
+
+Pursuant
+to the Agreement, the Company will pay Ms. Rudman an annual salary of 150,000 retroactive to February 1, 2021. Additional information
+can be found under Item 10. 
+
+Compensation
+of Management. See Item 10 above under Background Information about Our Officers and Directors. 
+
+Option
+Grants. No option grants have been exercised by the executive officers named in the Summary Compensation Table. 
+
+Aggregated
+Option Exercises and Fiscal Year-End Option Value. There have been no stock options exercised by the executive officers named in
+the Summary Compensation Table. 
+
+Long-Term
+Incentive Plan LTIP Awards. There have been no awards made to named executive officers in the last completed fiscal
+year under any LTIP. 
+
+Compensation
+of Directors 
+
+Directors
+are permitted to receive fixed fees and other compensation for their services as directors. The Board of Directors has the authority
+to fix the compensation of directors. 
+
+As
+of July 1, 2021, the Company is no longer paying or accruing monthly fees to its directors. 
+
+- 22 - 
+
+The
+following previously accrued fees from July 1, 2019 through June 30, 2021 were paid in stock on July 21, 2021: 
+
+Name 
+ Monthly 
+ Amount 
+ Total 
+ Accrued 
+ 
+ Victoria Rudman 
+ 4,000 
+ 96,000 
+ 
+ William Singer 
+ 2,500 
+ 60,000 
+ 
+ Charles Adelson 
+ 2,500 
+ 60,000 
+
+TOTALS 
+ 9,000 
+ 216,000 
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+
+The
+following sets forth the number of shares of our 0.001 par value common stock beneficially owned by (i) each person who, as of June
+30, 2021, was known by us to own beneficially more than five percent (5 of its common stock; (ii) our individual Directors and (iii)
+our Officers and Directors as a group. A total of 1,322,822,904 common shares were issued and outstanding as of June 30, 2021. 
+
+Name and Address of Beneficial Owner (1) 
+ Common Stock Beneficial Ownership 
+ Percent of Class (2) 
+ Outstanding Series A Preferred Stock (3) 
+ Percent of Class 
+ 
+ Named Executive Officers and Directors: 
+
+Robert Grinberg (5) 
+ - 
+ - 
+ 3,000,000 
+ 60 
+ 
+ Victoria Rudman (6) 
+ 33,995,000 
+ 2.57 
+ 1,000,000 
+ 20 
+ 
+ William Singer (7) 
+ 11,050,000 
+ 0.84 
+ - 
+ - 
+ 
+ Dr. Charles Adelson (8) 
+ 3,000,000 
+ 0.23 
+ - 
+ - 
+
+All executive officers and directors as a group (five people) 
+ 48,045,000 
+ 3.64 
+ 4,000,000 
+ 80 
+
+Other 5 Stockholders 
+ None 
+
+Only
+included above are shares issued through June 30, 2021. 
+
+(1)
+All ownership is beneficial and of record, unless indicated otherwise. 
+
+(2)
+The Beneficial owner has sole voting and investment power with respect to the shares shown 
+
+(3)
+Each share of Series A Preferred Stock entitles the holder to 400 votes on all matters submitted to a vote of the Company s stockholders. 
+
+- 23 - 
+
+(4)
+Each share of Series B Preferred Stock entitles the holder to convert to common stock, following a one year holding period, at 1.00
+per share or 80 of the average of the 5 lowest closing prices over the last 20 trading days. 
+
+(5)
+Robert Grinberg was issued Preferred Series A shares in accordance with Certificate of Action Without Meeting dated June 18, 2021. 
+
+(6)
+Victoria Rudman was granted 7,500,000 shares of restricted common stock on June 30, 2017; all of which have vested. Ms. Rudman s
+employment contract ended on June 30, 2019. For settlement of this and all open and outstanding salary and board fee accruals, the Board
+consented on June 30, 2021 to (i) pay 15,000 in cash and (ii) issue 33,995,000 shares of the Company s common stock. 
+
+Ms.
+Rudman s Preferred Series A shares were issued in accordance with Certificate of Action Without Meeting dated June 18, 2021. 
+
+(7)
+William Singer was re-issued 3,000,000 shares on July 28, 2017 for prior year services. He was also granted 6,000,000 on August 31, 2017;
+all of which have vested. Mr. Singer s employment contract ended on March 1, 2019. For settlement of this and all open and outstanding
+salary and board fee accruals, the Board consented on June 30, 2021 to issue 8,050,000 shares of the Company s common stock. 
+
+Mr.
+Singer resigned from the Board of Directors on July 15, 2021. 
+
+(8)
+Dr. Charles Adelson was appointed as a director on August 29, 2017. Mr. Adelson was awarded a total of 1,000,000 stock options; all of
+which have vested. For settlement of this and all open and outstanding board fee accruals, the Board consented on June 30, 2021 to issue
+3,000,000 shares of the Company s common stock. 
+
+- 24 - 
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+
+Except
+for compensation arrangements discussed elsewhere in this Annual Report on Form 10-K below, since July 1, 2020, there have been no transactions,
+or currently proposed transactions, in which we were or are to be a participant and the amount involved exceeds the lesser of 120,000
+or 1 of the average of our total assets at year-end for the last two completed fiscal years, and in which any of the following persons
+had or will have a direct or indirect material interest: 
+
+(i) 
+ Any
+ director or executive officer of our company; 
+
+(ii) 
+ Any
+ person who beneficially owns, directly or indirectly, shares carrying more than 5 of the voting rights attached to our outstanding
+ shares of common stock; 
+
+(iii) 
+ Any
+ member of the immediate family (including spouse, parents, children, siblings and in-laws) of any of the foregoing persons, and any
+ person (other than a tenant or employee) sharing the household of any of the foregoing persons. 
+
+ITEM
+14. PRINCIPAL ACCOUNTANT FEES AND SERVICES. 
+
+Our
+independent auditor, Accell Audit and Compliance, P.A. billed an aggregate of 22,500 for the years ended June 30, 2021 and 2020, for
+professional services rendered for the audit of the Company s quarterly and annual consolidated financial statements. 
+
+We
+do not have an audit committee and as a result our board of directors performs the duties of an audit committee. Our board of directors
+evaluates the scope and cost of the engagement of an auditor before the auditor renders audit and non-audit services. 
+
+PART
+IV 
+
+ITEM
+15. EXHIBITS AND CONSOLIDATED FINANCIAL STATEMENT SCHEDULES. 
+
+The
+following financial information is filed as part of this report: 
+
+(a)
+(1) CONSOLIDATED FINANCIAL STATEMENTS 
+
+(2)
+SCHEDULES 
+
+(3)
+EXHIBITS. The following exhibits required by Item 601 to be filed herewith are incorporated by reference to previously filed documents: 
+
+- 25 - 
+
+SIGNATURES 
+
+In
+accordance with Section 12 of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized on October 13. 
+
+Life
+ Clips, Inc. 
+
+By: 
+ /s/
+ Victoria Rudman 
+
+Victoria
+ Rudman, Chief Financial Officer 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following person on behalf of the
+Registrant and in the capacity and on the date indicated. 
+
+Signature 
+ 
+ Title 
+ 
+ Date 
+
+/s/
+ Victoria Rudman 
+
+October
+ 13, 2021 
+ 
+ Victoria
+ Rudman 
+ 
+ Chief
+ Financial Officer and Director (Principal Financial and Accounting Officer) 
+
+/s/
+ Robert Grinberg 
+
+October
+ 13, 2021 
+ 
+ Robert
+ Grinberg 
+ 
+ Chief
+ Executive Officer and Chairman (Principal Executive Officer) 
+
+- 26 - 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+Exhibit
+31.1 
+
+CERTIFICATION
+PURSUANT TO SECTION 302 
+
+ OF
+THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Victoria Rudman, certify that: 
+
+1)
+I have reviewed this Annual report on Form 10-K for the fiscal year ended June 30, 2021 of
+Life Clips, Inc. on Form 10-K; 
+
+2)
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3)
+Based on my knowledge, the consolidated financial statements, and other financial information included in this report, fairly present
+in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods
+presented in this report; 
+
+4)
+I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant
+and have; 
+
+(a) 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure the material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated
+ financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated
+ the effectiveness of the Registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation. 
+
+(d) 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5)
+I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant s auditors
+and the audit committee of the Registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the Registrant s ability to record, process summarize and report financial information;
+ and 
+
+(b) 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s
+ internal controls over financial reporting. 
+
+Date:
+ October 13, 2021 
+ /s/
+ Victoria Rudman 
+
+Victoria
+ Rudman 
+
+Chief
+ Financial Officer (Principal Financial and Accounting Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+Exhibit
+31.2 
+
+CERTIFICATION
+PURSUANT TO SECTION 302 
+
+ OF
+THE SARBANES-OXLEY ACT OF 2002 
+
+I,
+Robert Grinberg, certify that: 
+
+1)
+I have reviewed this Annual report on Form 10-K for the fiscal year ended June 30, 2021 of
+Life Clips, Inc. on Form 10-K; 
+
+2)
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3)
+Based on my knowledge, the consolidated financial statements, and other financial information included in this report, fairly present
+in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods
+presented in this report; 
+
+4)
+I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant
+and have; 
+
+(a) 
+ Designed
+ such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+ to ensure the material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others
+ within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed
+ such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+ supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of consolidated
+ financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated
+ the effectiveness of the Registrant s disclosure controls and procedures and presented in this report our conclusions about
+ the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation. 
+
+(d) 
+ Disclosed
+ in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+ most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+ or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5)
+I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant s auditors
+and the audit committee of the Registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All
+ significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are
+ reasonably likely to adversely affect the Registrant s ability to record, process summarize and report financial information;
+ and 
+
+(b) 
+ Any
+ fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s
+ internal controls over financial reporting. 
+
+Date:
+ October 13, 2021 
+ /s/
+ Robert Grinberg 
+
+Robert
+ Grinberg 
+
+Chief
+ Executive Officer (Principal Executive Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+Exhibit
+32.1 
+
+CERTIFICATION
+PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT 0F 2002 
+
+In
+connection with the Annual Report of Life Clips, Inc. (the Company on Form 10-K for the fiscal year ended June 30, 2021 as filed
+with the Securities and Exchange Commission (the Report ), I, Victoria Rudman, Chief Financial Officer of the Company, certify,
+pursuant to 18 U.S.C. ss.1350, as adopted pursuant to ss.906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ The
+ Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The
+ information contained in the Report fully presents, in all material respects, the financial condition and results of operations or
+ the Company. 
+
+Life
+ Clips, Inc. 
+
+Date:
+ October 13, 2021 
+ By: 
+ /s/
+ Victoria Rudman 
+
+Victoria
+ Rudman 
+
+Chief
+ Financial Officer (Principal Financial and Accounting Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex32-2.htm
+
+Exhibit
+32.2 
+
+CERTIFICATION
+PURSUANT TO 
+
+ SECTION
+906 OF THE SARBANES-OXLEY ACT 0F 2002 
+
+In
+connection with the Annual Report of Life Clips, Inc. (the Company on Form 10-K for the fiscal year ended June 30, 2021 as filed
+with the Securities and Exchange Commission (the Report ), I, Robert Grinberg, Chief Executive Officer of the Company, certify,
+pursuant to 18 U.S.C. ss.1350, as adopted pursuant to ss.906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+ The
+ Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+ The
+ information contained in the Report fully presents, in all material respects, the financial condition and results of operations or
+ the Company. 
+
+Life
+ Clips, Inc. 
+
+Date:
+ October 13, 2021 
+ By: 
+ /s/
+ Robert Grinberg 
+
+Robert
+ Grinberg 
+
+Chief
+ Executive Officer (Principal Executive Officer) 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 8
+ lclp-20210630.xml
+ INLINE XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 9
+ lclp-20210630.xsd
+ INLINE XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ lclp-20210630_cal.xml
+ INLINE XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ lclp-20210630_def.xml
+ INLINE XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ lclp-20210630_lab.xml
+ INLINE XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ lclp-20210630_pre.xml
+ INLINE XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

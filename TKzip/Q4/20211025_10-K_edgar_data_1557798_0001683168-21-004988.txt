@@ -1,0 +1,3011 @@
+<Header>
+<FileStats>
+    <FileName>20211025_10-K_edgar_data_1557798_0001683168-21-004988.txt</FileName>
+    <GrossFileSize>1387528</GrossFileSize>
+    <NetFileSize>126938</NetFileSize>
+    <NonText_DocumentType_Chars>98985</NonText_DocumentType_Chars>
+    <HTML_Chars>381165</HTML_Chars>
+    <XBRL_Chars>346847</XBRL_Chars>
+    <XML_Chars>388767</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001683168-21-004988.hdr.sgml : 20211025
+<ACCEPTANCE-DATETIME>20211025071702
+ACCESSION NUMBER:		0001683168-21-004988
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		43
+CONFORMED PERIOD OF REPORT:	20210731
+FILED AS OF DATE:		20211025
+DATE AS OF CHANGE:		20211025
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tianci International, Inc.
+		CENTRAL INDEX KEY:			0001557798
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				455440446
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-184061
+		FILM NUMBER:		211342143
+
+	BUSINESS ADDRESS:	
+		STREET 1:		NO. 45-2, JALAN USJ 21/10
+		STREET 2:		SUBANG JAYA
+		CITY:			SELANGOR DARUL EHSAN
+		STATE:			N8
+		ZIP:			47640
+		BUSINESS PHONE:		6012 697 1115
+
+	MAIL ADDRESS:	
+		STREET 1:		NO. 45-2, JALAN USJ 21/10
+		STREET 2:		SUBANG JAYA
+		CITY:			SELANGOR DARUL EHSAN
+		STATE:			N8
+		ZIP:			47640
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Steampunk Wizards, Inc.
+		DATE OF NAME CHANGE:	20150702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FREEDOM PETROLEUM INC.
+		DATE OF NAME CHANGE:	20120910
+
+</SEC-Header>
+</Header>
+
+ 0001683168-21-004988.txt : 20211025
+
+10-K
+ 1
+ tianci_10k-073121.htm
+ FORM 10-K
+
+Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+
+FORM 10-K 
+
+(Mark One) 
+
+ANNUAL REPORT PURSUANT TO SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended July 31, 2021 
+
+TRANSITION REPORT PURSUANT TO SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from _____to _____ 
+
+COMMISSION FILE NUMBER 333-184061 
+
+TIANCI INTERNATIONAL, INC. 
+(Exact name of registrant as specified in its charter) 
+
+NEVADA 
+ 45-5540446 
+ 
+ State or other jurisdiction of incorporation or organization 
+ (I.R.S. Employer Identification No.) 
+
+No. A1111, Huafeng Financial Port, 1003, Xin an Sixth Road, Bao an District, Shenzhen, Guangdong Province 
+
+P.R.C 
+
+(Address of principal executive offices) 
+ (Zip Code) 
+
+Registrant's telephone number, including area code
+ +86-13926561348 
+
+No. 45-2, Jalan USJ 21/10 
+
+ Subang Jaya 47640 
+
+ Selangor Darul Ehsan, Malaysia 
+ (Former name or former address, if changes since last report) 
+
+Securities registered under Section 12(b) of the
+Act: 
+
+Title of each Class 
+ Trading Symbol 
+ Name of each exchange on which registered 
+ 
+ N/A 
+ N/A 
+ N/A 
+
+Securities registered under Section 12(g) of the
+Act: NONE. 
+
+Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined by Rule 405 of the Securities Act. Yes No 
+
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No 
+
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes No 
+
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 229.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes
+ No 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.
+See the definitions of large accelerated filer, accelerated filer, smaller reporting company, 
+and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+ Accelerated filer 
+ 
+ Non-accelerated filer 
+ 
+ Smaller reporting company 
+ Emerging growth company 
+
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+
+State the aggregate market value of the voting
+and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was sold, or the average
+bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal
+quarter: 441,026.25 as of January 31, 2021, based on a price of 1.75, being the last price at which the registrant sold shares
+of its common stock prior to that date. 
+
+Indicate the number of shares outstanding of each
+of the registrant s classes of common stock, as of the latest practicable date. As of October 18, 2021, the Registrant had 2,450,148
+shares of common stock outstanding. 
+
+TABLE OF CONTENTS 
+
+TITLE 
+ PAGE 
+ 
+ PART I 
+ 
+ Item 1. 
+ Business 
+ 1 
+ 
+ Item 1A. 
+ Risk Factors 
+ 5 
+ 
+ Item 1B. 
+ Unresolved Staff Comments 
+ 5 
+ 
+ Item 2. 
+ Properties 
+ 5 
+ 
+ Item 3. 
+ Legal Proceedings 
+ 5 
+ 
+ Item 4. 
+ Mine Safety Disclosures 
+ 5 
+
+PART II 
+
+Item 5. 
+ Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 
+ 6 
+ 
+ Item 6. 
+ Selected Financial Data 
+ 7 
+ 
+ Item 7. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 7 
+ 
+ Item 7A. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 11 
+ 
+ Item 8. 
+ Financial Statements and Supplementary Data 
+ 12 
+ 
+ Item 9. 
+ Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 
+ 13 
+ 
+ Item 9A. 
+ Controls and Procedures 
+ 13 
+ 
+ Item 9B. 
+ Other Information 
+ 14 
+
+PART III 
+
+Item 10. 
+ Directors, Executive Officers and Corporate Governance 
+ 15 
+ 
+ Item 11. 
+ Executive Compensation 
+ 19 
+ 
+ Item 12. 
+ Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 
+ 22 
+ 
+ Item 13. 
+ Certain Relationships and Related Transactions, and Director Independence 
+ 23 
+ 
+ Item 14. 
+ Principal Accounting Fees and Services 
+ 23 
+
+PART IV 
+
+Item 15. 
+ Exhibits, Financial Statement Schedules 
+ 25 
+ 
+ Item 16. 
+ Form 10-K Summary 
+ 25 
+
+i 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+
+Except for historical information,
+this annual report contains forward-looking statements. Such forward-looking statements involve risks and uncertainties, including, among
+other things, statements regarding our business strategy, future revenues and anticipated costs and expenses. Such forward-looking statements
+include, among others, those statements including the words expects, anticipates, intends, believes 
+and similar language. Our actual results may differ significantly from those projected in the forward-looking statements. Factors that
+might cause or contribute to such differences include, but are not limited to, those discussed in the sections Business 
+and Management s Discussion and Analysis of Financial Condition and Results of Operations. You should carefully review
+the risks described in this Annual Report on Form 10-K and in other documents we file from time to time with the Securities and Exchange
+Commission. You are cautioned not to place undue reliance on the forward-looking statements, which speak only as of the date of this report.
+We undertake no obligation to publicly release any revisions to the forward-looking statements or reflect events or circumstances after
+the date of this document. 
+
+Although we believe that the
+expectations reflected in these forward-looking statements are based on reasonable assumptions, there are a number of risks and uncertainties
+that could cause actual results to differ materially from such forward-looking statements. 
+
+All references in this Form
+10-K to Company , Tianci , we, us or our mean Tianci International,
+Inc. (formerly known as Steampunk Wizard, Inc. ), unless otherwise indicated. 
+
+ii 
+
+PART I 
+
+Item 1. Business 
+
+Corporate Overview 
+
+We are currently a shell
+company with no meaningful assets or operations other than our efforts to identify and merge with an operating company. We were
+incorporated in the State of Nevada on June 13, 2012. Our current business office is located at No. A1111, Huafeng Financial Port, 1003,
+Xin an Sixth Road, Bao an District, Shenzhen, Guangdong Province, P.R.C. Our telephone number is +86-13926561348. 
+
+We were initially an exploration
+stage company under the name of Freedom Petroleum Inc. (changed to Steampunk Wizards, Inc., effective on July 2, 2015) that originally
+intended to engage in the exploration and development of oil and gas properties. In April 2015, after reviewing the markets with investor
+appetite and management's duties to its shareholders, the Company determined to discontinue its oil and gas operation. We then began exploring
+opportunities in the computer gaming and application industry. 
+
+We engaged in computer game
+development until October 13, 2016, when control of our company changed pursuant to a share purchase agreement and a spin-off agreement.
+On October 26, 2016, our corporate name was changed from Steampunk Wizards, Inc. to Tianci International, Inc. 
+The name change was effected on November 27, 2016, in connection with the merger of us into our then subsidiary, Tianci International
+Inc. 
+
+Effective April 6, 2017, we
+effectuated a 1-for-40 reverse stock split (the 2017 Reverse Stock Split of our issued and outstanding shares of common
+stock, 0.0001 par value, whereby 49,854,280 outstanding shares were exchanged for 1,246,357 shares of our common stock. Common share
+amounts and per share amounts in these accompanying financial statements and notes have been retroactively adjusted to reflect this reverse
+stock split. 
+
+On August 3, 2017, we entered
+into a Stock Purchase Agreement (the SPA with Shifang Wan (the Seller ), the record holder of 4,397,837 common
+shares, or approximately 87.00 of the issued and outstanding of Common Stock of the Company, and Chuah Su Chen and Chuah Su Mei (collectively,
+the Purchasers , and together with the Company and the Seller, the Parties ). Pursuant to the SPA, the Seller
+sold to the Purchasers and the Purchasers acquired from the Sellers the Shares for a total gross purchase price of Three Hundred Fifty
+Thousand Dollars 350,000). The acquisition was consummated on August 15, 2017. The Purchasers used personal funds to acquire the Shares. 
+
+Effective August 6, 2021,
+Tianci International, Inc., a Nevada corporation we, us, or the Company ), Chuah Su Mei, our
+former Chief Executive Officer, President and Director, and Silver Glory Group Limited, entered into a Stock Purchase Agreement (the Stock
+Purchase Agreement pursuant to which Chuah Su Mei agreed to sell to Silver Glory Group Limited all 1,793,000 shares of common
+stock of the Company held by her (the Shares for cash consideration of Five Hundred Twenty Five Thousand Dollars 525,000)
+(the Transaction ). The Shares represent approximately 73.18 of the issued and outstanding common stock of the Company and
+are being sold in reliance upon an exemption from registration under the Securities Act of 1933, as amended, pursuant to Section 4(2)
+thereof. The sale of the Shares consummated on August 26, 2021, and was purchased by Silver Glory Group Limited using its working capital.
+As a result of the Transaction, Silver Glory Group Limited holds a controlling interest in the Company and may unilaterally determine
+the election of the members of the Board of Directors (the Board and other substantive matters requiring approval of the
+Company s stockholders. 
+
+Upon the closing of the Transaction,
+on August 26, 2021, the then current directors and officers of the Company resigned from his or her positions with the Company. The resignations
+were not due to any dispute or disagreement with the Company on any matter relating to the Company's operations, policies or practices. 
+
+Concurrently with such resignation,
+the following individuals were appointed to serve in the offices set forth next to his name until the next annual meeting of stockholders
+of the Company and until such director s successor is elected and qualified or until such director s earlier death, resignation
+or removal. 
+
+Name 
+ Office 
+ 
+ Zhigang Pei 
+ Chief Executive Officer, Chief Financial Officer, Secretary and Director 
+ 
+ Shufang Gao 
+ Director 
+ 
+ David Wei Fang 
+ Director 
+ 
+ Jack Fan Liu 
+ Director 
+ 
+ Yee ManYung 
+ Director 
+ 
+ Jimmy Weiyu Zhu 
+ Director 
+
+1 
+
+None of the directors or
+executive officers has a direct family relationship with any of the Company s directors or executive officers. Each officer and
+director will serve in his positions without compensation. The Company plans to enter into compensatory arrangements with its officers
+and directors in the future. 
+
+Current Business 
+
+Our principal business is
+to achieve long-term growth potential through a combination with a business rather than immediate, short-term earnings. Based on proposed
+business activities, we are a blank check company. We intend to comply with the periodic reporting requirements of the Exchange
+Act for so long as it is subject to those requirements. 
+
+As of the date of this Annual
+Report, we have not entered into any binding agreement with any party regarding acquisition opportunities for us. We hope to continue
+to engage in discussions with other operating businesses affiliated with our executive officers regarding potential acquisition opportunities.
+There is no assurance that any nonbinding term sheet will result into a definitive purchase transaction nor can we assure you that we
+will be able to successfully acquire such company or any company in the near future. 
+
+The analysis of new business
+opportunities will be undertaken by or under the supervision of the Company s officers. We have unrestricted flexibility in seeking,
+analyzing and participating in potential business opportunities. In its efforts to analyze potential acquisition targets, we will consider
+the following kinds of factors: 
+
+Potential for growth, indicated by new technology, anticipated market expansion or new products; 
+
+Competitive position as compared to other firms of similar size and experience within the industry segment as well as within the industry as a whole; 
+
+Strength and diversity of management, either in place or scheduled for recruitment; 
+
+Capital requirements and anticipated availability of required funds from the Registrant, from operations, through the sale of additional securities, through joint ventures or similar arrangements or from other sources; 
+
+The extent to which the business opportunity can be advanced; 
+
+The accessibility of required management expertise, personnel, raw materials, services, professional assistance and other required items; and 
+
+Other relevant factors. 
+
+In applying the foregoing
+criteria, no one of which will be controlling, management will attempt to analyze all factors and circumstances and make a determination
+based upon reasonable investigative measures and available data. Potentially available acquisition opportunities may occur in many different
+industries, and at various stages of development, all of which will make the task of comparative investigation and analysis of such business
+opportunities extremely difficult and complex. We may not discover or adequately evaluate adverse facts about the business to be acquired.
+In evaluating a prospective business combination, we will conduct as extensive a due diligence review of potential targets as possible
+given the lack of information that may be available regarding private companies, our limited personnel and financial resources. 
+
+We expect that our due diligence
+will encompass, among other things, meetings with the target business s incumbent management and inspection of its facilities, as
+necessary, as well as a review of financial and other information, which is made available to us. This due diligence review will be conducted
+either by our management or by unaffiliated third parties we may engage. Our lack of funds and the lack of full-time management will likely
+make it impracticable to conduct a complete and exhaustive investigation and analysis of a target business before we consummate a business
+combination. Management decisions, therefore, will likely be made without detailed feasibility studies, independent analysis, market surveys
+and the like which, if we had more funds available to us, would be desirable. We will be particularly dependent in making decisions upon
+information provided by the promoters, owners, sponsors or others associated with the target business seeking our participation. 
+
+The time and costs required
+to select and evaluate a target business and to structure and complete a business combination cannot presently be ascertained with any
+degree of certainty. Any costs incurred with respect to the indemnification and evaluation of a prospective business combination that
+is not ultimately completed will result in a loss to us. 
+
+2 
+
+Additionally, we are in a
+highly competitive market for a small number of business opportunities, which could reduce the likelihood of consummating a successful
+business combination. We are, and will continue to be, an insignificant participant in the business of seeking mergers with, joint ventures
+with and acquisitions of small private and public entities. A large number of established and well-financed entities, including small
+public companies and venture capital firms, are active in mergers and acquisitions of companies that may be desirable target candidates
+for us. Nearly all these entities have significantly greater financial resources, technical expertise and managerial capabilities than
+we do; consequently, we will be at a competitive disadvantage in identifying possible business opportunities and successfully completing
+a business combination. These competitive factors may reduce the likelihood of our identifying and consummating a successful business
+combination. 
+
+Historical Activities 
+
+2014 Securities Sale 
+
+In January 2014, we were a
+party to a securities purchase agreement (the 2014 SPA by and among ourselves, certain of our shareholders (the Selling
+Shareholders owning an aggregate of 27,000,000 shares (before the 2017 Reverse Stock Split) (approximately 51.7 of our common
+stock (the Sold Stock and Anton Lin Lin ). Pursuant to the 2014 SPA, Lin purchased the Sold Stock for 27,000
+(the Purchase Price from the Selling Shareholders in a private sale transaction (the Private Sale ). The Selling
+Shareholders were our former sole officer and director: Thomas Hynes Hynes and corporate secretary: Nina Bijedic Bijedic ).
+Pursuant to the 2014 SPA, Hynes and Bijedic submitted their resignations from all positions held with us; prior to the closing of the
+Private Sale, our Board of Directors appointed Lin as our sole director and Chief Executive Officer, which appointment took effect immediately
+following the close of the Private Sale. Following the Private Sale, a change in control occurred since Lin gained control of almost 52 
+of our outstanding common stock. 
+
+2015 Share Exchange 
+
+On July 15, 2015, we entered
+into a share exchange agreement (the Exchange Agreement with Steampunk Wizards Ltd., a company incorporated pursuant to
+the laws of Malta Malta Co. ), Lin, being the owner of record of 11,451,541 common shares (before the 2017 Reverse Stock
+Split) of the Company and the persons listed thereof (the Shareholders ), being the owners of record of all of the issued
+share capital of Malta Co. (the Steampunk Stock ). Pursuant to the Exchange Agreement, upon surrender by the Shareholders
+and the cancellation by Malta Co. of the certificates evidencing the Steampunk Stock as registered in the name of each Shareholder, and
+pursuant to the registration of us in the register of members maintained by Malta Co. as the new holder of the Steampunk Stock and the
+issuance of the certificates evidencing the aforementioned registration of the Steampunk Stock in the name of us, on August 21, 2015,
+we issued 4,812,209 shares (the New Shares (before the 2017 Reverse Stock Split) (subject to adjustment for fractionalized
+shares as set forth below) of our common to the Shareholders (or their designees), and Lin caused 10,096,229 shares (before the 2017 Reverse
+Stock Split) of our common stock that he owned (the Lin Stock, together with the New Shares, the Acquisition Stock to be transferred to the Shareholders (or their designees), which collectively represented 55 of the issued and outstanding common stock
+of us immediately after the Closing, in exchange for the Steampunk Stock, representing 100 of the issued share capital of Malta Co. As
+a result of the exchange of the Steampunk Stock for the Acquisition Stock (the Share Exchange ), Malta Co. became a wholly
+owned subsidiary (the Subsidiary of us and there was a change of control of us following the closing. The Shareholders
+of Malta Co. owned approximately 55 of our issued and outstanding common stock. There were no warrants, options or other equity instruments
+issued in connection with the Exchange Agreement. 
+
+Malta Co. was incorporated
+in 2014 to acquire the intellectual property (IP) related to an unfinished game called Tangled Tut. Making full use of the
+team s experience and diverse talent set, the company built the first mobile game with 3D printable rewards embedded and the associated
+IP and server technology. 
+
+Through Malta Co, we became
+an independent games development and technology company that specialized in developing enchanting games and gaming technology where the
+real and virtual worlds blur. We launched a mobile casual game called Bungee Mummy Challenges, designed primarily for smartphones
+and tablets (supporting both Android and IOS), in late August of 2015. 
+
+On January 29, 2016, Lin resigned
+from his CEO and sole director positions with Tianci, and Mr. Joshua O Cock became our CEO, CFO, Secretary and Director. 
+
+3 
+
+2016 Securities Sale and
+Spin-Off 
+
+On October 13, 2016, we entered
+into a spin-off agreement (the Spin-Off Agreement with Malta Co. and Praefidi Holdings Limited (the Buyer ),
+an entity organized under the laws of Malta that was owned by Brendon Grunewald. Pursuant to the Spin-Off Agreement, the Buyer received
+all of the issued and outstanding capital stock of Malta Co. and we received 2,000 as purchase price. The Buyer became the sole equity
+owner of Malta Co. and we had no further interest in Malta Co. 
+
+On October 13, 2016, shareholders
+who owned in the aggregate 18,071,445 shares (the 2016 Shares (before the 2017 Reverse Stock Split) of our common stock,
+representing approximately 65.1 of all our issued and outstanding common stock at the time, entered into a Share Purchase Agreement (the
+ Change of Control SP with certain purchasers listed therein pursuant to which the purchasers acquired the 2016 Shares for
+an aggregate purchase price of 150,000. In connection with the sale, a change in control occurred, and Mr. Joshua O Cock,
+our former President, Chief Executive Officer, Chief Financial Officer, Treasurer, Secretary and sole director, resigned from all of his
+director and officer positions with us. 
+
+Simultaneously with the closing,
+Cuilian Cai, was appointed as a director and Chief Executive Officer and Chief Financial Officer of Tianci. 
+
+Effective November 7, 2016,
+we changed our name from Steampunk Wizards, Inc. to Tianci International, Inc. 
+
+On January 4, 2017, we issued
+19,532,820 shares of our common stock (before the 2017 Reverse Stock Split) to certain purchasers in accordance with the terms and conditions
+of a Securities Purchase Agreement (the Private Placement SPA ), at price of 0.005 per share for an aggregate purchase price
+of 98,104. The shares sold in the private placement were issued in reliance on an exemption from registration under the Securities Act
+of 1933, as amended, pursuant to Section 4(2) thereof. The proceeds were used for working capital purposes. 
+
+2017 Securities Sale and
+Change in Control 
+
+On August 3, 2017, Tianci,
+ShiFang Wan SFW ), Chuah Su Mei, and Chuah Su Chen executed a Stock Purchase Agreement (the Stock Purchase Agreement ),
+pursuant to which SFW sold to the Chuah Su Chen and Chuah Su Mei an aggregate of 4,397,837 shares of Common Stock, or approximately 87 
+of the issued and outstanding Common Stock, at a purchase price of 350,000. The acquisition consummated on August 15, 2017, and 2,000,000
+shares of the Company s common stock were purchased by Chuah Su Chen using her own personal funds. Upon consummation, the former
+sole executive officer and director of Tianci resigned from all of her positions with Tianci, and Chuah Su Mei, Chuah Su Chen and Yeow
+Yuen Kai were appointed to serve in the positions set forth next to their names below: 
+
+Name 
+ Position 
+ 
+ Chuah Su Chen 
+ Director, Secretary and Chief Financial Officer 
+ 
+ Chuah Su Mei 
+ Director, Chief Executive Officer and President 
+ 
+ Yeow Yuen Kai 
+ Director and Chief Technology Officer 
+
+Chuah Su Chen and Chuah Su Mei are siblings. 
+
+Effective August 30, 2017, Jerry Ooi was appointed
+to serve as a Director of Tianci until his successor(s) shall be duly elected or appointed, unless he resigns, is removed from office
+or is otherwise disqualified from serving as a director of Tianci. Mr. Kai resigned from his position as the Chief Technology Officer
+effective September 20, 2017, and his position as our director effective August 31, 2019. 
+
+2020 Cancellation of Securities 
+
+In August 2020, Chuah Su Chen
+cancelled all shares of common stock held by her and Chuah Su Mei cancelled 604,837 shares of common stock held by her. As a result, Chuah
+Su Chen does not hold any shares of common stock of the Company and Chuah Su Mei holds 1,793,000 shares. The executive officers elected
+to cancel their shares to increase the number of shares available for future prospective corporate transactions including financings and
+acquisitions. 
+
+4 
+
+2021 Securities Sale
+and Change in Control 
+
+Effective August 6, 2021,
+Tianci International, Inc., a Nevada corporation we, us, or the Company ), Chuah Su Mei, our
+former Chief Executive Officer, President and Director, and Silver Glory Group Limited, entered into a Stock Purchase Agreement (the Stock
+Purchase Agreement pursuant to which Chuah Su Mei agreed to sell to Silver Glory Group Limited all 1,793,000 shares of common
+stock of the Company held by her (the Shares for cash consideration of Five Hundred Twenty Five Thousand Dollars 525,000)
+(the Transaction ). The Shares represent approximately 73.18 of the issued and outstanding common stock of the Company and
+are being sold in reliance upon an exemption from registration under the Securities Act of 1933, as amended, pursuant to Section 4(2)
+thereof. The sale of the Shares consummated on August 26, 2021, and was purchased by Silver Glory Group Limited using its working capital.
+As a result of the Transaction, Silver Glory Group Limited holds a controlling interest in the Company and may unilaterally determine
+the election of the members of the Board of Directors (the Board and other substantive matters requiring approval of the
+Company s stockholders. 
+
+Upon the closing of the Transaction,
+on August 26, 2021, the then current directors and officers of the Company resigned from his or her positions with the Company. The resignations
+were not due to any dispute or disagreement with the Company on any matter relating to the Company's operations, policies or practices.
+Each of the foregoing former officers and directors also forgave all amounts due to them from the Company in connection with the closing
+of the Transaction. 
+
+Concurrently with such resignation,
+the following individuals were appointed to serve in the offices set forth next to his name until the next annual meeting of stockholders
+of the Company and until such director s successor is elected and qualified or until such director s earlier death, resignation
+or removal. 
+
+Name 
+ Office 
+ 
+ Zhigang Pei 
+ Chief Executive Officer, Chief Financial Officer, Secretary and Director 
+ 
+ Shufang Gao 
+ Director 
+ 
+ David Wei Fang 
+ Director 
+ 
+ Jack Fan Liu 
+ Director 
+ 
+ Yee ManYung 
+ Director 
+ 
+ Jimmy Weiyu Zhu 
+ Director 
+
+None of the directors or
+executive officers has a direct family relationship with any of the Company s directors or executive officers. Each officer and
+director will serve in his positions without compensation. The Company plans to enter into compensatory arrangements with its officers
+and directors in the future. 
+
+Employees . As
+of the date of this Annual Report, we did not have any employees. We expect to hire employees after the acquisition of an operating business. 
+
+Item 1A. Risk Factors 
+
+As a smaller reporting
+company, we are not required to provide the information required by this Item. 
+
+Item 1B. Unresolved Staff
+Comments 
+
+None. 
+
+Item 2. Properties 
+
+We do not own any property.
+Our principal offices located at No. A1111, Huafeng Financial Port, 1003, Xin an Sixth Road, Bao an District, Shenzhen, Guangdong
+Province, P.R.C. is being provided to us by our executive officer, Pei Zhigang, free of charge. 
+
+Item 3. Legal Proceedings 
+
+From time to time, we may
+be involved in litigation relating to claims arising out of our operations in the normal course of business. We are not aware of any pending
+or threatened legal proceeding that, if determined in a manner adverse to us, could have a material adverse effect on our business and
+operations. 
+
+Item 4. Mine Safety Disclosures 
+
+Not applicable. 
+
+5 
+
+PART II 
+
+Item 5. Market for Registrant s Common Equity,
+Related Stockholder Matters and Issuer Purchases of Equity Securities 
+
+Market Information 
+
+Our company's common stock
+is quoted on the OTCQB under the symbol CIIT . Our stock did not begin trading until March 15, 2013. There is currently no
+established public trading market for our common stock, and there can be no assurance that we will be able to establish or maintain such
+public trading market for our securities in the future, if ever. 
+
+The following table sets forth
+the quarterly high and low closing bid prices for the common stock for the past two fiscal years. The prices set forth below represent
+inter-dealer quotations, without retail markup, markdown or commission and may not be reflective of actual transactions. 
+
+High 
+
+Low 
+
+Quarter ended July 31, 2021 
+
+1.77 
+
+0.41 
+
+Quarter ended April 30, 2021 
+
+2.02 
+
+0.50 
+
+Quarter ended January 31, 2021 
+
+3.90 
+
+0.70 
+
+Quarter ended October 31, 2020 
+
+2.50 
+
+0.15 
+
+Quarter ended July 31, 2020 
+
+0.58 
+
+0.10 
+
+Quarter ended April 30, 2020 
+
+1.75 
+
+0.56 
+
+Quarter ended January 31, 2020 
+
+1.90 
+
+0.80 
+
+Quarter ended October 31, 2019 
+
+2.05 
+
+1.20 
+
+On October 19, 2021, the closing bid price of the
+common stock was 1.95. 
+
+Holders 
+
+As of October 18, 2021, there
+were 88 stockholders of record and an aggregate of 2,450,148 shares of our common stock were issued and outstanding. Our common shares
+are issued in registered form. The transfer agent of our company's common stock is Action Stock Transfer Corporation at 2469 E Fort Union
+Blvd, Suite 214, Salt Lake City, UT 84121. 
+
+Description of Securities 
+
+The authorized capital stock
+of our company consists of 100,000,000 of common stock, at 0.0001 par value, and 20,000,000 shares of preferred stock, at 0.0001 par
+value. 
+
+Dividend Policy 
+
+We have not paid any cash
+dividends on our common stock and have no present intention of paying any dividends on the shares of our common stock. Our current policy
+is to retain earnings, if any, for use in our operations and in the development of our business. Our future dividend policy will be determined
+from time to time by our board of directors. 
+
+Equity Compensation Plan Information 
+
+We do not have in effect any
+compensation plans under which our equity securities are authorized for issuance and we do not have any outstanding stock options. 
+
+Recent Sales of Unregistered Securities 
+
+None. 
+
+6 
+
+Purchase of Equity Securities by the Issuer
+and Affiliated Purchasers 
+
+We did not purchase any of our shares of common
+stock or other securities during our fourth quarter of our fiscal year ended July 31, 2021. 
+
+Item 6. Selected Financial
+Data 
+
+As a smaller reporting
+company, we are not required to provide the information required by this Item. 
+
+Item 7. Management s
+Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following discussion should
+be read in conjunction with our audited financial statements and the related notes that appear elsewhere in this annual report. The following
+discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties, such as our plans,
+objectives, expectations and intentions. Actual results and the timing of events could differ materially from those anticipated in these
+forward-looking statements as a result of a number of factors, including those set forth under the Item 1A. Risk Factors, Cautionary Notice
+Regarding Forward-Looking Statements and Business sections in this Form 10-K. We use words such as anticipate, estimate, 
+ plan, project, continuing, ongoing, expect, believe, 
+ intend, may, will, should, could, and similar expressions to identify
+forward-looking statements. 
+
+Our audited financial statements
+are stated in United States Dollars and are prepared in accordance with Generally Accepted Accounting Principles of the United States
+of America (the U.S. GAAP) 
+
+Overview 
+
+We are currently a shell
+company with no meaningful assets or operations other than our efforts to identify and merge with an operating company. We were
+incorporated in the State of Nevada on June 13, 2012. Our current business office is located at No. A1111, Huafeng Financial Port, 1003,
+Xin an Sixth Road, Bao an District, Shenzhen, Guangdong Province, P.R.C. Our telephone number is +86-13926561348. 
+
+We were initially an exploration
+stage company under the name of Freedom Petroleum Inc. (changed to Steampunk Wizards, Inc., effective on July 2, 2015) that originally
+intended to engage in the exploration and development of oil and gas properties. In April 2015, after reviewing the markets with investor
+appetite and management's duties to its shareholders, the Company determined to discontinue its oil and gas operation. We then began exploring
+opportunities in the computer gaming and application industry. 
+
+We engaged in computer game
+development until October 13, 2016, when control of our company changed pursuant to a share purchase agreement and a spin-off agreement.
+On October 26, 2016, our corporate name was changed from Steampunk Wizards, Inc. to Tianci International, Inc. 
+The name change was effected on November 27, 2016, pursuant to Nevada Revised Statutes Section 92A.180 in connection with the merger of
+us into our then subsidiary, Tianci International Inc. 
+
+On August 3, 2017, we entered
+into a Stock Purchase Agreement (the SPA with Shifang Wan (the Seller ), the record holder of 4,397,837 common
+shares, or approximately 87.00 of the issued and outstanding of Common Stock of the Company, and Chuah Su Chen and Chuah Su Mei (collectively,
+the Purchasers , and together with the Company and the Seller, the Parties ). Pursuant to the SPA, the Seller
+sold to the Purchasers and the Purchasers acquired from the Sellers the Shares for a total gross purchase price of Three Hundred Fifty
+Thousand Dollars 350,000). The acquisition was consummated on August 15, 2017. The Purchasers used personal funds to acquire the Shares. 
+
+Upon the consummation of the
+sale, Ms. Cuilian Cai resigned from her positions as director, Chief Executive Officer and Chief Financial Officer of the Company. Her
+resignation was not due to any dispute or disagreement with the Company on any matter relating to the Company's operations, policies or
+practices. Chuah Su Chen and Chuah Su Mei were appointed to serve in the positions set forth next to their names below: 
+
+Name 
+ Position 
+ 
+ Chuah Su Chen 
+ Director, Chief Financial Officer and Secretary 
+ 
+ Chuah Su Mei 
+ Director, Chief Executive Officer and President 
+
+Chuah Su Chen and Chuah Su Mei are sisters. 
+
+7 
+
+We are in active discussions
+with an operating business affiliated with our executive officers regarding potential acquisition. There is no assurance that we will
+be able to successfully acquire such company or any company in the near future. 
+
+Effective August 6, 2021,
+Tianci International, Inc., a Nevada corporation we, us, or the Company ), Chuah Su Mei, our
+Chief Executive Officer, President and Director, and Silver Glory Group Limited, entered into a Stock Purchase Agreement (the Stock
+Purchase Agreement pursuant to which Chuah Su Mei agreed to sell to Silver Glory Group Limited all 1,793,000 shares of common
+stock of the Company held by her (the Shares for cash consideration of Five Hundred Twenty Five Thousand Dollars 525,000)
+(the Transaction ). The Shares represent approximately 73.18 of the issued and outstanding common stock of the Company and
+are being sold in reliance upon an exemption from registration under the Securities Act of 1933, as amended, pursuant to Section 4(2)
+thereof. The sale of the Shares consummated on August 26, 2021, and was purchased by Silver Glory Group Limited using its working capital.
+As a result of the Transaction, Silver Glory Group Limited holds a controlling interest in the Company and may unilaterally determine
+the election of the members of the Board of Directors (the Board and other substantive matters requiring approval of the
+Company s stockholders. 
+
+Upon the closing of the Transaction,
+on August 26, 2021, each of Chuah Su Chen, Chuah Su Mei, and Jerry Ooi, constituting all current directors and officers of the Company,
+resigned from his or her positions with the Company. The resignations were not due to any dispute or disagreement with the Company on
+any matter relating to the Company's operations, policies or practices. Each of the foregoing former officers and directors also forgave
+all amounts due to them from the Company in connection with the closing of the Transaction. 
+
+Concurrently with such resignation,
+the following individuals were appointed to serve in the offices set forth next to his name until the next annual meeting of stockholders
+of the Company and until such director s successor is elected and qualified or until such director s earlier death, resignation
+or removal. 
+
+Name 
+ Office 
+ 
+ Zhigang Pei 
+ Chief Executive Officer, Chief Financial Officer, Secretary and Director 
+ 
+ Shufang Gao 
+ Director 
+ 
+ David Wei Fang 
+ Director 
+ 
+ Jack Fan Liu 
+ Director 
+ 
+ Yee ManYung 
+ Director 
+ 
+ Jimmy Weiyu Zhu 
+ Director 
+
+None of the directors or
+executive officers has a direct family relationship with any of the Company s directors or executive officers. Each officer and
+director will serve in his positions without compensation. The Company plans to enter into compensatory arrangements with its officers
+and directors in the future. 
+
+Limited Operating History; Need for Additional Capital 
+
+We have had limited operations
+and have been issued a going concern opinion by our auditor, based upon our reliance on the sale of our common stock and loans
+from a related party, as the sole source of funds for our future operations. 
+
+There is no historical financial
+information about us upon which to base an evaluation of our performance. We have not generated any revenues from operations. We cannot
+guarantee we will be successful in our business operations. Our business is subject to risks inherent in the establishment of a new business
+enterprise, including limited capital resources, possible delays in the launching of our games and market or wider economic downturns.
+We do not believe we have sufficient funds to operate our business for the next 12 months. 
+
+We have no assurance that
+future financing will be available to us on acceptable terms, or at all. If financing is not available on satisfactory terms, we may be
+unable to continue, develop or expand our operations. Equity financing could result in additional dilution to existing shareholders. If
+we are unable to raise additional capital to maintain our operations in the future, we may be unable to carry out our full business plan
+or we may be forced to cease operations. 
+
+8 
+
+Going Concern 
+
+Our financial statements have
+been prepared on a going concern basis which assumes the Company will be able to realize its assets and discharge its liabilities in the
+normal course of business for the foreseeable future. As of July 31, 2021, the Company had working capital deficiency of 325,110 and
+has incurred losses since its inception resulting in an accumulated deficit of 1,452,661. Further losses are anticipated in the development
+of the business, raising substantial doubt about the Company s ability to continue as a going concern. The financial statements
+do not include any adjustment that might result from the outcome of this uncertainty. 
+
+The ability to continue as
+a going concern is dependent upon the Company generating profitable operations in the future and/or to obtain the necessary financing
+to meet its obligations and repay its liabilities arising from normal business operations when they come due. Management intends to finance
+operating costs over the next twelve months with loans from directors and/or private placements of common stock. 
+
+Results of Operations 
+
+The following tables provide selected financial
+data about our company as of and for the years ended July 31, 2021 and 2020. 
+
+Balance Sheet Data 
+
+July 31, 
+ July 31, 
+
+2021 
+ 2020 
+ Change 
+
+Cash 
+ 3,951 
+ 3,968 
+ (17 
+ 
+ Total assets 
+ 17,951 
+ 15,968 
+ 1,983 
+ 
+ Total liabilities 
+ 343,061 
+ 266,694 
+ 76,367 
+ 
+ Stockholders' equity (deficit) 
+ (325,110 
+ (250,726 
+ (74,384 
+
+Summary Income Statement Data 
+
+Year Ended 
+
+July 31, 
+
+2021 
+ 2020 
+ Change 
+ 
+ Net Revenue 
+
+Total Operating Expenses 
+ 63,003 
+ 73,848 
+ (10,845 
+ 
+ Loss From Operations 
+ 63,003 
+ 73,848 
+ (10,845 
+ 
+ Other Expenses 
+ (11,381 
+ 
+ 11,381 
+ 
+ Net Loss 
+ 74,384 
+ 73,848 
+ 536 
+
+Revenue . During the fiscal years
+ended July 31, 2021 and 2020, we did not generate any revenues. 
+
+Operating Expenses . Operating expenses
+were 63,003 and 73,848 for the years ended July 31, 2021 and 2020, respectively. Operating expenses mainly consisted of professional
+fees and office and miscellaneous expenses. The decrease in operating expenses resulted primarily from the decrease in professional fees
+offset by an increase in office and miscellaneous expenses. We expect our operating expenses to increase once we identify and consummate
+the acquisition of an operating company. 
+
+Loss from Operations . For
+the years ended July 31, 2021, and 2020, we incurred a loss from operations of 63,003 and 73,848, respectively. The decrease in loss
+from operations was attributable to the decrease in professional fees. 
+
+Net Loss. For the years ended July 31, 2021, and 2020, we incurred
+a net loss of 74,384 and 73,848, respectively. The increase in net loss was primarily attributable to the increase in other expenses
+of 11,381, which was an income tax penalty. 
+
+9 
+
+Liquidity and Capital Resources 
+
+Working Capital 
+
+July 31, 
+ July 31, 
+
+2021 
+ 2020 
+ Change 
+ 
+ Current Assets 
+ 17,951 
+ 15,968 
+ 1,983 
+ 
+ Current Liabilities 
+ 343,061 
+ 266,694 
+ 76,367 
+ 
+ Working Capital (Deficiency) 
+ (325,110 
+ (250,726 
+ (74,384 
+
+As of July 31, 2021 we had working capital deficit
+of 325,110 as compared to working capital deficit of 250,726 as of July 31, 2020. The increase in working capital deficit was mainly
+due to an increase in amounts due to related part ies for the payment of
+operating expenses. 
+
+Cash Flows 
+
+Year Ended 
+
+July 31, 
+
+2021 
+ 2020 
+ 
+ Cash used in operating activities 
+ (74,248 
+ (73,230 
+ 
+ Cash provided by investing activities 
+
+Cash provided by financing activities 
+ 74,231 
+ 73,230 
+ 
+ Net change in cash and cash equivalents 
+ (17 
+
+Cash Flow from Operating Activities 
+
+During the year ended July 31, 2021, net cash
+used in operating activities was 74,248, compared to 73,230 for the year ended July 31, 2020. The increase in net cash used in operating
+activities was mainly due to the increase in net loss and prepaid expenses. 
+
+Cash Flow from Investing Activities 
+
+During the years ended July 31, 2021, and 2020,
+we had no cash flow from investing activities. 
+
+Cash Flow from Financing Activities 
+
+During the year ended July 31, 2021, net cash
+provided by financing activities was 74,231, compared to 73,230 for the year ended July 31, 2020. The increase in net cash provided
+by financing activities was mainly due to the increase in proceeds from related parties. 
+
+Off-Balance Sheet Arrangements 
+
+We do not have any off-balance sheet arrangements
+that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues
+or expenses, results of operations, liquidity, capital expenditures, or capital resources that is material to investors. 
+
+10 
+
+Critical Accounting Policies 
+
+The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States of America U.S. GAAP requires estimates and assumptions
+that affect the reported amounts of assets and liabilities, revenues and expenses, and related disclosures of contingent assets and liabilities
+in the financial statements and accompanying notes. The SEC has defined a company s critical accounting policies as the ones that
+are most important to the portrayal of the company s financial condition and results of operations, and which require the company
+to make its most difficult and subjective judgments, often as a result of the need to make estimates of matters that are inherently uncertain.
+Based on this definition, we have not identified any additional critical accounting policies and judgments. We also have other key accounting
+policies, which involve the use of estimates, judgments and assumptions that are significant to understanding our results, which are described
+in Note 3 to our financial statements. Although we believe that our estimates, assumptions and judgments are reasonable, they are based
+upon information presently available. Actual results may differ significantly from these estimates under different assumptions, judgments
+or conditions. 
+
+Item 7A. Quantitative and Qualitative Disclosures
+About Market Risk 
+
+As a smaller reporting
+company , we are not required to provide the information required by this Item. 
+
+11 
+
+Item 8. Financial Statements and Supplementary
+Data 
+
+TIANCI INTERNATIONAL, INC. 
+
+FINANCIAL STATEMENTS 
+
+TABLE OF CONTENTS 
+
+PAGE 
+ 
+ Report of Independent Registered Public Accounting Firm 
+ F-1 
+
+Balance Sheets as of July 31, 2021 and 2020 
+ F-2 
+
+Statements of Operations for the years ended July 31, 2021 and 2020 
+ F-3 
+
+Statement of Changes in Stockholders Deficit for the years ended July 31, 2021 and 2020 
+ F-4 
+
+Statements of Cash Flows for the years ended July 31, 2021 and 2020 
+ F-5 
+
+Notes to Financial Statements 
+ F-6 
+
+12 
+
+Audit T ax C onsulting F inancial A dvisory Registered with Public Company Accounting Oversight Board (PCAOB) 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+
+To the Board of Directors and Shareholders of 
+
+ Tianci International, Inc. 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying balance sheets
+of Tianci International, Inc. (the Company as of July 31, 2021 and 2020, the related statements of operations, stockholders 
+deficit, and cash flows for the years ended July 31, 2021 and 2020, and the related notes (collectively
+referred to as the financial statements . In our opinion, the financial statements present fairly, in all material
+respects, the financial position of the Company at July 31, 2021 and 2020, and the results of its operations and its cash flows for
+the years ended July 31, 2021 and 2020, in conformity with the U.S. generally accepted accounting principles. 
+
+Going Concern 
+
+The accompanying financial statements have been
+prepared assuming the Company will continue as a going concern. As described in Note 2 to the financial statements, the Company has not
+yet established an ongoing source of revenues sufficient to cover its operating costs, which raises substantial doubt about its ability
+to continue as a going concern. Management s plans with regard to these matters are described in Note 2. The accompanying
+financial statements do not include any adjustments that might result from the outcome of this uncertainty. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility
+of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our
+audits. We are a public accounting firm registered with the Public Company Accounting Oversight
+Board (United States) PCAOB and are required to be independent with respect to the Company in accordance with the
+U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the
+standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether
+the financial statements are free of material misstatement , whether due to error or fraud. The
+Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of
+our audits, we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing
+an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess
+the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond
+to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating
+the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+Critical audit matters are matters arising from the current-period
+audit of the financial statements that were communicated or required to be communicated to the audit committee and that (1) relate to
+accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective, or complex
+judgments. We determined that there are no critical audit matters. 
+
+/s/ KCCW Accountancy Corp. 
+
+We have served as the Company s
+auditor since 2017. 
+
+ Diamond Bar, California 
+
+ October 20, 2021 
+
+ KCCW
+Accountancy Corp. 
+
+ 3333 South Brea Canyon Rd. #206,
+Diamond Bar, CA 91765, USA 
+
+ Tel: +1
+909 348 7228 Fax: +1 909 895 4155 info@kccwcpa.com 
+
+F- 1 
+
+TIANCI INTERNATIONAL, INC. 
+
+ BALANCE SHEETS 
+
+July 31, 
+ July 31, 
+
+2021 
+ 2020 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash 
+ 3,951 
+ 3,968 
+ 
+ Prepaid expenses 
+ 14,000 
+ 12,000 
+ 
+ Total Current Assets 
+ 17,951 
+ 15,968 
+
+TOTAL ASSETS 
+ 17,951 
+ 15,968 
+
+LIABILITIES AND STOCKHOLDERS' DEFICIT 
+
+Current Liabilities 
+
+Accounts payable and accrued liabilities 
+ 9,896 
+ 7,759 
+ 
+ Due to related parties 
+ 333,165 
+ 258,935 
+ 
+ Total Current Liabilities 
+ 343,061 
+ 266,694 
+
+Total Liabilities 
+ 343,061 
+ 266,694 
+
+Commitments and Contingencies 
+
+STOCKHOLDERS' DEFICIT 
+
+Preferred stock, 0.0001 par value; 20,000,000 shares authorized; no shares issued and outstanding 
+
+Common stock, 0.0001 par value, 100,000,000 shares authorized; 2,450,148 shares and 4,751,718 shares
+ issued and outstanding, respectively 
+ 245 
+ 475 
+ 
+ Additional paid-in capital 
+ 1,127,306 
+ 1,127,076 
+ 
+ Accumulated deficit 
+ (1,452,661 
+ (1,378,277 
+ 
+ Total Stockholders' Deficit 
+ (325,110 
+ (250,726 
+ 
+ TOTAL LIABILITIES AND STOCKHOLDERS' DEFICIT 
+ 17,951 
+ 15,968 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+F- 2 
+
+TIANCI INTERNATIONAL, INC. 
+
+ STATEMENTS OF OPERATIONS 
+
+Year Ended 
+
+July 31, 
+
+2021 
+ 2020 
+
+Revenues 
+
+Operating Expenses 
+
+General administrative expenses 
+ 624 
+ 492 
+ 
+ Professional fees 
+ 62,379 
+ 73,356 
+ 
+ Total Operating Expenses 
+ 63,003 
+ 73,848 
+
+Loss from Operations 
+ (63,003 
+ (73,848 
+
+Other Income (Expense) 
+
+Other expenses 
+ (11,381 
+
+Total Other Income (Expense) 
+ (11,381 
+
+Loss before Income Taxes 
+ (74,384 
+ (73,848 
+ 
+ Provision for income taxes 
+
+Net Loss 
+ (74,384 
+ (73,848 
+
+Basic and diluted loss per common share 
+ (0.03 
+ (0.01 
+ 
+ Basic and diluted weighted average common shares outstanding 
+ 2,469,065 
+ 5,046,699 
+
+The accompanying notes are an integral part
+of these financial statements. 
+
+F- 3 
+
+TIANCI INTERNATIONAL, INC. 
+
+ STATEMENTS OF CHANGES IN STOCKHOLDERS 
+DEFICIT 
+
+ FOR YEARS ENDED JULY 31, 2021 AND 2020 
+
+Common Stock 
+ Additional 
+ 
+ Total 
+
+Number of Shares 
+ Amount 
+ Paid-in 
+ Capital 
+ Accumulated 
+ Deficit 
+ Shareholders' 
+ Deficit 
+
+Balance - July 31, 2019 
+ 5,054,985 
+ 505 
+ 1,127,046 
+ (1,304,429 
+ (176,878 
+ 
+ Cancellation of common shares 
+ (303,267 
+ (30 
+ 30 
+
+Net loss 
+
+(73,848 
+ (73,848 
+ 
+ Balance - July 31, 2020 
+ 4,751,718 
+ 475 
+ 1,127,076 
+ (1,378,277 
+ (250,726 
+ 
+ Cancellation of common shares 
+ (2,301,570 
+ (230 
+ 230 
+
+Net loss 
+
+(74,384 
+ (74,384 
+ 
+ Balance - July 31, 2021 
+ 2,450,148 
+ 245 
+ 1,127,306 
+ (1,452,661 
+ (325,110 
+
+The accompanying notes are an integral part
+of these financial statements 
+
+F- 4 
+
+TIANCI INTERNATIONAL, INC. 
+
+ STATEMENTS OF CASH FLOWS 
+
+Year Ended 
+
+July 31, 
+
+2021 
+ 2020 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net loss 
+ (74,384 
+ (73,848 
+ 
+ Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Changes in operating assets and liabilities: 
+
+Prepaid expenses 
+ (2,000 
+ 30 
+ 
+ Accounts payable and accrued liabilities 
+ 2,136 
+ 588 
+ 
+ Net cash used in operating activities 
+ (74,248 
+ (73,230 
+
+CASH FLOWS FROM FINANCING ACTIVITIES 
+
+Proceeds from related parties 
+ 74,231 
+ 73,230 
+ 
+ Net cash provided by financing activities 
+ 74,231 
+ 73,230 
+
+Net change in cash 
+ (17 
+
+Cash - beginning of period 
+ 3,968 
+ 3,968 
+ 
+ Cash - end of period 
+ 3,951 
+ 3,968 
+
+Supplemental Cash Flow Disclosures 
+
+Cash paid for interest 
+
+Cash paid for income taxes 
+
+Non-cash financing and investing activities 
+
+Cancellation of common shares 
+ 230 
+ 30 
+
+The accompanying notes are an integral part
+of these financial statement 
+
+F- 5 
+
+TIANCI INTERNATIONAL, INC. 
+
+ NOTES TO FINANCIAL STATEMENTS 
+
+NOTE 1 - ORGANIZATION AND DESCRIPTION OF BUSINESS 
+
+Tianci International, Inc. (the Company ,
+ Tianci was incorporated under the laws of the State of Nevada, as Freedom Petroleum, Inc. on June 13, 2012. In May 2015,
+the Company changed its name to Steampunk Wizards, Inc. and on November 9, 2016, the Company changed its name to Tianci International,
+Inc. As of the date of this report, the Company is a holding company and has not carried out substantive business operations of its own. 
+
+The Company s fiscal year end is July 31. 
+
+NOTE 2 GOING CONCERN MATTERS 
+
+As of July 31, 2021, the Company had 3,951 in
+cash held in trust. The Company had incurred a net loss of 74,384 for the year ended July 31, 2021. 
+
+The Company s cash balance and revenues
+generated are not currently sufficient and cannot be projected to cover operating expenses for the next twelve months from the date of
+this report. These matters raise substantial doubt about the Company s ability to continue as a going concern. Management s
+plans include attempting to improve its business profitability, its ability to generate sufficient cash flows from its operations to meet
+its operating needs on a timely basis, obtain additional working capital funds through equity and debt financing arrangements, and restructure
+on-going operations to eliminate inefficiencies to raise cash balance in order to meet its anticipated cash requirements for the next
+twelve months from the date of this report. However, there can be no assurance that these plans and arrangements will be sufficient to
+fund the Company s ongoing capital expenditures, working capital, and other requirements. Management intends to make every effort
+to identify and develop sources of funds. The outcome of these matters cannot be predicted at this time. There can be no assurance that
+any additional financings will be available to the Company on satisfactory terms and conditions, if at all. 
+
+The ability of the Company to continue as a going concern is dependent
+upon its ability to raise additional capital and continue profitable operations. The accompanying financial statements do not include
+any adjustments that might result from the outcome of this uncertainty. 
+
+NOTE 3 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis of Presentation 
+
+The annual financial information referred to above
+has been prepared and presented in conformity with accounting principles generally accepted in the United States of America applicable
+to annual financial information and with the instructions to Form 10-K and regulation of the Securities and Exchange Commission SEC ).
+The annual financial information has been prepared on a basis consistent with prior periods and years and includes all disclosures that
+are necessary and required by applicable laws and regulations. 
+
+F- 6 
+
+The accompanying financial statements and notes
+are presented in accordance with accounting principles generally accepted in the United States of America (the U.S. GAAP) and are
+presented in U.S. dollars. These annual financial statements include all adjustments that, in the opinion of management, are necessary
+in order to make the financial statements not misleading. 
+
+Use of Estimates 
+
+The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements. The estimates and judgments will also affect the reported amounts for certain revenues and expenses during the reporting period.
+Actual results could differ from these good faith estimates and judgments. 
+
+Cash and Cash Equivalents 
+
+Cash and cash equivalents include cash on hand,
+cash in trust, and all highly liquid debt instruments with original maturities of three months or less. The Company had 3,951 and 3,968
+in cash and cash equivalents as of July 31, 2021 and 2020, respectively. 
+
+Fair Value Measurements 
+
+As defined in ASC 820 Fair Value Measurements, 
+fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market
+participants at the measurement date (exit price). The Company utilizes market data or assumptions that market participants would use
+in pricing the asset or liability, including assumptions about risk and the risks inherent in the inputs to the valuation technique. These
+inputs can be readily observable, market corroborated, or generally unobservable. The Company classifies fair value balances based on
+the observability of those inputs. ASC 820 establishes a fair value hierarchy that prioritizes the inputs used to measure fair value.
+The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (level 1 measurement)
+and the lowest priority to unobservable inputs (level 3 measurement). 
+
+The Company's financial instruments consist of
+cash, prepaid expense, accounts payable, and due to related parties. The carrying amounts of these financial instruments approximate
+fair value due to either length of maturity or interest rates that approximate prevailing rates unless otherwise disclosed in these financial
+statements. 
+
+Revenue Recognition 
+
+The Company has yet to generate revenues from
+operations. The Company will recognize revenue when control of the promised goods or services are transferred to a customer, in an amount
+that reflects the consideration that the Company expects to receive in exchange for those goods or services. 
+
+Income Taxes 
+
+Income taxes are accounted for under the asset
+and liability method. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between
+the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating loss and tax
+credit carry forwards. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in
+the years in which those temporary differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities
+of a change in tax rates is recognized in income in the period that includes the enactment date. A valuation allowance is recorded to
+reduce the Company s deferred tax assets to the amount that is more likely than not to be realized. See Note 6 for information related
+to income taxes, including the recorded balances of its valuation allowance related to deferred tax assets. 
+
+F- 7 
+
+Basic and Diluted Earnings (Loss) Per Share 
+
+Basic earnings (loss) per share is calculated
+by dividing the Company s net loss applicable to common stockholders by the weighted average number of common shares during the
+period. Diluted earnings per share is calculated by dividing the Company s net loss available to common stockholders by the diluted
+weighted average number of shares outstanding during the year. The diluted weighted average number of shares outstanding is the basic
+weighted number of shares adjusted for any potentially dilutive debt or equity. There are no such common stock equivalents outstanding
+as of July 31, 2021 and 2020. 
+
+Recent Accounting Pronouncements 
+
+In June 2016, the FASB issued ASU No. 2016-13,
+Financial Instruments-Credit Losses (Topic 326), which requires entities to measure all expected credit losses for financial assets held
+at the reporting date based on historical experience, current conditions, and reasonable and supportable forecasts. This replaces the
+existing incurred loss model and is applicable to the measurement of credit losses on financial assets measured at amortized cost. This
+guidance is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2022. Early application
+will be permitted for all entities for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2018.
+The Company is currently evaluating the impact that the standard will have on its financial statements. 
+
+In March 2020, the FASB issued ASU 2020-04, Reference
+Rate Reform (Topic 848) ASU 2020-04 ). ASU 2020-04 contains practical expedients for reference rate reform related activities
+that impact debt, leases, derivatives and other contracts. The guidance in ASU 2020-04 is optional and may be elected over time as reference
+rate reform activities occur. The Company continues to evaluate the impact of the guidance and may apply the elections as applicable as
+changes in the market occur. 
+
+NOTE 4 DUE TO RELATED PARTIES 
+
+During the years ended July 31, 2021 and 2020,
+a shareholder of the Company advanced 74,231 and 73,230 for working capital purpose, respectively. 
+
+As of July 31, 2021, and July 31, 2020, the Company
+owed 333,165 and 258,935, respectively, to a shareholder of the Company. This loan is non-interest bearing and due on demand. 
+
+NOTE 5 - EQUITY 
+
+Preferred Stock 
+
+The Company has 20,000,000 authorized preferred
+shares with a par value of 0.0001 per share. The Board of Directors are authorized to divide the authorized shares of Preferred Stock
+into one or more series, each of which shall be so designated as to distinguish the shares thereof from the shares of all other series
+and classes. 
+
+There were no shares of preferred stock issued
+and outstanding as of July 31, 2021 and 2020. 
+
+Common Stock 
+
+The Company has 100,000,000 authorized common
+shares with a par value of 0.0001 per share. 
+
+On July 22, 2020, the Chief Executive Officer
+of the Company cancelled 303,267 shares of common stock. 
+
+On August 4, 2020, the Chief Executive Officer
+of the Company cancelled 301,570 shares of common stock and Chief Financial Officer of the Company cancelled 2,000,000 shares of common
+stock. 
+
+As of July 31, 2021 and 2020, there were 2,450,148
+shares and 4,751,718 shares of common stock issued and outstanding, respectively. 
+
+F- 8 
+
+NOTE 6 INCOME TAXES 
+
+The Company files income tax returns in the
+U.S. federal jurisdiction, and state and local jurisdictions. 
+
+The Company follows ASC 740. Deferred income taxes
+reflect the net effect of (a) temporary difference between carrying amounts of assets and liabilities for financial purposes and the amounts
+used for income tax reporting purposes, and (b) net operating loss carry-forwards. No net provision for refundable Federal income tax
+has been made in the accompanying statements of operations because no recoverable taxes were paid previously. Similarly, no deferred tax
+asset attributable to the net operating loss carry-forward has been recognized, as it is not deemed likely to be realized. 
+
+The income tax benefit for the years ended July
+31, 2021 and 2020 consists of the following: 
+
+For the Years Ended 
+
+July 31, 
+
+2021 
+ 2020 
+
+Loss before income tax 
+ (74,384 
+ (73,848 
+ 
+ Tax rate 
+ 21 
+ 21 
+
+Income tax expense (benefit) at statutory rate 
+ (15,621 
+ (15,508 
+ 
+ Change in valuation allowance 
+ 15,621 
+ 15,508 
+ 
+ Income tax expense (benefit) 
+
+Deferred taxes reflect the net tax effect of temporary
+differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts recorded for tax purposes.
+Significant components of the Company s deferred tax assets and liabilities are as follows: 
+
+As of July 31, 
+
+2021 
+ 2020 
+
+Net operating losses carryover 
+ 494,957 
+ 479,336 
+ 
+ Valuation allowance 
+ (494,957 
+ (479,336 
+ 
+ Net deferred tax asset 
+
+The reconciliation of the effective income tax rate to the U.S. federal
+statutory rate as of July 31, 2021 and 2020: 
+
+As of July 31, 
+
+2021 
+ 2020 
+ 
+ Federal income tax rate 
+ 21 
+ 21 
+ 
+ Increase in valuation allowance 
+ -21 
+ -21 
+ 
+ Effective income tax rate 
+ 0 
+ 0 
+
+At July 31, 2021 and 2020, the Company had 2,356,937
+and 2,282,553, respectively of the U.S. net operating losses (the U.S. NOLs ), which begin to expire beginning in 2034.
+NOLs generated in tax years prior to July 31, 2018, can be carryforward for twenty years, whereas NOLs generated after July 31, 2018 can
+be carryforward indefinitely. 
+
+F- 9 
+
+The Company assesses the likelihood that deferred
+tax assets will not be realized. FASB ASC Topic 740, Income Taxes requires that a valuation allowance be established when
+it is more likely than not that all, or a portion of, deferred tax assets will not be realized. A review of all available
+positive and negative evidence needs to be considered, including the scheduled reversal of deferred tax liabilities, projected future
+taxable income, and tax planning strategies. After consideration of all the information available, management believes that uncertainty
+exists with respect to future realization of its deferred tax assets and has, therefore, established a full valuation allowance as of
+July 31, 2021 and 2020. 
+
+The Company has not completed its evaluation of
+NOL utilization limitation under IRC Section 382, change of ownership rules, but believes that it had a change of ownership that would
+limit the amount of U.S. NOLs that could be utilized each year based on the Internal Revenue Code, as Amended. 
+
+The Company s tax returns are subject to
+examination by tax authorities beginning with the year ended July 31, 2017. 
+
+NOTE 7 COMMITMENTS AND CONTINGENCIES 
+
+The Company had no other commitments or contingencies as of July 31,
+2021. 
+
+From time to time the Company may become a party
+to litigation matters involving claims against the Company. 
+
+Management believes that it is adequately insured
+for its operations and there are no current matters that would have a material effect on the Company's financial position or results
+of operations. 
+
+NOTE 8- SUBSEQUENT EVENTS 
+
+Effective August 6, 2021, Tianci International, Inc., a Nevada corporation we, us, 
+or the Company ), Chuah Su Mei, our Chief Executive Officer, President and Director, and Silver Glory Group Limited, entered
+into a Stock Purchase Agreement (the Stock Purchase Agreement pursuant to which Chuah Su Mei agreed to sell to Silver
+Glory Group Limited all 1,793,000 shares of common stock of the Company held by her (the Shares for cash consideration
+of Five Hundred Twenty Five Thousand Dollars 525,000) (the Transaction ). The Shares represent approximately 73.18 of
+the issued and outstanding common stock of the Company. The sale of the Shares consummated on August 26, 2021. As a result of the Transaction,
+Silver Glory Group Limited holds a controlling interest in the Company. 
+
+Upon the closing of the Transaction, on August
+26, 2021, each of Chuah Su Chen, Chuah Su Mei, and Jerry Ooi, constituting all current directors and officers of the Company, resigned
+from his or her positions with the Company. Each of the foregoing former officers and directors also forgave all amounts due to them from
+the Company in connection with the closing of the Transaction. 
+
+Concurrently with such resignation, the following
+individuals were appointed to serve in the offices set forth next to his name. 
+
+Name 
+ Office 
+ 
+ Zhigang Pei 
+ Chief Executive Officer, Chief Financial Officer, Secretary and Director 
+ 
+ Shufang Gao 
+ Director 
+ 
+ David Wei Fang 
+ Director 
+ 
+ Jack Fan Liu 
+ Director 
+ 
+ Yee ManYung 
+ Director 
+ 
+ Jimmy Weiyu Zhu 
+ Director 
+
+F- 10 
+
+Item 9. Changes in and Disagreements with Accountants
+on Accounting and Financial Disclosure 
+
+There were no disagreements
+with our accountants related to accounting principles or practices, financial statement disclosure, internal controls or auditing scope
+or procedure during the two fiscal years and subsequent interim periods. 
+
+Item 9A. Controls and Procedures 
+
+Evaluation of Disclosure Controls and Procedures 
+
+We maintain disclosure
+controls and procedures, as such term is defined in Rule 13a-15(e) under the Securities Exchange Act of 1934 (the Exchange
+Act ), that are designed to ensure that information required to be disclosed in our Exchange Act reports is recorded, processed,
+summarized and reported within the time periods specified in the Securities and Exchange Commission rules and forms, and that such information
+is accumulated and communicated to our management, including our Chief Executive Officer CEO )/Chief Financial Officer CFO ),
+as appropriate, to allow timely decisions regarding required disclosure. We conducted an evaluation (the Evaluation ), under
+the supervision and with the participation of our CEO/CFO of the effectiveness of the design and operation of our disclosure controls
+and procedures Disclosure Controls as of the end of the period covered by this report pursuant to Rule 13a-15 of the Exchange
+Act. Based on this evaluation and the existence of the material weaknesses discussed below in Management's Report on Internal
+Control over Financial Reporting, our management, including our CEO/CFO concluded that our disclosure controls and procedures
+were not effective at the reasonable assurance level as of the end of the period covered by this Report. 
+
+We do not expect that our
+disclosure controls and procedures will prevent all errors and all instances of fraud. Disclosure controls and procedures, no matter how
+well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the disclosure controls and procedures
+are met. Further, the design of disclosure controls and procedures must reflect the fact that there are resource constraints, and the
+benefits must be considered relative to their costs. Because of the inherent limitations in all disclosure controls and procedures, no
+evaluation of disclosure controls and procedures can provide absolute assurance that we have detected all our control deficiencies and
+instances of fraud, if any. The design of disclosure controls and procedures also is based partly on certain assumptions about the likelihood
+of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future
+conditions. 
+
+Management's Report on Internal Control Over
+Financial Reporting 
+
+Our management is responsible
+for establishing and maintaining adequate internal control over financial reporting. Internal control over financial reporting is defined
+in Rules 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934, as amended, as a process designed by, or under the supervision
+of, our principal executive and principal financial officers and effected by our Board, management and other personnel to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles and includes those policies and procedures that: 
+
+pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of our assets; 
+
+provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with U.S. generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of our management and directors; and 
+
+provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the company's assets that could have a material effect on the financial statements. 
+
+Because of its inherent limitations,
+internal control over financial reporting may not prevent or detect misstatements. Additionally, projections of any evaluation of effectiveness
+to future periods are subject to the risks that controls may become inadequate because of changes in conditions, or that the degree of
+compliance with the policies or procedures may deteriorate. 
+
+13 
+
+Management assessed the effectiveness
+of our internal control over financial reporting as of July 31, 2021. In making this assessment, management used the criteria set forth
+by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) in Internal Control-Integrated Framework (2013) .
+Based on this assessment, management concluded that our internal control over financial reporting was not effective as of July 31, 2021,
+due to the existence of the material weaknesses as of July 31, 2020, discussed below. A material weakness is a control deficiency, or
+a combination of control deficiencies, that results in more than a remote likelihood that a material misstatement of the annual or interim
+financial statements will not be prevented or detected in the following areas: 
+
+Because of the company s limited resources, there are limited controls over information processing. 
+
+There is an inadequate segregation of duties consistent with control objectives. Our Company s management is composed of only one person, resulting in a situation where limitations on segregation of duties exist. In order to remedy this situation, we would need to hire additional staff to provide greater segregation of duties. Currently, it is not feasible to hire additional staff to obtain optimal segregation of duties. Management will reassess this matter in the following year to determine whether improvement in segregation of duty is feasible. 
+
+The Company does not have a sitting audit committee financial expert, and as a result of the recent change in control, an audit committee, and thus the Company lacks the board oversight role within the financial reporting process. 
+
+There is a lack of formal policies and procedures necessary to adequately review significant accounting transactions. The Company utilizes a third-party independent contractor for the preparation of its financial statements. Although the financial statements and footnotes are reviewed by our management, we do not have a formal policy to review significant accounting transactions and the accounting treatment of such transactions. The third-party independent contractor is not involved in the day to day operations of the Company and may not be provided information from management on a timely basis to allow for adequate reporting/consideration of certain transactions. 
+
+Management believes that the
+material weaknesses set forth above were the result of the scale of our operations and are intrinsic to our small size. Management believes
+these weaknesses did not have a material effect on our financial results and intends to take remedial actions upon receiving funding for
+the Company s business operations. 
+
+Our management will continue
+to monitor and evaluate the effectiveness of our internal controls and procedures and our internal controls over financial reporting on
+an ongoing basis and is committed to taking further action and implementing additional enhancements or improvements, as necessary and
+as funds allow. 
+
+This Annual Report on Form
+10-K does not include an attestation report of the Company s registered public accounting firm regarding internal control over financial
+reporting due to permanent exemptions for smaller reporting companies. 
+
+Changes in Internal Control Over Financial
+Reporting 
+
+Other than as described above,
+there have been no changes in our internal control over financial reporting during the fourth quarter of fiscal 2021 that have materially
+affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+Because of its inherent limitations,
+a system of internal control over financial reporting can provide only reasonable assurance and may not prevent or detect misstatements.
+Further, because of changes in conditions, effectiveness of internal controls over financial reporting may vary over time. Our system
+contains self-monitoring mechanisms, and actions are taken to correct deficiencies as they are identified. 
+
+Item 9B. Other Information 
+
+None. 
+
+14 
+
+PART III 
+
+Item 10. Directors, Executive Officers and Corporate
+Governance 
+
+All directors of our company
+hold office until the next annual meeting of the security holders or until their successors have been elected and qualified. The officers
+of our company are appointed by the board of directors and hold office until their death, resignation or removal from office. The directors
+and executive officers, their ages, positions held, and duration as such, are set forth below as of the date of this Annual Report. 
+
+Name 
+ Age 
+ Office 
+ 
+ Zhigang Pei 
+ 49 
+ Chief Executive Officer, Chief Financial Officer, Secretary and Director 
+ 
+ Shufang Gao 
+ 52 
+ Director 
+ 
+ David Wei Fang 
+ 48 
+ Director 
+ 
+ Jack Fan Liu 
+ 42 
+ Director 
+ 
+ Yee ManYung 
+ 28 
+ Director 
+ 
+ Jimmy Weiyu Zhu 
+ 54 
+ Director 
+
+Business Experience 
+
+The following is a brief account
+of the education and business experience during at least the past five years of each director, executive officer and key employee of our
+company, indicating the person s principal occupation during that period, and the name and principal business of the organization
+in which such occupation and employment were carried out. 
+
+Zhigang Pei ,
+age 49, joined us on August 26, 2021, as our Chief Executive Officer, Chief Financial Officer, Secretary, and a member of the Board. Mr.
+Pei has served as the Executive Director of Anyang Xinrun Investment Co., Ltd., a PRC company since November 2009. He has also served
+as the Executive Director and General Manager of Henan Ziwei Real Estate Development Co., Ltd., and Henan Anyang Dahua Commercial and
+Trading Plaza Development Co., Ltd. since 2015. Mr. Pei graduated from No.2 Middle School Anyang City in1989. Mr. Pei brings to the Board
+his deep experience in real estate and investment industries. 
+
+Shufang Gao ,
+age 52, has worked as CEO of Hong Kong listed groups, president of domestic capital companies, and vice president of A-share listed companies.
+He is familiar with the A-share capital market and Hong Kong capital market, and has mature experience in the strategy and operation development
+of listed companies. He joined us on August 26, 2021, as a member of our Board. From October 2020 to August 2021, he served as the Vice
+President and Director of SiChuan Jinding Group. Prior to that, he was the Vice Chairman of Luoyang Yongning Nonferrous Technology Co.,
+Ltd. from August 2019 to September 2020. From April 2018 to July 2019, Mr. Gao served as the Vice President of Tibet Huayu Mining Co.,
+Ltd., an A-share listed company. He was the Chief Executive Officer of Haotian Development Group Co., Ltd. (Hong Kong Main Board Listed
+Company 00474) from August 2016 to September 2017. From August 2012 to August 2016, he served as the President of Haihua Group Holdings
+Co., Ltd., an international container leasing company. Mr. Gao received his Bachelor of Management Degree from Dalian University of Technology
+in 1999. He received his Masters of Finance and Accounting Degree from the Chinese University of Hong Kong in 2008. Mr. Gao brings to
+the Board his international experience in the operation and risk control areas of listed companies. 
+
+David Wei Fang ,
+age 48, has over ten years of experience in the securities and investment industry. He joined us on August 26, 2021, as a member of our
+Board. Mr. Fang served as the Partner of Tiger Securities and the CEO of Tiger Securities International in Hong Kong from May 2018 to
+July 2019. From January 2017 to April 2018, Mr. Fang served as the CEO of Haotian International Securities in Hong Kong. Mr. Fang was
+the Head of High Net Worth Individual, Corporate Client and ICBC Global Wealth Management Center of ICBC International in Hong Kong from
+October 2014 to December 2016. Mr. Fang has a Bachelor s degree in Economics from Anhui University of Finance and Economics in 1994.
+Mr. Fang obtained his Master of Business Administration Degree from Georgia South University in 2004. Mr. Fang brings to the Board his
+deep experience in the securities and investment industry. 
+
+15 
+
+Jack Fan Liu ,
+age 42, joined us on August 26, 2021, as a member of our Board. Prior to joining us, Mr. Liu was the Vice President of China Regenerative
+Medicine International Limited from September 2014 to October 2017. From July 2009 to August 2014, Mr. Liu was the Investment Director
+of Tian Huan Investment Company. He was a financial analyst of Founder Securities (SSE:601901) from May 2007 to June 2009. Mr. Liu received
+his B.A. in Engineering from Nanjing Tech University in 2001 and his Master of Economics from Concordia University, Canada in 2006. He
+brings to the Board his experience and knowledge of investments and mergers and acquisitions of companies in Hong Kong and China. 
+
+Yung Yee Man ,
+age 28, has more than 5 years of HR manager experience in both Hong Kong and NASDAQ listed company. She also has two years experience
+as an assistant of board members. Ms. Yung joined us on 26 August, 2021, as a member of our Board. Ms. Yung holds a Master s degree
+in Corporate Communication from University of Leeds in 2017. Ms. Yung is currently pursuing an MBA Degree in University of South Australia.
+Ms. Yung brings to the Board her human resources and public company experience. 
+
+Jimmy Weiyu Zhu ,
+age 54, joined us on August 26, 2021, as a member of our Board. Mr. Zhu has nearly twenty-five years of experience in the fields
+of mining, commodity trading, trade financing, logistics and shipping, and covering for companies located in Australia and Hong Kong.
+Mr. Zhu was the Financial Controller of Hai Xin Petroleum Trading Ltd. Hong Kong) from September 2017 to October 2020. Prior to that
+time, he served as the Financial Controller and Director of Ocean Container Leasing Services Ltd. and Gold Time International Resources
+Ltd. (Hong Kong) from July 2012 to August 2017. He received his B.A. in Accounting and Finance from Northeast University of Finance and
+Economics, China in 1991. Mr. Zhu brings to the Board his deep experience in commodities, finance and trading. 
+
+Family Relationships 
+
+There are no family relationships between any of
+our directors, executive officers and proposed directors or executive officers. 
+
+Involvement in Certain Legal Proceedings 
+
+None of our directors, executive officers, promoters
+or control persons has been involved in any of the following events during the past ten years: 
+
+1. 
+ A petition under the Federal bankruptcy laws or any state insolvency law was filed by or against, or a receiver, fiscal agent or similar officer was appointed by a court for the business or property of such person, or any partnership in which he was a general partner at or within two years before the time of such filing, or any corporation or business association of which he was an executive officer at or within two years before the time of such filing; 
+
+2. 
+ Such person was convicted in a criminal proceeding or is a named subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); 
+
+3. 
+ Such person was the subject of any order, judgment, or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction, permanently or temporarily enjoining him from, or otherwise limiting, the following activities: 
+
+i. 
+ Acting as a futures commission merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant, any other person regulated by the Commodity Futures Trading Commission, or an associated person of any of the foregoing, or as an investment adviser, underwriter, broker or dealer in securities, or as an affiliated person, director or employee of any investment company, bank, savings and loan association or insurance company, or engaging in or continuing any conduct or practice in connection with such activity 
+
+ii. 
+ Engaging in any type of business practice; or 
+
+iii. 
+ Engaging in any activity in connection with the purchase or sale of any security or commodity or in connection with any violation of Federal or State securities laws or Federal commodities laws; 
+
+16 
+
+4. 
+ Such person was the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any Federal or State authority barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any activity described in paragraph (f)(3)(i) of this section, or to be associated with persons engaged in any such activity; 
+
+5. 
+ Such person was found by a court of competent jurisdiction in a civil action or by the Commission to have violated any Federal or State securities law, and the judgment in such civil action or finding by the Commission has not been subsequently reversed, suspended, or vacated; 
+
+6. 
+ Such person was found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated any Federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission has not been subsequently reversed, suspended or vacated; 
+
+7. 
+ Such person was the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently reversed, suspended or vacated, relating to an alleged violation of: 
+
+i. 
+ Any Federal or State securities or commodities law or regulation; or 
+
+ii. 
+ Any law or regulation respecting financial institutions or insurance companies including, but not limited to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent cease-and-desist order, or removal or prohibition order; or 
+
+iii. 
+ Any law or regulation prohibiting mail or wire fraud or fraud in connection with any business entity; or 
+
+8. 
+ Such person was the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or organization that has disciplinary authority over its members or persons associated with a member. 
+
+Code of Ethics 
+
+We have adopted a Code of
+Business Conduct and Ethics that applies to, among other persons, members of our board of directors, our company's officers including
+our president, chief executive officer and chief financial officer, employees, consultants and advisors. As adopted, our Code of Business
+Conduct and Ethics sets forth written standards that are designed to deter wrongdoing and to promote: 
+
+1. 
+ honest and ethical conduct, including the ethical handling of actual or apparent conflicts of interest between personal and professional relationships; 
+
+2. 
+ full, fair, accurate, timely, and understandable disclosure in reports and documents that we file with, or submit to, the Securities and Exchange Commission and in other public communications made by us; 
+
+3. 
+ compliance with applicable governmental laws, rules and regulations; 
+
+4. 
+ the prompt internal reporting of violations of the Code of Business Conduct and Ethics to an appropriate person or persons identified in the Code of Business Conduct and Ethics; and 
+
+5. 
+ accountability for adherence to the Code of Business Conduct and Ethics. 
+
+Our Code of Business Conduct and Ethics requires,
+among other things, that all of our company's senior officers commit to timely, accurate and consistent disclosure of information; that
+they maintain confidential information; and that they act with honesty and integrity. 
+
+17 
+
+In addition, our Code of Business
+Conduct and Ethics emphasizes that all employees, and particularly senior officers, have a responsibility for maintaining financial integrity
+within our company, consistent with generally accepted accounting principles, and federal and state securities laws. Any senior officer,
+who becomes aware of any incidents involving financial or accounting manipulation or other irregularities, whether by witnessing the incident
+or being told of it, must report it to our company. Any failure to report such inappropriate or irregular conduct of others is to be treated
+as a severe disciplinary matter. It is against our company policy to retaliate against any individual who reports in good faith the violation
+or potential violation of our company's Code of Business Conduct and Ethics by another. 
+
+Our Code of Business Conduct
+and Ethics was filed as Exhibit 14.1 to our Annual Report on Form 10-K for fiscal year ended July 31, 2013. We will provide a copy of
+the Code of Business Conduct and Ethics to any person without charge, upon request. Requests can be sent to: Tianci International, Inc.,
+ No. A1111, Huafeng Financial Port, 1003, Xin an Sixth Road, Bao an District, Shenzhen, Guangdong Province, P.R.C. 
+
+Board Meetings 
+
+Our board of directors consists
+of Zhigang Pei, Shufang Gao, David Wei Fang, Jack Fan Liu, Yee Man Yung and Jimmy Weiyu Zhu. The board held no formal meetings during
+the year ended July 31, 2021, but took actions once via unanimous written consent. We expect our current board to act by written consent
+or through board meetings in accordance with the provisions of the Nevada General Corporate Law and our Bylaws. 
+
+Nomination Process 
+
+As of July 31, 2021, we did
+not effect any material changes to the procedures by which our shareholders may recommend nominees to our board of directors. Our board
+of directors does not have a policy with regards to the consideration of any director candidates recommended by our shareholders. Our
+board of directors has determined that it is in the best position to evaluate our company s requirements as well as the qualifications
+of each candidate when the board considers a nominee for a position on our board of directors. If shareholders wish to recommend candidates
+directly to our board, they may do so by sending communications to the president of our company at the address on the cover of this annual
+report. 
+
+Corporate Governance Board Independence 
+
+Our Board of Directors consists
+of six directors. We have adopted a standard of director independence that conforms with the published listing requirements of the NASDAQ
+Stock Market. All of our directors except for ZhiGang Pei are independent. As of the date hereof, we do not have a policy that a majority
+of our board be comprised of independent directors. 
+
+Prior to our change of control,
+we had established an audit committee. We intend to establish a new audit committee in the future. We believe that members of our audit
+committee will capable of analyzing and evaluating our financial statements and understanding internal controls and procedures for financial
+reporting. We believe that retaining an independent director who would qualify as an audit committee financial expert would
+be overly costly and burdensome and is not warranted in our circumstances given the early stages of our development and the fact that
+we have not generated any material revenues to date. 
+
+We have not yet established
+a Nominating or Governance Committees as standing committees but expect to do so as our business matures. The Board does not have an executive
+committee or any committees performing a similar function. We are not currently listed on a national securities exchange or in an inter-dealer
+quotation system that has requirements that a majority of the board of directors be independent. All functions of a nominating/governance
+committee were performed by our whole board of directors. Our board of directors intends to appoint such persons and form
+such committees as are required to meet the corporate governance requirements imposed by the national securities exchanges as necessary. Our
+board of directors does not believe that it is necessary to have such committees at the early stage of the company s development,
+and our board of directors believes that the functions of such committees can be adequately performed by the members of our board of directors. 
+
+18 
+
+Involvement in Certain Legal Proceedings 
+
+From time to time, we may
+be involved in various claims, lawsuits, and disputes with third parties, actions involving allegations of discrimination or breach of
+contract actions incidental to the normal operations of the business. We may be named as a defendant in such lawsuits and thus become
+subject to the attendant risk of substantial damage awards. We believe that we have adequate liability insurance coverage. There can be
+no assurance, however, that we will not be sued, that any such lawsuit will not exceed our insurance coverage, or that we will be able
+to maintain such coverage at acceptable costs and on favorable terms. 
+
+We are not a party to, nor
+is any of our property the subject of, any legal proceedings. There are no proceedings pending in which any of our officers, directors
+or 5 shareholders are adverse to us or any of our subsidiaries or in which they are taking a position or have a material interest that
+is adverse to us or any of our subsidiaries. 
+
+Item 11. Executive Compensation 
+
+Compensation Philosophy and Objectives 
+
+Currently, our executive
+directors and officers do not receive compensation for services in such capacities. We expect to establish a compensation plan as our
+company matures. We expect that our executive compensation philosophy will be to create a long-term direct relationship between pay and
+our performance. Our executive compensation program will be designed to provide a balanced total compensation package over the executive s
+career with us. The compensation program objectives will be to attract, motivate and retain the qualified executives that help ensure
+our future success, to provide incentives for increasing our profits by awarding executives when corporate goals are achieved and to
+align the interests of executives and long-term stockholders. We expect the compensation package of our named executive officers to consist
+of two main elements: 
+
+1. 
+ base salary for our executives that is competitive relative to the market, and that reflects individual performance, retention and other relevant considerations; and 
+
+2. 
+ discretionary bonus awards payable in cash and tied to the satisfaction of corporate objectives. 
+
+Process for Setting Executive Compensation 
+
+As we do not have Compensation
+Committee, our Board will be responsible for developing and overseeing the implementation of our philosophy with respect to the compensation
+of executives and for monitoring the implementation and results of the compensation philosophy to ensure compensation remains competitive,
+creates proper incentives to enhance stockholder value and rewards superior performance. The Board or Compensation Committee will annually
+review and approve for each named executive officer, and particularly with regard to the Chief Executive Officer, all components of the
+executive s compensation. The Board or Compensation Committee may award discretionary bonuses to each of the named executives, and
+reviews and approves the process and factors (including individual and corporate performance measures and actual performance versus such
+measures) used by the Chief Executive Officer to recommend such awards. Additionally, the Board or Compensation Committee will review
+and approve the base salary, equity-incentive awards (if any) and any other special or supplemental benefits of the named executive officers. 
+
+We expect out Chief Executive
+Officer to periodically provide the Board or Compensation Committee with an evaluation of each named executive officer s performance,
+based on the individual performance goals and objectives developed by the Chief Executive Officer at the beginning of the year, as well
+as other factors. The Board of Compensation Committee will provide an evaluation for the Chief Executive Officer. These evaluations will
+serve as the bases for bonus recommendations and changes in the compensation arrangements of our named executives. 
+
+Our Compensation Peer Group 
+
+We expect to engage in informal
+market analysis in evaluating our executive compensation arrangements. As the Company and its businesses mature, we may retain compensation
+consultants that will assist us in developing a formal benchmark and selecting a compensation peer group of companies similar to us in
+size or business for the purpose of comparing executive compensation levels. 
+
+19 
+
+Program Components 
+
+We expect our executive compensation
+program to consist of the following elements: 
+
+Base Salary 
+
+Our base salary structure
+will be designed to encourage internal growth, attract and retain new talent, and reward strong leadership that will sustain our growth
+and profitability. The base salary for each named executive officer will reflect our past and current operating profits, the named executive
+officer s individual contribution to our success throughout his career, internal pay equity and informal market data regarding comparable
+positions within similarly situated companies. In determining and setting base salary, the Board/Compensation Committee will consider
+all of these factors, though it will not assign specific weights to any factor. The Board/Compensation Committee will generally review
+the base salary for each named executive officer on an annual basis. For each of our named executive officers, we expect to review base
+salary data internally obtained by the Company for comparable executive positions in similarly situated companies to ensure that the base
+salary rate for each executive is competitive relative to the market. 
+
+Discretionary Bonus 
+
+The objectives of our bonus
+awards will be to encourage and reward our employees, including the named executive officers, who contribute to and participate in our
+success by their ability, industry, leadership, loyalty or exceptional service and to recruit additional executives who will contribute
+to that success. 
+
+Each of our named executive
+officers will be eligible for consideration for a discretionary cash bonus. The Chief Executive Officer will make recommendations regarding
+bonus awards for the named executive officers and the Board/Compensation Committee provides the bonus recommendation for the Chief Executive
+Officer. However, the Board/Compensation Committee will have sole and final authority and discretion in designating to whom awards are
+made, the size of the award, if any, and its terms and conditions. The bonus recommendation for each of the named executive officers depends
+on a number of factors, including (i) the performance of the Company for the year, (ii) the satisfaction of certain individual
+and corporate performance measures, and (iii) other factors which the Compensation Committee may deem relevant. The Company did not
+award any cash bonuses during fiscal year 2019. 
+
+Stock Holdings 
+
+The Board/Compensation Committee
+recognizes the importance of having a portion of the named executive officers compensation be paid in the form of equity, to help
+align the executives interests with the interests of the Company s stockholders. Initially, we expect the Board/Compensation
+Committee to emphasize the cash-based portion of our compensation program over a stock program because it believes the discretionary nature
+of the cash-based compensation gives it the needed flexibility to factor in and reward the attainment of longer-term goals for the Company
+and the executives, as the Board/Compensation Committee deems appropriate. 
+
+We have not timed nor do we
+plan to time our release of material non-public information for the purpose of affecting the value of executive compensation. 
+
+The following tables set forth,
+for each of the last two completed fiscal years of the Company, the total compensation awarded to, earned by or paid to any person who
+was a principal executive officer during the preceding fiscal year and every other highest compensated executive officers earning more
+than 100,000 during the last fiscal year (together, the Named Executive Officers ). The tables set forth below reflect the
+compensation of the Named Executive Officers. 
+
+20 
+
+SUMMARY COMPENSATION TABLE 
+
+Name and Principal 
+Position 
+ 
+ Year 
+
+Salary ) 
+
+Bonus ) 
+
+Stock Awards ) 
+
+Option Awards ) 
+
+Non-Equity Incentive Plan Compensation ) 
+
+Change in Pension 
+Value and 
+Nonqualified Deferred Compensation Earnings ) 
+
+All Other Compensation ) 
+
+Total ) 
+
+Chuah Su Mei (1) 
+ 
+ 2021 
+
+2020 
+
+(1) 
+ Ms. Chuah was appointed our Chief Executive Officer, President and Director on August 15, 2017. She resigned from all her positions with the Company on August 26, 2021. 
+
+Narrative Disclosure to Summary Compensation Table 
+
+Other than set out above and
+below, there are no arrangements or plans in which we provide pension, retirement or similar benefits for directors or executive officers.
+Our directors and executive officers may receive share options at the discretion of our board of directors in the future. We do not have
+any material bonus or profit sharing plans pursuant to which cash or non-cash compensation is or may be paid to our directors or executive
+officers, except that share options may be granted at the discretion of our board of directors. 
+
+Stock Option Plan 
+
+Currently, we do not have
+a stock option plan in favor of any director, officer, consultant or employee of our company. 
+
+Grants of Plan-Based Awards 
+
+There were no grants of plan
+based awards during the year ended July 31, 2021. 
+
+Outstanding Equity Awards at Fiscal Year End 
+
+There were no outstanding
+equity awards at the year ended July 31, 2021. 
+
+Option Exercises and Stock Vested 
+
+During our fiscal year ended
+July 31, 2021, there were no options exercised by our named officer. 
+
+Compensation of Directors 
+
+We currently do not compensate
+our directors for their services in their capacity as directors. 
+
+Pension, Retirement or Similar Benefit Plans 
+
+There are no arrangements
+or plans in which we provide pension, retirement or similar benefits for directors or executive officers. We have no material bonus or
+profit-sharing plans pursuant to which cash or non-cash compensation is or may be paid to our directors or executive officers, except
+that stock options may be granted at the discretion of the board of directors or a committee thereof. 
+
+21 
+
+Compensation Risk Management 
+
+Our Board of directors conducted
+an assessment of potential risks that may arise from our compensation programs. Based on this assessment, our Board concluded that our
+policies and practices do not encourage excessive and unnecessary risk taking that would be reasonably likely to have material adverse
+effect on the Company. 
+
+Compensation Committee Interlocks and Insider
+Participation 
+
+We have not yet established
+a Compensation Committee. Our Board of Directors performs the functions that would be performed by a compensation committee, including
+deliberations concerning compensate of our executive officers. 
+
+During the fiscal year ended
+July 31, 2021, none of our executive officers has served: (i) on the compensation committee (or other board committee performing equivalent
+functions or, in the absence of any such committee, the entire board of directors) of another entity, one of whose executive officers
+served on our board of directors; or (ii) as a director of another entity, one of whose executive officers served on the compensation
+committee (or other board committee performing equivalent functions or, in the absence of any such committee, the entire board of directors)
+of the registrant. 
+
+Compensation Committee Report 
+
+Our Board has reviewed and
+discussed the Compensation Discussion and Analysis in this report with management. Based on its review and discussion with management,
+the Board of Directors recommended that the Compensation Discussion and Analysis be included in this Annual Report. The material in this
+report is not deemed filed with the SEC and is not incorporated by reference in any of our filings under the Securities Act of 1933, as
+amended, or the Securities Exchange Act of 1934, as amended, whether made on, before, or after the date of this Annual Report and irrespective
+of any general incorporation language in such filing. 
+
+Submitted by members of the Board of Directors: 
+
+ Zhigang Pei 
+
+ Shufang Gao 
+
+ David Wei Fang 
+
+ Jack Fan Liu 
+
+ Yee Man Yung 
+
+ Jimmy Weiyu Zhu 
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+and Related Stockholder Matters 
+
+The following table sets forth
+certain information regarding beneficial ownership of our common stock as of October 19, 2021, by (i) each person (or group of affiliated
+persons) who is known by us to own more than five percent (5 of the outstanding shares of our common stock, (ii) each director, executive
+officer and director nominee, and (iii) all of our directors, executive officers and director nominees as a group. 
+
+Beneficial ownership is determined
+in accordance with SEC rules and generally includes voting or investment power with respect to securities. For purposes of this table,
+a person or group of persons is deemed to have beneficial ownership of any shares of common stock that such person has the
+right to acquire within 60 days of October 19, 2021. For purposes of computing the percentage of outstanding shares of our common stock
+held by each person or group of persons named above, any shares that such person or persons has the right to acquire within 60 days of
+October 19, 2021, is deemed to be outstanding for such person, but is not deemed to be outstanding for the purpose of computing the percentage
+ownership of any other person. The inclusion herein of any shares listed as beneficially owned does not constitute an admission of beneficial
+ownership. 
+
+Unless otherwise noted, the business address of
+each beneficial owner listed is No. A1111, Huafeng Financial Port, 1003, Xin an Sixth Road, Bao an District, Shenzhen,
+Guangdong Province, P.R.C. Except as otherwise indicated, the persons listed below have sole voting and investment power with respect
+to all shares of our common stock owned by them, except to the extent that power may be shared with a spouse. 
+
+22 
+
+As of October 19, 2021, we had 2,450,148
+ shares of common stock issued and outstanding. 
+
+Name of Beneficial Owner 
+
+Amount and Nature of 
+ Beneficial Ownership 
+
+Percent 
+ of Class 
+
+Zhigang Pei (1) 
+
+1,793,000 
+
+73.18 
+
+All executive officers and directors as a group (six persons) 
+
+- 
+
+- 
+
+Greater Than 5 Shareholder 
+
+Silver Glory Group Limited (1) 
+
+1,793,000 
+
+73.18 
+
+(1) Zhigang Pei jointed us on August 26, 2021 as our Chief Executive Officer, Chief Financial Officer, Secretary and Director. Zhigang
+Pei is the beneficial owner of Silver Glory Group Limited. 
+
+Item 13. Certain Relationships and Related Transactions, and Director
+Independence 
+
+During the years ended July
+31, 2021 and 2020, a shareholder of the Company advanced 74,230 and 73,230 for working capital purpose, respectively. These amounts
+were forgiven in connection with the change in control that occurred on August 26, 2021. 
+
+As of July 31, 2021, and July
+31, 2020, the Company owed 333,165 and 258,935, respectively, to a shareholder of the Company. This loan is non-interest bearing and
+due on demand. These amounts were forgiven in connection with the change in control that occurred on August 26, 2021. 
+
+We have not adopted policies
+or procedures for approval of related person transactions but review them on a case-by-case basis. We believe that all related party transactions
+were on terms at least as favorable as we would have secured in arm s-length transactions with third parties. Except as set forth
+above, we have not entered into any material transactions with any director, executive officer, and promoter, beneficial owner of five
+percent or more of our common stock, or family members of such persons. 
+
+Item 14. Principal Accounting Fees and Services 
+
+The aggregate fees billed
+for the most recently completed fiscal years ended July 31, 2021 and July 31, 2020, for professional services rendered by the principal
+accountant for the audit of our annual financial statements and review of the financial statements included in our quarterly reports on
+Form 10-Q and services that are normally provided by the accountant in connection with statutory and regulatory filings or engagements
+for these fiscal periods were as follows: 
+
+Year Ended July 31, 2021 
+ Year Ended July 31, 2020 
+
+Audit Fees (1) 
+ 10,250 
+ 10,250 
+ 
+ Audit Related Fees (2) 
+ 0 
+ 0 
+ 
+ Tax Fees (3) 
+ 1,000 
+ 1,000 
+ 
+ All Other Fees (4) 
+ 0 
+ 0 
+ 
+ Total 
+ 11,250 
+ 11,250 
+
+23 
+
+(1) 
+ Audit fees consist of fees incurred for professional services rendered for the audit of our financial statements, for reviews of our interim financial statements included in our quarterly reports on Form 10-Q and for services that are normally provided in connection with statutory or regulatory filings or engagements. 
+
+(2) 
+ Audit-related fees consist of fees billed for professional services that are reasonably related to the performance of the audit or review of our financial statements, but are not reported under Audit fees. 
+
+(3) 
+ Tax fees consist of fees billed for professional services relating to tax compliance, tax planning, and tax advice. 
+
+(4) 
+ All other fees consist of fees billed for all other services. 
+
+On August 30, 2017, we adopted
+certain pre-approval policies and procedures which are more fully described in Exhibit 99.1. 
+
+Prior to the establishment
+of our Audit Committee and the adoption of our Pre-Approval Policies, our board of directors pre-approved all services provided by our
+independent auditors. All of the above services and fees were reviewed and approved by the board of directors either before or after the
+respective services were rendered. 
+
+24 
+
+PART IV 
+
+Item 15. Exhibits, Financial Statement Schedules 
+
+(a) Financial Statements 
+
+(1) 
+ Financial statements for our company are listed in the index under Item 8 of this document 
+
+(2) 
+ All financial statement schedules are omitted because they are not applicable, not material or the required information is shown in the financial statements or notes thereto. 
+
+(b) Exhibits 
+
+Exhibit 
+ Number 
+ 
+ Description of Exhibit 
+ 
+ 3.1 
+ 
+ Articles of Incorporation (incorporated by reference to our Registration Statement on Form S-1 filed on September 24, 2012) 
+ 
+ 3.2 
+ 
+ Articles of Amendment (incorporated by reference to Appendix A to the Definitive Information Statement on Schedule 14C filed on June 11, 2015). 
+ 
+ 3.3 
+ 
+ Bylaws (incorporated by reference to our Registration Statement on Form S-1 filed on September 24, 2012) 
+ 
+ 4.1 
+ 
+ Form of common stock certificate (incorporated by reference to our Registration Statement on Form S-1 filed on September 24, 2012) 
+ 
+ 4.2 
+ 
+ Description of Securities (incorporated by reference to Exhibit 4.2 of our Annual Report on Form 10-K filed on October 5, 2020) 
+ 
+ 14.1 
+ 
+ Code of Ethic s (incorporated by reference to Exhibit 14.1 of our Annual Report on Form 10-K filed on November 13, 2013) 
+ 
+ 14.2 
+ 
+ Insider Trading Policy (incorporated by reference to Exhibit 14.2 of our Annual Report on Form 10-K filed on November 13, 2015) 
+ 
+ 14.3 
+ 
+ Disclosure Policy (incorporated by reference to Exhibit 14.3 of our Annual Report on Form 10-K filed on November 13, 2015) 
+ 
+ 24 
+ 
+ Power of Attorney 
+ 
+ 31.1 
+ 
+ Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act 
+ 
+ 31.2 
+ 
+ Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act 
+ 
+ 32.1 
+ 
+ Certification of Principal Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act 
+ 
+ 32.2 
+ 
+ Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act 
+ 
+ 99.1 
+ 
+ Pre-Approval Procedure s (incorporated by reference to Exhibit 99.2 of our Current Report on Form 8-K filed on August 30, 2017) 
+ 
+ 101 
+ 
+ Interactive Data File 
+ 
+ 101.INS 
+ 
+ XBRL Instance Document 
+ 
+ 101.SCH 
+ 
+ XBRL Taxonomy Extension Schema Document 
+ 
+ 101.CAL 
+ 
+ XBRL Taxonomy Extension Calculation Linkbase Document 
+ 
+ 101.DEF 
+ 
+ XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ 101.LAB 
+ 
+ XBRL Taxonomy Extension Label Linkbase Document 
+ 
+ 101.PRE 
+ 
+ XBRL Taxonomy Extension Presentation Linkbase Document 
+
+Filed herewith. 
+
+Item 16. Form 10-K Summary 
+
+Not applicable. 
+
+25 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereto duly authorized. 
+
+TIANCI INTERNATIONAL, INC. 
+
+(Registrant) 
+
+Dated: October 25, 2021 
+ /s/ Zhigang Pei 
+
+Zhigang Pei 
+
+Chief Executive Officer, Chief Financial Officer, Secretary and Director 
+
+(Principal Executive Officer and Principal Financial Officer) 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated. 
+
+Dated: October 25, 2021 
+ /s/ Zhigang Pei 
+
+Zhigang Pei 
+
+Chief Executive Officer, Chief Financial Officer, Secretary and Director 
+
+(Principal Executive Officer and Principal Financial Officer) 
+
+Dated: October 25 2021 
+ /s/ Shufang Gao 
+
+Shufang Gao 
+
+Director 
+
+Dated: October 25, 2021 
+ /s/ David Wei Fang 
+
+David Wei Fang 
+
+Director 
+
+/s/ Jack Fan Liu 
+ 
+ Dated: October 25, 2021 
+ Jack Fan Liu 
+
+Director 
+
+Dated: October 25, 2021 
+ /s/ Yee ManYung 
+
+Yee ManYung 
+
+Director 
+
+Dated: October 25, 2021 
+ /s/Jimmy Weiyu Zhu 
+
+Jimmy Weiyu Zhu 
+
+Director 
+
+Representing all of the members of the Board of Directors. 
+
+By 
+ /s/ Zhigang Pei 
+
+Zhigang Pei 
+
+Attorney-in-Fact 
+
+By authority of the power of attorney filed herewith 
+
+26 
+
+<EX-24>
+ 2
+ tianci_10k-ex2400.htm
+ POWER OF ATTORNEY
+
+EXHIBIT 24 
+
+POWER OF ATTORNEY 
+
+The undersigned directors
+and officers of Tianci International, Inc., a Nevada corporation (the Company ), hereby constitute and appoint Zhigang Pei,
+with full power to act without the other, as the undersigned s true and lawful attorney-in-fact, with full power of substitution
+and resubstitution, for the undersigned and in the undersigned s name, place and stead in the undersigned s capacity as an
+officer and/or director of the Company, to execute in the name and on behalf of the undersigned an annual report of the Company on Form
+10-K for the fiscal year ended July 31, 2021 (the Report ), under the Securities Exchange Act of 1934, as amended, and to
+file such Report, with exhibits thereto and other documents in connection therewith and any and all amendments thereto, with the Securities
+and Exchange Commission, granting unto said attorneys-in-fact, and each of them, full power and authority to do and perform each and every
+act and thing necessary or desirable to be done and to take any other action of any type whatsoever in connection with the foregoing which,
+in the opinion of such attorney-in-fact, may be of benefit to, in the best interest of, or legally required of, the undersigned, it being
+understood that the documents executed by such attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall
+be in such form and shall contain such terms and conditions as such attorney-in-fact may approve in such attorney-in-fact s discretion. 
+
+IN WITNESS WHEREOF , we have hereunto set
+our hands this __th day of October, 2021. 
+
+/s/ Zhigang Pei 
+ 
+ /s/Jack Fan Liu 
+ 
+ Zhigang Pei 
+ 
+ Jack Fan Liu 
+ 
+ Director, Chief Executive Officer, Chief Financial Officer and Secretary 
+ 
+ Director 
+
+/s/Shufang Gao 
+ 
+ /s/ Yee ManYung 
+ 
+ Shufang Gao 
+ 
+ Yee ManYun 
+ 
+ Director 
+ 
+ Director 
+
+/s/David Wei Fang 
+ 
+ /s/Jimmy Weiyu Zhu 
+ 
+ David Wei Fang 
+ 
+ Jimmy Weiyu Zhu 
+ 
+ Director 
+ 
+ Director 
+
+</EX-24>
+
+<EX-31.1>
+ 3
+ tianci_10k-ex3101.htm
+ CERTIFICATION
+
+EXHIBIT 31.1 
+
+TIANCI INTERNATIONAL,
+INC. 
+ 
+ CERTIFICATIONS PURSUANT TO 
+ RULE 13A-14(A) OR RULE 15D-14(A), 
+ AS ADOPTED PURSUANT TO 
+ RULE 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Zhigang Pei, certify that: 
+
+1.
+I have reviewed this Form 10-K of Tianci International, Inc.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+the period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented
+in this report; 
+
+4.
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined
+in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control
+over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors
+(or persons performing the equivalent functions): 
+
+(a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+/s/ Zhigang Pei 
+ Zhigang Pei 
+ Chief Executive Officer 
+
+Dated: October 25, 2021 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ tianci_10k-ex3102.htm
+ CERTIFICATION
+
+EXHIBIT 31.2 
+
+TIANCI INTERNATIONAL,
+INC. 
+ 
+ CERTIFICATIONS PURSUANT TO 
+ RULE 13A-14(A) OR RULE 15D-14(A), 
+ AS ADOPTED PURSUANT TO 
+ RULE 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Zhigang Pei, certify that: 
+
+1.
+I have reviewed this Form 10-K of Tianci International, Inc.; 
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+the period covered by this report; 
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented
+in this report; 
+
+4.
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined
+in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based
+on such evaluation; and 
+
+(d) Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control
+over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors
+(or persons performing the equivalent functions): 
+
+(a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+/s/ Zhigang Pei 
+ Zhigang Pei 
+ Chief Financial
+ Officer 
+
+Date: October 25, 2021 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ tianci_10k-ex3201.htm
+ CERTIFICATION
+
+EXHIBIT 32.1 
+
+TIANCI INTERNATIONAL, INC. 
+
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO SECTION 906 
+OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the
+Annual Report of Tianci International, Inc. (the Company on Form 10-K for the year ended July 31, 2021, as filed
+with the Securities and Exchange Commission on the date hereof (the Report ), I, Zhigang Pei, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted
+pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully
+complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information
+contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Zhigang Pei 
+ Zhigang Pei 
+ Chief Executive Officer 
+
+October
+25, 2021 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ tianci_10k-ex3202.htm
+ CERTIFICATION
+
+EXHIBIT 32.2 
+
+ TIANCI INTERNATIONAL, INC. 
+
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO SECTION 906 
+OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the
+Annual Report of Tianci International, Inc. (the Company on Form 10-K for the year ended July 31, 2021, as filed
+with the Securities and Exchange Commission on the date hereof (the Report ), I, Zhigang Pei, Chief
+Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the
+Sarbanes-Oxley Act of 2002, that: 
+
+(1) The Report fully
+complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information
+contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Zhigang Pei 
+ Zhigang Pei 
+ Chief Financial
+ Officer 
+
+October 25, 2021 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 8
+ ciit-20210731.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 9
+ ciit-20210731.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ ciit-20210731_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ ciit-20210731_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ ciit-20210731_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ ciit-20210731_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

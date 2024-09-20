@@ -1,0 +1,3829 @@
+<Header>
+<FileStats>
+    <FileName>20211008_10-K_edgar_data_812306_0001437749-21-023489.txt</FileName>
+    <GrossFileSize>4962052</GrossFileSize>
+    <NetFileSize>187026</NetFileSize>
+    <NonText_DocumentType_Chars>251505</NonText_DocumentType_Chars>
+    <HTML_Chars>2015482</HTML_Chars>
+    <XBRL_Chars>1477748</XBRL_Chars>
+    <XML_Chars>861245</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001437749-21-023489.hdr.sgml : 20211008
+<ACCEPTANCE-DATETIME>20211008151535
+ACCESSION NUMBER:		0001437749-21-023489
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		74
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20211008
+DATE AS OF CHANGE:		20211008
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PROCYON CORP
+		CENTRAL INDEX KEY:			0000812306
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				368732690
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-17449
+		FILM NUMBER:		211315165
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1300 S HIGHLAND AVE
+		CITY:			CLEARWATER
+		STATE:			FL
+		ZIP:			33756
+		BUSINESS PHONE:		(727)447-2998
+
+	MAIL ADDRESS:	
+		STREET 1:		1300 S HIGHLAND AVE
+		CITY:			CLEARWATER
+		STATE:			FL
+		ZIP:			33756
+
+</SEC-Header>
+</Header>
+
+ 0001437749-21-023489.txt : 20211008
+
+10-K
+ 1
+ pcyn20210630_10k.htm
+ FORM 10-K
+
+pcyn20210630_10k.htm 
+
+UNITED STATES 
+
+ SECURITIES AND EXCHANGE COMMISSION 
+
+ Washington, D.C. 20549 
+
+FORM 10-K 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended June 30, 2021 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from __________ to ____________ 
+
+Commission file number 0-17449 
+
+PROCYON CORPORATION 
+
+ (Exact name of registrant as specified in its charter) 
+
+Colorado 
+			 59-3280822 
+
+(State of incorporation) 
+			 (I.R.S. Employer ID No.) 
+
+1300 South Highland Avenue, Clearwater, Florida 33756 
+
+ (Address of principal executive offices)(Zip Code) 
+
+ Issuer s telephone number, including area code: (727) 447-2998 
+
+Securities registered pursuant to Section 12(b) of the Act: None 
+
+Securities registered pursuant to Section 12(g) of the Act: Common Stock 
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes No 
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes No 
+
+Indicate by checkmark whether the issuer (1) filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes No 
+
+Indicate by check mark whether the registrant has submitted electronically, every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes No 
+
+Indicate by checkmark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer, accelerated filer, and smaller reporting company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+			 Accelerated filer 
+
+Non-accelerated filer 
+			 Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether the registrant has filed a report on and attestation to its management s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepare or issued its audit report. 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter: 
+
+The aggregate market value of the 3,916,652 shares of Common Stock held by non-affiliates was 2,830,586 on October 4, 2021, the date of the last sale of common stock, based on the average bid and asked price of .35 on such date. 
+
+Indicate the number of shares outstanding of each of the registrant s classes of common stock, as of the latest practicable date: 
+
+As of October 4, 2021, there were 8,087,388 shares of the issuers Common Stock outstanding. 
+
+DOCUMENTS INCORPORATED BY REFERENCE: 
+
+None. 
+
+INDEX 
+
+Title 
+			 Page 
+
+ITEM 1. 
+			 BUSINESS 
+			 3 
+
+ITEM 2. 
+			 PROPERTIES 
+			 6 
+
+ITEM 3. 
+			 LEGAL PROCEEDINGS 
+			 7 
+
+ITEM 5. 
+			 MARKET FOR COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND PURCHASES OF EQUITY SECURITIES 
+			 7 
+
+ITEM 7. 
+			 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+			 9 
+
+ITEM 8. 
+			 FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+			 15 
+
+ITEM 9. 
+			 CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+			 15 
+
+ITEM 9A. 
+			 CONTROLS AND PROCEDURES 
+			 15 
+
+ITEM 10. 
+			 DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE 
+			 17 
+
+ITEM 11. 
+			 EXECUTIVE COMPENSATION 
+			 21 
+
+ITEM 12. 
+			 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS, MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+			 24 
+
+ITEM 13. 
+			 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE 
+			 25 
+
+ITEM 14. 
+			 PRINCIPAL ACCOUNTING FEES AND SERVICES 
+			 25 
+
+ITEM 15. 
+			 EXHIBITS, FINANCIAL STATEMENT SCHEDULES 
+			 25 
+
+PART I 
+
+ ITEM 1. BUSINESS 
+
+History and Organization 
+
+Procyon Corporation ("Procyon" or the "Company") consolidates the operations of Procyon with AMERX Health Care Corporation("AMERX") and Sirius Medical Supply, Inc. ("Sirius"), its wholly-owned subsidiaries, for financial purposes. Collectively throughout this report, Procyon, Amerx and Sirius may be referred to as the "Company," "us," or "we" or "our." 
+
+Procyon, a Colorado corporation, was incorporated on March 19, 1987, and was deemed a development stage company until May 1996, when we acquired Amerx, a corporation based in Clearwater, Florida, which was wholly owned by John C. Anderson, our deceased Chief Executive Officer. AMERX develops and markets proprietary medical products used in the treatment of pressure ulcers, stasis ulcers, wounds, dermatitis, inflammation and other skin problems. Historically, AMERX's products are sold through distributors to healthcare institutions including hospitals, wound care clinics, nursing homes and home health care agencies and to retailers including national and regional chain stores and pharmacies and to healthcare practitioners who treat wounds. Sirius no longer has any material operations. 
+
+Products 
+
+Major product lines - AMERX , AMERIGEL , HELIX3 Bioactive Collagen , EXTREMIT-EASE Compression Garment 
+
+AMERX markets a proprietary line of AMERIGEL advanced skin and wound care products made with Oakin , proven to promote healing in wound and problematic skin conditions, including the AMERIGEL Hydrogel Wound Dressing, AMERIGEL Post Op Surgical Kits, AMERIGEL Saline Wound Wash, AMERIGEL Care Lotion and AMERIGEL Barrier Lotion. These products have become the core foundation for AMERX s growth. In the second half of fiscal 2015, AMERX expanded its product brands by introducing the HELIX3 Bioactive Collagen . HELIX3 is available in two forms: Collagen Powder (HELIX3 CP and Collagen Matrix (HELIX3 CM ), developed to address market segments previously unavailable to AMERX. In fiscal 2016, AMERX continued its brand expansion by introducing the AMERX branded wound care product line. The line consists of: AMERX Calcium Alginate Dressing, AMERX Foam Dressing, AMERX Gauze Dressing, AMERX Hyrdocolloid Dressing, and AMERX Wound Care Kits, including AMERX Calcium Alginate Wound Care Kit, AMERX Collagen Matrix Wound Care Kit, AMERX Collagen Powder Wound Care Kit, AMERX Foam Wound Care Kit and AMERX Hydrogel Wound Care Kit. In fiscal 2017, AMERX expanded its product line to include a new segment of the wound care market by introducing the EXTREMIT-EASE Compression Garment line, a patent-pending product. These new products have demonstrated early success and product expansion has made it possible for AMERX to provide treatments outside its historical niche. In fiscal 2021, AMERX introduced AMERIGEL Hand Sanitizer, a premium product contain 70 alcohol to be effective against germs and moisturizers to keep the skin from drying out from heavy use. AMERX looks to introduce more new products in fiscal 2022. 
+
+AMERX wound care products sold under the brand names AMERIGEL , HELIX3 , AMERX and EXTREMIT-EASE have received approval for Medicare reimbursement, assigned by the Pricing, Data Analysis and Coding contractor for Medicare and Medicaid ("PDAC"). We believe this reimbursement code is beneficial to AMERX's business, allowing customers on Medicare to seek coverage for use of these products. 
+
+AMERX spent approximately 31,000 towards research and development efforts over the past fiscal year. These efforts were directed towards new product offerings. 
+
+3
+
+The AMERIGEL product line with OAKIN is based on proprietary formulations which are protected as trade secret information and with registered trademarks. AMERX filed for patent protection on the Extremit-Ease Compression Garment in 2017. The patent is still pending, awaiting a final determination by the US Patent and Trademark office. HELIX3 , HELIX3 CP , HELIX3 CM and HELIX3 Bioactive Collagen , OAKIN and EXTREMIT-EASE are registered trademarks of AMERX Health Care. All products are registered with the Food and Drug Administration ("FDA"). 
+
+AMERX product lines continue to gain acceptance within the health care community. AMERX owns and operates four different websites. The sites can be viewed at www.amerigel.com , www.amerxhc.com , www.extremitease.com and www.amerxstore.com . These websites provide viewer-focused information about AMERX's products to consumers (amerigel.com and extremitease.com) and health care providers (amerxhc.com). Amerxstore.com, amerigel.com and extremitease.com are equipped to handle direct sales to the public. 
+
+Market for Products 
+
+We have expanded our product line over the last five fiscal years to address a broader range of wound applications. Our core AMERIGEL product line containing Oakin established our presence in the physician market to address skin and wound care treatment needs. HELIX3 Bioactive Collagen was added to our product line in fiscal 2015 and AMERX Kits, dressings and bandages in fiscal 2016 to address the broader wound care market needs for an increasing number of people with diabetes and obesity. This market is primarily comprised of hospitals, wound care centers, nursing homes, home health care agencies and health care practioners. The EXTREMIT-EASE Compression Garment, introduced in 2017, enables AMERX Health Care to compete in the global compression therapy market, a multi-billion market that is projected to escalate as a result of aging populations, rising prevalence of diabetes, lymphatic diseases, cancer surgeries, venous diseases and sports injuries. In fiscal 2019, the Company continued expanding its sales channel designed to reduce inventory costs while increasing access to AMERX full line of products, through existing markets. Amerx grew its Wound Care product line with the addition of Retention Tape, additional Bordered Foam sizes and additional sizes of Calcium Alginate products. The Helix Collagen line grew with the addition of a 1" x 1", 4" x 4" and 7" x 7" Matrix pad. In fiscal 2021, AMERX added a 1" x 6" and 1" x 10" matrix pad to Helix Collagen lline. In fiscal 2020, AMERX s Extremit-Ease Compression Garment line expanded with the introduction of a Tan version of the garment and matching liner. Extremit-Ease continues to gain momentum in the wound care, edema and lymphedema markets with plans to further expand the line in Fiscal 2022. 
+
+We believe AMERX Health Care's products offer quality, efficacious treatment options for acute and chronic wounds, ulcers and recurring skin conditions, and therapy options for edema most often treated by health care professionals. The retail market for AMERX products is comprised of national and regional chain stores, independent retail pharmacies and medical supply stores. 
+
+Distribution and Sales 
+
+AMERX's traditional method of distribution has been through retail and institutional distributors. We expect to continue increasing our distributor base, particularly with distributors capable of introducing AMERX's products in new medical specialty markets, in new geographical areas and to new retail chains. Distributors typically purchase products from AMERX on standard credit terms (2 10, Net 30). AMERX supports its distributors through product literature, advertising and participation at industry trade shows. All existing distributors sell AMERX products on a non-exclusive basis. 
+
+4
+
+We periodically receive inquiries about international market distribution for the AMERIGEL product line. These inquiries have been generated by our advertising, market presence and web sites (www.amerxhc.com, www.amerigel.com and www.extremitease.com). We respond to and pursue all such inquiries, while complying with applicable international regulatory guidelines. 
+
+In fiscal 2021, AMERX generated all of our net sales of approximately 4,720,000. 
+
+Significant Customer(s) 
+
+During the year ended June 30, 2021 sales from one customer accounted for approximately 10 of AMERX s sales. In fiscal 2020 no customers accounted for more then 10 of AMERX s sales. 
+
+Manufacturing 
+
+During fiscal 2021, the majority of manufacturing of AMERX's products was completed by non-affiliated manufacturing facilities. AMERX has written contracts with its manufacturers (and there are no minimum purchase requirements). The agreements / arrangements made with multiple manufacturers reduces the potential risk associated with relying on a single manufacturer. AMERX believes there are additional companies that could manufacture AMERX products according to specifications, if necessary. 
+
+AMERX's manufacturing and packaging activities are performed pursuant to Current Good Manufacturing Practices ("CGMP") as defined under the United States Federal Food, Drug and Cosmetic Act, as amended (the "FFDC Act") and the regulations promulgated under the FFDC Act. All manufacturing activities are required to comply with the product specifications, supplies and test methods developed by AMERX specifically for its products, as well as the CGMP. 
+
+A single source currently furnishes a proprietary ingredient contained in the AMERIGEL products. AMERX does not have a written contract with this supplier; however, management believes that, if necessary, an alternative supplier could be secured within a reasonable period of time. The manufacturer generally provides other raw materials and ingredients and we believe there are numerous other sources for these materials and ingredients. However, there can be no assurance that AMERX would be able to timely secure an alternative supplier and the failure to replace this supplier in a timely manner could materially harm AMERX's results of operations. 
+
+Proprietary Rights 
+
+The United States Patent and Trademark Office registered the Company's AMERIGEL trademark in January 1999. OAKIN , the principal proprietary ingredient used in AMERIGEL products, became a registered trademark in 2007. In fiscal 2016, AMERX received registered trademarks for the OAKIN logo, HELIX3 , HELIX3 CM , HELIX3 CP and the HELIX3 logo. In fiscal 2017, AMERX received registered trademark approval for the EXTREMIT-EASE Compression Garment name, logo and mark "WHERE COMPRESSION MEETS COMPLIANCE". All registered trademarks have been periodically renewed, when required, and are currently in effect. In 2017 AMERX Health Care filed a patent application related to our EXTREMIT-EASE compression product. AMERX relies on a combination of trademarks, patents, trade secret protection and confidentiality agreements to establish and protect its proprietary rights. 
+
+5
+
+Competition 
+
+The market for skin and wound care treatment products in which AMERX operates is highly competitive. Competition is based on product efficacy, brand recognition, loyalty, quality, price and availability of shelf space in the retail market. AMERX competes against several well-capitalized companies offering a range of skin treatment products as well as small competitors having a limited number of products. AMERX has successfully established its products efficacy and value within specialized health care markets and expects to continue to expand this marketplace. 
+
+Order Placement and Backlog 
+
+There were no back orders as of June 30, 2021 and June 30, 2020, respectively. 
+
+Governmental Approvals and Regulations 
+
+The production and marketing of our products are subject to regulation for safety, efficacy and quality by numerous governmental authorities in the United States. AMERX's advertising and sales practices are subject to regulation by the Federal Trade Commission (the "FTC"), the FDA and state agencies. The FFDC Act, as amended, the regulations promulgated thereunder, and other federal and state statutes and regulations govern, among other things, the testing, manufacture, safety, effectiveness, labeling, storage, record keeping, approval, advertising and promotion of AMERX's products. The FDA regulates the contents, labeling and advertising of AMERX's products. AMERX may be required to obtain FDA approval for proposed nonprescription products. This procedure involves extensive clinical research, and separate FDA approvals are required at various stages of product development. The approval process requires, among other things, presentation of substantial evidence to the FDA, based on clinical studies, as to the safety and efficacy of the proposed product. After approval, manufacturers must continue to expend time, money and effort in production and quality control to assure continual compliance with the Current Good Manufacturing Practices (CGMP) regulations. 
+
+We believe that, as of June 30, 2021, we are in compliance with all applicable laws and regulations relating to our operations in all material respects. Compliance with the various provisions of national, state and local laws and regulations has had a material adverse effect upon the capital expenditures, earnings, financial position, liquidity and competitive position of the Company. We have incurred and will continue to incur costs in order to remain compliant with the latest regulations of the US Securities and Exchange Commission SEC and the FDA. 
+
+Employees 
+
+As of September 1, 2021, the Company and its subsidiary employ a total of 20 full time and 1 part time employees, consisting of 7 management employees, 3 sales-related employees and 11 administrative employees. One employee works under Procyon and twenty employees work under the AMERX subsidiary. 
+
+ITEM 2. PROPERTIES 
+
+We currently maintain our corporate office, and those of AMERX and Sirius, at 164 Douglas Road East, Suite 164, Oldsmar, Florida 34677. Our office consists of approximately 18,000 square feet of space. We are leasing the building for the next five years as of January 2021. 
+
+On May 29, 2015 the Company entered into a lease agreement to lease 3,200 square feet of warehouse space in Clearwater, FL. The lease was a sixty-three month lease starting July 1, 2015 and ending September 30, 2020. This lease was amended on February 1, 2018 to increase the square footage of the new premises to 4,892 square feet and the lease term to April 2021. The amended lease payments begin at 2,752 per month (plus applicable sales tax) and increase 3 per year starting May 2019 and May 2020, respectively. This lease expired and we moved to our new offices in lieu of renewing this lease. 
+
+6
+
+On January 13, 2021 the Company entered into a lease agreement to lease 18,000 square feet of warehouse space in Clearwater, FL. The lease is is for a five year term starting May 1, 2021 and ending April 30, 2026. The lease payment begin at 14,165 per month and will increase annually based on the Consumer Price Index, and will be no less then 2 or exceed 5 per year. 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+The Company and its subsidiaries are not a party to any pending material legal proceedings nor is our property the subject of a pending legal proceeding. 
+
+PART II 
+
+ITEM 5. MARKET FOR COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND PURCHASES OF EQUITY SECURITIES. 
+
+The Company s Common Stock is quoted on the OTCQB electronic quotations system run by OTC Markets Group, Inc. Any over-the-counter market quotations reflect inter-dealer prices, without retail mark-up, mark down or commission and may not necessarily represent actual transactions. 
+
+As of September 23, 2021, there were approximately 110 record holders of the Company s Common Stock. 
+
+Holders of Common Stock are entitled to receive such dividends if declared by the Company s Board of Directors. We have not declared any dividends on our Common Stock and have no current plans to declare a dividend in the immediate future. 
+
+Holders of the Series A Cumulative Convertible Preferred Stock (the Preferred Stock are entitled to receive, if declared by the Board of Directors, quarterly dividends at an annual rate of .10 per share. Dividends accrue without interest, from the date of issuance, and are payable in arrears in cash or common stock, when and if declared by the Board of Directors. No dividends had been declared or paid at June 30, 2021, and dividends, if ever declared, in arrears at such date total 404,516. 
+
+Holders of the Preferred Stock have the right to convert their shares of Preferred Stock into an equal number of shares of Common Stock of the Company. In addition, every holder of preferred stock is entitled to that number of votes equal to the number of shares of common stock into which the preferred stock is convertible. Such preferred shares will automatically convert into one share of Common Stock at the close of a public offering of Common Stock by the Company provided the Company receives gross proceeds of at least 1,000,000, and the initial offering price of the Common Stock sold in such offering is equal to or in excess of 1 per share. No shares were converted during fiscal 2021 or 2020. So long as any shares of Series A Preferred Stock are outstanding, the Company is prohibited from declaring dividends or other distributions related to its Common Stock or purchasing, redeeming or otherwise acquiring any of the Common Stock. 
+
+There have been price fluctuations in the Company s Common Stock during the period covered by this report. Factors that may have caused or can cause market prices to fluctuate include the number of shares available in the public float, any purchase or sale of a significant number of shares during a relatively short time period, quarterly fluctuations in results of operations, issuance of additional securities, entrance of such securities into the public float, market conditions specific to the Company s industry and market conditions in general, and the willingness of broker-dealers to effect transactions in low priced securities. In addition, the stock market in general has experienced significant price and volume fluctuations in recent years. These fluctuations, may have had a substantial effect on the market price for many small capitalization companies such as the Company. Factors such as those cited above, as well as other factors that may be unrelated to the operating performance of the Company, may significantly affect the price of the Common Stock. 
+
+7
+
+Equity Compensation Plan Information 
+
+The following table contains information regarding Procyon s equity compensation plans as of June 30, 2021. The Company maintained the Procyon Corporation 2009 Stock Option Plan (the "2009 Option Plan"), which expired by its terms on December 8, 2019. In November 2020, our shareholders approved the Procyon Corporation 2020 Stock Option and Incentive Plan (the 2020 Option Plan ). 
+
+Equity Compensation Plan Information 
+
+Plan category 
+
+Number of securities to 
+
+			 be issued upon exercise 
+
+			 of outstanding options, 
+
+			 warrants and rights 
+
+Weighted-average 
+
+			 exercise price of 
+
+			 outstanding options, 
+
+			 warrants and rights 
+
+Number of securities remaining 
+
+			 available for future issuance under 
+
+			 equity compensation plans 
+
+			 (excluding securities reflected in 
+
+			 column (a)) 
+
+(a) 
+
+(b) 
+
+(c) 
+
+Equity compensation 
+
+			 plans approved by 
+
+			 security holders: 
+
+2009 Option Plan 
+			 65,000 
+			 .17 
+			 
+			 500,000 shares of Common Stock 
+
+			 for Non-Qualified Stock Options 
+
+			 (250,000 of which have been 
+
+			 issued) and Stock Appreciation 
+
+			 Rights and 500,000 shares of 
+
+			 Common Stock for Incentive Stock 
+
+			 Options. 
+
+2020 Option Plan 
+			 50,000 
+			 .373 
+			 
+			 2,000,000 shares of Common Stock 
+
+			 for Stock Options, Registered 
+
+			 Stock or Restricted Stock Units and 
+
+			 Other Stock-Based Awards. 
+
+8
+
+Equity compensation 
+
+			 plans not approved 
+
+			 by security holders 
+
+- 
+
+- 
+
+2009 Option Plan 
+
+65,000 
+
+.17 
+
+435,000 shares of Common Stock 
+
+			 for Non-Qualified Stock Options 
+
+			 (250,000 of which have been 
+
+			 issued) and Stock Appreciation 
+
+			 Rights and 500,000 shares of 
+
+			 Common Stock for Incentive Stock 
+
+			 Options 
+
+2020 Option Plan 
+			 50,000 
+			 .373 
+			 
+			 1,950,000 shares of Common Stock 
+
+			 for Stock Options, Registered 
+
+			 Stock or Restricted Stock Units and 
+
+			 Other Stock-Based Awards. 
+
+Total 
+			 115,000 
+
+Effective June 30, 2021, the Company granted 25,000 non-qualified stock options to Justice W. Anderson and 25,000 non-qualified stock options to James B. Anderson for exceeding certain performance standards in fiscal 2021, pursuant to the terms of their respective Restated and Amended Executive Employment Agreements dated July 1, 2020. Each of the options were dated September 24, 2021, but were granted and effective as of June 30, 2021 for a ten year term and have an exercise price of .373 per share. 
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+
+Safe Harbor Statement under the Private Securities Litigation Reform Act of 1995 
+
+This Report on Form 10-K, including Management s Discussion and Analysis or Plan of Operation, contains forward-looking statements. When used in this report, the words may , will expect anticipate continue estimate project intend seek , hope believe and similar expressions, variations of these words or the negative of those words, and, any statement regarding possible or assumed future results of operations of the Company s and its subsidiaries business, the markets for its products, anticipated expenditures, regulatory developments or competition, or other statements regarding matters that are not historical facts, are intended to identify forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 regarding events, conditions and financial trends including, without limitation, business conditions in the skin and wound care market and the general economy, competitive factors, changes in product mix, production delays, manufacturing capabilities, new and unanticipated governmental regulations, the impact of the COVID-19 pandemic on the Company s sales, operations and supply chain and other risks or uncertainties detailed in other of the Company s Securities and Exchange Commission filings. Such statements are based on management s current expectations and are subject to risks, uncertainties and assumptions. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, the Company s actual plan of operations, business strategy, operating results and financial position could differ materially from those expressed in, or implied by, such forward-looking statements. 
+
+Our business in general is subject to certain risks including but not limited to the following: 
+
+- 
+
+we may not be able to produce or obtain, or may have to obtain at excessive prices, the raw materials and finished goods we need; 
+
+- 
+
+the vendors on whom we rely for manufacturing certain products may go out of business, fail to meet demand or provide shipments on an untimely basis; 
+
+9
+
+- 
+
+competitive pressures may require us to lower our prices on certain products, thereby adversely affecting operational results; 
+
+- 
+
+we may not be able to obtain, or obtain at uneconomic expense and protracted time, the regulatory approval of new products; 
+
+- 
+
+no assurance can be given that we will remain in compliance with applicable FDA and other regulatory requirements once clearance or approval has been obtained for a product. We must incur expense and spend time and effort to ensure compliance with these complex regulations. Possible regulatory actions could include warning letters, fines, damages, injunctions, civil penalties, recalls, seizures of our products, and criminal prosecution; 
+
+- 
+
+consumers or distributors may not favorably receive our new or existing products; 
+
+- 
+
+we may not be able to obtain adequate financing to fund our operations or expansion; 
+
+- 
+
+a relatively small group of products may represent a significant portion of our net revenues or net earnings from time to time; if the volume or pricing of any of these products declines, it could have a material adverse effect on our business, financial position and results of operations; 
+
+- 
+
+we could experience reduced revenues and profits if Medicare or other government programs change, delay or deny reimbursement claims; 
+
+- 
+
+we are subject to various federal, state, and international laws and regulations pertaining to government benefit program reimbursement, price reporting and regulation, and health care fraud and abuse, including anti-kickback and false claims laws, the Medicaid Rebate Statute, the Veterans Health Care Act, and individual state laws relating to pricing and sales and marketing practices; violations of these laws may be punishable by criminal and/or civil sanctions, including, in some instances, substantial fines, imprisonment, and exclusion from participation in federal and state health care programs, including Medicare, Medicaid, and Veterans Administration health programs; violations of these laws, or allegations of such violations, could disrupt our business and result in a material adverse effect on our revenues, profitability, and financial condition; 
+
+- 
+
+the loss of senior management or other key personnel, or our inability to attract and retain additional senior management or other key personnel, could adversely affect our ability to execute our business plan; 
+
+- 
+
+we could become subject to new unanticipated governmental regulations or fail to comply with regulations applicable to our products, which could materially and adversely affect our business, financial position and results of operations; and 
+
+- 
+
+legislative or regulatory programs that may influence prices of medical devices could have a material adverse effect on our business; 
+
+- 
+
+the demand for our products may decrease because of various factors, such as adverse business conditions and a sluggish U.S. economy; 
+
+- 
+
+our product supply and related patient access to products could be negatively impacted by, among other things: (i) seizure or recalls of products or forced closings of manufacturing plants, (ii) supply chain continuity including from natural or man-made disasters at one of our facilities or at a critical supplier or vendor, as well as our failure or the failure of any of our vendors or suppliers to comply with Current Good Manufacturing Practices and other applicable regulations and quality assurance guidelines that could lead to manufacturing shutdowns, product shortages and delays in product manufacturing, (iii) manufacturing, quality assurance/quality control, supply problems or governmental approval delays, (iv) the failure of a sole source or single source supplier to provide us with necessary raw materials, supplies or finished goods for an extended period of time, (v) the failure of a third-party manufacturer to supply us with finished product on time, (vi) construction or regulatory approval delays related to new facilities or the expansion of existing facilities (vii) the failure to meet new and emerging regulations requiring products to be tracked throughout the distribution channels using unique identifiers and (viii) other manufacturing or distribution issues including limits to manufacturing capacity due to regulatory requirements; changes in the types of products produced; physical limitations or other business interruptions; 
+
+10
+
+- 
+
+we may experience an increase in the number and magnitude of delinquent or uncollectible customer accounts during periods of economic downturn. 
+
+- 
+
+The economic impact of the COVID-19 pandemic could adversely affect our financial condition and results of operations. The outbreak of COVID-19 is believed to have originated in December 2019 and has since spread to multiple countries around the world, including the United States. On March 11, 2020, the World Health Organization declared the outbreak a pandemic. The COVID-19 pandemic has caused significant economic dislocation in the United States as many state and local governments have ordered non-essential businesses to close and residents to shelter in place at home. This has resulted in an unprecedented slow-down in economic activity, a related increase in unemployment and a significant decline in the value of the stock market and many non-essential and elective medical procedures to be delayed or canceled. The COVID-19 pandemic is affecting the United States and global economies and may affect our operations and those of third parties on which we rely, including by causing disruptions in the supply for our products. In addition, the COVID-19 pandemic may affect our operations due to users of our products delaying or canceling medical treatments and the closure of doctors offices and other medical health facilities which administer our products. The ultimate impact of the COVID-19 pandemic is highly uncertain and subject to change. We do not yet know the full extent of potential delays or impacts on our business, financing or on healthcare systems or the global economy as a whole. However, these effects could have a material impact on our results from operations and business and those of the third parties on which we rely. 
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+
+Our financial statements have been prepared in accordance with standards of the Public Company Accounting Oversight Board (United States) PCAOB ), which require us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and the related disclosures. A summary of those significant accounting policies can be found in the Notes to the Consolidated Financial Statements included in this annual report. The estimates used by management are based upon our historical experiences combined with management s understanding of current facts and circumstances. Certain of our accounting policies are considered critical as they are both important to the portrayal of our financial condition and the results of its operations and require significant or complex judgments on the part of management. We believe that the following critical accounting policies affect the more significant judgments and estimates used in the preparation of our financial statements. 
+
+Deferred Income Taxes 
+
+Deferred income taxes are recognized for the expected tax consequences in future years for differences between the tax bases of assets and liabilities and their financial reporting amounts, based upon exacted tax laws and statutory tax rates applicable to the periods in which the differences are expected to affect taxable income. The Company accounts for income taxes under Topic 740 - Income Tax in the Accounting Standards Codification. A valuation allowance is used to reduce deferred tax assets to the net amount expected to be recovered in future periods. The estimates for deferred tax assets and the corresponding valuation allowance require us to exercise complex judgments. We periodically review and adjust those estimates based upon the most current information available. We had a valuation allowance of 144,619 as of June 30, 2020. We had no valuation allowance as of June 30, 2021. 
+
+11
+
+Revenue Recognition 
+
+The Company recognizes revenue in accordance with Securities and Exchange Commission Staff Accounting Bulletin Topic 13, Revenue Recognition , which requires that four basic criteria must be met before revenue can be recognized: (1) persuasive evidence of an arrangement exists; (2) delivery has occurred or services have been rendered; (3) the seller s price to the buyer is fixed or determinable; and, (4) collectibility is reasonably assured. We recognize revenue related to product sales upon the shipment of such orders to customers. 
+
+Revenue from Contracts with Customers (Topic 606) 
+
+In May 2014, the FASB issued a new standard related to revenue recognition. Under the new standard, recognition of revenue occurs when a customer obtains control of promised goods or services in an amount that reflects the consideration to which the entity expects to receive in exchange for those goods or services. In addition, the standard requires disclosure of the nature, amount, timing, and uncertainty of revenue and cash flows arising from contracts with customers. The new standard became effective for the Company beginning after December 15, 2017, including interim reporting periods within that reporting period. There has been no material effect to our financial results of operations based on this new standard. 
+
+Stock Based Compensation 
+
+Stock based compensation is accounted for in accordance with Topic 718 - Compensation - Stock Compensation in the Accounting Standards Codification. All share-based payments to employees, including grants of employee stock options, are to be recognized in the statement of operations based upon their fair values and rescinds the acceptance of pro forma disclosure. 
+
+General 
+
+Our continuing operations and revenues consist of the operations of and revenues generated by AMERX, our wholly-owned subsidiary. AMERX skin and wound care products, marketed under the trademark AMERIGEL and containing the proprietary ingredient OAKIN , promote wound healing and healthy skin through moderately priced products for treatment of problematic skin and wound conditions. 
+
+AMERX markets AMERIGEL , HELIX3 , AMERX wound care products and EXTREMIT-EASE compression garments to institutional customers such as hospitals, wound care clinics, skilled nursing facilities, home health agencies and to physicians and other health care practitioners. AMERIGEL and EXTREMIT-EASE products are also marketed to retail customers through direct sales, internet sales and through independent and retail chain drug stores and to physicians and other health care practitioners. 
+
+AMERX s products are distributed to institutions and to retail stores through national, regional and local distributors as well as through direct sales and internet sales. 
+
+Future Expectations 
+
+AMERX expects to further penetrate the health care market through its participation in industry trade shows, advertisements in trade journals, development of additional distributor relationships and by opening new geographical territories (including international markets). These efforts have been limited due to availability secondary to the COVID-19 pandemic and the restrictions enforced on its behalf. AMERX management is trying new methods of Marketing to support its multiple product lines. AMERX management seeks to develop new markets as the AMERIGEL , HELIX3 , AMERX and EXTREMIT-EASE product lines gain broader acceptance. AMERX management also seeks to develop new products to be released as soon as practicable, with expansion of the HELIX3 line expected in fiscal 2022. 
+
+12
+
+Impact of COVID-19 on Our Business 
+
+The financial effects of COVID-19 started showing their impact on our Company in March of 2020. Due to the timing of these events, the full effect of COVID-19 on our business cannot yet be fully quantified. We have felt the effects of the COVID-19 pandemic in our operations, as management continues to dedicate time and effort researching, discussing and implementing policies and procedures necessary to navigate through the ever changing landscape the COVID-19 pandemic has and continues to provide. As an essential business, management was tasked with remaining open, while keeping our employees safe, and providing our customers, who were still able to actively provide healthcare services, with the products they need. 
+
+The effects were most severely seen in April 2020. This was a direct result of the inability for customers to have elective surgery. Once elective surgeries were permitted again we have seen a steady increase in volume. We continue to monitor operations, and are still implementing procedures to keep all our employees as safe as possible. Currently, the Company is restricted in its marketing efforts as Tradeshows for the most part are not available in their traditional in person form. Most available tradeshows have chosen the virtual route, which has not proven successful from a vendor sales relationship perspective. Operationally, the pandemic has made it increasingly difficult to hire new or replacement personnel to support the Company s growth. It has also caused wages to increase dramatically. 
+
+Results of Operations 
+
+Comparison of Fiscal 2021 and 2020 . 
+
+During fiscal 2021 and 2020, our results of operations related solely to the operations of AMERX. Net sales during fiscal 2021 were approximately 4,720,000 as compared to approximately 4,334,000 in fiscal 2020, an increase of approximately 386,000 or 9 . Sales grew through continued sales of core brands combined with growth in new product brand sales. 
+
+Cost of sales were approximately 1,331,000 in fiscal 2021, as compared to approximately 1,135,000 in fiscal 2020, an increase of approximately 196,000 or 17 . Cost of sales in fiscal 2021, as a percentage of net sales, increased to 28 , from 26 in the previous fiscal year ending 2020. 
+
+Gross profit increased to approximately 3,389,000 during fiscal 2021, as compared to approximately 3,199,000 during fiscal 2020, an increase of about 189,000, or 6 . As a percentage of net sales, gross profit was approximately 72 in fiscal 2021 as compared to 74 in fiscal 2020. 
+
+Operating expenses during fiscal 2021 were approximately 3,064,000, consisting of approximately 1,734,000 in salaries and benefits and 1,330,000 in selling, general and administrative expenses. Operating expenses in fiscal 2020 were approximately 3,046,000 and consisted of approximately 1,730,000 in salaries and benefits and approximately 1,317,000 in selling, general and administrative expenses. This represents an increase in expenses of approximately 18,000 in fiscal 2021 over the operating expenses in fiscal 2020. As a percentage of net sales, operating expenses during fiscal 2021 were 65 as compared to 70 during fiscal 2020; as gross profit increased approximately 189,000 for the year on an approximately 18,000 increase in operating expenses. Salaries and Benefits increased slightly. Selling, General and Administrative expenses increased primarily due to shipping expense increases from increased sales. 
+
+13
+
+Income from operations finished at approximately 325,000 in 2021, as compared to approximately 153,000 in fiscal 2020. Income before income taxes finished at approximately 832,000 in 2021, as compared to income of approximately 160,000 in 2020. Net income (after dividend requirements for Preferred Shares) was approximately 751,000 during fiscal 2021, compared to approximately 95,000 of net income during fiscal 2020. The Company recorded approximately 64,000 of income tax expense when determining the net income available to common shares in fiscal 2021, compared to 48,000 in fiscal 2020. 
+
+Management believes it is more likely than not that the tax benefit of approximately 446,000 of NOL carryforwards will be realized. Therefore, management did not provided valuation allowance. Management will continue to evaluate its operating results each reporting period and assess whether it will be able to utilize all available NOL carryforwards before expiration. 
+
+Liquidity and Capital Resources 
+
+Historically, we have financed our operations through revenues from operations. As of June 30, 2021, our principal sources of liquidity included inventories of approximately 591,000, net accounts receivable of approximately 497,000, cash of approximately 1,227,000, and certificates of deposit of approximately 280,000. We had net working capital of approximately 2,234,000 at June 30, 2021. 
+
+Operating activities provided cash of approximately 280,000 during fiscal 2021, and approximately 199,000 during fiscal 2020, consisting primarily of an increase in net income of approximately 768,000, in fiscal 2021 and an decrease in inventory, in fiscal 2020. Cash provided by investing activities during fiscal 2021 was approximately 480,000 as compared to cash used by investing activities in fiscal 2020 of approximately 24,000, respectively. Cash used in financing activities during fiscal 2021 was 199,000 compared cash provided by financing activities of 201,000 during fiscal 2020, respectively. 
+
+During fiscal 2021, no holder of shares of Preferred Stock converted its shares to Common Stock. 
+
+Commitments of Capital Expenditures 
+
+At June 30, 2021, the Company had no commitments for capital expenditures. 
+
+Off-Balance Sheet Arrangements 
+
+During fiscal years 2021 and 2020, we did not have any relationships or arrangements with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, which would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. 
+
+14
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+Consolidated financial statements as of June 30, 2021, and 2020 were audited by Ferlita, Walsh, Gonzalez and Rodriguez, P.A., the Company s independent auditors, as indicated in their report included appearing at page F-1. 
+
+INDEX TO FINANCIAL STATEMENTS 
+
+Page 
+
+Report of Independent Registered Public Accounting Firm 
+			 F-1 
+
+Consolidated Balance Sheets 
+			 F-2 
+
+Consolidated Statements of Operations 
+			 F-3 
+
+Consolidated Statements of Stockholders Equity 
+			 F-4 
+
+Consolidated Statements of Cash Flows 
+			 F-5 
+
+Notes to Consolidated Financial Statements 
+			 F-6 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE. 
+
+None. 
+
+ITEM 9A. CONTROLS AND PROCEDURES. 
+
+Management of the Company, with the participation of the Chief Executive Officer and the Chief Financial Officer, has conducted an evaluation of the effectiveness of the Company s disclosure controls and procedures pursuant to Rule 13a-15 under the Securities Exchange Act of 1934, as of the end of the period covered by this report. Based on that evaluation, management, including the Chief Executive Officer and Chief Financial Officer, concluded that, as of the date of this report, the Company s disclosure controls and procedures were not effective in ensuring that all material information relating to the Company required to be disclosed in this report has been made known to management in a timely manner and ensuring that this information is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and regulations, because of the identification of a certain material weakness in our internal controls over financial reporting which is identified below, which we view as an integral part of our disclosure controls and procedures. 
+
+Our management, including our Chief Executive Officer and our Chief Financial Officer, does not expect that our disclosure controls and procedures or our internal controls over financial reporting will, in all instances, prevent all errors and all fraud. A control system, no matter how well conceived or operated, can only provide reasonable, not absolute, assurance that the objectives of the control system are met. While our control systems provide a reasonable assurance level, the design of our control systems reflects the fact that there are resource constraints, and the benefits of such controls were considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the financial reports of the Company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of simple errors or mistakes. Additionally, a control can be circumvented by the individual act of some person, by collusion of two or more persons, or by management s override of a specific control. The design of any system of controls is also based in part on certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+
+15
+
+(a) Management s annual report on internal control over financial reporting. Our management is responsible for establishing and maintaining adequate internal control over financial reporting for the Company. The Company s internal controls system was designed to provide reasonable assurance to the Company s management and board of directors regarding the preparation and fair presentation of published financial statements. 
+
+All internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. 
+
+The Company s management assessed the effectiveness of the Company s internal control over financial reporting as of June 30, 2021. In making this assessment, it used the criteria set forth by the Committee of Sponsoring Organizations of the Treadway Commission COSO in Internal Control Integrated Framework, Guidance for Smaller Public Companies. Our assessment based on those criteria concludes that, as of June 30, 2021, the Company s internal control over financial reporting was not effective to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with Generally Accepted Accounting Principles GAAP rules as more fully described below. This was due to a deficiency that existed in the design or operation of our internal controls over financial reporting that adversely affected our internal controls and that may be considered to be a material weakness. The matter involving internal controls and procedures that the Company s management considers to be a material weakness under the standards of the Public Company Accounting Oversight Board in fiscal 2020 is inadequate segregation of duties consistent with control objectives. Management believes that this material weakness did not have an adverse effect on the Company s financial results reported herein. We believe that this material weakness will be remedied with growth of the Company in the future and hiring of additional personnel. 
+
+The Company is committed to continuous improvement of our internal control environment and financial organization. As part of this commitment, we intend to increase our personnel resources and technical accounting expertise within the accounting function through outside assistance from accounting experts and increase our segregation of duties within the company within the limits of our existing personnel. In addition, we intend to continually evaluate our policies and procedures to keep up with and expand our internal controls and quality of financial reporting within our personnel as our company grows. We expect to involve the board of directors more during the year regarding Company operations, including annual and quarterly risk assessments, strategic planning, and financial oversight and reporting. We expect to strengthen the expertise of the board by adding future members that have financial and business expertise in our industry. We intend to add additional members to the audit committee and require the audit committee members to further their understanding of applicable rules and requirements and continue their oversight responsibility of implementing necessary and effective internal control policies and procedures. We intend to monitor and evaluate the effectiveness of our internal controls and procedures over financial reporting on an ongoing basis and are committed to taking further action and implementing additional improvements as necessary and as resources allow. 
+
+(b) Attestation report of the independent registered public accounting firm. This annual report does not include an attestation report of the Company s independent registered public accounting firm regarding internal control over financial reporting. Management s report was not subject to attestation by the Company s independent registered public accounting firm pursuant to Item 308(b) of Regulation S-K. 
+
+16
+
+(c) Changes in internal control over financial reporting. The Company has eliminated all material weaknesses with the exception of the segregation of duties weakness noted above. The Company will not be able to eliminate this material weakness until such time as growth in the numbers of employees permits. As the Company grows this will be addressed. 
+
+PART III 
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE. 
+
+Directors and Executive Officers 
+
+Capacities in 
+			 Director 
+
+NAME 
+			 Age 
+			 Which Served 
+			 Since 
+
+Regina W. Anderson 
+			 74 
+			 Chairwoman of the Board 
+			 2005 
+
+Fred W. Suggs, Jr. 
+			 74 
+			 Director 
+			 1995 
+
+James B. Anderson 
+			 51 
+			 
+			 Director, Chief Financial Officer; Procyon 
+
+			 Vice President - Operations, AMERX 
+
+			 Health Care Corp. 
+			 
+			 2006 
+
+Justice W. Anderson 
+			 44 
+			 
+			 Director, Chief Executive Officer; 
+
+			 Procyon, President; AMERX Health 
+
+			 Care Corp. 
+			 
+			 2006 
+
+Joseph R. Treshler 
+			 68 
+			 Director 
+			 2013 
+
+Dr. Paul E. Kudelko, Sr 
+			 81 
+			 Director 
+			 2013 
+
+Monica L. McCullough 
+			 50 
+			 Director 
+			 2019 
+
+Steven McComas 
+			 54 
+			 Director 
+			 2021 
+
+George O. Borak 
+			 60 
+			 
+			 Vice President - Sales, AMERX Health Care 
+
+			 Corp. 
+
+Dr. Kudelko resigned effective July 6, 2021. 
+
+Mr. McComas was appointed to fill the Board vacancy caused by Dr. Kudelko s resignation on July 6, 2021. 
+
+Regina Anderson. Ms. Anderson has served as Chairwoman of the Board of Directors since September 2005, and as our Chief Executive Officer from November 2005 through December 2017. Ms. Anderson has 38 years experience in the medical field and 31 years of management experience. Ms. Anderson worked at Health South Rehabilitation Hospital for ten years as Outpatient Director, in charge of the main outpatient center plus four satellite offices. Prior to her work at HealthSouth, Regina was Vice-President of Operations at Stuffit Direct Marketing Company from 1980 through 1989. Regina received her Masters Degree from Kansas State University in 1970. 
+
+Fred W. Suggs, Jr. Mr. Suggs has served on our Board of Directors since 1995. He is a member of the Compensation committee and Chairman of the Ethics committee. He has been a practicing attorney since 1975. He is a partner in the Greenville, South Carolina office of Ogletree, Deakins, Nash, Smoak Stewart, specializing in labor and employment law. He has been certified as a specialist in labor and unemployment law by the South Carolina Supreme Court and is a frequent lecturer on labor and employment law issues. Mr. Suggs graduated from Kansas State University with a B.S. degree and he received his J.D. degree from the University of Alabama. 
+
+James B. Anderson . Mr. Anderson, a Director since 2006, has served as our Chief Financial Officer since June 2005. In addition, from September 22, 2005, until that position was filled by Regina Anderson on November 1, 2005, Mr. Anderson served as Interim Chief Executive Officer. On June 28, 2005, Mr. Anderson was appointed to serve as the President of Sirius Medical Supply, Inc. Since 1993, Mr. Anderson has been involved with AMERX Health Care Corporation as its Chief Information Officer until 2005, when he was appointed VP of Operations. In 1996, Mr. Anderson became involved with Procyon Corporation after its merger and has since performed the duties of Vice President of Operations. Prior to Mr. Anderson s work with the Company, he was involved with importing and exporting to Russia and Direct Mail Marketing. He received a B.S. from the University of South Florida. Mr. Anderson is the son of John C. Anderson, our late President, Chief Executive Officer and Chairman of the Board, the son of Regina Anderson, the Company s Chairwoman of the Board and former Chief Executive Officer of Procyon, and the brother of Justice W. Anderson, our Chief Executive Officer/President of Procyon and Vice President of Marketing and the President of AMERX Health Care Corporation. 
+
+17
+
+Justice W. Anderson . Mr. Anderson currently serves as the Chief Executive Officer/ President for Procyon and President and V.P. of Marketing for AMERX Health Care Corporation. He has served on Procyon's Board of Directors since 2006. Mr. Anderson served as the Vice President of Sales for AMERX from January of 2001 until June of 2012 when the new V.P. of Sales was hired. Mr. Anderson has served on the Corporate Advisory Board of the American Academy of Podiatric Practice Management. Mr. Anderson joined AMERX in 2000 after receiving his B.A. degree from the University of Florida. Mr. Anderson is the son of John C. Anderson, our late President, Chief Executive Officer and Chairman of the Board, son of Regina Anderson, the Company's Chairwoman of the Board and former Chief Executive Officer/President of Procyon and the brother of James B. Anderson, our Chief Financial Officer. 
+
+Joseph R. Treshler . Mr. Treshler has served on the Board of Director s since January 2013 and is a member of the Audit and Compensation Committees. Mr. Treshler served for over 25 years (until June of 2018) as the Vice President of Business Management Development of Covanta Energy Corporation, responsible for Covanta s asset management, business development, project implementation, client community relations, community affairs and Clean World Initiative efforts in Florida. Mr. Treshler currently serves as President CEO of JRT Consulting Services, LLC providing consulting services to public private clients in the Waste -to-Energy Industry. Mr. Treshler earned his B.S. degree in Chemical Engineering in 1974 from Iowa State University of Science and Technology. He is a Professional Engineer registered to practice in the State of Florida. Mr. Treshler was appointed by the Company s Board of Directors to serve on the Audit Committee on January 8, 2013 and to serve on the Ethics Committee on June 7, 2013. 
+
+Dr. Paul E. Kudelko, Sr. Dr. Kudelko has served as a Director of the Company since December 2013 and as a member of the Ethics Committee. Dr. Kudelko resigned from the Board of Directors and the Ethics Committee on July 6, 2021. Dr. Kudelko is a retired cardiovascular physician. At the time of his retirement in 2010, Dr. Kudelko had practiced with the Clearwater Cardiovascular and Interventional Consultants for the past seven years. Dr. Kudelko attended Duquesne University, graduated from the Kirksville College of Osteopathic Medicine, and was a resident in medicine at Detroit Osteopathic Hospital and Riverside Hospital, Trenton, MI. Dr. Kudelko acted as Affiliate Assistant Professor, Department of Family Medicine, and Department of Internal Medicine, at the University of South Florida College of Medicine in Tampa, FL for a total of approximately eleven years. 
+
+Monica L. McCullough . Ms. McCullough serves as Chairman of the Audit Committee. Ms. McCullough has 25 years of accounting experience in various capacities. Her experience includes the management of several accounting functions, implementation and maintenance of Sarbanes-Oxley policies and procedures, SEC reporting, coordination of quarterly and annual audits, as well as implementing and maintaining accounting systems. She has spent the last 8 years as Facility Controller in the waste to energy industry. Ms. McCullough graduated from the University of South Florida with a B.S. degree in Accounting and is a Certified Public Accountant. 
+
+Steven McComas . Mr. McComas was appointed to the Board of Directors by a unanimous vote of the Board on July 17, 2021. He was also appointed to serve on the Ethics Committee. Mr. McComas brings to the Company s Board significant experience acting as an executive officer of several companies. Mr. McComas is an executive with thirty years of global experience in a variety of financial management, business leadership and corporate strategy. Currently, Mr. McComas is the Chief Executive Officer for Responsive Technology Partners, Inc. a managed information technology consulting and services firm operating throughout the Southeastern United States with offices in Metter, Vidalia, Atlanta, Athens, and Milledgeville Georgia, Raleigh, North Carolina and Tampa, Florida. Under Mr. McComas leadership, Responsive Technology Partners, Inc. has quickly grown to a ranking by Inc. Magazines 5000 as the 630 fastest-growing private companies in America in 2020. Mr. McComas also serves as the Chief Financial Officer for Pineland Telephone Cooperative, Inc., a rural telephone, and broadband cooperative based in Metter, Georgia and is responsible for all the company s financial functions. Before Pineland, Mr. McComas had served as a Vice President of Finance for an operating subsidiary of the world s largest publicly traded Thailand-based company engaged in the manufacturing and exporting of pet foods in the world. He was also the North American Director of Indirect Purchasing for a publicly traded world leader in outdoor power products for forestry, lawn and garden care headquartered in Stockholm, Sweden. Mr. McComas also was the Chief Financial Officer in commercial banking and private equity. 
+
+18
+
+George O. Borak. G eorge O. Borak Mr. Borak joined AMERX Health Care as Vice President of Sales in June of 2012. Mr. Borak has 34 years of experience in the medical field and 23 years in sales management. Most recently, he was Vice President of Sales and Marketing for Darco International where his duties included managing Sales, Marketing, Customer Service, OEM and International Sales. Prior to that he was in sales and sales management for several orthopedic companies. Mr. Borak earned his Bachelors of Science degree in Marketing Management from Youngstown State University in 1983, while working as a clinician in the Emergency and Orthopedic Departments of a local hospital. 
+
+Compliance with Section 16(a) of the Exchange Act 
+
+Under the securities laws of the United States, our directors, executive officers, and any persons holding more than ten percent of our Common Stock are required to report their initial ownership of the Company s Common Stock and any subsequent changes in that ownership to the Securities and Exchange Commission and the Company. Specific due dates for these reports have been established and we are required to disclose any failure to file, or late filing, of such reports. Based solely on our review of the reports and amendments thereto furnished to the Company and written representations that all reports that were required to be filed in fiscal 2021, our officers, directors and beneficial owners of more than ten percent of its Common Stock complied with all Section 16(a) filing requirements. 
+
+Committees of the Board 
+
+The Board of Directors has delegated certain of its authority to an Audit Committee, Compensation Committee and an Ethics Committee. 
+
+The Compensation Committee is composed of Messrs. Suggs (Chairman) and Treshler. No member of the Compensation Committee is a former or current officer or employee of the Company. The primary function of the Compensation Committee is to review and make recommendations to the Board with respect to the compensation, including bonuses, of the Company's officers and to administer the Company s Option Plan. The Board of Directors adopted a Compensation Committee Charter during the 2008 fiscal year. The charter for the compensation committee may be viewed on the company website www.procyoncorp.com). 
+
+The Company formed an Audit Committee in July 2004. In January 2013, the Board appointed Joseph R. Treshler as director and a member of the Audit Committee. In November 2019, the Board appointed Monica L. McCullough Audit Committee member and Chair. The Board believes that Ms. McCullough and Mr. Treshler are independent pursuant to The NASDAQ Stock Market, Inc. NASDAQ rules and both Ms. McCullough and Treshler also meet the requirements of an audit committee financial expert. In addition, we have determined that Ms. McCullouh and Mr. Treshler are also independent within the meaning of SEC Rule 10A-3(b)(1). The function of the Audit Committee is to review and approve the scope of audit procedures employed and to review and approve the audit reports rendered by the Company's independent auditors and to approve the audit fees charged by the independent auditors. In addition, pursuant to the Sarbanes-Oxley Act of 2002 and rules promulgated thereunder, the Audit Committee is responsible for, among other things, pre-approving all audit and non-audit services performed by the independent auditors, approving the engagement of the auditors and receiving certain reports from the independent auditors prior to the filing of the audit report. The Audit Committee reports to the Board of Directors with respect to such matters and recommends the selection of independent auditors. The Audit Committee adopted a charter in October 2006, which may be viewed on the Company website (www.procyoncorp.com). 
+
+19
+
+The Company also formed an Ethics Committee of the board members in 2004. The members are Messrs. Suggs (Chairman) and Kudelko, through his resignation on July 6, 2021. The charter for the ethics committee may be viewed on the company website www.procyoncorp.com). The function of the Ethics Committee is to oversee officers, directors and employees in conducting business on behalf of the Company in an honest and ethical manner. The Ethics Committee is responsible for monitoring and reporting any possible violations of the Code of Ethics to the Board of Directors. With the resignation of Dr. Kudelko, Mr. McComas will assume the role vacated by Dr. Kudelko on the ethics committee in fiscal 2022. 
+
+The Company does not have a Nominating Committee. However, the entire board of directors, which is comprised of a majority of independent directors, performs the function of a nominating committee. There have been no material changes to the procedures by which security holders may recommend nominees to our board of directors. 
+
+In fiscal 2021, the Board of Directors held four formal meetings. A majority of directors attended each meeting in person or by telephone. The Compensation Committee held five meetings during fiscal 2021. The Audit Committee held five meetings during fiscal 2020. The Ethics Committee held two meeting during fiscal 2021. 
+
+Code of Ethics for Senior Financial Officers 
+
+The Company has adopted a Code of Ethics for Senior Financial Officers. The Code of Ethics applies to all senior financial officers of the Company, including the Chief Executive Officer, the Chief Financial Officer, the Treasurer and any other person performing similar functions. A copy of the Code of Ethics may be viewed on our website, at www.procyoncorp.com . 
+
+20
+
+ITEM 11. EXECUTIVE COMPENSATION. 
+
+Summary Compensation Table . The following table sets forth compensation information for the two fiscal years ended June 30, 2021 and 2020 of the Company s Chief Executive Officer, Chief Financial Officer, the President and Vice President of Sales of our subsidiary, AMERX Health Care Corp. (the Named Executive Officers ). Elements of compensation for our Named Executive Officers include salary, discretionary cash bonuses, stock option awards and other prerequisites and benefits. We do not have a pension plan and do not offer non-qualified deferred compensation arrangements. 
+
+Name and Principal Position 
+
+Year 
+
+Salary( 
+
+Bonus( 
+
+Option 
+
+			 Awards 
+
+			 ) 
+
+Non-equity 
+
+			 incentive plan 
+
+			 compensation 
+
+			 )(2) 
+
+All Other 
+
+			 Compensation 
+
+			 ) 
+
+Total( 
+
+Justice W. Anderson, 
+
+2021 
+
+246,600 
+
+0 
+
+9,840 
+			 (1) 
+
+31,131 
+
+0 
+
+287,571 
+
+President (AMERX 
+
+			 CEO President 
+
+			 (Procyon) as of January 2018 
+
+2020 
+
+242,116 
+
+0 
+
+0 
+
+27,465 
+
+0 
+
+269,581 
+
+James B. Anderson, 
+
+2021 
+
+190,000 
+
+0 
+
+9,840 
+			 (1) 
+
+20,883 
+
+0 
+
+220,723 
+
+Chief Financial Officer, 
+
+			 Vice Pres. of 
+
+			 Operations (AMERX 
+
+2020 
+
+166,924 
+
+0 
+
+0 
+
+15,926 
+
+0 
+
+182,850 
+
+George O Borak, 
+
+2021 
+
+182,513 
+
+0 
+
+0 
+
+16,021 
+
+0 
+
+198,534 
+
+Vice Pres. Of Sales 
+
+			 (AMERX 
+
+2020 
+
+172,243 
+
+0 
+
+0 
+
+19,718 
+
+0 
+
+191,961 
+
+1. 
+
+Aggregate grant date fair value. 25,000 options granted with 0.373 exercise price. 
+
+2. 
+
+Profit sharing earned in fiscal 2020/2021 respectively, but paid on or about October 1, 2020/2021 respectively. 
+
+Narrative Disclosure to Summary Compensation Table 
+
+Named Executive Officer's Employment Contracts 
+
+Justice W. Anderson's Restated and Amended Executive Employment Agreement, which is effective July 1, 2021, provides for a base annual salary of 257,000 and other benefits, including certain incentive bonus compensation based upon Amerx achieving certain financial goals for sales and net profit and at the discretion of the Board of Directors. Mr. Anderson's Agreement calls for a term of one year, but may be terminated by either party, with or without cause, upon thirty day's written notice. 
+
+James B. Anderson's Restated and Amended Executive Employment Agreement, which is effective July 1, 2021, provides for a base annual salary of 187,200 and other benefits, including short-term and long-term incentive bonus compensation based upon Amerx achieving certain operational and financial goals and at the discretion of the Board of Directors. Mr. Anderson's Agreement calls for a term of one year, but may be terminated by either party, with or without cause, upon thirty day's written notice. 
+
+George Borak's Restated and Amended Executive Employment Agreement, which is effective July 1, 2021, provides for a base annual salary of 187,200 and other benefits, including certain incentive bonus compensation based upon Amerx achieving certain financial goals for sales and net profit and at the discretion of the Board of Directors. Mr. Borak's Agreement calls for a term of one year, but may be terminated by either party, with or without cause, upon thirty day's written notice. 
+
+21
+
+An Agreement to grant 25,000 options to purchase common stock was executed and delivered to Justice Anderson, pursuant to his Restated and Amended Executive Employment Agreement dated July 1, 2020 on September 24, 2021, but was granted and effective on June 30, 2021. 
+
+An Agreement to grant 25,000 options to purchase common stock was executed and delivered to James Anderson, pursuant to his Restated and Amended Executive Employment Agreement dated July 1, 2020 on September 24, 2021, but was granted and effective on June 30, 2021. 
+
+Outstanding Equity Awards 
+
+An Agreement to grant 40,000 Options to purchase common stock was executed and delivered to Justice Anderson, pursuant to his executive employment agreement, on September 27, 2016, but with a grant date of June 30, 2016. 
+
+An Agreement to grant 25,000 Options to purchase common stock was executed and delivered to Justice Anderson, pursuant to his executive employment agreement, on August 23, 2017, but with a grant date of June 30, 2017. 
+
+Compensation of Directors 
+
+No employee of the Company receives any additional compensation for his services as a director. No non-employee director receives any compensation for his service; however, the Board of Directors has authorized payment of reasonable travel or other out-of-pocket expenses incurred by non-management directors in attending meetings of the Board of Directors. The Board of Directors may consider alternative director compensation arrangements from time to time. 
+
+Stock Option Plan 
+
+The Company maintains the Procyon Corporation 2009 Stock Option Plan for Option grants prior to the Plan s expiration in December 2019. Our shareholders approved the Procyon Corporation 2020 Stock Option and Incentive Plan (the 2020 Option Plan in November 2020. 
+
+The Procyon Corporation 2009 Stock Option Plan (the "2009 Option Plan") was approved by our shareholders on December 8, 2009. Pursuant to the terms of the 2009 Option Plan, the plan expired on December 8, 2019. 
+
+No further options or other awards may be granted under the 2009 Option Plan. 
+
+As of June 30, 2021, 65,000 Options to purchase common stock have been awarded to Justice Anderson under the 2009 Option Plan, pursuant to the terms of his employment agreements, effective October 1, 2015 and July 1, 2016, respectively. These options expire on October 1, 2025 and July 1, 2026, respectively. The 1,000,000 shares of common stock that have been reserved for the 2009 Option Plan (250,000 recently issued for Non-Qualified Stock Options) have not been registered under the Securities Act of 1933. We have no present plans to register such shares. 
+
+22
+
+On September 22, 2020, our Board of Directors and Compensation Committee approved a new Procyon Corporation 2020 Stock Option and Incentive Plan (the "2020 Option Plan"), and recommended that the shareholders approve the plan in the annual meeting of shareholders in November, 2020. The plan was approved during the Annual meeting in November, 2020. 
+
+The purpose of the 2020 Option Plan is to advance the interests of the Company s stockholders by enhancing the Company s ability to attract and retain employees (including officers), directors and independent contractors of the Company, and to furnish additional incentives to such persons to enhance the value of the Company over the long term by encouraging them to acquire a proprietary interest in the Company. Employees, Consultants and Directors of the Company are eligible to be granted Awards under the 2020 Option Plan, subject to the limitations described in the Plan. 
+
+The 2020 Option Plan is to be administered by the Compensation Committee (the Administrator ). 
+
+The 2020 Option Plan provides for the granting of Incentive Stock Options, meeting the requirements of 422 of the Internal Revenue Code (the Code ), Non-Qualified Stock Options, which do not qualify as Incentive Stock Options, Stock Appreciation Rights SARs ), Restricted Stock, Restricted Stock Units, or Other Stock-Based Awards (together, an Award ). An SAR is an Award entitling the recipient to receive shares of Common Stock having a value equal to the excess of the Fair Market Value of the Stock on the date of exercise over the exercise price of the Stock Appreciation Right multiplied by the number of shares of Stock with respect to which the Stock Appreciation Right shall have been exercised. Restricted Stock Unit means an unfunded, unsecured right to receive, on the applicable settlement date, one Share or an amount in cash or other consideration determined by the Administrator equal to the value thereof as of such payment date, which right may be subject to certain vesting conditions and other restrictions. Other Stock-Based Awards means other Awards of Shares, and other Awards that are valued in whole or in part by reference to, or are otherwise based on, Shares or other property. 
+
+The Board of Directors has authorized the issuance of 2,000,000 shares of Common Stock to underlie the granting of Awards under the 2020 Option Plan. The 2,000,000 shares of Common Stock that have been reserved for the 2020 Option Plan have not been registered under the Securities Act of 1933. We have no present plans to register such shares. 
+
+Effective June 30, 2021, the Company granted 25,000 non-qualified stock options to Justice W. Anderson and 25,000 non-qualified stock options to James B. Anderson for exceeding certain performance standards in fiscal 2021, pursuant to the terms of their respective Restated and Amended Executive Employment Agreements dated July 1, 2020. Each of the options were dated September 24, 2021, but were granted and effective as of June 30, 2021 for a ten year term and have an exercise price of .373 per share. 
+
+Incentive Stock Options may only be granted to employees of the Company or its Subsidiaries and shall be subject to and shall be construed consistently with the requirements of Section 422 of the Code. Incentive Stock Options can be granted for a term not exceeding ten years, except for Ten Percent Owners of our Common Stock, for whom the maximum option term is five years. Incentive Stock Options are granted with an exercise price of not less than 100 of the Fair Market Value of the underlying Common Stock on the date of grant. However, for Ten Percent Owners, the exercise price must be 110 of the Fair Market Value of the underlying Stock on the date of grant. Further, the aggregate Fair Market Value (determined as of the time of grant) of the shares of Stock with respect to which Incentive Stock Options granted under the Plan and any other plan of the Company or its parent and subsidiary corporations become exercisable for the first time by a Participant during any calendar year shall not exceed 
+
+ 100,000. 
+
+23
+
+Non-Qualified Stock Options are Options that is not intended to be or otherwise do not qualify as an Incentive Stock Option. Non-Qualified Stock Options shall be granted and have a term of not more than ten years from the date of grant. The exercise price must be not less than 100 of the Fair Market Value of the underlying Common Stock on the date of grant. Non-Qualified Stock Option can be awarded to employees, officers, directors or consultants. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS, MANAGEMENT AND RELATED STOCKHOLDER MATTERS. 
+
+The following table sets forth certain information regarding beneficial ownership of our Common Stock as of September 21, 2020 by (i) each person known by the Company to own beneficially more than 5 of the outstanding Common Stock, (ii) each director or director nominee, and (iii) all executive officers and directors as a group. Each person has sole voting and sole investment or dispositive power with respect to the shares shown except as noted. As to the Company's preferred stock, as of September 21, 2020 no officer or director of the company owned any preferred shares. In addition, no individual shareholder beneficially owned more than 5 of the Company's preferred shares. 
+
+Common Shareholdings on October 4, 2021 
+
+Number of 
+
+Percent of 
+
+Name and Address 
+
+(3) 
+
+Shares 
+
+Class ) 
+
+Justice W. Anderson 
+
+3,515,500 
+
+(4) 
+
+42.9 
+
+George O. Borak 
+
+100,092 
+
+1.2 
+
+Fred W. Suggs 
+
+(l) 
+
+100,000 
+
+1.2 
+
+James B. Anderson 
+
+106,000 
+
+(5) 
+
+1.3 
+
+Regina W. Anderson 
+
+78,060 
+
+1.0 
+
+Joseph R. Treshler 
+
+(1) (2) 
+
+17,000 
+
+Paul E. Kudelko 
+
+- 
+
+0 
+
+Monica L. McCullough 
+
+(2) 
+
+- 
+
+0 
+
+Steven McComas 
+
+- 
+
+0 
+
+All directors and officers as a group (nine persons) 
+
+3,916,652 
+
+47.8 
+
+Speer Foundation, 2535 Success Dr., Odessa, FL 33556 
+
+1,540,000 
+
+18.8 
+
+Less than 1 
+
+(1) 
+
+Member of the Compensation Committee. 
+
+(2) 
+
+Member of the Audit Committee. 
+
+(3) 
+
+Except as noted above, the address for all persons listed is 1300 S. Highland Ave, Clearwater, Florida 33756 
+
+(4) 
+
+Mr. Anderson beneficially owns 3,350,500 shares of common stock as Trustee of the John C. Anderson Trust in accordance with Mr. Anderson's will. He also owns of record 75,000 shares of common stock and options to purchase 90,000 shares of Common Stock. 
+
+(5) 
+
+Includes 10,000 shares in joint name with his wife and options to purchase 25,000 shares of Common Stock. 
+
+24
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE. 
+
+Other than transactions described below, since July 1, 2020, there has not been, nor is there currently proposed, any transaction or series of similar transactions to which we were or will be a party: 
+
+in which the amount involved exceeds 120,000; and, 
+
+in which any director, nominee for director, executive officer, shareholder which beneficially owns five percent or more of our common stock or any member of their immediate family members, had or will have a direct or indirect material interest. 
+
+Justice W. Anderson, our Chief Executive Officer, personally guaranteed a new 250,000 line of credit on behalf of the Company of which 0 was drawn out as of June 30, 2021. 
+
+Director Independence 
+
+We have determined that the following directors are independent within applicable NASDAQ rules: Ms.McCullough and Messrs. Suggs, Treshler, Kudelko and McComas. Regina, James and Justice Anderson are not independent as they are executive officers of the Company and its subsidiaries. Accordingly, our Board of Directors is composed of a majority of independent directors. Our Compensation Committee, Audit Committee and Ethics Committee are each composed entirely of independent directors pursuant to applicable NASDAQ rules. In addition, Ms. McCullough and Mr. Treshler, also meet the definition of independence under SEC Rule 10A-3. 
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES AND SERVICES 
+
+Audit Fees. In fiscal 2021, the Company paid to its independent accountants 62,250 in fees related directly to the audit and review of the Company s financial statements. In fiscal 2020, the Company paid to its independent accountants 58,750 in fees related directly to the audit and review of the Company s financial statements. 
+
+Audit-Related Fees. The Company s independent accountants performed no other audit-related services for the Company during fiscal 2021 and 2020, other than the audit services described above. 
+
+Tax Fees: In fiscal 2021, the Company paid to its independent accountants 2,000 in fees related directly to tax preparations. In fiscal 2020, the Company paid to its independent accountants 2,000 in fees related directly to tax preparations. 
+
+25
+
+ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES. 
+
+(a) 
+
+Exhibits 
+
+1. 
+
+The financial statements filed herewith are listed in the Index to Financial Statements included in Item 7. 
+
+Exhibit No. 
+
+Document 
+
+3.1 
+
+Articles of Incorporation 
+
++ 
+
+3.1.1 
+
+Articles of Amendment to Articles of Incorporation 
+
+3.2 
+
+Bylaws 
+
++ 
+
+4.1 
+
+Designation of Series A Preferred Stock 
+
+10.1 
+
+Procyon Corporation 2009 Stock Option Plan 
+
+/ 
+
+10.2 
+
+Procyon Corporation 2020 Stock Option Plan 
+
+x 
+
+10.5 
+
+Business Line of Credit - Loan Agreement dated June 10, 2021. 
+
+x 
+			 
+			 10.6 
+			 
+			 Business Line of Credit - Promissory Note, effective January 13, 2021 
+
+10.7 
+
+Lease agreement, effective January 13, 2021. 
+
+// 
+
+10.9 
+
+Restated and Amended Executive Employment Agreement effective July 1, 2020 - Justice W. Anderson 
+
+// 
+
+10.10 
+
+Restated and Amended Executive Employment Agreement effective July 1, 2020 - James B. Anderson 
+
+// 
+
+10.12 
+
+Restated and Amended Executive Employment Agreement effective July 1, 2020 - George Borak 
+
+++ 
+
+14.1 
+
+Code of Ethics for Senior Financial Officers. 
+
+x 
+
+31.1 
+
+Certification of Justice W. Anderson pursuant to Exchange Act Rule 13a-14(a)/15d-14(a) 
+
+x 
+
+31.2 
+
+Certification of James B. Anderson pursuant to Exchange Act Rule 13a-14(a)/15d-14(a) 
+
+x 
+
+32.1 
+
+Certification Pursuant to 18 U.S.C. 1350, as Adopted Pursuant to Section906 of the Sarbanes-Oxley Act Of 2002 
+
+101.1 
+
+The following materials from the Company's Annual Report on Form 10-K for the period ended June 30, 2020, formatted in XBRL (Extensible Business Reporting Language): (I) the Condensed Balance Sheets, (ii) the Condensed Consolidated Statements of Operations, (iii) the Consolidated Statements of Cash Flows, and (iv) the Notes to Condensed Consolidated Financial Statement 
+
+Incorporated by reference to the Company s Registration Statement on Form S-1, S.E.C. File No.33-13273. 
+
++ 
+
+Incorporated by reference to the Company s Form 10-KSB for the fiscal year ended June 30, 1995. 
+
+++ 
+
+Incorporated by reference to the Company s Schedule 14A filed on or about October 15, 2004. 
+
+Incorporated by reference to the Company s Form 8-K filed on or about March 14, 2018. 
+
+x 
+
+Filed herewith. 
+
+/ 
+
+Incorporated by reference to the Company s Schedule 14A filed on or about October 9, 2020. 
+
+Incorporated by reference to the Company s Schedule 14A filed on or about November 9, 2009. 
+
+.// 
+
+Incorporated by reference to the Company s Form 8-K filed on or about July 28, 2021. 
+
+## 
+
+Incorporated by reference to the Company s Form 8-K filed on or about March 14, 2018 
+
+Furnished, not filed 
+
+26
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, there unto duly authorized. 
+
+PROCYON CORPORATION 
+
+By: /s/ Justice W. Anderson 
+
+Justice W. Anderson, 
+
+Chief Executive Officer/President 
+
+Date: October 8, 2021 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the following persons on behalf of the registrant and in the capacities and on the dates indicated have signed this report below. 
+
+Signature 
+			 
+			 Title 
+			 Date 
+
+/s/ Regina W. Anderson 
+
+Chairwoman of the Board 
+			 
+			 October 8, 2021 
+
+Regina W. Anderson 
+
+/s/ James B. Anderson 
+
+Chief Financial Officer, 
+			 
+			 October 8, 2021 
+
+James B. Anderson 
+			 
+			 President (Sirius) and Director 
+
+/s/ Justice W. Anderson 
+
+President (AMERX) and Director, 
+
+October 8, 2021 
+
+Justice W. Anderson 
+			 
+			 Chief Executive Officer and 
+
+President(Procyon) 
+
+/s/ Monica L. McCullough 
+
+Director 
+			 
+			 October 8, 2021 
+
+Monica L. McCullough 
+
+/s/ Fred W. Suggs, Jr. 
+			 
+			 Director 
+			 October 8, 2021 
+
+Fred W. Suggs, Jr. 
+
+/s/ Joseph R. Treshler 
+			 
+			 Director 
+			 October 8, 2021 
+
+Joseph R. Treshler 
+
+/s/ Steven McComas 
+			 
+			 Director 
+			 October 8, 2021 
+
+Steven McComas 
+
+27
+
+EXHIBIT INDEX 
+
+Exhibit No. 
+			 
+			 Document 
+			 Item No. 
+
+3.1 
+			 
+			 Articles of Incorporation 
+			 3 
+
++ 3.1.1 
+			 
+			 Articles of Amendment to Articles of Incorporation 
+			 3 
+
+3.2 
+			 
+			 Bylaws 
+			 3 
+
++ 4.1 
+			 
+			 Designation of Series A Preferred Stock 
+			 4 
+
+10.1 
+			 
+			 Procyon Corporation 2009 Stock Option Plan 
+
+/ 10.2 
+			 
+			 Procyon Corporation 2020 Stock Option Plan 
+
+x 10.5 
+			 
+			 Business Line of Credit - Loan Agreement dated June 10, 2021. 
+
+x 10.6 
+			 
+			 Business Line of Credit - Promissory Note, effective January 13, 2021 
+
+10.7 
+			 
+			 Lease agreement, effective January 13, 2021. 
+
+//10.9 
+			 
+			 Restated and Amended Executive Employment Agreement effective July 1, 2021 - Justice W. Anderson 
+
+//10.10 
+			 
+			 Restated and Amended Executive Employment Agreement effective July 1, 2021 - James B. Anderson 
+
+// 10.12 
+			 
+			 Restated and Amended Executive Employment Agreement effective July 1, 2021 - George Borak 
+
+++14.1 
+			 
+			 Code of Ethics for Senior Financial Officers. 
+
+x 31.1 
+
+Certification of Justice W. Anderson pursuant to Exchange Act Rule 13a-14(a)/15d-14(a) 
+			 
+			 31 
+
+x 31.2 
+
+Certification of James B. Anderson pursuant to Exchange Act Rule 13a-14(a)/15d-14(a) 
+			 
+			 31 
+
+x 32.1 
+			 
+			 Certification Pursuant to 18 U.S.C. 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act Of 2002 
+			 32 
+
+101.1 
+			 
+			 The following materials from the Company's Annual Report on Form 10-K for the period ended June 30, 2020, formatted in XBRL (Extensible Business Reporting Language): (I) the Condensed Balance Sheets, (ii) the Condensed Consolidated Statements of Operations, (iii) the Consolidated Statements of Cash Flows, and (iv) the Notes to Condensed Consolidated Financial Statements 
+
+Incorporated by reference to the Company s Registration Statement on Form S-1, S.E.C. File No. 33-13273. 
+
++ 
+
+Incorporated by reference to the Company s Form 10-KSB for the fiscal year ended June 30, 1995. 
+
+++ 
+
+Incorporated by reference to the Company s Schedule 14A filed on or about October 15, 2004 
+
+Incorporated by reference to the Company s Form 8-K filed on or about January 12, 2021 
+
+x 
+
+Filed herewith. 
+
+Incorporated by reference to the Company s Schedule 14A filed on or about November 9, 2009. 
+
+// 
+
+Incorporated by reference to the Company s Form 8-K filed on or about July 28, 2021. 
+
+## 
+
+Incorporated by reference to the Company s Form 8-K filed on or about March 14, 2018. 
+
+Furnished, not filed. 
+
+/ 
+
+Incorporated by reference to the Company s Schedule 14A filed on or about October 9, 2020 
+
+28
+
+PROCYON CORPORATION AND SUBSIDIARIES 
+ CONSOLIDATED FINANCIAL STATEMENTS 
+ Years Ended June 30, 2021 and 2020 
+
+TABLE OF CONTENTS 
+
+Page No. 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+			 F-1 
+
+FINANCIAL STATEMENTS 
+
+Consolidated Balance Sheets 
+			 F-2 
+
+Consolidated Statements of Operations 
+			 F-3 
+
+Consolidated Statements of Stockholders Equity 
+			 F-4 
+
+Consolidated Statements of Cash Flows 
+			 F-5 
+
+Notes to Financial Statements 
+			 F-6 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Board of Directors and Shareholders of 
+
+ Procyon Corporation and Subsidiaries 
+
+ Oldsmar, Florida 
+
+Opinion on the Financial Statements 
+
+We have audited the accompanying consolidated balance sheets of Procyon Corporation and subsidiaries (the "Company") as of June 30, 2021 and 2020, the related consolidated statements of operations, stockholders' equity, and cash flows for each of the years in the two-year period ended June 30, 2021 and the related notes (collectively referred to as the "financial statements"). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of June 30, 2021 and 2020, and the results of its operations and its cash flows for each of the years in the two-year period ended June 30, 2021, in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis for Opinion 
+
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+
+ We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company's internal control over financial reporting. Accordingly, we express no such opinion. 
+
+ Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion. 
+
+Critical Audit Matters 
+
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: 1) relate to accounts or disclosures that are material to the financial statements and (2) involve our especially challenging, subjective, or complex judgements. We determined that there are no critical audit matters. 
+
+/s/ Ferlita, Walsh, Gonzalez Rodriguez, P. A. 
+
+ We have served as the Company's auditor since 1998. 
+
+Tampa, Florida 
+
+ September 29, 2021 
+
+F-1 
+
+PROCYON CORPORATION SUBSIDIARIES 
+
+CONSOLIDATED BALANCE SHEETS 
+
+June 30, 2021 and 2020 
+
+2021 
+
+2020 
+
+ASSETS 
+
+CURRENT ASSETS 
+
+Cash 
+
+1,226,522 
+
+665,834 
+
+Certificates of Deposit, plus accrued interest 
+
+280,438 
+
+155,132 
+
+Accounts Receivable, less allowance for doubtful accounts of 9,408 and 9,408 respectively 
+
+497,358 
+
+311,043 
+
+Inventories 
+
+591,058 
+
+758,516 
+
+Prepaid Expenses 
+
+276,251 
+
+183,138 
+
+TOTAL CURRENT ASSETS 
+
+2,871,627 
+
+2,073,663 
+
+PROPERTY AND EQUIPMENT, NET 
+
+109,275 
+
+452,855 
+
+OTHER ASSETS 
+
+Deposits 
+
+3,235 
+
+4,192 
+
+Inventories 
+
+263,280 
+
+83,812 
+
+Intangible Asset 
+
+17,000 
+
+17,000 
+
+ROU Assets - Operating Leases 
+
+882,344 
+
+30,245 
+
+Deferred Tax Asset, Net of Valuation Allowance of 0 and 144,619, respectively 
+
+95,568 
+
+159,874 
+
+1,261,427 
+
+295,123 
+
+TOTAL ASSETS 
+
+4,242,329 
+
+2,821,641 
+
+LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+CURRENT LIABILITIES 
+
+Accounts Payable 
+
+167,588 
+
+167,459 
+
+PPP Loan Payable 
+
+- 
+
+57,028 
+
+Accrued Expenses 
+
+315,881 
+
+289,466 
+
+Short Term Lease Liabilities 
+
+154,022 
+
+- 
+
+TOTAL CURRENT LIABILITIES 
+
+637,491 
+
+513,953 
+
+LONG TERM LIABILITIES 
+
+PPP Loan Payable 
+
+- 
+
+143,972 
+
+Long Term Lease Liabilities 
+
+653,860 
+
+- 
+
+TOTAL LONG TERM LIABILITIES 
+
+653,860 
+
+143,972 
+
+TOTAL LIABILITIES 
+
+1,291,351 
+
+657,925 
+
+COMMITMENTS AND CONTINGENCIES (NOTE G) 
+
+- 
+
+- 
+
+STOCKHOLDERS' EQUITY 
+
+Preferred Stock, 496,000,000 shares authorized, none issued. 
+
+- 
+
+- 
+
+Series A Cumulative Convertible Preferred Stock, no par value; 4,000,000 shares authorized; 167,100 and 167,100 shares issued and outstanding, respectively. 
+
+126,860 
+
+126,860 
+
+Common Stock, no par value, 80,000,000 shares authorized; 8,087,388 and 8,087,388 shares issued and outstanding, respectively 
+
+4,444,766 
+
+4,444,766 
+
+Paid-in Capital 
+
+35,564 
+
+15,885 
+
+Accumulated Deficit 
+
+(1,656,212 
+
+(2,423,795 
+
+TOTAL STOCKHOLDERS' EQUITY 
+
+2,950,978 
+
+2,163,716 
+
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY 
+
+4,242,329 
+
+2,821,641 
+
+The accompanying notes are an integral part of these financial statements. 
+
+F-2
+
+PROCYON CORPORATION SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+Years Ended June 30, 2021 and 2020 
+
+2021 
+
+2020 
+
+NET SALES 
+
+4,719,672 
+
+4,334,088 
+
+COST OF SALES 
+
+1,330,979 
+
+1,134,675 
+
+GROSS PROFIT 
+
+3,388,693 
+
+3,199,413 
+
+OPERATING EXPENSES 
+
+Salaries and Benefits 
+
+1,733,708 
+
+1,729,688 
+
+Selling, General and Administrative 
+
+1,330,215 
+
+1,316,709 
+
+3,063,923 
+
+3,046,397 
+
+INCOME FROM OPERATIONS 
+
+324,770 
+
+153,016 
+
+OTHER INCOME 
+
+(Loss) on Disposal of Assets 
+
+304,887 
+
+(4,697 
+
+Other Income / Gain on Extinguishment of Debt 
+
+203,172 
+
+10,000 
+
+Interest Income 
+
+1,232 
+
+1,746 
+
+Interest Expense 
+
+(2,172 
+
+- 
+
+507,119 
+
+7,049 
+
+INCOME BEFORE INCOME TAXES 
+
+831,889 
+
+160,065 
+
+INCOME TAX EXPENSE 
+
+(64,306 
+
+(48,407 
+
+NET INCOME 
+
+767,583 
+
+111,658 
+
+Dividend requirements on preferred stock 
+
+(16,710 
+
+(16,710 
+
+Basic net income available to common shares 
+
+750,873 
+
+94,948 
+
+Basic net income per common share 
+
+0.09 
+
+0.01 
+
+Weighted average number of common shares outstanding 
+
+8,087,388 
+
+8,087,388 
+
+Diluted net income per common share 
+
+0.09 
+
+0.01 
+
+Weighted average number of common shares outstanding, diluted 
+
+8,319,624 
+
+8,319,488 
+
+The accompanying notes are an integral part of these financial statements. 
+
+F-3
+
+PROCYON CORPORATION SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY 
+
+For the Twelve Months Ended June 30, 2021 and 2020 
+
+Twelve Months Ended June 30, 2021 
+
+Preferred Stock 
+
+Common Stock 
+
+Paid-In 
+
+Accumulated 
+
+Total Stockholders' 
+
+Shares 
+
+Amount 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Equtiy 
+
+Balance, June 30, 2020 
+
+167,100 
+
+126,860 
+
+8,087,388 
+
+4,444,766 
+
+15,885 
+
+(2,423,795 
+
+2,163,716 
+
+Net Income (Loss) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+219,096 
+
+219,096 
+
+Balance, September 30, 2020 
+
+167,100 
+
+126,860 
+
+8,087,388 
+
+4,444,766 
+
+15,885 
+
+(2,204,699 
+
+2,382,812 
+
+Net Income (Loss) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+74,313 
+
+74,313 
+
+Balance, December 31, 2020 
+
+167,100 
+
+126,860 
+
+8,087,388 
+
+4,444,766 
+
+15,885 
+
+(2,130,386 
+
+2,457,125 
+
+Stock Options Issued 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Net Income (Loss) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+21,714 
+
+21,714 
+
+Balance, March 31, 2021 
+
+167,100 
+
+126,860 
+
+8,087,388 
+
+4,444,766 
+
+15,885 
+
+(2,108,672 
+
+2,478,839 
+
+Stock Options Issued 
+
+19,679 
+
+19,679 
+
+Net Income (Loss) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+452,460 
+
+452,460 
+
+Balance, June 30, 2021 
+
+167,100 
+
+126,860 
+
+8,087,388 
+
+4,444,766 
+
+35,564 
+
+(1,656,212 
+
+2,950,978 
+
+Twelve Months Ended June 30, 2020 
+
+Preferred Stock 
+
+Common Stock 
+
+Paid-In 
+
+Accumulated 
+
+Total Stockholders' 
+
+Shares 
+
+Amount 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Equtiy 
+
+Balance, June 30, 2019 
+
+167,100 
+
+126,860 
+
+8,087,388 
+
+4,444,766 
+
+15,885 
+
+(2,528,514 
+
+2,058,997 
+
+Cumulative Adjustment from Adoption of ASC 842 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(6,939 
+
+(6,939 
+
+Net Income (Loss) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+83,840 
+
+83,840 
+
+Balance, September 30, 2019 
+
+167,100 
+
+126,860 
+
+8,087,388 
+
+4,444,766 
+
+15,885 
+
+(2,451,613 
+
+2,135,898 
+
+Net Income (Loss) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(204 
+
+(204 
+
+Balance, December 31, 2019 
+
+167,100 
+
+126,860 
+
+8,087,388 
+
+4,444,766 
+
+15,885 
+
+(2,451,817 
+
+2,135,694 
+
+Net Income (Loss) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+55,929 
+
+55,929 
+
+Balance, March 31, 2020 
+
+167,100 
+
+126,860 
+
+8,087,388 
+
+4,444,766 
+
+15,885 
+
+(2,395,888 
+
+2,191,623 
+
+Net Income (Loss) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(27,907 
+
+(27,907 
+
+Balance, June 30, 2020 
+
+167,100 
+
+126,860 
+
+8,087,388 
+
+4,444,766 
+
+15,885 
+
+(2,423,795 
+
+2,163,716 
+
+The accompanying notes are an integral part of these financial statements. 
+
+F-4
+
+PROCYON CORPORATION SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+Years Ended June 30, 2021 and 2010 
+
+2021 
+
+2020 
+
+CASH FLOWS FROM OPERATING ACTIVITIES 
+
+Net Income 
+
+767,583 
+
+111,658 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Depreciation 
+
+43,331 
+
+53,952 
+
+Increase in Allowance for Doubtful Accounts 
+
+- 
+
+2,689 
+
+Right of Use Asset Amortization 
+
+120,981 
+
+(30,245 
+
+Adoption of ASC 842 
+
+- 
+
+(6,939 
+
+Accrued Interest on Certificate of Deposit 
+
+(306 
+
+- 
+
+Deferred Income Taxes 
+
+208,925 
+
+48,407 
+
+Valuation Allowance 
+
+(144,619 
+
+- 
+
+(Gain)/Loss on Sale of Assets 
+
+(304,887 
+
+4,697 
+
+Gain on Extinguishment of Debt 
+
+(203,172 
+
+- 
+
+Stock Based Compensation 
+
+19,679 
+
+- 
+
+Decrease (increase) in: 
+
+Accounts Receivable 
+
+(186,315 
+
+105,898 
+
+Deposits 
+
+957 
+
+- 
+
+Inventory 
+
+(12,010 
+
+(233,691 
+
+Prepaid Expenses 
+
+(93,113 
+
+61,356 
+
+Increase (decrease) in: 
+
+Accounts Payable 
+
+129 
+
+20,014 
+
+Accrued Interest Payable 
+
+2,172 
+
+- 
+
+Accrued Expenses 
+
+60,165 
+
+60,976 
+
+NET CASH PROVIDED BY OPERATING ACTIVITIES 
+
+279,500 
+
+198,772 
+
+CASH FLOW FROM INVESTING ACTIVITIES 
+
+Purchase of Certificate of Deposit 
+
+(125,000 
+
+- 
+
+Redemption of Certificate of Deposit 
+
+- 
+
+(1,181 
+
+Purchase of Property Equipment 
+
+(65,166 
+
+(23,044 
+
+Proceeds on disposal of property and equipment 
+
+670,303 
+
+- 
+
+NET CASH PROVIDED BY (USED IN) INVESTING ACTIVITIES 
+
+480,137 
+
+(24,225 
+
+CASH FLOW FROM FINANCING ACTIVITIES 
+
+Payments on Operating Lease Liability 
+
+(198,949 
+
+- 
+
+Proceeds from PPP Loan 
+
+- 
+
+201,000 
+
+NET CASH PROVIDED BY (USED IN) FINANCING ACTIVITIES 
+
+(198,949 
+
+201,000 
+
+NET CHANGE IN CASH 
+
+560,688 
+
+375,547 
+
+CASH AT BEGINNING OF THE YEAR 
+
+665,834 
+
+290,287 
+
+CASH AT END OF THE YEAR 
+
+1,226,522 
+
+665,834 
+
+SUPPLEMENTAL DISCLOSURES 
+
+Interest Paid 
+
+- 
+
+- 
+
+Taxes Paid 
+
+- 
+
+- 
+
+NONCASH TRANSACTION DISCLOSURES 
+
+During the current year, the Company recorded a right of use asset for 973,081 and recorded a related right of use liability of 973,081. 
+
+The accompanying notes are an integral part of these financial statements. 
+
+F-5
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE A - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Business Activity 
+
+Procyon Corporation has two wholly-owned subsidiaries, AMERX Health Care Corp. (AMERX) and Sirius Medical Supply, Inc. (Sirius). AMERX manufactures and markets wound and skin care products primarily in the United States whereas Sirius previously marketed diabetic supplies primarily to Medicare patients in the United States. As previously reported, in July 2009, we sold substantially all of the assets of Sirius to a third party, such that, as of July 31, 2009, Sirius no longer has any material operations. Management is considering various options for the future direction of Sirius. 
+
+Principles of Consolidation 
+
+The consolidated financial statements include the accounts of Procyon Corporation and its wholly-owned subsidiaries, AMERX and Sirius. All material inter-company accounts and transactions are eliminated. 
+
+Use of Estimates 
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements, and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. 
+
+Cash and Cash Equivalents 
+
+For the purpose of the Statements of Cash Flows, the Company considers cash-on-hand, demand deposits in banks and highly liquid investments purchased with an original maturity of three months or less to be cash equivalents. 
+
+Concentration of Credit Risk 
+
+The Company maintains its cash at various financial institutions. All noninterest-bearing transaction accounts are fully insured by the Federal Deposit Insurance Corporation, regardless of the balance of the account, at all insured institutions. At June 30, 2021 and 2020, our uninsured cash balance was 30 and 334,265 respectively. 
+
+Revenue Recognition 
+
+The Company recognizes revenue in accordance with the Financial Accounting Standards Board's (FASB) release of Accounting Standards Update (ASU) 2014-09, Revenue from Contracts with Customers (Topic 606) which requires that five basic criteria must be met before revenue can be recognized: (1) identify the contract with customer; (2) identify the performance obligations in the contract; (3) determine the transaction price; (4) allocate the transaction price to the performance obligations in the contract, and (5) recognize revenue when (or as) the entity satisfies a performance obligation. 
+
+F-6
+
+Accounts Receivable and Concentration of Credit Risk 
+
+AMERX grants credit to customers, most of whom are national pharmaceutical distributors, drug stores nationwide and physicians. AMERX wholesales its products to national pharmaceutical distributors and drug stores at a sales term of 2/10, net 30 days. AMERX has a written return policy with its customers. Each return request is reviewed by management for approval. Sales to physicians are at contracted rates and standard payment term is 2/10 net 30 days. 
+
+The valuation of accounts receivable is based upon the credit-worthiness of customers as well as historical collection experience. Estimating the credit worthiness of customers and recoverability of customer accounts requires us to exercise considerable judgment. Allowances for doubtful accounts are recorded as a selling, general and administrative expense for estimated amounts expected to be uncollectible from third-party payers and customers. The Company bases its estimates on its historical collection and write-off experience, current trends, credit policy, and on analysis of accounts receivable by aging category. As of June 30, 2021 and 2020, accounts receivable allowance was approximately 9,400 and 9,400, or less than 2 and 3 respectively of gross accounts receivable. 
+
+Inventories 
+
+Inventories are valued at the lower of average cost or net realized value determined by the first-in, first-out method. A portion of inventory is included in non-current inventory. The non-current balance represents product that will most likely not be used within the next 12 months. A majority of this inventory comes from minimum economic level orders necessary to produce product at a reasonable cost. 
+
+Property and Equipment 
+
+Property and equipment are stated at cost. Depreciation is computed on a straight-line basis over their estimated useful lives. Leased equipment is recorded at it s fair market value at the beginning of the lease term and is depreciated over the life of the equipment. Depreciation on leased equipment is included in depreciation expense. 
+
+Deferred Income Taxes 
+
+Deferred income taxes are recognized for the expected tax consequences in future years for differences between the tax bases of assets and liabilities and their financial reporting amounts, based upon exacted tax laws and statutory tax rates applicable to the periods in which the differences are expected to affect taxable income. The Company accounts for income taxes under Topic 740 - Income Tax in the Accounting Standards Codification. A valuation allowance is used to reduce deferred tax assets to the net amount expected to be recovered in future periods. The estimates for deferred tax assets and the corresponding valuation allowance require us to exercise complex judgments. We periodically review and adjust those estimates based upon the most current information available. We have no valuation allowance as of June 30, 2021. We had a valuation allowance of 144,619 as of June 30, 2020. 
+
+F-7
+
+Fair Value of Financial Instruments 
+
+The carrying value of cash, accounts receivable, prepaid expenses, deposits, inventory, accounts payable and accrued expenses approximate fair value. 
+
+Considerable judgement is required in interpreting market data to develop the estimates of fair value, and accordingly, the estimates are not necessarily indicative of the amounts that the Company could realize in a current market exchange. 
+
+Shipping and Handling Costs 
+
+Shipping and handling costs incurred were approximately 221,000 and 157,000 for the years ended June 30, 2021, and 2020, respectively, and were included in selling, general and administrative expenses. 
+
+Advertising and Marketing 
+
+The Company records advertising and marketing expenses in the periods in which they are incurred. During the years ended June 30, 2021 and 2020, approximately 240,000 and 400,000, of advertising and marketing costs were included in selling, general and administrative expenses for each respective year. 
+
+Stock Based Compensation 
+
+In November 2020, our shareholders approved the Procyon Corporation 2020 Stock Option and Incentive Plan (the 2020 Option Plan ). 
+
+The Company maintained the Procyon Corporation 2009 Stock Option Plan (the "2009 Option Plan"), which expired on December 8, 2019. The 2009 Option Plan was approved by the Company's shareholders on December 8, 2009. No further stock options or other awards may be granted under the 2009 Option Plan. 
+
+The 2009 Option Plan provided for the granting of incentive stock options, non-qualified stock options, and stock appreciation rights ("SARs") to eligible officers, directors, employees and consultants of the Company and its subsidiaries. The 2009 Option Plan is administered by the Compensation Committee. The Board of Directors has authorized the issuance of 500,000 shares of common stock to underlie the granting of incentive stock options and 500,000 shares of common stock to underlie the granting of non-qualified stock options and SARs under the 2009 Option Plan. The Board issued 250,000 shares of common stock to underlie Non-Qualified Stock Options, on September 27, 2016, effective June 30, 2016. However, 40,000 Options to purchase common stock were awarded to Justice Anderson pursuant to his employment agreement effective July 1, 2016 and 25,000 Options to purchase common stock were awarded to Justice Anderson pursuant to his employment agreement effective July 1, 2017. These Options will expire ten years after their respective grant dates. As of June 30, 2021, no other stock options or other awards have been granted under the 2009 Option Plan. The 1,000,000 shares of common stock that have been reserved for the 2009 Option Plan (250,000 recently issued for Non-Qualified Stock Options) have not been registered under the Securities Act of 1933. 
+
+F-8
+
+Eligible participants under the 2009 Option Plan must be such full or part-time officers and other employees, non-employee directors and key persons (including consultants and prospective employees) of the Company and its Subsidiaries as are selected from time to time by the Compensation Committee in its sole discretion. Only employees may receive incentive stock options. Employees, non-employee directors and consultants may receive non-qualified stock options or SARs. 
+
+Non-Qualified Stock Options granted under the 2009 Option Plan many have a term of not more than ten years from the date of grant. The exercise price must be not less than 100 of the fair market value of the underlying common stock on the date of grant. Incentive Stock Options can be granted under the 2009 Option Plan for a term not exceeding ten years, except for Ten Percent Owners of our common stock, as defined in the Plan, for whom the maximum option term is five years. Incentive Stock Options are granted with an exercise price of not less than 100 of the fair market value of the underlying common stock on the date of grant. However, for Incentive Stock Options owned by Ten Percent Owners, the exercise price must be 110 of the Fair Market Value of the underlying stock on the date of grant. 
+
+The 2020 Option Plan provides for the granting of Incentive Stock Options, meeting the requirements of 422 of the Internal Revenue Code (the Code ), Non-Qualified Stock Options, which do not qualify as Incentive Stock Options, Stock Appreciation Rights SARs ), Restricted Stock, Restricted Stock Units, or Other Stock-Based Awards (together, an Award ). An SAR is an Award entitling the recipient to receive shares of Common Stock having a value equal to the excess of the Fair Market Value of the Stock on the date of exercise over the exercise price of the Stock Appreciation Right multiplied by the number of shares of Stock with respect to which the Stock Appreciation Right shall have been exercised. Restricted Stock Unit means an unfunded, unsecured right to receive, on the applicable settlement date, one Share or an amount in cash or other consideration determined by the Administrator equal to the value thereof as of such payment date, which right may be subject to certain vesting conditions and other restrictions. Other Stock-Based Awards means other Awards of Shares, and other Awards that are valued in whole or in part by reference to, or are otherwise based on, Shares or other property. 
+
+The Board of Directors has authorized the issuance of 2,000,000 shares of Common Stock to underlie the granting of Awards under the 2020 Option Plan. The 2,000,000 shares of Common Stock that have been reserved for the 2020 Option Plan have not been registered under the Securities Act of 1933. We have no present plans to register such shares. Incentive Stock Options may only be granted to employees of the Company or its Subsidiaries and shall be subject to and shall be construed consistently with the requirements of Section 422 of the Code. Incentive Stock Options can be granted for a term not exceeding ten years, except for Ten Percent Owners of our Common Stock, for whom the maximum option term is five years. Incentive Stock Options are granted with an exercise price of not less than 100 of the Fair Market Value of the underlying Common Stock on the date of grant. However, for Ten Percent Owners, the exercise price must be 110 of the Fair Market Value of the underlying Stock on the date of grant. Further, the aggregate Fair Market Value (determined as of the time of grant) of the shares of Stock with respect to which Incentive Stock Options granted under the Plan and any other plan of the Company or its parent and subsidiary corporations become exercisable for the first time by a Participant during any calendar year shall not exceed 100,000. 
+
+F-9
+
+Non-Qualified Stock Options are Options that is not intended to be or otherwise do not qualify as an Incentive Stock Option. Non-Qualified Stock Options shall be granted and have a term of not more than ten years from the date of grant. The exercise price must be not less than 100 of the Fair Market Value of the underlying Common Stock on the date of grant. Non-Qualified Stock Option can be awarded to employees, officers, directors or consultants. 
+
+Effective June 30, 2021, the Company granted 25,000 non-qualified stock options to Justice W. Anderson and 25,000 non-qualified stock options to James B. Anderson for exceeding certain performance standards in fiscal 2021, pursuant to the terms of their respective Restated and Amended Executive Employment Agreements dated July 1, 2020. Each of the options were dated September 24, 2021, but were granted and effective as of June 30, 2021 for a ten year term and have an exercise price of .373 per share. 
+
+The fair value of a stock option is determined using the Black-Scholes option-pricing model, which values options based on the stock price at the grant date, the expected life of the option, the estimated volatility of the stock, the expected dividend payments, and the risk-free interest rate over the life of the option. 
+
+The Black-Scholes option valuation model was developed for estimating the fair value of traded options that have no vesting restrictions and are fully transferable. Because option valuation models require the use of subjective assumptions, changes in these assumptions can materially affect the fair value of the options. Our options do not have the characteristics of traded options, therefore, the option valuation models do not necessarily provide a reliable measure of the fair value of our options. 
+
+Agreements to grant 40,000 and 25,000 Options to purchase common stock were executed and delivered to Justice Anderson, pursuant to his executive employment agreements, on September 27, 2016 and August 23, 2017, respectively, but with grant dates of June 30, 2016 and June 30, 2017, respectively. Equity instruments issued to non-employees in exchange for goods, fees and services are accounted for under the fair value-based method of Accounting Standards Codification Topic 718 - Compensation - Stock Compensation Topic 718"). 
+
+Effective as of June 30, 2021, the Company granted 25,000 non-qualified stock options to Justice W. Anderson and 25,000 non-qualified stock options to James B. Anderson for exceeding certain performance standards in fiscal 2021, pursuant to the terms of their respective Restated and Amended Executive Employment Agreements dated July 1, 2020. Each of the options were granted on June 30, 2021 with a ten year term and have an exercise price of .373 per option. 
+
+F-10
+
+Additional information with respect to stock option activity is as follows: 
+
+Number of 
+
+			 Shares 
+
+Weighted Average 
+
+			 Exercise Price 
+
+Outstanding at June 30, 2019 
+
+65,000 
+
+0.17 
+
+Granted 
+
+- 
+
+- 
+
+Exercised 
+
+- 
+
+- 
+
+Cancelled 
+
+- 
+
+- 
+
+Outstanding at June 30, 2020 
+
+65,000 
+
+0.17 
+
+Granted 
+
+50,000 
+
+0.37 
+
+Exercised 
+
+- 
+
+- 
+
+Cancelled 
+
+- 
+
+- 
+
+Outstanding at June 30, 2021 
+
+115,000 
+
+0.26 
+
+Options exercisable at June 30, 2020 
+
+65,000 
+
+0.17 
+
+Options exercisable at June 30, 2021 
+
+115,000 
+
+0.26 
+
+Net Income Per Common Share 
+
+The Company computes net income per share in accordance with Accounting Standards Codification Topic 260 - Earnings per Share (Topic 260). Topic 260 requires presentation of both basic and diluted earnings per shares (EPS) on the face of the income statement. Basic EPS is computed by dividing net income available to common shareholders (numerator) by the weighted average number of common shares outstanding (denominator) during the period. Diluted EPS gives effect to all dilutive potential common shares outstanding during the period including stock options, using the treasury stock method, and convertible preferred stock, using the if-converted method. In computing diluted EPS, the average stock price for the period is used in determining the number of shares assumed to be purchased from the exercise of stock options. Diluted EPS excludes all dilutive potential common shares if their effect is anti-dilutive. 
+
+Subsequent Events 
+
+We have evaluated subsequent events through September 29, 2021, which is the date the financial statements were available to be issued. 
+
+NOTE B - INVENTORIES 
+
+Inventories consisted of the following: 
+
+June 30, 2021 
+
+June 30, 2020 
+
+Finished Goods 
+
+683,771 
+
+645,039 
+
+Raw Materials 
+
+170,567 
+
+160,242 
+
+854,338 
+
+805,281 
+
+At June 30, 2021 and 2020, respectively, 263,280 and 83,812 of our inventory was considered non-current as it will not be used within a one year period. 
+
+F-11
+
+NOTE C - PROPERTY AND EQUIPMENT 
+
+Property and equipment consisted of the following: 
+
+As of June 30, 2021 
+
+Owned 
+
+Capitalized Leases 
+
+Total 
+
+Office Equipment 
+
+223,018 
+
+0 
+
+223,018 
+
+Furniture and Fixtures 
+
+45,082 
+
+45,082 
+
+Software 
+
+26,021 
+
+26,021 
+
+Leasehold improvements 
+
+26,301 
+
+26,301 
+
+Production Equipment 
+
+26,249 
+
+26,249 
+
+Building 
+
+18,392 
+
+18,392 
+
+Land 
+
+0 
+
+0 
+
+0 
+
+365,063 
+
+0 
+
+365,063 
+
+Less accumulated depreciation 
+
+(255,788 
+
+0 
+
+(255,788 
+
+109,275 
+
+0 
+
+109,275 
+
+Depreciation expense was 43,331 for the year ended June 30, 2021. 
+
+As of June 30, 2020 
+
+Owned 
+
+Capitalized Leases 
+
+Total 
+
+Office Equipment 
+
+178,404 
+
+11,364 
+
+189,768 
+
+Furniture and Fixtures 
+
+40,304 
+
+40,304 
+
+Software 
+
+26,021 
+
+26,021 
+
+Leasehold Improvements 
+
+95,329 
+
+95,329 
+
+Production Equipment 
+
+25,452 
+
+25,452 
+
+Building 
+
+492,559 
+
+492,559 
+
+Land 
+
+64,547 
+
+64,547 
+
+922,616 
+
+11,364 
+
+933,980 
+
+Less accumulated depreciation 
+
+(469,761 
+
+(11,364 
+
+(481,125 
+
+452,855 
+
+0 
+
+452,855 
+
+Depreciation expense was 53,942 for the year ended June 30, 2020. 
+
+F-12
+
+NOTE D - INTANGIBLE ASSETS 
+
+On June 30, 2017, the Company acquired the formulation of its care lotion from its manufacturer for 17,000. The Company has determined that this asset has an indefinite useful life and therefore is not being amortized, but instead will be tested for impairment at least annually in accordance with the provisions of FASB ASC 350, Intangibles - Goodwill and Other. 
+
+NOTE E - ACCRUED EXPENSES 
+
+Accrued expenses consist of the following at June 30, 2021 and 2020. 
+
+2021 
+
+2020 
+
+Accrued Payroll 
+
+131,187 
+
+119,756 
+
+Accrued Paid Time Off 
+
+29,899 
+
+31,094 
+
+Accrued Professional Fees 
+
+50,916 
+
+49,278 
+
+Accrued Incentive Plan 
+
+55,398 
+
+51,746 
+
+Accrued Lease Liabiity 
+
+38,620 
+
+33,750 
+
+Other 
+
+9,861 
+
+3,842 
+
+Total 
+
+315,881 
+
+289,466 
+
+NOTE F - LINE OF CREDIT 
+
+In fiscal 2019, the Company entered into a new line of credit with a limit of 250,000 from a financial institution. At June 30, 2021 and June 30, 2020, the Company owed 0 on this line of credit. This line of credit was not renewed. 
+
+A new line of credit was procured in June 2021, with a new bank. The limit for this line of credit is 250,000 as well. Terms of the Line of credit include and an interest rate that fluctuates at prime plus a half of point, interest only. The line of credit matures on June 30, 2022. 
+
+Interest expense for the years ended June 30, 2021 and 2020 was 0 and 0, respectively. 
+
+The line of credit is guaranteed by Justice W. Anderson, President and Chief Executive Officer. 
+
+NOTE G - PAYCHECK PROTECTION PROGRAM LOAN 
+
+The Company applied for a loan with the Small Business Administration (the "SBA") Paycheck Protection Program ("PPP") of the Coronavirus Aid, Relief and Economic Security Act of 2020 (the "CARES Act") in the amount of 201,000 (the "Loan"). The Loan was funded on April 13, 2020. The Company used the proceeds of the Loan for covered payroll costs, rent and utilities in accordance with the relevant terms and conditions of the CARES Act. 
+
+F-13
+
+The Loan, which is evidenced by a promissory note (the "Note"), has a two-year term, matures on April 13, 2022, and bear interests at a rate of 1.00 per annum. Monthly principal and interest payments, less the amount of any potential forgiveness (discussed below), will commence seven months from the date the Note was signed and funded. The Company did not provide any collateral or guarantees for the Loan, nor did they pay any facility charge to obtain the Loan. The Note provides for customary events of default, including, among others, those relating to failure to make payment, bankruptcy, breaches of representations and material adverse effects. The Company may prepay the principal of the Loan at any time without incurring any prepayment charges. 
+
+The Loan may be forgiven partially or fully if the Loan proceeds are used for covered payroll costs, rent and utilities, provided that such amounts are incurred during the eight-week period that commenced on April 13, 2020. Any forgiveness of the Loan will be subject to approval by the SBA and will require the Companies to apply for such treatment. 
+
+The loan was forgiven in May of 2021. 
+
+NOTE H - COMMITMENTS AND CONTINGENCIES 
+
+The Company leases warehouse office space under operating leases expiring through year 2021. Lease expenses for the fiscal years ended June 30, 2021 and 2020 were 31,091 and 29,193, respectively. During the current fiscal year, the Company entered into a new lease for its office space, warehouse space and certain equipment. The minimum lease payments due under the lease agreements for fiscal years ended June 30, are as follows: 
+
+2022 
+
+177,915 
+
+2023 
+
+181,326 
+
+2024 
+
+184,805 
+
+2025 
+
+188,353 
+
+2026 
+
+141,062 
+
+873,461 
+
+NOTE I - STOCKHOLDERS EQUITY 
+
+During January 1995, the Company's Board of Directors authorized the issuance of up to 4,000,000 shares of Series A Cumulative Convertible Preferred Stock. The preferred stockholders are entitled to receive, if declared by the board of directors, quarterly dividends at an annual rate of .10 per share of Series A Cumulative Convertible Preferred Stock per annum. Dividends accrue without interest and are cumulative from the date of issuance of the Series A Cumulative Convertible Preferred Stock and are payable quarterly in arrears in cash or publicly traded common stock when and if declared by the board of directors. As of June 30, 2021, no dividends have been declared. Dividends in arrears on the outstanding preferred shares total 404,516 or approximately 2.42 per share as of June 30, 2021. So long as any shares of Series A Preferred Stock are outstanding, the Company is prohibited from declaring dividends or other distributions related to its Common Stock or purchasing, redeeming or otherwise acquiring any of the Common Stock. 
+
+F-14
+
+The preferred stockholders have the right to convert each share of Series A Cumulative Convertible Preferred Stock into one share of the Company's common stock at any time without additional consideration. Each share of Series A Cumulative Convertible Preferred Stock is subject to mandatory conversion into one share of common stock of the Company, effective as of the close of a public offering of the Company's common stock provided, however, that the offering must provide a minimum of 1 million in gross proceeds to the Company and the initial offering price of such common stock must be at least 1 per share. In addition to the rights described above, the holders of the Series A Cumulative Convertible Preferred Stock have voting rights equal to the common stockholders based upon the number of shares of common stock into which the Series A Cumulative Convertible Preferred Stock is convertible. The Company is obligated to reserve an adequate number of shares of its common stock to satisfy the conversion of all of the outstanding Series A Cumulative Convertible Preferred stock. 
+
+Share-based compensation expense recognized during the period is based on the value of the portion of share-based payment awards that is ultimately expected to vest. As share-based compensation expense recognized in the statement of operations is based on awards ultimately expected to vest, it can be reduced for estimated forfeitures. The ASC topic Stock Compensation requires forfeitures to be estimated at the time of grant and revised, if necessary, in subsequent periods if actual forfeitures differ from those estimates. The share based compensation charged against income for the periods ended June 30, 2021 and 2020 was 19,679 and 0 respectively. 
+
+The Black-Scholes option-pricing model, which values options based on the stock price at grant date, the expected life of the options, the estimated volatility of the stock and the risk free interest rate over the life of the option. The assumption used in the Black-Scholes model were as follows for the stock options granted for the year ended June 30, 2021. 
+
+Stock Price at Date of Grant 
+
+.373 
+
+Risk-free interest rate 
+
+1.41 
+
+Expected volatility of common stock 
+
+183.81 
+
+Dividend yield 
+
+0 
+
+Expected life of options (years) 
+
+10 
+
+NOTE J - EARNINGS PER SHARE 
+
+As required by Accounting Standards Codification Topic 260 - Earnings per Share Topic 260"), the following table sets forth the computation of basic and diluted earnings per share: 
+
+Years Ended June 30, 
+
+2021 
+
+2020 
+
+Numerator: 
+
+Net Income (Loss) 
+
+767,583 
+
+111,658 
+
+Adjustment for basic earnings per share: 
+
+Dividend requirements on preferred stock 
+
+(16,710 
+
+(16,710 
+
+Numerator for basic earnings per share- Net income available to common stockholders 
+
+750,873 
+
+94,948 
+
+Effect of dilutive securities: 
+
+Numerator for diluted earnings per share-Net income available to common stockholder 
+
+750,873 
+
+94,948 
+
+Denominator: 
+
+Denominator for basic earnings per share-Weighted-average common shares 
+
+8,087,388 
+
+8,087,388 
+
+Effect of dilutive securities: Stock options 
+
+65,136 
+
+65,000 
+
+Weighted-average Dilutive potential common shares 
+
+167,100 
+
+167,100 
+
+Denominator for dilutive earnings per share-Adjusted weighted-average shares and assumed conversions 
+
+8,319,624 
+
+8,319,488 
+
+Basic Net Income per share 
+
+0.09 
+
+0.01 
+
+Diluted Net Income per share 
+
+0.09 
+
+0.01 
+
+F-15
+
+NOTE K - INCOME TAXES AND AVAILABLE CARRYFORWARD 
+
+As of June 30, 2021, the Company had consolidated income tax net operating loss ("NOL") carryforward for federal income tax purposes of approximately 446,000. The NOL will expire in various years ending through the year 2035.The utilization of certain of the loss carryforwards are limited under Section 382 of the Internal Revenue Code. 
+
+The components of the provision for income taxes expenses are attributable to continuing operations as follows: 
+
+Year ended 
+
+			 June 30, 2021 
+
+Year ended 
+
+			 June 30, 2020 
+
+Current 
+
+Federal 
+
+- 
+
+- 
+
+State 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Deferred 
+
+Federal 
+
+(53,281 
+
+(40,109 
+
+State 
+
+(11,025 
+
+(8,298 
+
+(64,306 
+
+(48,407 
+
+F-16
+
+Deferred income taxes reflect the net tax effects of the temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. Significant components of the Company's deferred tax assets and liabilities are as follows: 
+
+Non-Current 
+
+Deferred tax assets: 
+
+NOL and contribution carryforwards 
+
+112,934 
+
+Share based payments 
+
+4,988 
+
+Lease Liabilities - operating leases 
+
+204,758 
+
+Accrued compensated absences 
+
+7,578 
+
+Accrued bonus 
+
+14,041 
+
+Allowance for doubtful accounts 
+
+2,384 
+
+346,683 
+
+Deferred tax (liabilities): 
+
+Right of use assets - operating leases 
+
+(223,630 
+
+Excess of tax over book depreciation 
+
+(27,485 
+
+Total deferred tax (liabilities) 
+
+(251,115 
+
+Net deferred tax asset (liability) 
+
+95,568 
+
+Valuation Allowance 
+
+- 
+
+Net deferred tax asset 
+
+95,568 
+
+The change in the valuation allowance is as follows: 
+
+June 30, 2021 
+
+- 
+
+June 30, 2020 
+
+(144,619 
+
+144,619 
+
+Income taxes for the years ended June 30, 2021 and 2020 differ from the amounts computed by applying the effective income tax rates of 25.35 to income before income taxes as a result of the following: 
+
+2021 
+
+2020 
+
+Expected benefit (provision) at US statutory rate 
+
+(174,963 
+
+(33,613 
+
+State income tax net of federal benefit (provision) 
+
+(36,201 
+
+(6,955 
+
+Nondeductible expense 
+
+(3,450 
+
+(6,412 
+
+Non Taxable Income 
+
+51,494 
+
+- 
+
+Change in estimates of losses carryforward 
+
+(45,805 
+
+(29,328 
+
+Change in valuation allowance 
+
+144,619 
+
+26,761 
+
+Other 
+
+- 
+
+1,140 
+
+Income tax benefit (expense) 
+
+(64,306 
+
+(48,407 
+
+F-17
+
+The earliest tax year still subject to examination by taxing jurisdictions is fiscal year June 30, 2018. 
+
+The Company performed a review of its uncertain tax positions in accordance with Accounting Standards Codification ASC 740-10 "Uncertainty in Income Taxes". In this regard, an uncertain tax position represents the Company's expected treatment of a tax position taken in a filed tax return, or planned to be taken in a future tax return, that has not been reflected in measuring income tax expense for financial reporting purposes. 
+
+During the year ended June 30, 2020, the Company obtained a 201,000 loan from the Small Business Administration SBA Paycheck Protection Program as a result of the Coronavirus Aid, Relief, and Economic Security Act ("CARES Act") enacted by Congress in response to the COVID-19 pandemic. Under the program, any loan forgiveness would be excluded from the borrower's taxable income. 
+
+NOTE L - CONCENTRATION OF SUPPLY RISK 
+
+The Company's manufacturing and packaging activities are performed at a production facility owned and operated by a non-affiliated pharmaceutical manufacturer. At the present time, the manufacturer is the major source of the Company s wound care products. The sudden loss or failure of this manufacturer could significantly impair AMERX s ability to fulfill customer orders on a short-term basis and therefore, could materially and adversely affect the Company s operations. However, the Company has maintained a long-term relationship with this manufacturer and does not expect a discontinuance of its wound care products from the manufacturer in the near term. The Company has also opened relationships with other manufactures to address supply risk. 
+
+There were no back orders as of June 30, 2021 and 2020, respectively, due to the timely receipt of product from the manufacturer. 
+
+NOTE M - MAJOR CUSTOMER 
+
+During the year ended June 30, 2021 sales from one customer accounted for approximately 10 of AMERX s sales. In fiscal 2020 no customers accounted for more then 10 of AMERX s sales. 
+
+F-18
+
+NOTE N - RESEARCH AND DEVELOPMENT 
+
+AMERX incurred 30,900 and 23,093 during the years ended June 30, 2021 and 2020, respectively, towards research and development efforts. These efforts were directed towards additional studies aimed at expanding existing markets, correcting issues with FDA compliance and manufacturing. 
+
+NOTE O - PANDEMIC HEALTH ISSUE 
+
+At the time of release of these financial statements, the United States continues to experience a National Emergency related to persistent health issues caused by the COVID-19 pandemic. Management is unable to quantify the potential duration and economic impact of mandated closures by our National, State or Local governments. 
+
+NOTE P - RIGHT-OF-USE ASSETS AND LEASE LIABILITIES 
+
+Operating Leases 
+
+In June 2015, the Company entered into a lease agreement to lease certain office equipment with a lease term of 63 months. The lease contains a renewal option to extend the term for successive one year periods. The Company is not reasonably certain that it will renew the lease when it expires. Initial rent amount was 1,079 per month, with increases each year no more than 3 . In applying ASC 842, the Company uses a lease term of 63 months and an incremental borrowing rate of 5.5 which was the borrowing rate on the Company s line of credit with a financial institution with all accounts and general intangibles. This lease expired in September 2020. As such, the right-of-use asset has been fully amortized and its related lease liability extinguished at September 30, 2020. 
+
+In February 2018, the Company entered in a lease agreement to lease warehouse space with a lease term of 39 months. The Company pays no rent for the first three months of the lease, pays 2,936 per month for the next 12 months, 3,024 per month for the next 8 months, 3,019 per month for the next 4 months, and 3,109 for the last 12 months. In applying ASC 842, the Company uses a lease term of 39 months and an incremental borrowing rate of 5.5 which was the borrowing rate on the Company s line of credit with a financial institution. 
+
+In August 2020, the Company entered into a lease agreement to lease certain office equipment with a lease term of 63 months. The lease renews on a month-to-month basis and contains an option to purchase the equipment at fair market value or return the equipment. Historically, the Company has not exercised the option to purchase at the end of the initial lease term for similar leases and simply returned the equipment at the end of the initial lease term. Initial rent amount was 574 per month. In applying ASC 842, the Company uses a lease term of 63 months and an incremental borrowing rate of 4.25 which was the borrowing rate on the Company s line of credit with a financial institution. 
+
+In January 2021, the Company entered in a lease agreement to lease warehouse space with a lease term of 64 months. The Company pays no rent for the first four months of the lease and pays 4,792.50 per month beginning the 5th month of the lease. Rent will increase each succeeding year by no less than 2 but not more than 5 . The rent amount includes common area maintenance charges which are considered nonlease components. In applying ASC 842, the Company is electing to account for nonlease components as being related to the lease component. In addition, the Company uses a lease term of 64 months and an incremental borrowing rate at prime rate of 3.25 which was the borrowing rate on the Company s recent line of credit with a financial institution. 
+
+F-19
+
+In January 2021, the Company entered in a lease agreement to lease office space with a lease term of 64 months. The Company pays no rent for the first four months of the lease and pays 9,372 per month beginning the 5th month of the lease. Rent will increase each succeeding year by no less than 2 but not more than 5 . The rent amount includes common area maintenance charges which are considered nonlease components. In applying ASC 842, the Company is electing to account for nonlease components as being related to the lease component. The Company also incurred initial direct cost of 114,083 related to existing improvements in the leased space. This initial direct cost has been included in determining the initial ROU asset and liability amounts. In addition, the Company uses a lease term of 64 months and an incremental borrowing rate at prime rate of 3.25 which was the borrowing rate on the Company s recent line of credit with a financial institution. 
+
+The following is information related to the Company s right-of-use assets and liabilities for its operating leases: 
+
+ROU assets - operating leases obtained in exchange for lease liabilities - operating leases 
+
+1,046,800 
+
+Amortization of ROU assets since lease inception 
+
+(164,455 
+
+ROU assets - operating leases at June 30, 2021 
+
+882,344 
+
+Lease liabilities - operating leases on adoption date 
+
+1,053,740 
+
+Payments on lease liabilities 
+
+(245,858 
+
+Lease liabilities - operating leases on June 30, 2021 
+
+807,882 
+
+Lease liabilities - operating leases due in the 12 months ending June 30, 2022 
+
+154,022 
+
+Lease liabilities - operating leases due after June 30, 2022 
+
+653,860 
+
+Variable lease expense was 133,531 and 46,666 for the years ended June 30, 2021 and 2020, respectively. 
+
+Weighted average remaining lease term was 4.74 years and weighted average discount rate was 3.29 at June 30, 2021. 
+
+NOTE Q - RECENT ACCOUNTING PRONOUNCEMENTS 
+
+In December 2019, the FASB issued Accounting Standards Update No. 2019-12, Income Taxes (Topic 740): Simplifying the Accounting/or Income Taxes {44ASU 2019-12"), which is intended to simplify various aspects related to accounting for income taxes. ASU 2019-12 removes certain exceptions to the general principles in Topic 740 and also clarifies and amends existing guidance to improve consistent application. ASU 2019-12 will be effective for interim and annual periods beginning after December 15, 2020. Early adoption is permitted. The Company is currently evaluating the potential impact of the adoption of the new standard on its consolidated statements of financial conditionand results of operations. 
+
+In June 2016, the F ASB issued Accounting Standards Update No. 2016-13, Financial Instruments - Credit Loss (Topic 326) {44ASU 2016-13"), which updates the guidance on recognition and measurement of credit losses for financial assets. The new requirements, known as the current expected credit loss model ("CECL ") will require entities to adopt an impairment model based on expected losses rather than incurred losses. ASU 2016-13 must be adopted on a modified-retrospective approach. This update was effective for fiscal years beginning after December 15, 2020 including interim periods within those fiscal years. In October 2019, the F ASB approved an extension for all non-SEC filers, including small reporting companies, to extend the effective date to fiscal years beginning after December 15, 2022, including interim periods within those fiscal years. Therefore, the effective date for this update will be July 1, 2023. The Company is currently evaluating the potential impact of the adoption of the new standard on its consolidated statements of financial condition and results of operations. 
+
+F-20
+
+<EX-10.5>
+ 2
+ ex_290051.htm
+ EXHIBIT 10.5
+
+ex_290051.htm 
+
+Exhibit 10.5 
+
+LOAN AGREEMENT 
+
+THIS LOAN AGREEMENT (the "Agreement") is made as of June 10, 2021, by and between PROCYON CORPORATION, a Colorado corporation ("Borrower"), whose address is 164 Douglas Road East, Oldsmar, Florida 34677, JUSTICE W. ANDERSON ("Guarantor") and FLAGSHIP BANK ("Lender"), whose address is 29750 US Hwy 19 North, Ste. 210, Clearwater, Florida 33761. 
+
+BACKGROUND 
+
+A. Borrower has requested that Lender make available to Borrower a loan in the original principal amount of Two Hundred Fifty Thousand and No/100 Dollars 250,000.00) (the "Loan"), the proceeds of which Loan shall be used to support working capital needs of Borrower. The Loan will be secured by a lien on the personal property of Borrower (the "Collateral"). 
+
+B. Lender has agreed to make the Loan to Borrower, upon the terms and conditions set forth below. 
+
+AGREEMENTS 
+
+NOW, THEREFORE, in consideration of the mutual promises herein made and Ten Dollars 10.00) and other valuable consideration, the receipt and sufficiency of which is acknowledged, Borrower and Lender agree as follows: 
+
+1. Background. The above background is true and correct and is incorporated into this Agreement by reference. 
+
+2. Loan. Lender agrees to make the Loan available to Borrower upon the terms and subject to the conditions set forth in this Agreement: 
+
+(a) Lender shall make the Loan available to Borrower upon the execution by Borrower of the Promissory Note dated the date hereof, in the principal amount of 250,000.00, made by Borrower to the order of Lender (the "Note"). The Note shall have an adjusting interest rate as described therein. Repayment of the Note shall be monthly payments of interest only. 
+
+(b) This Loan allows revolving advances and repayment. Therefore, Borrower may from time to time receive advances hereunder, repay said advances and subsequently reborrow amounts previously advanced and repaid. Lender may, in its sole discretion, make advances upon the written, telephonic or facsimile request of Borrower, and Lender is authorized to rely conclusively upon such requests when received from a person purporting to be Borrower or Borrower's authorized officer or representative. This Loan is subject to a 250.00 annual review fee for any year that the annual average usage is less than 50,000.00. 
+
+(c) All advances made under the Note shall be secured by a lien on the Collateral. 
+
+3. Term. The term of this Agreement shall be for a period beginning with the date hereof and terminating upon payment of all unpaid principal and accrued interest under the Note, unless sooner terminated pursuant to the terms of this Agreement. 
+
+4. Representations and Warranties. Borrower represents and warrants that: 
+
+(a) Financial Condition. All balance sheets, financial statements, profit and loss statements, and all other financial information heretofore furnished to Lender are true and correct and fairly reflect the financial condition of Borrower as of the dates thereof, including all contingent liabilities of every type and that the financial condition of Borrower as stated in the financial statements provided to Lender has not changed materially and adversely since the dates of such documents. 
+
+(b) Capacity and Standing. This Agreement, the Note, and any related documents executed pursuant to this Agreement, when executed, shall constitute valid and binding obligations of Borrower. Borrower warrants and represents that it is a duly organized and existing under the laws of the State of Colorado and is duly qualified and in good standing in every other state in which the nature of its business shall require such qualification, and is duly authorized to make and perform the obligations under the Note, this Agreement and any related documents executed pursuant to this Agreement (the Note, this Agreement, and any other related documents executed pursuant to this Agreement are hereinafter collectively referred to as the "Loan Documents"). 
+
+(c) Violation of Other Agreements. The execution of the Loan Documents and the performance of the undersigned pursuant to the Loan Documents will not violate any provision of law, or any agreement, indenture, note or other instrument binding upon Borrower or give cause for the acceleration of any obligations of Borrower. 
+
+(d) Authority. All authority from and approval by any governmental body, commission or agency, State or Federal, necessary to the making or validity of the Loan Documents has been obtained. 
+
+(e) Asset Ownership. Borrower has good and marketable title to all of the properties and assets reflected on the balance sheets and financial statements supplied Lender by it, and that all such properties and assets are free and clear of mortgages, security deeds, pledges, liens, charges, and all other encumbrances, except as otherwise disclosed by the financial statements submitted to Lender. 
+
+(f) Discharge of Liens and Taxes. Borrower has duly filed, paid and/or discharged all taxes or other claims which may become a lien on any of its property or assets, excepting to the extent that such items are being appropriately contested in good faith and an adequate reserve for the payment thereof is being maintained. 
+
+5. Affirmative Covenants. Borrower covenants and agrees that until payment in full of the principal of and interest on the Note, and its satisfaction of its obligations under this Agreement, unless Lender shall otherwise consent in writing, Borrower will: 
+
+(a) Business Continuity. To the best of its reasonable ability, conduct its business in substantially the same manner as such business is now and has heretofore been carried on and conducted. 
+
+(b) Corporate Existence and Properties. To the best of its reasonable ability, comply fully with all applicable statutes, laws and regulations, and maintain the corporate existence of itself and shall maintain, preserve and keep its property and assets in good repair, working order and condition, making all needed replacements, additions, improvements and renewals thereto, to the extent allowed by this Agreement. 
+
+(c) Access to Books and Records. In the event of a default, allow Lender, or its agents, during normal business hours to have access to the books, financial records and such other financial documents of Borrower as Lender shall reasonably require, and allow Lender to make copies thereof at Lender's expense which copies will be kept confidential by Lender. 
+
+(d) Insurance. Insure the Collateral with companies acceptable to Lender. Such insurance shall be in an amount not less than the fair market value of the Collateral and shall be against such casualties, with such deductible amounts as Lender shall approve. All insurance policies shall be written for the benefit of Borrower and Lender as their interests may appear, payable to Lender as loss payee, or in other form satisfactory to Lender, and such policies or certificates evidencing the same shall be furnished to Lender. All policies of insurance shall provide for written notice to Lender at least thirty (30) days prior to cancellation. Risk of loss or damage is Borrower's to the extent of any deficiency in any effective insurance coverage. 
+
+(e) Compliance with Other Agreements. Comply with all covenants, terms and conditions contained in this Agreement and any other agreements or instruments entered into pursuant to this Agreement. 
+
+6. Negative Covenants. Borrower covenants and agrees that until payment in full of the principal and interest on the Note, and Borrower's satisfaction of its obligations hereunder, unless Lender shall otherwise consent in writing, Borrower will not: 
+
+(a) Guarantees . Guarantee or otherwise become responsible for obligations of any other person, corporation, or entity excepting for the endorsement of negotiable instruments by Borrower, if any, in the ordinary course of business for collection. This covenant only applies to Borrower and does not apply to Guarantors, if any. 
+
+(b) Encumbrances . Create, assume, or permit to exist any mortgage, security deeds, pledge, lien, charge or other encumbrance on the Collateral, whether now owned or hereafter acquired, other than: (i) the lien of the Security Agreement; (ii) liens for taxes contested in good faith; and (iii) liens created by other obligations of Borrower to Lender. 
+
+(c) Change of Primary Ownership. Sell, assign, pledge or otherwise transfer the primary ownership of the ownership interests in the Borrower so as to result in a change of control in Borrower. 
+
+(d) Transfer of Interests . Sell, convey, assign, lease, pledge or otherwise transfer any of Borrower's interest in or to the Collateral. 
+
+7. Financial Covenants . 
+
+(a) Debt Service Coverage Ratio. Intentionally deleted. 
+
+(b) Tangible Net Worth. Intentionally deleted. 
+
+(c) Limitation on Debt. Borrower shall not, directly or indirectly, create, incur, assume or become liable for any additional indebtedness, whether contingent or direct, in excess of 100,000 without first notifying Lender. 
+
+(d) Financial Statements. For so long as any balance remain unpaid on the Note, Borrower shall at all times comply with the following financial reporting requirements unless Lender shall otherwise consent in writing: 
+
+Financial Instrument 
+
+Applicable Party 
+
+Reporting Frequency 
+
+CPA Prepared Reviewed Financial Statements 
+
+Borrower 
+
+On an annual basis within 120 days of fiscal year end 
+
+Tax Return 
+
+Borrower 
+
+Annually within 30 days of filing 
+
+Company Prepared Financial Statements 
+
+Borrower 
+
+Quarterly within 30 days of quarter end 
+
+Leases, Debt Schedule other financial information 
+
+Borrower 
+
+Upon request 
+
+(e) Deposit Accounts. Borrower shall maintain, for as long as the loan remains outstanding, its primary depository relationship with Lender. If Borrower is in default of this provision, the interest rate on the loan shall increase by one percentage (1 point retroactive from the date of Closing of (or of inactivity in) the depositing account. 
+
+Borrower shall deliver, promptly, such other information regarding the operation, business affairs, and financial condition of Borrower, which the Lender may reasonably request. 
+
+8. Events of Default . The following shall be events of default hereunder by Borrower (a "Default"): 
+
+(a) Any representation or warranty made in this Agreement shall prove to be false or misleading in any material respect; 
+
+(b) Any report, certificate (including but not limited to any certification of the correctness of the articles of incorporation or bylaws of any of the corporate entities which constitute Borrower), financial statement or other document furnished in connection with this Agreement or the loan made pursuant hereto, shall prove to be false or misleading in any material respect; 
+
+(c) Failure to make payment of any installment of principal or interest on the Note as and when due and payable (subject to applicable grace or cure period); 
+
+(d) Borrower shall otherwise default on the Note or any other obligation of Borrower to Lender when due or in the performance of any obligation incurred for money borrowed; or 
+
+(e) Breach of any covenant, condition, or agreement made by Borrower pursuant to the Loan Documents, or the occurrence of a default thereunder. 
+
+9. Remedies Upon Default. In the event of the occurrence of any Default, then Lender may at any time thereafter, at its option, take any or all of the following actions, at the same or different times: 
+
+(a) Declare the balance of the Note to be forthwith due and payable, both as to principal and interest, without presentment, demand, protest, or other notice of any kind, all of which are hereby expressly waived by Borrower, anything contained herein or in the Note to the contrary notwithstanding; and 
+
+(b) Exercise such other rights and remedies as Lender may be provided in the Note, the Security Agreement and any other Loan Documents executed pursuant to this Agreement, or as provided by law or equity. 
+
+10. Construction. Intentionally deleted. 
+
+11. Miscellaneous Provisions . 
+
+(a) Indirect Means . Any act which Borrower is prohibited from doing shall not be done indirectly through a subsidiary or by any other indirect means. 
+
+(b) Non-Impairment . If any one or more provisions contained in this Agreement or any other document executed pursuant to this Agreement shall be held invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions contained in this Agreement and the documentation executed pursuant hereto, shall not in any way be affected or impaired thereby and this Agreement shall otherwise remain in full force and effect. 
+
+(c) Applicable Law . This Agreement shall be construed in accordance with and governed by the laws of the State of Florida. 
+
+(d) Waiver . Neither the failure nor any delay on the part of Lender in exercising any right, power, or privilege granted pursuant to this Agreement shall operate as a waiver thereof, nor shall a single or partial exercise thereof preclude any other or further exercise or the exercise of any other right, power or privilege. 
+
+(e) Modification . No modification, amendment, or waiver of any provision of this Agreement shall be effective unless in writing and signed by Lender and Borrower, it being acknowledged by the parties hereto that all terms, conditions and covenants therein and herein contained are deemed to be material and relied upon by Lender and Borrower. 
+
+(f) Stamps and Fees . Borrower shall pay all federal or state stamps or taxes, or other fees and charges, if any, payable or determined to be payable by reason of the execution, delivery or issuance of this Agreement, the Note, the Security Agreement or any security granted to Lender, or the making of any advance from time to time, whether they be payable upon execution or recurring from time to time, Borrower agrees to indemnify and hold harmless Lender against any and all liability in respect therefor. 
+
+(g) Attorneys' Fees . In the event that Borrower shall default in any of its obligations under the Loan Documents, Lender believes it reasonably necessary or proper to employ an attorney to assist in the enforcement or collection of the indebtedness of Borrower to Lender or to enforce any other term or condition of any of the Loan Documents, or in the event Lender voluntarily or otherwise shall become a party to any suit or legal proceeding (including a proceeding conducted under bankruptcy Code), Borrower agrees to pay the reasonable attorneys' fees of Lender and all other costs that may reasonably be incurred by Lender. Borrower shall be liable for such attorneys' fees and costs whether or not any suit or proceeding is commenced (including costs for appellate proceedings, if any). 
+
+(h) Successors and Assigns . This Agreement shall be binding upon the parties and their respective successors and assigns. 
+
+(i) Counterpart Execution . This Agreement may be executed in any number of counterparts, each of which, when executed and delivered, shall be an original, and such counterparts together constitute one and the same instrument. Signature and acknowledgment pages may be detached from the counterparts and attached to a single copy of this document to physically form one document. 
+
+(j) Set Off . The Lender shall have a lien upon and a right of set-off against all deposits, monies, securities and other property of Borrower now or hereafter in the possession of, or on deposit with, the Lender, whether held in a general or special account for deposit, for safekeeping or otherwise. 
+
+IN WITNESS WHEREOF, Borrower and Lender have caused this Loan Agreement to be duly executed all as of the day and year first above written. 
+
+BORROWER: 
+
+PROCYON CORPORATION, a Colorado corporation 
+
+Print Name: 
+
+By: /s/ Justice W. Anderson 
+
+Print Name: 
+
+Justice W. Anderson, CEO 
+
+GUARANTOR: 
+
+Print Name: 
+
+/s/ Justice W. Anderson 
+
+Print Name: 
+
+JUSTICE W. ANDERSON 
+
+LENDER: 
+
+FLAGSHIP BANK 
+
+Print Name: 
+
+By: /s/ Robert G. Shaw 
+
+Print Name: 
+
+Robert G. Shaw, Executive Vice President 
+
+</EX-10.5>
+
+<EX-10.6>
+ 3
+ ex_290052.htm
+ EXHIBIT 10.6
+
+ex_290052.htm 
+
+Exhibit 10.6 
+
+PROMISSORY NOTE 
+
+250,000.00 
+			 June 10, 2021 
+
+Clearwater, Florida 
+
+FOR VALUE RECEIVED, PROCYON CORPORATION, a Colorado corporation (the "Borrower"), hereby promises to pay to the order of FLAGSHIP BANK, its successors and assigns (the "Lender"), at its mailing address of 29750 US Hwy 19 North, Clearwater, Florida 33761, or such other place as Lender shall designate in writing from time to time, the principal sum of up to Two Hundred Fifty Thousand and No/100 Dollars 250,000.00) (the "Loan"), in United States Dollars, together with interest thereon as hereinafter provided. 
+
+1. INTEREST RATE. 
+
+1.1 Commencing on the date hereof and continuing for the term of the Loan, Borrower shall pay interest on amounts advanced calculated at an annual rate of .50 in excess of the Wall Street Journal Prime Rate (the "Floating Rate"). 
+
+1.2 Interest shall be computed on an actual/360-day basis (i.e., interest for each day during which any amount remains outstanding hereunder shall be computed at the interest rate divided by 360). 
+
+2. PAYMENT OF PRINCIPAL AND INTEREST . 
+
+2.1 Borrower shall make "interest-only" payments on the then outstanding principal amount of this Note on the 10th day of each month beginning July 10, 2021, through and including June 10, 2026. 
+
+2.2 The entire unpaid principal amount hereof, together with accrued and unpaid interest thereon and all other amounts payable hereunder, shall be due and payable in full on demand. Notwithstanding the foregoing, if no demand is made by Lender prior thereto, the Loan shall be payable in full on June 10, 2026 (the "Maturity Date"). 
+
+2.3 This Note is subject to a 250.00 annual review fee for any year that the annual average usage is less than 50,000.00. 
+
+2.4 Payments shall be made by autodebit from Borrower's operating account with Lender. 
+
+3. REVOLVING FEATURE. This Promissory Note allows revolving advances and repayment. Therefore, Borrower may from time to time receive advances hereunder, repay said advances and subsequently reborrow amounts previously advanced and repaid. Lender may, in its sole discretion, make advances upon the written, telephonic or facsimile request of Borrower, and Lender is authorized to rely conclusively upon such requests when received from a person purporting to be Borrower or Borrower's authorized officer or representative. Nothing in this Note shall be construed to establish an obligation on the part of Lender to make an advance under this Note. 
+
+4. APPLICATION OF PAYMENTS. Except as otherwise specified herein, each payment or prepayment, if any, made under this Note shall be applied to pay accrued and unpaid interest, principal, late charges, escrows (if any), and any other fees, costs and expenses which Borrower is obligated to pay under this Note, in such order as Lender may elect from time to time in its sole discretion. 
+
+5. TENDER OF PAYMENT. All payments on this Note are payable on or before the due date thereof, at the office of Lender specified above and shall be credited on the date the funds become available lawful money of the United States. 
+
+6. LATE CHARGE. Default in making any payment will mature the entire obligation at the option of the holder, without notice or demand. In the event payments shall not be made promptly when due, and if, at the option of the Lender, late payments are accepted and they are more than ten (10) days late, the undersigned agrees to pay the holder a late charge of five percent (5.00 of each such unpaid installment or 10.00, whichever is greater. Waiver of any default and acceptance of late payment together with late charges due thereon, if applicable, shall not operate as a waiver of any other default or of the same default on a future occasion. 
+
+7. PREPAYMENT. The principal amount of this Note may be prepaid in whole or in part at any time, and from time to time, without premium or penalty. Any prepayment shall include accrued and unpaid interest to the date of prepayment on the principal amount prepaid and all other sums due and payable hereunder. Partial prepayments will be applied against required principal installments in the inverse order of their maturities. Therefore, partial prepayments will not affect the due date of any required installments under this Note until this Note is paid in full. 
+
+8. SECURITY FOR THE NOTE. 
+
+8.1 This Note is executed and delivered in accordance with a commercial transaction described in the Loan Agreement of even date herewith. As security for the payment of the monies owing under this Note, Borrower has delivered or has caused to be delivered to Lender the following (each a "Loan Document" and collectively with this Note and any other guaranty, document, certificate or instrument executed by Borrower or any other obligated party in connection with the Loan, together with all amendments, modifications, renewals or extensions thereof, the "Loan Documents"): (a) Security Agreement (the "Security Agreement"). 
+
+8.2 Borrower hereby grants to Lender a continuing security interest in all property of Borrower, now or hereafter in the possession of Lender, as security for the payment of this Note and any other liabilities of Borrower to Lender, which security interest shall be enforceable and subject to all the provisions of this Note, as if such property were specifically pledged hereunder. 
+
+9. DEFAULT RATE . From and after the Maturity Date or from and after expiraton of any curative period regarding the occurrence of an Event of Default hereunder, irrespective of any declaration of maturity, all amounts remaining unpaid or thereafter accruing hereunder, shall bear interest at the highest rate allowed by law, not to exceed eighteen (18.0 percent per annum (the "Default Rate"). Such default rate of interest shall be payable upon demand, but in no event later than when scheduled interest payments are due, and shall also be charged on the amounts owed by Borrower to Lender pursuant to any judgments entered in favor of Lender with respect to this Note. 
+
+10. EVENTS OF DEFAULT . If any one or more of the following events (herein called "Events of Default") shall occur for any reason whatsoever (and whether such occurrences shall be voluntary or involuntary, or come about or be effected by operation of law or pursuant to or in compliance with any judgment, decree or order of any court, or any order, rule or regulation of any administrative or governmental body) and not be cured within the applicable cure period set forth in Section 10 herein, then Lender shall be entitled to the remedies set forth in said Section 10. The Events of Default shall include, but not be limited to, the following: 
+
+(a) Any representation or warranty made herein or in any report, certificate, financial statement or other instrument furnished in connection with this Agreement, or the borrowing hereunder shall prove to be false or misleading in any material respect; 
+
+(b) Default shall occur in the payment of interest or principal on any indebtedness referred to herein, specifically including the Note, when and as the same shall become due and payable, whether at the due date thereof or by acceleration or otherwise, or failure of the Borrower to make payment of principal or interest on any other obligation for borrowed money beyond any period of grace provided with respect thereto, or in the performance of any other agreement, term or condition contained in any agreement under which any such obligation is created, if the effect of such default is to cause or permit the holder or holders of such obligation to accelerate the maturity thereof; 
+
+(c) Any default shall occur in the due observance or performance of any covenant, agreement or other provision of this Agreement or the Security Agreement referred to above other than for the payment of money; 
+
+(d) The Borrower or any Guarantor of the Loan (collectively the "Borrower Group") shall: (i) apply for or consent to the appointment of a receiver, trustee in bankruptcy for benefit of creditors, or liquidator of it or any of its property; (ii) admit in writing its inability to pay its debts as they mature; (iii) make a general assignment for the benefit of creditors; (iv) be adjudicated a bankrupt or insolvent; (v) file a voluntary petition in bankruptcy, or a petition or an answer seeking reorganization or an arrangement with creditors, or seeking to take advantage of any bankruptcy, reorganization, insolvency, readjustment of debt, dissolution or liquidation law or statute or an answer admitting an act of bankruptcy alleged in a petition filed against it in any proceeding under any such law; or (vi) take any action for the purposes of effecting any of the foregoing; 
+
+(e) An order, judgment or decree shall be entered against the Borrower with the application, approval or consent of the entity by any court of competent jurisdiction, approving a petition seeking its reorganization or appointing a receiver, trustee or liquidator of any such party, or of all or a substantial part of the assets thereof, and such order, judgment or decree shall continue unstayed and in effect for any period of sixty (60) days from the date of entry thereof; 
+
+(f) Final judgments for the payment of money in excess of an aggregate of 50,000.00, excluding claims covered by insurance, shall be rendered against the Borrower and the same shall remain undischarged for a period of thirty (30) consecutive days during which execution shall not be effectively stayed, provided that a judgment shall be deemed "final" only when the time for appeal shall have expired without an appeal having been claimed, or all appeals and further review claimed to have been determined adversely to the Borrower; 
+
+(g) A material adverse change in the financial condition of the Borrower; or 
+
+ (h) A default in or breach of any covenant in the Security Agreement. 
+
+11. REMEDIES. Upon the occurrence of any such Event of Default and after ten (10) days written notice and opportunity to cure has been provided to Borrower with respect to a monetary default and after thirty (30) days (or such longer period as may be necessary under the circumstances, provided Borrower is diligently pursuing its efforts to cure) written notice and opportunity to cure has been provided to Borrower as to all other defaults, Lender may, at its option, declare all indebtedness of principal and interest due and payable, whereupon this Note shall be immediately due and payable, and Lender shall have and may exercise from time to time any and all rights and remedies available to it under any applicable law; and Borrower shall promptly pay all costs of Lender of collection of any and all liabilities, and enforcement of rights hereunder, including reasonable attorneys' fees, and legal expenses of any repairs to any of the collateral, and expenses of repairs to any realty or other property to which any of the collateral may be affixed. Expenses of retaking, holding, preparing for sale, selling, or the like, shall include Lender's reasonable attorney's fees and legal expenses. Upon disposition by Lender of any property of Borrower in which Lender has a security interest, Borrower shall be and remain liable for any deficiency, and Lender shall account to Borrower for any surplus, and to hold the same as a reserve against all or any liabilities of Borrower to Lender whether or not they, or any of them be then due, and in such order of application as Lender may, from time to time, elect. All rights, powers and remedies contained herein or in any other agreement, instrument or document executed in connection herewith are cumulative. As to any default other than failure to pay sums due to Lender, and so long as the Lender's security is not impaired as determined in Lender's sole discretion, the afore-referenced curative period will be extended as long as Borrower is exercising reasonable good faith and diligence in curing such incident of default. As to any default other than failure to pay sums due to Lender, and so long as the Lender's security is not impaired as determined in Lender's sole discretion, the afore-referenced curative period will be extended as long as Borrower is exercising reasonable good faith and diligence in curing such incident of default. 
+
+12. MISCELLANEOUS. 
+
+12.1 Disclosure of Financial Information. Lender is hereby authorized to disclose any financial or other information about Borrower to any regulatory body or agency having jurisdiction over Lender and to any present, future or prospective participant or successor in interest in any loan or other financial accommodation made by Lender to Borrower. The information provided may include, without limitation, amounts, terms, balances, payment history, return item history and any financial or other information about Borrower. 
+
+12.2 Integration. This Note and the other Loan Documents constitute the sole agreement of the parties with respect to the transaction contemplated hereby and supersede all oral negotiations and prior writings with respect thereto. 
+
+12.3 Attorneys' Fees and Expenses. If Lender retains the services of counsel by reason of a claim of a default or an Event of Default hereunder or under any of the other Loan Documents, or on account of any matter involving this Note, or for examination of matters subject to Lender's approval under the Loan Documents, all costs of suit and all reasonable attorneys' fees and such other reasonable expenses so incurred by Lender shall be paid by Borrower, on demand, and shall be deemed part of the obligations evidenced hereby. In the event suit is filed, Lender shall only be entitled to attorneys fees if it is the prevailing party. 
+
+12.4 No Implied Waiver. Lender shall not be deemed to have modified or waived any of its rights or remedies hereunder unless such modification or waiver is in writing and signed by Lender, and then only to the extent specifically set forth therein. A waiver in one event shall not be construed as continuing or as a waiver of or bar to such right or remedy in a subsequent event. After any acceleration of, or the entry of any judgment on, this Note, the acceptance by Lender of any payments by or on behalf of Borrower on account of the indebtedness evidenced by this Note shall not cure or be deemed to cure any Event of Default or reinstate or be deemed to reinstate the terms of this Note absent an express written agreement duly executed by Lender and Borrower. 
+
+12.5 Waiver. Except as otherwise set forth herein, Borrower waives demand, notice, presentment, protest, demand for payment, notice of dishonor, notice of protest and diligence of collection of this Note. Borrower consents to any and all extensions of time, renewals, waivers, or modifications that may be granted by Lender with respect to the payment or other provisions of this Note, and to the release of any collateral, with or without substitution. Borrower agrees that makers, endorsers, guarantors and sureties may be added or released without notice and without affecting Borrower's liability hereunder. The liability of Borrower shall not be affected by the failure of Lender to perfect or otherwise obtain or maintain the priority or validity of any security interest in any collateral. The liability of Borrower shall be absolute and unconditional and without regard to the liability of any other party hereto. 
+
+12.6 No Usurious Amounts. Anything herein contained to the contrary notwithstanding, it is the intent of the parties that Borrower shall not be obligated to pay interest hereunder at a rate which is in excess of the maximum rate permitted by law. If by the terms of this Note, Borrower is at any time required to pay interest at a rate in excess of such maximum rate, the rate of interest under this Note shall be deemed to be immediately reduced to such maximum legal rate and the portion of all prior interest payments in excess of such maximum legal rate shall be applied to and shall be deemed to have been payments in reduction of the outstanding principal balance, unless Borrower shall notify Lender, in writing, that Borrower elects to have such excess sum returned to it forthwith. Borrower agrees that in determining whether or not any interest payable under this Note exceeds the highest rate permitted by law, any non-principal payment, including without limitation, late charges, shall be deemed to the extent permitted by law to be an expense, fee or premium rather than interest. In addition, Lender may, in determining the maximum rate of interest allowed under applicable law, as amended from time to time, take advantage of: (i) the rate of interest permitted by Section 687.12 Florida Statues ("Interest rates; parity among licensed Banks or creditors") and 12 United States Code, Sections 85 and 86, and (ii) any other law, rule or regulation in effect from time to time, available to Lender which exempts Lender from any limit upon the rate of interest it may charge or grants to Lender the right to charge a higher rate of interest than allowed by Florida Statutes, Chapter 687. 
+
+12.7 Partial Invalidity. The invalidity or unenforceability of any one or more provisions of this Note shall not render any other provision invalid or unenforceable. In lieu of any invalid or unenforceable provision, there shall be added automatically a valid and enforceable provision as similar in terms to such invalid or unenforceable provision as may be possible. 
+
+12.8 Binding Effect. The covenants, conditions, waivers, releases and agreements contained in this Note shall bind, and the benefits thereof shall inure to, the parties hereto and their respective heirs, executors, administrators, successors and assigns; provided, however, that this Note cannot be assigned by Borrower without the prior written consent of Lender, and any such assignment or attempted assignment by Borrower shall be void and of no effect with respect to Lender. 
+
+12.9 Modifications. This Note may not be supplemented, extended, modified or terminated except by an agreement in writing signed by the party against whom enforcement of any such waiver, change, modification or discharge is sought. 
+
+12.10 Sales or Participations. Lender may from time to time sell or assign, in whole or in part, or grant participations in the Loan, this Note and/or the obligations evidenced thereby. The holder of any such sale, assignment or participation, if the applicable agreement between Lender and such holder so provides, shall be: (a) entitled to all of the rights, obligations and benefits of Lender; and (b) deemed to hold and may exercise the rights of setoff or Lender's lien with respect to any and all obligations of such holder to Borrower, in each case as fully as though Borrower were directly indebted to such holder. Lender may, in its discretion, give notice to Borrower of such sale, assignment or participation; however, the failure to give such notice shall not affect any of Lender's or such holder's rights hereunder. 
+
+12.11 Jurisdiction. Borrower irrevocably appoints each and every owner, partner and/or officer of Borrower as its attorneys upon whom may be served, by regular or certified mail at the address set forth below, any notice, process or pleading in any action or proceeding against it arising out of or in connection with this Note or any other Loan Document; and Borrower hereby consents that any action or proceeding against it be commenced and maintained in any court within the State of Florida by service of process on any such owner, partner and/or officer; and Borrower agrees that the courts of such State shall have jurisdiction with respect to the subject matter hereof and the person of Borrower. Borrower agrees not to assert any defense to any action or proceeding initiated by Lender based upon improper venue or inconvenient forum. 
+
+12.12 Notices. All notices and communications under this Note shall be in writing and shall be given by either (a) hand-delivery, (b) first class mail (postage prepaid), or (c) reliable overnight commercial courier (charges prepaid), to the addresses listed in the Mortgage. Notice shall be deemed to have been given and received: (i) if by hand delivery, upon delivery; (ii) if by mail, three (3) calendar days after the date first deposited in the United States mail; and (iii) if by overnight courier, on the date scheduled for delivery. A party may change its address by giving written notice to the other party as specified herein. 
+
+12.13 Governing Law. This Note shall be governed by and construed in accordance with the substantive laws of the State of Florida without reference to conflict of laws principles. 
+
+12.14 Joint and Several Liability. If Borrower or Guarantor consists of more than one person or entity, the word "Borrower" or "Guarantor" shall mean each of them and their liability shall be joint and several. 
+
+12.15 Continuing Enforcement . If, after receipt of any payment of all or any part of this Note, Lender is compelled or agrees, for settlement purposes, to surrender such payment to any person or entity for any reason (including, without limitation, a determination that such payment is void or voidable as a preference or fraudulent conveyance, an impermissible setoff, or a diversion of trust funds), then this Note and the other Loan Documents shall continue in full force and effect or be reinstated, as the case may be, and Borrower shall be liable for, and shall indemnify, defend and hold harmless Lender with respect to, the full amount so surrendered. The provisions of this Section shall survive the cancellation or termination of this Note and shall remain effective notwithstanding the payment of the obligations evidenced hereby, the release of any security interest, lien or encumbrance securing this Note or any other action which Lender may have taken in reliance upon its receipt of such payment. Any cancellation, release or other such action shall be deemed to have been conditioned upon any payment of the obligations evidenced hereby having become final and irrevocable. 
+
+12.16 Waiver of Jury Trial . BORROWER AND LENDER AGREE THAT, TO THE EXTENT PERMITTED BY APPLICABLE LAW, ANY SUIT, ACTION OR PROCEEDING, WHETHER CLAIM OR COUNTERCLAIM, BROUGHT BY LENDER OR BORROWER, ON OR WITH RESPECT TO THIS NOTE OR ANY OTHER LOAN DOCUMENT OR THE DEALINGS OF THE PARTIES WITH RESPECT HERETO OR THERETO, SHALL BE TRIED ONLY BY A COURT AND NOT BY A JURY. LENDER AND BORROWER HEREBY KNOWINGLY, VOLUNTARILY, INTENTIONALLY AND INTELLIGENTLY AND WITH THE ADVICE OF THEIR RESPECTIVE COUNSEL, WAIVE, TO THE EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT TO A TRIAL BY JURY IN ANY SUCH SUIT, ACTION OR PROCEEDING. FURTHER, BORROWER WAIVES ANY RIGHT IT MAY HAVE TO CLAIM OR RECOVER, IN ANY SUCH SUIT, ACTION OR PROCEEDING, ANY SPECIAL, EXEMPLARY, PUNITIVE, CONSEQUENTIAL OR OTHER DAMAGES OTHER THAN, OR IN ADDITION TO, ACTUAL DAMAGES. BORROWER ACKNOWLEDGES AND AGREES THAT THIS SECTION IS A SPECIFIC AND MATERIAL ASPECT OF THIS NOTE AND THAT LENDER WOULD NOT EXTEND CREDIT TO BORROWER IF THE WAIVERS SET FORTH IN THIS SECTION WERE NOT A PART OF THIS NOTE. 
+
+IN WITNESS WHEREOF, Borrower intending to be legally bound, has duly executed and delivered this Note as of the day and year first above written. 
+
+PROCYON CORPORATION, a Colorado corporation 
+
+By: 
+
+/s/ Justice W. Anderson 
+
+Justice W. Anderson, CEO 
+
+</EX-10.6>
+
+<EX-31.1>
+ 4
+ ex_289477.htm
+ EXHIBIT 31.1
+
+ex_289477.htm 
+
+Exhibit 31.1 
+CERTIFICATION 
+
+I, Justice W. Anderson, the Chief Executive Officer of Procyon Corporation, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of Procyon Corporation; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: October 8, 2021 
+
+/s/ Justice W. Anderson 
+
+ Justice W. Anderson 
+
+ Chief Executive Officer/President 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ ex_289478.htm
+ EXHIBIT 31.2
+
+ex_289478.htm 
+
+Exhibit 31.2 
+CERTIFICATION 
+
+I, James B. Anderson, the Chief Financial Officer of Procyon Corporation, certify that: 
+
+1. I have reviewed this annual report on Form 10-K of Procyon Corporation; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: October 8, 2021 
+
+/s/ James B. Anderson 
+
+ James B. Anderson 
+
+ Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ ex_289479.htm
+ EXHIBIT 32.1
+
+ex_289479.htm 
+
+Exhibit 32.1 
+
+Certification Pursuant to18 U.S.C. 1350, 
+As Adopted Pursuant to Section 906 
+of the Sarbanes-Oxley Act of 2002 
+
+In connection with the Annual Report of Procyon Corporation (the Company on Form 10-K for the year ended June 30, 2021 as filed with the Securities and Exchange Commission on the date hereof (the Report ), we, the undersigned Chief Executive Officer and Chief Financial Officer of the Company, do certify, to our knowledge, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+
+Dated: October 8, 2021 
+
+/s/ Justice W. Anderson 
+
+ Justice W. Anderson 
+
+ Chief Executive Officer/President 
+
+/s/ James B. Anderson 
+
+ James B. Anderson 
+
+ Chief Financial Officer 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 7
+ pcyn-20210630.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ pcyn-20210630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ pcyn-20210630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ pcyn-20210630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ pcyn-20210630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ pcyn-20210630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+
